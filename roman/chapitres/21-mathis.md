@@ -48,13 +48,14 @@ Avant de partir, il fouilla dans la poche de son anorak et posa sur la table un 
 
 — C'est pour elle, dit-il. L'autre dame. Je ramasse des cailloux sur la grève. Chacun a une histoire, il faut juste attendre qu'il la raconte. Celui-là, il attend depuis longtemps.
 
+— Et le monsieur du barrage, ton papa, dans ses yeux il y en a plein. Des dames. Toutes pareilles, avec les cheveux courts. Elles regardent par la fenêtre. Des fois elles pleurent. Sauf une, tout au fond, avec des cheveux longs. C'est la plus vieille. Elle dort tout le temps. Quand elle se réveille, elle appelle sa maman.
+
+Il referma la porte derrière lui.
+
 Sophia apprit plus tard, par Corinne, que Mathis avait une boîte à chaussures pleine de cailloux classés par couleur, et dans la même boîte une carte postale de Marseille, la seule que son père lui ait jamais envoyée, qu'il ne relisait pas mais qu'il ne jetait pas. Elle apprit que la seule adulte qui l'écoutait vraiment, au village, était Martine Pradel, l'ancienne institutrice, qui lui donnait des cours de soutien le mercredi et qui lui avait dit un jour : *Les gens qui voient des choses, il faut les écrire, Mathis. Comme ça, plus tard, personne ne pourra te dire que tu les as inventées.*
 
 Le caillou resta sur la table de la cuisine, à côté du carnet. Le lendemain matin, Sophia le trouva posé sur la page noire, comme un presse-papier.
 
-— Et le monsieur du barrage, ton papa, dans ses yeux il y en a plein. Des dames. Toutes pareilles, avec les cheveux courts. Elles regardent par la fenêtre. Des fois elles pleurent. Sauf une, tout au fond, avec des cheveux longs. C'est la plus vieille. Elle dort tout le temps. Quand elle se réveille, elle appelle sa maman.
-
-Il referma la porte derrière lui.
 ---
 
 Le samedi, elle l'emmena ramasser des cailloux.
