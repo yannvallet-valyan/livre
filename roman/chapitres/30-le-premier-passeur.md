@@ -1,4 +1,4 @@
-# Chapitre 24 — Le premier Passeur
+# Chapitre 26 — Le premier Passeur
 
 *(premier jet)*
 
@@ -61,6 +61,20 @@ Elle pensa : *c'est moi qui le lui ai appris.*
 — Et aucune n'a jamais fait autrement ?
 
 — Nous ne savons pas, dit-il. Celles qui font autrement ne tombent pas jusqu'ici. Nous ne connaissons que celles qui brisent.
+
+Il hésita, puis ajouta, plus bas, comme on avoue une chose dont on a honte pour quelqu'un d'autre :
+
+— Il y a un tour dont nous nous souvenons à peine. Comme d'un rêve qu'on aurait fait quelqu'un d'autre. Un tour où vous n'avez pas tenu, l'homme aux étoiles et toi. Une nuit d'octobre trop froide. Une cuisine. Les règles, toutes, l'une après l'autre. Au matin, elle s'est réveillée dans un lit qu'elle n'avait pas choisi. Elle a eu peur. Elle a quitté le docteur, la vallée, tout. Il n'y a pas eu d'Anne.
+
+Élise sentit le sol se dérober.
+
+— Et alors ?
+
+— Et alors, ce tour-là, personne n'est venu de 2137. Pas de Passeuse. Personne pour tomber en nous. Le cristal a attendu seul, et la Rouille est venue quand même, plus tard, autrement. Nous ne savons pas ce que deviennent ceux qui n'ont pas existé. Nous ne savons même pas si on peut dire qu'ils sont devenus quelque chose.
+
+Il la regarda avec une infinie douceur.
+
+— Il ne le sait pas, lui. Ne l'aime pas moins pour ça. Aime-le autrement.
 
 — Toutes en même temps ?
 

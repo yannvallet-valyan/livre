@@ -1,4 +1,4 @@
-# Chapitre 13 — La galerie
+# Chapitre 14 — La galerie
 
 *(premier jet)*
 

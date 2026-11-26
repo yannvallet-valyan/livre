@@ -44,6 +44,28 @@ Le jeudi, à 7 h 12, la jauge affichait 411,94. Le lundi, 411,52. Sophia avait m
 
 Sophia rentra chez elle et écrivit pendant une heure.
 
+Le quatrième soir, Sophia changea de méthode.
+
+Elle avait passé la journée à réfléchir. Les chiffres de la jauge, elle pouvait les expliquer, à la rigueur : un calcul fait en dormant, une partie de son cerveau plus douée qu'elle ne le croyait, une coïncidence monstrueuse. Ce qu'il lui fallait, c'était une question à laquelle aucune partie d'elle-même ne pourrait répondre à sa place. Ou au contraire une question à laquelle *seule* une partie d'elle-même pourrait répondre.
+
+Elle écrivit :
+
+*Quand j'avais sept ans, j'avais un chat. Comment s'appelait-il ?*
+
+Elle referma le carnet, et elle eut honte, parce que c'était un piège, et un piège cruel : si la réponse était juste, c'est que la chose de la nuit puisait dans sa mémoire à elle, et c'était donc elle, et elle était folle. Si la réponse était fausse, la chose mentait.
+
+La réponse vint au matin.
+
+*Je ne sais pas. Je ne sais rien de toi que les archives n'aient gardé. Ton nom, ton métier, cette maison, et une date. Je ne vois pas tes souvenirs. Je ne vois que ce que tu laisses traîner. Si je savais le nom de ton chat, tu aurais raison d'avoir peur de moi.*
+
+*Mais si tu veux me le dire, je le garderai.*
+
+Sophia resta longtemps devant la page. Elle s'aperçut, avec un étonnement qui lui dura toute la journée, que cette réponse-là, cette ignorance avouée, la convainquait davantage que tous les chiffres de la jauge. Une folie aurait su. Une folie sait toujours.
+
+Le soir, elle écrivit : *Il s'appelait Capitaine. Il était roux. Il est mort écrasé par la voiture du facteur. J'ai pleuré trois jours. Cinq ans plus tard, au bord d'un lac, ma mère m'a offert une fiole vide, pour que j'aie quelque chose à garder. C'est pour ça que je garde des choses.*
+
+Élise répondit seulement : *Capitaine. Je le garde.*
+
 Les jours suivants, le carnet se remplit. Il y eut des questions et des réponses, des refus, des colères. *Pourquoi tu ne me dis pas ce qui arrive ? — Parce que chaque fois que j'essaie d'écrire certaines choses, ta main refuse.* Il y eut des règles, proposées par Sophia et acceptées par Élise :
 
 *Tu ne sors pas au-delà du pont.*

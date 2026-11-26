@@ -1,4 +1,4 @@
-# Chapitre 22 — Le financeur
+# Chapitre 24 — Le financeur
 
 *(premier jet)*
 

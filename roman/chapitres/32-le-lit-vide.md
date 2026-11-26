@@ -1,4 +1,4 @@
-# Chapitre 25 — Le lit vide
+# Chapitre 27 — Le lit vide
 
 *(premier jet)*
 

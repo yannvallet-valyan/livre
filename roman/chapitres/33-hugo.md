@@ -1,4 +1,4 @@
-# Chapitre 26 — Hugo
+# Chapitre 28 — Hugo
 
 *(premier jet)*
 

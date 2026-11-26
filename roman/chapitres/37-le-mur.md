@@ -1,4 +1,4 @@
-# Chapitre 29 — Le mur
+# Chapitre 32 — Le mur
 
 *(premier jet)*
 

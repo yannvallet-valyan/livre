@@ -174,3 +174,16 @@ Personne n'est méchant.
 **Autres ajouts :**
 - La mort de Martine Pradel, le 25 octobre : le cristal appelle les dormeurs.
 - Hugo, l'ancêtre de Noé, manque de se noyer dans la nuit du 8 au 9 novembre.
+
+
+## 9. L'amour des voyageurs et son danger (révision 4)
+
+- **Le risque concret :** Anne doit être conçue par Sophia et Étienne une nuit précise (le 6 novembre), choisie par eux.
+  - Si les voyageurs rapprochent les corps, Sophia se réveille dans un lit qu'elle n'a pas choisi. Elle a peur et fuit, ou bien elle vient trop tôt à Étienne.
+  - Dans les deux cas, ce n'est plus Anne. La lignée d'Élise (Jeanne, Paul, Élise, Iris) s'efface.
+- **Le précédent :** dans un tour passé, Élise et Noé ont brisé leurs règles. Il n'y a pas eu d'Anne, ni de Passeuse ce tour-là. La Rouille est venue quand même, plus tard. Les Élise d'Anselme s'en souviennent « comme d'un rêve ».
+- **Les règles d'archivistes** (ch. « Les lentilles ») : pas les maisons, pas les mains, pas les visages, pas les lits, pas les noms. Il reste le barrage, le ciel et les mots.
+  - Elles sont brisées dans cet ordre : la maison (le froid), les mains (la galerie, le barrage), le lit (le réveil du 7 novembre, sans geste), les noms (le lavoir).
+- **Les fuites :** ce que vivent les voyageurs passe en partie chez leurs hôtes. Sophia compte, dit « aubépine » et cherche Orion. Étienne se réveille « amoureux d'une femme aux cheveux courts ». C'est ce qui provoque la jalousie et la dispute du jour (ch. « Quatre »).
+- **Les indices de Noé :** les lentilles au cumin trop salées, le geste de tenir les objets entre le pouce et le majeur, le compte à 37 où sa main trouvait la sienne dans le noir.
+- **La forme finale de leur amour :** laisser la place. « Après, eux, ils pourront. »

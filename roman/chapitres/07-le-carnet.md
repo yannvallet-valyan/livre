@@ -60,6 +60,16 @@ Elle attendit que la douleur passe. Elle ne réessaya pas. Elle signa d'une seul
 
 ---
 
+Avant d'écrire la vraie page, elle s'était entraînée.
+
+Pendant trois nuits, elle avait pris dans la corbeille de Sophia des enveloppes ouvertes, des prospectus, des tickets de caisse, et elle avait écrit au dos, avec le stylo de la pharmacie, de la main gauche, en serrant les dents. Des lettres d'abord, une par une, comme à l'école du refuge. Puis des mots. Puis des phrases. La main de Sophia savait écrire, mais elle voulait écrire *à sa façon* : vite, en penchant vers l'avant, en avalant la fin des mots. Élise voulait écrire lentement. Chaque fois, il y avait une sorte de lutte silencieuse entre les deux, au bout des doigts, et l'écriture qui en sortait n'était ni celle de Sophia ni la sienne. Une troisième. Lente, appliquée, comme celle d'une enfant qui recopie un modèle.
+
+Elle brûlait ensuite les papiers un à un, dans l'évier, avec les allumettes de la cuisinière, et ouvrait la fenêtre pour chasser l'odeur.
+
+La deuxième nuit, en recopiant des mots au hasard pour s'habituer, elle avait écrit, sans le décider, sur le dos d'une facture d'électricité : *Iris*. Quatre lettres, nettes, bien formées, les plus belles de la nuit. Elle les avait regardées longtemps. Puis elle avait brûlé la facture, elle aussi, et elle était restée devant l'évier jusqu'à ce que le papier ne soit plus qu'une petite feuille noire et tordue qui gardait encore, en gris plus clair, la forme des lettres.
+
+Dans la bibliothèque, on écrivait peu, et au crayon, pour pouvoir effacer et réutiliser le papier. Écrire à l'encre, quelque chose qui ne s'efface pas, à quelqu'un qui est vivant, lui paraissait une audace presque obscène. Elle s'y habitua, comme on s'habitue au froid.
+
 Il restait une heure avant l'aube. Elle aurait dû aller se coucher, rendre le corps à sa propriétaire, comme on rend un manteau emprunté.
 
 Elle alla plutôt à la fenêtre.

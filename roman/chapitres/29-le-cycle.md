@@ -1,4 +1,4 @@
-# Chapitre 23 — Le cycle
+# Chapitre 25 — Le cycle
 
 *(premier jet)*
 
@@ -27,6 +27,14 @@ Ils restèrent figés, chacun dans un corps qui n'était pas le sien, à quelque
 — Je ne bouge pas.
 
 — Je vais me lever. Je vais me lever lentement. D'accord ?
+
+Elle ne bougeait pas, pourtant. Ni lui. Ils restèrent encore un instant immobiles, et Élise comprit en même temps que lui, elle le sentit au changement de sa respiration, ce que ce lit voulait dire. La chaleur sous le drap. Les vêtements éparpillés par terre, qu'elle devinait dans la pénombre. Le pull de Sophia sur la chaise. Ce n'était pas leur nuit. C'était celle de Sophia et d'Étienne, et elle avait eu lieu quelques heures plus tôt, ici, dans ce lit, pendant qu'ils dormaient au fond de leurs hôtes.
+
+*Novembre. Neuf mois. Le 3 août.*
+
+Peut-être que c'était cette nuit. Peut-être qu'Anne avait commencé, là, quelque part dans le corps qu'elle habitait. Peut-être que le moindre geste maladroit, le moindre réveil en sursaut de Sophia dans un lit qu'elle n'aurait pas choisi, si les choses avaient tourné autrement, aurait pu tout défaire.
+
+Élise posa les mains à plat sur le drap, de chaque côté d'elle, et ne bougea plus du tout. Elle sentit, à côté, Noé faire exactement la même chose.
 
 — D'accord.
 

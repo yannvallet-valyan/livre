@@ -1,4 +1,4 @@
-# Chapitre 28 — Trois portes
+# Chapitre 31 — Trois portes
 
 *(premier jet)*
 
@@ -56,11 +56,11 @@ Elle ferma le carnet. Puis elle le rouvrit et ajouta, plus bas, d'une écriture 
 
 ---
 
-Noé ne répondit pas tout de suite. Il resta deux nuits sans venir sur le barrage.
+Noé ne répondit pas tout de suite. Le lendemain de la nuit où il lui avait raconté leurs huit ans, il ne vint pas sur le barrage.
 
-La première, Élise l'attendit jusqu'à quatre heures, assise sur le parapet, à regarder Orion se coucher. Elle compta jusqu'à soixante, cent fois peut-être, et à chaque fois qu'elle arrivait à soixante, il n'était pas là. Elle rentra chez Sophia et ne dormit pas avant l'aube, ce qui revenait au même : dès que le jour se levait, de toute façon, elle disparaissait.
+Élise l'attendit jusqu'à quatre heures, assise sur le parapet, à regarder Orion se coucher. Elle compta jusqu'à soixante, cent fois peut-être, et à chaque fois qu'elle arrivait à soixante, il n'était pas là. Elle rentra chez Sophia et ne dormit pas avant l'aube, ce qui revenait au même : dès que le jour se levait, de toute façon, elle disparaissait.
 
-La deuxième nuit, elle trouva un mot sur la table de la cuisine. L'écriture d'Étienne, à l'encre noire, glissée sous la porte. Le papier était humide de pluie.
+En rentrant, elle trouva un mot sur la table de la cuisine. L'écriture d'Étienne, à l'encre noire, glissée sous la porte. Le papier était humide de pluie.
 
 *Je réfléchis. Pardonne-moi. J'ai besoin de savoir ce que je laisse.*
 
@@ -74,7 +74,11 @@ Et en dessous, d'une autre encre, bleue, de la même main mais plus ronde, plus 
 
 ---
 
-Il revint la troisième nuit.
+Il revint la nuit suivante.
+
+Elle avait passé la journée, enfouie au fond de Sophia, à ne pas exister. La nuit précédente, seule sur le barrage, elle avait fait une chose qu'elle s'était interdite : elle avait imaginé. Elle avait imaginé la deuxième porte, la vraie, celle que Noé lui offrait. Rentrer. Se réveiller sur le lit de camp de la réserve, l'éclat froid sur le front, Ruben en larmes. Monter au dortoir. Trouver dans le dortoir D un homme grand, voûté, aux yeux gris, avec une mèche blanche sur la tempe, qui lui laissait des lentilles depuis deux ans. Lui dire : *je sais qui tu es*. Réapprendre son visage, morceau par morceau, comme elle avait appris celui d'Iris, une nuit, à la lumière de la dernière lampe. Le perdre de nouveau, sans doute, dans un an, dans deux. Le réapprendre encore. Recommencer tant que la Rouille le permettrait, comme on recoud un vêtement qui se défait.
+
+Elle s'était aperçue qu'elle avait souri, seule, dans le froid. Puis elle avait pensé à un vieil homme dans une cabine, qui dessinait une maison avec un soleil pour la millième fois sans savoir pour qui, et le sourire était parti.
 
 Il était déjà sur le parapet quand elle arriva, à sa place, la tête renversée vers le ciel. Il ne se retourna pas. Elle s'assit à un mètre de lui.
 

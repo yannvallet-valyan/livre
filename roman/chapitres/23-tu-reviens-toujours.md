@@ -1,4 +1,4 @@
-# Chapitre 18 — Tu reviens toujours
+# Chapitre 19 — Tu reviens toujours
 
 *(premier jet)*
 
@@ -34,6 +34,20 @@ C'était tout.
 Quelqu'un qui avait la clé.
 
 Elle pensa à la facture d'électricité au nom d'Anselme Roch. Elle pensa : *la maison est à lui. Il a toujours eu la clé.* Elle pensa à la lettre d'Hélène, *il écrivait dans un carnet des noms que personne ne connaissait*. Elle pensa à la lumière qui s'éteignait trois fois. *Élise, tu es en avance, cette fois.*
+
+Elle chercha d'autres traces. Elle était archiviste : elle savait que les choses mentent rarement, si on les regarde assez longtemps.
+
+Sur le paillasson de l'entrée, il y avait une auréole humide, large, en forme de semelle. Une grosse chaussure, plus grande que celles de Sophia, avec un relief usé au talon. La boue y avait séché en croûte grise. La même boue que sur la grève. Sur le carrelage de la cuisine, deux autres empreintes, plus faibles, qui allaient jusqu'à la table et s'arrêtaient là. Quelqu'un s'était tenu debout devant le carnet. Il ne s'était pas assis.
+
+Elle se pencha sur la table. Il y avait une odeur. Faible, mais réelle : du tabac froid, de la laine mouillée, et autre chose, de plus discret, qu'elle mit longtemps à identifier. Du café réchauffé.
+
+Elle reprit le carnet et regarda de nouveau la troisième écriture. Les lettres hautes et fines, le crayon appuyé si fort qu'il avait marqué le papier. Elle passa le bout des doigts sur le relief, comme sur du braille.
+
+Elle eut alors une sensation qu'elle ne sut pas nommer, et qui la poursuivit jusqu'à la cabine. Pas une reconnaissance : une familiarité. Comme lorsqu'on entend sa propre voix enregistrée, pour la première fois, et qu'on se dit à la fois *ce n'est pas moi* et *c'est forcément moi*. Il y avait dans la façon de barrer les *t*, dans la petite boucle du *j*, dans l'inclinaison des majuscules, quelque chose qu'elle avait vu cent fois. Dans le registre rouge, peut-être. Dans ses propres fiches de catalogue, au refuge.
+
+Elle se dit que c'était l'écriture de Sophia, déformée par une autre main. Elle se dit que la fatigue lui jouait des tours.
+
+Elle referma le carnet.
 
 Elle prit son manteau, celui de Sophia, et sortit.
 

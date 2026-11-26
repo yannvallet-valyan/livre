@@ -1,4 +1,4 @@
-# Chapitre 15 — Le nom du chien
+# Chapitre 16 — Le nom du chien
 
 *(premier jet)*
 
