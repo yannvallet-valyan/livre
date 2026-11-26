@@ -134,18 +134,18 @@ body[data-pov="sophia"] .text em { color: var(--ink-blue); }
 body[data-pov="sophia"] .chapter { color: var(--ink-blue); }
 
 /* Écran-titre */
-body[data-scene="titre"] main { padding-top: 16vh; }
-body[data-scene="titre"] .chapter { display: none; }
-body[data-scene="titre"] h1 {
+body[data-view="story"][data-scene="titre"] main { padding-top: 16vh; }
+body[data-view="story"][data-scene="titre"] .chapter { display: none; }
+body[data-view="story"][data-scene="titre"] h1 {
   font-size: clamp(3.2rem, 13vw, 6rem); font-weight: 400; letter-spacing: .14em; text-transform: uppercase; text-align: center;
   background: linear-gradient(180deg, #e9ddc9 0%, #c98352 55%, #7a3418 100%);
   -webkit-background-clip: text; background-clip: text; color: transparent;
   margin-bottom: 2.5rem;
 }
-body[data-scene="titre"] .text p:first-child { text-align: center; font-size: 1.35em; color: var(--rust-hi); }
-body[data-scene="titre"] .text p { text-align: center; color: var(--muted); }
-body[data-scene="titre"] .choices { justify-items: center; }
-body[data-scene="titre"] .choice { text-align: center; border-left-width: 1px; padding: .95rem 2.2rem; letter-spacing: .12em; text-transform: uppercase; font: 500 .8rem/1 var(--sans); }
+body[data-view="story"][data-scene="titre"] .text p:first-child { text-align: center; font-size: 1.35em; color: var(--rust-hi); }
+body[data-view="story"][data-scene="titre"] .text p { text-align: center; color: var(--muted); }
+body[data-view="story"][data-scene="titre"] .choices { justify-items: center; }
+body[data-view="story"][data-scene="titre"] .choice { text-align: center; border-left-width: 1px; padding: .95rem 2.2rem; letter-spacing: .12em; text-transform: uppercase; font: 500 .8rem/1 var(--sans); }
 
 /* Choix */
 .choices { display: grid; gap: .75rem; margin-top: 2.6rem; }
@@ -289,3 +289,33 @@ body[data-view="livre"], body[data-view="chrono"] { --glow: radial-gradient(elli
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+/* ---------- Reprise de lecture et sauvegarde ---------- */
+.resume {
+  display: grid; gap: .25rem; margin: 0 0 1.6rem; padding: 1rem 1.1rem; text-decoration: none; color: inherit;
+  background: linear-gradient(90deg, rgba(184, 84, 43, .16), rgba(18, 22, 27, .9));
+  border: 1px solid rgba(184, 84, 43, .5); border-left: 3px solid var(--rust-hi); border-radius: 4px;
+  box-shadow: 0 0 30px -14px var(--rust-glow); transition: transform .2s, box-shadow .2s;
+}
+.resume:hover { transform: translateX(3px); box-shadow: 0 0 34px -10px var(--rust-glow); }
+.resume .r-label { font: 600 .66rem/1 var(--sans); letter-spacing: .2em; text-transform: uppercase; color: var(--rust-hi); }
+.resume .r-title { font: 500 1.25rem/1.25 var(--display); color: var(--fg-strong); }
+.resume .r-pct { font: .72rem/1 var(--sans); color: var(--muted); letter-spacing: .06em; }
+.toc li.done .num { color: var(--ok); font-size: .95rem; }
+.toc li.done .t { color: var(--muted); }
+.save-btn { font: 500 .78rem/1 var(--sans); color: var(--muted); background: transparent; cursor: pointer; border: 1px solid var(--line); border-radius: 999px; padding: .48rem .8rem; }
+.save-btn:hover { color: var(--fg-strong); border-color: var(--rust); background: var(--rust-soft); }
+.save-panel { border-bottom: 1px solid var(--line); background: rgba(16, 20, 25, .94); padding: 1rem 16px; font: .82rem/1.5 var(--sans); position: relative; z-index: 15; }
+.save-panel[hidden] { display: none; }
+.save-inner { max-width: 40rem; margin: 0 auto; display: grid; gap: .7rem; }
+.save-inner p { margin: 0; color: var(--muted); }
+.save-actions { display: flex; flex-wrap: wrap; gap: .5rem; }
+.save-actions button, .save-file {
+  font: 500 .76rem/1 var(--sans); color: var(--fg); background: var(--panel-2); cursor: pointer;
+  border: 1px solid var(--line); border-radius: 999px; padding: .6rem .95rem; transition: border-color .2s, background .2s;
+}
+.save-actions button:hover, .save-file:hover { border-color: var(--rust); background: var(--rust-soft); }
+.save-file input { position: absolute; width: 1px; height: 1px; opacity: 0; overflow: hidden; }
+.save-file:focus-within { border-color: var(--rust-hi); }
+.save-hint { font-size: .74rem; color: var(--faint) !important; }
+@media (max-width: 520px) { .save-btn { padding: .4rem .6rem; } }
