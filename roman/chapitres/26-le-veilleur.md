@@ -2,6 +2,98 @@
 
 *(premier jet)*
 
+La nuit de la Toussaint, Sophia ne dormit pas.
+
+C'était Étienne qui le lui avait demandé, en redescendant du cimetière, d'une voix qu'il essayait de rendre légère. *Tu voudrais bien me regarder dormir ? Une fois. Pour savoir. Je ne peux pas me regarder moi-même.* Elle avait dit oui avant de réfléchir. Elle s'était dit que c'était une expérience, une observation, qu'elle notait bien la jauge du barrage à sept heures douze, elle pouvait bien noter ce que devenait un homme à une heure du matin.
+
+Elle s'installa dans le fauteuil de sa chambre, une couverture sur les genoux, un thermos de café sur la table de nuit, le carnet à spirale ouvert sur l'accoudoir. Étienne se coucha à onze heures, gêné comme un adolescent, en pyjama à rayures, et lui tourna le dos. Il mit longtemps à s'endormir. Elle l'entendit compter à voix basse, sans qu'il s'en rende compte. À minuit vingt, sa respiration devint lente et lourde.
+
+Elle nota : *00 h 20. Endormi.*
+
+À une heure quatre, il ouvrit les yeux.
+
+---
+
+Il ne bougea pas tout de suite. Il resta allongé, sur le côté, les yeux ouverts dans la pénombre, et Sophia vit, à la lueur du réverbère qui filtrait par les volets, quelque chose changer dans son visage. Ce n'était pas spectaculaire. Il n'y avait pas de convulsion, pas de voix caverneuse, rien de ce qu'on voit dans les films. Les traits étaient les mêmes. Mais ils n'étaient plus *tenus* de la même façon. La bouche était plus serrée. Le front plus bas. Les yeux regardaient le plafond comme on regarde un ciel inconnu. Puis ils descendirent, lentement, et la trouvèrent.
+
+Ils se regardèrent.
+
+Sophia n'avait jamais eu aussi peur de sa vie. Elle n'aurait pas su dire de quoi. L'homme dans le lit ne lui voulait aucun mal, elle le sut tout de suite, à la façon dont il remonta le drap sur sa poitrine, presque pudiquement, comme quelqu'un qui découvre qu'il n'est pas seul dans une chambre qui n'est pas la sienne.
+
+— Vous ne dormez pas, dit-il.
+
+Sa voix. La voix d'Étienne, mais plus basse, plus lente, buttant sur les mots, avec un accent qui n'était d'aucun endroit.
+
+— Non.
+
+— Alors elle n'est pas là.
+
+Ce n'était pas une question. Sophia sentit ses mains se poser à plat sur ses cuisses, d'elles-mêmes.
+
+— Non, dit-elle. Elle n'est pas là. Il n'y a que moi.
+
+L'homme ferma les yeux un instant. Quand il les rouvrit, il avait l'air infiniment fatigué.
+
+— Pardon, dit-il. Je ne voulais pas vous faire peur. Je vais me lever, si vous voulez. Je vais sortir. Je ne toucherai à rien.
+
+— Restez couché.
+
+Il resta couché. Elle resta assise. Il y avait entre eux toute la largeur de la chambre, deux mètres de parquet, et c'était la distance la plus étrange qu'elle eût jamais mesurée.
+
+---
+
+— Qu'est-ce que vous lui voulez ? demanda-t-elle.
+
+Il mit longtemps à répondre.
+
+— Qu'elle rentre vivante, dit-il. Ou qu'elle ne rentre pas, mais qu'elle reste vivante. Je ne sais plus très bien.
+
+— Ce n'est pas une réponse.
+
+— Je sais. Elle me dit la même chose.
+
+Il eut un petit rire bref, et pour une seconde, une seule, Sophia reconnut le rire d'Étienne. Puis le visage se referma.
+
+— Vous lui ressemblez, dit-il. Pas le visage. Le visage, c'est le vôtre, je le vois toutes les nuits. La façon de vous tenir. Les mains. La façon de dire *ce n'est pas une réponse*.
+
+— C'est elle qui me ressemble, dit Sophia. Elle est arrivée après.
+
+— Non, dit-il doucement. C'est vous qui êtes arrivée après. Cent ans après, dans l'autre sens.
+
+Elle ne comprit pas la phrase. Elle ne la comprit que bien plus tard, en lisant douze pages à l'encre noire, allongée sur un plancher.
+
+— Comment vous vous appelez ? demanda-t-elle.
+
+— Sacha.
+
+— Ce n'est pas votre nom.
+
+— Non.
+
+Il regarda le plafond.
+
+— Vous allez lui dire qu'on s'est parlé ?
+
+— Je lui dis tout. C'est la règle.
+
+Il hocha la tête, lentement, sur l'oreiller.
+
+— Alors dites-lui… Non. Ne lui dites rien de moi. Dites-lui seulement que je dors.
+
+Puis il ferma les yeux, et Sophia comprit qu'il ne dormait pas, qu'il faisait semblant, pour la laisser partir, comme on fait semblant de dormir quand un enfant entre dans votre chambre et qu'on ne veut pas l'effrayer.
+
+Elle se leva. Elle reprit son carnet à spirale. Elle n'avait rien noté depuis *00 h 20*. Sur le pas de la porte, elle se retourna.
+
+— Elle a peur de vous, dit-elle. Mais elle vous attend tous les soirs.
+
+L'homme ne rouvrit pas les yeux. Elle vit seulement, à la lueur du réverbère, ses mains se poser à plat sur le drap, de chaque côté de lui.
+
+Elle rentra chez elle à pied, à deux heures du matin, dans le froid, en pensant qu'elle venait de parler au père d'un enfant qui naîtrait dans cent ans, et sans savoir qu'elle le pensait. Elle se coucha, et dès qu'elle ferma les yeux, ce ne fut plus elle.
+
+Dans le carnet, le lendemain, elle écrivit seulement : *Il dort.*
+
+---
+
 Le 2 novembre, Étienne ouvrit le tiroir de son bureau et trouva une feuille qu'il aurait préféré ne pas trouver.
 
 Il la montra à Sophia le soir même, dans sa cuisine à lui cette fois, une cuisine de veuf trop grande et trop propre, avec un seul bol dans l'égouttoir. Il posa la feuille sur la table sans un mot et alla se planter devant la fenêtre, les bras croisés, comme il l'avait fait le jour de leur première rencontre.

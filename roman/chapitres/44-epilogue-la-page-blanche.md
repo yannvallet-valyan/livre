@@ -38,6 +38,16 @@ Sa mère ne dormait plus beaucoup non plus.
 
 ---
 
+Iris se levait toutes les nuits à trois heures pour la regarder compter.
+
+Elle ne la touchait pas : les médecins avaient dit que c'était pire. Elle s'asseyait sur la chaise, près de la porte, dans le noir, et elle écoutait la petite voix égrener les chiffres, régulière, patiente, une seconde entre chaque, jusqu'à cinquante-neuf. Puis le silence. Puis, au bout d'un moment, elle recommençait. Iris avait essayé, une fois, de dire *soixante* à sa place, doucement, depuis la chaise. Élise s'était mise à hurler, d'un cri si aigu, si désespéré, qu'Iris n'avait jamais recommencé.
+
+Elle connaissait cette heure-là. Elle-même, enfant, s'était réveillée à trois heures. Pas toutes les nuits, pas pendant des années : quelques mois, vers sept ans, l'hiver où sa grand-mère était morte. Elle se réveillait avec une impression qu'elle n'avait jamais su décrire à personne, celle d'avoir entendu frapper doucement contre le mur de sa chambre, une fois par seconde, et de s'être endormie avant la fin. Il n'y avait personne derrière le mur. C'était un mur extérieur, qui donnait sur le lac.
+
+Elle n'en parlait pas. Elle pensait que c'était de famille, comme le front trop grand et les sourcils droits. Les Varenne avaient des nuits difficiles. On le disait à voix basse, dans la famille, comme on parle d'une maladie de cœur.
+
+---
+
 Le carnet était dans l'armoire de famille, au fond de la salle des archives, derrière une vitre fermée à clé. La bibliothèque y gardait les objets que les vieilles familles de la vallée lui avaient confiés : une montre de gousset, un registre de baptêmes, une paire de lunettes rafistolée au scotch, léguée en 2108 par un certain Mathis Delorme, arrière-grand-père de la famille, avec une boîte de cailloux du lac et un cahier d'écolier où il avait noté, de 2026 à sa mort, la date de chaque nuit où il s'était réveillé contre le mur, les doigts écorchés. Une boîte de petites fioles de verre, étiquetées à l'encre bleue d'une écriture serrée, *Annecy*, *Bourget*, *Vassivière*, *Vallorce*, pleines d'une eau qui s'était évaporée depuis longtemps. Et le carnet.
 
 Une couverture grise, usée, ramollie par les mains. Des pages couvertes de deux encres, une bleue et une noire, dans une écriture qui était la même et qui ne l'était pas.
@@ -47,6 +57,22 @@ Sur la première page, quelqu'un avait écrit, à l'encre bleue : *Les pages noi
 Il y avait eu une Anne. Puis une Jeanne. Puis un Paul. Puis d'autres.
 
 La dernière page était blanche. Personne n'avait jamais osé y écrire.
+
+---
+
+Avant de partir, comme chaque samedi, elle descendit au sous-sol.
+
+Elle n'avait pas le droit d'y aller seule. Elle y allait quand même, par l'escalier de service, celui qui sentait l'eau. En bas, au bout du couloir, entre la réserve des chaises et la chaufferie, il y avait le mur de béton plus lisse que les autres, et la plaque de cuivre. *Galerie technique, niveau –3. Obturée le 14 novembre 2026. Ne pas rouvrir.*
+
+Elle posa les deux mains à plat sur le béton, comme on pose les mains sur le ventre d'une femme enceinte. Elle colla l'oreille contre la paroi. Elle resta comme ça longtemps, les yeux fermés.
+
+Un gardien la trouva là, un jour. Il lui demanda ce qu'elle faisait. Elle répondit, très sérieusement :
+
+— J'écoute. Il chante.
+
+Le gardien rit. Il colla l'oreille contre le béton, lui aussi, pour lui faire plaisir. Il n'entendit que le ronronnement de la chaufferie. Il la ramena à sa mère en lui disant que la petite avait beaucoup d'imagination.
+
+Iris le remercia. Ce soir-là, pour la première fois, elle descendit elle-même au sous-sol, après la fermeture, et elle colla l'oreille contre le béton. Elle n'entendit rien. Elle resta pourtant une heure, assise par terre, le dos contre le mur, sans savoir ce qu'elle attendait.
 
 ---
 
@@ -105,6 +131,12 @@ Puis elle leva les yeux vers la boîte de fioles, sur l'étagère du haut.
 Elle les avait toujours crues vides. Elle prit celle qui portait, d'une écriture bleue et serrée, *Vallorce, 14/11/2026*, et la tint devant la lampe.
 
 Au fond, collée au verre, il y avait une aiguille rouge, pas plus longue qu'un ongle.
+
+---
+
+Elle relut certaines pages plusieurs fois. Celle où une femme écrivait, à l'encre noire, la dernière nuit : *Ne garde rien. Pas un grain, Sophia. Promets-le-moi.* Et la page suivante, à l'encre bleue, où il n'y avait aucune promesse. Rien. Une page qui commençait par la cote du lac et parlait d'un ingénieur, d'un piézomètre, d'un père qui connaissait les plans par cœur. Sophia n'avait jamais répondu à cette phrase-là. Iris le comprit en tenant la fiole, et elle comprit aussi pourquoi : on ne promet pas ce qu'on sait déjà qu'on ne tiendra pas.
+
+Elle eut, pour cette arrière-arrière-grand-mère qu'elle n'avait jamais connue, une tendresse brusque, presque douloureuse. Une femme qui avait gardé quarante-trois fioles d'eau de lac, une par lac étudié, et une quarante-quatrième, la seule qui comptait, qu'on lui avait demandé de ne pas garder.
 
 ---
 

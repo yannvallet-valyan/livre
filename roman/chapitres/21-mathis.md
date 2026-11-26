@@ -55,7 +55,45 @@ Le caillou resta sur la table de la cuisine, à côté du carnet. Le lendemain m
 Il referma la porte derrière lui.
 ---
 
-Elle monta à la cabine le dimanche, comme d'habitude, avec la pochette de Mathis dans son sac.
+Le samedi, elle l'emmena ramasser des cailloux.
+
+Ce fut Corinne qui le proposa, épuisée, entre deux clientes, en lui tendant le petit garçon par la main comme on tend un paquet : *Tu veux bien l'occuper une heure ? Il ne tient pas en place, et moi je ne tiens plus debout.* Sophia n'avait jamais gardé d'enfant. Elle dit oui.
+
+Ils descendirent sur la grève par le chemin du lac. Mathis marchait devant, son anorak bleu marine ouvert sur un pull à motif de fusées, sa boîte à chaussures sous le bras. Il ne parlait pas. Il regardait par terre, avec une concentration de géologue. De temps en temps, il s'accroupissait, ramassait un galet, le retournait, le tenait contre la lumière grise, et le reposait, ou le mettait dans sa boîte. Il ne prenait jamais plus d'un caillou sur dix.
+
+— Comment tu choisis ? demanda Sophia.
+
+— Il faut qu'ils aient une histoire, dit-il sans lever les yeux. Ceux qui n'en ont pas, je les laisse. Ils en auront une plus tard. On n'est pas pressés.
+
+Elle s'accroupit à côté de lui. Elle ramassa un galet, au hasard, gris, rond, banal. Elle le lui tendit. Il le regarda longtemps, le retourna, le soupesa.
+
+— Celui-là, il attend quelqu'un, dit-il.
+
+— Qui ?
+
+Il haussa les épaules.
+
+— Je sais pas. Quelqu'un qui est pas encore arrivé.
+
+Il le mit dans la boîte.
+
+Ils restèrent une heure sur la grève, dans le vent. Mathis lui montra le rocher plat où il venait s'asseoir l'été, l'endroit où l'on voyait le mieux le clocher du village noyé, la trace des chevreuils dans la vase. Il lui parla de son père, une fois, très vite, comme on se débarrasse d'une chose lourde : une carte postale de Marseille, avec un bateau dessus, et au dos *je pense à toi mon grand*, et rien depuis. Il ne la relisait pas. Il ne la jetait pas. Elle était dans la boîte, en dessous des cailloux.
+
+— Tu crois qu'il pense vraiment à moi ? demanda-t-il.
+
+Sophia pensa à son propre père, en haut, dans la cabine, qui faisait chauffer de l'eau pour personne depuis trente-cinq ans.
+
+— Je crois que les gens qui partent pensent à ceux qu'ils ont laissés beaucoup plus qu'on ne le croit, dit-elle. Ils ne savent pas comment le dire. Alors ils ne disent rien. Et ça a l'air de la même chose que d'oublier, mais ce n'est pas la même chose.
+
+Mathis réfléchit longtemps.
+
+— Comme la dame qui dort tout au fond, dans ton papa, dit-il. Elle dit rien. Mais elle oublie pas.
+
+Sophia ne répondit pas. Elle regarda le barrage, la petite cabine jaune au flanc du mur, et elle eut froid, d'un froid qui ne venait pas du vent.
+
+---
+
+Elle monta à la cabine le dimanche, comme d'habitude, avec le caillou de Mathis dans la poche.
 
 Son père lui ouvrit avant qu'elle frappe. Il avait l'air plus fatigué que d'ordinaire, et plus vieux, comme si quelque chose en lui avait commencé à céder. Il la regarda un instant sans la reconnaître, une seconde de trop, et son visage s'éclaira d'une manière qu'elle ne lui avait jamais vue.
 

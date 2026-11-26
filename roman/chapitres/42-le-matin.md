@@ -181,6 +181,70 @@ Elle chanta le premier, à voix basse, au téléphone. À l'autre bout, à Lyon,
 
 ---
 
+Le 16, elle remonta à la cabine avec Étienne.
+
+Elle ne l'avait pas prévu. Il l'avait proposé au petit déjeuner, en beurrant sa tartine trop épais, sans lever les yeux : *Je voudrais le rencontrer. Ton père. Le vrai. Celui du jour.* Elle avait hésité. Elle avait dit oui.
+
+Anselme ouvrit la porte après qu'ils eurent frappé. Deux fois. Il regarda sa fille, puis l'homme à côté d'elle, en manteau loden vert, l'écharpe rouge autour du cou, et quelque chose passa sur son visage qu'elle mit longtemps à identifier. De la timidité.
+
+— Le docteur, dit-il.
+
+— Étienne, dit Étienne en tendant la main.
+
+Anselme la regarda un moment, cette main, comme on regarde un objet dont on ne connaît pas l'usage. Puis il la prit, et la serra, longtemps, trop longtemps, avec ses grandes mains tavelées, sans rien dire. Sophia vit ses yeux se mouiller. Elle ne sut jamais s'il avait reconnu quelque chose, une trace, un fantôme, l'homme qui pleurait à la porte d'une réserve cent onze ans plus tard, ou s'il était seulement un vieil homme qui serrait pour la première fois de sa vie la main d'un homme qui aimait sa fille.
+
+Il mit de l'eau à chauffer. Cette fois, il demanda :
+
+— Thé ou café ?
+
+Sophia faillit pleurer, pour une raison si bête qu'elle ne la dit jamais à personne : c'était la première fois, en quarante-six ans, que l'eau de cette cabine chauffait pour quelqu'un qui était là.
+
+---
+
+Ils passèrent l'après-midi à décrocher les dessins.
+
+C'est Anselme qui commença. Il se leva au milieu d'une phrase, alla jusqu'au mur, et ôta une punaise, puis une autre. Il posa le dessin sur la table. Il en décrocha un deuxième. Il ne dit pas pourquoi. Sophia se leva pour l'aider. Puis Étienne. Ils travaillèrent en silence, tous les trois, pendant deux heures, debout sur les chaises, accroupis devant les plinthes, à décrocher des centaines de maisons au toit en triangle, des centaines de soleils aux rayons trop longs, des centaines de silhouettes aux cheveux hérissés. Les plus vieux se déchiraient entre les doigts. Ils les ramassaient quand même, morceau par morceau.
+
+À la fin, le crépi jaune réapparut, criblé de petits trous de punaise, comme un ciel d'étoiles à l'envers.
+
+Anselme regarda le tas de papiers sur la table. Il passa la main dessus, très doucement, comme sur le dos d'un animal endormi.
+
+— Je ne sais pas qui c'est, dit-il.
+
+— Moi, si, dit Sophia.
+
+Il leva les yeux vers elle. Il ne demanda rien. Il fouilla dans le tas, longtemps, et en sortit un dessin qui n'était pas comme les autres : le plus vieux, le plus jauni, celui du fond, cassé aux plis, sur une page de carnet de chantier. La silhouette devant la maison avait de longs cheveux, et un petit point au coin de l'œil gauche. Il le lui tendit. Puis il prit les autres, tous les autres, les rangea dans un carton de registres vide, ferma le carton, et le glissa sous le lit de camp, à côté des boîtes de mouches de pêche.
+
+Sophia regarda le dessin. Elle ne comprit pas pourquoi celui-là. Elle ne comprit pas pourquoi les cheveux étaient longs, ni à qui appartenait ce point minuscule au coin de l'œil. Elle le plia et le mit dans sa poche.
+
+— Je ne vais pas les brûler, dit-il. On ne brûle pas ce que quelqu'un a mis quarante-six ans à faire.
+
+---
+
+En redescendant, sur le parking, ils croisèrent Bastien Kerr.
+
+Il chargeait des cartons dans le coffre d'une voiture de location. Les deux camionnettes suisses étaient reparties le matin même, vides. Il avait l'air d'un homme qui a dormi. C'était si inattendu, sur ce visage-là, que Sophia ne le reconnut pas tout de suite.
+
+Il s'approcha d'eux. Il hésita. Puis il dit, à Sophia, à voix basse :
+
+— Cette nuit, je n'ai pas vu la plage.
+
+Elle ne répondit pas. Elle ne savait pas quoi répondre.
+
+— Pour la première fois en quatre ans, dit-il. Je me suis réveillé, et Théo était vivant. Trois secondes. Peut-être cinq. Il était sur le ponton, avec son caillou blanc. Et puis je me suis souvenu. Mais il y avait eu les cinq secondes.
+
+Il sourit. C'était un vrai sourire, maladroit, sans publicité.
+
+— Je ne sais pas si c'est votre béton, ou le temps, ou autre chose.
+
+Il retourna à sa voiture. Avant de monter, il se retourna une dernière fois.
+
+— J'ai retrouvé un cahier, dans mon tiroir, dit-il. Mon cahier de laboratoire. Il y a des pages dedans, à la fin, d'une écriture que je ne connais pas. Des chiffres, des initiales. Des *tours*. Je n'y comprends rien. Je vais le garder quand même. On ne sait jamais.
+
+Il partit. Sophia regarda la voiture s'engager dans le tunnel, ses feux arrière rouges avalés par la lumière orange du sodium, et elle pensa qu'elle aussi, elle gardait des choses, on ne savait jamais. Elle mit la main dans sa poche. Il y avait le vieux dessin d'Anselme, plié en quatre. Et, contre lui, une petite mouche de pêche couleur de rouille, avec un fil de cuivre enroulé en spirale.
+
+---
+
 Elle quitta Vallorce le 20 décembre, avec Étienne, dans une voiture chargée jusqu'au toit. Ils allaient à Lyon, où Étienne avait trouvé un poste dans un centre de santé, à une heure de son fils. Elle avait démissionné du laboratoire, qui avait de toute façon fermé ses portes le 1er décembre. La Fondation Léthé avait cessé d'exister quelque part entre deux conseils d'administration, sans communiqué.
 
 Corinne n'oubliait plus le nom de son chien. Florian avait retrouvé du travail à la scierie. On avait enterré Martine Pradel le 29 octobre, au cimetière du haut, celui qu'on n'avait pas noyé.

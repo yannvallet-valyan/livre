@@ -76,6 +76,32 @@ Elle avait relu la phrase de Ruben cent fois. Chaque trace qu'elle laissait, cha
 
 ---
 
+Un soir, sous la page du ciel, Sophia avait écrit une question qu'elle avait mis longtemps à oser.
+
+*Tu as quelqu'un, là-bas ? Je veux dire : quelqu'un qui t'attend. À part ta fille.*
+
+Élise resta une heure devant la question, le stylo noir à la main, sans écrire.
+
+Elle aurait pu répondre non. C'était la réponse la plus simple, et peut-être la plus vraie. Elle n'avait personne. Elle avait des collègues, des lecteurs, des rouillés à qui elle lisait des recettes, un Conseil, un technicien aux mains propres. Elle avait une fille qui ne la reconnaissait plus. Elle n'avait personne qui l'attende.
+
+Et pourtant, la question avait réveillé quelque chose. Pas un souvenir : une forme. Le lit en trop contre le mur du dortoir. La chemise trop grande dans l'armoire, aux manches retroussées deux fois. Le blanc, dans le registre rouge, à côté du nom d'Iris, *de Élise Varenne et de*, qu'elle avait laissé sept ans plus tôt pour un nom qu'elle n'arrivait plus à écrire.
+
+Elle écrivit, finalement, très lentement :
+
+*Il y a un blanc. Ma fille a un père. Je ne me souviens pas de lui. La Rouille l'a pris en premier. Elle prend toujours d'abord les visages qu'on a le plus regardés.*
+
+*Alors je suppose que je l'ai beaucoup regardé.*
+
+*Je ne sais pas s'il m'attend. Je ne sais pas s'il existe encore. Je ne sais pas s'il sait que je suis partie.*
+
+Le lendemain, il y avait une seule ligne en dessous, à l'encre bleue :
+
+*S'il t'a beaucoup regardée, lui aussi, il ne t'a pas oubliée. C'est toujours celui qui oublie qui part en premier. Celui qui reste, il reste.*
+
+Élise relut la phrase toute la nuit. Elle ne savait pas que, trois rues plus haut, dans la cuisine trop propre d'un médecin veuf, un homme qui n'était pas le médecin relisait à la même heure, sur un bloc d'ordonnances, une liste de noms de femmes Varenne, en se demandant laquelle des trois il cherchait.
+
+---
+
 C'est pour cela qu'elle lut avec une attention particulière la page du 4 octobre.
 
 *Jauge : 410,88. Couvert, 9 °C.*

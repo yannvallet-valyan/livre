@@ -119,3 +119,37 @@ Il n'y avait rien. Seulement un homme qui la regardait comme personne ne l'avait
 — Il n'y a pas de bonne porte, dit Noé.
 
 — Il y en a une troisième, dit Élise.
+
+---
+
+Elle rentra à l'aube sous la pluie, trempée jusqu'aux os, et elle ne se coucha pas tout de suite.
+
+Elle monta dans la chambre de Sophia, ouvrit l'armoire, et chercha à tâtons, au fond, sous les pulls, quelque chose qui n'y était pas. Elle savait que ça n'y était pas. La chemise trop grande était restée dans son armoire à elle, au refuge, à cent onze ans d'ici, pliée sur une étagère, entre deux pulls troués. Elle chercha quand même. Elle avait besoin que ses mains cherchent quelque chose.
+
+Elle s'assit sur le lit, contre le mur mitoyen, les mains vides.
+
+Elle essaya de se rappeler. Elle ferma les yeux, et elle fit ce qu'elle savait faire de mieux, ce qu'elle faisait depuis l'enfance avec les textes abîmés : elle reconstitua. Un lit en trop contre le mur. Une chemise grise trop grande, aux manches retroussées deux fois. Une façon de tenir la craie, entre le pouce et le majeur, que sa fille n'avait apprise de personne. Des lentilles trop salées chaque midi depuis deux ans. Un homme qui pleurait sans bruit à la porte de la réserve.
+
+Elle avait toutes les pièces. Elle les avait depuis le début. Elle n'avait jamais pensé à les mettre ensemble, parce qu'il n'y avait pas de visage au milieu.
+
+Il n'y en avait toujours pas. Elle chercha, de toutes ses forces, quelque chose, une image, une odeur, un son. Il n'y avait rien. Seulement, très loin, une sensation qu'elle n'aurait pas su décrire : celle d'une main qui trouve la vôtre dans le noir, au milieu d'un compte, et qui ne la lâche plus quand la lumière revient.
+
+Elle ne savait même pas si c'était un souvenir ou un désir.
+
+Elle prit le carnet et écrivit, très vite, avant que le corps ne la reprenne :
+
+*Il s'appelle Noé. C'est le père de ma fille. Je ne me souviens pas de lui.*
+
+*Je crois que je l'aime quand même. Je ne sais pas si c'est de nouveau ou encore.*
+
+Puis elle se coucha, et Sophia se réveilla une heure plus tard avec les cheveux mouillés, les pieds sales, et sur la table de nuit trois lignes à l'encre noire qu'elle lut assise au bord du lit, longtemps, sans bouger.
+
+Quelques jours plus tard, au café de la place, elle regarda Étienne boire son chocolat, essuyer sa moustache de crème avec le dos de la main, rire d'une histoire de patient. Elle le regarda comme on regarde une maison dont on sait, désormais, qu'elle a été habitée par quelqu'un d'autre avant vous.
+
+Il s'en aperçut.
+
+— Quoi ? dit-il.
+
+— Rien, dit-elle. Tu as de la crème.
+
+Il s'essuya de nouveau. Elle ne lui dit pas qu'il y avait en lui, la nuit, le père d'une enfant de 2137 qui avait de la craie jusqu'aux poignets. Elle le lui dirait plus tard. Pour l'instant, elle avait seulement envie de lui prendre la main, et elle le fit, au-dessus des tasses, devant Nadia, devant tout le monde, pendant beaucoup plus de deux battements de cœur.
