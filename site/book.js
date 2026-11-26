@@ -4668,7 +4668,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Sophia apprit plus tard, par Corinne, que la boîte à chaussures était pleine de cailloux classés par couleur. Elle apprit que la seule adulte qui l'écoutait vraiment, au village, avait été Martine Pradel, l'ancienne institutrice, qui lui donnait des cours de soutien le mercredi et qui lui avait dit un jour : *Les gens qui voient des choses, il faut les écrire, Mathis. Comme ça, plus tard, personne ne pourra te dire que tu les as inventées.*"
+     "s": "Sophia apprit plus tard, par Corinne, que la boîte à chaussures était pleine de cailloux classés par couleur. Elle apprit que la seule adulte qui l'écoutait vraiment, au village, avait été Martine Pradel, l'ancienne institutrice, morte la veille, qui lui donnait des cours de soutien le mercredi et qui lui avait dit un jour : *Les gens qui voient des choses, il faut les écrire, Mathis. Comme ça, plus tard, personne ne pourra te dire que tu les as inventées.*"
     },
     {
      "t": "p",
@@ -4852,7 +4852,7 @@ window.BOOK = {
      "s": "En rentrant, elle imprima la photo au format d'une page de carnet, sur la vieille imprimante du séjour. Elle la posa sur la table, à côté du carnet fermé, et n'osa pas la coller."
     }
    ],
-   "words": 1778
+   "words": 1781
   },
   {
    "id": "22-le-registre-de-l-ouvrage",
@@ -10837,7 +10837,7 @@ window.BOOK = {
    "blocks": [
     {
      "t": "p",
-     "s": "Il avait neigé sur Lyon pour la première fois depuis quatre ans, et Anne ne voulait pas se coucher."
+     "s": "Il avait neigé sur Lyon, ce soir de décembre, pour la première fois depuis quatre ans, et Anne ne voulait pas se coucher."
     },
     {
      "t": "p",
@@ -10985,7 +10985,7 @@ window.BOOK = {
      "s": "Elle n'oublia jamais la question."
     }
    ],
-   "words": 1083
+   "words": 1087
   },
   {
    "id": "45-epilogue-la-page-blanche",

@@ -2,7 +2,7 @@
 
 *(premier jet)*
 
-Il avait neigé sur Lyon pour la première fois depuis quatre ans, et Anne ne voulait pas se coucher.
+Il avait neigé sur Lyon, ce soir de décembre, pour la première fois depuis quatre ans, et Anne ne voulait pas se coucher.
 
 Elle avait six ans, un front trop grand qu'elle cachait sous une frange qu'elle se coupait elle-même aux ciseaux de cuisine, de travers, dès qu'on avait le dos tourné. Elle comptait tout : les marches de l'escalier, les pavés de la place, les secondes qu'il fallait pour que l'eau des pâtes bouille. Elle s'endormait le plus souvent avant la fin. Elle dormait sur le ventre, les poings serrés sous le menton. Sophia avait cessé, depuis longtemps, de se demander de qui elle tenait ces choses-là. Elle avait décidé, à la naissance, qu'un enfant tenait les choses de partout et de nulle part, et que c'était très bien ainsi.
 

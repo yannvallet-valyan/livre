@@ -52,7 +52,7 @@ Sur le seuil, il se retourna.
 
 Il referma la porte derrière lui.
 
-Sophia apprit plus tard, par Corinne, que la boîte à chaussures était pleine de cailloux classés par couleur. Elle apprit que la seule adulte qui l'écoutait vraiment, au village, avait été Martine Pradel, l'ancienne institutrice, qui lui donnait des cours de soutien le mercredi et qui lui avait dit un jour : *Les gens qui voient des choses, il faut les écrire, Mathis. Comme ça, plus tard, personne ne pourra te dire que tu les as inventées.*
+Sophia apprit plus tard, par Corinne, que la boîte à chaussures était pleine de cailloux classés par couleur. Elle apprit que la seule adulte qui l'écoutait vraiment, au village, avait été Martine Pradel, l'ancienne institutrice, morte la veille, qui lui donnait des cours de soutien le mercredi et qui lui avait dit un jour : *Les gens qui voient des choses, il faut les écrire, Mathis. Comme ça, plus tard, personne ne pourra te dire que tu les as inventées.*
 
 Le caillou resta sur la table de la cuisine, à côté du carnet. Le lendemain matin, Sophia le trouva posé sur la page noire, comme un presse-papier.
 
