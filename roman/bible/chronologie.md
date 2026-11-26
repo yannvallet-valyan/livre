@@ -34,6 +34,14 @@
    - En 2103, Paul appelle sa fille **Iris**, d'après l'enfant des pages noires.
    - En 2130, Iris appelle sa fille **Élise**, d'après la femme qui, dans ces pages, aimait cette enfant : « pour que quelqu'un, cette fois, la garde ».
 11. **La conception d'Anne** a eu lieu entre le 6 et le 14 novembre, de jour ou de nuit : c'est **indéterminable**. Voir le §10 et le §11.
+12. **Repères chiffrés fixés en V3.1** (à ne plus modifier sans raison).
+   - **Vidange de 1980 :** le lac disparaît en **12 jours** ; le village apparaît le 12e jour ; Anselme trouve la veine le **13e jour, lundi 13 octobre 1980** ; Rose pleure la veille.
+   - **Âge de Sophia :** née le 12 novembre 1988, elle a **37 ans** jusqu'au 11 novembre 2026, **38 ans** le 12.
+   - **Registres d'Anselme :** cahiers numérotés de **1 (1980) à 47 (2026)** ; 1986 = cahier 7, 1988 = cahier 9. Les « quarante-six ans » désignent la durée (1980-2026), pas le nombre de cahiers.
+   - **Jauge :** lundi 28 septembre 7 h 12 = **411,71** ; jeudi 1er octobre 7 h 12 = **411,52**.
+   - **Famille d'Élise :** Paul rouille en **2118** (Élise a 15 ans), Marthe s'éteint en **2124** (six ans d'écart). Iris naît en 2130, **27 ans** après la naissance d'Iris la mère (2103).
+   - **Générations :** Hugo (2007) est le grand-père du grand-père de Noé ; Mathis (2017) est l'arrière-arrière-grand-père d'Iris.
+   - **Ruben** n'écrit que « *Noé.* » dans le registre rouge (pas de nom de famille) : le nom Marle ne doit pas apparaître avant le chapitre « Le lit vide ».
 
 ---
 

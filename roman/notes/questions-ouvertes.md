@@ -55,3 +55,21 @@
 - Une lecture à voix haute, chapitre par chapitre, pour le rythme.
 - Les dialogues de Sophia, à rendre encore plus secs et chiffrés.
 - Une vérification finale des dates de la semaine (2026) chapitre par chapitre.
+
+
+## Relecture V3.1 (correction éditoriale, branche de travail)
+
+**Appliqué dans le texte :**
+- Paragraphes déplacés et doublons supprimés : `06` (vase et poissons), `20` (traversée du jardin), `21` (réplique de Mathis), `31` (bloc « Toutes en même temps ? »).
+- Dates et chiffres : vidange en 12 jours, jauge 411,71 / 411,52, Sophia 37 ans, cahiers 1 à 47, Paul/Marthe à six ans d'intervalle, générations de Noé et d'Iris, « vingt-sept ans plus tard ». Voir `bible/chronologie.md` §0.12.
+- Secret de Noé : « Noé » seul dans le registre (`16`), passage sur « l'enfant qui naîtrait dans cent ans » supprimé (`26`), « Sacha » dans `30`.
+
+**En attente de validation de l'auteur** (voir le rapport remis avec cette passe) :
+- 2.2 trois éclats la première nuit ; 2.3 calendrier d'octobre (chapitres 20 à 24) ;
+- 4.1 à 4.8 : piézomètres P7, fiole/aiguille, observations de K., dessin dans le portefeuille, badge de Kerr, collage du dessin, feuille du Veilleur, origine de la Fondation Léthé ;
+- Partie 5 (style, par lots) ; Partie 6 (annexe, règle de réécriture, mention « premier jet »).
+
+**Incohérences découvertes en route (non corrigées) :**
+- `19-le-cahier-noir` : « Tour 47. J + 44 » = 29 octobre, alors que Martine Pradel, vivante dans la scène, est retrouvée morte le 25. Proposition : « J + 37 ».
+- `41-interlude-iris` : le registre rouge porte « *Noé Marle.* » alors que Ruben n'a écrit que « *Noé.* » (`16`). Proposition : « *Noé.* » dans `41`, le nom Marle venant des registres de départ du Conseil.
+- `15-les-lentilles` : « une semaine plus tard » (recette trouvée) vs `24-quatre` : « un mardi » (voir point 2.3).
