@@ -51,6 +51,10 @@ Anselme hocha la tête. Il garda le silence, les yeux sur la dalle. Puis il parl
 
 — Elle est née dans la troisième maison à gauche, en bas, au fond du lac. Moi aussi. On l'a relogée ici, en 58, dans un appartement au-dessus de la boulangerie. Pendant quarante ans, elle a mis la table pour cinq. Nous n'étions que trois, puis deux. Elle disait qu'elle mettait le couvert pour la cuisine. Pour la maison, pour qu'elle sache qu'on ne l'avait pas oubliée. Les gens la prenaient pour une folle. Elle n'était pas folle. Elle attendait.
 
+Il hésita.
+
+— Et la nuit, quand j'étais petit, elle me chantait une chanson. Une chanson de rivière. Je ne me souviens plus des paroles. Je me souviens qu'elle s'arrêtait toujours avant la fin.
+
 Il se tut. Sophia ne bougeait plus.
 
 — En 1980, quand on a vidé le lac, elle est montée sur le barrage. Elle a vu la maison. Elle a pleuré. C'est la seule fois que je l'ai vue pleurer. Le lendemain…

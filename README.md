@@ -13,6 +13,7 @@ roman/
   chapitres/        Les chapitres rédigés (un fichier par chapitre, en Markdown)
   notes/            Questions ouvertes, incohérences à résoudre, idées en vrac
   fiches/           Fiches personnages, lieux et objets : biographies et brief d'illustration
+tome2/              Bible de travail du tome 2 (pitch, personnages, 1958, amorces posées dans le tome 1)
 site/               Le livre interactif (HTML/CSS/JS purs, aucune dépendance)
   story.js          Toute l'histoire interactive : scènes, choix, variables
   engine.js         Le moteur (sauvegarde, carnet, retour arrière, effet « Rouille »)

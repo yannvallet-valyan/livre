@@ -42,6 +42,8 @@
 
 ---
 
+*Note pour moi-même. J'ai longtemps cru que le tour 1 avait eu lieu en 1958, parce que c'est ma première mesure. Une nuit de novembre, au pied du mur, une femme s'est approchée de moi sur le chantier, en châle, les cheveux coupés ras. Je lui ai dit que ce n'était pas encore l'heure. Elle m'a regardé comme si elle me connaissait. Je n'ai jamais su pourquoi. Je ne suis plus sûr que 1958 soit un commencement.*
+
 *Je n'ai pas observé la nuit du 13. Je commence à croire que c'était la seule chose qu'il fallait observer.*
 
 ---

@@ -29,7 +29,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle s'appelait Rose Roch. Pendant vingt-deux ans, dans un trois-pièces de Vallorce-le-Haut qui ne serait jamais sa maison, elle avait mis la table pour cinq, alors qu'ils n'étaient plus que trois, puis plus que deux. Les voisins disaient qu'elle attendait les morts du cimetière qu'on n'avait pas tous déplacés. Elle disait qu'elle attendait sa cuisine."
+     "s": "Elle s'appelait Rose Roch. Elle avait les cheveux blancs coupés très court, presque ras, comme elle les portait depuis l'été 1958, et elle se tenait au parapet les deux mains posées à plat sur la pierre. Pendant vingt-deux ans, dans un trois-pièces de Vallorce-le-Haut qui ne serait jamais sa maison, elle avait mis la table pour cinq, alors qu'ils n'étaient plus que trois, puis plus que deux. Les voisins disaient qu'elle attendait les morts du cimetière qu'on n'avait pas tous déplacés. Elle disait qu'elle attendait sa cuisine."
     },
     {
      "t": "p",
@@ -180,7 +180,7 @@ window.BOOK = {
      "s": "Il la garda quarante-six ans."
     }
    ],
-   "words": 1257
+   "words": 1289
   },
   {
    "id": "01-le-lac",
@@ -5631,6 +5631,14 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Il hésita."
+    },
+    {
+     "t": "p",
+     "s": "— Et la nuit, quand j'étais petit, elle me chantait une chanson. Une chanson de rivière. Je ne me souviens plus des paroles. Je me souviens qu'elle s'arrêtait toujours avant la fin."
+    },
+    {
+     "t": "p",
      "s": "Il se tut. Sophia ne bougeait plus."
     },
     {
@@ -5689,7 +5697,7 @@ window.BOOK = {
      "s": "Anselme ne répondit pas. Sophia vit ses mains, le long de son corps, se poser à plat sur ses cuisses, comme pour se tenir."
     }
    ],
-   "words": 1173
+   "words": 1207
   },
   {
    "id": "26-le-veilleur",
@@ -7534,11 +7542,19 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Jean disait qu'elle avait changé cet été-là. Depuis le mois de juin, depuis que les pelleteuses avaient commencé à décaper le fond de la vallée et que la vieille rivière déviée avait laissé à nu des mètres de glaise grise, Rose ne dormait plus comme avant. Elle se levait la nuit. Elle marchait dans la maison. Elle restait des heures assise au bord du lit du petit, les mains à plat sur les cuisses, à le regarder dormir, et parfois elle comptait, à voix basse, jusqu'à soixante, sans jamais dire le dernier chiffre."
+    },
+    {
+     "t": "p",
+     "s": "Un matin de juillet, elle s'était coupé les cheveux. Ses longues tresses noires, qu'elle portait depuis l'enfance, qu'elle enroulait en chignon le dimanche pour la messe : elle les avait coupées à ras, aux ciseaux de cuisine, devant le miroir de l'évier, de travers. Jean l'avait trouvée là, la nuque nue, les tresses dans l'évier. Elle n'avait pas su lui dire pourquoi. Elle avait seulement dit, en se regardant dans la glace, avec une voix qui n'était pas tout à fait la sienne : *Comme ça, je me reconnais.*"
+    },
+    {
+     "t": "p",
      "s": "Elle mit la table."
     },
     {
      "t": "p",
-     "s": "Cinq assiettes. C'était le nombre de la table depuis qu'elle était enfant : son père, sa mère, ses deux frères, elle. Puis Jean, et le petit, et la grand-mère qui était morte au printemps. Elle avait toujours mis cinq couverts, même quand ils n'étaient plus que trois, parce qu'une table, disait sa mère, c'est fait pour les gens qui ne sont pas encore arrivés."
+     "s": "Cinq assiettes. C'était le nombre de la table depuis qu'elle était enfant : son père, sa mère, ses deux frères, elle. Puis Jean, et le petit, et la grand-mère qui était morte au printemps. Elle avait toujours mis cinq couverts, même quand ils n'étaient plus que trois, et depuis l'été elle savait, sans pouvoir dire comment, qu'il y avait d'autres absents à attendre que ceux de sa famille, parce qu'une table, disait sa mère, c'est fait pour les gens qui ne sont pas encore arrivés."
     },
     {
      "t": "p",
@@ -7647,7 +7663,7 @@ window.BOOK = {
      "s": "Elle la garda dans un tiroir de la cuisine jusqu'à sa mort. La pile ne s'usa jamais. Personne ne savait comment c'était possible, et elle ne le demanda jamais."
     }
    ],
-   "words": 1085
+   "words": 1288
   },
   {
    "id": "33-le-lit-vide",
@@ -11080,7 +11096,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Le carnet était dans l'armoire de famille, au fond de la salle des archives, derrière une vitre fermée à clé. La bibliothèque y gardait les objets que les vieilles familles de la vallée lui avaient confiés : une montre de gousset, un registre de baptêmes, une paire de lunettes rafistolée au scotch, léguée en 2108 par un certain Mathis Delorme, arrière-grand-père de la famille, avec une boîte de cailloux du lac et un cahier d'écolier où il avait noté, de 2026 à sa mort, la date de chaque nuit où il s'était réveillé contre le mur, les doigts écorchés. Une boîte de petites fioles de verre, étiquetées à l'encre bleue d'une écriture serrée, *Annecy*, *Bourget*, *Vassivière*, *Vallorce*, pleines d'une eau qui s'était évaporée depuis longtemps. Et le carnet."
+     "s": "Le carnet était dans l'armoire de famille, au fond de la salle des archives, derrière une vitre fermée à clé. La bibliothèque y gardait les objets que les vieilles familles de la vallée lui avaient confiés : une montre de gousset, un registre de baptêmes, une paire de lunettes rafistolée au scotch, léguée en 2108 par un certain Mathis Delorme, arrière-grand-père de la famille, avec une boîte de cailloux du lac et un cahier d'écolier où il avait noté, de 2026 à sa mort, la date de chaque nuit où il s'était réveillé contre le mur, les doigts écorchés. Une page de 2059, d'une écriture de vieil homme, ne parlait pas de lui : *Jeanne, sept ans. Cette nuit, elle a frappé contre le mur de sa chambre. Elle s'est arrêtée à cinquante-neuf.* Une boîte de petites fioles de verre, étiquetées à l'encre bleue d'une écriture serrée, *Annecy*, *Bourget*, *Vassivière*, *Vallorce*, pleines d'une eau qui s'était évaporée depuis longtemps. Et le carnet."
     },
     {
      "t": "p",
@@ -11327,7 +11343,7 @@ window.BOOK = {
      "s": "Ceux qui oubliaient avaient pris l'habitude de sortir la nuit, et de descendre vers le lac."
     }
    ],
-   "words": 2654
+   "words": 2688
   },
   {
    "id": "46-coda",
@@ -11658,6 +11674,10 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "*Note pour moi-même. J'ai longtemps cru que le tour 1 avait eu lieu en 1958, parce que c'est ma première mesure. Une nuit de novembre, au pied du mur, une femme s'est approchée de moi sur le chantier, en châle, les cheveux coupés ras. Je lui ai dit que ce n'était pas encore l'heure. Elle m'a regardé comme si elle me connaissait. Je n'ai jamais su pourquoi. Je ne suis plus sûr que 1958 soit un commencement.*"
+    },
+    {
+     "t": "p",
      "s": "*Je n'ai pas observé la nuit du 13. Je commence à croire que c'était la seule chose qu'il fallait observer.*"
     },
     {
@@ -11680,7 +11700,7 @@ window.BOOK = {
      "s": "*— K.*"
     }
    ],
-   "words": 421
+   "words": 498
   }
  ]
 };

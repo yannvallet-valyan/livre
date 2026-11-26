@@ -259,3 +259,12 @@ Personne n'est méchant.
   - **L'enquête de K.** sur la nuit non observée, et le lien entre « qui a fait Anne ? » et « qui a commencé ? ».
   - **Les gènes ne tranchent rien** (ce sont ceux de Sophia et d'Étienne dans les deux cas). Il faudra une enquête, pas un test.
   - Les autres amorces déjà posées : 1958 et l'homme en blanc, Oriane qui compte jusqu'à 60, Léa Kerr, le tour 48.
+
+
+## 12. Passerelles vers le tome 2
+
+Voir le dossier `../../tome2/` (pitch, personnages, chronologie de 1958, **amorces**). Ce qui est déjà semé dans le tome 1 :
+- **Rose Roch, habitée en 1958 :** cheveux ras depuis l'été 1958, mains à plat, compte jusqu'à 59, « Comme ça, je me reconnais », la chanson de rivière qui « s'arrêtait toujours avant la fin ».
+- **K. en 1958 :** « Ce n'est pas encore vous. » Dans l'annexe, la femme aux cheveux ras « m'a regardé comme si elle me connaissait ».
+- **Jeanne, 7 ans, en 2059 :** elle frappe contre le mur jusqu'à 59, ce qui montre qu'Iris adulte, dissoute dans Mathis, est transmise à son arrière-grand-mère.
+- **La relecture de la coda :** Iris B, en 2164, est le corps vide d'une voyageuse partie en 2155 vers 1958.

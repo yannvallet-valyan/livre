@@ -16,9 +16,13 @@ Rose resta seule dans sa cuisine, la troisième maison à gauche, au fond de la 
 
 ---
 
+Jean disait qu'elle avait changé cet été-là. Depuis le mois de juin, depuis que les pelleteuses avaient commencé à décaper le fond de la vallée et que la vieille rivière déviée avait laissé à nu des mètres de glaise grise, Rose ne dormait plus comme avant. Elle se levait la nuit. Elle marchait dans la maison. Elle restait des heures assise au bord du lit du petit, les mains à plat sur les cuisses, à le regarder dormir, et parfois elle comptait, à voix basse, jusqu'à soixante, sans jamais dire le dernier chiffre.
+
+Un matin de juillet, elle s'était coupé les cheveux. Ses longues tresses noires, qu'elle portait depuis l'enfance, qu'elle enroulait en chignon le dimanche pour la messe : elle les avait coupées à ras, aux ciseaux de cuisine, devant le miroir de l'évier, de travers. Jean l'avait trouvée là, la nuque nue, les tresses dans l'évier. Elle n'avait pas su lui dire pourquoi. Elle avait seulement dit, en se regardant dans la glace, avec une voix qui n'était pas tout à fait la sienne : *Comme ça, je me reconnais.*
+
 Elle mit la table.
 
-Cinq assiettes. C'était le nombre de la table depuis qu'elle était enfant : son père, sa mère, ses deux frères, elle. Puis Jean, et le petit, et la grand-mère qui était morte au printemps. Elle avait toujours mis cinq couverts, même quand ils n'étaient plus que trois, parce qu'une table, disait sa mère, c'est fait pour les gens qui ne sont pas encore arrivés.
+Cinq assiettes. C'était le nombre de la table depuis qu'elle était enfant : son père, sa mère, ses deux frères, elle. Puis Jean, et le petit, et la grand-mère qui était morte au printemps. Elle avait toujours mis cinq couverts, même quand ils n'étaient plus que trois, et depuis l'été elle savait, sans pouvoir dire comment, qu'il y avait d'autres absents à attendre que ceux de sa famille, parce qu'une table, disait sa mère, c'est fait pour les gens qui ne sont pas encore arrivés.
 
 Elle alluma la lampe à pétrole, puisqu'on avait coupé l'électricité la veille. Elle fit cuire une soupe d'oignons, parce qu'il restait des oignons. Elle la servit dans les cinq assiettes. Elle s'assit à sa place, au bout de la table, et elle ne mangea pas.
 
