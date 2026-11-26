@@ -75,6 +75,7 @@
 
     const sc = STORY.scenes[state.scene];
     document.body.dataset.pov = sc.pov || "neutre";
+    document.body.dataset.scene = state.scene;
     el.chapter.textContent = sc.chapter || "";
     el.title.textContent = sc.title || "";
 
