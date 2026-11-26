@@ -16,6 +16,10 @@ Le lac était noir, d'un noir sans reflet, et si grand qu'elle ne put d'abord lu
 
 Vingt et un.
 
+Sur l'autre rive, plus haut, quelques lumières jaunes s'étageaient dans la pente, sur trois rangées : des fenêtres, un lampadaire, la pâleur d'un clocher. Un village. Elle n'en avait jamais vu que sur les cartes postales des albums de la salle des Périodiques, ces petits rectangles jaunis qu'on se passait de main en main et qui disaient *Bons baisers de*.
+
+Son père, Paul, réparait les lampes du refuge. Il disait qu'autrefois, une fenêtre allumée la nuit voulait dire *quelqu'un est là, tu peux frapper*. Il avait rouillé quand elle avait quinze ans. Elle l'avait nourri à la cuillère pendant deux hivers. Il était mort sans savoir qu'il existait encore, quelque part dans le temps, des fenêtres pareilles.
+
 Elle respira. L'air sentait la pierre mouillée et autre chose, une odeur épaisse, sombre, qu'elle ne parvenait pas à nommer. Le mot était là, quelque part. Il arriva avec un temps de retard, comme une pièce de monnaie qui touche enfin le fond d'un puits.
 
 *Résine.*

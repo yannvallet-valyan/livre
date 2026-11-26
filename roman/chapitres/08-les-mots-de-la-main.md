@@ -40,6 +40,16 @@ Le docteur Marle recevait dans une maison de pierre aux volets verts, au premier
 
 Étienne Marle avait quarante-six ans, des tempes grises, une cicatrice fine au-dessus du sourcil gauche et une voix douce qui semblait toujours sur le point de rire de quelque chose. Il la fit asseoir, s'assit en face d'elle plutôt que derrière son bureau, et l'écouta sans l'interrompre.
 
+Le bureau ressemblait à son occupant : un peu trop grand, un peu en désordre, chaleureux malgré lui. Un échiquier au coin de la table, une partie en cours, les pièces blanches en mauvaise posture. Une sacoche de cuir craquelé sur le portemanteau. Et, sur le rebord de la fenêtre, une paire de gants de jardinage, terreux, usés aux doigts, qui n'avaient rien à faire dans un cabinet médical. Sophia les regarda un peu trop longtemps. Il s'en aperçut.
+
+— Ma femme, dit-il simplement. Claire. Elle est morte il y a sept ans. Elle jardinait le samedi, je n'ai jamais su les ranger.
+
+Il désigna la porte de la salle d'attente.
+
+— L'horloge aussi, c'est à cause d'elle. Elle faisait tic-tac pendant que j'attendais l'ambulance. Je l'ai décrochée le lendemain. Les patients se plaignent de ne pas savoir l'heure. Je leur dis que c'est thérapeutique.
+
+Il sourit. C'était un sourire fatigué, qui ne demandait rien.
+
 Elle lui parla du bleu, de la boue, du verre. Elle ne lui parla ni du carnet ni du chiffre. Elle dit « somnambulisme » avant lui, pour lui mâcher le travail, et il hocha la tête.
 
 — C'est fréquent, dit-il. Plus qu'on ne croit. Le stress, la fatigue, un changement de vie. Vous êtes arrivée cet été, c'est ça ? Vous travaillez au laboratoire ?

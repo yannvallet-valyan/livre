@@ -38,6 +38,24 @@ Les coups revinrent la nuit suivante. Et celle d'après. Elle finit par les atte
 
 ---
 
+Le samedi, Sophia alla se faire couper les cheveux. Elle ne l'avait pas fait depuis deux ans. Elle écrivit dans le carnet, la veille, presque pour s'excuser : *Je vais chez Corinne demain. Juste les pointes. Je te préviens, c'est notre corps.*
+
+Élise lut la phrase trois fois. *Notre corps.* Elle répondit : *Pas trop court. J'ai mis du temps à m'habituer.*
+
+Le salon *Chez Corinne* sentait la laque et le café brûlé. Corinne Delorme coupait les cheveux de tout Vallorce depuis vingt-deux ans, et elle savait donc tout de tout le monde : qui trompait qui, qui buvait, qui avait un cancer avant que le médecin le sache. Elle parlait sans s'arrêter, d'une voix haut perchée, en faisant claquer ses ciseaux comme des castagnettes. Elle parla de son ex-mari, parti à Marseille avec une vendeuse de piscines, de Mathis qui ne dormait toujours pas, des gens du labo « qui payent cent euros pour dormir, tu te rends compte, moi je dors gratis », de Biscotte qui avait mangé une chaussette.
+
+Puis, en démêlant la longue natte de Sophia, elle s'arrêta.
+
+— Tu as des nœuds, dit-elle. Partout. Comme si quelqu'un passait ses doigts dedans toute la nuit.
+
+Sophia ne répondit pas. Dans le miroir, Corinne la regardait, les ciseaux en l'air, avec une expression qu'elle ne lui connaissait pas.
+
+— Mathis dit que tu as deux visages, la nuit, dit-elle doucement. Je lui ai dit d'arrêter ses histoires. Mais il ne ment jamais, tu sais. C'est ça qui m'inquiète. Il n'a jamais menti de sa vie.
+
+Elle se remit à couper, plus vite, et se remit à parler de Biscotte.
+
+---
+
 Il y avait une chose qu'Élise n'avait pas écrite, et qui la tenait éveillée bien plus que la mission.
 
 Dans la bibliothèque, chaque famille de lucides tenait un registre. C'était devenu un rituel, presque une religion : on y recopiait les naissances et les morts aussi loin qu'on pouvait remonter, pour que quelqu'un, quelque part, se souvienne encore de qui venait de qui. Celui des Varenne était un cahier d'écolier à la couverture rouge. Élise l'avait recopié trois fois de sa main, et elle en connaissait chaque ligne. Pour son voyage, elle n'avait gardé que les cinq premières :

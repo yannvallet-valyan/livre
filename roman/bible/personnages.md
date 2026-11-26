@@ -1,3 +1,5 @@
+> Biographies complètes, apparence et brief d'illustration : voir `../fiches/`.
+
 # Personnages
 
 > Les révélations sont signalées par 🔒.

@@ -18,6 +18,14 @@ Sophia y était entrée en juin, après quinze ans de contrats précaires dans d
 
 Elle s'était dit que c'était pour le poste, et c'était vrai. On lui confiait la surveillance du niveau du lac et des débits pendant l'abaissement de la retenue. L'exploitant avait commencé à faire baisser le lac en août pour préparer des travaux d'injection : on allait boucher les fissures du vieux mur en y poussant, sous pression, un coulis de béton liquide. Les camions étaient attendus pour la mi-novembre. D'ici là, le lac descendrait d'un mètre par semaine, et elle devait mesurer ce qu'il emportait, et ce qu'il découvrait.
 
+Elle s'était dit beaucoup de choses, ces dernières années.
+
+Elle s'était dit, à douze ans, au bord du lac de Paladru, quand sa mère lui avait tendu une petite fiole vide « pour garder un peu de l'été », qu'elle la remplirait d'eau et la jetterait en rentrant. Elle l'avait gardée. Puis une autre, l'année suivante, au lac d'Aiguebelette. Elle en avait maintenant quarante-trois, une par lac étudié, étiquetées à l'encre bleue, alignées sur une étagère. Elle ne savait pas très bien pourquoi. Elle disait que c'étaient des témoins.
+
+Elle s'était dit, à seize ans, en stage d'été dans un laboratoire de Grenoble, qu'elle pouvait rattraper l'éprouvette qui tombait de la paillasse. Elle avait posé la main gauche à plat sur une plaque chauffante. Il lui en restait une cicatrice en anneau, nacrée, autour du pouce, et une leçon qu'elle avait écrite le soir même dans son journal : *On ne rattrape pas ce qui tombe. On le mesure.*
+
+Elle s'était dit, à vingt-neuf ans, en épousant Julien, ingénieur des eaux, gentil, sûr de lui, qu'elle finirait par vouloir ce qu'il voulait. Elle s'était dit, à trente-quatre, en signant les papiers du divorce dans un café de Grenoble, sans larmes et presque sans tristesse, que ce n'était pas une question d'amour. Il voulait un enfant. Elle avait dit non, puis encore non, sans réussir à expliquer pourquoi. La vraie raison, elle ne l'avait jamais dite à personne, parce qu'elle n'avait pas de forme : la peur de transmettre quelque chose. Quelque chose qui ne se voyait pas, qui ne se mesurait pas, qui venait de son père et dormait en elle.
+
 Ce qu'il découvrait, c'était de la vase. Des mètres de vase grise, accumulée depuis la dernière vidange, en 1980, et qui intéressait beaucoup Bastien Kerr, le directeur. Kerr avait trente-cinq ans, un sourire de publicité et une politesse si parfaite qu'elle en devenait une forme d'absence. Il passait ses journées dans la salle du fond, celle dont la porte portait un clavier à code et une affichette : *Culture — accès restreint*.
 
 Et puis il y avait les poissons. Chaque matin, en reculant, le lac en abandonnait quelques-uns sur la vase : des truites, des chevesnes, blancs, le ventre en l'air, que les corbeaux venaient ouvrir dès l'aube. Les jours sans vent, l'odeur montait jusqu'au village. Les gens fermaient leurs fenêtres. Personne n'en parlait.

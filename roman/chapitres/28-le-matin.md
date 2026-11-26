@@ -161,6 +161,26 @@ Entre deux pages noires, elle colla la plaquette de la Fondation Léthé, avec d
 
 ---
 
+Le soir du 15, elle appela sa mère.
+
+Hélène décrocha à la deuxième sonnerie, avec la voix inquiète qu'elle prenait toujours quand Sophia appelait un jour qui n'était pas un dimanche.
+
+— Il s'est passé quelque chose ?
+
+Sophia regarda par la fenêtre. La cabine était allumée, comme chaque soir. Elle savait, maintenant, qu'il n'y avait plus qu'un seul homme dedans.
+
+— Maman, la chanson. Celle que je fredonnais quand j'étais petite, et dont tu disais que tu ne la connaissais pas.
+
+Il y eut un silence très long au bout du fil. Puis la voix d'Hélène, plus basse, presque inaudible :
+
+— Je la connaissais. Je l'ai entendue trois ans, toutes les nuits, derrière une porte. Je ne voulais pas que tu la saches.
+
+— Elle s'appelle *Dors, la rivière*, dit Sophia. Il y a trois couplets. Je les connais tous, maintenant.
+
+Elle chanta le premier, à voix basse, au téléphone. À l'autre bout, à Lyon, sa mère se mit à pleurer, et ce n'était pas de peur.
+
+---
+
 Elle quitta Vallorce le 20 décembre, avec Étienne, dans une voiture chargée jusqu'au toit. Ils allaient à Lyon, où Étienne avait trouvé un poste dans un centre de santé, à une heure de son fils. Elle avait démissionné du laboratoire, qui avait de toute façon fermé ses portes le 1er décembre. La Fondation Léthé avait cessé d'exister quelque part entre deux conseils d'administration, sans communiqué.
 
 Corinne n'oubliait plus le nom de son chien. Florian avait retrouvé du travail à la scierie. On avait enterré Martine Pradel le 29 octobre, au cimetière du haut, celui qu'on n'avait pas noyé.

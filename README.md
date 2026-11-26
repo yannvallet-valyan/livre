@@ -12,6 +12,7 @@ roman/
   plan/             Plan chapitre par chapitre (24 chapitres, 3 actes)
   chapitres/        Les chapitres rédigés (un fichier par chapitre, en Markdown)
   notes/            Questions ouvertes, incohérences à résoudre, idées en vrac
+  fiches/           Fiches personnages, lieux et objets : biographies et brief d'illustration
 site/               Le livre interactif (HTML/CSS/JS purs, aucune dépendance)
   story.js          Toute l'histoire interactive : scènes, choix, variables
   engine.js         Le moteur (sauvegarde, carnet, retour arrière, effet « Rouille »)
@@ -72,5 +73,5 @@ Après toute modification : `node scripts/check-story.js`.
 
 ## État
 
-- Roman : premier jet complet (~39 000 mots, environ 140 pages) : prologue, 25 chapitres, 3 interludes (Oriane, Hélène, Kerr), épilogue, coda et annexe (amorce du tome 2). Trois époques entrelacées. Plan : `roman/plan/plan-chapitres.md`. Mécanique, nœud et carte des indices : `roman/bible/chronologie.md`.
+- Roman : premier jet complet (~42 000 mots, environ 150 pages) : prologue, 25 chapitres, 3 interludes (Oriane, Hélène, Kerr), épilogue, coda et annexe (amorce du tome 2). Trois époques entrelacées. Plan : `roman/plan/plan-chapitres.md`. Mécanique, nœud et carte des indices : `roman/bible/chronologie.md`.
 - Interactif : histoire complète jouable (46 scènes, 5 fins : briser, rentrer, le nœud, la fin cachée « page blanche », l'oubli). Les choix des Actes I et II (compter avec le mur, parler à Sacha, garder le badge, la promesse…) débloquent des scènes et des fins.

@@ -74,6 +74,12 @@ Elle alla voir Paul Ménard, l'ingénieur de l'exploitant, dans le préfabriqué
 
 Ménard avait cinquante ans, un casque de chantier toujours posé à portée de main et une patience usée par trente ans de réunions. Il l'écouta parler de la galerie, de l'ouverture dans le mur, de la vase, de l'extraction. Elle ne parla pas des cristaux, seulement de la brèche.
 
+Sur son bureau, entre deux plans du barrage, il y avait une photo de trois adolescentes en maillot de rugby, boueuses jusqu'aux oreilles, qui faisaient le V de la victoire. Il surprit le regard de Sophia.
+
+— Mes filles, dit-il. Toutes les trois au rugby. Ma femme dit que c'est génétique. Moi, je dis que c'est contagieux.
+
+Il avait commencé dans les barrages à vingt ans, comme manœuvre, sur un chantier des Pyrénées où un collègue était mort écrasé par une vanne. Depuis, il avait une religion, une seule, qu'il récitait aux stagiaires comme un credo : *un barrage, ça ne pardonne qu'une fois.*
+
 — Ils ont percé le mur de la galerie ? dit-il. Sans autorisation ?
 
 — Avec la vôtre, je suppose. Ou celle de vos chefs.

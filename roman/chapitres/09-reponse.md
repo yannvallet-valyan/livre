@@ -68,6 +68,30 @@ Les jours suivants, le carnet se remplit. Il y eut des questions et des réponse
 
 ---
 
+Un soir, Sophia écrivit seulement :
+
+*Parle-moi de toi. Pas de 2137. De toi.*
+
+Élise mit longtemps à répondre. Personne ne lui avait demandé cela depuis des années.
+
+*Mon père réparait les lampes. Il disait qu'une fenêtre allumée voulait dire : tu peux frapper. Ma mère lisait des recettes à ceux qui avaient oublié. Elle m'a appris à lire sur un livre de cuisine. Mon premier mot a été ail. Elle comptait jusqu'à soixante dans le noir pour m'endormir, en tapant sur le bois du lit. Je ne suis jamais arrivée au bout : je dormais avant.*
+
+*J'ai une fille. Elle a sept ans. Elle dessine toujours la même maison.*
+
+*Je mange des lentilles tous les jours. Quelqu'un me les laisse. Je ne sais pas qui.*
+
+Le lendemain, à l'encre bleue :
+
+*J'ai une cicatrice au pouce. Tu l'as vue, forcément. J'avais seize ans, j'ai voulu rattraper une éprouvette. Depuis, je ne rattrape plus rien. Je mesure.*
+
+*J'ai été mariée. Il voulait un enfant. Je n'ai pas voulu. Je crois que j'avais peur que ce soit toi.*
+
+Élise relut la dernière phrase plusieurs fois. Elle ne savait pas si Sophia avait voulu dire *toi* au sens de quelqu'un comme elle, de cette chose dans la nuit, ou au sens propre : une descendante, cent ans plus tard, qui viendrait lui emprunter son corps. Elle ne posa pas la question. Elle écrivit seulement :
+
+*Tu as bien fait d'avoir peur. Mais tu as eu tort de dire non pour ça.*
+
+Sophia ne répondit pas à cette phrase. Mais le lendemain, pour la première fois, il y avait sur la table, à côté du carnet, un bol de soupe sous une assiette retournée, encore tiède, et un mot : *Je ne sais pas si tu as faim, là-dedans. Au cas où.*
+
 Puis vint une nuit où Sophia ne posa aucune question.
 
 Élise ouvrit le carnet et trouva une seule page, écrite avec moins de soin que d'habitude, comme si Sophia l'avait rédigée tard et vite, avant de changer d'avis.

@@ -24,6 +24,14 @@ Il ne répondit pas tout de suite. Il regarda les murs.
 
 ---
 
+Avant de commencer, il posa la main sur le mur de la cabine, à un endroit où il n'y avait pas de dessin, juste le crépi jaune écaillé.
+
+— Lui, Anselme, est né en bas, dit-il. Dans la troisième maison à gauche, au fond du lac. Sa mère, Rose, a mis la table pour une cuisine noyée pendant vingt-deux ans. Le soir de la vidange, elle a pleuré sur le parapet. Le lendemain, il a touché la veine. Et le soir, nous sommes tombées dedans.
+
+Il eut un petit rire triste.
+
+— Une maison qu'on noie ne meurt pas. Elle attend. Il le pensait déjà, ce jour-là. Il ne savait pas qu'il parlait de lui.
+
 Il le raconta en désordre, avec des trous, des répétitions, des phrases qui commençaient à la première personne et finissaient à la troisième. Elle ne l'interrompit pas. Elle était archiviste. Elle savait remettre en ordre les textes abîmés.
 
 Quand le cristal se brisait, le fil qui reliait la voyageuse à son temps se rompait d'un coup. Elle ne pouvait plus remonter vers 2137. Elle tombait alors vers le seul autre point d'ancrage que le cristal connaissait : la dernière fois que le gisement avait été ouvert, en octobre 1980, quand on avait vidé le lac. Elle tombait dans le seul ancêtre qui se trouvait là, à quelques mètres du gisement, une pelle à la main, à l'heure où il dormait. Le père de Sophia.

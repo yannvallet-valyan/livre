@@ -22,6 +22,18 @@ Elle apprit enfin à ne rien laisser derrière elle, et ce fut le plus difficile
 
 ---
 
+La cinquième nuit, elle sortit dans le village.
+
+Elle n'alla pas loin. La rue des Fontaines montait en pente douce, pavée de galets ronds qui roulaient sous les semelles, entre des maisons de pierre aux volets fermés. Une fontaine à deux bassins chuchotait au premier carrefour. L'eau était si froide qu'elle lui engourdit les doigts, et elle la but quand même, dans le creux de ses mains, parce qu'elle n'avait jamais bu une eau qui sortait toute seule de la pierre.
+
+Sur la place de l'église, un tilleul énorme, nu, tendait ses branches au-dessus d'un monument aux morts. Une enseigne au néon rose, *Chez Corinne*, était restée allumée au-dessus d'un salon de coiffure, et le C clignotait, s'éteignait, se rallumait, avec un petit grésillement d'insecte. Derrière la vitrine, trois fauteuils vides tournés vers trois miroirs. Élise resta longtemps devant. Dans le refuge, on se coupait les cheveux soi-même, aux ciseaux de cuisine, et l'idée qu'on ait pu payer quelqu'un pour vous coiffer, assis devant un miroir, lui parut d'un luxe presque obscène.
+
+Le clocher sonna trois heures. Elle compta les coups sans le vouloir. Puis elle redescendit, en rasant les murs, parce qu'elle avait eu, en passant devant la vitrine d'un café, la sensation très nette d'être regardée.
+
+Il n'y avait personne. Sauf, peut-être, à une fenêtre du premier étage de la maison voisine de celle de Sophia, une petite tache pâle derrière la vitre, qui pouvait être un visage d'enfant et qui disparut quand elle leva les yeux.
+
+---
+
 Elle connut Sophia par ses objets.
 
 Sophia écrivait tout à l'encre bleue. Sur la table de la cuisine, il y avait toujours un bloc couvert de chiffres, de courbes de niveau, de dates. Sophia notait la température extérieure chaque soir avant de se coucher, à la même heure, sur un tableau scotché à la porte du frigo. Elle possédait un barographe, un tambour de papier où une aiguille traçait la pression de l'air, et Élise passa une nuit entière à le regarder dessiner, fascinée, le souffle court.

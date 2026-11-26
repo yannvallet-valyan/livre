@@ -12,6 +12,10 @@ L'ancien, celui qu'on avait noyé en 1958 pour construire le barrage : vingt-tro
 
 Une femme se mit à pleurer, sur le parapet. Elle était née dans la troisième maison à gauche.
 
+Elle s'appelait Rose Roch. Pendant vingt-deux ans, dans un trois-pièces de Vallorce-le-Haut qui ne serait jamais sa maison, elle avait mis la table pour cinq, alors qu'ils n'étaient plus que trois, puis plus que deux. Les voisins disaient qu'elle attendait les morts du cimetière qu'on n'avait pas tous déplacés. Elle disait qu'elle attendait sa cuisine.
+
+Son fils se tenait à côté d'elle, en bottes, la pelle encore à la main. Il ne la consola pas. Il ne savait pas comment on fait. Il regardait la troisième maison à gauche, la sienne, celle où il était né et dont il ne se souvenait pas : un seuil de granit, l'encadrement d'une fenêtre, un reste d'escalier. Il pensa qu'une maison qu'on noie ne meurt pas. Elle attend, comme sa mère. Il pensa aussi, sans savoir d'où lui venait cette idée, que ce n'était pas une bonne chose de faire remonter ce qui attend.
+
 ---
 
 Anselme Roch avait vingt-quatre ans et il ne pleurait jamais.

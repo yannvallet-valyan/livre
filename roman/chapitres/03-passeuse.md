@@ -18,6 +18,8 @@ Il n'y en avait que quatre, mais on les lui fit répéter jusqu'à ce qu'elles n
 
 Le technicien qui la préparait s'appelait Ruben. Il avait vingt ans et des mains très propres. Il leva les yeux de ses notes.
 
+Il était le petit-fils de l'électricien qui avait tenu les machines du refuge pendant quarante ans, et il parlait aux deux qui restaient comme on parle à des vieilles bêtes : à voix basse, en les flattant du plat de la main. Il avait des lunettes rondes réparées au fil de fer. Il était le seul, au refuge, à ne jamais dire « rouillé » : il disait « parti devant ».
+
 — Il n'y a pas de cinquième règle.
 
 — Il y en a toujours une. Celle qu'on ne dit pas.
@@ -80,6 +82,16 @@ Elle resta jusqu'à ce que le visage soit à elle, jusqu'à pouvoir fermer les y
 Puis elle se leva, et ne se retourna pas, parce qu'elle avait peur qu'un second regard efface le premier.
 
 ---
+
+---
+
+Le dernier matin, elle ouvrit le registre rouge.
+
+C'était un cahier d'écolier à la couverture fanée, dont son père avait recopié les premières pages d'une écriture de réparateur de lampes, carrée, sans fioritures. Des noms, des dates, des flèches. *Sophia VARENNE, née en 1988. Anne VARENNE, née le 3 août 2027 à Lyon, de Sophia Varenne et de père non dénommé. Jeanne…* Plus bas, la main changeait : c'était celle de Paul, puis celle d'Élise, à dix ans, qui avait recopié tout le cahier pour apprendre.
+
+À la dernière ligne écrite, il y avait : *Iris VARENNE, née en 2130 au refuge, de Élise Varenne et de* — et un blanc. Élise avait laissé le blanc il y a sept ans, en pensant le remplir plus tard. Elle ne se rappelait plus pourquoi elle ne l'avait pas fait.
+
+Elle prit le crayon. Sous son propre nom, elle écrivit : *Partie le 15 septembre 2137.* Elle hésita. Elle ne savait pas quoi écrire d'autre. *Pour* ? *Vers* ? Elle laissa la ligne ainsi, ouverte, comme le blanc à côté du nom d'Iris.
 
 La salle de départ était une ancienne réserve, au troisième sous-sol. On y avait installé un lit de camp, une chaise, une lampe. Sur une soucoupe en faïence, posé sur un carré de coton, il y avait un éclat de cristal pas plus gros qu'une lentille, couleur de sang séché.
 

@@ -20,6 +20,10 @@ Elle s'arrêta, et ajouta une ligne plus bas, qu'elle faillit barrer :
 
 Au laboratoire, elle commença à regarder ce qu'on ne lui montrait pas.
 
+Elle commença par le bureau de Kerr, parce qu'il était vitré et qu'elle y passait vingt fois par jour sans y entrer. Une table blanche, un ordinateur, un fauteuil ergonomique, rien aux murs. Une seule photo, retournée face contre le bureau, à côté du clavier. Un jour où il était en réunion, elle la redressa du bout d'un doigt. Un petit garçon d'environ cinq ans, en maillot de bain rayé, sur un ponton, qui riait en tendant vers l'objectif un caillou blanc comme un trésor. Derrière lui, de l'eau bleue, des montagnes. Elle reposa la photo exactement comme elle l'avait trouvée, face contre le bois, et ne dit rien à personne.
+
+Inès, la technicienne, vingt-quatre ans, des piercings à l'oreille et une passion pour les pâtisseries ratées qu'elle apportait chaque lundi, en savait plus qu'elle ne disait. Sophia l'apprit autour d'une tarte aux pommes effondrée. *Kerr a perdu un enfant*, murmura Inès, *c'est pour ça qu'il est comme ça. Poli. Comme quelqu'un qui tient une porte fermée avec son dos.*
+
 Elle le fit avec méthode, comme elle faisait tout. Elle dressa d'abord une liste de ce qu'elle savait. La Fondation Léthé avait financé la construction du bâtiment en six semaines, au printemps. Bastien Kerr avait été recruté avant les murs. L'étude officielle portait sur la composition des sédiments du lac et leur comportement pendant l'abaissement. Le budget était absurde pour une étude de sédiments. La salle du fond, *Culture — accès restreint*, consommait à elle seule plus d'électricité que tout le reste du bâtiment : elle l'avait lu sur le compteur. Et on avait livré douze bacs en polycarbonate.
 
 Elle fit ensuite une liste de ce qu'elle ne savait pas. Elle était beaucoup plus longue.

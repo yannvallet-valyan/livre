@@ -10,11 +10,19 @@ Ils étaient une vingtaine, ce matin-là, assis sur les bancs de la salle des P�
 
 Au deuxième rang, Matthias Oller pleurait sans bruit. Il pleurait souvent pendant les recettes. Il avait été cuisinier, avant. Il ne s'en souvenait pas, mais ses mains, elles, se souvenaient : posées sur ses genoux, elles épluchaient des légumes invisibles.
 
+Avant Élise, c'était sa mère qui lisait les recettes. Marthe Varenne avait une voix grave et lente, qui faisait durer chaque étape comme si l'oignon pouvait vraiment dorer sous les yeux des auditeurs. Elle avait appris à lire à sa fille sur ce même livre de cuisine, la couverture arrachée, les pages tachées de doigts. *Ail* avait été le premier mot. *Frémir*, le premier mot difficile. Le soir, dans le noir du dortoir, quand on éteignait les lampes pour économiser l'huile, Marthe tapait doucement sur le bois du lit et comptait jusqu'à soixante, « pour qu'on sache que le temps passe encore ». Élise s'endormait toujours avant la fin.
+
+Marthe s'était éteinte en 2124, au milieu d'une recette de pain de lentilles. Elle s'était arrêtée à *pétrir*, avait regardé ses mains, et n'avait plus jamais rien dit. Depuis, Élise lisait à sa place. Elle lisait sur le même livre, au même endroit, debout devant les mêmes bancs. Certains jours, elle avait l'impression que les auditeurs ne s'étaient pas aperçus du changement.
+
 — *Laisser frémir*, répéta Élise, et elle referma le livre.
 
 La Rouille ne faisait pas mal. C'était ce qu'il y avait de plus cruel. Elle prenait d'abord les visages, puis les mots, et les gestes simples pour finir : nouer un lacet, ouvrir une porte, porter une cuillère à sa bouche. À la fin, elle prenait la chose qui sait qu'on est quelqu'un. On disait de ceux-là qu'ils étaient « rouillés jusqu'au cœur ». Ils restaient assis, les yeux ouverts, paisibles, et il fallait les nourrir comme des oiseaux.
 
 On en connaissait la cause depuis vingt ans. Quand on ouvrait le crâne des morts, on y trouvait, logés dans les replis du cerveau comme du sel dans un tissu mouillé, des milliers de minuscules cristaux couleur rouille, d'où le nom. Le cristal poussait. Il se nourrissait de ce qu'il effaçait. Personne ne savait l'arrêter. Personne ne savait d'où il venait, sauf peut-être le dossier gris qui attendait Élise à l'étage, dans la salle du Conseil.
+
+Pour rejoindre le dortoir, il fallait traverser le grand hall, celui que les anciens appelaient encore « l'accueil ». Le mur du fond, entre deux colonnes, était couvert d'écriture à la craie, du sol jusqu'à hauteur d'homme : des noms, serrés, de toutes les mains, de toutes les tailles. C'était le mur des noms. Quand quelqu'un rouillait jusqu'au cœur, un proche venait y écrire son nom, pour qu'il en reste au moins ça. On ne les effaçait jamais. Les plus anciens, en bas, avaient presque disparu sous les frottements des épaules.
+
+Élise s'arrêta, comme chaque jour, devant deux noms côte à côte, à hauteur de sa poitrine, qu'elle avait écrits elle-même à neuf ans d'intervalle. *Paul Varenne. Marthe Varenne.* Elle n'y toucha pas. Elle ne priait pas : personne ne priait plus, ici. Elle se contentait de les lire, une fois, lentement, comme on vérifie qu'une porte est bien fermée.
 
 Elle n'y alla pas tout de suite. Elle passa d'abord par le dortoir des enfants.
 
@@ -55,6 +63,8 @@ Il y avait un vide, dans la vie d'Élise, qu'elle avait cessé d'interroger.
 Iris avait un père. Élise le savait comme on sait qu'une pièce a contenu un meuble, à la marque plus claire qu'il a laissée sur le parquet. Il restait dans le dortoir un lit en trop, contre le mur, qu'on n'avait jamais attribué. Il restait dans son armoire une chemise trop grande pour elle. Il y avait cette façon qu'avait Iris de tenir sa craie, entre le pouce et le majeur, qui ne venait pas d'Élise. Mais il n'y avait ni visage, ni nom, ni voix. La Rouille avait commencé par lui. Elle prenait toujours d'abord les visages qu'on avait le plus regardés.
 
 Élise n'était pas *rouillée*. Elle lisait, elle se souvenait, elle comptait. Mais tout le monde, ici, portait un peu de cristal dans la tête, et chacun avait sa pièce vide.
+
+Il y avait d'autres choses qu'elle avait cessé d'interroger. Chaque midi, au réfectoire, il y avait à sa place un bol de lentilles au cumin, encore chaud, posé là avant qu'elle n'arrive. Personne ne le revendiquait. Elle avait demandé, au début, une fois ou deux. On lui avait répondu que c'était comme ça depuis longtemps, qu'il ne fallait pas s'en faire. Elle avait fini par ne plus demander, comme on cesse de se demander d'où vient la pluie. Elle mangeait les lentilles. Elles étaient toujours un peu trop salées, exactement comme elle les aimait.
 
 ---
 
