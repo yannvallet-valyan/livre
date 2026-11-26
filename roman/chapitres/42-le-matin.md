@@ -1,12 +1,12 @@
-# Chapitre 35 — Le matin
+# Chapitre 36 — Le matin
 
 *(premier jet)*
 
-Sophia se réveilla sur le barrage, sous une couverture, la tête sur l'épaule d'un homme, et elle sut avant d'ouvrir les yeux que c'était Étienne.
+Sophia se réveilla dans son lit, contre le mur mitoyen, sous une couverture qui n'était pas la sienne et qui sentait le givre, la tête sur l'épaule d'un homme, et elle sut avant d'ouvrir les yeux que c'était Étienne.
 
-Il dormait encore. Ou plutôt, il se réveillait en même temps qu'elle : elle sentit sa respiration changer, sa main bouger dans la sienne. Leurs doigts étaient mêlés. Ils avaient dû se tenir la main toute la nuit, ou en tout cas les deux qui les habitaient l'avaient fait, et leurs doigts étaient raides de froid, engourdis, soudés.
+Il dormait encore. Ou plutôt, il se réveillait en même temps qu'elle : elle sentit sa respiration changer, sa main bouger dans la sienne. Leurs doigts étaient mêlés. Ils avaient dû se tenir la main toute la fin de la nuit, ou en tout cas les deux qui les habitaient l'avaient fait. Elle ne chercha pas à savoir le reste. Elle l'avait demandé.
 
-Elle ouvrit les yeux. Le soleil n'était pas encore levé, mais le ciel, au-dessus de la crête, était devenu d'un bleu très pâle, presque blanc. Il y avait du givre sur la couverture. Leur souffle faisait de la buée.
+Elle ouvrit les yeux. Le soleil n'était pas encore levé, mais le ciel, par la fenêtre, au-dessus de la crête, était devenu d'un bleu très pâle, presque blanc. Il y avait du givre au coin des vitres. Sur la chaise, le manteau de Sophia était encore humide, et les bottes d'Étienne, au pied du lit, avaient de la boue grise sur les talons.
 
 Étienne ouvrit les yeux à son tour. Il regarda le ciel, puis leurs mains, puis elle.
 
@@ -14,7 +14,7 @@ Elle ouvrit les yeux. Le soleil n'était pas encore levé, mais le ciel, au-dess
 
 — Bonjour.
 
-Ils ne bougèrent pas. Ils restèrent assis là, sur le parapet glacé, à se regarder, avec la sensation étrange d'arriver au milieu d'une conversation dont ils n'avaient entendu que la fin.
+Ils ne bougèrent pas. Ils restèrent allongés là, à se regarder, avec la sensation étrange d'arriver au milieu d'une conversation dont ils n'avaient entendu que la fin.
 
 — C'est fini ? demanda-t-il.
 
@@ -22,7 +22,7 @@ Sophia ferma les yeux. Elle chercha au fond d'elle, comme on cherche dans le noi
 
 — Pas encore, dit-elle.
 
-En bas, au pied du barrage, des phares s'allumèrent. Elle entendit un moteur de camion, puis un deuxième. Le grondement sourd d'une pompe qui démarre. Il était six heures.
+Par la fenêtre, tout en bas, au pied du barrage, des phares s'allumèrent. Elle entendit un moteur de camion, puis un deuxième. Le grondement sourd d'une pompe qui démarre. Il était six heures.
 
 ---
 

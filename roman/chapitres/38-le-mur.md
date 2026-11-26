@@ -1,4 +1,4 @@
-# Chapitre 32 — Le mur
+# Chapitre 33 — Le mur
 
 *(premier jet)*
 

@@ -42,7 +42,7 @@ Et puis, la veille, sa mère avait frappé le soixantième coup.
 
 ---
 
-Cette nuit, la dernière, sa mère n'était pas dans la chambre. Elle était en bas, dans la cuisine. Iris voyait la lumière verte sur le givre qui blanchissait déjà la rue. Elle voyait l'ombre penchée sur le carnet, qui écrivait, qui écrivait, page après page.
+Cette nuit, la dernière, sa mère n'était pas dans la chambre. Elle était en bas, dans la cuisine. Iris voyait la lumière verte sur le givre qui blanchissait déjà la rue. Elle voyait l'ombre penchée sur le carnet, qui écrivait, qui écrivait, page après page. Et en face, de l'autre côté de la table, une autre ombre, plus grande, qui ne bougeait pas, qui la regardait écrire, et qui se leva une fois pour remuer quelque chose dans une casserole.
 
 Iris posa la main de Mathis à plat contre le mur, à hauteur de l'oreiller, contre une chambre vide.
 
@@ -60,13 +60,23 @@ Alors, pour la première fois de sa vie, elle frappa le soixantième.
 
 ---
 
-À quatre heures du matin, elle vit sa mère sortir de la maison, emmitouflée dans le manteau de Sophia, et remonter la rue des Fontaines sur le givre, vers le barrage, sans se retourner.
+À quatre heures du matin, la lumière de la cuisine s'éteignit. Elle vit sa mère sortir de la maison, emmitouflée dans le manteau de Sophia, et un homme avec elle, grand, voûté, une couverture sous le bras. Ils remontèrent la rue des Fontaines sur le givre, vers le barrage, côte à côte, sans se retourner.
 
-Iris la regarda jusqu'à ce qu'elle disparaisse au tournant. Puis elle resta à la fenêtre, le front contre la vitre froide, à regarder la lampe jaune du couronnement, très haut, très loin, où deux silhouettes étaient sans doute assises en ce moment sous une couverture, à nommer des étoiles qui n'avaient pas de nom.
+Iris les regarda jusqu'à ce qu'ils disparaissent au tournant. Puis elle resta à la fenêtre, le front contre la vitre froide, à regarder la lampe jaune du couronnement, très haut, très loin, où deux silhouettes étaient sans doute assises en ce moment sous une couverture, à nommer des étoiles qui n'avaient pas de nom.
 
 Elle avait peur. Elle savait ce qui allait se passer à neuf heures quarante. Elle savait que le fil allait se couper, doucement, comme une lampe dont on baisse la mèche, et qu'elle ne remonterait pas, et qu'elle resterait là, dans un petit garçon qui avait peur du noir, à se défaire en lui comme sa mère allait se défaire dans Sophia.
 
 Elle savait aussi qu'en restant, elle effaçait la seule version d'elle-même qui ait jamais connu sa mère.
+
+Vers cinq heures, ils redescendirent. Elle les vit arriver de loin, sous le lampadaire du carrefour, sur le givre qui brillait. Ils se tenaient par la main. Elle n'avait jamais vu ses parents se tenir par la main. Elle avait sept ans quand ils étaient partis, et à cet âge on ne regarde pas les mains des adultes.
+
+Sa mère leva les yeux vers la fenêtre. Iris recula d'un pas, par réflexe, comme un enfant pris en faute. Puis elle vit la main libre de sa mère se lever, lentement, paume ouverte, comme on salue quelqu'un qu'on attendait.
+
+Elle ne lui rendit pas son salut. Elle n'en eut pas le temps : ils étaient déjà entrés.
+
+Derrière le mur, quelques minutes plus tard, elle entendit l'escalier craquer, une porte, des pas légers. Elle retira la main de Mathis du papier peint. Elle s'écarta du mur, doucement, sans bruit, et alla s'asseoir de l'autre côté de la chambre, sur le petit tapis, contre le lit, le plus loin possible.
+
+Elle leur laissa la place.
 
 Elle pensa qu'elle aurait aimé lui dire *c'est toi*, une fois, en lui montrant un dessin. Elle n'en avait pas eu le temps. Elle n'en aurait plus jamais le temps.
 

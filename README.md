@@ -73,5 +73,5 @@ Après toute modification : `node scripts/check-story.js`.
 
 ## État
 
-- Roman : premier jet complet (~60 000 mots, environ 215 pages) : prologue, 35 chapitres, 6 interludes (Oriane, Hélène, Ruben, Kerr, Rose, Iris), épilogue, coda et annexe (amorce du tome 2). Trois époques entrelacées. Plan : `roman/plan/plan-chapitres.md`. Mécanique, nœud et carte des indices : `roman/bible/chronologie.md`.
+- Roman : premier jet complet (~62 500 mots, environ 225 pages) : prologue, 36 chapitres, 6 interludes (Oriane, Hélène, Ruben, Kerr, Rose, Iris), épilogue, coda et annexe (amorce du tome 2). Trois époques entrelacées. Plan : `roman/plan/plan-chapitres.md`. Mécanique, nœud et carte des indices : `roman/bible/chronologie.md`.
 - Interactif : histoire complète jouable (46 scènes, 5 fins : briser, rentrer, le nœud, la fin cachée « page blanche », l'oubli). Les choix des Actes I et II (compter avec le mur, parler à Sacha, garder le badge, la promesse…) débloquent des scènes et des fins.

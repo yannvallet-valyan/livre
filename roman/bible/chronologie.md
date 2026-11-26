@@ -42,7 +42,7 @@ Anselme ROCH (1956)  x  Hélène VARENNE (1960)    Étienne MARLE (1980)  x (1) 
 ```
 
 - **Sophia** est l'arrière-arrière-grand-mère d'Élise (quatre générations).
-- **Anne**, la fille de Sophia et d'Étienne, est conçue le 6 novembre 2026 et naît le 3 août 2027. Les archives d'Élise indiquent « père inconnu ».
+- **Anne**, la fille de Sophia et d'Étienne, est conçue **entre le 6 et le 14 novembre 2026, le jour ou la nuit : personne ne le sait**, et elle naît le 3 août 2027. Le registre indique « père non dénommé ».
 - **Noé** descend d'Étienne par Hugo, le fils de son premier mariage. Élise et Noé sont donc des cousins très éloignés, ce qui explique qu'ils soient les deux seuls du refuge à pouvoir rejoindre Vallorce.
 - **Anselme** est le père de Sophia. Il est donc aussi un ancêtre d'Élise, ce qui rend la chute possible.
 
@@ -60,7 +60,9 @@ Anselme ROCH (1956)  x  Hélène VARENNE (1960)    Étienne MARLE (1980)  x (1) 
 | début oct. | Élise rencontre « Sacha », l'homme aux étoiles (Noé dans Étienne) | 9 |
 | oct. | La galerie, Anselme, les premiers oublis (trois mois d'avance), Mathis | 10-15 |
 | début nov. | Le dossier « V. ». Le Veilleur cherche une femme Varenne | 16 |
-| 6 nov. | Sophia et Étienne passent la nuit ensemble. Anne est conçue | 17 |
+| 6 nov. | Sophia et Étienne passent leur première nuit ensemble | 17 |
+| 10-12 nov. | Élise révèle Anne ; Sophia offre la dernière nuit aux voyageurs ; Étienne y consent par écrit | « Ce que je ne pouvais pas te dire » |
+| nuit du 13 au 14 nov. | Le soir, Sophia et Étienne ; la nuit, Élise et Noé, dans le même lit, avec l'accord des hôtes | « Le 13 novembre », « La dernière nuit » |
 | 7-12 nov. | Le cycle, le premier Passeur, Noé, les trois portes | 18-21 |
 | nuit du 13 au 14 nov. | La dernière nuit | 22 |
 | **14 nov. 2026** | L'extraction prévue par la fondation est devancée : la galerie est noyée de coulis | 23 |
@@ -178,7 +180,7 @@ Personne n'est méchant.
 
 ## 9. L'amour des voyageurs et son danger (révision 4)
 
-- **Le risque concret :** Anne doit être conçue par Sophia et Étienne une nuit précise (le 6 novembre), choisie par eux.
+- **Le risque concret :** Anne doit être conçue par Sophia et Étienne, lors d'une nuit choisie par eux.
   - Si les voyageurs rapprochent les corps, Sophia se réveille dans un lit qu'elle n'a pas choisi. Elle a peur et fuit, ou bien elle vient trop tôt à Étienne.
   - Dans les deux cas, ce n'est plus Anne. La lignée d'Élise (Jeanne, Paul, Élise, Iris) s'efface.
 - **Le précédent :** dans un tour passé, Élise et Noé ont brisé leurs règles. Il n'y a pas eu d'Anne, ni de Passeuse ce tour-là. La Rouille est venue quand même, plus tard. Les Élise d'Anselme s'en souviennent « comme d'un rêve ».
@@ -187,3 +189,19 @@ Personne n'est méchant.
 - **Les fuites :** ce que vivent les voyageurs passe en partie chez leurs hôtes. Sophia compte, dit « aubépine » et cherche Orion. Étienne se réveille « amoureux d'une femme aux cheveux courts ». C'est ce qui provoque la jalousie et la dispute du jour (ch. « Quatre »).
 - **Les indices de Noé :** les lentilles au cumin trop salées, le geste de tenir les objets entre le pouce et le majeur, le compte à 37 où sa main trouvait la sienne dans le noir.
 - **La forme finale de leur amour :** laisser la place. « Après, eux, ils pourront. »
+
+
+## 10. La conception d'Anne (révision 5)
+
+- **Le principe :** on ne doit jamais savoir si Anne a été faite le jour (par Sophia et Étienne) ou la nuit (par Élise et Noé, dans leurs corps). C'est le sens profond de « père non dénommé ». Sophia en fait une condition : *« Je ne veux pas savoir. »*
+- **Le consentement :**
+  - Élise révèle Anne à Sophia avant de lui demander quoi que ce soit (« je ne peux pas te demander ton corps sans te dire pour quoi »).
+  - C'est **Sophia** qui propose la dernière nuit. Étienne consent par écrit. La proposition est éclairée, écrite le jour, révocable.
+  - Le tour raté d'autrefois échouait parce que Sophia n'avait **pas été consultée**, et non parce que les voyageurs s'étaient aimés.
+- **La nuit du 13 au 14 :**
+  - le soir, Sophia et Étienne s'aiment, puis s'endorment ensemble chez Sophia ;
+  - la nuit, Élise et Noé se réveillent dans ce même lit, lisent les deux lettres, écrivent et mangent des lentilles, montent voir Orion et redescendent main dans la main ;
+  - **l'acte lui-même est en ellipse**. Le cahier noir ne contient qu'une ligne barrée ;
+  - ils s'endorment au compte de 59, la main d'Élise trouvant celle de Noé au 37ᵉ chiffre.
+- **Iris adulte** les voit rentrer depuis la fenêtre de Mathis. Elle s'éloigne du mur pour « leur laisser la place ».
+- **Conséquence :** Anne porte, dès sa conception, ce qui reste d'Élise et de Noé. C'est une raison de plus aux nuits hantées de la ligne B.

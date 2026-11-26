@@ -1,4 +1,4 @@
-# Chapitre 34 — La dernière nuit
+# Chapitre 35 — La dernière nuit
 
 *(premier jet)*
 
@@ -14,13 +14,49 @@
 
 *Voilà. C'est fait. Tu m'avais dit que tu savais quelle raison donner à Ménard, et tu avais raison.*
 
-*Je ne sais pas comment on écrit le reste. Je vais aller me coucher. Je vais m'endormir, et tu vas te réveiller, et ce sera la dernière fois.*
+*Je ne sais pas comment on écrit le reste.*
 
-*Je t'ai laissé toutes les pages blanches qui restaient.*
+*Étienne est là. Il va dormir à côté de moi, dans mon lit. Nous nous serons aimés ce soir, nous deux, et je n'ai pas honte de te l'écrire. Je te l'ai dit : personne ne saura. Ni toi ni moi.*
+
+*Sous le caillou de Mathis, il y a deux lettres. Une de moi pour toi. Une d'Étienne pour lui. Elles disent la même chose.*
+
+*Je t'ai laissé toutes les pages blanches qui restaient. Et le reste de la nuit.*
 
 ---
 
-Élise lut la page de Sophia à minuit, la dernière nuit, à la table de la cuisine.
+Élise se réveilla à minuit dans le lit de Sophia, contre un corps qui respirait.
+
+Cette fois, elle savait. Elle ne bougea pas quand même. Elle resta allongée sur le dos, les mains à plat sur le drap, et elle écouta, à côté d'elle, la respiration changer, le corps se raidir sous la couverture, et une voix d'homme compter très bas, à peine un souffle.
+
+— … dix-huit, dix-neuf…
+
+— Noé, dit-elle.
+
+Silence.
+
+— Élise ? Où est-ce qu'on… Ce n'est pas la maison d'Étienne.
+
+— Non. C'est la mienne. La sienne. Viens. Il y a quelque chose pour toi en bas.
+
+Ils descendirent sans se toucher, par habitude, l'un derrière l'autre, dans l'escalier raide. Elle alluma la lampe verte. Sous le caillou de Mathis, il y avait deux enveloppes. Elle prit celle de Sophia et lui tendit l'autre, celle d'Étienne, blanche, à l'en-tête du cabinet de la place de l'église.
+
+Il l'ouvrit debout. Elle ne lut pas sa propre lettre. Elle le regarda lire, lui, comme elle l'avait demandé. Elle vit le visage d'Étienne, le visage de Noé, passer par l'incompréhension, puis par quelque chose qui ressemblait à de la peur, puis par une chose qu'elle n'avait jamais vue sur aucun visage et qu'elle n'aurait pas su nommer, même avec tous les mots de la langue de Sophia. Il relut la lettre. Il la posa sur la table, très doucement, comme on pose un nouveau-né.
+
+— Tu savais, dit-il.
+
+— Depuis hier matin.
+
+— Ils… Ils nous donnent…
+
+— Oui.
+
+Il s'assit. Il mit longtemps à parler.
+
+— Je ne sais pas si j'ai le droit.
+
+— Moi non plus, dit Élise. C'est pour ça qu'ils nous l'ont écrit. Pour qu'on n'ait pas à le décider seuls.
+
+Elle s'assit en face de lui et lut la page de Sophia, à la lumière de la lampe verte.
 
 Puis elle compta les pages blanches. Il y en avait trente-deux. Elle pensa que c'était beaucoup, et qu'elle n'en aurait jamais assez.
 
@@ -86,25 +122,23 @@ Elle reposa le stylo noir sur la page, à gauche, à sa place. Elle laissa la pa
 
 ---
 
+À quatre heures, elle reposa le stylo.
+
+Noé avait fait des lentilles pendant qu'elle écrivait, sans un mot, dans la petite casserole de Sophia, avec le cumin qu'il avait apporté dans sa poche. Trop salées. Ils les mangèrent face à face, à la table du carnet, sous la lampe verte, comme deux vieux époux qui n'ont plus besoin de se parler.
+
+— Viens voir Orion, dit-il. Une dernière fois.
+
+---
+
 Il gelait sur le barrage. Le béton du parapet était couvert d'une fine pellicule blanche qui craquait sous les doigts. Le ciel était si clair, si noir, si chargé d'étoiles qu'Élise eut, en arrivant au milieu du couronnement, la sensation de marcher sur le fond d'un lac renversé.
 
-Noé était là. Il avait apporté une couverture, celle du lit d'Étienne, et un thermos de thé. Il avait déjà posé la couverture sur le parapet, côté lac, pour qu'ils puissent s'asseoir sans prendre froid.
+Noé déplia la couverture qu'Étienne avait laissée, celle de son lit, et la posa sur le parapet. Il versa le thé du thermos dans le bouchon et le lui tendit, et cette fois leurs doigts se touchèrent sur le gobelet, et ni l'un ni l'autre ne retira la main.
 
-— Tu as écrit ? demanda-t-il.
+Ils s'assirent. Ils ne gardèrent pas de mètre entre eux. Il passa un bras autour de ses épaules, et elle posa la tête au creux de son cou. Elle sentit qu'il hésitait encore, qu'il pensait aux corps, aux règles, au tour dont les Élise de la cabine se souvenaient comme d'un rêve, et elle dit :
 
-— Tout.
+— Ils sont d'accord. Ils nous l'ont écrit. C'est ça, la différence. C'est la seule.
 
-— Tu as laissé quelque chose pour moi ?
-
-— Non. Tu es là.
-
-Il sourit.
-
-Ils s'assirent. Ils ne gardèrent pas de mètre entre eux. Il passa un bras autour de ses épaules, et elle posa la tête au creux de son cou, comme Sophia, sept nuits plus tôt, l'avait posée sur l'épaule d'Étienne. Elle sentit qu'il hésitait, qu'il pensait aux corps, aux promesses, et elle dit :
-
-— Ils sont d'accord. Ils nous l'ont écrit. Et ce n'est que ça.
-
-— Ce n'est que ça, répéta-t-il.
+— C'est la seule, répéta-t-il.
 
 Ils regardèrent le ciel. Orion était au sud, très haut, le chasseur penché au-dessus du barrage. Ils nommèrent les étoiles qu'ils connaissaient, puis celles qu'ils ne connaissaient pas, et ils leur inventèrent des noms. Ils en appelèrent une *Matthias*, une *Ruben*, une *Biscotte*. Ils en appelèrent une *Iris*, une petite, presque invisible, à gauche de la ceinture, et ils ne dirent plus rien pendant un long moment.
 
@@ -114,15 +148,29 @@ Alors Noé la lui raconta.
 
 Il la lui raconta depuis le début : la nuit de coupure dans le dortoir B, le premier cri, si faible qu'il avait cru qu'elle ne respirait pas. Les premières dents. Le premier mot, qui avait été *lampe*. La première fois qu'elle avait marché, entre les rayonnages de la salle des Cartes, en se tenant aux reliures. La passion de la craie, venue d'un coup, à quatre ans. La façon qu'elle avait de dormir sur le ventre, les poings serrés sous le menton. Et son rire, qui commençait toujours par un petit hoquet, comme si elle s'étonnait elle-même de rire.
 
-Élise écouta les yeux fermés. Elle ne reconnaissait presque rien. Mais à mesure qu'il parlait, il lui semblait que quelque chose prenait forme, quelque part derrière ses paupières, non pas un souvenir, plutôt l'empreinte d'un souvenir, comme la marque plus claire d'un meuble sur un parquet. Elle sut qu'elle ne verrait plus jamais le visage. Elle sut qu'il était là, dans les mots de Noé, et que c'était assez.
+Élise écouta les yeux fermés. Elle ne reconnaissait presque rien. Mais à mesure qu'il parlait, il lui semblait que quelque chose prenait forme, quelque part derrière ses paupières, non pas un souvenir, plutôt l'empreinte d'un souvenir, comme la marque plus claire d'un meuble sur un parquet. Et, au coin de cette empreinte, au coin de l'œil gauche, un point minuscule que sa fille lui avait rendu à travers un mur.
 
-Le ciel commença à pâlir derrière la crête, à l'est, d'un gris presque vert.
+— Rentrons, dit-elle.
+
+---
+
+Ils redescendirent la rue des Fontaines sur le givre, à cinq heures du matin, la main dans la main. C'était la première fois qu'ils marchaient ainsi. Ils ne dirent rien. Le village dormait. La fontaine du carrefour était prise par la glace, et l'eau continuait de couler dessous, on l'entendait chuchoter dans le noir. Au premier étage de la maison voisine de celle de Sophia, derrière une vitre, il y avait une petite tache pâle, immobile, qui les regardait passer. Élise leva les yeux. Elle sut. Elle ne s'arrêta pas. Elle leva seulement la main libre, lentement, paume ouverte, vers la fenêtre, et la tache pâle disparut.
+
+Ils montèrent l'escalier raide. La quatrième marche glissa sous le pied d'Élise, comme la deuxième nuit, il y avait deux mois, et cette fois quelqu'un la retint.
+
+Ils franchirent le mètre.
+
+Ce qu'ils se dirent alors, personne ne l'a écrit. Ni dans le carnet, ni dans aucun registre. Le cahier noir de Genève, à la date du 14 novembre, entre quatre heures et sept heures, ne contient qu'une seule ligne, et elle est barrée.
+
+---
+
+Le ciel commença à pâlir derrière la crête, à l'est, d'un gris presque vert. Elle le vit par la fenêtre, au-dessus du mur mitoyen, la tête sur l'épaule de Noé, sous la couverture qui sentait encore le givre.
 
 — C'est l'heure, dit Noé.
 
 — Je sais.
 
-Elle sentait déjà le corps de Sophia s'alourdir autour d'elle, le sommeil monter comme une marée, comme chaque matin, mais différent, cette fois, plus profond, plus doux. Elle savait qu'à six heures, en bas, sous ses pieds, quelque part dans le ventre du barrage, des hommes en casque ouvriraient des vannes, et que le béton liquide commencerait à couler dans la galerie, à remplir la brèche, à monter le long de la paroi grise, autour des veines rouges, autour du nœud, lentement, sans un choc, sans une poussière, comme une eau qui recouvre une pierre.
+Elle sentait déjà le corps de Sophia s'alourdir autour d'elle, le sommeil monter comme une marée, comme chaque matin, mais différent, cette fois, plus profond, plus doux. Elle savait qu'à six heures, sous le barrage, quelque part dans le ventre du mur, des hommes en casque ouvriraient des vannes, et que le béton liquide commencerait à couler dans la galerie, à remplir la brèche, à monter le long de la paroi grise, autour des veines rouges, autour du nœud, lentement, sans un choc, sans une poussière, comme une eau qui recouvre une pierre.
 
 Elle ne serait pas là pour le voir. Elle serait déjà endormie.
 
@@ -130,7 +178,7 @@ Elle ne serait pas là pour le voir. Elle serait déjà endormie.
 
 — Compte, dit Noé.
 
-Elle compta. Il compta avec elle, à voix basse, la joue contre ses cheveux.
+Elle compta. Il compta avec elle, à voix basse, la joue contre ses cheveux, ceux de Sophia, longs, défaits, qui sentaient la nuit.
 
 Un. Deux. Trois.
 
@@ -138,7 +186,11 @@ Elle pensa à la bibliothèque. À Matthias Oller qui épluchait des légumes in
 
 Vingt. Vingt et un.
 
-Elle pensa à Sophia, qui dormait au fond, très bas, et qui allait se réveiller, et qui saurait. Elle pensa : *merci*.
+Elle pensa à Sophia, qui dormait au fond, très bas, et qui allait se réveiller, et qui ne saurait pas, et qui ne voulait pas savoir. Elle pensa : *merci*.
+
+Trente-sept.
+
+À trente-sept, sa main trouva celle de Noé sous la couverture, comme autrefois, dans le noir de la salle des Cartes. Il la serra.
 
 Quarante. Quarante et un.
 

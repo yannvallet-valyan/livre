@@ -1,4 +1,4 @@
-# Chapitre 33 — Le 13 novembre
+# Chapitre 34 — Le 13 novembre
 
 *(premier jet)*
 
@@ -82,13 +82,13 @@ Ils ne parlèrent pas tout de suite. Ils regardèrent le soleil glisser sur les 
 
 Il sortit de sa poche une enveloppe, une enveloppe de cabinet médical, avec son nom imprimé dans le coin.
 
-— Je lui ai écrit, dit-il. Je la laisserai sur la table de la cuisine. Je ne sais pas si on a le droit d'écrire à quelqu'un qui habite votre corps. Je ne sais pas si c'est poli.
+— Je lui ai écrit, dit-il. Je la poserai sur ta table, ce soir, à côté de ta lettre à toi. Je ne sais pas si on a le droit d'écrire à quelqu'un qui habite votre corps. Je ne sais pas si c'est poli.
 
 — Qu'est-ce que tu lui as dit ?
 
 Étienne haussa les épaules, gêné.
 
-— Merci. De l'avoir aimée pour moi, la nuit, en ne la touchant pas. Et qu'il prenne soin de mes pieds, la dernière fois. Ils n'ont pas encore cicatrisé.
+— Que la dernière nuit est à lui. Que je la lui donne, comme tu la donnes à Élise. Que je le remercie de l'avoir aimée pendant deux mois sans la toucher, et que cette nuit, il a le droit. Et qu'il prenne soin de mes pieds. Ils n'ont pas encore cicatrisé.
 
 Sophia rit. Puis elle ne rit plus. Elle posa la tête sur l'épaule d'Étienne, en plein soleil, sur la place, devant tout le village, et elle s'en fichait.
 
@@ -172,12 +172,18 @@ Anselme hocha lentement la tête. Il regarda le mur, pour la première fois depu
 
 ---
 
-Elle rentra à dix heures et demie. Elle s'assit à la table de la cuisine, ouvrit le carnet, et écrivit la page qu'Élise lirait à minuit : la cote, le froid, le P7, Ménard, son père et les plans. Elle laissa toutes les pages blanches qui restaient.
+Elle rentra à dix heures et demie. Étienne l'attendait devant sa porte, sous la lampe de la rue des Fontaines, son enveloppe à la main, une couverture pliée sous le bras et un thermos dans la poche du manteau.
 
-Puis elle se lava les dents, se coucha dans son lit contre le mur mitoyen, et resta longtemps les yeux ouverts dans le noir.
+— Pour eux, dit-il. Au cas où ils voudraient sortir. Il gèle.
+
+Elle le fit entrer. Elle s'assit à la table de la cuisine, ouvrit le carnet, et écrivit la page qu'Élise lirait à minuit : la cote, le froid, le P7, Ménard, son père et les plans. Elle laissa toutes les pages blanches qui restaient. Étienne posa son enveloppe à côté de la sienne, sous le caillou de Mathis. Ils les regardèrent un moment, côte à côte, l'une bleue, l'autre blanche, adressées à deux personnes qu'ils ne verraient jamais.
+
+Puis ils montèrent. Ils s'aimèrent, ce soir-là, lentement, dans le lit contre le mur mitoyen, avec une gravité qu'ils ne s'étaient jamais connue, comme on dit au revoir à quelqu'un qu'on ne voit pas. Ils ne parlèrent pas d'eux. Ils ne respectèrent pas non plus la règle : ils ne pensèrent qu'à eux.
+
+Après, ils restèrent longtemps les yeux ouverts dans le noir, la tête de Sophia sur l'épaule d'Étienne.
 
 Elle ne savait pas comment on s'endort quand on sait que c'est la dernière fois qu'on ne s'endort pas seule.
 
-Elle finit par compter. Elle ne l'avait jamais fait de sa vie. Un. Deux. Trois.
+Elle finit par compter. Elle ne l'avait jamais fait de sa vie. Un. Deux. Trois. Elle entendit, à côté d'elle, Étienne compter aussi, plus bas, sans savoir d'où il tenait cette habitude.
 
 À vingt-neuf, elle dormait.

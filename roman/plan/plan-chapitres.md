@@ -2,7 +2,7 @@
 
 > ⚠️ Contient toutes les révélations. Mécanique : `bible/chronologie.md`. Indices : §7 de ce même fichier.
 
-**État :** premier jet complet, environ 60 000 mots, soit environ 215 pages. Il comprend un prologue, 25 chapitres, 3 interludes, un épilogue, une coda et une annexe. Objectif : environ 70 000 mots, à obtenir en étoffant chaque chapitre.
+**État :** premier jet complet, environ 62 500 mots, soit environ 225 pages. Il comprend un prologue, 25 chapitres, 3 interludes, un épilogue, une coda et une annexe. Objectif : environ 70 000 mots, à obtenir en étoffant chaque chapitre.
 
 **Structure :** trois époques entrelacées, à la manière de *Dark* :
 - **1980-1991** : Anselme et Hélène ;
@@ -97,18 +97,19 @@
 | `27-corinne.md` | Chapitre 23 — Corinne | 1033 |
 | `28-le-financeur.md` | Chapitre 24 — Le financeur | 1509 |
 | `29-le-cycle.md` | Chapitre 25 — Le cycle | 1762 |
-| `30-le-premier-passeur.md` | Chapitre 26 — Le premier Passeur | 1981 |
+| `30-le-premier-passeur.md` | Chapitre 26 — Le premier Passeur | 2001 |
 | `31-interlude-rose.md` | Interlude — Rose, 1958 | 1095 |
 | `32-le-lit-vide.md` | Chapitre 27 — Le lit vide | 1416 |
 | `33-hugo.md` | Chapitre 28 — Hugo | 995 |
 | `34-la-nuit-de-noe.md` | Chapitre 29 — La nuit de Noé | 1213 |
 | `35-huit-ans.md` | Chapitre 30 — Huit ans | 1509 |
 | `36-trois-portes.md` | Chapitre 31 — Trois portes | 1478 |
-| `37-le-mur.md` | Chapitre 32 — Le mur | 1146 |
-| `38-le-13-novembre.md` | Chapitre 33 — Le 13 novembre | 1975 |
-| `39-interlude-iris.md` | Interlude — Iris | 1305 |
-| `40-la-derniere-nuit.md` | Chapitre 34 — La dernière nuit | 1727 |
-| `41-le-matin.md` | Chapitre 35 — Le matin | 2237 |
-| `42-epilogue-la-page-blanche.md` | Épilogue — La page blanche | 1878 |
-| `43-coda.md` | Coda | 991 |
-| `44-annexe.md` | Annexe — Le cahier noir | 381 |
+| `37-ce-que-je-ne-pouvais-pas-te-dire.md` | Chapitre 32 — Ce que je ne pouvais pas te dire | 1548 |
+| `38-le-mur.md` | Chapitre 33 — Le mur | 1146 |
+| `39-le-13-novembre.md` | Chapitre 34 — Le 13 novembre | 2149 |
+| `40-interlude-iris.md` | Interlude — Iris | 1534 |
+| `41-la-derniere-nuit.md` | Chapitre 35 — La dernière nuit | 2384 |
+| `42-le-matin.md` | Chapitre 36 — Le matin | 2280 |
+| `43-epilogue-la-page-blanche.md` | Épilogue — La page blanche | 1878 |
+| `44-coda.md` | Coda | 991 |
+| `45-annexe.md` | Annexe — Le cahier noir | 444 |

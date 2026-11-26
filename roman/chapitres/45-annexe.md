@@ -12,6 +12,8 @@
 
 *Variable N. : dissoute dans l'hôte E.M. Conforme.*
 
+*Variante inédite en 47 tours : nuit du 13 au 14, consentie par écrit par les deux hôtes. Je n'ai pas observé. Je n'avais pas le droit. La conception d'A. est datée, dans mes tables, « entre le 6 et le 14 novembre, jour ou nuit, indéterminable ». C'est la première fois qu'une de mes tables contient le mot indéterminable. Je l'ai laissé.*
+
 *Variable I. (hôte M.D.) : dissoute. Anomalie confirmée. Elle a rendu à É. le détail perdu (le grain de beauté). Effet sur la suite : inconnu. Première fois en 47 tours que la mère et la fille se parlent. Je ne sais pas ce que cela change. Je n'aime pas ne pas savoir.*
 
 *Les Élise de l'hôte A.R. : éteintes à 9 h 40. Le vieil homme a pleuré. Je l'ai regardé depuis la grève. Je n'avais rien à mesurer. Je suis resté quand même.*
