@@ -42,7 +42,7 @@ Anselme ROCH (1956)  x  Hélène VARENNE (1960)    Étienne MARLE (1980)  x (1) 
 ```
 
 - **Sophia** est l'arrière-arrière-grand-mère d'Élise (quatre générations).
-- **Anne**, la fille de Sophia et d'Étienne, est conçue vers le 8 novembre 2026 et naît le 3 août 2027. Les archives d'Élise indiquent « père inconnu ».
+- **Anne**, la fille de Sophia et d'Étienne, est conçue le 6 novembre 2026 et naît le 3 août 2027. Les archives d'Élise indiquent « père inconnu ».
 - **Noé** descend d'Étienne par Hugo, le fils de son premier mariage. Élise et Noé sont donc des cousins très éloignés, ce qui explique qu'ils soient les deux seuls du refuge à pouvoir rejoindre Vallorce.
 - **Anselme** est le père de Sophia. Il est donc aussi un ancêtre d'Élise, ce qui rend la chute possible.
 
@@ -60,8 +60,8 @@ Anselme ROCH (1956)  x  Hélène VARENNE (1960)    Étienne MARLE (1980)  x (1) 
 | début oct. | Élise rencontre « Sacha », l'homme aux étoiles (Noé dans Étienne) | 9 |
 | oct. | La galerie, Anselme, les premiers oublis (trois mois d'avance), Mathis | 10-15 |
 | début nov. | Le dossier « V. ». Le Veilleur cherche une femme Varenne | 16 |
-| 8 nov. | Sophia et Étienne passent la nuit ensemble. Anne est conçue | 17 |
-| 9-12 nov. | Le cycle, le premier Passeur, Noé, les trois portes | 18-21 |
+| 6 nov. | Sophia et Étienne passent la nuit ensemble. Anne est conçue | 17 |
+| 7-12 nov. | Le cycle, le premier Passeur, Noé, les trois portes | 18-21 |
 | nuit du 13 au 14 nov. | La dernière nuit | 22 |
 | **14 nov. 2026** | L'extraction prévue par la fondation est devancée : la galerie est noyée de coulis | 23 |
 | déc. 2026 | Sophia quitte Vallorce avec Étienne | 23 |

@@ -24,11 +24,11 @@
 | 14 | Mathis | Sophia | fin oct. | Anselme « plein de dames » ; les dessins d'Iris dans la cabine |
 | 15 | Tu reviens toujours | Élise | fin oct. | Le troisième message ; « Méfie-toi de celui qui regarde les étoiles » |
 | 16 | Le Veilleur | Sophia / Élise | début nov. | Le dossier « V. » ; aveu d'amour sur le barrage |
-| 17 | Le financeur | Sophia | 8 nov. | L'extraction du 14 ; Sophia et Étienne passent la nuit ensemble |
-| 18 | Le cycle | Élise | 9 nov. | Réveil dans le même lit ; **l'incident, c'est elle** |
-| 19 | Le premier Passeur | Élise | 10 nov. | **Anselme abrite les Élise des tours précédents** |
-| 20 | Le Veilleur | Sophia / Élise | 11 nov. | **Sacha, c'est Noé, le père d'Iris** |
-| 21 | Trois portes | Élise | 12 nov. | Le choix ; Noé reste aussi |
+| 17 | Le financeur | Sophia | 6 nov. | L'extraction du 14 ; Sophia et Étienne passent la nuit ensemble |
+| 18 | Le cycle | Élise | nuit du 6 au 7 nov. | Réveil dans le même lit ; **l'incident, c'est elle** |
+| 19 | Le premier Passeur | Élise | nuit du 6 au 7 nov. | **Anselme abrite les Élise des tours précédents** |
+| 20 | Le lit vide | Sophia / Élise | 7-8 nov. | **Sacha, c'est Noé, le père d'Iris** |
+| 21 | Trois portes | Élise | 9-12 nov. | Le choix ; Noé reste aussi |
 | 22 | La dernière nuit | Élise | 13-14 nov. | Le carnet ; compter jusqu'à cinquante-neuf |
 | 23 | Le matin | Sophia | 14 nov.-déc. | Réveil main dans la main ; le coulis ; Anselme libéré |
 | 24 | Épilogue : la page blanche | — | 2137 | **La mère s'appelle Iris. « C'est toi. »** |

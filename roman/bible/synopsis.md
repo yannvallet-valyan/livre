@@ -49,3 +49,18 @@ Le Veilleur se démasque : c'est le médecin que Sophia consultait. Sans la Roui
 Au matin, Sophia se réveille seule pour la première fois depuis des mois. Elle lit le carnet, fait condamner la galerie du laboratoire et quitte Vallorce.
 
 **Épilogue, 2137 :** une enfant lit à voix haute dans une bibliothèque lumineuse et pleine de monde. Elle s'appelle Élise. Elle a toujours eu l'impression d'avoir déjà vécu sa vie. Sur l'étagère, un vieux carnet que personne n'a jamais su dater, dont la dernière page est restée blanche.
+
+---
+
+## Version développée (canon actuel, avec les révélations)
+
+Détail complet dans `chronologie.md` et `../plan/plan-chapitres.md`. Ce que cette version ajoute au synopsis d'origine :
+
+- **Anselme est le père de Sophia.** Il abrite **les Élise des tours précédents**. Chaque fois qu'Élise brisait le cristal, elle tombait en octobre 1980, lors de la dernière vidange du lac, dans le corps d'Anselme, qui avait alors 24 ans. Le « premier Passeur », c'est elle.
+- **L'incident du 14 novembre, c'est Élise.** Le Conseil lui ordonne de briser le cristal, et c'est cet ordre qui crée la Rouille. Chaque tour, la poussière arrive un peu plus tôt, d'où les trois mois d'avance.
+- **L'histoire d'amour se joue en double.**
+  - Le jour, Sophia et Étienne Marle, son médecin, qui souffre du même mal qu'elle.
+  - La nuit, Élise et « Sacha », le voyageur qui habite Étienne.
+- **Le Veilleur, c'est Noé**, le compagnon d'Élise et le père d'Iris, que la Rouille a effacé de sa mémoire. Il l'a suivie pour l'empêcher de défaire la lignée qui mène à leur fille, et il retombe amoureux d'elle.
+- **La troisième porte :** le cristal est noyé intact sous le coulis de béton, ce qui coupe le fil doucement, sans poussière. Élise se fond dans Sophia, et Noé dans Étienne, avec le consentement écrit de leurs hôtes. Anne, la fille de Sophia et d'Étienne, naît le 3 août 2027.
+- **La chute :** dans le nouveau 2137, lumineux, la petite fille s'appelle Élise, et sa mère s'appelle **Iris**. Les noms se transmettent par le carnet. L'enfant dessine la maison et le soleil. « C'est qui ? » « C'est toi. »

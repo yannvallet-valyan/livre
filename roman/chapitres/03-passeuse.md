@@ -67,7 +67,7 @@ Alors Élise chanta la seule qu'elle connaissait par cœur, celle que sa propre 
 *les poissons rouges, les poissons blancs*
 *comptent les pierres en t'attendant.*
 
-Au deuxième couplet, Iris ferma les yeux. Élise ne chanta pas le troisième. Elle resta là, dans la lumière de la dernière lampe, à regarder le visage de sa fille. Elle l'apprit comme elle apprenait les textes : par morceaux d'abord, puis en entier. Le front large, bombé, trop grand pour le reste. Les sourcils droits. Le petit creux au menton. La bouche entrouverte. La tache de craie sur la narine gauche, qu'elle ne retira pas.
+Au deuxième couplet, Iris ferma les yeux. Élise ne chanta pas le troisième. Elle resta là, dans la lumière de la dernière lampe, à regarder le visage de sa fille. Elle l'apprit comme elle apprenait les textes : par morceaux d'abord, puis en entier. Le front large, bombé, trop grand pour le reste. Les sourcils droits. Le petit creux au menton. La bouche entrouverte. La tache de craie sur la narine gauche, qu'elle ne retira pas. Et, au coin de la paupière gauche, un grain de beauté minuscule, si petit qu'il fallait regarder de très près, et très longtemps, pour le voir. Elle ne l'avait jamais remarqué. Elle le remarqua cette nuit-là.
 
 Elle resta jusqu'à ce que le visage soit à elle, jusqu'à pouvoir fermer les yeux et le voir aussi nettement que s'ils étaient ouverts.
 
