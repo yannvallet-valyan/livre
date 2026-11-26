@@ -74,7 +74,7 @@ Il hésita, puis ajouta, plus bas, comme on avoue une chose dont on a honte pour
 
 — Et alors ?
 
-— Et alors, ce tour-là, personne n'est venu de 2137. Pas de Passeuse. Personne pour tomber en nous. Le cristal a attendu seul, et la Rouille est venue quand même, plus tard, autrement. Nous ne savons pas ce que deviennent ceux qui n'ont pas existé. Nous ne savons même pas si on peut dire qu'ils sont devenus quelque chose.
+— Et alors, au tour suivant, personne n'est venu de 2137. Pas de Passeuse. Personne pour tomber en nous. Le cristal a attendu seul, et la Rouille est venue quand même, plus tard, autrement. Ce tour-là, nous ne l'avons pas vécu : nous l'avons reçu du cristal. Elle était descendue dans la galerie, cette autre toi, en octobre, et la paroi avait gardé ce qu'elle portait. C'est tout ce qui reste d'elle. Nous ne savons pas ce que deviennent ceux qui n'ont pas existé.
 
 Il la regarda avec une infinie douceur.
 
@@ -127,7 +127,7 @@ Plus tard, quand le ciel commença à pâlir au-dessus de la crête, elle posa l
 
 Il secoua la tête.
 
-— Il faut que tu le voies. Toi-même. Dans le cristal. Il n'y a que ça qui marche. Alors maintenant, nous attendons. Nous allumons la lumière trois fois, la première nuit, pour te dire qu'on est là. Nous écrivons une phrase dans le carnet. Nous attendons que tu descendes, et nous te montrons.
+— Il faut que tu le voies. Toi-même. Dans le cristal. Les mots n'ont jamais suffi, et c'était la seule chose que nous n'avions pas essayée. Nous allumons toujours la lumière trois fois, la première nuit, pour te dire qu'on est là. Cette fois, nous avons aussi écrit une phrase dans le carnet, et nous avons attendu que tu descendes pour te montrer.
 
 — Et après ? Une fois que je l'ai vu ? Les autres fois, qu'est-ce que j'ai fait, après ?
 

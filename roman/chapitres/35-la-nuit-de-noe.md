@@ -20,7 +20,7 @@ Il courut.
 
 Il courut avec les jambes d'Étienne, qui n'étaient pas faites pour courir, qui avaient quarante-six ans et un genou fragile, dans la rue en pente qui descendait vers le lac. Il courut en manteau sur son pyjama, sans chaussures, et les graviers lui entaillèrent la plante des pieds, et il ne s'arrêta pas. Il pensait à Martine Pradel, à genoux dans la vase, souriante, les ongles cassés. Il pensait : *le lac prend ceux qui dorment près de lui.* Il pensait : *ceux qui dorment pour la première fois près de lui.*
 
-La lune était presque pleine. La vase découverte brillait comme de l'étain. Et au milieu de la vase, à deux cents mètres de la grève, il y avait une silhouette en tee-shirt blanc qui marchait droit vers le barrage.
+Il n'y avait pas de lune. Sous les étoiles et la lampe jaune du couronnement, la vase découverte luisait comme de l'étain terni. Et au milieu de la vase, à deux cents mètres de la grève, il y avait une silhouette en tee-shirt blanc qui marchait droit vers le barrage.
 
 Elle avançait lentement, d'un pas régulier, sans hésiter, les bras le long du corps. Elle s'enfonçait jusqu'aux chevilles, puis jusqu'aux mollets. Elle ne trébuchait pas. Elle allait vers le pied du mur, là où la vase était la plus épaisse. Là où l'on avait trouvé Martine.
 
@@ -56,9 +56,9 @@ C'était son ancêtre. Le grand-père de son grand-père. Sans ce garçon de dix
 
 Il avait failli le perdre. Il avait failli disparaître ici, sur la grève, en une seconde, d'un coup, comme une phrase qu'on n'achève pas.
 
-Et il pensa, avec une clarté qui le glaça davantage que l'eau : *c'est exactement ce que je vais lui demander de faire. À elle.* Rester. Se dissoudre. Laisser tout cela ne jamais avoir lieu. Il venait de se battre dans la vase, de toutes les forces d'un corps qui n'était pas le sien, pour que son ancêtre ne meure pas. Pour que lui-même continue d'exister.
+Et il pensa, avec une clarté qui le glaça davantage que l'eau : *c'est peut-être ce qu'elle s'apprête à faire.* Sous le lavoir, elle avait parlé d'une troisième porte, et il croyait deviner laquelle : ne pas briser, ne pas rentrer. Rester. Se dissoudre. Laisser tout cela ne jamais avoir lieu. Lui venait de se battre dans la vase, de toutes les forces d'un corps qui n'était pas le sien, pour que son ancêtre ne meure pas. Pour que lui-même continue d'exister.
 
-Il comprit qu'il n'avait aucun droit de demander à Élise quoi que ce soit.
+Il comprit qu'il n'avait aucun droit de demander à Élise quoi que ce soit. Ni de rentrer, ni de rester.
 
 ---
 

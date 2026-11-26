@@ -64,7 +64,7 @@ Oriane le jaugea de ses yeux trop clairs. Elle ne demanda pas pourquoi. Elle lui
 
 Il ouvrit le cahier d'écolier à la dernière page écrite. Il lut, de la main d'Élise : *Iris VARENNE, née en 2130 au refuge, de Élise Varenne et de* — et le blanc. Il lut, en dessous, d'une écriture plus récente, plus serrée : *Élise VARENNE. Partie le 15 septembre 2137.* Et rien après.
 
-Il prit un crayon. Il hésita longtemps, la mine au-dessus du blanc, au-dessus de la place qu'une mère avait laissée sept ans plus tôt pour un nom qu'elle n'arrivait plus à écrire.
+Il prit la plume et l'encre du Conseil. Il hésita, la plume au-dessus du blanc, à l'endroit où une mère avait écrit un nom au crayon, sept ans plus tôt, et où il ne restait rien.
 
 Puis il écrivit, de son écriture de technicien, appliquée, avec des lettres bien détachées :
 

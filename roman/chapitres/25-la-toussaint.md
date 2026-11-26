@@ -79,7 +79,7 @@ Derrière eux, au cimetière, les gens allumaient de petites bougies rouges dans
 
 Une vieille femme passa près d'eux, appuyée sur une canne, une de celles qui avaient chuchoté sur Kerr. Elle regarda le clocher, elle aussi. Elle fit un signe de croix rapide, à l'ancienne, et murmura sans s'adresser à personne :
 
-— Ma mère disait qu'en 58, la dernière nuit avant qu'ils lâchent l'eau, il y avait un homme en blanc sur le chantier. Avec une petite lumière verte. Il mesurait le fond. Il a salué ta grand-mère, Anselme. Tu te souviens pas, tu étais trop petit.
+— Ma mère disait qu'en 58, la dernière nuit avant qu'ils lâchent l'eau, il y avait un homme en blanc sur le chantier. Avec une petite lumière verte. Il mesurait le fond. Il a salué ta mère, Anselme. Tu te souviens pas, tu étais trop petit.
 
 Elle s'éloigna sans attendre de réponse.
 

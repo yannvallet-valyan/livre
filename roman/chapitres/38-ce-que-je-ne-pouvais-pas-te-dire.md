@@ -64,9 +64,9 @@ Les pâtes débordèrent. Ni l'un ni l'autre ne bougea. L'eau grésilla sur la p
 
 Elle mit longtemps à s'endormir, cette nuit-là, et la suivante. Elle restait allongée sur le dos, dans son lit, contre le mur mitoyen, à regarder le plafond. Elle pensait.
 
-Elle pensa aux deux voyageurs. À ce qu'Élise avait écrit d'eux, sans tout dire, par fragments, de nuit en nuit. Un homme qui lui laissait des lentilles depuis deux ans sans signer. Une femme qui avait oublié son visage et qui l'avait aimé de nouveau sans le reconnaître. Des règles d'archivistes. Un mètre entre leurs mains, gardé pendant deux mois sur un parapet gelé. Une petite fille, au bout de tout ça, à l'autre bout du temps, qu'ils avaient faite ensemble et qu'ils avaient perdue tous les deux : Iris.
+Elle pensa aux deux voyageurs. À ce qu'Élise avait écrit d'eux, sans tout dire, par fragments, de nuit en nuit. Un homme qui lui laissait des lentilles depuis deux ans sans signer. Une femme qui avait oublié son visage et qui l'avait aimé de nouveau sans le reconnaître. Des règles d'archivistes. Un mètre entre leurs mains, gardé pendant six semaines sur un parapet gelé. Une petite fille, au bout de tout ça, à l'autre bout du temps, qu'ils avaient faite ensemble et qu'ils avaient perdue tous les deux : Iris.
 
-Elle pensa à ce qu'elle-même avait eu, depuis deux mois, et qu'ils n'avaient pas eu. Un café, une main posée sur la sienne pendant deux battements de cœur, un baiser sur le chemin du lac, une nuit sous un toit où la pluie tambourinait. Tout cela, elle l'avait eu dans un corps qui était le sien, et ils le lui avaient laissé. Ils s'étaient tenus à un mètre, toutes ces nuits, sur un parapet gelé, pour qu'elle puisse ne pas se tenir à un mètre d'Étienne, le jour. Elle ne s'en était pas aperçue. Elle s'en apercevait maintenant, allongée dans le noir, et cela lui faisait l'effet d'une dette immense qu'on vous révèle d'un coup, avec la certitude qu'on ne pourra jamais la rembourser.
+Elle pensa à ce qu'elle-même avait eu, depuis l'automne, et qu'ils n'avaient pas eu. Un café, une main posée sur la sienne pendant deux battements de cœur, un baiser sur le chemin du lac, une nuit sous un toit où la pluie tambourinait. Tout cela, elle l'avait eu dans un corps qui était le sien, et ils le lui avaient laissé. Ils s'étaient tenus à un mètre, toutes ces nuits, sur un parapet gelé, pour qu'elle puisse ne pas se tenir à un mètre d'Étienne, le jour. Elle ne s'en était pas aperçue. Elle s'en apercevait maintenant, allongée dans le noir, et cela lui faisait l'effet d'une dette immense qu'on vous révèle d'un coup, avec la certitude qu'on ne pourra jamais la rembourser.
 
 Elle avait été jalouse de ça. Elle ne l'était plus.
 
@@ -80,13 +80,13 @@ Le soir du 11, avant de se coucher, elle alluma la lampe verte de la cuisine, ou
 
 *Je vais te demander quelque chose. Ce n'est pas toi qui demandes : c'est moi. Écoute-moi jusqu'au bout avant de répondre, comme tu me l'as appris.*
 
-*Depuis deux mois, vous vous aimez sans vous toucher. Vous vous êtes interdit nos maisons, nos mains, nos visages, nos lits, pour que nous puissions, nous, nous aimer à notre place. Vous avez eu raison. Je ne l'aurais pas supporté autrement. Si je m'étais réveillée un matin dans son lit sans l'avoir choisi, je serais partie. Je le sais. Tu le sais aussi, je crois.*
+*Depuis six semaines, vous vous aimez sans vous toucher. Vous vous êtes interdit nos maisons, nos mains, nos visages, nos lits, pour que nous puissions, nous, nous aimer à notre place. Vous avez eu raison. Je ne l'aurais pas supporté autrement. Si je m'étais réveillée un matin dans son lit sans l'avoir choisi, je serais partie. Je le sais. Tu le sais aussi, je crois.*
 
 *Mais je l'ai choisi. Je le choisis. Le jour, avec mes raisons à moi.*
 
 *Et la dernière nuit, je voudrais vous la donner.*
 
-*Vous vous êtes tenus à un mètre pendant deux mois pour nous laisser la place. La dernière nuit, prenez ce mètre. Pas en cachette, pas par effraction : nos corps vous le prêtent. Chez moi, dans mon lit, si vous le voulez. Étienne est d'accord, il te l'écrira lui-même. Nous serons là, le soir, nous aussi, avant de dormir. Et quand nous dormirons, ce sera votre tour. Pour la première et la dernière fois.*
+*Vous vous êtes tenus à un mètre pendant six semaines pour nous laisser la place. La dernière nuit, prenez ce mètre. Pas en cachette, pas par effraction : nos corps vous le prêtent. Chez moi, dans mon lit, si vous le voulez. Étienne est d'accord, il te l'écrira lui-même. Nous serons là, le soir, nous aussi, avant de dormir. Et quand nous dormirons, ce sera votre tour. Pour la première et la dernière fois.*
 
 *Je ne veux rien savoir de cette nuit. C'est ma seule condition. Pas un mot dans le carnet, pas une ligne, rien. Elle sera à vous. Le matin, nous reprendrons nos corps, et nous ne poserons pas de questions.*
 

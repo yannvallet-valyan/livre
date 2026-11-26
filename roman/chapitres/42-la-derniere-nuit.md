@@ -8,7 +8,7 @@
 
 *Le P7 a affiché 3,2 bars à seize heures, comme tu l'avais écrit. Ménard a déclenché l'urgence. L'injection commence demain à six heures, par la galerie. Kerr arrivera trop tard.*
 
-*Mon père a donné à Ménard le plan de la galerie que personne n'avait plus depuis 1980. Il le connaissait par cœur. Il ne sait pas pourquoi.*
+*Mon père a apporté à Ménard les plans de 1958, annotés de sa main depuis 1980. Personne d'autre ne les avait plus. Il ne sait pas pourquoi il les a gardés.*
 
 *Voilà. C'est fait. Tu m'avais dit que tu savais quelle raison donner à Ménard, et tu avais raison.*
 
@@ -42,7 +42,7 @@ Il l'ouvrit debout. Elle ne lut pas sa propre lettre. Elle le regarda lire, lui,
 
 — Tu savais, dit-il.
 
-— Depuis hier matin.
+— Depuis avant-hier.
 
 — Ils… Ils nous donnent…
 
@@ -72,7 +72,7 @@ Elle écrivit jusqu'à quatre heures.
 
 *Et ne garde rien. Je te connais, maintenant. Tu voudras un témoin, une preuve, un échantillon, quelque chose à mettre en fiole sur ton étagère, entre deux lacs. Pas un grain, Sophia. Promets-le-moi.*
 
-*3. Les volontaires. Florian, Mme Pradel, le troisième. Ils vont aller mieux, je crois, quand le cristal sera loin. Corinne aussi. Biscotte n'a rien à craindre.*
+*3. Les volontaires. Florian et les deux femmes du protocole. Ils iront mieux, je crois, quand le cristal sera loin. Pour Mme Pradel, il est trop tard, et je n'oublie pas que c'est à cause de nous. Corinne ira mieux aussi. Biscotte n'a rien à craindre.*
 
 *4. La guerre de 2090. Elle aura peut-être lieu. Je ne sais pas. Personne ne sait ce qu'il y a de l'autre côté de cette porte. J'ai recopié à la fin de ce carnet tout ce dont je me souviens des archives de Noé sur la Guerre du Partage : les dates, les noms, les barrages. Garde-le. Transmets-le. Peut-être qu'un jour, quelqu'un saura en faire quelque chose. Je préfère qu'on se souvienne d'une guerre pour l'empêcher, plutôt qu'on l'oublie pour qu'elle s'arrête.*
 
@@ -82,9 +82,7 @@ Elle écrivit jusqu'à quatre heures.
 
 *Maintenant, le reste.*
 
-*Tu auras une fille. Elle naîtra le 3 août prochain, à Lyon. Je ne sais pas à quelle heure. Je sais qu'elle s'appellera Anne, parce que c'est écrit dans le registre rouge de ma famille, à l'encre, de la main de quelqu'un qui l'a connue. Mais tu fais ce que tu veux. Le registre ne commande rien. Il se contente de se souvenir.*
-
-*Dans le registre, il est écrit « père non dénommé ». J'ai compris pourquoi, je crois. Tu ne voudras jamais écrire le nom d'Étienne sur un papier officiel, parce que tu auras peur que quelqu'un, un jour, vienne chercher dans sa lignée ce qu'on a cherché dans la tienne. Tu auras raison. Mais moi, je sais qui c'est. Et je suis heureuse que ce soit lui.*
+*Anne. Je t'ai tout dit, je ne le répète pas. Seulement ceci : tu fais ce que tu veux. Le registre ne commande rien. Il se contente de se souvenir. Et je suis heureuse que ce soit Étienne.*
 
 *Je ne sais pas ce que je deviendrai en toi. Peut-être rien. Peut-être une impression de déjà-vu de temps en temps, une chanson dont tu connaîtras enfin les paroles, la sensation d'avoir habité un jour sous une ville. Si c'est ça, ne t'en inquiète pas. C'est moi qui te dis bonjour.*
 
@@ -144,7 +142,7 @@ Il se tut. Elle sentit qu'il pensait encore à autre chose, et elle sut à quoi,
 
 — Elle est déjà là, dit Élise. Sans doute. Depuis le 6. Depuis la nuit où on s'est réveillés dans son lit à lui, sans bouger. Ils s'aiment depuis des semaines, Noé. Le registre ne peut plus changer.
 
-Il réfléchit longtemps. Elle le sentit se détendre, peu à peu, contre elle, comme un homme qui pose un sac qu'il porte depuis deux mois.
+Il réfléchit longtemps. Elle le sentit se détendre, peu à peu, contre elle, comme un homme qui pose un sac qu'il porte depuis des semaines.
 
 — Alors on ne peut plus rien abîmer, dit-il.
 

@@ -18,7 +18,7 @@
 
 *Variable I. (hôte M.D.) : dissoute. Anomalie confirmée. Elle a rendu à É. le détail perdu (le grain de beauté). Effet sur la suite : inconnu. Première fois en 47 tours que la mère et la fille se parlent. Je ne sais pas ce que cela change. Je n'aime pas ne pas savoir.*
 
-*Les Élise de l'hôte A.R. : éteintes à 9 h 40. Cette nuit, je suis allé sur la grève. Le vieil homme pleurait encore. Je n'avais rien à mesurer. Je suis resté quand même.*
+*Les Élise de l'hôte A.R. : éteintes à 9 h 40. Cette nuit, je suis allé sur la grève. Par la fenêtre de la cabine, j'ai vu le vieil homme pleurer encore, seul. C'était lui, cette fois, plus elles. Je n'avais rien à mesurer. Je suis resté quand même.*
 
 *S.V. a gardé un témoin. Fiole, étiquette bleue, « Vallorce, 14/11/2026 ». Je l'ai vue sur son étagère, par la fenêtre. J'aurais pu entrer. Je n'ai pas bougé.*
 

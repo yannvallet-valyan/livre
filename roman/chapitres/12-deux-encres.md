@@ -84,7 +84,7 @@ Un soir, sous la page du ciel, Sophia avait écrit une question qu'elle avait mi
 
 Elle aurait pu répondre non. C'était la réponse la plus simple, et peut-être la plus vraie. Elle n'avait personne. Elle avait des collègues, des lecteurs, des rouillés à qui elle lisait des recettes, un Conseil, un technicien aux mains propres. Elle avait une fille qui ne la reconnaissait plus. Elle n'avait personne qui l'attende.
 
-Et pourtant, la question avait réveillé quelque chose. Pas un souvenir : une forme. Le lit en trop contre le mur du dortoir. La chemise trop grande dans l'armoire, aux manches retroussées deux fois. Le blanc, dans le registre rouge, à côté du nom d'Iris, *de Élise Varenne et de*, qu'elle avait laissé sept ans plus tôt pour un nom qu'elle n'arrivait plus à écrire.
+Et pourtant, la question avait réveillé quelque chose. Pas un souvenir : une forme. Le lit en trop contre le mur du dortoir. La chemise trop grande dans l'armoire, aux manches retroussées deux fois. Le blanc, dans le registre rouge, à côté du nom d'Iris, *de Élise Varenne et de*, là où un nom écrit au crayon s'était effacé, un nom qu'elle n'arrivait plus à retrouver.
 
 Elle écrivit, finalement, très lentement :
 
@@ -108,7 +108,7 @@ C'est pour cela qu'elle lut avec une attention particulière la page du 4 octobr
 
 *Événement du jour : j'ai revu le docteur Marle. Étienne. Pour le dossier, disons. On a comparé nos nuits. Lui, il trouve sa voiture déplacée, garée de l'autre côté de la place. Il a des écorchures aux paumes, comme s'il escaladait des choses. Il dit qu'il commence à aimer ça : ouvrir son tiroir le matin pour voir ce que « l'autre » a écrit. Il dit que c'est la seule chose qui l'étonne encore.*
 
-*Il est veuf depuis sept ans. Il a un fils à Grenoble. Il rit beaucoup, pour un médecin.*
+*Il est veuf depuis sept ans. Il a un fils à Grenoble. Il a une cicatrice fine au-dessus du sourcil gauche, qu'il touche quand il réfléchit. Il rit beaucoup, pour un médecin.*
 
 *On se revoit jeudi. Pour le dossier.*
 
@@ -118,7 +118,7 @@ C'est pour cela qu'elle lut avec une attention particulière la page du 4 octobr
 
 ---
 
-Cette nuit-là, elle sortit plus tard que d'habitude. Le barrage ne dépassait pas le pont : la règle n'était pas enfreinte. Elle monta par le sentier des pêcheurs, celui qui grimpait en lacets jusqu'à la crête du mur, et s'avança sur le couronnement, la longue route de béton qui fermait la vallée comme une couture.
+Cette nuit-là, elle sortit plus tard que d'habitude. Le barrage était en deçà du pont : la règle n'était pas enfreinte. Elle monta par le sentier des pêcheurs, celui qui grimpait en lacets jusqu'à la crête du mur, et s'avança sur le couronnement, la longue route de béton qui fermait la vallée comme une couture.
 
 D'un côté, le vide : cent mètres de mur courbe, la rivière tout en bas qui bruissait dans le noir. De l'autre, le lac, ou ce qu'il en restait : une flaque immense et noire au fond d'une cuvette de vase, et sur la vase, des souches d'arbres, des pierres de murets, les restes d'un chemin englouti en 1958 et qui reparaissait, tout gris, comme un mort qui remonte.
 
@@ -160,4 +160,4 @@ Elle resta une heure. Ils ne dirent presque rien. Ils regardèrent Orion se leve
 
 Il passa près d'elle pour regagner le sentier. À cet instant, la lampe de la cabine, en contrebas, l'éclaira un instant de profil : les tempes grises, et au-dessus du sourcil gauche, très fine, une cicatrice blanche.
 
-Élise la regarda s'éloigner dans le noir. Elle connaissait cette cicatrice. Elle l'avait lue à l'encre bleue, quatre jours plus tôt, dans le carnet de Sophia.
+Élise la regarda s'éloigner dans le noir. Elle connaissait cette cicatrice. Elle l'avait lue à l'encre bleue, le soir même, dans le carnet de Sophia.

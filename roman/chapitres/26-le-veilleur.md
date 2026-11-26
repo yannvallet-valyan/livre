@@ -225,7 +225,7 @@ Ils restèrent comme ça, les doigts mêlés, sans bouger, sans se rapprocher, s
 
 ---
 
-En rentrant, à l'aube, elle trouva Mathis assis sur le muret, en pyjama, avec un anorak par-dessus. Il ne dormait pas. Il la regardait venir avec ses lunettes rafistolées et son air de savoir des choses.
+En rentrant, à l'aube, elle vit Mathis à sa fenêtre, au premier étage, en pyjama, la vitre entrouverte. Il ne dormait pas. Il la regardait venir avec ses lunettes rafistolées et son air de savoir des choses.
 
 — Tu étais avec le monsieur du docteur, dit-il.
 
@@ -233,7 +233,7 @@ En rentrant, à l'aube, elle trouva Mathis assis sur le muret, en pyjama, avec u
 
 — Lui aussi, il en a deux, dit Mathis. Un qui sourit. Et un autre derrière, qui pleure tout le temps, même quand il rit.
 
-Il descendit du muret, frissonna, et ajouta en rentrant chez lui, sans se retourner :
+Il frissonna, et ajouta, en refermant la fenêtre :
 
 — Le monsieur qui pleure, il te connaît depuis longtemps.
 

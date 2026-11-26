@@ -84,7 +84,7 @@ Et, tout au fond de la boîte à chaussures, une lettre.
 
 *Ma chérie,*
 
-*Tu m'as demandé l'autre jour pourquoi je suis partie, quand tu avais trois ans. Je t'ai répondu ce que je réponds toujours : que ton père et moi ne nous entendions plus. Ce n'est pas faux. Mais tu es grande maintenant, et tu as le droit de savoir le reste, même si tu vas me trouver folle.*
+*Tu m'as demandé l'autre jour pourquoi je suis partie, quand tu avais deux ans. Je t'ai répondu ce que je réponds toujours : que ton père et moi ne nous entendions plus. Ce n'est pas faux. Mais tu es grande maintenant, et tu as le droit de savoir le reste, même si tu vas me trouver folle.*
 
 *Ton père n'était pas méchant. Il n'a jamais levé la main sur moi ni sur toi. Le jour, c'était un homme doux et un peu absent, qui aimait son barrage plus que tout. Mais la nuit, il n'était plus lui.*
 

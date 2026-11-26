@@ -10,7 +10,7 @@ Une feuille d'ordonnance pliée en quatre, à l'en-tête du cabinet de la place 
 
 *Pour quand il fera froid et que je ne serai pas là.*
 
-Elle ne bougea pas de l'entrée. Elle referma la porte. Elle s'assit sur la première marche de l'escalier, celle qui glissait, la feuille sur les genoux.
+Elle ne bougea pas de l'entrée. Elle referma la porte. Elle s'assit sur une marche de l'escalier, la feuille sur les genoux.
 
 Ce n'était pas pour elle. Elle le savait. C'était pour l'autre. Pour la femme de la nuit, qui portait sa parka, ses mains, sa bouche. Et pourtant, assise sur la marche, une feuille de recette à la main, Sophia Varenne, trente-sept ans, hydrologue, sentit monter en elle une chose qu'elle n'avait pas ressentie depuis l'adolescence, et qu'elle mit plusieurs minutes à reconnaître, tant elle était absurde.
 

@@ -12,7 +12,7 @@ Elle regarda les trois lignes, alignées comme des mesures, et elle eut une sens
 
 ---
 
-Le laboratoire occupait un bâtiment bas en béton gris, collé au flanc du barrage comme une moule à un rocher. On l'avait construit en six semaines, au début de l'été, avec des fonds que personne dans la vallée n'arrivait à expliquer. Une plaque de laiton près de la porte disait : *Laboratoire d'études sédimentaires — avec le soutien de la Fondation Léthé.*
+Le laboratoire occupait un bâtiment bas en béton gris, collé au flanc du barrage comme une moule à un rocher. On l'avait construit en six semaines, au printemps, avec des fonds que personne dans la vallée n'arrivait à expliquer. Une plaque de laiton près de la porte disait : *Laboratoire d'études sédimentaires — avec le soutien de la Fondation Léthé.*
 
 Sophia y était entrée en juin, après quinze ans de contrats précaires dans des instituts de recherche qui fermaient les uns après les autres. Elle avait lu l'annonce sur un site d'offres d'emploi : *hydrologue, CDI, Vallorce*. Elle avait failli ne pas cliquer sur le nom du village. Puis elle avait cliqué.
 
@@ -92,7 +92,7 @@ Elle reposa l'assiette, troublée, et alla se coucher.
 
 ---
 
-Le lendemain matin, sur la table de la cuisine, il y avait une feuille de papier.
+Le jeudi matin, sur la table de la cuisine, il y avait une feuille de papier.
 
 Elle la vit de loin, en entrant. Elle sut avant même de la lire que ce n'était pas elle qui l'avait posée là. Elle s'en approcha à pas lents, prudents, comme d'un animal qui pourrait mordre.
 

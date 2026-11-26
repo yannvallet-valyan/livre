@@ -12,7 +12,7 @@ Son père lui ouvrit avant qu'elle ait frappé. Il avait l'air épuisé. Il avai
 
 — Sophia.
 
-Elle ne dit rien. Elle entra. Elle regarda les murs, les centaines de maisons, de soleils, de silhouettes. Puis elle se tourna vers lui et le prit dans ses bras. Elle ne l'avait pas fait depuis qu'elle avait trois ans.
+Elle ne dit rien. Elle entra. Elle regarda les murs, les centaines de maisons, de soleils, de silhouettes. Puis elle se tourna vers lui et le prit dans ses bras. Elle ne l'avait pas fait depuis qu'elle avait deux ans.
 
 Anselme ne comprit pas. Il resta un moment les bras ballants. Puis, maladroitement, il referma les siens sur elle.
 

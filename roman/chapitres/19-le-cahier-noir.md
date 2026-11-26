@@ -4,7 +4,7 @@
 
 Élise retourna au laboratoire seule, une nuit d'octobre, quelques jours après la galerie, parce qu'elle voulait comprendre qui avait posé la lampe sur la marche.
 
-Elle n'en parla pas à Sacha. Elle ne savait pas très bien pourquoi. Peut-être parce que, depuis la galerie, depuis les mains sur ses épaules et la craie, elle avait besoin d'une nuit qui ne soit qu'à elle. Peut-être parce qu'Anselme lui avait dit de se méfier de celui qui regarde les étoiles, et qu'elle n'avait pas encore décidé ce qu'elle en pensait.
+Elle n'en parla pas à Sacha. Elle ne savait pas très bien pourquoi. Peut-être parce que, depuis la galerie, depuis les mains sur ses épaules et la craie, elle avait besoin d'une nuit qui ne soit qu'à elle. Peut-être parce qu'Anselme, dans la galerie, avait regardé Sacha d'une façon qu'elle n'avait pas su lire. *Et toi. Toujours toi.*
 
 Le badge de Sophia ouvrait encore la porte de service. Le couloir sentait le désinfectant et, plus loin, quelque chose de plus lourd, de plus doux, une odeur de vase tiède et d'ozone qui venait de la salle du fond. La porte à code était fermée. Au-dessus, la petite diode du clavier brillait en rouge.
 
@@ -16,7 +16,7 @@ La lumière violette, d'abord. Puis la chaleur, humide, épaisse, une chaleur de
 
 Les trois lits de camp des volontaires étaient occupés. Elle s'arrêta net.
 
-Florian, le fils du boulanger, dormait sur le dos, la bouche ouverte, des électrodes collées sur le front et les tempes. À côté de lui, une femme qu'elle ne connaissait pas, la troisième volontaire. Et dans le lit du milieu, une vieille dame en cardigan bleu, les mains croisées sur la poitrine, souriait en dormant. Ses pantoufles étaient rangées côte à côte au pied du lit, avec soin. Élise ne savait pas encore son nom. Elle le saurait quelques jours plus tard, dans un journal découpé, collé sur une page de carnet.
+Florian Besson dormait sur le dos, la bouche ouverte, des électrodes collées sur le front et les tempes. À côté de lui, une femme qu'elle ne connaissait pas, la troisième volontaire. Et dans le lit du milieu, une vieille dame en cardigan bleu, les mains croisées sur la poitrine, souriait en dormant. Ses pantoufles étaient rangées côte à côte au pied du lit, avec soin. Élise ne savait pas encore son nom. Elle le saurait quelques jours plus tard, dans un journal découpé, collé sur une page de carnet.
 
 Sur les écrans, au-dessus des lits, des lignes vertes dessinaient des vagues lentes, régulières. Sommeil profond. Puis, sur l'écran de Florian, les vagues changèrent de forme, devinrent rapides, pointues, nerveuses. Élise savait ce que c'était, Sophia le lui avait expliqué : le sommeil paradoxal. Le rêve.
 

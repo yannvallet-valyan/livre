@@ -24,11 +24,11 @@ Elle commença par le bureau de Kerr, parce qu'il était vitré et qu'elle y pas
 
 Inès, la technicienne, vingt-quatre ans, des piercings à l'oreille et une passion pour les pâtisseries ratées qu'elle apportait chaque lundi, en savait plus qu'elle ne disait. Sophia l'apprit autour d'une tarte aux pommes effondrée. *Kerr a perdu un enfant*, murmura Inès, *c'est pour ça qu'il est comme ça. Poli. Comme quelqu'un qui tient une porte fermée avec son dos.*
 
-Elle le fit avec méthode, comme elle faisait tout. Elle dressa d'abord une liste de ce qu'elle savait. La Fondation Léthé avait financé la construction du bâtiment en six semaines, au printemps. Bastien Kerr avait été recruté avant les murs. L'étude officielle portait sur la composition des sédiments du lac et leur comportement pendant l'abaissement. Le budget était absurde pour une étude de sédiments. La salle du fond, *Culture — accès restreint*, consommait à elle seule plus d'électricité que tout le reste du bâtiment : elle l'avait lu sur le compteur. Et on avait livré douze bacs en polycarbonate.
+Elle mena son enquête avec méthode, comme elle faisait tout. Elle dressa d'abord une liste de ce qu'elle savait. La Fondation Léthé avait financé la construction du bâtiment en six semaines, au printemps. Bastien Kerr avait été recruté avant les murs. L'étude officielle portait sur la composition des sédiments du lac et leur comportement pendant l'abaissement. Le budget était absurde pour une étude de sédiments. La salle du fond, *Culture — accès restreint*, consommait à elle seule plus d'électricité que tout le reste du bâtiment : elle l'avait lu sur le compteur. Et on avait livré douze bacs en polycarbonate.
 
 Elle fit ensuite une liste de ce qu'elle ne savait pas. Elle était beaucoup plus longue.
 
-Le mercredi, Kerr partit à Lyon pour la journée. Sophia resta tard. Quand la technicienne de laboratoire, Inès, eut éteint sa paillasse et lui eut souhaité bonne soirée, elle attendit encore vingt minutes, puis marcha jusqu'à la porte du fond.
+Le mercredi, Kerr partit à Lyon pour la journée. Sophia resta tard. Quand Inès eut éteint sa paillasse et lui eut souhaité bonne soirée, elle attendit encore vingt minutes, puis marcha jusqu'à la porte du fond.
 
 Elle connaissait le code. Elle l'avait vu taper par Kerr une semaine plus tôt, sans le chercher, le genre de chose que son cerveau retenait malgré elle : 1-4-1-1. Elle se dit que c'était une date, et n'y pensa plus.
 
@@ -52,7 +52,7 @@ Sur un tableau blanc, au marqueur : *Protocole sommeil — volontaires V1 à V3 
 
 Sophia relut la phrase. *À proximité des dormeurs.*
 
-Dans un classeur ouvert sur la paillasse, il y avait la liste des volontaires. Elle connaissait deux des noms : le fils du boulanger, Florian, vingt-deux ans, qui avait perdu son emploi en juin ; et Mme Pradel, l'ancienne institutrice, qui disait au marché qu'elle « dormait au labo pour une étude, et qu'on la payait cent euros la nuit ». Sophia avait trouvé cela drôle, à l'époque.
+Dans un classeur ouvert sur la paillasse, il y avait la liste des volontaires. Elle connaissait deux des noms : Florian Besson, vingt-deux ans, qui avait perdu son emploi en juin ; et Mme Pradel, l'ancienne institutrice, qui disait au marché qu'elle « dormait au labo pour une étude, et qu'on la payait cent euros la nuit ». Sophia avait trouvé cela drôle, à l'époque.
 
 Elle prit des photos de tout : les bacs, les lits, le tableau, le classeur. Puis, sur un autre bureau, elle trouva une pochette à l'en-tête de la Fondation Léthé, dont la première page était une plaquette en papier glacé :
 
@@ -92,7 +92,7 @@ Il les fit défiler sans rien dire. Puis il revint en arrière, jusqu'à la phot
 
 Il se frotta les yeux.
 
-— Florian est venu me voir il y a quinze jours, dit-il. Il avait oublié le prénom de sa sœur. Ça a duré une heure, et puis c'est revenu. J'ai mis ça sur le compte du stress.
+— Florian est venu me voir avant-hier, dit-il. Il avait oublié le prénom de sa sœur. Ça a duré une heure, et puis c'est revenu. J'ai mis ça sur le compte du stress.
 
 Ils se regardèrent. La serveuse posa deux chocolats sur la table sans qu'ils l'aient commandés, et ils ne s'en rendirent pas compte.
 

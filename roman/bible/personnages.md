@@ -49,7 +49,7 @@ Voisine et cousine de Sophia. Elle est le premier cas visible : elle oublie le n
 ## Bastien Kerr
 Directeur du laboratoire. Il est poli, ambitieux, sans cruauté. Il travaille pour la **Fondation Léthé**, qui finance une « thérapie de l'oubli ciblé » contre le stress post-traumatique. Il fait dormir des volontaires près des bacs de culture et prévoit l'**extraction du 14 novembre**.
 
-## Paul Ménard
+## Gilles Ménard
 Ingénieur du barrage, responsable des travaux d'injection de coulis.
 
 ## Oriane Sell (2137)

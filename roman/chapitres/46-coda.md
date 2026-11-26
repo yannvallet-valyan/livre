@@ -6,7 +6,7 @@
 
 La bibliothèque de Vallorce n'avait plus de fenêtres.
 
-On les avait murées en 2149, l'une après l'autre, avec des parpaings, puis avec ce qu'on trouvait. La lumière n'entrait plus que par les lampes, qu'on allumait quand quelqu'un se rappelait pourquoi. Dans la salle des enfants, il n'y avait plus d'enfants. On y avait installé des lits.
+On les avait murées à partir de 2146, l'une après l'autre, avec des parpaings, puis avec ce qu'on trouvait. La lumière n'entrait plus que par les lampes, qu'on allumait quand quelqu'un se rappelait pourquoi. Dans la salle des enfants, il n'y avait plus d'enfants. On y avait installé des lits.
 
 Élise avait trente-quatre ans et des cheveux qui lui tombaient jusqu'aux reins.
 

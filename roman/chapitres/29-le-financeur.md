@@ -70,7 +70,7 @@ Puis il lui retira son badge d'accès à la galerie, poliment, en s'excusant, et
 
 ---
 
-Elle alla voir Paul Ménard, l'ingénieur de l'exploitant, dans le préfabriqué où il dirigeait les travaux du barrage.
+Elle alla voir Gilles Ménard, l'ingénieur de l'exploitant, dans le préfabriqué où il dirigeait les travaux du barrage.
 
 Ménard avait cinquante ans, un casque de chantier toujours posé à portée de main et une patience usée par trente ans de réunions. Il l'écouta parler de la galerie, de l'ouverture dans le mur, de la vase, de l'extraction. Elle ne parla pas des cristaux, seulement de la brèche.
 

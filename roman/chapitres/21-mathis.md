@@ -6,7 +6,7 @@ Mathis Delorme avait neuf ans, des lunettes rafistolées au scotch, et la convic
 
 Il ne dormait pas beaucoup. Il n'avait plus jamais bien dormi depuis ses trois ans, depuis l'après-midi d'été où il avait échappé à sa mère sur la grève et où on l'avait repêché, bleu et souriant, au pied du barrage, dans une eau qui ne lui arrivait pas aux genoux. Sa mère avait consulté trois médecins quand il était petit, puis elle avait renoncé : Mathis se couchait à neuf heures, se réveillait vers minuit, et passait deux ou trois heures assis devant la fenêtre de sa chambre, sous la couette, à regarder le village dormir. Il ne faisait pas de bruit. Il ne se plaignait pas. Puis, vers une heure, il se rendormait, et le matin sa mère le retrouvait parfois roulé en boule au pied du lit, contre le mur mitoyen, les jointures des doigts rouges et écorchées, sans qu'il sache dire pourquoi.
 
-Sophia le savait vaguement, comme on sait ces choses sur les enfants des voisins. Elle ne s'en était jamais souciée. Jusqu'au mardi où Mathis frappa à sa porte, en rentrant de l'école, son cartable encore sur le dos.
+Sophia le savait vaguement, comme on sait ces choses sur les enfants des voisins. Elle ne s'en était jamais souciée. Jusqu'au lundi où Mathis frappa à sa porte, un après-midi de vacances, sa boîte à chaussures sous le bras.
 
 — Bonjour, dit-il. Je peux te dire un truc ?
 
@@ -42,25 +42,25 @@ Il releva la tête et la regarda, sans peur, avec une sorte de curiosité tranqu
 
 Sophia sentit le froid lui monter dans le dos.
 
-Il descendit de sa chaise, remit son cartable sur l'épaule, puis s'arrêta sur le seuil, comme s'il venait de se souvenir d'un détail.
-
-Avant de partir, il fouilla dans la poche de son anorak et posa sur la table un caillou. Un galet du lac, gris, parfaitement rond, traversé d'une veine blanche.
+Il descendit de sa chaise et reprit sa boîte sous le bras. Puis il fouilla dans la poche de son anorak et posa sur la table un caillou. Un galet du lac, gris, parfaitement rond, traversé d'une veine blanche.
 
 — C'est pour elle, dit-il. L'autre dame. Je ramasse des cailloux sur la grève. Chacun a une histoire, il faut juste attendre qu'il la raconte. Celui-là, il attend depuis longtemps.
+
+Sur le seuil, il se retourna.
 
 — Et le monsieur du barrage, ton papa, dans ses yeux il y en a plein. Des dames. Toutes pareilles, avec les cheveux courts. Elles regardent par la fenêtre. Des fois elles pleurent. Sauf une, tout au fond, avec des cheveux longs. C'est la plus vieille. Elle dort tout le temps. Quand elle se réveille, elle appelle sa maman.
 
 Il referma la porte derrière lui.
 
-Sophia apprit plus tard, par Corinne, que Mathis avait une boîte à chaussures pleine de cailloux classés par couleur, et dans la même boîte une carte postale de Marseille, la seule que son père lui ait jamais envoyée, qu'il ne relisait pas mais qu'il ne jetait pas. Elle apprit que la seule adulte qui l'écoutait vraiment, au village, était Martine Pradel, l'ancienne institutrice, qui lui donnait des cours de soutien le mercredi et qui lui avait dit un jour : *Les gens qui voient des choses, il faut les écrire, Mathis. Comme ça, plus tard, personne ne pourra te dire que tu les as inventées.*
+Sophia apprit plus tard, par Corinne, que la boîte à chaussures était pleine de cailloux classés par couleur. Elle apprit que la seule adulte qui l'écoutait vraiment, au village, avait été Martine Pradel, l'ancienne institutrice, qui lui donnait des cours de soutien le mercredi et qui lui avait dit un jour : *Les gens qui voient des choses, il faut les écrire, Mathis. Comme ça, plus tard, personne ne pourra te dire que tu les as inventées.*
 
 Le caillou resta sur la table de la cuisine, à côté du carnet. Le lendemain matin, Sophia le trouva posé sur la page noire, comme un presse-papier.
 
 ---
 
-Le vendredi, elle l'emmena ramasser des cailloux.
+Le lendemain, elle l'emmena ramasser des cailloux.
 
-Ce fut Corinne qui le proposa, épuisée, entre deux clientes, en lui tendant le petit garçon par la main comme on tend un paquet : *Tu veux bien l'occuper une heure ? Il ne tient pas en place, et moi je ne tiens plus debout.* Sophia n'avait jamais gardé d'enfant. Elle dit oui.
+Ce fut Corinne qui le proposa, épuisée, entre deux clientes, en lui tendant le petit garçon par la main comme on tend un paquet : *Tu veux bien l'occuper une heure ? Avec les vacances, il ne tient pas en place, et moi je ne tiens plus debout.* Sophia n'avait jamais gardé d'enfant. Elle dit oui.
 
 Ils descendirent sur la grève par le chemin du lac. Mathis marchait devant, son anorak bleu marine ouvert sur un pull à motif de fusées, sa boîte à chaussures sous le bras. Il ne parlait pas. Il regardait par terre, avec une concentration de géologue. De temps en temps, il s'accroupissait, ramassait un galet, le retournait, le tenait contre la lumière grise, et le reposait, ou le mettait dans sa boîte. Il ne prenait jamais plus d'un caillou sur dix.
 
@@ -96,7 +96,7 @@ Sophia ne répondit pas. Elle regarda le barrage, la petite cabine jaune au flan
 
 ---
 
-Elle monta à la cabine le dimanche, comme d'habitude, avec le caillou de Mathis dans la poche.
+Elle monta à la cabine le soir même, sans attendre le dimanche, avec le caillou de Mathis dans la poche.
 
 Son père lui ouvrit avant qu'elle frappe. Il avait l'air plus fatigué que d'ordinaire, et plus vieux, comme si une poutre, en lui, avait commencé à céder. Il la regarda un instant sans la reconnaître, une seconde de trop, et son visage s'éclaira d'une manière qu'elle ne lui avait jamais vue.
 
@@ -144,4 +144,4 @@ Sophia sortit son téléphone. Ses doigts tremblaient. Elle photographia le mur,
 
 ---
 
-Le soir, elle imprima la photo au format d'une page de carnet, sur la vieille imprimante du séjour. Elle la posa sur la table, à côté du carnet fermé, et n'osa pas la coller.
+En rentrant, elle imprima la photo au format d'une page de carnet, sur la vieille imprimante du séjour. Elle la posa sur la table, à côté du carnet fermé, et n'osa pas la coller.

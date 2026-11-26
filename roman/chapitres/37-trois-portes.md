@@ -78,7 +78,7 @@ Noé ne répondit pas tout de suite. Le lendemain de la nuit où il lui avait ra
 
 Élise l'attendit jusqu'à quatre heures, assise sur le parapet, à regarder Orion se coucher. Elle compta jusqu'à soixante, cent fois peut-être, et à chaque fois qu'elle arrivait à soixante, il n'était pas là. Elle rentra chez Sophia et ne dormit pas avant l'aube, ce qui revenait au même : dès que le jour se levait, de toute façon, elle disparaissait.
 
-En rentrant, elle trouva un mot sur la table de la cuisine. L'écriture d'Étienne, à l'encre noire, glissée sous la porte. Le papier était humide de pluie.
+En rentrant, elle trouva un mot glissé sous la porte. L'écriture d'Étienne, à l'encre noire. Le papier était humide de pluie.
 
 *Je réfléchis. Pardonne-moi. J'ai besoin de savoir ce que je laisse.*
 

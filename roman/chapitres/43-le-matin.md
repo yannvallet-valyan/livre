@@ -173,7 +173,7 @@ Sophia regarda par la fenêtre. La cabine était allumée, comme chaque soir. El
 
 Il y eut un silence très long au bout du fil. Puis la voix d'Hélène, plus basse, presque inaudible :
 
-— Je la connaissais. Je l'ai entendue trois ans, toutes les nuits, derrière une porte. Je ne voulais pas que tu la saches.
+— Je la connaissais. Je l'ai entendue plus de deux ans, toutes les nuits, derrière une porte. Je ne voulais pas que tu la saches.
 
 — Elle s'appelle *Dors, la rivière*, dit Sophia. Il y a trois couplets. Je les connais tous, maintenant.
 

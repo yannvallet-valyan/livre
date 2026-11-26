@@ -12,7 +12,7 @@ Elle connaissait ce dessin. Elle le connaissait mieux que son propre visage. Ell
 
 Le trait était différent, plus appliqué, plus lent : une main d'adulte qui imitait une main d'enfant. Mais tout y était. Jusqu'au petit défaut du toit, la ligne de droite plus longue que celle de gauche, qu'Iris faisait toujours, qu'Élise avait si souvent regardé.
 
-Comment un vieil homme de 2026 pouvait-il dessiner, chaque nuit depuis quarante ans, le dessin que sa fille ferait en 2136 ?
+Comment un vieil homme de 2026 pouvait-il dessiner, chaque nuit depuis quarante-six ans, le dessin que sa fille ferait en 2137 ?
 
 Elle lut la ligne de Sophia : *Il m'a appelée Élise.* Elle la relut. Puis elle tourna la page, machinalement, pour voir s'il y avait autre chose.
 

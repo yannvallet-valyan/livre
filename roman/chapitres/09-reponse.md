@@ -42,8 +42,6 @@ Elle s'arrêta, puis ajouta, parce que c'était vrai :
 
 Le lundi, à 7 h 12, la jauge affichait 411,71. Le jeudi, 411,52. Sophia avait mis chaque prédiction sous enveloppe, la veille, et signé le rabat.
 
-Sophia rentra chez elle et écrivit pendant une heure.
-
 Le quatrième soir, Sophia changea de méthode.
 
 Elle avait passé la journée à réfléchir. Les chiffres de la jauge, elle pouvait les expliquer, à la rigueur : un calcul fait en dormant, une partie de son cerveau plus douée qu'elle ne le croyait, une coïncidence monstrueuse. Ce qu'il lui fallait, c'était une question à laquelle aucune partie d'elle-même ne pourrait répondre à sa place. Ou au contraire une question à laquelle *seule* une partie d'elle-même pourrait répondre.
