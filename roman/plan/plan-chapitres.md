@@ -2,7 +2,7 @@
 
 > ⚠️ Contient toutes les révélations. Mécanique temporelle et calendrier : `bible/chronologie.md`.
 
-État : **premier jet complet** (24 chapitres, version condensée d'environ 1 500 à 2 000 mots par chapitre). Pour atteindre les 250 pages, chaque chapitre devra environ doubler à la réécriture.
+État : **premier jet complet** (24 chapitres, environ 30 000 mots, soit 1 000 à 2 000 mots par chapitre). Pour atteindre les 250 pages (environ 70 000 mots), chaque chapitre devra à peu près doubler à la réécriture.
 
 **Parti pris :** le roman s'ouvre *in medias res* sur le réveil au lac (ch. 1), puis revient à 2137 (ch. 2 et 3).
 

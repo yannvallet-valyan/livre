@@ -14,7 +14,7 @@
 2. **La guerre de 2090 dans la nouvelle ligne :** l'épilogue reste évasif. Faut-il une phrase de plus ?
 3. **Consentement des hôtes :** Élise et Noé refusent d'utiliser les corps. Faut-il une scène où Sophia l'apprend et en est touchée ? (Il y en a une esquisse au ch. 23.)
 4. **Mathis :** pourquoi voit-il ? Pour l'instant parce qu'il est un enfant qui ne dort pas. On pourrait suggérer qu'il a bu l'eau du lac.
-5. **Longueur :** le premier jet fait environ 40 000 mots. Les chapitres de l'Acte II doivent être étoffés en priorité.
+5. **Longueur :** le premier jet fait environ 30 000 mots. Les chapitres de l'Acte II doivent être étoffés en priorité.
 
 ## Interactif
 6. Réécrire les Actes II et III interactifs selon la nouvelle intrigue, avec les trois fins :

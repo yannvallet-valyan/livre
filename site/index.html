@@ -13,6 +13,7 @@
     <nav class="tabs" aria-label="Sections">
       <a id="tab-story" href="#" aria-current="page">Roman interactif</a>
       <a id="tab-book" href="#livre" aria-current="false">Le livre</a>
+      <a id="tab-chrono" href="#chrono" aria-current="false">Chronologie</a>
     </nav>
     <nav class="tools story-only" aria-label="Outils">
       <button id="btn-back" type="button" title="Revenir au choix précédent">↶ Revenir</button>
@@ -45,11 +46,13 @@
   </aside>
 
   <main id="book" class="book-only" aria-live="polite"></main>
+  <main id="chrono" class="chrono-only"></main>
 
   <noscript><p style="padding:1rem">Ce livre interactif nécessite JavaScript.</p></noscript>
   <script src="story.js"></script>
   <script src="engine.js"></script>
   <script src="book.js"></script>
   <script src="book-ui.js"></script>
+  <script src="chrono.js"></script>
 </body>
 </html>

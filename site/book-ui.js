@@ -38,11 +38,14 @@
 
   function route() {
     const m = location.hash.match(/^#livre(?:\/(\d+))?/);
-    const book = !!m;
-    document.body.dataset.view = book ? "livre" : "story";
-    $("tab-story").setAttribute("aria-current", book ? "false" : "page");
-    $("tab-book").setAttribute("aria-current", book ? "page" : "false");
-    document.title = book ? "La Rouille — Le livre" : "La Rouille";
+    const book = !!m, chrono = location.hash === "#chrono";
+    const view = book ? "livre" : chrono ? "chrono" : "story";
+    document.body.dataset.view = view;
+    $("tab-story").setAttribute("aria-current", view === "story" ? "page" : "false");
+    $("tab-book").setAttribute("aria-current", view === "livre" ? "page" : "false");
+    $("tab-chrono").setAttribute("aria-current", view === "chrono" ? "page" : "false");
+    document.title = book ? "La Rouille — Le livre" : chrono ? "La Rouille — Chronologie" : "La Rouille";
+    if (chrono) { window.scrollTo(0, 0); return; }
     if (!book) return;
     m[1] ? chapter(parseInt(m[1], 10)) : toc();
     window.scrollTo(0, 0);

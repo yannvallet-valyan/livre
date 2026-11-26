@@ -27,11 +27,12 @@ scripts/
 - Avant d'écrire, relire `roman/bible/themes-et-style.md` (voix, temps, règles de ton).
 - Ce qui reste flou ou contradictoire va dans `roman/notes/questions-ouvertes.md`.
 
-## Le site : deux onglets
+## Le site : trois onglets
 
 - **Roman interactif** : l'histoire à choix (`site/story.js`).
 - **Le livre** : lecture linéaire, sommaire + chapitres, générés depuis `roman/chapitres/`.
   Après avoir écrit ou modifié un chapitre : `node scripts/build-book.js` (Vercel le lance aussi à chaque déploiement).
+- **Chronologie** : schéma temporel des voyages et des lignées (`site/chrono.js`), dévoilé acte par acte pour éviter de gâcher la lecture.
 
 ## Lancer le livre interactif
 
@@ -71,4 +72,5 @@ Après toute modification : `node scripts/check-story.js`.
 
 ## État
 
-Voir `roman/plan/plan-chapitres.md`. Interactif : l'Acte I est jouable (de la bibliothèque de 2137 à la première réponse de Sophia). Les Actes II et III restent à écrire.
+- Roman : premier jet complet en 24 chapitres (~30 000 mots), à étoffer. Voir `roman/plan/plan-chapitres.md` et `roman/bible/chronologie.md` (mécanique de la boucle, généalogie, révélations).
+- Interactif : l'Acte I est jouable. Les Actes II et III restent à adapter à l'intrigue définitive.

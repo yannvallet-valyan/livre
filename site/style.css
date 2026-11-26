@@ -108,9 +108,9 @@ body[data-pov="sophia"] .text em { color: var(--ink-blue); }
 .tabs a:hover { color: var(--rust); }
 .tabs a[aria-current="page"] { color: var(--fg); border-color: var(--rust); }
 .bar .tools { display: flex; flex-wrap: wrap; gap: .35rem; }
-body[data-view="livre"] .story-only, body:not([data-view="livre"]) .book-only { display: none !important; }
-body[data-view="livre"] { --bg: #f4efe6; }
-@media (prefers-color-scheme: dark) { body[data-view="livre"] { --bg: #14110e; } }
+body:not([data-view="story"]) .story-only, body:not([data-view="livre"]) .book-only, body:not([data-view="chrono"]) .chrono-only { display: none !important; }
+body[data-view="livre"], body[data-view="chrono"] { --bg: #f4efe6; }
+@media (prefers-color-scheme: dark) { body[data-view="livre"], body[data-view="chrono"] { --bg: #14110e; } }
 .lede { font-size: 1.05em; color: var(--muted); }
 .meta { font: .78rem/1 system-ui, sans-serif; letter-spacing: .08em; color: var(--muted); margin: 1.4rem 0; }
 .toc { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--line); }
@@ -127,3 +127,44 @@ body[data-view="livre"] { --bg: #f4efe6; }
 .pager { display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--line); font: .85rem/1.3 system-ui, sans-serif; }
 .pager a { color: var(--rust); text-decoration: none; }
 @media (max-width: 480px) { .bar { gap: .4rem; } }
+
+/* ---------- Chronologie ---------- */
+#chrono { padding: 2.5rem 16px 6rem; }
+#chrono .scene { max-width: 40rem; }
+.levels { display: flex; flex-wrap: wrap; gap: .4rem; margin: 1.2rem 0 .4rem; }
+.levels button { font: .8rem/1 system-ui, sans-serif; color: var(--fg); background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: .55rem .9rem; cursor: pointer; }
+.levels button[aria-pressed="true"] { border-color: var(--rust); color: var(--rust); background: var(--rust-soft); }
+.level-hint { font: .8rem/1.4 system-ui, sans-serif; color: var(--muted); margin: 0 0 1rem; }
+.chrono-wrap { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 8px 4px; }
+.chrono-svg { display: block; width: 100%; height: auto; font-family: system-ui, sans-serif; }
+.chrono-svg .axis { stroke: var(--muted); stroke-width: 1; }
+.chrono-svg .year { fill: var(--muted); font-size: 10px; }
+.chrono-svg .col { fill: var(--fg); font-size: 11px; font-weight: 600; letter-spacing: .04em; }
+.chrono-svg .lbl { fill: var(--fg); font-size: 10.5px; }
+.chrono-svg .blood { stroke: var(--fg); stroke-width: 2; opacity: .55; }
+.chrono-svg .blood.dashed { stroke-dasharray: 4 4; }
+.chrono-svg .union { stroke: var(--muted); stroke-width: 1.2; stroke-dasharray: 2 3; }
+.chrono-svg .node { fill: var(--panel); stroke: var(--fg); stroke-width: 2; }
+.chrono-svg .node.host { fill: var(--rust-soft); stroke: var(--rust); }
+.chrono-svg .node.trav { fill: var(--rust); stroke: var(--rust); }
+.chrono-svg .node.evt { stroke: var(--muted); }
+.chrono-svg .node.danger { fill: var(--rust); stroke: var(--rust); }
+.chrono-svg .node.inv { fill: var(--rust); stroke: var(--rust); }
+.chrono-svg .inv-lbl, .chrono-svg .danger-lbl { fill: var(--rust); font-weight: 600; }
+.chrono-svg .ok-lbl { fill: #3f7a52; font-weight: 600; }
+.chrono-svg .trav, .chrono-svg .fall, .chrono-svg .loop { fill: none; stroke-width: 2; }
+.chrono-svg .trav { stroke: var(--rust); }
+.chrono-svg .fall { stroke: var(--rust); stroke-dasharray: 6 4; }
+.chrono-svg .loop { stroke: var(--muted); stroke-dasharray: 2 4; }
+.chrono-svg .m-trav path, .chrono-svg .m-fall path { fill: var(--rust); }
+.chrono-svg .m-loop path { fill: var(--muted); }
+.chrono-svg .trav-lbl, .chrono-svg .fall-lbl { fill: var(--rust); font-size: 10px; font-style: italic; }
+.chrono-svg .loop-lbl { fill: var(--muted); font-size: 10px; font-style: italic; }
+.chrono-svg .band { fill: var(--rust-soft); opacity: .55; }
+.chrono-svg .band.new { fill: none; stroke: var(--rust); stroke-dasharray: 5 4; opacity: 1; }
+.chrono-svg .quote { fill: var(--rust); font: italic 13px Georgia, serif; }
+.chrono-notes { margin: 1.4rem 0 0; padding-left: 1.1rem; font-size: .95em; }
+.chrono-notes li { margin-bottom: .6rem; }
+.chrono-notes li.n3, .chrono-notes li.n4 { color: var(--rust); }
+@media (prefers-color-scheme: dark) { .chrono-svg .ok-lbl { fill: #7fc496; } }
+@media (max-width: 480px) { .bar .tabs a { padding: .45rem .55rem; } }
