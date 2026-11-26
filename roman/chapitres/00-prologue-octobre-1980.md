@@ -2,11 +2,11 @@
 
 *(premier jet)*
 
-Le lac avait disparu en dix-neuf jours.
+Le lac avait disparu en douze jours.
 
 Les gens de Vallorce étaient montés le voir partir comme on monte voir un mourant. Chaque soir, après la soupe, ils s'accoudaient au parapet du barrage et regardaient l'eau descendre le long des pierres, laissant derrière elle une bande brune, puis grise, puis noire, de plus en plus large, qui sentait la vase et le poisson crevé. Les enfants comptaient les mètres. Les vieux ne disaient rien. Les plus vieux se souvenaient de ce qu'il y avait en dessous.
 
-Le dix-neuvième jour, on vit apparaître le village.
+Le douzième jour, on vit apparaître le village.
 
 L'ancien, celui qu'on avait noyé en 1958 pour construire le barrage : vingt-trois maisons, une chapelle, un lavoir, un cimetière dont on avait déplacé les morts, ou pas tous. Les murs sortirent de la boue comme des dents. On voyait les seuils, les cheminées, l'escalier d'une grange qui ne menait plus nulle part. La chapelle avait perdu son toit mais pas son clocher, et le clocher, couvert d'algues séchées, ressemblait à un doigt pointé vers le ciel.
 

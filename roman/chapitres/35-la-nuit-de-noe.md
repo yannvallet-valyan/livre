@@ -52,7 +52,7 @@ Noé ôta le manteau d'Étienne et l'en enveloppa. Puis il s'assit dans les gale
 
 Il regarda le visage du garçon endormi, et il eut le vertige.
 
-C'était son ancêtre. Le grand-père du grand-père de son grand-père. Sans ce garçon de dix-neuf ans, en tee-shirt mouillé, avec un duvet de barbe et une cicatrice d'acné sur la tempe, il n'y aurait pas de Noé. Pas de registre Marle. Pas de salle des Cartes, pas de rencontre avec une archiviste qui lisait trop vite. Pas d'Iris.
+C'était son ancêtre. Le grand-père de son grand-père. Sans ce garçon de dix-neuf ans, en tee-shirt mouillé, avec un duvet de barbe et une cicatrice d'acné sur la tempe, il n'y aurait pas de Noé. Pas de registre Marle. Pas de salle des Cartes, pas de rencontre avec une archiviste qui lisait trop vite. Pas d'Iris.
 
 Il avait failli le perdre. Il avait failli disparaître ici, sur la grève, en une seconde, d'un coup, comme une phrase qu'on n'achève pas.
 

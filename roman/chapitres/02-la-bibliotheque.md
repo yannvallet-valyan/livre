@@ -22,7 +22,7 @@ On en connaissait la cause depuis vingt ans. Quand on ouvrait le crâne des mort
 
 Pour rejoindre le dortoir, il fallait traverser le grand hall, celui que les anciens appelaient encore « l'accueil ». Le mur du fond, entre deux colonnes, était couvert d'écriture à la craie, du sol jusqu'à hauteur d'homme : des noms, serrés, de toutes les mains, de toutes les tailles. C'était le mur des noms. Quand quelqu'un rouillait jusqu'au cœur, un proche venait y écrire son nom, pour qu'il en reste au moins ça. On ne les effaçait jamais. Les plus anciens, en bas, avaient presque disparu sous les frottements des épaules.
 
-Élise s'arrêta, comme chaque jour, devant deux noms côte à côte, à hauteur de sa poitrine, qu'elle avait écrits elle-même à neuf ans d'intervalle. *Paul Varenne. Marthe Varenne.* Elle n'y toucha pas. Elle ne priait pas : personne ne priait plus, ici. Elle se contentait de les lire, une fois, lentement, comme on vérifie qu'une porte est bien fermée.
+Élise s'arrêta, comme chaque jour, devant deux noms côte à côte, à hauteur de sa poitrine, qu'elle avait écrits elle-même à six ans d'intervalle. *Paul Varenne. Marthe Varenne.* Elle n'y toucha pas. Elle ne priait pas : personne ne priait plus, ici. Elle se contentait de les lire, une fois, lentement, comme on vérifie qu'une porte est bien fermée.
 
 Elle n'y alla pas tout de suite. Elle passa d'abord par le dortoir des enfants.
 

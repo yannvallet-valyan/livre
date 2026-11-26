@@ -6,7 +6,7 @@ Sophia demanda les registres à son père comme on demande une faveur administra
 
 — Pour mes séries, dit-elle sur la terrasse, en évitant de le regarder. Les capteurs électroniques ne remontent qu'à 2006. Toi, tu notes la cote à la main depuis 1980. Si je pouvais avoir tes registres, j'aurais quarante-six ans de données. Pour l'étude des sédiments, ce serait… utile.
 
-Anselme la regarda un long moment. Elle crut qu'il allait refuser. Puis il se leva, entra dans la cabine, et revint avec un carton de déménagement plein de cahiers reliés de toile bleue, numérotés au dos à l'encre violette, de 1 à 46.
+Anselme la regarda un long moment. Elle crut qu'il allait refuser. Puis il se leva, entra dans la cabine, et revint avec un carton de déménagement plein de cahiers reliés de toile bleue, numérotés au dos à l'encre violette, de 1 à 47.
 
 — Ils sont à toi, dit-il. Ils ont toujours été à toi.
 
@@ -57,7 +57,7 @@ Sophia posa le cahier sur la table. Elle ne pouvait plus le tenir.
 
 ---
 
-Elle chercha la dernière occurrence. Elle la trouva dans le cahier 46, celui de cette année, le seul qu'elle n'avait pas encore ouvert.
+Elle chercha la dernière occurrence. Elle la trouva dans le cahier 47, celui de cette année, le seul qu'elle n'avait pas encore ouvert.
 
 Sous la cote du dimanche 27 septembre, à l'encre violette, de l'écriture parfaite de son père, il y avait une ligne à l'encre noire, d'une écriture qu'elle connaissait mieux que la sienne à présent, puisque c'était la sienne, ralentie : la même que celle du carnet sous son plancher.
 
@@ -79,6 +79,6 @@ La réponse vint la nuit suivante, en noir, très courte, d'une écriture qui h�
 
 Sophia relut la réponse dix fois. Elle la crut. C'est ce qui la terrifia le plus : elle la crut entièrement. Élise ne savait pas. Élise n'avait jamais été là avant. Et pourtant, depuis 1986, quelqu'un avait recopié, dans les marges des registres de son père, les chiffres qu'Élise lui donnerait en 2026, et avait choisi le prénom de Sophia avant qu'elle naisse.
 
-Elle rangea les quarante-six cahiers dans leur carton et le poussa sous le lit, à l'endroit exact du mur mitoyen, là où, chaque nuit, elle ne le savait pas, quelqu'un frappait cinquante-neuf fois.
+Elle rangea les quarante-sept cahiers dans leur carton et le poussa sous le lit, à l'endroit exact du mur mitoyen, là où, chaque nuit, elle ne le savait pas, quelqu'un frappait cinquante-neuf fois.
 
 Elle ne put pas dormir. Ce qui, pour une fois, voulait dire qu'Élise non plus.

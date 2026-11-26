@@ -34,7 +34,7 @@ Elle ne bougeait pas, pourtant. Ni lui. Ils restèrent encore un instant immobil
 
 Peut-être que c'était cette nuit. Peut-être qu'Anne avait commencé, là, quelque part dans le corps qu'elle habitait. Peut-être que le moindre geste maladroit, le moindre réveil en sursaut de Sophia dans un lit qu'elle n'aurait pas choisi, si les choses avaient tourné autrement, aurait pu tout défaire.
 
-Élise posa les mains à plat sur le drap, de chaque côté d'elle, et ne bougea plus du tout. Elle sentit, à côté, Noé faire exactement la même chose.
+Élise posa les mains à plat sur le drap, de chaque côté d'elle, et ne bougea plus du tout. Elle sentit, à côté, Sacha faire exactement la même chose.
 
 — D'accord.
 

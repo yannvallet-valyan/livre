@@ -88,7 +88,7 @@ Elle se leva. Elle reprit son carnet à spirale. Elle n'avait rien noté depuis 
 
 L'homme ne rouvrit pas les yeux. Elle vit seulement, à la lueur du réverbère, ses mains se poser à plat sur le drap, de chaque côté de lui.
 
-Elle rentra chez elle à pied, à deux heures du matin, dans le froid, en pensant qu'elle venait de parler au père d'un enfant qui naîtrait dans cent ans, et sans savoir qu'elle le pensait. Elle se coucha, et dès qu'elle ferma les yeux, ce ne fut plus elle.
+Elle rentra chez elle à pied, à deux heures du matin, dans le froid. Elle se coucha, et dès qu'elle ferma les yeux, ce ne fut plus elle.
 
 Dans le carnet, le lendemain, elle écrivit seulement : *Il dort.*
 

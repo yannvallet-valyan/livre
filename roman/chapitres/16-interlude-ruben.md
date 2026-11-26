@@ -68,7 +68,7 @@ Il prit un crayon. Il hésita longtemps, la mine au-dessus du blanc, au-dessus d
 
 Puis il écrivit, de son écriture de technicien, appliquée, avec des lettres bien détachées :
 
-*Noé MARLE.*
+*Noé.*
 
 Et sous le nom d'Élise, au bout de la ligne restée ouverte, il ajouta trois mots, et il les souligna.
 

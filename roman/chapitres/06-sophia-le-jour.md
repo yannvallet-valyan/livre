@@ -76,7 +76,7 @@ Elle leva les yeux. Il ne la regardait pas : il regardait le lac.
 
 — Pour rien. Il fait lourd, la nuit, quand l'eau descend.
 
-Elle aurait voulu lui dire. *Je me réveille avec de la boue sous les pieds. J'ai un bleu que je ne me suis pas fait. Il y a un verre dans mon évier.* Mais elle pensa à la lettre de sa mère, rangée au fond de la boîte à chaussures. *Il ne dormait pas, ou alors il dormait autrement.* Et elle se tut. Elle avait trente-huit ans, et elle était une scientifique. Elle avait peur, pour la première fois de sa vie, d'avoir hérité de quelque chose qui ne se mesure pas.
+Elle aurait voulu lui dire. *Je me réveille avec de la boue sous les pieds. J'ai un bleu que je ne me suis pas fait. Il y a un verre dans mon évier.* Mais elle pensa à la lettre de sa mère, rangée au fond de la boîte à chaussures. *Il ne dormait pas, ou alors il dormait autrement.* Et elle se tut. Elle avait trente-sept ans, et elle était une scientifique. Elle avait peur, pour la première fois de sa vie, d'avoir hérité de quelque chose qui ne se mesure pas.
 
 ---
 

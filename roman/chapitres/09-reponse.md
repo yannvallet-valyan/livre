@@ -32,7 +32,7 @@ Elle répondit dans l'ordre. Elle avait compris que Sophia aimait l'ordre.
 
 *2. Parce que je ne peux voyager que dans mon propre sang, et seulement quand tu dors, et seulement ici. Je n'ai pas choisi. Ou plutôt : je n'avais que toi.*
 
-*3. Jeudi, à 7 h 12 : 411,94. Lundi, à 7 h 12 : 411,52. Je connais une colonne de chiffres jusqu'au 14 novembre. Je te les donnerai un par un, la veille, jusqu'à ce que tu me croies.*
+*3. Lundi, à 7 h 12 : 411,71. Jeudi, à 7 h 12 : 411,52. Je connais une colonne de chiffres jusqu'au 14 novembre. Je te les donnerai un par un, la veille, jusqu'à ce que tu me croies.*
 
 Elle s'arrêta, puis ajouta, parce que c'était vrai :
 
@@ -40,7 +40,7 @@ Elle s'arrêta, puis ajouta, parce que c'était vrai :
 
 ---
 
-Le jeudi, à 7 h 12, la jauge affichait 411,94. Le lundi, 411,52. Sophia avait mis chaque prédiction sous enveloppe, la veille, et signé le rabat.
+Le lundi, à 7 h 12, la jauge affichait 411,71. Le jeudi, 411,52. Sophia avait mis chaque prédiction sous enveloppe, la veille, et signé le rabat.
 
 Sophia rentra chez elle et écrivit pendant une heure.
 

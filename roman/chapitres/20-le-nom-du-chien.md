@@ -102,7 +102,7 @@ Elle écrivit le soir, d'une écriture qui partait dans tous les sens.
 
 *Pas lui, ton Sacha : moi, Étienne. Sur le chemin du lac. Je te le dis parce que c'est la règle. Et parce que je n'ai personne d'autre à qui le dire.*
 
-*J'ai trente-huit ans et j'écris ça comme une adolescente dans son journal. Ne te moque pas.*
+*J'ai trente-sept ans et j'écris ça comme une adolescente dans son journal. Ne te moque pas.*
 
 *Corinne a oublié le nom de Biscotte. Ça commence. Tu avais trois mois de retard.*
 
