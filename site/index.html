@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>La Rouille</title>
+  <meta name="description" content="La Rouille : un roman interactif de science-fiction. Écris à ton ancêtre à travers le temps.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-pov="neutre">
+  <header class="bar">
+    <span class="brand">La Rouille</span>
+    <nav aria-label="Outils">
+      <button id="btn-back" type="button" title="Revenir au choix précédent">↶ Revenir</button>
+      <button id="btn-carnet" type="button" aria-expanded="false" aria-controls="carnet" data-count="0">Carnet</button>
+      <button id="btn-gauges" type="button" aria-expanded="false" aria-controls="gauges">Jauges</button>
+      <button id="btn-font" type="button" title="Taille du texte" aria-label="Changer la taille du texte">Aa</button>
+      <button id="btn-restart" type="button">Recommencer</button>
+    </nav>
+  </header>
+
+  <section id="gauges" class="gauges" hidden aria-label="Jauges">
+    <div id="gauge-bars"></div>
+  </section>
+
+  <main>
+    <article id="scene" class="scene enter" aria-live="polite">
+      <p id="chapter" class="chapter"></p>
+      <h1 id="title" tabindex="-1"></h1>
+      <div id="text" class="text"></div>
+      <div id="choices" class="choices"></div>
+    </article>
+  </main>
+
+  <aside id="carnet" class="carnet" hidden aria-label="Le carnet">
+    <div class="carnet-head">
+      <h2>Le carnet</h2>
+      <button id="close-carnet" type="button" aria-label="Fermer le carnet">✕</button>
+    </div>
+    <ol id="carnet-list"></ol>
+  </aside>
+
+  <noscript><p style="padding:1rem">Ce livre interactif nécessite JavaScript.</p></noscript>
+  <script src="story.js"></script>
+  <script src="engine.js"></script>
+</body>
+</html>
