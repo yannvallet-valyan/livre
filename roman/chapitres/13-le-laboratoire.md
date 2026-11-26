@@ -1,4 +1,4 @@
-# Chapitre 10 — Le laboratoire
+# Chapitre 11 — Le laboratoire
 
 *(premier jet)*
 

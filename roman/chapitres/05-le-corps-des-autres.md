@@ -34,6 +34,26 @@ Il n'y avait personne. Sauf, peut-être, à une fenêtre du premier étage de la
 
 ---
 
+La sixième nuit, elle ouvrit le réfrigérateur.
+
+Elle l'avait évité jusque-là, par scrupule : manger, c'était prendre. Mais le corps de Sophia avait faim, une faim de trois heures du matin, impérieuse, qui lui tordait l'estomac, et Élise finit par céder. La lumière du réfrigérateur l'éblouit. Elle resta longtemps devant, la porte ouverte, à regarder. Des œufs, rangés dans leur boîte. Du beurre. Un pot de confiture d'abricots entamé. Un morceau de fromage enveloppé dans du papier. Une pomme.
+
+Elle prit la pomme.
+
+Au refuge, il y avait des lentilles, des champignons cultivés sous les lampes, du pain de lentilles, et une fois par an, à la fête des Lumières, une conserve de pêches au sirop qu'on partageait à quarante, une demi-tranche chacun. Elle n'avait jamais mangé une pomme. Elle savait le mot. Elle l'avait lu mille fois. Elle mordit dedans, debout dans la cuisine, et le jus lui coula sur le menton, froid, acide, sucré, et elle dut s'asseoir par terre, le dos contre le réfrigérateur, parce que ses jambes ne la portaient plus.
+
+Elle mangea la pomme jusqu'au trognon, puis le trognon, puis les pépins. Le lendemain, elle écrivit dans sa tête une liste qu'elle ne pouvait mettre nulle part : *pomme, beurre, confiture d'abricot, chocolat (tablette, tiroir de gauche, 70 %), pain frais (jamais), sel de céleri (non).* Elle ne prenait qu'une chose par nuit, et la plus petite possible. Elle replaçait tout exactement comme elle l'avait trouvé. Elle avait honte de sa faim comme d'une effraction.
+
+Les livres furent pires.
+
+Sophia en avait trois cents, rangés sans ordre sur des planches posées sur des briques : des traités d'hydrologie, des romans de poche cornés, des guides de randonnée, des dictionnaires. Élise passa deux nuits entières à les toucher sans les ouvrir, à lire les titres sur les dos, comme on caresse des animaux qu'on n'ose pas réveiller. Dans la bibliothèque, chaque livre était un survivant, recopié, réparé, catalogué, protégé. Ici, ils traînaient par terre, à côté du lit, avec des tasses posées dessus. Un roman avait une auréole de café sur la couverture. Elle le prit, l'ouvrit, et lut la première phrase à voix haute, dans la cuisine, à trois heures du matin, avec la voix de Sophia.
+
+Elle ne s'arrêta qu'à l'aube, à la page cent douze, quand le corps commença à la reprendre. Elle remit le livre exactement où il était, ouvert, retourné, à la même page qu'avant, pour que Sophia ne s'aperçoive de rien.
+
+Sophia s'en aperçut. Elle avait corné la page quarante. Le matin, le livre était retourné à la page cent douze. Elle le nota dans son carnet à spirale, à l'encre bleue, sous la date, à la suite du bleu et des pieds sales : *Quelqu'un lit mes livres. Et va plus vite que moi.*
+
+---
+
 Elle connut Sophia par ses objets.
 
 Sophia écrivait tout à l'encre bleue. Sur la table de la cuisine, il y avait toujours un bloc couvert de chiffres, de courbes de niveau, de dates. Sophia notait la température extérieure chaque soir avant de se coucher, à la même heure, sur un tableau scotché à la porte du frigo. Elle possédait un barographe, un tambour de papier où une aiguille traçait la pression de l'air, et Élise passa une nuit entière à le regarder dessiner, fascinée, le souffle court.

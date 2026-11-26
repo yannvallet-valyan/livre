@@ -1,4 +1,4 @@
-# Chapitre 19 — Le premier Passeur
+# Chapitre 24 — Le premier Passeur
 
 *(premier jet)*
 

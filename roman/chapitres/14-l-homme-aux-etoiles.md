@@ -1,4 +1,4 @@
-# Chapitre 11 — L'homme aux étoiles
+# Chapitre 12 — L'homme aux étoiles
 
 *(premier jet)*
 

@@ -2,7 +2,7 @@
 
 > ⚠️ Contient toutes les révélations. Mécanique : `bible/chronologie.md`. Indices : §7 de ce même fichier.
 
-**État :** premier jet complet, environ 39 000 mots, soit environ 140 pages. Il comprend un prologue, 25 chapitres, 3 interludes, un épilogue, une coda et une annexe. Objectif : environ 70 000 mots, à obtenir en étoffant chaque chapitre.
+**État :** premier jet complet, environ 54 000 mots, soit environ 195 pages. Il comprend un prologue, 25 chapitres, 3 interludes, un épilogue, une coda et une annexe. Objectif : environ 70 000 mots, à obtenir en étoffant chaque chapitre.
 
 **Structure :** trois époques entrelacées, à la manière de *Dark* :
 - **1980-1991** : Anselme et Hélène ;
@@ -60,3 +60,52 @@
 - **1958 :** la construction du barrage et le village noyé. C'est une ouverture plus ancienne du cristal, avec la légende de « la dame du lac qui prend les souvenirs ».
 - Oriane compte jusqu'à soixante sans savoir de qui elle tient cette habitude.
 - Léa Kerr, née en 2029.
+
+## Ordre de lecture actuel (généré à partir des fichiers)
+
+> Ce tableau fait foi pour l'ordre et les numéros. Le tableau plus haut garde les fonctions de chaque chapitre, avec l'ancienne numérotation.
+
+| Fichier | Titre | Mots |
+|---|---|---|
+| `00-prologue-octobre-1980.md` | Prologue — Octobre 1980 | 1236 |
+| `01-le-lac.md` | Chapitre 1 — Le lac | 1186 |
+| `02-la-bibliotheque.md` | Chapitre 2 — La bibliothèque | 2022 |
+| `03-passeuse.md` | Chapitre 3 — Passeuse | 1365 |
+| `04-interlude-oriane.md` | Interlude — Oriane, 2137 | 710 |
+| `05-le-corps-des-autres.md` | Chapitre 4 — Le corps des autres | 1961 |
+| `06-sophia-le-jour.md` | Chapitre 5 — Sophia, le jour | 1431 |
+| `07-le-carnet.md` | Chapitre 6 — Le carnet | 1032 |
+| `08-les-mots-de-la-main.md` | Chapitre 7 — Les mots de la main | 1275 |
+| `09-reponse.md` | Chapitre 8 — Réponse | 1269 |
+| `10-interlude-helene.md` | Interlude — Hélène, 1988-1991 | 941 |
+| `11-anselme-le-jour.md` | Chapitre 9 — Anselme, le jour | 1271 |
+| `12-deux-encres.md` | Chapitre 10 — Deux encres | 1813 |
+| `13-le-laboratoire.md` | Chapitre 11 — Le laboratoire | 1509 |
+| `14-l-homme-aux-etoiles.md` | Chapitre 12 — L'homme aux étoiles | 1266 |
+| `15-interlude-ruben.md` | Interlude — Ruben, 2137 | 901 |
+| `16-la-galerie.md` | Chapitre 13 — La galerie | 1431 |
+| `17-interlude-kerr.md` | Interlude — Kerr | 863 |
+| `18-le-cahier-noir.md` | Chapitre 14 — Le cahier noir | 1425 |
+| `19-le-nom-du-chien.md` | Chapitre 15 — Le nom du chien | 1555 |
+| `20-mathis.md` | Chapitre 16 — Mathis | 1348 |
+| `21-le-registre-de-l-ouvrage.md` | Chapitre 17 — Le registre de l'ouvrage | 902 |
+| `22-tu-reviens-toujours.md` | Chapitre 18 — Tu reviens toujours | 1038 |
+| `23-la-toussaint.md` | Chapitre 19 — La Toussaint | 1188 |
+| `24-le-veilleur.md` | Chapitre 20 — Le Veilleur | 1464 |
+| `25-corinne.md` | Chapitre 21 — Corinne | 1033 |
+| `26-le-financeur.md` | Chapitre 22 — Le financeur | 1509 |
+| `27-le-cycle.md` | Chapitre 23 — Le cycle | 1591 |
+| `28-le-premier-passeur.md` | Chapitre 24 — Le premier Passeur | 1796 |
+| `29-interlude-rose.md` | Interlude — Rose, 1958 | 1095 |
+| `30-le-lit-vide.md` | Chapitre 25 — Le lit vide | 1416 |
+| `31-hugo.md` | Chapitre 26 — Hugo | 995 |
+| `32-la-nuit-de-noe.md` | Chapitre 27 — La nuit de Noé | 1213 |
+| `33-trois-portes.md` | Chapitre 28 — Trois portes | 1276 |
+| `34-le-mur.md` | Chapitre 29 — Le mur | 1146 |
+| `35-le-13-novembre.md` | Chapitre 30 — Le 13 novembre | 1975 |
+| `36-interlude-iris.md` | Interlude — Iris | 1305 |
+| `37-la-derniere-nuit.md` | Chapitre 31 — La dernière nuit | 1727 |
+| `38-le-matin.md` | Chapitre 32 — Le matin | 2237 |
+| `39-epilogue-la-page-blanche.md` | Épilogue — La page blanche | 1878 |
+| `40-coda.md` | Coda | 991 |
+| `41-annexe.md` | Annexe — Le cahier noir | 381 |

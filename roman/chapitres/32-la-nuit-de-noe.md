@@ -1,4 +1,4 @@
-# Chapitre 21 — La nuit de Noé
+# Chapitre 27 — La nuit de Noé
 
 *(premier jet)*
 
@@ -6,7 +6,7 @@ Noé se réveilla dans le corps d'Étienne Marle à minuit vingt, et il sut tout
 
 Il ne sut pas quoi. C'était une sensation, comme lorsqu'on entre dans une pièce dont on a déplacé un meuble. Il resta immobile dans le lit, à compter, comme il le faisait chaque nuit pour s'installer. À trente, il comprit : la maison était trop silencieuse.
 
-Hugo était arrivé la veille.
+Hugo était arrivé le samedi, et il repartait le lundi matin.
 
 Le fils d'Étienne était monté de Grenoble pour le week-end, sans prévenir, parce que son père lui avait paru « bizarre » au téléphone. Noé ne l'avait jamais vu éveillé : il ne vivait que les nuits. Mais il connaissait son nom. Il le connaissait depuis l'enfance, depuis le registre de la famille Marle, au refuge, qu'il avait recopié deux fois de sa main : *Hugo MARLE, né en 2007 à Grenoble, fils d'Étienne Marle et de Claire Fournier.* La troisième ligne. Celle de laquelle descendaient toutes les autres, jusqu'à lui.
 

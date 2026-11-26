@@ -1,4 +1,4 @@
-# Chapitre 9 — Deux encres
+# Chapitre 10 — Deux encres
 
 *(premier jet)*
 

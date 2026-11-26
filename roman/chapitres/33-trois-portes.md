@@ -1,4 +1,4 @@
-# Chapitre 22 — Trois portes
+# Chapitre 28 — Trois portes
 
 *(premier jet)*
 
