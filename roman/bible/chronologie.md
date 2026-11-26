@@ -1,6 +1,41 @@
 # Chronologie, généalogie et mécanique de la boucle
 
-> ⚠️ Document de travail, il contient **toutes les révélations**.
+> ⚠️ Document de travail : il contient toutes les révélations.
+> **Le §0 fait foi.** En cas de contradiction entre une section plus ancienne et le §0, c'est le §0 qui s'applique. Les numéros de chapitres cités dans les sections 1 à 11 suivent d'anciennes numérotations : se fier aux **titres**, et au tableau généré de `../plan/plan-chapitres.md`.
+
+## 0. Règles canoniques (V3)
+
+1. **Ouverture et accès.** Le cristal n'est **franchissable** (voyage, chute) que pendant une **fenêtre d'ouverture**, quand le gisement affleure : octobre 1980 (vidange), de mi-septembre au 14 novembre 2026 (abaissement), et peut-être 1958 (construction, piste pour le tome 2). En dehors de ces fenêtres, le gisement est **physiquement hors d'atteinte**, sous 90 m d'eau.
+   - L'échantillon de 2023 ne vient donc pas du gisement. C'est **l'aiguille qu'Anselme a cassée et glissée dans sa poche le 13 octobre 1980**, gardée 43 ans dans une boîte d'allumettes au fond de sa boîte à mouches. Les Élise l'ont envoyée à Kerr.
+2. **Une seule réalité, réécrite.** Les lignes A et B ne sont **pas des mondes parallèles**. Ce sont les **versions successives d'une même réalité**, comme un palimpseste.
+   - À chaque tour, la fenêtre de 2026 est **rejouée et réécrite**, ainsi que tout ce qui en découle : le lac, la maison, le carnet neuf sous cellophane.
+   - Ne survit d'un tour à l'autre que :
+     - ce qui **sort de la fenêtre** avant qu'elle se referme (par le sang, par les objets transmis de génération en génération) ;
+     - ce que garde **le cristal**, qui est hors du temps : les Élise tombées dans Anselme, les résidus, les visions.
+   - C'est pourquoi l'Élise du roman (A) ne trouve pas la page arrachée dans la boîte à chaussures : sa fenêtre est une réécriture où l'Élise B n'a pas écrit cette page.
+3. **Le chemin de la page arrachée.** Pendant son tour, l'Élise B écrit la page et la cache dans la boîte à chaussures de Sophia, puis elle brise le cristal. Le futur qui en découle est la ligne A.
+   - La page suit ensuite la famille : Sophia l'emporte à Lyon. Anne la trouve enfant. Elle passe à Jeanne, puis à Paul Varenne, le père d'Élise, qui la remet au Conseil en 2117 en demandant que sa fille ne sache jamais d'où elle vient. Oriane le sait (interlude « Oriane »).
+   - Dans le dossier, Oriane parle seulement d'une « vieille famille de la vallée ».
+4. **Connaissances et ancre.** Rien de matériel ne voyage.
+   - Les **connaissances apprises par cœur** (dates, noms, chiffres, règles, registre) **tiennent**.
+   - Le courant use d'abord **ce qui fait l'identité** : les visages, les voix, les gestes aimés. L'**ancre** est la seule chose de cet ordre qu'on protège de toutes ses forces. Pour Élise, c'est le visage d'Iris, qu'elle perd en partie (le grain de beauté), puis qu'Iris lui rend.
+   - L'oubli de Noé est **antérieur** au voyage : c'est l'œuvre de la Rouille en 2135.
+5. **Les Élise d'Anselme** ne sont pas des consciences indépendantes. Ce sont des **couches de mémoire**, comme la vase : celles du dessus se souviennent un peu, celles du dessous font corps avec le reste. Elles forment une seule entité, qui dit « nous ».
+6. **Les voyageurs.** Pour la mission de 2137, le Conseil n'a trouvé que **deux candidats adultes** lucides ayant une lignée compatible : Élise et Noé. Les autres voyageurs viennent d'ailleurs :
+   - **Iris adulte** vient de 2164, d'un tour où sa mère n'est jamais revenue. Elle voyage dans Mathis, son ancêtre.
+   - **K.** vient d'un futur indéterminé. Il voyage dans Kerr, son ancêtre par Léa. Son rôle reste limité, et il amorce le tome 2.
+   - **L'Élise B** vient de 2164, dans la ligne B.
+7. **La contamination, de la fiole au monde.** Le cristal se nourrit des **dormeurs** à proximité : il pousse, s'ouvre en éventail et lâche une poussière fine comme du sucre. Les **résidus** passent de dormeur en dormeur et de génération en génération.
+   - **En 2141 :** la poussière essuyée chaque matin est rincée dans l'évier, et les éviers descendent au lac. Puis Iris jette la fiole dans le lac pour s'en débarrasser. Le lac est réensemencé, et la Rouille de la ligne B repart.
+   - La consigne d'Élise (« pas dans l'évier, jamais dans l'eau ») est ainsi violée deux fois, sans le savoir.
+8. **Mathis.** Il voit les voyageurs parce qu'il a failli se noyer à 3 ans au pied du barrage : il a bu l'eau du lac. Il veille de minuit à 1 h environ. Iris occupe ensuite ses nuits, et laisse des traces : jointures écorchées, craie sur les doigts, ardoise effacée.
+9. **Les prénoms de la ligne B.**
+   - En 2103, Paul appelle sa fille **Iris**, d'après l'enfant des pages noires.
+   - En 2130, Iris appelle sa fille **Élise**, d'après la femme qui, dans ces pages, aimait cette enfant : « pour que quelqu'un, cette fois, la garde ».
+10. **La conception d'Anne** a eu lieu entre le 6 et le 14 novembre, de jour ou de nuit : c'est **indéterminable**. Voir le §10 et le §11.
+
+---
+
 
 ## 1. La mécanique (canon)
 

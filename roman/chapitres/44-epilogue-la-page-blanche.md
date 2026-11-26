@@ -54,7 +54,7 @@ Une couverture grise, usée, ramollie par les mains. Des pages couvertes de deux
 
 Sur la première page, quelqu'un avait écrit, à l'encre bleue : *Les pages noires ne sont pas pour vous. Gardez-les. Ne les lisez pas.* Dans la famille Varenne, on avait respecté la consigne pendant cent onze ans. On lisait les pages bleues, qui parlaient d'une femme seule, d'un lac qui baissait, d'un médecin. On ne lisait pas les noires. On se contentait d'y prendre des noms. C'était une tradition, dont plus personne ne savait qui l'avait commencée : on donnait aux enfants les noms qu'on trouvait dans le carnet.
 
-Il y avait eu une Anne. Puis une Jeanne. Puis un Paul. Puis d'autres.
+Il y avait eu une Anne. Puis une Jeanne. Puis un Paul. En 2103, Paul avait appelé sa fille Iris, d'après l'enfant des pages noires dont on lisait le nom sans lire l'histoire : une petite fille au front trop grand, comme celui de toutes les femmes de la famille. Et trente ans plus tard, quand on lui avait mis sa propre fille dans les bras, Iris avait choisi le seul autre nom qui revenait sans cesse dans ces pages-là, celui de la femme qui écrivait à l'encre noire et qui, semblait-il, aimait cette enfant plus que tout. Élise. Pour que quelqu'un, cette fois, la garde.
 
 La dernière page était blanche. Personne n'avait jamais osé y écrire.
 
@@ -160,13 +160,17 @@ Au bout de deux, elle oublia le nom du chat.
 
 Iris se dit que c'était le prix. Elle se dit que c'était transitoire. Elle regarda l'aiguille au fond de la fiole, qui faisait maintenant la longueur d'un doigt et s'ouvrait en éventail, comme une main, et elle remit le bouchon, et elle le retira de nouveau le soir suivant.
 
-Au bout de six mois, dans l'immeuble, une voisine ne retrouva plus le chemin de son appartement.
+Le cristal ne restait pas dans la fiole. Il poussait. Il s'ouvrait en éventail, débordait du goulot, et chaque matin il y avait sur la table de nuit une poussière rouge très fine, comme du sucre, qu'Iris essuyait avec un chiffon humide et rinçait dans l'évier. Dans l'évier. Elle ne pensa pas une seconde à la phrase des pages noires, *pas dans l'évier, jamais dans l'eau*. Les éviers de Vallorce descendaient au lac.
+
+Au bout de six mois, dans l'immeuble, une voisine ne retrouva plus le chemin de son appartement. Puis un enfant de l'école, qui dormait de l'autre côté du mur de la chambre d'Élise. Puis le pêcheur de nuit qui avait sorti Élise de l'eau.
 
 Au bout d'un an, un matin de printemps, Élise s'arrêta sur le seuil de la cuisine, son cartable à la main, et regarda sa mère, longuement, poliment, avec une expression qu'Iris n'avait vue qu'une fois, dans un carnet, à l'encre noire.
 
 — C'est qui ? demanda Élise.
 
 ---
+
+Cette nuit-là, Iris descendit au lac et jeta la fiole dans l'eau, aussi loin qu'elle put. Elle crut s'en débarrasser. Elle rendait seulement au lac ce qu'on lui avait pris plus d'un siècle plus tôt.
 
 Quelques années plus tard, à la bibliothèque de Vallorce, quelqu'un proposa de murer les fenêtres.
 

@@ -12,7 +12,7 @@ Village de montagne au fond d'une vallée encaissée, au pied d'un vieux barrage
 - **La maison Delorme** : voisine, mur mitoyen.
 
 ## 2026 (le « présent » du roman)
-Novembre. Le lac est bas, les sédiments affleurent. Le laboratoire a installé en septembre un programme d'étude des sédiments. En réalité, il **cultive** un cristal découvert dans la vase.
+De mi-septembre au 14 novembre. Le lac, abaissé depuis août, est de plus en plus bas, et les sédiments affleurent. Le laboratoire a installé en septembre un programme d'étude des sédiments. En réalité, il **cultive** un cristal découvert dans la vase.
 
 ## 2137 (le futur)
 La Rouille a érodé les sociétés. Les derniers lucides vivent dans une **bibliothèque souterraine**, dernier lieu où l'on lit encore à voix haute. L'écrit est devenu une religion discrète. Le langage s'appauvrit : les mots de 2026 sont des « mots anciens ».
@@ -39,4 +39,4 @@ Trouvé dans les sédiments du lac. Réagit aux ondes cérébrales pendant le so
 | 2090 | Guerre totale évitée « grâce » à l'oubli (selon Marle) |
 | 2137 | Bibliothèque souterraine ; Élise devient Passeuse |
 
-> Tout voyageur de la boucle arrive en **novembre 2026** : il n'y a pas d'autre fenêtre, parce que le cristal n'est « ouvert » qu'à ce moment. À confirmer.
+> Les voyageurs arrivent dans la **fenêtre d'ouverture** de 2026 (de mi-septembre au 14 novembre, quand le lac est assez bas). Les règles canoniques sont dans `chronologie.md`, §0.

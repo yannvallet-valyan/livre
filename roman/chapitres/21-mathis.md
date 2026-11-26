@@ -4,7 +4,7 @@
 
 Mathis Delorme avait neuf ans, des lunettes rafistolées au scotch, et la conviction tranquille que les adultes ne voyaient pas la moitié de ce qu'il y avait à voir.
 
-Il ne dormait pas beaucoup. Il ne l'avait jamais fait. Sa mère avait consulté trois médecins quand il était petit, puis elle avait renoncé : Mathis se couchait à neuf heures, se réveillait vers minuit, et passait deux ou trois heures assis devant la fenêtre de sa chambre, sous la couette, à regarder le village dormir. Il ne faisait pas de bruit. Il ne se plaignait pas. Puis, vers une heure, il se rendormait, et le matin sa mère le retrouvait parfois roulé en boule au pied du lit, contre le mur mitoyen, les jointures des doigts rouges et écorchées, sans qu'il sache dire pourquoi.
+Il ne dormait pas beaucoup. Il n'avait plus jamais bien dormi depuis ses trois ans, depuis l'après-midi d'été où il avait échappé à sa mère sur la grève et où on l'avait repêché, bleu et souriant, au pied du barrage, dans une eau qui ne lui arrivait pas aux genoux. Sa mère avait consulté trois médecins quand il était petit, puis elle avait renoncé : Mathis se couchait à neuf heures, se réveillait vers minuit, et passait deux ou trois heures assis devant la fenêtre de sa chambre, sous la couette, à regarder le village dormir. Il ne faisait pas de bruit. Il ne se plaignait pas. Puis, vers une heure, il se rendormait, et le matin sa mère le retrouvait parfois roulé en boule au pied du lit, contre le mur mitoyen, les jointures des doigts rouges et écorchées, sans qu'il sache dire pourquoi.
 
 Sophia le savait vaguement, comme on sait ces choses sur les enfants des voisins. Elle ne s'en était jamais souciée. Jusqu'au mardi où Mathis frappa à sa porte, en rentrant de l'école, son cartable encore sur le dos.
 
@@ -33,6 +33,8 @@ Sophia ne savait pas quoi faire de ses mains. Elle les posa à plat sur ses cuis
 Il regarda ses propres mains. Les jointures étaient rouges, écorchées, comme celles d'un enfant qui se serait battu.
 
 — Et après, je m'endors, dit-il plus bas. Et je me réveille contre le mur. J'ai mal aux doigts. Maman croit que je fais des cauchemars. Moi, je crois que quelqu'un se sert de mes mains pendant que je dors.
+
+— Et des fois, ajouta-t-il, j'ai du blanc sur les doigts. Comme la craie de l'école. Et mon ardoise est effacée, le matin. Alors que je l'avais pas effacée.
 
 Il releva la tête et la regarda, sans peur, avec une sorte de curiosité tranquille.
 

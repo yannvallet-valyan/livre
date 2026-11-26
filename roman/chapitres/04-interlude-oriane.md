@@ -38,6 +38,16 @@ Elle s'était dit beaucoup de choses.
 
 ---
 
+Elle savait aussi d'où venait la quatrième page, celle qu'Élise lisait toujours en dernier.
+
+Elle ne l'avait dit à personne. En 2117, un an avant de rouiller, un réparateur de lampes était monté à la salle des Cartes avec une enveloppe jaunie. Il s'appelait Paul Varenne. Il tenait la page de sa mère, Jeanne, qui la tenait de la sienne, Anne, qui l'avait trouvée enfant au fond d'une boîte à chaussures, sous une vieille photo de son grand-père en bottes de pêcheur, dans l'appartement de Lyon où elle avait grandi. Personne, dans la famille, n'avait jamais su qui l'avait écrite. On la gardait comme on garde une relique dont on ne comprend pas la langue.
+
+Paul l'avait posée sur la table. Il avait dit : *Je crois qu'elle est pour vous.* Puis il avait demandé une seule chose : que sa fille, qui lisait déjà mieux que lui à quatorze ans, ne sache jamais d'où elle venait.
+
+Oriane avait tenu parole. C'était, pensait-elle parfois, la seule promesse qu'elle eût jamais tenue sans calcul.
+
+---
+
 On frappa à la porte. Elle rangea la cinquième feuille dans le tiroir et ouvrit.
 
 C'était Ruben. Il avait les yeux rouges.

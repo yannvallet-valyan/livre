@@ -8,7 +8,17 @@
 Motifs récurrents : **la rouille** (métal, mots, visages), **l'eau** (le lac, la mémoire qui s'écoule), **l'encre** (bleue pour Sophia, noire pour Élise), **compter** (Élise), **les mains** (la même main, deux écritures), **le corps comme maison louée**.
 
 ## Voix
-- **Personne et temps :** troisième personne limitée, passé simple/imparfait pour le récit. Alternance des points de vue : *Élise la nuit*, *Sophia le jour*. Les chapitres d'Élise sont plus sensoriels, plus « étrangers à leur propre corps » ; ceux de Sophia plus secs, rationnels, chiffrés.
+- **Personne et temps :** troisième personne limitée, au passé simple et à l'imparfait. Le point de vue principal alterne entre *Élise la nuit* (sensoriel, étranger à son propre corps) et *Sophia le jour* (sec, précis, chiffré).
+- **Interludes :** ils sont écrits du point de vue d'autres personnages : Oriane, Hélène, Ruben, Kerr, Rose, Iris, Anne. Quelques chapitres sont aussi du point de vue d'Anselme, de Noé ou de Mathis par ricochet.
+- **Voix des personnages dans les dialogues :**
+  - **Sophia :** scientifique, précise, pragmatique, des phrases courtes ;
+  - **Élise :** sensorielle, hésitante, des listes ;
+  - **Noé :** historien, réfléchi, pudique ;
+  - **Anselme :** fragmenté, décalé, parfois au pluriel (« nous ») ;
+  - **Kerr :** rationnel, en quête de justification morale ;
+  - **Mathis :** spontané, concret, enfantin, une logique imparable ;
+  - **Oriane :** politique, froide, maîtrisée.
+- **Tics de style à surveiller à la réécriture :** « Elle ne savait pas pourquoi », « comme on… », « Il y avait… », « Elle resta longtemps… », « Pas pour… Pas pour… ». Ce sont des motifs, mais il faut les espacer et laisser certaines scènes plus simples.
 - **Le carnet** apparaît en italique, sans guillemets, dans la graphie de celle qui écrit. Les mots d'Élise sont plus simples et plus lents (elle écrit comme dans une langue apprise).
 - **Registre :** phrases courtes dans l'urgence, longues dans la contemplation. Éviter le jargon technique de la SF : le cristal, le lac, le béton suffisent.
 - **Dialogues :** tirets cadratins. Sophia parle peu. Anselme parle en « décalé ».

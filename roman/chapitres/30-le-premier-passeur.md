@@ -80,6 +80,12 @@ Il la regarda avec une infinie douceur.
 
 — Toutes en même temps. Nous nous recouvrons. Comme des calques. Comme des couches de vase. Les plus anciennes ont presque tout perdu. Les plus récentes se souviennent encore de… de certaines choses.
 
+— Mais pas plusieurs, ajouta-t-il, comme on corrige une erreur de copie. Pas vraiment. Au début, peut-être. Plus maintenant. Nous sommes comme la vase du lac : des couches. Celles du dessus se souviennent encore un peu. Celles du dessous font corps avec le reste. Ça ne fait plus qu'une seule chose, qui a beaucoup de mémoires et presque pas de nom.
+
+Il regarda par la fenêtre, vers le village.
+
+— Chaque fois que tu reviens, tout recommence, en bas. Le lac, la maison, le carnet neuf sous cellophane, la lame de plancher. Ce que la dernière d'entre nous a écrit, fait, cassé, tout est recouvert, comme une page qu'on gratte pour réécrire dessus. Il ne reste que ce qui est sorti de la fenêtre avant qu'elle se referme. Par le sang. Par les tiroirs qu'on se passe de mère en fille. Et nous, ici, parce que le cristal ne sait pas oublier.
+
 Il désigna les murs d'un geste vague.
 
 — Ça, c'est ce qui reste quand tout le reste est parti. Toutes, nous avons gardé ça. Le dessin. Nous ne savons plus de qui il est. Nous savons seulement qu'il faut le refaire, chaque nuit, pour ne pas le perdre.
@@ -133,7 +139,7 @@ Anselme la regarda avec une infinie fatigue.
 
 Il baissa les yeux sur ses mains.
 
-— Il y a autre chose, dit-il. Il y a trois ans, la nuit, nous sommes descendues au pied du mur avec un bocal. Nous avons gratté un morceau de veine. Nous l'avons envoyé par la poste à un homme qui avait écrit dans un journal, après la mort de son fils, qu'il donnerait tout pour oublier. Nous avons écrit : *ce qui efface*.
+— Il y a autre chose, dit-il. Il y a trois ans, la nuit, nous avons ouvert la boîte d'allumettes, au fond de sa boîte à mouches. L'aiguille qu'il avait cassée dans la vase en 1980, le jour où nous sommes tombées, et qu'il avait gardée quarante-trois ans sans savoir pourquoi. Le lac était plein, le gisement hors d'atteinte : c'était le seul morceau du monde qu'on pouvait encore toucher. Nous l'avons mise dans un bocal, avec de la vase de la grève, et nous l'avons envoyée par la poste à un homme qui avait écrit dans un journal, après la mort de son fils, qu'il donnerait tout pour oublier. Nous avons écrit : *ce qui efface*.
 
 — Pourquoi ?
 

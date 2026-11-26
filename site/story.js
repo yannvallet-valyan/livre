@@ -73,7 +73,7 @@
         text: [
           "On t'explique les règles trois fois. Tu les répètes à voix haute, comme une prière.",
           "*On ne remonte que dans sa propre lignée. La conscience se greffe sur celle de l'ancêtre quand il dort. Tu vivras la nuit, dans un corps qui n'est pas le tien. Au matin, elle ne se souviendra de rien, mais trouvera des traces.*",
-          "*Rien ne voyage avec toi. Ni objet, ni souvenir précis. Seulement une ancre : une seule chose, que tu tiendras si fort que le voyage ne pourra pas te l'arracher.*",
+          "*Rien ne voyage avec toi, ni objet ni papier. Ce que tu apprends par cœur tiendra : des dates, des noms, des chiffres. Mais le courant use d'abord ce qui fait de toi quelqu'un : les visages, les voix. Garde une ancre, une seule chose, que tu tiendras si fort que le voyage ne pourra pas te l'arracher.*",
           "Tu as une heure pour choisir ce que tu garderas serré contre toi pendant la traversée. Personne ne sait ce que valent ces ancres. Aucun voyageur n'est jamais revenu pour le dire."
         ],
         choices: [

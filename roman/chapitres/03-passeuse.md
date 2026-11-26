@@ -12,7 +12,7 @@ Il n'y en avait que quatre, mais on les lui fit répéter jusqu'à ce qu'elles n
 
 *Il ne se souviendra pas de toi. Il trouvera des traces : des bleus, de la boue, des objets déplacés. Laisse-en le moins possible, et seulement celles que tu choisis.*
 
-*Rien ne voyage avec toi. Ni objet, ni papier, ni souvenir précis : le courant arrache tout ce qui n'est pas serré. Tu peux garder une ancre, une seule chose, si tu la tiens assez fort.*
+*Rien ne voyage avec toi. Ni objet, ni papier. Ce que tu as appris par cœur, à force de répétition, tiendra : des dates, des noms, des chiffres, des règles. Mais le courant use ce qui fait de toi quelqu'un : les visages, les voix, les gestes de ceux que tu aimes. C'est ça qu'il arrache en premier. Alors garde une ancre. Une seule. Une chose que tu tiendras si fort qu'il ne pourra pas te la prendre, et à laquelle tu reviendras chaque fois que tu ne sauras plus qui tu es.*
 
 — Et la cinquième ? demanda Élise le troisième jour.
 

@@ -100,7 +100,7 @@ Elle expliqua. Il y avait trois ans que les médecins du refuge l'avaient compri
 
 Élise regarda la ligne soulignée. *S. Varenne.*
 
-— Nous avons fait les généalogies de tout le refuge, dit Oriane. Cent quarante personnes. Deux seulement ont une branche qui passe par Vallorce à ce moment-là. Toi, et un autre.
+— Nous avons fait les généalogies de tout le refuge, dit Oriane. Cent quarante personnes. Deux seulement, parmi les adultes encore assez lucides pour voyager, ont une branche qui passe par Vallorce à ce moment-là. Toi, et un autre.
 
 — Qui ?
 

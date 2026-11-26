@@ -2,6 +2,24 @@
 
 *(premier jet)*
 
+Avant d'écrire, elle monta au cimetière du haut.
+
+Elle n'y était jamais allée. Elle trouva la tombe de Martine Pradel à la lampe frontale, à cause des fleurs jaunes qui débordaient du monticule de terre, et des pantoufles neuves en laine bleue, rangées côte à côte au pied de la croix provisoire. Elle s'accroupit. Elle lut le nom, les dates.
+
+*C'est moi*, pensa-t-elle.
+
+Pas Kerr, pas le laboratoire, pas la Fondation. Elle. Le bocal envoyé en 2023 par des Élise qui voulaient oublier. Les dormeurs payés cent euros la nuit. Le cristal qui appelait. Une vieille institutrice à genoux dans la vase, les ongles cassés. Et si elle brisait le nœud, comme toutes les autres avant elle, ce ne serait pas une Martine : ce seraient des millions. Des cuisiniers qui épluchent des légumes invisibles. Des pères nourris à la cuillère. Des enfants qui demandent *c'est qui ?* en regardant leur mère.
+
+Elle resta longtemps accroupie dans l'herbe gelée. Elle eut, un moment, une pensée qu'elle n'avoua jamais à personne, même pas au carnet : que la seule façon honnête de payer, c'était de descendre avec la masse, de frapper, et de tomber, et de passer quarante-six ans dans un vieil homme à dessiner des maisons, parce que c'était ce qu'elle méritait.
+
+Puis elle pensa à Sophia, qui dormait au fond d'elle, et qui n'avait rien mérité du tout. À Corinne qui cherchait le prénom de son fils. À un petit garçon qui se réveillait contre un mur avec les doigts en sang.
+
+— Pardon, dit-elle à voix haute, à la tombe, au village, à tout le monde.
+
+Personne ne répondit. Elle redescendit.
+
+---
+
 Elle les écrivit dans le carnet comme on fait un inventaire, en trois colonnes, à l'encre noire, parce que c'était ainsi qu'on l'avait formée et que c'était la seule façon qu'elle connaissait de regarder une chose trop grande.
 
 *PREMIÈRE PORTE. Briser le cristal.*

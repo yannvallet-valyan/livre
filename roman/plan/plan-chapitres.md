@@ -2,7 +2,7 @@
 
 > ⚠️ Contient toutes les révélations. Mécanique : `bible/chronologie.md`. Indices : §7 de ce même fichier.
 
-**État :** premier jet complet  environ 67 900 mots  soit environ 251 pages (à 270 mots par page). Il comprend un prologue  36 chapitres  7 interludes  un épilogue  une coda et une annexe. **Objectif des 250 pages atteint.** Prochaine étape : relecture et réécriture stylistique.
+**État :** V3 (premier jet complet  règles temporelles verrouillées)  environ 71 100 mots  soit environ 263 pages. Prochaine étape : passe de style (voix des personnages  tics d'écriture) et respiration des révélations de l'Acte III.
 
 **Structure :** trois époques entrelacées, à la manière de *Dark* :
 - **1980-1991** : Anselme et Hélène ;
@@ -67,18 +67,18 @@
 
 | Fichier | Titre | Mots |
 |---|---|---|
-| `00-prologue-octobre-1980.md` | Prologue — Octobre 1980 | 1236 |
+| `00-prologue-octobre-1980.md` | Prologue — Octobre 1980 | 1267 |
 | `01-le-lac.md` | Chapitre 1 — Le lac | 1186 |
-| `02-la-bibliotheque.md` | Chapitre 2 — La bibliothèque | 2022 |
-| `03-passeuse.md` | Chapitre 3 — Passeuse | 1365 |
-| `04-interlude-oriane.md` | Interlude — Oriane, 2137 | 710 |
+| `02-la-bibliotheque.md` | Chapitre 2 — La bibliothèque | 2030 |
+| `03-passeuse.md` | Chapitre 3 — Passeuse | 1422 |
+| `04-interlude-oriane.md` | Interlude — Oriane, 2137 | 884 |
 | `05-le-corps-des-autres.md` | Chapitre 4 — Le corps des autres | 1961 |
 | `06-sophia-le-jour.md` | Chapitre 5 — Sophia, le jour | 1431 |
 | `07-le-carnet.md` | Chapitre 6 — Le carnet | 1315 |
 | `08-les-mots-de-la-main.md` | Chapitre 7 — Les mots de la main | 1275 |
 | `09-reponse.md` | Chapitre 8 — Réponse | 1583 |
 | `10-interlude-helene.md` | Interlude — Hélène, 1988-1991 | 941 |
-| `11-anselme-le-jour.md` | Chapitre 9 — Anselme, le jour | 1271 |
+| `11-anselme-le-jour.md` | Chapitre 9 — Anselme, le jour | 1325 |
 | `12-deux-encres.md` | Chapitre 10 — Deux encres | 2147 |
 | `13-le-laboratoire.md` | Chapitre 11 — Le laboratoire | 1509 |
 | `14-l-homme-aux-etoiles.md` | Chapitre 12 — L'homme aux étoiles | 1266 |
@@ -88,7 +88,7 @@
 | `18-interlude-kerr.md` | Interlude — Kerr | 863 |
 | `19-le-cahier-noir.md` | Chapitre 15 — Le cahier noir | 1425 |
 | `20-le-nom-du-chien.md` | Chapitre 16 — Le nom du chien | 1555 |
-| `21-mathis.md` | Chapitre 17 — Mathis | 1811 |
+| `21-mathis.md` | Chapitre 17 — Mathis | 1880 |
 | `22-le-registre-de-l-ouvrage.md` | Chapitre 18 — Le registre de l'ouvrage | 902 |
 | `23-tu-reviens-toujours.md` | Chapitre 19 — Tu reviens toujours | 1327 |
 | `24-quatre.md` | Chapitre 20 — Quatre | 1405 |
@@ -97,20 +97,20 @@
 | `27-corinne.md` | Chapitre 23 — Corinne | 1033 |
 | `28-le-financeur.md` | Chapitre 24 — Le financeur | 1509 |
 | `29-le-cycle.md` | Chapitre 25 — Le cycle | 1762 |
-| `30-le-premier-passeur.md` | Chapitre 26 — Le premier Passeur | 2001 |
+| `30-le-premier-passeur.md` | Chapitre 26 — Le premier Passeur | 2207 |
 | `31-interlude-rose.md` | Interlude — Rose, 1958 | 1095 |
 | `32-le-lit-vide.md` | Chapitre 27 — Le lit vide | 1927 |
 | `33-hugo.md` | Chapitre 28 — Hugo | 995 |
 | `34-la-nuit-de-noe.md` | Chapitre 29 — La nuit de Noé | 1213 |
-| `35-huit-ans.md` | Chapitre 30 — Huit ans | 1509 |
-| `36-trois-portes.md` | Chapitre 31 — Trois portes | 1478 |
+| `35-huit-ans.md` | Chapitre 30 — Huit ans | 1629 |
+| `36-trois-portes.md` | Chapitre 31 — Trois portes | 1752 |
 | `37-ce-que-je-ne-pouvais-pas-te-dire.md` | Chapitre 32 — Ce que je ne pouvais pas te dire | 1534 |
 | `38-le-mur.md` | Chapitre 33 — Le mur | 1146 |
 | `39-le-13-novembre.md` | Chapitre 34 — Le 13 novembre | 2149 |
 | `40-interlude-iris.md` | Interlude — Iris | 1534 |
-| `41-la-derniere-nuit.md` | Chapitre 35 — La dernière nuit | 2500 |
+| `41-la-derniere-nuit.md` | Chapitre 35 — La dernière nuit | 2383 |
 | `42-le-matin.md` | Chapitre 36 — Le matin | 3191 |
 | `43-interlude-anne.md` | Interlude — Lyon, hiver 2033 | 1100 |
-| `44-epilogue-la-page-blanche.md` | Épilogue — La page blanche | 2451 |
+| `44-epilogue-la-page-blanche.md` | Épilogue — La page blanche | 2678 |
 | `45-coda.md` | Coda | 1659 |
 | `46-annexe.md` | Annexe — Le cahier noir | 437 |

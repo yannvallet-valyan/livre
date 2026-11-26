@@ -6,9 +6,7 @@
 
 *Événement du jour : Ménard a dit oui.*
 
-*J'ai fait exactement ce que tu m'as écrit. À 16 h, je suis allée avec lui lire les piézomètres de la galerie (il a un badge, lui). Le P7, celui qui est juste derrière leur brèche, affichait 3,2 bars. Il aurait dû en afficher 0,4. L'eau du lac passe derrière le mur, par le trou de Kerr, et elle pousse sous le barrage. Ménard est devenu tout blanc. Il a dit : « Une sous-pression pareille, au pied d'un mur de 1958, je n'ai besoin de l'autorisation de personne. »*
-
-*Il a déclenché la procédure d'urgence. La centrale à béton est arrivée hier pour le chantier du 17. Les toupies sont sur le parking. L'injection commencera demain à 6 h, par la galerie. Ils vont remplir la brèche et tout ce qu'il y a derrière. Kerr a prévu de descendre à 8 h. Il arrivera trop tard.*
+*Le P7 a affiché 3,2 bars à seize heures, comme tu l'avais écrit. Ménard a déclenché l'urgence. L'injection commence demain à six heures, par la galerie. Kerr arrivera trop tard.*
 
 *Mon père a donné à Ménard le plan de la galerie que personne n'avait plus depuis 1980. Il le connaissait par cœur. Il ne sait pas pourquoi.*
 

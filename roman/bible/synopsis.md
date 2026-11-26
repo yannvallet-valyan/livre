@@ -1,6 +1,6 @@
 # Synopsis — La Rouille
 
-**Format :** roman court, ~250 pages (≈ 70 000 mots, 24 chapitres).
+**Format :** roman court, ~250 pages (≈ 70 000 mots). Il comprend un prologue, 36 chapitres, 7 interludes, un épilogue, une coda et une annexe. L'ordre exact se trouve dans `../plan/plan-chapitres.md`.
 **Genre :** science-fiction intimiste, voyage dans le temps, huis clos de vallée.
 
 ## Pitch

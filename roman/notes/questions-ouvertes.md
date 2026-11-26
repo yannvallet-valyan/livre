@@ -22,3 +22,28 @@
    - **rentrer** : retour dans un 2137 qui oublie ;
    - **rester** : la vraie fin.
 7. Faut-il laisser le lecteur jouer Noé dans un chapitre ?
+
+
+## Relecture V2 → V3 (analyse externe)
+
+**Corrigé dans le texte :**
+- L'accès au cristal en 2023 : c'est l'aiguille de 1980, gardée par Anselme.
+- Le chemin de la page arrachée : de Sophia à Lyon, puis Anne, Jeanne, Paul, et enfin le Conseil.
+- Le modèle « une réalité réécrite » plutôt que des mondes parallèles.
+- La distinction entre l'ancre et les connaissances apprises.
+- Les Élise d'Anselme vues comme des couches de mémoire.
+- Les « deux candidats adultes » retenus par le Conseil.
+- La fiole jetée au lac et la poussière rincée dans l'évier.
+- La transmission des prénoms dans la ligne B.
+- Mathis et l'eau du lac.
+- Un indice précoce d'Iris : la craie et l'ardoise effacée.
+- La redite du piézomètre P7.
+- La culpabilité d'Élise (scène du cimetière).
+- Le poids du mensonge de Noé.
+- Les documents synchronisés autour du §0 de `chronologie.md`.
+
+**Reste à faire :**
+- **La respiration des révélations de l'Acte III :** espacer Noé, Iris et le mur, ne pas sur-expliquer la ligne B.
+- **L'autonomie de Sophia :** lui donner encore une ou deux scènes où elle agit seule.
+- **Kerr :** lui donner un peu plus de présence avant sa confession.
+- **Le style :** varier les tics d'écriture et différencier les voix (voir `themes-et-style.md`).

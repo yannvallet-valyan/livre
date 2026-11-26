@@ -14,6 +14,16 @@ Il avait les pieds bandés dans les chaussures d'Étienne. Il ne lui avait pas e
 
 Il regarda le ciel un long moment. Orion n'était pas encore levé.
 
+— Avant, dit-il sans la regarder, il faut que je te dise une chose. Je t'ai menti pendant trente-quatre nuits. Je les ai comptées. Chaque soir, en montant sur le barrage, je me répétais ce que j'allais te dire, et chaque soir je te disais autre chose. Une gare souterraine qui n'existe pas. Un Conseil qui ne m'a jamais envoyé. Un nom qui n'est pas le mien. Je me disais que c'était pour te protéger. C'était pour me protéger, moi. Pour que tu continues à me regarder comme ça.
+
+Élise ne répondit pas tout de suite.
+
+— Et maintenant ?
+
+— Maintenant, je ne sais plus mentir. Je n'en ai plus le temps.
+
+Il regarda le ciel encore un moment.
+
 — Tu lisais trop vite, dit-il.
 
 ---
