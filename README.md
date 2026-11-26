@@ -72,5 +72,5 @@ Après toute modification : `node scripts/check-story.js`.
 
 ## État
 
-- Roman : premier jet complet en 24 chapitres (~30 000 mots), à étoffer. Voir `roman/plan/plan-chapitres.md` et `roman/bible/chronologie.md` (mécanique de la boucle, généalogie, révélations).
+- Roman : premier jet complet, avec prologue, 24 chapitres et coda (~33 000 mots), à étoffer. Fin sombre en nœud et carte des indices dans `roman/bible/chronologie.md` (§6 et §7). Voir `roman/plan/plan-chapitres.md` et `roman/bible/chronologie.md` (mécanique de la boucle, généalogie, révélations).
 - Interactif : l'Acte I est jouable. Les Actes II et III restent à adapter à l'intrigue définitive.

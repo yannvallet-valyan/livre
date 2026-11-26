@@ -44,11 +44,17 @@ Il haussa les épaules, puis sortit une cinquième feuille de la pochette. Il la
 
 Il posa la feuille sur la table.
 
-C'était la cabine, accrochée à la paroi, avec sa fenêtre jaune. Dans la fenêtre, un vieil homme, reconnaissable à sa haute taille voûtée et à ses cheveux blancs. Mais le visage n'était pas un visage. C'était une foule. Mathis avait dessiné, à l'intérieur du contour de la tête, des dizaines de petits visages, serrés les uns contre les autres, chevauchés, entassés, comme des passagers dans un métro. Ils avaient tous des cheveux courts et hérissés.
+C'était la cabine, accrochée à la paroi, avec sa fenêtre jaune. Dans la fenêtre, un vieil homme, reconnaissable à sa haute taille voûtée et à ses cheveux blancs. Mais le visage n'était pas un visage. C'était une foule. Mathis avait dessiné, à l'intérieur du contour de la tête, des dizaines de petits visages, serrés les uns contre les autres, chevauchés, entassés, comme des passagers dans un métro. Ils avaient tous des cheveux courts et hérissés. Tous, sauf un : tout en bas, presque caché par les autres dans le coin du menton, Mathis avait dessiné un tout petit visage aux longs cheveux, qui descendaient en traits ondulés jusqu'au bord de la feuille. Il avait les yeux fermés.
 
 — Pourquoi tu as dessiné ça ? demanda Sophia, et sa voix lui parut lointaine.
 
 — Parce que c'est comme ça. Lui, il y a plein de dames dedans. Toutes pareilles. Elles regardent par la fenêtre. Des fois elles pleurent.
+
+— Et celle-là, en bas ? Avec les cheveux longs ?
+
+Mathis haussa les épaules.
+
+— C'est la plus vieille. Elle est tout au fond. Elle dort tout le temps. Quand elle se réveille, elle appelle sa maman.
 
 ---
 
@@ -91,6 +97,10 @@ Anselme regarda les murs comme s'il les voyait pour la première fois. Il resta 
 Il posa la main sur un dessin plus ancien que les autres, presque effacé, le papier cassant.
 
 — Celui-là, je l'ai fait l'année où tu es née.
+
+Sophia s'approcha. Le papier était si vieux qu'il partait en poussière sur les bords. Le dessin était le même que les autres, et pourtant il ne l'était pas. Sur celui-là, et sur deux ou trois autres, les plus jaunis, ceux du fond, la silhouette devant la maison avait de longs cheveux, et au coin de l'œil gauche, un tout petit point de crayon, presque rien. Sur tous les dessins récents, les cheveux étaient courts, et le point avait disparu.
+
+Elle pensa que la main de son père avait changé avec les années. Elle n'y pensa plus.
 
 Sophia sortit son téléphone. Ses doigts tremblaient. Elle photographia le mur, puis s'approcha et photographia le dessin le plus net, celui qui était punaisé à hauteur d'yeux près de la fenêtre. Son père la laissa faire. Il ne lui demanda pas pourquoi.
 

@@ -2,12 +2,13 @@
 
 > ⚠️ Contient toutes les révélations. Mécanique temporelle et calendrier : `bible/chronologie.md`.
 
-État : **premier jet complet** (24 chapitres, environ 30 000 mots, soit 1 000 à 2 000 mots par chapitre). Pour atteindre les 250 pages (environ 70 000 mots), chaque chapitre devra à peu près doubler à la réécriture.
+État : **premier jet complet** (prologue, 24 chapitres et une coda, environ 30 000 mots, soit 1 000 à 2 000 mots par chapitre). Pour atteindre les 250 pages (environ 70 000 mots), chaque chapitre devra à peu près doubler à la réécriture.
 
 **Parti pris :** le roman s'ouvre *in medias res* sur le réveil au lac (ch. 1), puis revient à 2137 (ch. 2 et 3).
 
 | # | Titre | POV | Date | Fil amoureux / révélation |
 |---|---|---|---|---|
+| 0 | Prologue : octobre 1980 | « elle » | 13 oct. 1980 | Une femme aux cheveux longs tombe dans Anselme (indice de la chute) |
 | 1 | Le lac | Élise | 15 sept. 2026, nuit | Anselme salue Élise |
 | 2 | La bibliothèque | Élise | 2137 | « L'autre a refusé. Tu le connaissais. » |
 | 3 | Passeuse | Élise | 2137 | Un homme pleure à la porte |
@@ -31,7 +32,8 @@
 | 21 | Trois portes | Élise | 9-12 nov. | Le choix ; Noé reste aussi |
 | 22 | La dernière nuit | Élise | 13-14 nov. | Le carnet ; compter jusqu'à cinquante-neuf |
 | 23 | Le matin | Sophia | 14 nov.-déc. | Réveil main dans la main ; le coulis ; Anselme libéré |
-| 24 | Épilogue : la page blanche | — | 2137 | **La mère s'appelle Iris. « C'est toi. »** |
+| 24 | Épilogue : la page blanche | Élise B / Iris | 2137 puis 2141 | « C'est toi. », puis la fiole : « Pardon. » La Rouille recommence |
+| 25 | Coda | Élise B | 2164 puis 2026 | **La sortie était l'entrée.** La page « Le noyer ne suffit pas » |
 
 ## Les trois fils
 
@@ -49,3 +51,9 @@
 - personne n'a vraiment disparu, chacun a seulement changé de place dans la lignée. Iris est la mère, Élise est l'enfant.
 
 La dernière réplique (« C'est toi. ») répond à la question d'Iris au ch. 1 et au ch. 2 (« C'est qui ? »).
+
+## Révision « sombre » (fin définitive)
+
+La fin heureuse est remplacée par un nœud : voir `bible/chronologie.md`, §6 et §7 (carte des indices). Ce qu'il faut garder en tête :
+- **Ton :** sombre, sans répit. Chaque scène lumineuse cache une fissure.
+- **Lisibilité :** chaque indice doit pouvoir être lu au premier degré sans éveiller le soupçon.

@@ -109,3 +109,21 @@ Elle prit le stylo noir.
 Elle s'arrêta. Puis elle écrivit une ligne de plus, la regarda, et la barra si fort que le stylo creva le papier. Sophia, le lendemain, eut beau tenir la page devant la fenêtre, elle ne put en lire que les trois premiers mots.
 
 *Moi aussi, je*
+
+---
+
+Le lendemain matin, on retrouva Martine Pradel dans la vase.
+
+C'est Florian qui donna l'alerte. Il dormait dans le lit de camp voisin, au laboratoire, et il s'était réveillé à six heures, comme tous les matins du protocole, avec la tête lourde et l'impression d'avoir rêvé de quelque chose de très important. Le lit d'à côté était vide. Les électrodes pendaient au bord de l'oreiller. La porte de service était entrouverte.
+
+On la trouva à cinquante mètres du barrage, au pied du mur, là où la vase était la plus épaisse. Elle était à genoux, penchée en avant, comme une femme qui prie ou qui fouille. L'eau ne lui arrivait pas au-dessus des coudes. Elle avait suffi.
+
+Sophia arriva en même temps qu'Étienne. Elle vit la chemise de nuit à fleurs, collée au dos par la boue. Elle vit les pantoufles, rangées côte à côte sur un rocher sec, à trois mètres, avec soin, comme on les range au pied d'un lit. Elle vit le visage quand les pompiers la retournèrent : les yeux ouverts, la bouche entrouverte, et une expression qu'elle mit des semaines à oser nommer. Martine Pradel souriait.
+
+Étienne s'agenouilla près du corps. Il lui prit la main pour constater ce qu'il y avait à constater, et il resta immobile un long moment. Puis il retourna la main, doucement, paume vers le ciel, pour que Sophia voie.
+
+Elle avait creusé. Les ongles étaient cassés jusqu'à la chair. Et dessous, dans les sillons de la peau, dans le pli des phalanges, il y avait une poudre rouge, très fine, couleur de clou mouillé.
+
+Sur le certificat, Étienne écrivit : *noyade accidentelle au cours d'un épisode de somnambulisme*. La Fondation Léthé prit les obsèques à sa charge. Kerr envoya une couronne. Le protocole de sommeil fut suspendu deux jours, puis reprit avec une nouvelle volontaire.
+
+Le soir, Sophia ne put rien écrire dans le carnet. Elle colla seulement, sur la page de droite, l'avis de décès découpé dans le journal, et elle laissa la page blanche autour.

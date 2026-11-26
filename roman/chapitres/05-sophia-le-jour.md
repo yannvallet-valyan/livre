@@ -20,6 +20,8 @@ Elle s'était dit que c'était pour le poste, et c'était vrai. On lui confiait 
 
 Ce qu'il découvrait, c'était de la vase. Des mètres de vase grise, accumulée depuis la dernière vidange, en 1980, et qui intéressait beaucoup Bastien Kerr, le directeur. Kerr avait trente-cinq ans, un sourire de publicité et une politesse si parfaite qu'elle en devenait une forme d'absence. Il passait ses journées dans la salle du fond, celle dont la porte portait un clavier à code et une affichette : *Culture — accès restreint*.
 
+Et puis il y avait les poissons. Chaque matin, en reculant, le lac en abandonnait quelques-uns sur la vase : des truites, des chevesnes, blancs, le ventre en l'air, que les corbeaux venaient ouvrir dès l'aube. Les jours sans vent, l'odeur montait jusqu'au village. Les gens fermaient leurs fenêtres. Personne n'en parlait.
+
 — Vous avez l'air fatiguée, Sophia, dit-il ce matin-là en croisant son regard dans le couloir.
 
 — Je dors mal.

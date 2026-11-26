@@ -28,6 +28,10 @@ Puis elle écrivit.
 
 *C'est ce que la Rouille fait aux gens, mais à l'envers. Au lieu d'effacer, ça ajoute.*
 
+*Il faudra qu'il n'en reste rien. Pas un grain, pas un bac, pas une trace. Parce que si quelqu'un, un jour, en retrouve un morceau…*
+
+Elle s'arrêta. Elle regarda la phrase longtemps. Elle ne la finit pas.
+
 *Je n'ai pas le droit de te le demander. C'est ton corps, ta tête, ta vie. Tu ne m'as jamais rien demandé, et je suis entrée chez toi par effraction, il y a deux mois, une nuit, au bord du lac.*
 
 *Alors je te le demande quand même.*

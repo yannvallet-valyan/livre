@@ -36,6 +36,8 @@ Elle écrivit jusqu'à quatre heures.
 
 *2. La Fondation Léthé. Les bacs de la salle de culture. Il faut les vider dans le béton, eux aussi, ou les faire saisir. Pas dans l'évier. Jamais dans l'eau. Mon père — ton père — saura où les mettre. Demande-le-lui le jour : il connaît le barrage mieux que personne, même quand ce n'est que lui.*
 
+*Et ne garde rien. Je te connais, maintenant. Tu voudras un témoin, une preuve, un échantillon, quelque chose à mettre en fiole sur ton étagère, entre deux lacs. Pas un grain, Sophia. Promets-le-moi.*
+
 *3. Les volontaires. Florian, Mme Pradel, le troisième. Ils vont aller mieux, je crois, quand le cristal sera loin. Corinne aussi. Biscotte n'a rien à craindre.*
 
 *4. La guerre de 2090. Elle aura peut-être lieu. Je ne sais pas. Personne ne sait ce qu'il y a de l'autre côté de cette porte. J'ai recopié à la fin de ce carnet tout ce dont je me souviens des archives de Noé sur la Guerre du Partage : les dates, les noms, les barrages. Garde-le. Transmets-le. Peut-être qu'un jour, quelqu'un saura en faire quelque chose. Je préfère qu'on se souvienne d'une guerre pour l'empêcher, plutôt qu'on l'oublie pour qu'elle s'arrête.*

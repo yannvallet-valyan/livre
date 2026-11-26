@@ -50,6 +50,10 @@ Elle pensa : *c'est moi qui le lui ai appris.*
 
 — Chaque fois, tu viens. Chaque fois, tu choisis le carnet. Chaque fois, tu regardes les étoiles, et lui, il est là. Chaque fois, le 14, tu descends avec la masse. Et chaque fois, tu tombes. Tu tombes en 1980, ici, dans ce corps où une autre toi est déjà tombée, et une autre avant elle.
 
+— Et aucune n'a jamais fait autrement ?
+
+— Nous ne savons pas, dit-il. Celles qui font autrement ne tombent pas jusqu'ici. Nous ne connaissons que celles qui brisent.
+
 — Toutes en même temps ?
 
 — Toutes en même temps. Nous nous recouvrons. Comme des calques. Comme des couches de vase. Les plus anciennes ont presque tout perdu. Les plus récentes se souviennent encore de… de certaines choses.
@@ -57,6 +61,12 @@ Elle pensa : *c'est moi qui le lui ai appris.*
 Il désigna les murs d'un geste vague.
 
 — Ça, c'est ce qui reste quand tout le reste est parti. Toutes, nous avons gardé ça. Le dessin. Nous ne savons plus de qui il est. Nous savons seulement qu'il faut le refaire, chaque nuit, pour ne pas le perdre.
+
+Il se tut un moment, puis ajouta, plus bas, comme on parle d'une locataire qui dort dans la pièce d'à côté :
+
+— Sauf la plus ancienne. Elle est tout au fond. Elle ne parle presque plus. Elle sent encore ses cheveux sur sa nuque, des cheveux longs, et elle les écarte de la main, la nuit, alors qu'il n'y a rien. Elle rêve d'une bibliothèque avec des fenêtres, au bord d'un lac. Quand elle pleure, elle ne dit pas *ma fille*. Elle dit *maman*.
+
+Élise frissonna. Elle pensa que quarante-six ans de nuits dans un vieil homme pouvaient déformer n'importe quel souvenir, et elle ne posa pas de question.
 
 Élise se leva. Ses jambes tremblaient. Elle s'approcha du mur, toucha du bout des doigts un dessin récent, puis un plus ancien, jauni, presque effacé.
 

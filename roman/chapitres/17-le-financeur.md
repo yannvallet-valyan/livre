@@ -28,9 +28,11 @@ La Fondation Léthé appartenait à un groupe pharmaceutique suisse qui avait pe
 
 — Effet secondaire. Transitoire.
 
-— Martine Pradel ne retrouvait plus sa maison.
+— Martine Pradel est morte dans la vase. Elle avait creusé avec ses ongles.
 
-— Transitoire.
+Kerr ne cilla pas. Il avait dû répéter la réponse devant un miroir.
+
+— Un accident. Une femme de soixante et onze ans, somnambule, qui sort la nuit au bord d'un lac. Le docteur Marle l'a écrit lui-même.
 
 — Corinne Delorme a oublié le nom de son chien. Elle ne dort pas au laboratoire. Elle dort à côté de chez moi.
 

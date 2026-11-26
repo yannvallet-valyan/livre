@@ -26,6 +26,8 @@ Elle connut Sophia par ses objets.
 
 Sophia écrivait tout à l'encre bleue. Sur la table de la cuisine, il y avait toujours un bloc couvert de chiffres, de courbes de niveau, de dates. Sophia notait la température extérieure chaque soir avant de se coucher, à la même heure, sur un tableau scotché à la porte du frigo. Elle possédait un barographe, un tambour de papier où une aiguille traçait la pression de l'air, et Élise passa une nuit entière à le regarder dessiner, fascinée, le souffle court.
 
+Sur l'étagère du séjour, alignées comme des livres, il y avait des dizaines de petites fioles de verre bouchées, étiquetées à l'encre bleue. *Lac d'Annecy, 2014. Vassivière, 2019. Lac du Bourget, 2021.* De l'eau, rien que de l'eau, prélevée dans chaque lac que Sophia avait étudié. Élise les compta : quarante-trois. Elle trouva que c'était une étrange façon de se souvenir, garder un peu de chaque endroit au cas où, et puis elle pensa à la bibliothèque, et elle trouva que ce n'était pas si étrange.
+
 Sophia ne gardait pas de photos aux murs. Il y en avait pourtant, rangées dans une boîte à chaussures au fond de l'armoire de la chambre. Élise l'ouvrit la quatrième nuit, en se disant qu'elle n'en avait pas le droit, et le fit tout de même.
 
 Il y avait des photos d'enfance : une petite fille sérieuse, des nattes, des genoux écorchés, debout devant des montagnes. Une femme qui riait, les cheveux au vent, et qui devait être la mère. Puis, sous les autres, une photo plus ancienne, aux couleurs tirant sur l'orange.

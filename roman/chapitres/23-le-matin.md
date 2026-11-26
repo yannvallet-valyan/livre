@@ -65,6 +65,26 @@ Sophia le vit, plus tard, assis sur une marche de l'escalier de fer, son télép
 
 ---
 
+Il restait la salle de culture.
+
+Ménard la fit ouvrir l'après-midi même, sur ordre de la préfecture. Les douze bacs étaient là, sous leur lumière violette, avec leurs mains rouges qui sortaient de la vase. Les lits de camp étaient défaits. Sur l'un d'eux, il y avait encore un livre ouvert, à l'envers, qu'une volontaire avait dû poser là avant de s'endormir.
+
+Ils vidèrent les bacs un à un dans une benne qu'on descendit ensuite au pied de la brèche, avant la dernière injection. Sophia les vida elle-même, avec des gants, en retenant son souffle. Onze bacs. Le coulis gris recouvrit les aiguilles rouges, les avala sans un bruit.
+
+Le douzième était le plus petit. Au fond, il n'y avait qu'une aiguille, une seule, pas plus longue qu'un ongle, couchée dans un reste de vase.
+
+Sophia la regarda longtemps.
+
+*Pas un grain, Sophia. Promets-le-moi.*
+
+Elle n'avait rien promis. Elle n'avait pas eu le temps de répondre : Élise s'était endormie avant.
+
+Elle était hydrologue. Elle avait passé sa vie à garder un témoin de chaque eau qu'elle avait étudiée. On ne détruit pas la seule preuve d'une chose que personne ne croira jamais. On la garde. On la garde au cas où. Elle se dit tout cela très vite, et elle sut, en se le disant, qu'elle se mentait.
+
+Elle fit glisser l'aiguille dans une fiole vide, la boucha, et écrivit sur l'étiquette, à l'encre bleue : *Vallorce, 14/11/2026.* Le soir, elle la rangea sur l'étagère du séjour, entre le lac d'Annecy et le lac du Bourget, à l'endroit exact où personne ne la remarquerait jamais.
+
+---
+
 Elle monta à la cabine en fin d'après-midi.
 
 Son père n'ouvrit pas avant qu'elle ait frappé. Elle dut frapper deux fois. Quand la porte s'ouvrit, elle vit un vieil homme qu'elle ne connaissait pas tout à fait : le même visage, les mêmes cheveux blancs ras, mais les yeux… Les yeux la regardaient en face, droit, sans regarder à côté. Il n'y avait plus personne derrière son épaule.
@@ -127,13 +147,19 @@ Elle resta longtemps assise au bord du lit. Puis elle alla dans la cuisine, ouvr
 
 Elle prit le stylo bleu. Elle l'approcha de la page. Elle le reposa.
 
+Puis elle retourna au tout début du carnet, à la première page, celle où Élise avait écrit *Bonjour*, et, au-dessus, dans la marge, d'une petite écriture serrée, elle ajouta une ligne à l'encre bleue :
+
+*Les pages noires ne sont pas pour vous. Gardez-les. Ne les lisez pas.*
+
+Entre deux pages noires, elle colla la plaquette de la Fondation Léthé, avec du ruban adhésif. Comme preuve. Elle se dit que c'était comme preuve.
+
 *Non*, pensa-t-elle. *Pas moi.*
 
 ---
 
 Elle quitta Vallorce le 20 décembre, avec Étienne, dans une voiture chargée jusqu'au toit. Ils allaient à Lyon, où Étienne avait trouvé un poste dans un centre de santé, à une heure de son fils. Elle avait démissionné du laboratoire, qui avait de toute façon fermé ses portes le 1er décembre. La Fondation Léthé avait cessé d'exister quelque part entre deux conseils d'administration, sans communiqué.
 
-Corinne n'oubliait plus le nom de son chien. Florian avait retrouvé du travail à la scierie. Mme Pradel était rentrée chez elle par le bon chemin.
+Corinne n'oubliait plus le nom de son chien. Florian avait retrouvé du travail à la scierie. On avait enterré Martine Pradel le 29 octobre, au cimetière du haut, celui qu'on n'avait pas noyé.
 
 Le test, Sophia l'avait fait la veille, dans la salle de bains de la maison vide, assise sur le rebord de la baignoire. Elle avait regardé les deux traits apparaître, l'un après l'autre. Elle n'avait pas été surprise. Elle avait posé la main à plat sur son ventre, et elle avait dit à voix haute, dans la maison vide, au plancher, au radiateur, au carnet rangé dans le carton :
 

@@ -14,7 +14,7 @@
   // Axe vertical : années -> y
   const Y = { 1956: 40, 1980: 80, 1988: 140, s26: 250, o26: 290, n06: 330, n14: 380, a27: 430, j27: 495, 2052: 500, 2078: 530, 2090: 565, 2101: 610, 2103: 630, 2130: 680, 2137: 740 };
   const X = { axis: 48, var: 98, mar: 240, evt: 300 };
-  const W = 400, H = 1000;
+  const W = 400, H = 1090;
 
   const esc = (s) => String(s).replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
   const text = (x, y, lines, cls, l, anchor) => {
@@ -102,8 +102,14 @@
     s += node(x, ny + 20, 4, cls) + text(x, ny + 42, g[0], "lbl " + (cls ? "inv-lbl" : ""), 4, "middle") + text(x, ny + 55, g[1], "year", 4, "middle");
     if (i) s += line(x - 72, ny + 20, x - 8, ny + 20, "blood", 4);
   });
-  s += text(W / 2, ny + 85, ["Iris est née à la place qu'occupait Élise,", "et Élise à celle d'Iris. La mère est devenue la fille."], "lbl", 4, "middle");
-  s += text(W / 2, ny + 120, ["« C'est qui ? »  « C'est toi. »"], "quote", 4, "middle");
+  s += text(W / 2, ny + 82, ["Iris naît à la place d'Élise, Élise à celle d'Iris."], "lbl", 4, "middle");
+  s += text(W / 2, ny + 104, ["« C'est qui ? »  « C'est toi. »"], "quote", 4, "middle");
+  s += text(24, ny + 132, ["2141 : pour guérir les nuits de sa fille, Iris ouvre", "la fiole que Sophia avait gardée. La Rouille recommence."], "lbl danger-lbl", 4);
+  s += text(24, ny + 166, ["2164 : Élise part à son tour. « Le noyer ne suffit pas. »", "Elle brise le cristal, et tombe en 1980 : la plus ancienne."], "lbl danger-lbl", 4);
+  s += text(24, ny + 200, "La sortie était l'entrée. La boucle n'a pas de premier tour.", "quote", 4);
+  // Le nœud : Élise (nouvelle ligne) -> chute en 1980
+  s += '<path class="fall" data-l="4" marker-end="url(#arr-fall)" d="M' + (W - 30) + "," + (ny + 10) + " L" + (W - 14) + "," + (ny - 50) + " L" + (W - 14) + "," + (Y[1980] + 30) + " Q" + (W - 14) + "," + (Y[1980] - 22) + " " + (X.evt + 8) + "," + (Y[1980] - 6) + '"/>';
+  s += text(W - 18, Y[1988] - 8, ["la plus", "ancienne"], "fall-lbl", 4, "end");
 
   s += "</svg>";
 
@@ -119,8 +125,10 @@
       "À chaque tour, la Rouille arrive plus tôt. Ce n'est pas un cercle mais une <b>spirale</b>.",
       "« Sacha » est <b>Noé</b>, le père d'Iris, qu'Élise a oublié.",
       "La sortie : noyer le cristal <b>intact</b>. Le fil se coupe sans chute, et les voyageurs se fondent dans leurs hôtes."],
-    4: ["Dans la nouvelle ligne, le carnet se transmet et l'on donne aux enfants les noms qu'on y lit.",
-      "<b>Iris</b> naît en 2103, <b>Élise</b> en 2130. Personne n'a disparu : chacun a changé de place dans la lignée."]
+    4: ["La femme du prologue, en 1980, aux cheveux longs, qui dit « maman » : c'est l'Élise de la nouvelle ligne. La page « Le no… ne suffit pas » du dossier du chapitre 2, c'est elle qui l'a écrite.",
+      "Chaque sortie fabrique l'entrée suivante : briser le cristal crée la Rouille, le noyer laisse une fiole, et la fiole recrée la Rouille.",
+      "Dans la nouvelle ligne, le carnet se transmet et l'on donne aux enfants les noms qu'on y lit.",
+      "<b>Iris</b> naît en 2103, <b>Élise</b> en 2130 : les places s'inversent. Puis la boucle recommence par l'autre bout."]
   };
 
   root.innerHTML =

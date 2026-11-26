@@ -91,3 +91,59 @@ Anselme ROCH (1956)  x  Hélène VARENNE (1960)    Étienne MARLE (1980)  x (1) 
 - Ch. 12 : « Sacha » parle des « mains pleines de craie » d'Iris, ce qu'Élise ne lui a jamais dit.
 - Ch. 11 : il raconte qu'il a aimé « une femme qui a oublié son visage ».
 - Ch. 14 : Mathis dessine Anselme « plein de dames ».
+
+---
+
+## 6. Le nœud (révision de la fin : la sortie est l'entrée)
+
+> Cette section **remplace** l'idée d'une fin libératrice. Le ton est sombre, à la manière de *Dark*.
+
+**La boucle alterne entre deux lignes.**
+
+- **Ligne A** (le roman, avec la Rouille) :
+  - Élise (2103) est la mère d'Iris (2130).
+  - Les Élise brisent le cristal, l'une après l'autre, et tombent dans Anselme.
+  - Un jour, l'une d'elles choisit de *rester* : c'est notre Élise. Le cristal est noyé, et l'on passe à la ligne B.
+- **Ligne B** (l'épilogue, lumineuse au départ) :
+  - Iris (2103) est la mère d'Élise (2130).
+  - Sophia a gardé **une aiguille de cristal dans une fiole** (ch. 23).
+  - La petite Élise est hantée la nuit par le résidu de sa « grand-mère » dissoute : terreurs nocturnes, somnambulisme, jusqu'à entrer dans le lac.
+  - **En 2141, Iris lit les pages noires**, trouve la plaquette Léthé (« oublier ce qui nous détruit ») et ouvre la fiole près du lit de sa fille pour la guérir. Ça marche, puis la Rouille recommence.
+  - **En 2164**, le Conseil de B conclut que « le noyer ne suffit pas » et ordonne de briser. Élise B part dans Sophia, écrit la page « … cassant comme du sucre… Le no[yer] ne suffit pas », l'arrache et la cache dans la boîte à chaussures. Puis elle brise le cristal et tombe en octobre 1980 : c'est **la plus ancienne** dans Anselme, celle du prologue.
+  - La page arrachée traverse la ligne A et finit dans le dossier gris du Conseil (ch. 2). C'est elle qui envoie notre Élise.
+
+Il n'y a donc pas de premier tour. Chaque solution fabrique le problème suivant :
+
+| On fait… | Ce qui se passe ensuite |
+|---|---|
+| Briser le cristal | La poussière se répand : la Rouille (ligne A) |
+| Le noyer | Quelqu'un garde un grain : la fiole |
+| Ouvrir la fiole | La Rouille revient (ligne B) |
+| Envoyer une Élise B | Elle brise le cristal : retour à la ligne A |
+
+Le moteur du cycle, c'est **l'amour d'une mère** :
+- Élise veut sauver Iris ;
+- Iris veut soulager Élise ;
+- Sophia veut garder une trace.
+
+Personne n'est méchant.
+
+## 7. Carte des indices (à ne pas voir à la première lecture)
+
+| Où | Indice | Ce qu'on croit | Ce que c'est |
+|---|---|---|---|
+| Prologue | La femme qui tombe dans Anselme en 1980 porte la main à des **cheveux longs** et dit **« maman »**. Elle dessine une silhouette aux cheveux longs avec **un point au coin de l'œil**, et écrit « Iris » | Élise (révélé au ch. 18) pleure sa fille | C'est l'Élise de la ligne B : elle pleure sa *mère* Iris |
+| Ch. 1 | Élise est stupéfaite par les cheveux longs ; dans la ligne A, on se coupe les cheveux ras | Un détail d'ambiance | Les cheveux longs désignent la ligne B (coda : « Elle ne s'étonna pas des cheveux ») |
+| Ch. 2 | Dans le dossier, une page arrachée, à l'écriture « d'une enfant qui recopie un modèle » : « Le no… / … ne suffit pas », qu'Élise lit « le nom ne suffit pas » | Un fragment d'archive anonyme | La page écrite par Élise B dans la coda : « Le noyer ne suffit pas » |
+| Ch. 3 | Iris a un grain de beauté au coin de l'œil gauche ; c'est le détail qu'Élise perdra (ch. 12) | Un détail tendre | Iris A et Iris B ont le même : c'est la signature d'Iris sur tous les dessins |
+| Ch. 3 / coda | Un homme pleure à la porte au moment du départ | Noé | La scène se répète à l'identique en 2164 |
+| Ch. 4 | Les fioles de lac sur l'étagère de Sophia | Un trait de caractère | L'objet du malheur (ch. 23, ch. 24) |
+| Ch. 5 / 7 | L'écriture d'Élise dans Sophia : « lente, appliquée, comme celle d'un enfant qui recopie un modèle » | Une description | La même phrase qu'au ch. 2 : la page vient d'une Élise dans Sophia |
+| Ch. 13 | Martine Pradel meurt en souriant, une poudre rouge sous les ongles : elle a creusé | Une scène d'horreur | Le cristal *appelle* les dormeurs, comme il appellera la petite Élise B dans le lac |
+| Ch. 14 | Mathis : « la plus vieille, tout au fond, avec les cheveux longs, elle appelle sa maman ». Les dessins les plus anciens ont des cheveux longs et un point au coin de l'œil | L'enfant fabule ; la main d'Anselme a changé | L'Élise B, la plus ancienne |
+| Ch. 17 / 10 | Kerr : « les parents qui retrouvent leur enfant mort chaque matin… on pourrait leur enlever ça » | Le plaidoyer du méchant | Le raisonnement exact d'Iris en 2141 |
+| Ch. 19 | « Celles qui font autrement ne tombent pas jusqu'ici. Nous ne connaissons que celles qui brisent. » « Elle rêve d'une bibliothèque *avec des fenêtres* » | Une remarque en passant | Le « choix unique » d'Élise a déjà été fait, et la bibliothèque à fenêtres est celle de la ligne B |
+| Ch. 21 | « Si quelqu'un, un jour, en retrouve un morceau… » (phrase inachevée) | De l'angoisse | La prophétie |
+| Ch. 22 | « Ne garde rien. Pas un grain, Sophia. Promets-le-moi. » | Une consigne | Sophia ne promet pas (ch. 23) |
+| Ch. 23 | La fiole « Vallorce, 14/11/2026 », rangée là où « personne ne la remarquerait jamais » ; « Les pages noires ne sont pas pour vous » | Une faiblesse humaine | La graine de la ligne B |
+| Ch. 24 | « C'est qui ? » « C'est toi. » | Une fin heureuse | Un faux happy end : la section 2141 le retourne |

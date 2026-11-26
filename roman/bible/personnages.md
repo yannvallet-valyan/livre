@@ -56,3 +56,7 @@ Doyenne du Conseil des Lucides. C'est elle qui envoie Élise avec l'ordre de bri
 ## Iris (2137, 7 ans)
 Fille d'Élise et de Noé. Elle dessine une maison, un soleil et un visage, et demande « c'est qui ? ». Ses mains sont pleines de craie.
 - 🔒 Dans l'épilogue, une autre Iris, née en 2103, a 34 ans, est archiviste, et sa fille s'appelle Élise.
+
+## Ligne B (épilogue et coda) 🔒
+- **Iris Varenne (née en 2103)** : archiviste à la bibliothèque de Vallorce et mère d'Élise. Elle a le grain de beauté au coin de l'œil gauche. En 2141, par amour, elle ouvre la fiole. En 2164, rouillée, elle demande « C'est qui ? » devant le dessin que sa fille avait fait d'elle.
+- **Élise Varenne (née en 2130)** : enfant hantée, puis Passeuse. Elle a les **cheveux longs**, parce que sa mère les lui tressait. C'est la femme du prologue, la plus ancienne dans Anselme, et l'autrice de la page arrachée.

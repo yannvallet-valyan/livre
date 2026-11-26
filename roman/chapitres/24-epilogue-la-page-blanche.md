@@ -2,66 +2,140 @@
 
 *(premier jet)*
 
+## 2137
+
 En 2137, la bibliothèque de Vallorce avait des fenêtres.
 
-Elle occupait l'ancien laboratoire, au pied du barrage, qu'on avait agrandi trois fois en cent ans et qui ne ressemblait plus à rien de ce qu'il avait été : du verre, du bois clair, des rayonnages bas où les enfants pouvaient attraper les livres sans demander. Par les grandes baies, on voyait le lac, haut, plein, bleu-vert sous le soleil d'avril, et le vieux mur courbe du barrage, qu'on n'utilisait plus pour l'électricité depuis longtemps mais qu'on gardait, parce qu'il faisait partie du paysage et qu'on aimait, ici, garder les choses.
+Elle occupait l'ancien laboratoire, au pied du barrage, qu'on avait agrandi trois fois en cent ans et qui ne ressemblait plus à rien de ce qu'il avait été : du verre, du bois clair, des rayonnages bas où les enfants pouvaient attraper les livres sans demander. Par les grandes baies, on voyait le lac, haut, plein, d'un vert presque noir sous le ciel d'avril, et le vieux mur courbe du barrage, qu'on n'utilisait plus pour l'électricité depuis longtemps mais qu'on gardait, parce qu'il faisait partie du paysage et qu'on aimait, ici, garder les choses.
 
-Personne ne se rappelait pourquoi on avait condamné la galerie. Il y avait une plaque, quelque part au sous-sol, qui en parlait. On la lisait parfois aux enfants, pendant les visites scolaires, entre la salle des cartes et la cafétéria.
-
-Ce samedi-là, la salle des enfants était pleine.
+Personne ne se rappelait pourquoi on avait condamné la galerie. Il y avait une plaque, au sous-sol, devant un mur de béton plus lisse que les autres : *Galerie technique, niveau –3. Obturée le 14 novembre 2026 pour raisons de sûreté. Ne pas rouvrir.* On la montrait aux enfants pendant les visites, entre la salle des cartes et la cafétéria. Ils posaient la main sur le béton. Certains disaient qu'il était tiède. On leur répondait que c'était le chauffage.
 
 ---
 
 Elle avait sept ans et lisait à voix haute, debout sur une chaise, parce qu'on ne la voyait pas sinon.
 
-Elle lisait une recette. C'était son idée. La bibliothécaire lui avait dit de choisir n'importe quel livre, et elle était allée droit au rayon cuisine, sans hésiter, comme si elle savait exactement où il se trouvait, et elle avait pris un vieux livre à la couverture fanée. Elle l'avait ouvert au hasard. C'était une recette de soupe.
+Elle lisait une recette. C'était son idée. On lui avait dit de choisir n'importe quel livre, et elle était allée droit au rayon cuisine, sans hésiter, comme si elle savait exactement où il se trouvait.
 
-— *Faire revenir l'oignon*, lut-elle, très sérieusement. *Ajouter l'eau. Laisser… frémir.*
+— *Faire revenir l'oignon*, lut-elle très sérieusement. *Ajouter l'eau. Laisser… frémir.*
 
-Les autres enfants éclatèrent de rire, sans trop savoir pourquoi : à cause de *frémir*, peut-être, ou à cause du sérieux avec lequel elle l'avait dit. Elle rit aussi. Son rire commençait toujours par un petit hoquet, comme si elle s'étonnait elle-même de rire.
+Les autres enfants éclatèrent de rire. Elle ne rit pas. Elle regardait ses auditeurs avec une expression étrange, inquiète, comme si elle s'attendait à les voir faire autre chose. Pleurer, peut-être. Éplucher des légumes invisibles.
 
-Elle referma le livre. Elle eut, à ce moment-là, l'impression qu'elle avait souvent, et qu'elle n'avait jamais réussi à expliquer à personne : celle d'avoir déjà fait exactement cela. Déjà lu cette recette, dans une autre salle, devant d'autres gens. Des gens qui ne riaient pas. Une salle sans fenêtres.
-
-Ça ne durait jamais longtemps. Ça ne lui faisait pas peur. C'était comme un mot sur le bout de la langue, qui ne vient pas, et dont on finit par se passer.
-
-Elle descendit de la chaise.
+Elle descendit de la chaise sans finir la recette.
 
 Elle s'appelait Élise.
 
 ---
 
-Le carnet était sur l'étagère du haut, dans la petite vitrine du fond, celle qu'on appelait « l'armoire de famille », parce que la bibliothèque gardait là les objets que les vieilles familles de la vallée lui avaient confiés au fil des années. Il y avait une montre de gousset, un registre de baptêmes, une paire de lunettes rafistolée au scotch qu'un certain Mathis Delorme avait léguée, avec une pochette de dessins au feutre, en 2108.
+Elle ne dormait pas bien. Elle n'avait jamais bien dormi.
 
-Et le carnet. Une couverture grise, usée, cornée, ramollie par les mains. Des pages couvertes de deux encres, une bleue et une noire, dans une écriture qui était la même et qui ne l'était pas.
+Depuis l'âge de trois ans, elle se réveillait entre deux et quatre heures du matin, assise dans son lit, les yeux ouverts, et elle comptait. Jusqu'à soixante, à voix basse, et puis elle recommençait. Si on lui parlait, elle ne répondait pas. Si on la touchait, elle hurlait. Au matin, elle ne se souvenait de rien, sinon parfois d'un mot, qu'elle répétait au petit déjeuner en trempant sa tartine : *Sophia*. *Noé*. *Galerie*. Une fois, elle avait dit : *Il n'y a pas de fenêtres*, et elle avait pleuré pendant une heure sans pouvoir expliquer pourquoi.
 
-Personne n'avait jamais su le dater. Les experts qui l'avaient examiné, dans les années soixante, avaient trouvé le papier et les encres du début du siècle, ce qui était normal. Ils avaient aussi trouvé, dans le texte, des noms, des lieux et des dates qui ne correspondaient à rien de connu, ce qui l'était moins : une bibliothèque sous une ville, une guerre qui n'avait pas eu lieu, une maladie qui n'avait jamais existé. Ils avaient conclu à un roman, ou à un journal de fièvre. La famille Varenne n'avait jamais contredit personne.
+Elle dessinait des barrages. Elle n'en avait jamais vu d'autre que celui-là, par la fenêtre, et pourtant elle en dessinait des dizaines, de tous les côtés, avec, accrochée au flanc, une petite cabine allumée.
 
-Dans la famille Varenne, en revanche, on avait gardé une tradition, dont on ne savait plus très bien qui l'avait commencée. On donnait aux enfants les noms qu'on lisait dans le carnet.
+Les médecins de Grenoble avaient parlé de terreurs nocturnes, puis de troubles du sommeil paradoxal, puis d'une « mémoire de rien », un syndrome très rare, documenté seulement dans quelques familles, où l'enfant se souvient avec une précision maladive de choses qu'il n'a jamais vécues. On ne savait pas le soigner. On disait que ça passait, souvent, à l'adolescence.
 
-Il y avait eu une Anne. Puis une Jeanne. Puis un Paul. Et puis d'autres.
-
-La dernière page du carnet était blanche. Elle l'avait toujours été. Personne, en cent onze ans, n'avait osé y écrire.
+Sa mère ne dormait plus beaucoup non plus.
 
 ---
 
-— Élise ! Tu viens ? On rentre.
+Le carnet était dans l'armoire de famille, au fond de la salle des archives, derrière une vitre fermée à clé. La bibliothèque y gardait les objets que les vieilles familles de la vallée lui avaient confiés : une montre de gousset, un registre de baptêmes, une paire de lunettes rafistolée au scotch, léguée en 2108 par un certain Mathis Delorme avec une pochette de dessins au feutre. Une boîte de petites fioles de verre, étiquetées à l'encre bleue d'une écriture serrée, *Annecy*, *Bourget*, *Vassivière*, *Vallorce*, pleines d'une eau qui s'était évaporée depuis longtemps. Et le carnet.
 
-La petite fille se retourna.
+Une couverture grise, usée, ramollie par les mains. Des pages couvertes de deux encres, une bleue et une noire, dans une écriture qui était la même et qui ne l'était pas.
 
-Sa mère se tenait à l'entrée de la salle des enfants, un sac de livres à l'épaule. Elle avait trente-quatre ans. Elle était archiviste, ici même, dans la bibliothèque : c'est elle qui avait la clé de l'armoire de famille. Elle avait des taches d'encre sur les doigts, toujours, et le front un peu trop grand, et des sourcils droits, et un creux au menton. Et au coin de la paupière gauche, un minuscule grain de beauté, si petit qu'il fallait la regarder de très près, et très longtemps, pour le voir.
+Sur la première page, quelqu'un avait écrit, à l'encre bleue : *Les pages noires ne sont pas pour vous. Gardez-les. Ne les lisez pas.* Dans la famille Varenne, on avait respecté la consigne pendant cent onze ans. On lisait les pages bleues, qui parlaient d'une femme seule, d'un lac qui baissait, d'un médecin. On ne lisait pas les noires. On se contentait d'y prendre des noms. C'était une tradition, dont plus personne ne savait qui l'avait commencée : on donnait aux enfants les noms qu'on trouvait dans le carnet.
+
+Il y avait eu une Anne. Puis une Jeanne. Puis un Paul. Puis d'autres.
+
+La dernière page était blanche. Personne n'avait jamais osé y écrire.
+
+---
+
+— Élise ! On rentre.
+
+La petite fille se retourna. Sa mère se tenait à l'entrée de la salle des enfants. Elle avait trente-quatre ans. Elle était archiviste, ici même ; c'est elle qui avait la clé de l'armoire de famille. Elle avait des taches d'encre sur les doigts, des cernes violets sous les yeux, le front un peu trop grand, des sourcils droits, un creux au menton. Et au coin de la paupière gauche, un minuscule grain de beauté, si petit qu'il fallait la regarder de très près, et très longtemps, pour le voir.
 
 — J'arrive, dit Élise.
 
-Elle courut vers elle. Puis elle s'arrêta à mi-chemin, revint en arrière, attrapa sur une table un morceau de craie et une ardoise, de celles qu'on laissait aux enfants pour dessiner, et se mit à dessiner très vite, debout, en tirant la langue.
+Elle attrapa sur une table une ardoise et un morceau de craie, et se mit à dessiner, très vite, debout, en tirant la langue.
 
-Sa mère s'approcha, amusée, et se pencha par-dessus son épaule.
+Une maison, avec un toit en triangle. Un soleil dans le coin, avec des rayons trop longs, qui débordaient du cadre. Devant la maison, une silhouette aux longs cheveux. Et, pour finir, au coin de l'œil gauche, un tout petit point de craie, presque rien.
 
-Il y avait une maison, avec un toit en triangle et une porte. Un soleil dans le coin, avec des rayons très longs, qui débordaient du cadre parce qu'Élise ne savait pas s'arrêter. Et devant la maison, une silhouette : un rond pour la tête, deux points, une bouche. Et, pour finir, au coin de l'œil gauche, un tout petit point de craie, presque rien.
-
-La mère regarda le dessin longtemps. Elle ne savait pas pourquoi il lui serrait le cœur à ce point. Elle posa le doigt sur la silhouette.
+Sa mère se pencha par-dessus son épaule. Elle ne savait pas pourquoi ce dessin lui serrait le cœur à ce point. Elle posa le doigt sur la silhouette.
 
 — C'est qui ? demanda Iris.
 
-Élise leva vers elle un visage couvert de craie, et lui sourit comme si c'était la question la plus simple du monde.
+Élise leva vers elle un visage couvert de craie.
 
 — C'est toi.
+
+---
+
+## 2141
+
+Quatre ans plus tard, une nuit de novembre, on retrouva Élise dans le lac.
+
+Elle avait onze ans. Elle était sortie par la fenêtre de sa chambre, pieds nus, en chemise de nuit, à trois heures du matin, et elle était descendue sur la grève, et elle était entrée dans l'eau. Un pêcheur de nuit l'avait vue, de loin, avancer dans le lac noir jusqu'à la taille, droit vers le barrage, en comptant à voix haute. Il l'avait rattrapée à l'endroit où le fond descend d'un coup. Elle s'était débattue. Elle disait, d'une voix qui n'était pas une voix d'enfant, une voix basse et calme de femme adulte :
+
+— Il faut le briser avant le 14.
+
+Elle ne s'en souvint pas au réveil. Elle avait de la vase sous les ongles.
+
+Les médecins parlèrent de l'hospitaliser. On parla de calmants, de sangles, d'une chambre fermée à clé. Iris dit non à tout. Elle rentra chez elle avec sa fille endormie dans les bras, la coucha, s'assit au bord du lit et la regarda dormir jusqu'à l'aube, en tenant sa main.
+
+À l'aube, elle alla à la bibliothèque, ouvrit l'armoire de famille avec sa clé, et pour la première fois en cent quinze ans, une Varenne lut les pages noires.
+
+---
+
+Elle les lut en une journée, assise par terre dans la salle des archives, la porte fermée.
+
+Elle lut une bibliothèque sous une ville, sans fenêtres, où l'on lisait des recettes à des gens qui avaient oublié comment on écoute. Elle lut une enfant qui demandait *c'est qui ?* devant le visage de sa mère. Elle lut un cristal couleur de rouille, qui poussait dans la vase du lac, plus vite à côté des dormeurs. Elle lut une galerie, une masse, une poussière, une chute. Elle lut une femme qui avait choisi de se dissoudre pour que tout cela n'arrive pas.
+
+Elle ne comprit pas tout. Elle comprit assez.
+
+Elle comprit que les nuits de sa fille n'étaient pas des rêves. Que quelqu'un, très loin derrière, dans la lignée, avait laissé quelque chose dans le sang, et que ce quelque chose remontait chez Élise la nuit, avec ses noms, ses barrages, sa galerie, son ordre de briser.
+
+Et entre deux pages noires, collée à l'adhésif jauni, elle trouva une plaquette en papier glacé, à l'en-tête d'une fondation qui n'existait plus.
+
+*LÉTHÉ — Pour un oubli choisi. Et si l'on pouvait enfin oublier ce qui nous détruit ?*
+
+Elle la relut dix fois. Elle relut la page sur les bacs, les lits de camp, la croissance à proximité des dormeurs. Elle relut, dans les pages bleues qu'elle croyait connaître par cœur, celle où Sophia rapportait les mots d'un certain Kerr : *Les parents qui retrouvent leur enfant mort chaque matin en se réveillant. On pourrait leur enlever ça.*
+
+Puis elle leva les yeux vers la boîte de fioles, sur l'étagère du haut.
+
+Elle les avait toujours crues vides. Elle prit celle qui portait, d'une écriture bleue et serrée, *Vallorce, 14/11/2026*, et la tint devant la lampe.
+
+Au fond, collée au verre, il y avait une aiguille rouge, pas plus longue qu'un ongle.
+
+---
+
+Elle aurait pu la reposer. Elle y pensa longtemps. Elle pensa à la femme des pages noires, à son sacrifice, à sa dernière nuit. Elle pensa à la consigne : *ne gardez rien*. Elle pensa que quelqu'un, un siècle plus tôt, avait désobéi, et elle ne savait pas si elle lui en voulait ou si elle le remerciait.
+
+Elle pensa à sa fille dans le lac, la nuit, avec de l'eau jusqu'à la taille.
+
+Elle ouvrit le carnet à la dernière page, celle que personne n'avait jamais osé toucher. Elle prit un stylo. Il était bleu. Elle écrivit un seul mot.
+
+*Pardon.*
+
+Le soir, quand Élise fut endormie, Iris déboucha la fiole et la posa sur la table de nuit, à moins d'un mètre de l'oreiller.
+
+---
+
+Cette nuit-là, Élise ne compta pas. Elle dormit jusqu'au matin, sur le ventre, les poings serrés sous le menton, et se réveilla en souriant. La nuit suivante aussi. Et toutes celles d'après.
+
+Elle ne dessina plus de barrages. Elle ne dit plus *Sophia*, ni *Noé*, ni *galerie*. Elle ne parla plus d'une bibliothèque sans fenêtres. Au bout d'un mois, elle ne se souvenait plus d'avoir eu peur.
+
+Au bout de deux, elle oublia le nom du chat.
+
+Iris se dit que c'était le prix. Elle se dit que c'était transitoire. Elle regarda l'aiguille au fond de la fiole, qui faisait maintenant la longueur d'un doigt et s'ouvrait en éventail, comme une main, et elle remit le bouchon, et elle le retira de nouveau le soir suivant.
+
+Au bout de six mois, dans l'immeuble, une voisine ne retrouva plus le chemin de son appartement.
+
+Au bout d'un an, un matin de printemps, Élise s'arrêta sur le seuil de la cuisine, son cartable à la main, et regarda sa mère, longuement, poliment, avec une expression qu'Iris n'avait vue qu'une fois, dans un carnet, à l'encre noire.
+
+— C'est qui ? demanda Élise.
+
+---
+
+Quelques années plus tard, à la bibliothèque de Vallorce, quelqu'un proposa de murer les fenêtres.
+
+Ceux qui oubliaient avaient pris l'habitude de sortir la nuit, et de descendre vers le lac.

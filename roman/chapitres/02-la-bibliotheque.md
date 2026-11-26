@@ -64,7 +64,15 @@ Le Conseil des Lucides se réunissait dans l'ancienne salle des Cartes. Ils éta
 
 Le dossier gris était sur la table. Élise le connaissait. Tout le monde le connaissait, mais elle était la seule à l'avoir lu en entier, puisqu'elle était la seule capable de le lire en entier sans perdre le début en arrivant à la fin.
 
-Trois feuilles. Un rapport d'ingénierie arraché à une archive électrique, imprimé avant que les machines ne meurent. *Incident, laboratoire de Vallorce, galerie technique, 14 novembre 2026. Rupture d'un échantillon minéral non identifié. Dispersion de particules dans le réservoir.* Une liste du personnel, avec, en bas, une ligne qu'Élise avait soulignée au crayon : *S. Varenne, hydrologue*. Et une note médicale de janvier 2027 sur les premiers cas « d'amnésie progressive » dans la vallée.
+Quatre feuilles. Un rapport d'ingénierie arraché à une archive électrique, imprimé avant que les machines ne meurent. *Incident, laboratoire de Vallorce, galerie technique, 14 novembre 2026. Rupture d'un échantillon minéral non identifié. Dispersion de particules dans le réservoir.* Une liste du personnel, avec, en bas, une ligne qu'Élise avait soulignée au crayon : *S. Varenne, hydrologue*. Une note médicale de janvier 2027 sur les premiers cas « d'amnésie progressive » dans la vallée.
+
+Et la quatrième, qu'Élise relisait toujours en dernier, parce qu'elle ne ressemblait à rien. Une page arrachée à un carnet, jaunie, le bord déchiré en biais. Quelques lignes à l'encre noire, d'une écriture lente, appliquée, comme celle d'une enfant qui recopie un modèle. L'humidité en avait mangé une partie. Ce qu'on pouvait encore lire disait :
+
+*… cassant comme du sucre. Il faut le briser avant le 14. Galerie, niveau –3. Le no*
+
+La déchirure emportait la fin du mot. Plus bas, sous l'accroc, il restait trois mots : *… ne suffit pas.*
+
+Élise avait toujours lu *le nom ne suffit pas*, et elle y avait vu une allusion aux généalogies, à ces registres où l'on recopie des noms en croyant sauver les gens. Personne au Conseil ne savait d'où venait cette page. Oriane disait seulement qu'elle avait été confiée au refuge, autrefois, par « une vieille famille de la vallée », et qu'elle était dans le dossier depuis toujours.
 
 — Nous savons voyager, dit Oriane.
 

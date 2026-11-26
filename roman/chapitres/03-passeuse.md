@@ -38,7 +38,13 @@ La mission tenait en une phrase, et c'est Oriane qui la prononça, le sixième j
 
 — Proprement, répéta Élise. Avec quoi ?
 
-— Tu trouveras. Ce sont des sédiments, de la roche tendre. Nos analyses disent que le cristal pur est cassant comme du sucre.
+— Tu trouveras. Tu as lu la page. Il est cassant comme du sucre.
+
+— Qui l'a écrite, cette page ?
+
+Oriane hésita, et c'était si rare de la voir hésiter qu'Élise s'en souvint longtemps.
+
+— Quelqu'un qui l'a touché, dit-elle. Quelqu'un qui y était. Nous n'en savons pas plus.
 
 Élise nota la phrase dans sa tête, à côté des quatre règles. *Cassant comme du sucre.* Elle la retiendrait. Elle retenait tout.
 

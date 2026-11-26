@@ -64,3 +64,10 @@ Détail complet dans `chronologie.md` et `../plan/plan-chapitres.md`. Ce que cet
 - **Le Veilleur, c'est Noé**, le compagnon d'Élise et le père d'Iris, que la Rouille a effacé de sa mémoire. Il l'a suivie pour l'empêcher de défaire la lignée qui mène à leur fille, et il retombe amoureux d'elle.
 - **La troisième porte :** le cristal est noyé intact sous le coulis de béton, ce qui coupe le fil doucement, sans poussière. Élise se fond dans Sophia, et Noé dans Étienne, avec le consentement écrit de leurs hôtes. Anne, la fille de Sophia et d'Étienne, naît le 3 août 2027.
 - **La chute :** dans le nouveau 2137, lumineux, la petite fille s'appelle Élise, et sa mère s'appelle **Iris**. Les noms se transmettent par le carnet. L'enfant dessine la maison et le soleil. « C'est qui ? » « C'est toi. »
+
+## Fin définitive (révision sombre)
+
+L'épilogue ne s'arrête plus sur « C'est toi ».
+- **2141 :** la petite Élise est hantée par les souvenirs d'une vie qu'elle n'a pas vécue. Iris lit enfin les pages noires du carnet et ouvre la fiole où Sophia avait gardé une aiguille de cristal, pour que sa fille oublie. L'enfant guérit, puis oublie, et finit par demander « C'est qui ? » à sa mère. La Rouille recommence.
+- **Coda, 2164 :** Élise, devenue adulte, cheveux longs, part dans Sophia avec l'ordre de briser le cristal, parce que « le noyer ne suffit pas ». Elle écrit la page arrachée que le Conseil donnera, un siècle plus tard dans l'autre ligne, à l'Élise du roman. C'est elle, la femme du prologue.
+- **Dernières lignes :** « Elle s'appelait Élise. Elle n'était jamais venue. Elle reviendrait toujours. »

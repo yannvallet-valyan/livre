@@ -15,7 +15,7 @@
       '<p class="lede"><em>En 2137, l\'humanité oublie. Élise Varenne part pour 2026, dans le corps de son arrière-arrière-grand-mère. Elle va découvrir que la Rouille n\'a pas d\'origine. Elle a seulement un cycle.</em></p>' +
       '<p class="meta">' + BOOK.chapters.length + " chapitre(s) rédigé(s) · ~" + total.toLocaleString("fr-FR") + " mots · premier jet</p><ol class=\"toc\">";
     BOOK.chapters.forEach((c) => {
-      h += '<li><a href="#livre/' + c.n + '"><span class="num">' + c.n + '</span><span class="t">' + esc(c.title) + '</span><span class="p">' + pages(c.words) + " p.</span></a></li>";
+      h += '<li><a href="#livre/' + c.n + '"><span class="num">' + (c.n || "·") + '</span><span class="t">' + esc(c.title) + '</span><span class="p">' + pages(c.words) + " p.</span></a></li>";
     });
     BOOK.upcoming.forEach((c) => {
       h += '<li class="soon"><span class="num">' + c.n + '</span><span class="t">' + esc(c.title) + '</span><span class="p">à venir</span></li>';
@@ -27,7 +27,7 @@
     const i = BOOK.chapters.findIndex((c) => c.n === n);
     if (i < 0) return toc();
     const c = BOOK.chapters[i], prev = BOOK.chapters[i - 1], next = BOOK.chapters[i + 1];
-    let h = '<p class="chapter">Chapitre ' + c.n + '</p><h1 tabindex="-1">' + esc(c.title) + '</h1><div class="prose">';
+    let h = '<p class="chapter">' + (c.n ? "Chapitre " + c.n : "Prologue") + '</p><h1 tabindex="-1">' + esc(c.title.replace(/^Prologue\s*[—-]\s*/, "")) + '</h1><div class="prose">';
     c.blocks.forEach((b) => { h += b.t === "hr" ? '<p class="sep" aria-hidden="true">·&nbsp;·&nbsp;·</p>' : "<p>" + inline(b.s) + "</p>"; });
     h += '</div><nav class="pager" aria-label="Chapitres">' +
       (prev ? '<a href="#livre/' + prev.n + '">← ' + esc(prev.title) + "</a>" : "<span></span>") +
