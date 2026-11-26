@@ -70,7 +70,7 @@ Ce soir-là, en quittant le laboratoire, elle vit Kerr sur la grève.
 
 Il ne l'avait pas vue. Il était descendu par le chemin des pêcheurs, en chemise blanche malgré le froid, les mains dans les poches, et il marchait lentement le long de l'eau, à l'endroit où la vase rejoignait le gravier. Il s'arrêta. Il se baissa. Il ramassa un galet, l'examina, le reposa. Il en ramassa un autre, blanc, rond, presque lumineux dans le crépuscule, et il le garda dans la main un moment.
 
-Puis il s'accroupit au bord de l'eau, et il le posa sur la vase, tout au bord, là où la prochaine baisse du lac le découvrirait davantage, comme on dépose une offrande.
+Puis il s'accroupit au bord de l'eau, et il le posa sur la vase, tout au bord, là où la prochaine baisse du lac le découvrirait davantage, comme une offrande.
 
 Il resta accroupi devant ce caillou blanc pendant cinq minutes. Sophia, en haut du chemin, n'osait plus bouger. Quand il se releva, il essuya ses mains sur son pantalon, regarda le lac une dernière fois, et remonta vers le parking sans se retourner.
 
@@ -96,11 +96,11 @@ Il se frotta les yeux.
 
 Ils se regardèrent. La serveuse posa deux chocolats sur la table sans qu'ils l'aient commandés, et ils ne s'en rendirent pas compte.
 
-Ils parlèrent ensuite d'autre chose, parce que c'était trop gros, et qu'on ne peut pas regarder trop longtemps une chose trop grosse. Étienne parla de son fils, Hugo, qui étudiait la géographie à Grenoble et qui l'appelait le dimanche pour lui raconter des montagnes qu'il connaissait par cœur. Il parla de Claire, sa femme, morte sept ans plus tôt d'un anévrisme, un mardi matin, en remplissant le lave-vaisselle. Il en parla simplement, sans chercher la pitié, comme on parle d'un pays où l'on a vécu.
+Ils parlèrent ensuite d'autre chose, parce que c'était trop gros, et qu'on ne peut pas regarder trop longtemps une chose trop grosse. Étienne parla de son fils, Hugo, qui étudiait la géographie à Grenoble et qui l'appelait le dimanche pour lui raconter des montagnes qu'il connaissait par cœur. Il parla de Claire, sa femme, morte sept ans plus tôt d'un anévrisme, un mardi matin, en remplissant le lave-vaisselle. Il en parla simplement, sans chercher la pitié.
 
 Sophia parla de son père. Elle n'en parlait jamais. Elle s'entendit raconter la cabine, les dimanches, l'eau qu'il faisait chauffer pour rien, la lettre de sa mère, la voix de femme. Elle s'entendit dire : *J'ai peur d'être comme lui*, et elle ne l'avait jamais dit à personne, même pas à elle-même.
 
-Étienne ne dit pas *mais non*. Il ne dit rien du tout. Il tendit la main par-dessus la table et la posa sur la sienne, juste un instant, le temps de deux battements de cœur, puis il la retira, et Sophia sentit longtemps la chaleur sur le dos de ses doigts.
+Étienne ne dit pas *mais non*. Il ne dit rien du tout. Il tendit la main par-dessus la table et la posa sur la sienne, juste un instant, le temps de deux battements de cœur, puis il la retira, et Sophia garda jusqu'au soir la chaleur sur le dos de ses doigts.
 
 — Et si votre père n'était pas fou, dit-il enfin. Si c'était la même chose que nous ?
 

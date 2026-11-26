@@ -20,7 +20,7 @@ Personne ne répondit. Elle redescendit.
 
 ---
 
-Elle les écrivit dans le carnet comme on fait un inventaire, en trois colonnes, à l'encre noire, parce que c'était ainsi qu'on l'avait formée et que c'était la seule façon qu'elle connaissait de regarder une chose trop grande.
+Elle les écrivit dans le carnet en trois colonnes, comme un inventaire, à l'encre noire, parce que c'était ainsi qu'on l'avait formée et que c'était la seule façon qu'elle connaissait de regarder une chose trop grande.
 
 *PREMIÈRE PORTE. Briser le cristal.*
 *C'est ce que le Conseil m'a demandé. C'est ce que j'ai toujours fait. La poussière part dans l'eau. La Rouille commence, un peu plus tôt que la fois précédente. Je tombe en 1980, dans ton père. Je passe quarante-six ans à dessiner une maison avec un soleil. Une autre moi arrive, la prochaine fois, et elle fait la même chose. Iris naît, oublie mon visage, et je repars. Pour toujours.*
@@ -126,7 +126,7 @@ Elle ferma les yeux.
 
 — Si je reste, peut-être qu'elle n'existera jamais. Mais personne ne sera rouillé à cause de moi. Personne ne lui oubliera le visage. Pas même moi : je ne serai plus là pour l'oublier.
 
-Noé ne dit rien pendant longtemps.
+Noé ne dit rien.
 
 Puis il descendit du parapet, fit un pas, et s'assit tout près d'elle, sans le mètre, l'épaule contre son épaule. Elle ne bougea pas.
 

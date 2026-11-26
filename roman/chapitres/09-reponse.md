@@ -92,7 +92,7 @@ Un soir, Sophia écrivit seulement :
 
 *Parle-moi de toi. Pas de 2137. De toi.*
 
-Élise mit longtemps à répondre. Personne ne lui avait demandé cela depuis des années.
+Élise tarda à répondre. Personne ne lui avait demandé cela depuis des années.
 
 *Mon père réparait les lampes. Il disait qu'une fenêtre allumée voulait dire : tu peux frapper. Ma mère lisait des recettes à ceux qui avaient oublié. Elle m'a appris à lire sur un livre de cuisine. Mon premier mot a été ail. Elle comptait jusqu'à soixante dans le noir pour m'endormir, en tapant sur le bois du lit. Je ne suis jamais arrivée au bout : je dormais avant.*
 
@@ -110,7 +110,7 @@ Le lendemain, à l'encre bleue :
 
 *Tu as bien fait d'avoir peur. Mais tu as eu tort de dire non pour ça.*
 
-Sophia ne répondit pas à cette phrase. Mais le lendemain, pour la première fois, il y avait sur la table, à côté du carnet, un bol de soupe sous une assiette retournée, encore tiède, et un mot : *Je ne sais pas si tu as faim, là-dedans. Au cas où.*
+Sophia ne répondit pas à cette phrase. Mais le lendemain, il y avait sur la table, à côté du carnet, un bol de soupe sous une assiette retournée, encore tiède, et un mot : *Je ne sais pas si tu as faim, là-dedans. Au cas où.*
 
 Puis vint une nuit où Sophia ne posa aucune question.
 

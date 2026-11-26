@@ -84,7 +84,7 @@ Quelqu'un était debout sur la grève, à l'endroit exact où il avait ramené H
 
 Noé reconnut le directeur du laboratoire, Kerr, qu'il avait vu une fois, de loin, une nuit d'octobre.
 
-L'homme leva les yeux vers lui. Il ne parut pas surpris. Il le salua d'un petit signe de tête, poli, presque respectueux, comme on salue un confrère, puis il retourna à ses mesures.
+L'homme leva les yeux vers lui. Il ne parut pas surpris. Il le salua d'un petit signe de tête, poli, presque respectueux, de confrère à confrère, puis il retourna à ses mesures.
 
 Noé ne dit rien de tout cela à Élise. Il pensa que Kerr surveillait son gisement. Il pensa qu'un homme qui fait dormir des volontaires à côté d'une chose pareille pouvait bien venir la regarder la nuit.
 

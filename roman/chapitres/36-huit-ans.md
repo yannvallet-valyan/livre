@@ -56,7 +56,7 @@ Il raconta la nuit de la naissance, dans le dortoir B, pendant une coupure de la
 
 — Elle était si légère, dit-il. Elle tenait dans une main. Elle avait déjà le front trop grand. Et elle serrait les poings sous le menton.
 
-Il se tut. Élise ne dit rien. Elle avait les mains posées à plat sur ses cuisses, et elle serrait les doigts si fort que les ongles de Sophia lui entraient dans les paumes.
+Il se tut. Élise ne dit rien. Elle avait les mains sur les cuisses, et elle serrait les doigts si fort que les ongles de Sophia lui entraient dans les paumes.
 
 ---
 

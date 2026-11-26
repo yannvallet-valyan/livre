@@ -38,7 +38,7 @@ Elle ne s'assit pas. Elle posa sur son bureau, à côté de la photo retournée 
 
 — Où est-ce que vous videz les bacs ? demanda-t-elle.
 
-Kerr regarda la photographie. Puis il la regarda, elle. Elle vit, pour la première fois, quelque chose céder dans son visage poli.
+Kerr regarda la photographie. Puis il la regarda, elle. Elle vit quelque chose céder dans son visage poli.
 
 — Les eaux de culture sont filtrées, dit-il. Deux fois. Ensuite, elles rejoignent le réseau d'évacuation du bâtiment. Qui rejoint…
 
@@ -46,7 +46,7 @@ Il ne finit pas sa phrase.
 
 — Le lac, dit Sophia. En amont du captage. Votre eau de culture revient dans les robinets du village. Pas beaucoup. Juste assez. Corinne Delorme boit votre eau depuis le mois de juin. Martine Pradel la buvait aussi.
 
-Kerr se leva. Il alla jusqu'à la vitre, et il regarda le lac, les bras croisés, longtemps, si longtemps qu'elle crut qu'il ne répondrait jamais.
+Kerr se leva. Il alla jusqu'à la vitre, et il regarda le lac, les bras croisés, si longtemps qu'elle crut qu'il ne répondrait jamais.
 
 — Les filtres arrêtent tout ce qui dépasse un micron, dit-il enfin, sans se retourner. Je l'ai vérifié. Je vous jure que je l'ai vérifié.
 

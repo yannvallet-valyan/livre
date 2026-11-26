@@ -68,7 +68,7 @@ Hugo descendit sur la grève. Il ramassa un galet, le soupesa, le lança vers la
 
 — C'est le barrage, dit Sophia trop vite. Les turbines. On ne les entend plus, quand on vit ici.
 
-Hugo hocha la tête. Il ne parut pas convaincu. Il continua de regarder le pied du mur, longtemps, avec une expression rêveuse, presque tendre, que Sophia avait déjà vue quelque part. Elle mit plusieurs secondes à se rappeler où : sur le visage de Martine Pradel, retournée sur le dos dans la vase, les yeux ouverts.
+Hugo hocha la tête. Il ne parut pas convaincu. Il continua de regarder le pied du mur avec une expression rêveuse, presque tendre, que Sophia avait déjà vue quelque part. Elle mit plusieurs secondes à se rappeler où : sur le visage de Martine Pradel, retournée sur le dos dans la vase, les yeux ouverts.
 
 — Rentrons, dit-elle. Il fait froid.
 

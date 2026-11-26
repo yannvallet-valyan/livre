@@ -66,7 +66,7 @@ Dans la bibliothèque, chaque famille de lucides tenait un registre. C'était de
 
 Trois août 2027. Élise avait compté à rebours sur le calendrier des Postes, la troisième nuit, avec un crayon : neuf mois, quarante semaines. Anne serait conçue vers le début de novembre. Dans cinq semaines.
 
-Sophia n'avait pas d'enfant. Elle n'avait personne. Elle vivait seule, ne sortait pas, ne recevait pas. Et il fallait que, dans les semaines à venir, quelque chose arrive dans cette vie si soigneusement rangée, quelqu'un, une rencontre, faute de quoi il n'y aurait pas d'Anne, ni de Jeanne, ni rien après. Il n'y aurait pas d'Élise.
+Sophia n'avait pas d'enfant. Elle n'avait personne. Elle vivait seule, ne sortait pas, ne recevait pas. Et il fallait que, dans les semaines à venir, quelqu'un entre dans cette vie si soigneusement rangée, une rencontre, faute de quoi il n'y aurait pas d'Anne, ni de Jeanne, ni rien après. Il n'y aurait pas d'Élise.
 
 *Si tu changes trop le passé de ta lignée…*
 
@@ -76,7 +76,7 @@ Elle avait relu la phrase de Ruben cent fois. Chaque trace qu'elle laissait, cha
 
 ---
 
-Un soir, sous la page du ciel, Sophia avait écrit une question qu'elle avait mis longtemps à oser.
+Un soir, sous la page du ciel, Sophia avait écrit une question qu'elle avait mis des jours à oser.
 
 *Tu as quelqu'un, là-bas ? Je veux dire : quelqu'un qui t'attend. À part ta fille.*
 
@@ -142,7 +142,7 @@ Sa voix était basse, un peu enrouée, comme une voix qui a peu servi. Il avait 
 
 — Chez moi non plus, dit-elle.
 
-Il y eut un long silence. L'homme ne la regarda pas. Il hocha seulement la tête, lentement, une fois, comme si elle venait de confirmer quelque chose qu'il savait depuis longtemps.
+Il y eut un long silence. L'homme ne la regarda pas. Il hocha seulement la tête, lentement, une fois, comme si elle venait de confirmer ce qu'il savait depuis longtemps.
 
 — Orion, dit-il en levant la main vers le sud-est.
 

@@ -12,7 +12,7 @@ Cette année, on y monta en silence.
 
 La tombe de Martine Pradel était la plus récente, et la seule sans pierre. Un monticule de terre brune, encore meuble, une croix de bois provisoire avec une plaque de plastique, et une montagne de fleurs. Les anciens élèves de Martine avaient apporté des chrysanthèmes jaunes, parce qu'elle détestait les blancs. Quelqu'un avait posé au pied de la croix une paire de pantoufles neuves, en laine bleue, rangées côte à côte avec soin. Personne ne savait qui. Personne n'osa les enlever.
 
-Sophia se tint en retrait. Elle n'était pas d'ici, pas vraiment : on la saluait d'un signe de tête, comme on salue la fille d'Anselme, c'est-à-dire avec une politesse prudente. Elle vit Étienne de loin, son écharpe rouge autour du cou, qui serrait des mains. On le remerciait d'avoir signé le certificat si vite, d'avoir épargné à la famille l'autopsie, les gendarmes, les questions. Il souriait à chacun. Sophia savait ce que lui coûtait ce sourire. Elle avait vu les ongles cassés, la poudre rouge.
+Sophia se tint en retrait. Elle n'était pas d'ici, pas vraiment : on la saluait d'un signe de tête, avec la politesse prudente qu'on réservait à la fille d'Anselme. Elle vit Étienne de loin, son écharpe rouge autour du cou, qui serrait des mains. On le remerciait d'avoir signé le certificat si vite, d'avoir épargné à la famille l'autopsie, les gendarmes, les questions. Il souriait à chacun. Sophia savait ce que lui coûtait ce sourire. Elle avait vu les ongles cassés, la poudre rouge.
 
 Bastien Kerr arriva à la fin, avec une gerbe de roses blanches trop grande, trop chère. Les conversations s'arrêtèrent sur son passage. Il posa la gerbe au pied de la croix, à côté des pantoufles, resta une minute immobile, les mains jointes, puis repartit. Personne ne lui parla. Sur le chemin du retour, Sophia entendit une vieille femme dire à une autre, à voix basse, *cent euros la nuit*, et l'autre répondre, *c'est le prix d'une âme, maintenant*.
 
@@ -30,7 +30,7 @@ Elle s'arrêta. Sa bouche resta entrouverte. Elle regardait la plaque de plastiq
 
 Elle posa le pot de fleurs. Elle ne pleura pas. Elle rit un peu, de ce rire haut perché qui ne trompait plus personne, et elle redescendit très vite vers le village, en tirant Mathis par la main, en répétant à voix basse le prénom de la morte, sans relâche, jusqu'au bas du chemin.
 
-Mathis se retourna une fois vers Sophia. Il ne dit rien. Il la regarda seulement, longtemps, droit dans les yeux, au fond, comme s'il y cherchait quelqu'un, et Sophia comprit qu'en plein jour, il ne voyait personne d'autre qu'elle. Elle ne sut pas si elle en était soulagée.
+Mathis se retourna une fois vers Sophia. Il ne dit rien. Il la regarda seulement, droit dans les yeux, au fond, comme s'il y cherchait quelqu'un, et Sophia comprit qu'en plein jour, il ne voyait personne d'autre qu'elle. Elle ne sut pas si elle en était soulagée.
 
 ---
 

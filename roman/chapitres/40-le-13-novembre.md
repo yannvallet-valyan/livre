@@ -44,7 +44,7 @@ Ménard la jaugea en silence. Puis il posa sa tasse.
 
 À onze heures, Kerr la trouva devant le préfabriqué.
 
-Il avait l'air de ne pas avoir dormi. Il avait le teint gris, les yeux brillants, et il serrait dans la main un trousseau de clés comme on serre un chapelet. Il regarda Ménard par la fenêtre, puis Sophia.
+Il avait l'air de ne pas avoir dormi. Il avait le teint gris, les yeux brillants, et il serrait dans la main un trousseau de clés comme un chapelet. Il regarda Ménard par la fenêtre, puis Sophia.
 
 — Vous êtes en congé, dit-il.
 
@@ -64,7 +64,7 @@ Il ne répondit pas tout de suite. Il regarda le lac, la vase, le clocher noir q
 
 — Moi aussi, dit-il. Je retrouverai le sommeil. Il y a des nuits où je me réveille dans le laboratoire, debout, en blouse, avec une lampe à la main. Je ne sais pas ce que j'y fais. Je veux que ça s'arrête.
 
-Il partit sans attendre de réponse. Sophia le regarda traverser le parking entre les toupies, très droit, très seul, et elle eut pour lui, pour la première fois, une pitié qui ressemblait à de la tendresse.
+Il partit sans attendre de réponse. Sophia le regarda traverser le parking entre les toupies, très droit, très seul, et elle eut pour lui une pitié qui ressemblait à de la tendresse.
 
 ---
 

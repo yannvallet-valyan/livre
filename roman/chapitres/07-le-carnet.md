@@ -54,7 +54,7 @@ Ce fut d'abord une raideur dans le poignet, puis une crampe qui remonta jusqu'au
 
 *Elle ne veut pas*, pensa-t-elle. *Le corps ne veut pas.*
 
-Ou bien ce n'était pas le corps. Ou bien c'était autre chose, plus profond que Sophia et qu'elle, quelque chose qui savait ce que signifiait cette date et refusait qu'on l'écrive.
+Ou bien ce n'était pas le corps. Ou bien c'était autre chose, plus profond que Sophia et qu'elle, qui savait ce que signifiait cette date et refusait qu'on l'écrive.
 
 Elle attendit que la douleur passe. Elle ne réessaya pas. Elle signa d'une seule lettre, *É.*, rangea le carnet dans le creux du plancher, remit la lame. Sur un post-it, de la même encre noire, elle écrivit la phrase qui guiderait Sophia, et elle le colla au milieu de la table, là où il serait impossible de ne pas le voir.
 
@@ -68,7 +68,7 @@ Elle brûlait ensuite les papiers un à un, dans l'évier, avec les allumettes d
 
 La deuxième nuit, en recopiant des mots au hasard pour s'habituer, elle avait écrit, sans le décider, sur le dos d'une facture d'électricité : *Iris*. Quatre lettres, nettes, bien formées, les plus belles de la nuit. Elle les avait contemplées. Puis elle avait brûlé la facture, elle aussi, et elle était restée devant l'évier jusqu'à ce que le papier ne soit plus qu'une petite feuille noire et tordue qui gardait encore, en gris plus clair, la forme des lettres.
 
-Dans la bibliothèque, on écrivait peu, et au crayon, pour pouvoir effacer et réutiliser le papier. Écrire à l'encre, quelque chose qui ne s'efface pas, à quelqu'un qui est vivant, lui paraissait une audace presque obscène. Elle s'y habitua. Il le fallait bien.
+Dans la bibliothèque, on écrivait peu, et au crayon, pour pouvoir effacer et réutiliser le papier. Écrire à l'encre, des mots qui ne s'effacent pas, à quelqu'un qui est vivant, lui paraissait une audace presque obscène. Elle s'y habitua. Il le fallait bien.
 
 Il restait une heure avant l'aube. Elle aurait dû aller se coucher, rendre le corps à sa propriétaire.
 

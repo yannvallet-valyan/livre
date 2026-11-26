@@ -39,11 +39,11 @@ Elle chercha d'autres traces. Elle était archiviste : elle savait que les chose
 
 Sur le paillasson de l'entrée, il y avait une auréole humide, large, en forme de semelle. Une grosse chaussure, plus grande que celles de Sophia, avec un relief usé au talon. La boue y avait séché en croûte grise. La même boue que sur la grève. Sur le carrelage de la cuisine, deux autres empreintes, plus faibles, qui allaient jusqu'à la table et s'arrêtaient là. Quelqu'un s'était tenu debout devant le carnet. Il ne s'était pas assis.
 
-Elle se pencha sur la table. Il y avait une odeur. Faible, mais réelle : du tabac froid, de la laine mouillée, et autre chose, de plus discret, qu'elle mit longtemps à identifier. Du café réchauffé.
+Elle se pencha sur la table. Il y avait une odeur. Faible, mais réelle : du tabac froid, de la laine mouillée, et autre chose, de plus discret, qu'elle mit un moment à identifier. Du café réchauffé.
 
 Elle reprit le carnet et regarda de nouveau la troisième écriture. Les lettres hautes et fines, le crayon appuyé si fort qu'il avait marqué le papier. Elle passa le bout des doigts sur le relief, comme sur du braille.
 
-Elle eut alors une sensation qu'elle ne sut pas nommer, et qui la poursuivit jusqu'à la cabine. Pas une reconnaissance : une familiarité. Comme lorsqu'on entend sa propre voix enregistrée, pour la première fois, et qu'on se dit à la fois *ce n'est pas moi* et *c'est forcément moi*. Il y avait dans la façon de barrer les *t*, dans la petite boucle du *j*, dans l'inclinaison des majuscules, quelque chose qu'elle avait vu cent fois. Dans le registre rouge, peut-être. Dans ses propres fiches de catalogue, au refuge.
+Elle eut alors une sensation qu'elle ne sut pas nommer, et qui la poursuivit jusqu'à la cabine. Pas une reconnaissance : une familiarité. Comme lorsqu'on entend sa propre voix enregistrée et qu'on se dit à la fois *ce n'est pas moi* et *c'est forcément moi*. Il y avait dans la façon de barrer les *t*, dans la petite boucle du *j*, dans l'inclinaison des majuscules, une manière qu'elle avait vue cent fois. Dans le registre rouge, peut-être. Dans ses propres fiches de catalogue, au refuge.
 
 Elle se dit que c'était l'écriture de Sophia, déformée par une autre main. Elle se dit que la fatigue lui jouait des tours.
 
@@ -115,7 +115,7 @@ Il secoua la tête lentement.
 
 — Que je voie quoi ?
 
-Anselme éteignit la flamme. L'eau n'avait pas bouilli. Il revint vers elle, et pour la première fois, il fit une chose qu'il n'avait jamais faite : il leva la main et la posa sur la joue de Sophia, très légèrement, comme on touche une vitre.
+Anselme éteignit la flamme. L'eau n'avait pas bouilli. Il revint vers elle, et il fit une chose qu'il n'avait jamais faite : il leva la main et la posa sur la joue de Sophia, très légèrement, comme on touche une vitre.
 
 — Méfie-toi de celui qui regarde les étoiles, dit-il.
 

@@ -4,7 +4,7 @@
 
 Quand la porte de la réserve se fut refermée sur le corps endormi d'Élise Varenne, Oriane Sell remonta seule jusqu'à la salle des Cartes et ferma à clé derrière elle.
 
-Elle avait quatre-vingts ans, et les yeux les plus clairs du refuge. On disait qu'il y avait si peu de cristal dans sa tête qu'elle était presque intacte. On le disait avec respect, et un peu de crainte, comme on parle d'une vieille femme qui ne dort jamais. C'était vrai : elle ne dormait presque plus. Elle avait remarqué, il y a longtemps, que ceux qui dormaient beaucoup rouillaient plus vite.
+Elle avait quatre-vingts ans, et les yeux les plus clairs du refuge. On disait qu'il y avait si peu de cristal dans sa tête qu'elle était presque intacte. On le disait avec respect, et un peu de crainte. On disait aussi qu'elle ne dormait jamais. C'était presque vrai. Elle avait remarqué, il y a longtemps, que ceux qui dormaient beaucoup rouillaient plus vite.
 
 Elle alluma une seule lampe. Elle ouvrit le tiroir de la grande table, celui dont elle seule avait la clé, et en sortit une chemise cartonnée, plus mince que le dossier gris.
 
@@ -40,7 +40,7 @@ Elle s'était dit beaucoup de choses.
 
 Elle savait aussi d'où venait la quatrième page, celle qu'Élise lisait toujours en dernier.
 
-Elle ne l'avait dit à personne. En 2117, un an avant de rouiller, un réparateur de lampes était monté à la salle des Cartes avec une enveloppe jaunie. Il s'appelait Paul Varenne. Il tenait la page de sa mère, Jeanne, qui la tenait de la sienne, Anne, qui l'avait trouvée enfant au fond d'une boîte à chaussures, sous une vieille photo de son grand-père en bottes de pêcheur, dans l'appartement de Lyon où elle avait grandi. Personne, dans la famille, n'avait jamais su qui l'avait écrite. On la gardait comme on garde une relique dont on ne comprend pas la langue.
+Elle ne l'avait dit à personne. En 2117, un an avant de rouiller, un réparateur de lampes était monté à la salle des Cartes avec une enveloppe jaunie. Il s'appelait Paul Varenne. Il tenait la page de sa mère, Jeanne, qui la tenait de la sienne, Anne, qui l'avait trouvée enfant au fond d'une boîte à chaussures, sous une vieille photo de son grand-père en bottes de pêcheur, dans l'appartement de Lyon où elle avait grandi. Personne, dans la famille, n'avait jamais su qui l'avait écrite. On la gardait comme une relique dont personne ne comprenait la langue.
 
 Paul l'avait posée sur la table. Il avait dit : *Je crois qu'elle est pour vous.* Puis il avait demandé une seule chose : que sa fille, qui lisait déjà mieux que lui à quatorze ans, ne sache jamais d'où elle venait.
 

@@ -42,9 +42,9 @@ Elle fronça les sourcils, de ce froncement qui n'appartenait à personne de con
 
 ---
 
-Sophia rentra. Elle fit chauffer le lait. Elle le fit déborder. Elle nettoya la plaque avec une éponge, longtemps, beaucoup plus longtemps qu'il ne fallait.
+Sophia rentra. Elle fit chauffer le lait. Elle le fit déborder. Elle nettoya la plaque avec une éponge, beaucoup plus longtemps qu'il ne fallait.
 
-Elle connaissait ces noms. Elle les connaissait parce qu'elle avait lu, dans le carnet gris, à l'encre noire, les histoires de Biscotte, de Ruben, de Matthias Oller, d'Iris. Elle les connaissait comme on connaît les personnages d'un livre. Elle ne les avait jamais donnés à des étoiles.
+Elle connaissait ces noms. Elle les connaissait parce qu'elle avait lu, dans le carnet gris, à l'encre noire, les histoires de Biscotte, de Ruben, de Matthias Oller, d'Iris. Elle les connaissait comme les personnages d'un livre. Elle ne les avait jamais donnés à des étoiles.
 
 Personne ne les avait donnés à des étoiles. Personne qu'elle connaisse.
 
@@ -60,7 +60,7 @@ Anne, si.
 
 ---
 
-Elle coucha sa fille à dix heures. Anne s'endormit au milieu d'une histoire, les poings sous le menton. Sophia resta assise au bord du lit, dans le noir, à la regarder dormir. Elle regarda le front trop grand, la frange de travers, la petite bouche entrouverte. Elle chercha, dans ce visage qu'elle connaissait mieux que le sien, quelque chose qu'elle aurait pu reconnaître, ou ne pas reconnaître. Elle ne trouva rien. Elle ne savait pas ce qu'elle cherchait.
+Elle coucha sa fille à dix heures. Anne s'endormit au milieu d'une histoire, les poings sous le menton. Sophia resta assise au bord du lit, dans le noir, à la regarder dormir. Elle regarda le front trop grand, la frange de travers, la petite bouche entrouverte. Elle chercha, dans ce visage qu'elle connaissait mieux que le sien, un trait qu'elle aurait pu reconnaître, ou ne pas reconnaître. Elle ne trouva rien. Elle ne savait pas ce qu'elle cherchait.
 
 Elle pensa au registre rouge, qu'elle n'avait jamais vu. *Père non dénommé.* Elle avait toujours cru que cette phrase la protégeait. Qu'elle protégeait Étienne, sa lignée, son nom, contre quelqu'un qui viendrait un jour chercher dans le sang des Marle ce qu'on était venu chercher dans celui des Varenne. Elle s'aperçut, assise au bord du lit de sa fille, que la phrase pouvait vouloir dire autre chose.
 

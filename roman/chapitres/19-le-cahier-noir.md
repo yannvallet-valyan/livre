@@ -6,7 +6,7 @@
 
 Elle n'en parla pas à Sacha. Elle ne savait pas très bien pourquoi. Peut-être parce que, depuis la galerie, depuis les mains sur ses épaules et la craie, elle avait besoin d'une nuit qui ne soit qu'à elle. Peut-être parce qu'Anselme, dans la galerie, avait regardé Sacha d'une façon qu'elle n'avait pas su lire. *Et toi. Toujours toi.*
 
-Le badge de Sophia ouvrait encore la porte de service. Le couloir sentait le désinfectant et, plus loin, quelque chose de plus lourd, de plus doux, une odeur de vase tiède et d'ozone qui venait de la salle du fond. La porte à code était fermée. Au-dessus, la petite diode du clavier brillait en rouge.
+Le badge de Sophia ouvrait encore la porte de service. Le couloir sentait le désinfectant et, plus loin, une odeur plus lourde, plus douce, de vase tiède et d'ozone qui venait de la salle du fond. La porte à code était fermée. Au-dessus, la petite diode du clavier brillait en rouge.
 
 Élise tapa 1-4-1-1. La porte soupira.
 
@@ -112,4 +112,4 @@ Elle rentra en courant, par le chemin du lac, sans lampe. Elle ne raconta pas to
 
 *Il m'a appelée madame Varenne. Comme toi.*
 
-Puis elle s'assit sur le lit, contre le mur mitoyen, et attendit les coups. Ils vinrent à trois heures. Elle compta avec eux jusqu'à cinquante-neuf, et pour la première fois, elle se demanda si celui qui frappait, de l'autre côté, était lui aussi noté quelque part, dans un cahier noir, sous une initiale.
+Puis elle s'assit sur le lit, contre le mur mitoyen, et attendit les coups. Ils vinrent à trois heures. Elle compta avec eux jusqu'à cinquante-neuf, et elle se demanda si celui qui frappait, de l'autre côté, était lui aussi noté quelque part, dans un cahier noir, sous une initiale.

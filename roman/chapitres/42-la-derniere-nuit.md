@@ -38,7 +38,7 @@ Silence.
 
 Ils descendirent sans se toucher, par habitude, l'un derrière l'autre, dans l'escalier raide. Elle alluma la lampe verte. Sous le caillou de Mathis, il y avait deux enveloppes. Elle prit celle de Sophia et lui tendit l'autre, celle d'Étienne, blanche, à l'en-tête du cabinet de la place de l'église.
 
-Il l'ouvrit debout. Elle ne lut pas sa propre lettre. Elle le regarda lire, lui, comme elle l'avait demandé. Elle vit le visage d'Étienne, le visage de Noé, passer par l'incompréhension, puis par quelque chose qui ressemblait à de la peur, puis par une chose qu'elle n'avait jamais vue sur aucun visage et qu'elle n'aurait pas su nommer, même avec tous les mots de la langue de Sophia. Il relut la lettre. Il la posa sur la table, très doucement, comme on pose un nouveau-né.
+Il l'ouvrit debout. Elle ne lut pas sa propre lettre. Elle le regarda lire, lui, comme elle l'avait demandé. Elle vit le visage d'Étienne, le visage de Noé, passer par l'incompréhension, puis par une sorte de peur, puis par une chose qu'elle n'avait jamais vue sur aucun visage et qu'elle n'aurait pas su nommer, même avec tous les mots de la langue de Sophia. Il relut la lettre. Il la posa sur la table, très doucement, comme on pose un nouveau-né.
 
 — Tu savais, dit-il.
 
@@ -142,7 +142,7 @@ Il se tut. Elle sentit qu'il pensait encore à autre chose, et elle sut à quoi,
 
 — Elle est déjà là, dit Élise. Sans doute. Depuis le 6. Depuis la nuit où on s'est réveillés dans son lit à lui, sans bouger. Ils s'aiment depuis des semaines, Noé. Le registre ne peut plus changer.
 
-Il réfléchit longtemps. Elle le sentit se détendre, peu à peu, contre elle, comme un homme qui pose un sac qu'il porte depuis des semaines.
+Il réfléchit. Elle le sentit se détendre, peu à peu, contre elle, comme un homme qui pose un sac qu'il porte depuis des semaines.
 
 — Alors on ne peut plus rien abîmer, dit-il.
 
@@ -158,7 +158,7 @@ Alors Noé la lui raconta.
 
 Il la lui raconta depuis le début : la nuit de coupure dans le dortoir B, le premier cri, si faible qu'il avait cru qu'elle ne respirait pas. Les premières dents. Le premier mot, qui avait été *lampe*. La première fois qu'elle avait marché, entre les rayonnages de la salle des Cartes, en se tenant aux reliures. La passion de la craie, venue d'un coup, à quatre ans. La façon qu'elle avait de dormir sur le ventre, les poings serrés sous le menton. Et son rire, qui commençait toujours par un petit hoquet, comme si elle s'étonnait elle-même de rire.
 
-Élise écouta les yeux fermés. Elle ne reconnaissait presque rien. Mais à mesure qu'il parlait, il lui semblait que quelque chose prenait forme, quelque part derrière ses paupières, non pas un souvenir, plutôt l'empreinte d'un souvenir, comme la marque plus claire d'un meuble sur un parquet. Et, au coin de cette empreinte, au coin de l'œil gauche, un point minuscule que sa fille lui avait rendu à travers un mur.
+Élise écouta les yeux fermés. Elle ne reconnaissait presque rien. Mais à mesure qu'il parlait, il lui semblait qu'une forme se dessinait, quelque part derrière ses paupières, non pas un souvenir, plutôt l'empreinte d'un souvenir, comme la marque plus claire d'un meuble sur un parquet. Et, au coin de cette empreinte, au coin de l'œil gauche, un point minuscule que sa fille lui avait rendu à travers un mur.
 
 — Rentrons, dit-elle.
 

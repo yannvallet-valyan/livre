@@ -28,7 +28,7 @@ Sophia lut la page assise par terre, dans le séjour, le dos contre le radiateur
 
 Elle avait dit non à Julien pendant cinq ans. Elle avait dit non à un enfant sans pouvoir dire pourquoi. Elle s'était dit que c'était l'instinct, le métier, le hasard, la peur d'un héritage sans forme. Elle comprenait maintenant que la forme existait. Qu'elle avait une écriture lente, ronde, appliquée. Qu'elle avait les cheveux courts. Qu'elle s'appelait Élise.
 
-Elle posa la main à plat sur son ventre. Elle la retira très vite, comme on retire la main d'une plaque chauffante.
+Elle posa la main sur son ventre. Elle la retira très vite, comme on retire la main d'une plaque chauffante.
 
 Elle ne pleura pas. Elle alla travailler. Elle oublia ses clés, revint les chercher, les oublia de nouveau dans la serrure de la voiture. À midi, au laboratoire, elle s'aperçut qu'elle était restée vingt minutes devant l'écran de télémétrie sans rien voir.
 
@@ -98,7 +98,7 @@ Le soir du 11, avant de se coucher, elle alluma la lampe verte de la cuisine, ou
 
 ---
 
-La réponse arriva le matin du 12. Elle tenait en quelques lignes, au bas de la page, et l'écriture noire, pour la première fois, n'était plus appliquée du tout. Elle penchait, elle courait, elle débordait, comme celle de quelqu'un qui écrit en pleurant et qui ne s'arrête pas pour essuyer.
+La réponse arriva le matin du 12. Elle tenait en quelques lignes, au bas de la page, et l'écriture noire n'était plus appliquée du tout. Elle penchait, elle courait, elle débordait, comme celle de quelqu'un qui écrit en pleurant et qui ne s'arrête pas pour essuyer.
 
 *Je n'aurais jamais osé te le demander. Je ne te l'aurais jamais demandé. Je voulais que tu le saches avant de lire la suite.*
 

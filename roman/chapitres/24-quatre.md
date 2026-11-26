@@ -32,7 +32,7 @@ Elle les nota, comme elle notait tout, dans le carnet à spirale de la table de 
 
 *Hier, au café, Étienne a ri, et j'ai tendu la main vers la sienne avant de réfléchir. Pas comme moi. Comme quelqu'un qui en a l'habitude. Comme quelqu'un qui le fait depuis des semaines.*
 
-Elle relut la dernière ligne plusieurs fois. Puis elle referma le carnet à spirale et alla se laver le visage à l'eau froide, longtemps.
+Elle relut la dernière ligne plusieurs fois. Puis elle referma le carnet à spirale et alla se laver le visage à l'eau froide.
 
 ---
 

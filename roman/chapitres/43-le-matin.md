@@ -18,7 +18,7 @@ Ils ne bougèrent pas. Ils restèrent allongés là, à se regarder, avec la sen
 
 — C'est fini ? demanda-t-il.
 
-Sophia ferma les yeux. Elle chercha au fond d'elle, à tâtons. Il y avait quelque chose. Pas quelqu'un : quelque chose. Une chaleur. Une fatigue immense et douce, comme après une très longue marche. Et sous la chaleur, encore éveillée, à peine, quelque chose qui attendait.
+Sophia ferma les yeux. Elle chercha au fond d'elle, à tâtons. Il y avait quelque chose. Pas quelqu'un : quelque chose. Une chaleur. Une fatigue immense et douce, comme après une très longue marche. Et sous la chaleur, encore éveillée, à peine, une présence qui attendait.
 
 — Pas encore, dit-elle.
 
@@ -191,7 +191,7 @@ Anselme ouvrit la porte après qu'ils eurent frappé. Deux fois. Il regarda sa f
 
 — Étienne, dit Étienne en tendant la main.
 
-Anselme la regarda un moment, cette main, comme on regarde un objet dont on ne connaît pas l'usage. Puis il la prit, et la serra, longtemps, trop longtemps, avec ses grandes mains tavelées, sans rien dire. Sophia vit ses yeux se mouiller. Elle ne sut jamais s'il avait reconnu quelque chose, une trace, un fantôme, l'homme qui pleurait à la porte d'une réserve cent onze ans plus tard, ou s'il était seulement un vieil homme qui serrait pour la première fois de sa vie la main d'un homme qui aimait sa fille.
+Anselme la regarda un moment, cette main, comme on regarde un objet dont on ne connaît pas l'usage. Puis il la prit, et la serra, longtemps, trop longtemps, avec ses grandes mains tavelées, sans rien dire. Sophia vit ses yeux se mouiller. Elle ne sut jamais s'il avait reconnu une trace, un fantôme, l'homme qui pleurait à la porte d'une réserve cent onze ans plus tard, ou s'il était seulement un vieil homme qui serrait pour la première fois de sa vie la main d'un homme qui aimait sa fille.
 
 Il mit de l'eau à chauffer. Cette fois, il demanda :
 
@@ -249,7 +249,7 @@ Elle quitta Vallorce le 20 décembre, avec Étienne, dans une voiture chargée j
 
 Corinne n'oubliait plus le nom de son chien. Florian avait retrouvé du travail à la scierie. On avait enterré Martine Pradel le 29 octobre, au cimetière du haut, celui qu'on n'avait pas noyé.
 
-Le test, Sophia l'avait fait la veille, dans la salle de bains de la maison vide, assise sur le rebord de la baignoire. Elle avait regardé les deux traits apparaître, l'un après l'autre. Elle n'avait pas été surprise. Par habitude, parce qu'elle comptait tout, elle avait commencé à compter les semaines sur ses doigts, depuis le début de novembre. Le six. Puis les jours d'après. Elle s'était arrêtée avant d'arriver au bout, avait refermé la main, et elle n'avait jamais rouvert ce calcul. Elle avait posé la main à plat sur son ventre, et elle avait dit à voix haute, dans la maison vide, au plancher, au radiateur, au carnet rangé dans le carton :
+Le test, Sophia l'avait fait la veille, dans la salle de bains de la maison vide, assise sur le rebord de la baignoire. Elle avait regardé les deux traits apparaître, l'un après l'autre. Elle n'avait pas été surprise. Par habitude, parce qu'elle comptait tout, elle avait commencé à compter les semaines sur ses doigts, depuis le début de novembre. Le six. Puis les jours d'après. Elle s'était arrêtée avant d'arriver au bout, avait refermé la main, et elle n'avait jamais rouvert ce calcul. Elle avait posé la main sur son ventre, et elle avait dit à voix haute, dans la maison vide, au plancher, au radiateur, au carnet rangé dans le carton :
 
 — Elle s'appellera Anne.
 

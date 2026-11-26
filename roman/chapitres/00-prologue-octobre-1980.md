@@ -56,7 +56,7 @@ Quelqu'un grogna dans le noir, se retourna sur sa paillasse. Elle plaqua les deu
 
 Elle ne savait plus son nom.
 
-Elle le chercha. Il était là, juste derrière quelque chose, comme un objet tombé derrière un meuble : elle en voyait la forme, la première lettre peut-être, mais pas le reste. Elle savait qu'elle venait de très loin. Elle savait qu'il y avait eu une galerie, une masse, une poussière rouge, de l'eau. Elle savait qu'elle avait frappé. Elle ne savait plus pourquoi.
+Elle le chercha. Il était là, comme un objet tombé derrière un meuble : elle en voyait la forme, la première lettre peut-être, mais pas le reste. Elle savait qu'elle venait de très loin. Elle savait qu'il y avait eu une galerie, une masse, une poussière rouge, de l'eau. Elle savait qu'elle avait frappé. Elle ne savait plus pourquoi.
 
 Elle sortit pieds nus dans la nuit.
 

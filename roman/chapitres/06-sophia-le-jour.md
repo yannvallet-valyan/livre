@@ -26,7 +26,7 @@ Elle s'était dit beaucoup de choses, ces dernières années.
 
 Elle s'était dit, à douze ans, au bord du lac de Paladru, quand sa mère lui avait tendu une petite fiole vide « pour garder un peu de l'été », qu'elle la remplirait d'eau et la jetterait en rentrant. Elle l'avait gardée. Puis une autre, l'année suivante, au lac d'Aiguebelette. Elle en avait maintenant quarante-trois, une par lac étudié, étiquetées à l'encre bleue, alignées sur une étagère. Elle ne savait pas très bien pourquoi. Elle disait que c'étaient des témoins.
 
-Elle s'était dit, à seize ans, en stage d'été dans un laboratoire de Grenoble, qu'elle pouvait rattraper l'éprouvette qui tombait de la paillasse. Elle avait posé la main gauche à plat sur une plaque chauffante. Il lui en restait une cicatrice en anneau, nacrée, autour du pouce, et une leçon qu'elle avait écrite le soir même dans son journal : *On ne rattrape pas ce qui tombe. On le mesure.*
+Elle s'était dit, à seize ans, en stage d'été dans un laboratoire de Grenoble, qu'elle pouvait rattraper l'éprouvette qui tombait de la paillasse. Elle avait posé la main gauche sur une plaque chauffante. Il lui en restait une cicatrice en anneau, nacrée, autour du pouce, et une leçon qu'elle avait écrite le soir même dans son journal : *On ne rattrape pas ce qui tombe. On le mesure.*
 
 Elle s'était dit, à vingt-neuf ans, en épousant Julien, ingénieur des eaux, gentil, sûr de lui, qu'elle finirait par vouloir ce qu'il voulait. Elle s'était dit, à trente-quatre, en signant les papiers du divorce dans un café de Grenoble, sans larmes et presque sans tristesse, que ce n'était pas une question d'amour. Il voulait un enfant. Elle avait dit non, puis encore non, sans réussir à expliquer pourquoi. La vraie raison, elle ne l'avait jamais dite à personne, parce qu'elle n'avait pas de forme : la peur de transmettre quelque chose. Quelque chose qui ne se voyait pas, qui ne se mesurait pas, qui venait de son père et dormait en elle.
 
@@ -76,7 +76,7 @@ Elle leva les yeux. Il ne la regardait pas : il regardait le lac.
 
 — Pour rien. Il fait lourd, la nuit, quand l'eau descend.
 
-Elle aurait voulu lui dire. *Je me réveille avec de la boue sous les pieds. J'ai un bleu que je ne me suis pas fait. Il y a un verre dans mon évier.* Mais elle pensa à la lettre de sa mère, rangée au fond de la boîte à chaussures. *Il ne dormait pas, ou alors il dormait autrement.* Et elle se tut. Elle avait trente-sept ans, et elle était une scientifique. Elle avait peur, pour la première fois de sa vie, d'avoir hérité de quelque chose qui ne se mesure pas.
+Elle aurait voulu lui dire. *Je me réveille avec de la boue sous les pieds. J'ai un bleu que je ne me suis pas fait. Il y a un verre dans mon évier.* Mais elle pensa à la lettre de sa mère, rangée au fond de la boîte à chaussures. *Il ne dormait pas, ou alors il dormait autrement.* Et elle se tut. Elle avait trente-sept ans, et elle était une scientifique. Elle avait peur d'avoir hérité de quelque chose qui ne se mesure pas.
 
 ---
 

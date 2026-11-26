@@ -120,7 +120,7 @@ def build(author, cover_path, out_path):
     # Pages liminaires
     texts["title.xhtml"] = page(TITLE, '<div class="titlepage"><h1>%s</h1><p class="sub">%s</p><p class="by">%s</p></div>' % (esc(TITLE), esc(SUBTITLE), esc(author)))
     year = datetime.date.today().year
-    texts["legal.xhtml"] = page("Informations", '<div class="legal"><p><em>%s</em></p><p>Texte de fiction. Toute ressemblance avec des personnes réelles serait fortuite.</p><p>© %d %s. Tous droits réservés.</p><p>Premier jet — édition numérique.</p></div>' % (esc(TITLE), year, esc(author)))
+    texts["legal.xhtml"] = page("Informations", '<div class="legal"><p><em>%s</em></p><p>Texte de fiction. Toute ressemblance avec des personnes réelles serait fortuite.</p><p>© %d %s. Tous droits réservés.</p><p>Édition numérique.</p></div>' % (esc(TITLE), year, esc(author)))
 
     for c in chapters:
         texts[c["id"] + ".xhtml"] = chapter_xhtml(c)

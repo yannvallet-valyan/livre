@@ -14,7 +14,7 @@ Tout le monde, autour d'elle, les portait courts : on ne pouvait plus se fier à
 
 Ce quelqu'un était assis devant elle, dans un fauteuil, près d'une fenêtre murée.
 
-Iris Varenne avait soixante et un ans. Elle était rouillée jusqu'au cœur depuis l'hiver. Elle passait ses journées dans ce fauteuil, les mains posées à plat sur ses cuisses, et elle regardait le mur de parpaings comme on regarde un paysage. On la nourrissait à la cuillère. Elle ne parlait presque plus.
+Iris Varenne avait soixante et un ans. Elle était rouillée jusqu'au cœur depuis l'hiver. Elle passait ses journées dans ce fauteuil, les mains posées à plat sur ses cuisses, et elle regardait le mur de parpaings comme un paysage. On la nourrissait à la cuillère. Elle ne parlait presque plus.
 
 Élise posa sur ses genoux une vieille ardoise, une ardoise d'enfant, retrouvée au fond d'un placard. Dessus, une maison, un soleil, une silhouette aux longs cheveux, avec un petit point de craie au coin de l'œil. Personne ne l'avait jamais effacée.
 
@@ -114,7 +114,7 @@ S'éteignit. Se ralluma. S'éteignit.
 
 Se ralluma, et ne bougea plus.
 
-Élise s'attarda devant la vitre, la main à plat sur le carreau froid. Elle pensa à un vieil homme qu'elle ne connaissait pas, qui l'attendait peut-être, quelque part dans la nuit. Elle pensa qu'il y avait peut-être, là-haut, dans ce vieil homme, quelqu'un qui savait exactement ce qu'elle allait faire, et qui l'avait déjà fait, et qui ne pouvait pas l'en empêcher.
+Élise s'attarda devant la vitre, la main contre le carreau froid. Elle pensa à un vieil homme qu'elle ne connaissait pas, qui l'attendait peut-être, quelque part dans la nuit. Elle pensa qu'il y avait peut-être, là-haut, dans ce vieil homme, quelqu'un qui savait exactement ce qu'elle allait faire, et qui l'avait déjà fait, et qui ne pouvait pas l'en empêcher.
 
 Elle pensa qu'elle délirait.
 

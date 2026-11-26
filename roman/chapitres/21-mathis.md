@@ -6,11 +6,11 @@ Mathis Delorme avait neuf ans, des lunettes rafistolées au scotch, et la convic
 
 Il ne dormait pas beaucoup. Il n'avait plus jamais bien dormi depuis ses trois ans, depuis l'après-midi d'été où il avait échappé à sa mère sur la grève et où on l'avait repêché, bleu et souriant, au pied du barrage, dans une eau qui ne lui arrivait pas aux genoux. Sa mère avait consulté trois médecins quand il était petit, puis elle avait renoncé : Mathis se couchait à neuf heures, se réveillait vers minuit, et passait deux ou trois heures assis devant la fenêtre de sa chambre, sous la couette, à regarder le village dormir. Il ne faisait pas de bruit. Il ne se plaignait pas. Puis, vers une heure, il se rendormait, et le matin sa mère le retrouvait parfois roulé en boule au pied du lit, contre le mur mitoyen, les jointures des doigts rouges et écorchées, sans qu'il sache dire pourquoi.
 
-Sophia le savait vaguement, comme on sait ces choses sur les enfants des voisins. Elle ne s'en était jamais souciée. Jusqu'au lundi où Mathis frappa à sa porte, un après-midi de vacances, sa boîte à chaussures sous le bras.
+Sophia le savait vaguement, par Corinne. Elle ne s'en était jamais souciée. Jusqu'au lundi où Mathis frappa à sa porte, un après-midi de vacances, sa boîte à chaussures sous le bras.
 
 — Bonjour, dit-il. Je peux te dire un truc ?
 
-Elle le fit entrer. Elle lui servit un verre de jus de pomme, qu'il but en entier, sérieusement, avant de poser le verre sur la table avec soin, comme on pose une pièce sur un échiquier.
+Elle le fit entrer. Elle lui servit un verre de jus de pomme, qu'il but en entier, sérieusement, avant de poser le verre sur la table avec soin, comme une pièce sur un échiquier.
 
 — La nuit, dit-il, quand je me réveille, je regarde ta fenêtre. Tu es dans la cuisine. Tu écris.
 
@@ -60,7 +60,7 @@ Le caillou resta sur la table de la cuisine, à côté du carnet. Le lendemain m
 
 Le lendemain, elle l'emmena ramasser des cailloux.
 
-Ce fut Corinne qui le proposa, épuisée, entre deux clientes, en lui tendant le petit garçon par la main comme on tend un paquet : *Tu veux bien l'occuper une heure ? Avec les vacances, il ne tient pas en place, et moi je ne tiens plus debout.* Sophia n'avait jamais gardé d'enfant. Elle dit oui.
+Ce fut Corinne qui le proposa, épuisée, entre deux clientes, en lui tendant le petit garçon par la main : *Tu veux bien l'occuper une heure ? Avec les vacances, il ne tient pas en place, et moi je ne tiens plus debout.* Sophia n'avait jamais gardé d'enfant. Elle dit oui.
 
 Ils descendirent sur la grève par le chemin du lac. Mathis marchait devant, son anorak bleu marine ouvert sur un pull à motif de fusées, sa boîte à chaussures sous le bras. Il ne parlait pas. Il regardait par terre, avec une concentration de géologue. De temps en temps, il s'accroupissait, ramassait un galet, le retournait, le tenait contre la lumière grise, et le reposait, ou le mettait dans sa boîte. Il ne prenait jamais plus d'un caillou sur dix.
 
@@ -88,7 +88,7 @@ Sophia pensa à son propre père, en haut, dans la cabine, qui faisait chauffer 
 
 — Je crois que les gens qui partent pensent à ceux qu'ils ont laissés beaucoup plus qu'on ne le croit, dit-elle. Ils ne savent pas comment le dire. Alors ils ne disent rien. Et ça a l'air de la même chose que d'oublier, mais ce n'est pas la même chose.
 
-Mathis réfléchit longtemps.
+Mathis réfléchit.
 
 — Comme la dame qui dort tout au fond, dans ton papa, dit-il. Elle dit rien. Mais elle oublie pas.
 

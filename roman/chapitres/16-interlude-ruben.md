@@ -4,7 +4,7 @@
 
 Après les deux départs, il n'y avait plus personne pour Iris.
 
-Ruben s'en aperçut le troisième jour, en passant par le dortoir B pour aller réviser la lampe du couloir. La petite était assise par terre, entre deux lits, comme toujours, avec son ardoise et sa craie. Personne n'était assis à un mètre d'elle. La place où Élise s'asseyait, les mains à plat sur les cuisses, était vide. Le lit en trop, contre le mur, celui que personne n'avait jamais attribué, était vide aussi, et il le resterait.
+Ruben s'en aperçut le troisième jour, en passant par le dortoir B pour aller réviser la lampe du couloir. La petite était assise par terre, entre deux lits, comme toujours, avec son ardoise et sa craie. Personne n'était assis à un mètre d'elle. La place où Élise s'asseyait était vide. Le lit en trop, contre le mur, celui que personne n'avait jamais attribué, était vide aussi, et il le resterait.
 
 Les éducatrices faisaient ce qu'elles pouvaient. Elles avaient trente enfants pour quatre adultes, et la moitié des enfants oubliaient chaque matin le prénom des éducatrices. Iris n'était pas un cas particulier. Iris était une enfant de plus dont les parents étaient « partis devant ».
 

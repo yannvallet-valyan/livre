@@ -122,6 +122,6 @@ Elle partit sans ordonnance. Sur le pas de la porte, il la rappela.
 
 — Pas encore.
 
-Il hocha la tête, lentement. Puis il regarda sa propre main droite, posée sur la poignée, et elle vit qu'il y avait une tache d'encre noire sur la phalange de son majeur. Il la regardait comme on regarde une main étrangère.
+Il hocha la tête, lentement. Puis il regarda sa propre main droite, posée sur la poignée, et elle vit qu'il y avait une tache d'encre noire sur la phalange de son majeur. Il la regardait comme une main étrangère.
 
 — Moi non plus, dit-il.

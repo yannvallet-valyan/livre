@@ -66,7 +66,7 @@ Elle pensa : *c'est moi qui le lui ai appris.*
 
 — Nous ne savons pas, dit-il. Celles qui font autrement ne tombent pas jusqu'ici. Nous ne connaissons que celles qui brisent.
 
-Il hésita, puis ajouta, plus bas, comme on avoue une chose dont on a honte pour quelqu'un d'autre :
+Il hésita, puis baissa la voix :
 
 — Il y a un tour dont nous nous souvenons à peine. Comme d'un rêve qu'on aurait fait quelqu'un d'autre. Un tour où vous n'avez pas tenu, l'homme aux étoiles et toi. Une nuit d'octobre trop froide. Une cuisine. Les règles, toutes, l'une après l'autre. Au matin, elle s'est réveillée dans un lit qu'elle n'avait pas choisi. Elle a eu peur. Elle a quitté le docteur, la vallée, tout. Il n'y a pas eu d'Anne. Ce n'est pas d'avoir été aimée à sa place qui l'a fait fuir. C'est de ne pas avoir été consultée.
 
@@ -104,7 +104,7 @@ Le vieil homme leva la tête.
 
 — Ma fille. Ta fille. Notre… C'est elle qui l'a dessiné. La maison, le soleil, et moi devant. Elle s'appelle Iris.
 
-Anselme la regarda sans comprendre. Puis quelque chose bougea sur son visage, quelque chose de très lointain qui remontait du fond d'un puits. Ses lèvres formèrent le nom sans le prononcer. Puis il le prononça, une fois, très bas, comme on rend un objet qu'on a cherché pendant des années.
+Anselme la regarda sans comprendre. Puis son visage bougea, comme si une chose très lointaine remontait du fond d'un puits. Ses lèvres formèrent le nom sans le prononcer. Puis il le prononça, une fois, très bas, comme on rend un objet qu'on a cherché pendant des années.
 
 — Iris.
 
