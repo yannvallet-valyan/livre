@@ -49,7 +49,7 @@ Elle ne bougea pas. Elle resta derrière la porte, la main sur la bouche, jusqu'
 
 ---
 
-Ça dura trois ans.
+Ça dura un peu plus de deux ans.
 
 Il y avait les nuits normales, et il y avait les autres. Les nuits où il se levait. Où il comptait à la table de la cuisine, jusqu'à soixante, et recommençait. Où il descendait au lac, pieds nus, en plein hiver, et revenait avec de la vase jusqu'aux genoux. Où il écrivait dans un carnet à spirale des noms qu'elle ne connaissait pas, *Iris*, *Noé*, *Oriane*, et des colonnes de chiffres avec des dates qui n'existaient pas encore : *14/11/2026*, *407,20*.
 

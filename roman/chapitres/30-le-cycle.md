@@ -4,7 +4,7 @@
 
 Élise se réveilla dans un lit qu'elle ne connaissait pas, contre un corps qui respirait.
 
-Elle ne bougea pas. Elle compta. À vingt, elle sut où elle était, ou plutôt elle sut qu'elle ne le savait pas. Il y avait la pluie sur un toit en pente, juste au-dessus. Il y avait une odeur de lessive, de peau, de quelque chose de tiède. Il y avait sa tête, celle de Sophia, posée sur une épaule d'homme, et sa main, celle de Sophia, posée à plat sur une poitrine qui se soulevait lentement.
+Elle ne bougea pas. Elle compta. À vingt, elle sut où elle était, ou plutôt elle sut qu'elle ne le savait pas. Il y avait la pluie sur un toit en pente, juste au-dessus. Il y avait une odeur de lessive et de peau tiède. Il y avait sa tête, celle de Sophia, posée sur une épaule d'homme, et sa main, celle de Sophia, posée sur une poitrine qui se soulevait lentement.
 
 À quarante, elle comprit.
 
@@ -130,7 +130,7 @@ Le nœud éclata. Pas comme une pierre : comme du sucre, comme le Conseil l'avai
 
 Quelque part, en haut des marches, une voix d'homme cria son nom.
 
-Puis il n'y eut plus de galerie. Plus de Sophia. Plus rien qu'une chute, longue, interminable, à travers quelque chose de noir et d'épais, comme on tombe dans un puits rempli de laine. Elle tombait et elle savait qu'elle tombait vers le bas, *vers l'arrière*, vers le seul endroit où le fil était encore attaché.
+Puis il n'y eut plus de galerie. Plus de Sophia. Plus rien qu'une chute, longue, interminable, à travers une nuit noire et épaisse, comme on tombe dans un puits rempli de laine. Elle tombait et elle savait qu'elle tombait vers le bas, *vers l'arrière*, vers le seul endroit où le fil était encore attaché.
 
 ---
 
@@ -150,7 +150,7 @@ Et de nouveau.
 
 C'était toujours la même scène, et ce n'était jamais tout à fait la même. Parfois, elle frappait à trois heures, parfois à quatre. Parfois l'homme qui criait son nom était dans l'escalier, parfois déjà dans la galerie, la main tendue, trop tard, toujours trop tard, d'une seconde, d'un souffle. Parfois elle pleurait, parfois non. Une fois, elle frappa en riant.
 
-Et à chaque fois, la poussière arrivait un peu plus tôt dans le monde. Elle le voyait, comme on voit en accéléré une tache d'encre s'étendre sur un buvard : les premiers oublis, les noms des chiens, les codes, les visages. Janvier 2027. Décembre 2026. Novembre. *Octobre.* À chaque tour, la Rouille avançait de quelques semaines, comme une marée qui monte un peu plus haut à chaque vague.
+Et à chaque fois, la poussière arrivait un peu plus tôt dans le monde. Elle le voyait, comme une tache d'encre qui s'étend, en accéléré, sur un buvard : les premiers oublis, les noms des chiens, les codes, les visages. Janvier 2027. Décembre 2026. Novembre. *Octobre.* À chaque tour, la Rouille avançait de quelques semaines, comme une marée qui monte un peu plus haut à chaque vague.
 
 Elle comprit, au milieu de la chute, ce qui aurait dû être évident depuis le premier jour. Le rapport d'ingénierie du dossier gris, si sec, si précis : *Rupture d'un échantillon minéral non identifié. Dispersion de particules dans le réservoir.* Elle l'avait lu cent fois. Elle ne s'était jamais demandé qui avait brisé l'échantillon.
 

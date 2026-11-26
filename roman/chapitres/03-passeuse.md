@@ -44,7 +44,7 @@ La mission tenait en une phrase, et c'est Oriane qui la prononça, le sixième j
 
 — Qui l'a écrite, cette page ?
 
-Oriane hésita, et c'était si rare de la voir hésiter qu'Élise s'en souvint longtemps.
+Oriane hésita, et c'était si rare de la voir hésiter qu'Élise ne l'oublia pas.
 
 — Quelqu'un qui l'a touché, dit-elle. Quelqu'un qui y était. Nous n'en savons pas plus.
 
@@ -89,7 +89,7 @@ Le dernier matin, elle ouvrit le registre rouge.
 
 C'était un cahier d'écolier à la couverture fanée, dont son père avait recopié les premières pages d'une écriture de réparateur de lampes, carrée, sans fioritures. Des noms, des dates, des flèches. *Sophia VARENNE, née en 1988. Anne VARENNE, née le 3 août 2027 à Lyon, de Sophia Varenne et de père non dénommé. Jeanne…* Plus bas, la main changeait : c'était celle de Paul, puis celle d'Élise, à dix ans, qui avait recopié tout le cahier pour apprendre.
 
-À la dernière ligne écrite, il y avait : *Iris VARENNE, née en 2130 au refuge, de Élise Varenne et de* — et un blanc. Élise avait laissé le blanc il y a sept ans, en pensant le remplir plus tard. Elle ne se rappelait plus pourquoi elle ne l'avait pas fait.
+À la dernière ligne écrite, il y avait : *Iris VARENNE, née en 2130 au refuge, de Élise Varenne et de* — et un blanc. Il y avait eu un nom, à cet endroit. Élise l'avait écrit au crayon, sept ans plus tôt, comme tout ce qu'on écrivait au refuge, en attendant d'avoir de l'encre. Le crayon s'était effacé sous les doigts, à force de tourner les pages. Quand elle s'en était aperçue, elle ne savait plus quel nom il y avait eu là.
 
 Elle prit le crayon. Sous son propre nom, elle écrivit : *Partie le 15 septembre 2137.* Elle hésita. Elle ne savait pas quoi écrire d'autre. *Pour* ? *Vers* ? Elle laissa la ligne ainsi, ouverte, comme le blanc à côté du nom d'Iris.
 

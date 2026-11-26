@@ -4,15 +4,13 @@
 
 Hugo Marle arriva le samedi 7 novembre, à midi, au volant d'une petite voiture rouge cabossée qui avait appartenu à sa mère.
 
-Étienne ne l'attendait pas. Il ouvrit la porte en robe de chambre, les cheveux en bataille, les pieds bandés, et resta un moment sur le seuil sans comprendre, comme on reste devant quelqu'un qu'on aime trop pour avoir pensé à l'imaginer là.
+Étienne ne l'attendait pas. Il ouvrit la porte en robe de chambre, les cheveux en bataille, et resta un moment sur le seuil sans comprendre, comme on reste devant quelqu'un qu'on aime trop pour avoir pensé à l'imaginer là.
 
-— Tu avais une voix bizarre, au téléphone, dit Hugo. Dimanche dernier. Tu parlais de quelqu'un qui écrit dans ton tiroir. Alors j'ai séché mes cours. Je suis là pour le week-end. Pourquoi tu as les pieds bandés ?
+— Tu avais une voix bizarre, au téléphone, dit Hugo. Dimanche dernier. Tu parlais de quelqu'un qui écrit dans ton tiroir. Alors j'ai pris la voiture. Je suis là pour le week-end. Tu as une tête de déterré.
 
-— Je me suis coupé, dit Étienne.
+— Je dors mal, dit Étienne.
 
-— Sur quoi ?
-
-— Je ne sais pas.
+— Ça, je vois.
 
 Hugo dévisagea son père. Il avait dix-neuf ans, une tête de plus que lui, une barbe naissante qui ne prenait pas, la carrure maigre et nerveuse de ceux qui passent leurs week-ends accrochés à des falaises. Il avait les yeux de Claire. Étienne avait toujours du mal à le regarder en face, à cause de ça, et il s'en voulait.
 
@@ -70,7 +68,7 @@ Hugo descendit sur la grève. Il ramassa un galet, le soupesa, le lança vers la
 
 — C'est le barrage, dit Sophia trop vite. Les turbines. On ne les entend plus, quand on vit ici.
 
-Hugo hocha la tête. Il ne parut pas convaincu. Il continua de regarder le pied du mur, longtemps, avec une expression rêveuse, presque tendre, que Sophia avait déjà vue quelque part. Elle mit plusieurs secondes à se rappeler où : sur le visage de Martine Pradel, retournée sur le dos dans la vase, les yeux ouverts.
+Hugo hocha la tête. Il ne parut pas convaincu. Il continua de regarder le pied du mur avec une expression rêveuse, presque tendre, que Sophia avait déjà vue quelque part. Elle mit plusieurs secondes à se rappeler où : sur le visage de Martine Pradel, retournée sur le dos dans la vase, les yeux ouverts.
 
 — Rentrons, dit-elle. Il fait froid.
 

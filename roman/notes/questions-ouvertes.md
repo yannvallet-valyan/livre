@@ -73,3 +73,14 @@
 - `19-le-cahier-noir` : « Tour 47. J + 44 » = 29 octobre, alors que Martine Pradel, vivante dans la scène, est retrouvée morte le 25. Proposition : « J + 37 ».
 - `41-interlude-iris` : le registre rouge porte « *Noé Marle.* » alors que Ruben n'a écrit que « *Noé.* » (`16`). Proposition : « *Noé.* » dans `41`, le nom Marle venant des registres de départ du Conseil.
 - `15-les-lentilles` : « une semaine plus tard » (recette trouvée) vs `24-quatre` : « un mardi » (voir point 2.3).
+
+
+## Relecture V3.2 (analyse externe, appliquée)
+
+- **Chronologie :** post-it lu le jeudi 24 sept. ; bloc d'octobre refait en ordre de lecture (Mathis le lundi 26, pendant les vacances de la Toussaint ; grève et cabine le mardi 27 ; registres du 27 au 29 ; collage le samedi 31 ; « Quatre » du lundi 26 au samedi 31). Détail dans `bible/chronologie.md` §0.12.
+- **Contradictions corrigées :** Mme Pradel retirée des volontaires qui « vont aller mieux » ; avertissement d'Anselme retiré du ch. 15 ; pieds d'Étienne non bandés avant la nuit d'Hugo ; pensée de Noé (il devine la troisième porte) ; blanc du registre (nom écrit au crayon, effacé) ; Mathis à sa fenêtre et non dehors ; murs de 2146 ; cahier de Mathis (dates arrêtées au 14 novembre) ; boucle (la démonstration est un essai nouveau ; le tour sans Passeuse est connu par le cristal).
+- **Détails :** Sophia a deux ans en 1991 ; laboratoire construit au printemps ; phrase orpheline du ch. 8 supprimée ; « en deçà du pont » ; cicatrice notée dans la page du 4 octobre ; Inès et Florian Besson ; 2137 et quarante-six ans ; « ta mère, Anselme » ; **Gilles** Ménard ; nuit sans lune ; « depuis un mois » ; mot glissé sous la porte ; six semaines ; le thé de trente-cinq ans ; Sophia compte depuis l'automne ; plans de 1958 ; Anselme manœuvre en 1980 ; « avant-hier » ; marche glissante ; Anne six ans ; Anselme pleure seul dans l'annexe.
+- **Redites coupées :** Anne et « père non dénommé » (ch. 36) ; le tour aux règles brisées (ch. 31).
+- **Style :** « comme on » 81 → 58, « quelque chose » 79 → 56, « longtemps » 58 → 39, « à plat sur » 28 → 19, « pour la première fois » 24 → 16. La main levée (« comme on salue quelqu'un qu'on attendait ») est conservée.
+- **Annexe raccourcie** (≈ 40 % de moins), sans perte d'amorce : nuit du 13, ligne raturée, Léa, 1958, tour 48, « qui, de nous tous, a commencé ? ».
+- **EPUB :** « Premier jet » retiré de la page légale. **Reste à faire :** nom de l'auteur (actuellement « L'auteur ») ; retrait des marques `*(premier jet)*` des fichiers source à la version finale.

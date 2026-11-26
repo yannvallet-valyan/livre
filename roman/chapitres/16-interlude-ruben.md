@@ -4,7 +4,7 @@
 
 Après les deux départs, il n'y avait plus personne pour Iris.
 
-Ruben s'en aperçut le troisième jour, en passant par le dortoir B pour aller réviser la lampe du couloir. La petite était assise par terre, entre deux lits, comme toujours, avec son ardoise et sa craie. Personne n'était assis à un mètre d'elle. La place où Élise s'asseyait, les mains à plat sur les cuisses, était vide. Le lit en trop, contre le mur, celui que personne n'avait jamais attribué, était vide aussi, et il le resterait.
+Ruben s'en aperçut le troisième jour, en passant par le dortoir B pour aller réviser la lampe du couloir. La petite était assise par terre, entre deux lits, comme toujours, avec son ardoise et sa craie. Personne n'était assis à un mètre d'elle. La place où Élise s'asseyait était vide. Le lit en trop, contre le mur, celui que personne n'avait jamais attribué, était vide aussi, et il le resterait.
 
 Les éducatrices faisaient ce qu'elles pouvaient. Elles avaient trente enfants pour quatre adultes, et la moitié des enfants oubliaient chaque matin le prénom des éducatrices. Iris n'était pas un cas particulier. Iris était une enfant de plus dont les parents étaient « partis devant ».
 
@@ -64,7 +64,7 @@ Oriane le jaugea de ses yeux trop clairs. Elle ne demanda pas pourquoi. Elle lui
 
 Il ouvrit le cahier d'écolier à la dernière page écrite. Il lut, de la main d'Élise : *Iris VARENNE, née en 2130 au refuge, de Élise Varenne et de* — et le blanc. Il lut, en dessous, d'une écriture plus récente, plus serrée : *Élise VARENNE. Partie le 15 septembre 2137.* Et rien après.
 
-Il prit un crayon. Il hésita longtemps, la mine au-dessus du blanc, au-dessus de la place qu'une mère avait laissée sept ans plus tôt pour un nom qu'elle n'arrivait plus à écrire.
+Il prit la plume et l'encre du Conseil. Il hésita, la plume au-dessus du blanc, à l'endroit où une mère avait écrit un nom au crayon, sept ans plus tôt, et où il ne restait rien.
 
 Puis il écrivit, de son écriture de technicien, appliquée, avec des lettres bien détachées :
 

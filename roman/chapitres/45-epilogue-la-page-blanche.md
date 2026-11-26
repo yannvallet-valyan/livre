@@ -48,7 +48,7 @@ Elle n'en parlait pas. Elle pensait que c'était de famille, comme le front trop
 
 ---
 
-Le carnet était dans l'armoire de famille, au fond de la salle des archives, derrière une vitre fermée à clé. La bibliothèque y gardait les objets que les vieilles familles de la vallée lui avaient confiés : une montre de gousset, un registre de baptêmes, une paire de lunettes rafistolée au scotch, léguée en 2108 par un certain Mathis Delorme, arrière-grand-père de la famille, avec une boîte de cailloux du lac et un cahier d'écolier où il avait noté, de 2026 à sa mort, la date de chaque nuit où il s'était réveillé contre le mur, les doigts écorchés. Une page de 2059, d'une écriture de vieil homme, ne parlait pas de lui : *Jeanne, sept ans. Cette nuit, elle a frappé contre le mur de sa chambre. Elle s'est arrêtée à cinquante-neuf.* Une boîte de petites fioles de verre, étiquetées à l'encre bleue d'une écriture serrée, *Annecy*, *Bourget*, *Vassivière*, *Vallorce*, pleines d'une eau qui s'était évaporée depuis longtemps. Et le carnet.
+Le carnet était dans l'armoire de famille, au fond de la salle des archives, derrière une vitre fermée à clé. La bibliothèque y gardait les objets que les vieilles familles de la vallée lui avaient confiés : une montre de gousset, un registre de baptêmes, une paire de lunettes rafistolée au scotch, léguée en 2108 par un certain Mathis Delorme, arrière-grand-père de la famille, avec une boîte de cailloux du lac et un cahier d'écolier où il avait noté, à partir de 2026, la date de chaque nuit où il s'était réveillé contre le mur, les doigts écorchés. Les dates s'arrêtaient le 14 novembre 2026. Ensuite, à des années d'intervalle, il n'avait plus noté que les nuits des autres. Une page de 2059, d'une écriture d'homme mûr, ne parlait pas de lui : *Jeanne, sept ans. Cette nuit, elle a frappé contre le mur de sa chambre. Elle s'est arrêtée à cinquante-neuf.* Une boîte de petites fioles de verre, étiquetées à l'encre bleue d'une écriture serrée, *Annecy*, *Bourget*, *Vassivière*, *Vallorce*, pleines d'une eau qui s'était évaporée depuis longtemps. Et le carnet.
 
 Une couverture grise, usée, ramollie par les mains. Des pages couvertes de deux encres, une bleue et une noire, dans une écriture qui était la même et qui ne l'était pas.
 
@@ -64,7 +64,7 @@ Avant de partir, comme chaque samedi, elle descendit au sous-sol.
 
 Elle n'avait pas le droit d'y aller seule. Elle y allait quand même, par l'escalier de service, celui qui sentait l'eau. En bas, au bout du couloir, entre la réserve des chaises et la chaufferie, il y avait le mur de béton plus lisse que les autres, et la plaque de cuivre. *Galerie technique, niveau –3. Obturée le 14 novembre 2026. Ne pas rouvrir.*
 
-Elle posa les deux mains à plat sur le béton, comme on pose les mains sur le ventre d'une femme enceinte. Elle colla l'oreille contre la paroi. Elle resta ainsi, les yeux fermés.
+Elle posa les deux mains sur le béton, comme sur le ventre d'une femme enceinte. Elle colla l'oreille contre la paroi. Elle resta ainsi, les yeux fermés.
 
 Un gardien la trouva là, un jour. Il lui demanda ce qu'elle faisait. Elle répondit, très sérieusement :
 
@@ -72,7 +72,7 @@ Un gardien la trouva là, un jour. Il lui demanda ce qu'elle faisait. Elle répo
 
 Le gardien rit. Il colla l'oreille contre le béton, lui aussi, pour lui faire plaisir. Il n'entendit que le ronronnement de la chaufferie. Il la ramena à sa mère en lui disant que la petite avait beaucoup d'imagination.
 
-Iris le remercia. Ce soir-là, pour la première fois, elle descendit elle-même au sous-sol, après la fermeture, et elle colla l'oreille contre le béton. Elle n'entendit rien. Elle resta pourtant une heure, assise par terre, le dos contre le mur, sans savoir ce qu'elle attendait.
+Iris le remercia. Ce soir-là, elle descendit elle-même au sous-sol, après la fermeture, et elle colla l'oreille contre le béton. Elle n'entendit rien. Elle resta pourtant une heure, assise par terre, le dos contre le mur, sans savoir ce qu'elle attendait.
 
 ---
 
@@ -118,7 +118,7 @@ Elle lut une bibliothèque sous une ville, sans fenêtres, où l'on lisait des r
 
 Elle ne comprit pas tout. Elle comprit assez.
 
-Elle comprit que les nuits de sa fille n'étaient pas des rêves. Que quelqu'un, très loin derrière, dans la lignée, avait laissé quelque chose dans le sang, et que ce quelque chose remontait chez Élise la nuit, avec ses noms, ses barrages, sa galerie, son ordre de briser.
+Elle comprit que les nuits de sa fille n'étaient pas des rêves. Que quelqu'un, très loin derrière, dans la lignée, avait laissé une trace dans le sang, et que cette trace remontait chez Élise la nuit, avec ses noms, ses barrages, sa galerie, son ordre de briser.
 
 Et entre deux pages noires, collée à l'adhésif jauni, elle trouva une plaquette en papier glacé, à l'en-tête d'une fondation qui n'existait plus.
 

@@ -10,7 +10,7 @@ La nuit du 16 octobre, le vent tourna au nord. Il descendit de la crête comme u
 
 — Où, alors ?
 
-Il hésita longtemps. Elle vit sa mâchoire se crisper, comme lorsqu'on s'apprête à dire une chose qu'on s'était interdite.
+Il hésita. Elle vit sa mâchoire se crisper, comme lorsqu'on s'apprête à dire une chose qu'on s'était interdite.
 
 — Chez lui, dit-il. La cuisine. Juste la cuisine.
 
@@ -38,7 +38,7 @@ Elles étaient trop salées.
 
 Exactement trop salées. Exactement comme elle les aimait. Exactement comme les lentilles qu'elle trouvait chaque midi au réfectoire du refuge, à sa place, depuis deux ans, sans savoir d'où elles venaient.
 
-Elle reposa la cuillère. Elle sentit monter dans sa gorge une chose sans nom, sans souvenir, une chose qui venait de beaucoup plus bas que la mémoire, et elle se mit à pleurer. Pas un sanglot. Juste des larmes qui coulaient toutes seules sur les joues de Sophia, sans bruit, pendant qu'elle restait assise, le dos droit, les mains à plat sur les cuisses.
+Elle reposa la cuillère. Elle sentit monter dans sa gorge une chose sans nom, sans souvenir, une chose qui venait de beaucoup plus bas que la mémoire, et elle se mit à pleurer. Pas un sanglot. Juste des larmes qui coulaient toutes seules sur les joues de Sophia, sans bruit, pendant qu'elle restait assise, le dos droit, immobile.
 
 Sacha ne bougea pas.
 
@@ -118,7 +118,7 @@ Il se retourna. Il la regarda, de l'autre bout de la cuisine. Elle détourna les
 
 ---
 
-Avant de partir, il prit sur le buffet un bloc d'ordonnances et un stylo noir. Il écrivit quelque chose, plia la feuille en quatre et la lui tendit, en la tenant par le coin, pour que leurs doigts ne se touchent pas.
+Avant de partir, il prit sur le buffet un bloc d'ordonnances et un stylo noir. Il écrivit quelques lignes, plia la feuille en quatre et la lui tendit, en la tenant par le coin, pour que leurs doigts ne se touchent pas.
 
 Elle la déplia sur le chemin du retour, sous la lampe de la rue des Fontaines.
 

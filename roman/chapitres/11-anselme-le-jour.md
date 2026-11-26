@@ -4,7 +4,7 @@
 
 Anselme Roch se réveillait tous les matins à six heures, dans le fauteuil, avec de la poussière de crayon sous les ongles.
 
-Il ne se rappelait pas s'être assis dans le fauteuil. Il se couchait chaque soir sur le lit de camp, à dix heures, après le bulletin météo de la radio, et chaque matin il se retrouvait là, face à la fenêtre et au lac, une couverture sur les genoux qu'il n'avait pas dépliée, les mains posées à plat sur les cuisses. Il avait arrêté de s'en étonner vers 1995. Il avait arrêté de s'en inquiéter un peu plus tard. Il se levait, il allait se laver les mains à l'évier, il frottait longtemps le gris sous ses ongles avec une brosse à chiendent, et il ne regardait pas le mur.
+Il ne se rappelait pas s'être assis dans le fauteuil. Il se couchait chaque soir sur le lit de camp, à dix heures, après le bulletin météo de la radio, et chaque matin il se retrouvait là, face à la fenêtre et au lac, une couverture sur les genoux qu'il n'avait pas dépliée, les mains posées à plat sur les cuisses. Il avait arrêté de s'en étonner vers 1995. Il avait arrêté de s'en inquiéter un peu plus tard. Il se levait, il allait se laver les mains à l'évier, il frottait le gris sous ses ongles avec une brosse à chiendent, et il ne regardait pas le mur.
 
 Il y avait toujours un dessin de plus sur le mur. Il le savait sans le voir, comme on sait qu'il a neigé dans la nuit à la qualité du silence. Il avait appris à ne pas les regarder. On n'examine pas ses propres cicatrices. S'il les regardait, il se mettait à compter, et il ne savait pas s'arrêter.
 

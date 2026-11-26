@@ -8,7 +8,7 @@
 
 — Alors c'est plus facile.
 
-C'était la nuit du 9 au 10 novembre. Il ne restait que quatre nuits. Ils étaient assis sur le parapet, au milieu du barrage, à un mètre l'un de l'autre, comme au début. Ils avaient repris le mètre sans en parler, après le lavoir, après les mots *je suis le père d'Iris*. Ce n'était plus une règle. C'était une pudeur. Elle ne savait pas comment on se tient près d'un homme qu'on a aimé huit ans et qu'on rencontre pour la troisième fois.
+C'était la nuit du 9 au 10 novembre. Il ne restait que quatre nuits. Ils étaient assis sur le parapet, au milieu du barrage, à un mètre l'un de l'autre, comme au début. Ils avaient repris le mètre sans en parler, après le lavoir, après les mots *je suis le père d'Iris*. Ce n'était plus une règle. C'était une pudeur. Elle ne savait pas comment on se tient près d'un homme qu'on a aimé huit ans et qu'on ne connaît, dans sa mémoire, que depuis un mois.
 
 Il avait les pieds bandés dans les chaussures d'Étienne. Il ne lui avait pas encore raconté Hugo. Il le lui raconterait plus tard. Ce soir, elle lui avait demandé autre chose.
 
@@ -56,7 +56,7 @@ Il raconta la nuit de la naissance, dans le dortoir B, pendant une coupure de la
 
 — Elle était si légère, dit-il. Elle tenait dans une main. Elle avait déjà le front trop grand. Et elle serrait les poings sous le menton.
 
-Il se tut. Élise ne dit rien. Elle avait les mains posées à plat sur ses cuisses, et elle serrait les doigts si fort que les ongles de Sophia lui entraient dans les paumes.
+Il se tut. Élise ne dit rien. Elle avait les mains sur les cuisses, et elle serrait les doigts si fort que les ongles de Sophia lui entraient dans les paumes.
 
 ---
 
@@ -84,9 +84,7 @@ Ils se turent. Orion se leva au-dessus de la crête, le chasseur penché, et ils
 
 — Il y a quelque chose que je dois te dire, dit Élise. Anselme me l'a dit. La nuit où il m'a montré.
 
-Elle lui raconta. L'autre tour, il y avait longtemps, un tour que les Élise de la cabine se rappelaient à peine, comme un rêve. Une nuit d'octobre trop froide, comme la leur. Une cuisine. Les règles brisées, toutes, l'une après l'autre. Une Sophia qui s'était réveillée le matin dans le lit d'un homme qu'elle n'avait pas choisi, qui avait eu peur, qui avait fui Étienne, Vallorce, tout. Pas d'Anne. Personne de 2137, ce tour-là. Pas d'Élise pour venir. Le cristal qui avait attendu seul dans le noir, et la Rouille qui était venue quand même, plus tard, autrement, par d'autres mains.
-
-— Elles ne savent pas ce que sont devenus ceux qui n'ont pas existé, dit Élise. Iris. Moi. Toi, peut-être. Elles disent que c'est le seul tour où personne n'est tombé dans Anselme. Parce qu'il n'y avait personne pour tomber.
+Elle lui raconta, en peu de mots, ce que les Élise de la cabine se rappelaient comme un rêve : une nuit d'octobre trop froide, une cuisine, les règles brisées l'une après l'autre, une Sophia qui avait fui. Pas d'Anne. Et au tour suivant, personne pour venir de 2137, personne pour tomber dans Anselme.
 
 Noé était devenu livide.
 
@@ -102,7 +100,7 @@ Il se prit la tête entre les mains, celles d'Étienne.
 
 ---
 
-Ils restèrent assis jusqu'à quatre heures, à un mètre l'un de l'autre. Puis Élise parla de nouveau, et sa voix était très calme.
+Ils restèrent assis jusqu'à quatre heures, à un mètre l'un de l'autre. Entre deux silences, elle lui dit ce qu'elle avait écrit la veille à Sophia : la troisième porte. Il ne répondit rien. Puis Élise parla de nouveau, et sa voix était très calme.
 
 — Je voudrais te demander une chose. Une seule. Tu as le droit de dire non.
 

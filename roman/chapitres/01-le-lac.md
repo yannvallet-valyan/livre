@@ -36,7 +36,7 @@ Quarante-huit. Quarante-neuf.
 
 À cinquante-cinq, elle sentit ses mains.
 
-Elles étaient trop longues. C'était la première chose, la plus bête : des doigts longs, osseux, des ongles carrés coupés court, une peau un peu sèche au creux des articulations. À son pouce gauche, une marque claire, nacrée, en forme d'anneau, une brûlure ancienne. Elle la regarda comme on regarde un visage dans une foule.
+Elles étaient trop longues. C'était la première chose, la plus bête : des doigts longs, osseux, des ongles carrés coupés court, une peau un peu sèche au creux des articulations. À son pouce gauche, une marque claire, nacrée, en forme d'anneau, une brûlure ancienne. Elle la regarda sans la reconnaître.
 
 Soixante.
 

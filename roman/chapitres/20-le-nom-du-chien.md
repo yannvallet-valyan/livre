@@ -4,7 +4,7 @@
 
 Corinne Delorme frappa chez Sophia un samedi matin, en robe de chambre, avec son chien dans les bras.
 
-C'était un petit bâtard roux, aux oreilles trop grandes, qui avait l'habitude de passer sous la haie pour venir dormir sur le paillasson de Sophia. Corinne le tenait serré contre elle comme on tient un enfant qui vient de tomber. Elle avait les yeux rouges.
+C'était un petit bâtard roux, aux oreilles trop grandes, qui avait l'habitude de passer sous la haie pour venir dormir sur le paillasson de Sophia. Corinne le tenait serré contre elle, comme un enfant qui vient de tomber. Elle avait les yeux rouges.
 
 — Sophia, dit-elle. C'est idiot. Je n'arrive plus à me rappeler comment il s'appelle.
 

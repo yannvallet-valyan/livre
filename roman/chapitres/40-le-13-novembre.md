@@ -20,7 +20,7 @@ Pendant la nuit, la centrale à béton mobile avait été montée au bout du ter
 
 L'équipe d'extraction de Kerr. Pour le lendemain, huit heures.
 
-Paul Ménard était dans son préfabriqué, le casque posé sur le bureau, une tasse de café froid à la main. Il écouta Sophia jusqu'au bout sans l'interrompre, avec cette patience usée qu'elle commençait à apprécier.
+Gilles Ménard était dans son préfabriqué, le casque posé sur le bureau, une tasse de café froid à la main. Il écouta Sophia jusqu'au bout sans l'interrompre, avec cette patience usée qu'elle commençait à apprécier.
 
 — Le P7, répéta-t-il. Vous me dites que le piézomètre P7, derrière la brèche, va afficher trois virgule deux bars cet après-midi.
 
@@ -44,7 +44,7 @@ Ménard la jaugea en silence. Puis il posa sa tasse.
 
 À onze heures, Kerr la trouva devant le préfabriqué.
 
-Il avait l'air de ne pas avoir dormi. Il avait le teint gris, les yeux brillants, et il serrait dans la main un trousseau de clés comme on serre un chapelet. Il regarda Ménard par la fenêtre, puis Sophia.
+Il avait l'air de ne pas avoir dormi. Il avait le teint gris, les yeux brillants, et il serrait dans la main un trousseau de clés comme un chapelet. Il regarda Ménard par la fenêtre, puis Sophia.
 
 — Vous êtes en congé, dit-il.
 
@@ -64,7 +64,7 @@ Il ne répondit pas tout de suite. Il regarda le lac, la vase, le clocher noir q
 
 — Moi aussi, dit-il. Je retrouverai le sommeil. Il y a des nuits où je me réveille dans le laboratoire, debout, en blouse, avec une lampe à la main. Je ne sais pas ce que j'y fais. Je veux que ça s'arrête.
 
-Il partit sans attendre de réponse. Sophia le regarda traverser le parking entre les toupies, très droit, très seul, et elle eut pour lui, pour la première fois, une pitié qui ressemblait à de la tendresse.
+Il partit sans attendre de réponse. Sophia le regarda traverser le parking entre les toupies, très droit, très seul, et elle eut pour lui une pitié qui ressemblait à de la tendresse.
 
 ---
 
@@ -88,7 +88,7 @@ Il sortit de sa poche une enveloppe, une enveloppe de cabinet médical, avec son
 
 Étienne haussa les épaules, gêné.
 
-— Que la dernière nuit est à lui. Que je la lui donne, comme tu la donnes à Élise. Que je le remercie de l'avoir aimée pendant deux mois sans la toucher, et que cette nuit, il a le droit. Et qu'il prenne soin de mes pieds. Ils n'ont pas encore cicatrisé.
+— Que la dernière nuit est à lui. Que je la lui donne, comme tu la donnes à Élise. Que je le remercie de l'avoir aimée pendant six semaines sans la toucher, et que cette nuit, il a le droit. Et qu'il prenne soin de mes pieds. Ils n'ont pas encore cicatrisé.
 
 Sophia rit. Puis elle ne rit plus. Elle posa la tête sur l'épaule d'Étienne, en plein soleil, sur la place, devant tout le village, et elle s'en fichait.
 
@@ -144,7 +144,7 @@ Ménard regarda le plan, puis le vieil homme.
 
 — Vous avez tout noté, depuis 1958 ?
 
-— Depuis 1980. Avant, c'était le gardien d'avant. Je n'ai jamais rien jeté.
+— Depuis 1980. J'étais manœuvre, à la vidange, et le vieux gardien me laissait noter. Avant, c'était lui. Je n'ai jamais rien jeté.
 
 Ménard se pencha sur le plan pendant dix minutes sans rien dire. Puis il se redressa, appela son chef de chantier, et dit : *on change les points d'injection.*
 
@@ -158,7 +158,7 @@ Il fit une omelette, pas très bien, et ils la mangèrent à même la poêle, su
 
 — Je sais.
 
-Il but une gorgée, et grimaça, parce qu'il avait trente-cinq ans et qu'il était amer.
+Il but une gorgée, et grimaça, parce que le thé avait trente-cinq ans et qu'il était amer.
 
 — Tu as l'air de quelqu'un qui dit au revoir, dit-il.
 
@@ -184,6 +184,6 @@ Après, ils restèrent les yeux ouverts dans le noir, la tête de Sophia sur l'�
 
 Elle ne savait pas comment on s'endort quand on sait que c'est la dernière fois qu'on ne s'endort pas seule.
 
-Elle finit par compter. Elle ne l'avait jamais fait de sa vie. Un. Deux. Trois. Elle entendit, à côté d'elle, Étienne compter aussi, plus bas, sans savoir d'où il tenait cette habitude.
+Elle finit par compter, comme cela lui arrivait depuis l'automne sans qu'elle le décide. Un. Deux. Trois. Elle entendit, à côté d'elle, Étienne compter aussi, plus bas, sans savoir d'où il tenait cette habitude.
 
 À vingt-neuf, elle dormait.

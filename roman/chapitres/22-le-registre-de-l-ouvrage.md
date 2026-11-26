@@ -2,7 +2,7 @@
 
 *(premier jet)*
 
-Sophia demanda les registres à son père comme on demande une faveur administrative.
+Ce soir-là, avant de redescendre, Sophia demanda les registres à son père comme on demande une faveur administrative.
 
 — Pour mes séries, dit-elle sur la terrasse, en évitant de le regarder. Les capteurs électroniques ne remontent qu'à 2006. Toi, tu notes la cote à la main depuis 1980. Si je pouvais avoir tes registres, j'aurais quarante-six ans de données. Pour l'étude des sédiments, ce serait… utile.
 

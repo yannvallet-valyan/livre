@@ -14,7 +14,7 @@ Elle nota : *00 h 20. Endormi.*
 
 ---
 
-Il ne bougea pas tout de suite. Il resta allongé, sur le côté, les yeux ouverts dans la pénombre, et Sophia vit, à la lueur du réverbère qui filtrait par les volets, quelque chose changer dans son visage. Ce n'était pas spectaculaire. Il n'y avait pas de convulsion, pas de voix caverneuse, rien de ce qu'on voit dans les films. Les traits étaient les mêmes. Mais ils n'étaient plus *tenus* de la même façon. La bouche était plus serrée. Le front plus bas. Les yeux regardaient le plafond comme on regarde un ciel inconnu. Puis ils descendirent, lentement, et la trouvèrent.
+Il ne bougea pas tout de suite. Il resta allongé, sur le côté, les yeux ouverts dans la pénombre, et Sophia vit, à la lueur du réverbère qui filtrait par les volets, quelque chose changer dans son visage. Ce n'était pas spectaculaire. Il n'y avait pas de convulsion, pas de voix caverneuse, rien de ce qu'on voit dans les films. Les traits étaient les mêmes. Mais ils n'étaient plus *tenus* de la même façon. La bouche était plus serrée. Le front plus bas. Les yeux regardaient le plafond comme un ciel inconnu. Puis ils descendirent, lentement, et la trouvèrent.
 
 Ils se regardèrent.
 
@@ -44,7 +44,7 @@ Il resta couché. Elle resta assise. Il y avait entre eux toute la largeur de la
 
 — Qu'est-ce que vous lui voulez ? demanda-t-elle.
 
-Il mit longtemps à répondre.
+Il ne répondit pas tout de suite.
 
 — Qu'elle rentre vivante, dit-il. Ou qu'elle ne rentre pas, mais qu'elle reste vivante. Je ne sais plus très bien.
 
@@ -191,7 +191,7 @@ Ils restèrent longtemps sans rien dire.
 
 Élise pensa à tout ce qu'elle aurait dû faire. Partir. Écrire à Sophia que le Veilleur était démasqué, qu'il fallait s'en méfier, l'éviter, ne plus sortir la nuit. Penser à la mission, au 14 novembre, au cristal. Penser à Iris.
 
-Elle pensa à Iris. Elle essaya de voir son visage, et elle y parvint, mais il y manquait toujours ce quelque chose que la paroi avait gardé.
+Elle pensa à Iris. Elle essaya de voir son visage, et elle y parvint, mais il y manquait toujours le détail que la paroi avait gardé.
 
 — Le 14, dit-elle. Qu'est-ce que tu vas faire ?
 
@@ -225,7 +225,7 @@ Ils restèrent comme ça, les doigts mêlés, sans bouger, sans se rapprocher, s
 
 ---
 
-En rentrant, à l'aube, elle trouva Mathis assis sur le muret, en pyjama, avec un anorak par-dessus. Il ne dormait pas. Il la regardait venir avec ses lunettes rafistolées et son air de savoir des choses.
+En rentrant, à l'aube, elle vit Mathis à sa fenêtre, au premier étage, en pyjama, la vitre entrouverte. Il ne dormait pas. Il la regardait venir avec ses lunettes rafistolées et son air de savoir des choses.
 
 — Tu étais avec le monsieur du docteur, dit-il.
 
@@ -233,7 +233,7 @@ En rentrant, à l'aube, elle trouva Mathis assis sur le muret, en pyjama, avec u
 
 — Lui aussi, il en a deux, dit Mathis. Un qui sourit. Et un autre derrière, qui pleure tout le temps, même quand il rit.
 
-Il descendit du muret, frissonna, et ajouta en rentrant chez lui, sans se retourner :
+Il frissonna, et ajouta, en refermant la fenêtre :
 
 — Le monsieur qui pleure, il te connaît depuis longtemps.
 

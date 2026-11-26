@@ -12,7 +12,7 @@ Son père lui ouvrit avant qu'elle ait frappé. Il avait l'air épuisé. Il avai
 
 — Sophia.
 
-Elle ne dit rien. Elle entra. Elle regarda les murs, les centaines de maisons, de soleils, de silhouettes. Puis elle se tourna vers lui et le prit dans ses bras. Elle ne l'avait pas fait depuis qu'elle avait trois ans.
+Elle ne dit rien. Elle entra. Elle regarda les murs, les centaines de maisons, de soleils, de silhouettes. Puis elle se tourna vers lui et le prit dans ses bras. Elle ne l'avait pas fait depuis qu'elle avait deux ans.
 
 Anselme ne comprit pas. Il resta un moment les bras ballants. Puis, maladroitement, il referma les siens sur elle.
 
@@ -112,7 +112,7 @@ Il se leva. Il fit deux pas vers la pluie, puis revint.
 
 Il ne répondit pas.
 
-Elle se leva à son tour. Ils étaient face à face sous le toit du lavoir, et pour la première fois, elle le regarda vraiment : le visage d'Étienne, les tempes grises, la cicatrice, et derrière, dans les yeux, quelqu'un d'autre. Elle chercha. Elle chercha de toutes ses forces, dans la pièce vide, à l'endroit de la marque sur le parquet, quelque chose, n'importe quoi : un geste, une voix, une odeur.
+Elle se leva à son tour. Ils étaient face à face sous le toit du lavoir, et elle le regarda vraiment : le visage d'Étienne, les tempes grises, la cicatrice, et derrière, dans les yeux, quelqu'un d'autre. Elle chercha. Elle chercha de toutes ses forces, dans la pièce vide, à l'endroit de la marque sur le parquet, quelque chose, n'importe quoi : un geste, une voix, une odeur.
 
 Il n'y avait rien. Seulement un homme qui la regardait comme personne ne l'avait regardée depuis qu'elle avait perdu le souvenir d'avoir été regardée ainsi.
 
@@ -132,7 +132,7 @@ Elle essaya de se rappeler. Elle ferma les yeux, et elle fit ce qu'elle savait f
 
 Elle avait toutes les pièces. Elle les avait depuis le début. Elle n'avait jamais pensé à les mettre ensemble, parce qu'il n'y avait pas de visage au milieu.
 
-Il n'y en avait toujours pas. Elle chercha, de toutes ses forces, quelque chose, une image, une odeur, un son. Il n'y avait rien. Seulement, très loin, une sensation qu'elle n'aurait pas su décrire : celle d'une main qui trouve la vôtre dans le noir, au milieu d'un compte, et qui ne la lâche plus quand la lumière revient.
+Il n'y en avait toujours pas. Elle chercha encore : une image, une odeur, un son. Il n'y avait rien. Seulement, très loin, une sensation qu'elle n'aurait pas su décrire : celle d'une main qui trouve la vôtre dans le noir, au milieu d'un compte, et qui ne la lâche plus quand la lumière revient.
 
 Elle ne savait même pas si c'était un souvenir ou un désir.
 
@@ -142,7 +142,7 @@ Elle prit le carnet et écrivit, très vite, avant que le corps ne la reprenne :
 
 *Je crois que je l'aime quand même. Je ne sais pas si c'est de nouveau ou encore.*
 
-Puis elle se coucha, et Sophia se réveilla une heure plus tard avec les cheveux mouillés, les pieds sales, et sur la table de nuit trois lignes à l'encre noire qu'elle lut assise au bord du lit, longtemps, sans bouger.
+Puis elle se coucha, et Sophia se réveilla une heure plus tard avec les cheveux mouillés, les pieds sales, et sur la table de nuit trois lignes à l'encre noire qu'elle lut assise au bord du lit, sans bouger.
 
 Quelques jours plus tard, au café de la place, elle regarda Étienne boire son chocolat, essuyer sa moustache de crème avec le dos de la main, rire d'une histoire de patient. Elle le regarda comme on regarde une maison dont on sait, désormais, qu'elle a été habitée par quelqu'un d'autre avant vous.
 

@@ -42,7 +42,10 @@
    - **Famille d'Élise :** Paul rouille en **2118** (Élise a 15 ans), Marthe s'éteint en **2124** (six ans d'écart). Dans la ligne B, Iris naît en 2103 et sa fille Élise en 2130 (**27 ans** plus tard).
    - **Générations :** Hugo (2007) est le grand-père du grand-père de Noé ; Mathis (2017) est l'arrière-arrière-grand-père d'Iris.
    - **Annexe :** conservée après la coda. Les observations de K. y sont des constats de la **nuit suivante** (K. n'agit que pendant le sommeil de Kerr).
-   - **Calendrier d'octobre :** Mathis (chap. 21) du 20 au 25 oct. ; registres, collage du dessin le sam. 31 oct. ; « Quatre » du lun. 26 au sam. 31 ; Toussaint le dim. 1er nov.
+   - **Calendrier d'octobre (vacances de la Toussaint : 17 oct. - 2 nov. 2026) :** sam. 24 oct. le chien de Corinne et le baiser ; dim. 25 Martine retrouvée ; lun. 26 Mathis chez Sophia ; mar. 27 la grève, puis le soir la cabine (dessins, photo, registres) ; mar. 27 - jeu. 29 les trois soirs de registres ; ven. 30 « Non. Jamais. » ; sam. 31 collage du dessin, et la nuit Élise à la cabine (« Tu reviens toujours ») ; « Quatre » du lun. 26 (recette) au sam. 31 (dîner de lentilles) ; dim. 1er nov. Toussaint.
+   - **Septembre :** post-it et carnet lus le jeudi 24 (9e nuit) ; la visite du dimanche 20 au père précède.
+   - **Le blanc du registre rouge :** Élise avait écrit le nom du père au crayon en 2130 ; le crayon s'est effacé, et quand elle s'en est aperçue, la Rouille lui avait déjà pris le nom. Ruben l'écrit à l'encre.
+   - **Divers :** Sophia a deux ans au départ d'Hélène (février 1991) ; Anselme est manœuvre en 1980 et gardien en 1985 ; l'ingénieur de l'exploitant s'appelle **Gilles** Ménard ; Anne a six ans à l'hiver 2033 (décembre) ; nuit du 8 au 9 novembre sans lune ; fenêtres de la bibliothèque murées à partir de 2146.
    - **Ruben** n'écrit que « *Noé.* » dans le registre rouge (pas de nom de famille) : le nom Marle ne doit pas apparaître avant le chapitre « Le lit vide ».
 
 ---
@@ -242,7 +245,7 @@ Personne n'est méchant.
 - **Le principe :** aucun personnage ne pense que la dernière nuit pourrait concevoir Anne. Le doute n'est jamais formulé dans le texte. Il naît seulement chez le lecteur qui recoupe les dates.
 - **Le consentement** porte sur la **proximité**, pas sur un enfant.
   - Élise révèle d'abord Anne à Sophia, par honnêteté, avant de lui demander de rester. C'est un moment séparé.
-  - Puis Sophia offre aux voyageurs la dernière nuit : *« Vous vous êtes tenus à un mètre pendant deux mois. La dernière nuit, prenez ce mètre. Nos corps vous le prêtent. Je ne veux rien savoir de cette nuit. »*
+  - Puis Sophia offre aux voyageurs la dernière nuit : *« Vous vous êtes tenus à un mètre pendant six semaines. La dernière nuit, prenez ce mètre. Nos corps vous le prêtent. Je ne veux rien savoir de cette nuit. »*
   - Étienne consent par écrit. Le « je ne veux rien savoir » relève de la pudeur, pas d'une stratégie.
 - **L'aveuglement d'Élise et de Noé :** ils sont convaincus qu'Anne a été conçue le **6 novembre** (première nuit de Sophia et d'Étienne, et leur réveil immobile du 7). Noé : *« Alors on ne peut plus rien abîmer. »* Le narrateur ajoute : *« Ni l'un ni l'autre ne compta les jours sur ses doigts. »*
 - **Les indices laissés au lecteur :**

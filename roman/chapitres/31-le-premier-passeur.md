@@ -66,7 +66,7 @@ Elle pensa : *c'est moi qui le lui ai appris.*
 
 — Nous ne savons pas, dit-il. Celles qui font autrement ne tombent pas jusqu'ici. Nous ne connaissons que celles qui brisent.
 
-Il hésita, puis ajouta, plus bas, comme on avoue une chose dont on a honte pour quelqu'un d'autre :
+Il hésita, puis baissa la voix :
 
 — Il y a un tour dont nous nous souvenons à peine. Comme d'un rêve qu'on aurait fait quelqu'un d'autre. Un tour où vous n'avez pas tenu, l'homme aux étoiles et toi. Une nuit d'octobre trop froide. Une cuisine. Les règles, toutes, l'une après l'autre. Au matin, elle s'est réveillée dans un lit qu'elle n'avait pas choisi. Elle a eu peur. Elle a quitté le docteur, la vallée, tout. Il n'y a pas eu d'Anne. Ce n'est pas d'avoir été aimée à sa place qui l'a fait fuir. C'est de ne pas avoir été consultée.
 
@@ -74,7 +74,7 @@ Il hésita, puis ajouta, plus bas, comme on avoue une chose dont on a honte pour
 
 — Et alors ?
 
-— Et alors, ce tour-là, personne n'est venu de 2137. Pas de Passeuse. Personne pour tomber en nous. Le cristal a attendu seul, et la Rouille est venue quand même, plus tard, autrement. Nous ne savons pas ce que deviennent ceux qui n'ont pas existé. Nous ne savons même pas si on peut dire qu'ils sont devenus quelque chose.
+— Et alors, au tour suivant, personne n'est venu de 2137. Pas de Passeuse. Personne pour tomber en nous. Le cristal a attendu seul, et la Rouille est venue quand même, plus tard, autrement. Ce tour-là, nous ne l'avons pas vécu : nous l'avons reçu du cristal. Elle était descendue dans la galerie, cette autre toi, en octobre, et la paroi avait gardé ce qu'elle portait. C'est tout ce qui reste d'elle. Nous ne savons pas ce que deviennent ceux qui n'ont pas existé.
 
 Il la regarda avec une infinie douceur.
 
@@ -104,7 +104,7 @@ Le vieil homme leva la tête.
 
 — Ma fille. Ta fille. Notre… C'est elle qui l'a dessiné. La maison, le soleil, et moi devant. Elle s'appelle Iris.
 
-Anselme la regarda sans comprendre. Puis quelque chose bougea sur son visage, quelque chose de très lointain qui remontait du fond d'un puits. Ses lèvres formèrent le nom sans le prononcer. Puis il le prononça, une fois, très bas, comme on rend un objet qu'on a cherché pendant des années.
+Anselme la regarda sans comprendre. Puis son visage bougea, comme si une chose très lointaine remontait du fond d'un puits. Ses lèvres formèrent le nom sans le prononcer. Puis il le prononça, une fois, très bas, comme on rend un objet qu'on a cherché pendant des années.
 
 — Iris.
 
@@ -127,7 +127,7 @@ Plus tard, quand le ciel commença à pâlir au-dessus de la crête, elle posa l
 
 Il secoua la tête.
 
-— Il faut que tu le voies. Toi-même. Dans le cristal. Il n'y a que ça qui marche. Alors maintenant, nous attendons. Nous allumons la lumière trois fois, la première nuit, pour te dire qu'on est là. Nous écrivons une phrase dans le carnet. Nous attendons que tu descendes, et nous te montrons.
+— Il faut que tu le voies. Toi-même. Dans le cristal. Les mots n'ont jamais suffi, et c'était la seule chose que nous n'avions pas essayée. Nous allumons toujours la lumière trois fois, la première nuit, pour te dire qu'on est là. Cette fois, nous avons aussi écrit une phrase dans le carnet, et nous avons attendu que tu descendes pour te montrer.
 
 — Et après ? Une fois que je l'ai vu ? Les autres fois, qu'est-ce que j'ai fait, après ?
 

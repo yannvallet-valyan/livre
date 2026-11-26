@@ -22,7 +22,7 @@ On en connaissait la cause depuis vingt ans. Quand on ouvrait le crâne des mort
 
 Pour rejoindre le dortoir, il fallait traverser le grand hall, celui que les anciens appelaient encore « l'accueil ». Le mur du fond, entre deux colonnes, était couvert d'écriture à la craie, du sol jusqu'à hauteur d'homme : des noms, serrés, de toutes les mains, de toutes les tailles. C'était le mur des noms. Quand quelqu'un rouillait jusqu'au cœur, un proche venait y écrire son nom, pour qu'il en reste au moins ça. On ne les effaçait jamais. Les plus anciens, en bas, avaient presque disparu sous les frottements des épaules.
 
-Élise s'arrêta, comme chaque jour, devant deux noms côte à côte, à hauteur de sa poitrine, qu'elle avait écrits elle-même à six ans d'intervalle. *Paul Varenne. Marthe Varenne.* Elle n'y toucha pas. Elle ne priait pas : personne ne priait plus, ici. Elle se contentait de les lire, une fois, lentement, comme on vérifie qu'une porte est bien fermée.
+Élise s'arrêta, comme chaque jour, devant deux noms côte à côte, à hauteur de sa poitrine, qu'elle avait écrits elle-même à six ans d'intervalle. *Paul Varenne. Marthe Varenne.* Elle n'y toucha pas. Elle ne priait pas : personne ne priait plus, ici. Elle se contentait de les lire, une fois, lentement.
 
 Elle n'y alla pas tout de suite. Elle passa d'abord par le dortoir des enfants.
 
@@ -64,7 +64,7 @@ Iris avait un père. Élise le savait comme on sait qu'une pièce a contenu un m
 
 Élise n'était pas *rouillée*. Elle lisait, elle se souvenait, elle comptait. Mais tout le monde, ici, portait un peu de cristal dans la tête, et chacun avait sa pièce vide.
 
-Elle avait cessé d'interroger d'autres choses. Chaque midi, au réfectoire, un bol de lentilles au cumin, encore chaud, l'attendait à sa place, posé là avant qu'elle n'arrive. Personne ne le revendiquait. Elle avait demandé, au début, une fois ou deux. On lui avait répondu que c'était comme ça depuis longtemps, qu'il ne fallait pas s'en faire. Elle avait fini par ne plus demander, comme on cesse de se demander d'où vient la pluie. Elle mangeait les lentilles. Elles étaient toujours un peu trop salées, exactement comme elle les aimait.
+Elle avait cessé d'interroger d'autres choses. Chaque midi, au réfectoire, un bol de lentilles au cumin, encore chaud, l'attendait à sa place, posé là avant qu'elle n'arrive. Personne ne le revendiquait. Elle avait demandé, au début, une fois ou deux. On lui avait répondu que c'était comme ça depuis longtemps, qu'il ne fallait pas s'en faire. Elle avait fini par ne plus demander. Elle mangeait les lentilles. Elles étaient toujours un peu trop salées, exactement comme elle les aimait.
 
 ---
 
@@ -112,7 +112,7 @@ Il y eut un silence. Oriane la regardait avec une douceur qu'Élise ne comprit p
 
 — Tu le connaissais, dit Oriane.
 
-Élise ouvrit la bouche, puis la referma. Elle fouilla sa mémoire et ne trouva que le vide en forme de meuble sur le parquet. Elle sentit quelque chose se serrer dans sa gorge, une chose qui ne venait de nulle part et qu'elle n'aurait pas su nommer.
+Élise ouvrit la bouche, puis la referma. Elle fouilla sa mémoire et ne trouva que le vide en forme de meuble sur le parquet. Sa gorge se serra, pour une raison qui ne venait de nulle part et qu'elle n'aurait pas su nommer.
 
 — Pourquoi a-t-il refusé ?
 

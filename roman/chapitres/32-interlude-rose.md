@@ -72,7 +72,7 @@ Puis il remit son chapeau, ramassa son cahier noir, et ajouta, plus bas, presque
 
 Elle se laissa emmener sans résister.
 
-Ils étaient à mi-pente, sur le chemin de Vallorce-le-Haut, quand la vanne se ferma. On n'entendit rien. Il n'y eut pas de bruit, pas de vague, pas de grondement. Simplement, dans l'heure qui suivit, la rivière cessa de couler vers l'aval, et l'eau commença à monter, très lentement, comme on remplit une baignoire, dans le fond de la vallée.
+Ils étaient à mi-pente, sur le chemin de Vallorce-le-Haut, quand la vanne se ferma. On n'entendit rien. Il n'y eut pas de bruit, pas de vague, pas de grondement. Simplement, dans l'heure qui suivit, la rivière cessa de couler vers l'aval, et l'eau commença à monter, très lentement, dans le fond de la vallée.
 
 Rose ne se retourna pas. Mais en arrivant à l'appartement au-dessus de la boulangerie, elle trouva sur le paillasson, posée là, allumée, tournée vers le bas, une petite lampe de poche qui n'appartenait à personne.
 
