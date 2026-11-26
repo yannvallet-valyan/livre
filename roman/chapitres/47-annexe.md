@@ -22,7 +22,7 @@
 
 *S.V. a gardé un témoin. Fiole, étiquette bleue, « Vallorce, 14/11/2026 ». Je l'ai vue sur son étagère, par la fenêtre. J'aurais pu entrer. Je n'ai pas bougé.*
 
-*Je rappelle la règle, pour moi-même, puisque personne d'autre ne la lira : ne pas intervenir sur la structure. Une lampe sur une marche, un badge dans un congélateur, un caillou contre une vitre : ce ne sont pas des interventions. Ce sont des politesses.*
+*Je rappelle la règle, pour moi-même, puisque personne d'autre ne la lira : ne pas intervenir sur la structure. Une lampe sur une marche, un badge glissé sur un appui de fenêtre, un autre dans un congélateur, un caillou contre une vitre : ce ne sont pas des interventions. Ce sont des politesses.*
 
 *La lui prendre aurait été une intervention.*
 
