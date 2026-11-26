@@ -26,8 +26,8 @@ body {
 }
 body[data-size="large"] { --size: 1.3rem; }
 body[data-size="xlarge"] { --size: 1.5rem; }
-body[data-pov="lucie"] { --bg: #eef1f3; }
-@media (prefers-color-scheme: dark) { body[data-pov="lucie"] { --bg: #101418; } }
+body[data-pov="sophia"] { --bg: #eef1f3; }
+@media (prefers-color-scheme: dark) { body[data-pov="sophia"] { --bg: #101418; } }
 body[data-pov="elise"] { --rust: #b5461a; }
 
 .bar {
@@ -65,9 +65,9 @@ h1 { margin: 0 0 1.6rem; font-size: 2rem; line-height: 1.2; font-weight: 400; ou
 .text em { color: var(--rust); font-style: italic; }
 .rouille { color: var(--rust); opacity: .55; letter-spacing: -.05em; }
 
-body[data-pov="lucie"] .text p { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; font-size: .95em; line-height: 1.75; }
-body[data-pov="lucie"] h1 { font-family: system-ui, sans-serif; font-weight: 500; }
-body[data-pov="lucie"] .text em { color: var(--ink-blue); }
+body[data-pov="sophia"] .text p { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; font-size: .95em; line-height: 1.75; }
+body[data-pov="sophia"] h1 { font-family: system-ui, sans-serif; font-weight: 500; }
+body[data-pov="sophia"] .text em { color: var(--ink-blue); }
 
 .choices { display: grid; gap: .7rem; margin-top: 2.2rem; }
 .choice {
@@ -91,7 +91,7 @@ body[data-pov="lucie"] .text em { color: var(--ink-blue); }
 .entry { background: var(--panel); border: 1px solid var(--line); border-radius: 4px; padding: .7rem .9rem; font-size: 1rem; line-height: 1.5; }
 .entry .who { display: block; font: .68rem/1 system-ui, sans-serif; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin-bottom: .4rem; }
 .entry.elise { color: var(--ink-black); border-left: 3px solid var(--ink-black); }
-.entry.lucie { color: var(--ink-blue); border-left: 3px solid var(--ink-blue); font-family: system-ui, sans-serif; font-size: .95rem; }
+.entry.sophia { color: var(--ink-blue); border-left: 3px solid var(--ink-blue); font-family: system-ui, sans-serif; font-size: .95rem; }
 .carnet .empty { color: var(--muted); font-style: italic; }
 
 @media (max-width: 480px) {

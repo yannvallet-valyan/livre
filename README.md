@@ -49,7 +49,7 @@ Tout se passe dans `site/story.js`. Une scène ressemble à ceci :
 lac: {
   chapter: "Acte I — La greffe",
   title: "Le lac",
-  pov: "elise",                       // "elise" | "lucie" | "neutre"
+  pov: "elise",                       // "elise" | "sophia" | "neutre"
   text: [
     "Le froid vient avant tout le reste.",
     { if: "f.archives", t: "Tu repenses à la ligne des archives." }   // paragraphe conditionnel
@@ -63,7 +63,7 @@ lac: {
 
 - `add` modifie les jauges (`confiance`, `memoire`, `discretion`, bornées de 0 à 5).
 - `flag` pose un ou plusieurs drapeaux (accessibles dans les conditions via `f.nom`).
-- `carnet` ajoute une entrée dans le carnet partagé d'Élise et Lucie.
+- `carnet` ajoute une entrée dans le carnet partagé d'Élise et Sophia.
 - `if` est une condition JavaScript sur `v` (jauges) et `f` (drapeaux).
 - Une scène avec `end: true` termine une branche.
 
@@ -71,4 +71,4 @@ Après toute modification : `node scripts/check-story.js`.
 
 ## État
 
-Voir `roman/plan/plan-chapitres.md`. Interactif : l'Acte I est jouable (de la bibliothèque de 2137 à la première réponse de Lucie). Les Actes II et III restent à écrire.
+Voir `roman/plan/plan-chapitres.md`. Interactif : l'Acte I est jouable (de la bibliothèque de 2137 à la première réponse de Sophia). Les Actes II et III restent à écrire.

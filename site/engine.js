@@ -4,7 +4,7 @@
 
   const STORY = window.STORY;
   const SAVE_KEY = "rouille-save-v1";
-  const LABELS = { confiance: "Confiance de Lucie", memoire: "Ta mémoire", discretion: "Discrétion" };
+  const LABELS = { confiance: "Confiance de Sophia", memoire: "Ta mémoire", discretion: "Discrétion" };
   const MAX = 5;
 
   const $ = (id) => document.getElementById(id);
@@ -132,7 +132,7 @@
     state.carnet.forEach((e) => {
       const li = document.createElement("li");
       li.className = "entry " + e.who;
-      li.innerHTML = '<span class="who">' + (e.who === "elise" ? "Élise · encre noire" : "Lucie · encre bleue") + "</span>" + inline(e.text);
+      li.innerHTML = '<span class="who">' + (e.who === "elise" ? "Élise · encre noire" : "Sophia · encre bleue") + "</span>" + inline(e.text);
       el.carnetList.appendChild(li);
     });
     $("btn-carnet").dataset.count = state.carnet.length;

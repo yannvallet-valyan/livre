@@ -44,11 +44,11 @@ Elle s'accroupit. Ses genoux craquèrent, des genoux de quelqu'un qui n'en avait
 
 Elle le sentit à cet instant précis, et ce fut la première véritable terreur de la nuit. Pas le froid, pas le noir. Au fond de ce corps qu'elle habitait comme une locataire, très loin, très bas, il y avait une présence. Une respiration lente, régulière, infiniment calme, qui ne savait pas qu'elle était regardée.
 
-*Lucie.*
+*Sophia.*
 
 Elle n'osa pas prononcer le nom.
 
-Elle avait appris ce nom comme on apprend une prière : sur un dossier gris, dans une pièce sans fenêtre, sous des doigts qui tremblaient. *Varenne, Lucie, hydrologue.* Une ligne dans une liste. Un nom sans visage, qu'elle avait dû garder en tête pendant des semaines pour ne pas le perdre. Et voilà qu'il avait un visage. Elle se pencha au-dessus de l'eau.
+Elle avait appris ce nom comme on apprend une prière : sur un dossier gris, dans une pièce sans fenêtre, sous des doigts qui tremblaient. *Varenne, Sophia, hydrologue.* Une ligne dans une liste. Un nom sans visage, qu'elle avait dû garder en tête pendant des semaines pour ne pas le perdre. Et voilà qu'il avait un visage. Elle se pencha au-dessus de l'eau.
 
 D'abord elle ne vit que le noir. Puis, lentement, le noir se fit miroir : la surface du lac, parfaitement lisse, rendit une tache pâle, ovale, encadrée de sombre. Elle attendit, immobile. Le lac se calma.
 

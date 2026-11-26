@@ -7,7 +7,7 @@ Village de montagne au fond d'une vallée encaissée, au pied d'un vieux barrage
 - **Le lac et la grève de gravier** : lieu du premier réveil d'Élise.
 - **Le barrage** et la **cabine du gardien** (lumière jaune, fenêtre sur le lac).
 - **Le laboratoire** : bâtiment bas, accolé au flanc du barrage. Une **galerie technique** descend vers le fond, interdite.
-- **La maison de Lucie** : au bout du village, plancher qui grince près du radiateur (cachette du carnet).
+- **La maison de Sophia** : au bout du village, plancher qui grince près du radiateur (cachette du carnet).
 - **Le cabinet du Dr Marle** : place de l'église, salle d'attente sans horloge.
 - **La maison Delorme** : voisine, mur mitoyen.
 

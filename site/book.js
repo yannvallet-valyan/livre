@@ -91,7 +91,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "*Lucie.*"
+     "s": "*Sophia.*"
     },
     {
      "t": "p",
@@ -99,7 +99,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle avait appris ce nom comme on apprend une prière : sur un dossier gris, dans une pièce sans fenêtre, sous des doigts qui tremblaient. *Varenne, Lucie, hydrologue.* Une ligne dans une liste. Un nom sans visage, qu'elle avait dû garder en tête pendant des semaines pour ne pas le perdre. Et voilà qu'il avait un visage. Elle se pencha au-dessus de l'eau."
+     "s": "Elle avait appris ce nom comme on apprend une prière : sur un dossier gris, dans une pièce sans fenêtre, sous des doigts qui tremblaient. *Varenne, Sophia, hydrologue.* Une ligne dans une liste. Un nom sans visage, qu'elle avait dû garder en tête pendant des semaines pour ne pas le perdre. Et voilà qu'il avait un visage. Elle se pencha au-dessus de l'eau."
     },
     {
      "t": "p",
@@ -176,7 +176,7 @@ window.BOOK = {
   },
   {
    "n": 5,
-   "title": "Lucie, le jour"
+   "title": "Sophia, le jour"
   },
   {
    "n": 6,

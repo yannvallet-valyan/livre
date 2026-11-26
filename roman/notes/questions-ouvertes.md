@@ -1,25 +1,24 @@
-# Questions ouvertes et incohérences à résoudre
+# Questions ouvertes
 
-À trancher avant d'écrire l'Acte II.
+## Réglées (voir `bible/chronologie.md`)
+- **Qui écrit « Tu reviens toujours » ?** Anselme, c'est-à-dire les Élise des tours précédents.
+- **Cercle ou spirale ?** Spirale. Le cristal conserve les résidus d'un tour à l'autre.
+- **Pourquoi Vallorce et 2026 ?** Le cristal n'est franchissable que lorsque le lac est bas (1980 et 2026).
+- **Pourquoi Anselme est-il si vieux et si étrange ?** Les Élise tombées en 1980 vivent ses nuits depuis 46 ans.
+- **Le financeur :** la Fondation Léthé, qui finance une thérapie de l'oubli. C'est une origine humaine et banale.
+- **Le Veilleur :** Noé, dans le corps d'Étienne Marle.
+- **Pourquoi la Rouille a-t-elle trois mois d'avance ?** Le résidu s'accumule à chaque tour.
 
-## Logique de la boucle
-1. **Qui a écrit « Tu es déjà venue. Tu reviens toujours. » ?** Anselme ? Une version précédente d'Élise ? Marle ? (Suggestion : Anselme, qui a déjà lu ce carnet — ou un carnet identique — dans un tour précédent.)
-2. **La boucle est-elle un cercle parfait ou une spirale ?** Si Élise « se dissout dans Lucie » et que la boucle se ferme, pourquoi existe-t-il un 2137 qui oublie, puisque le cristal est noyé ? (Piste : le 2137 de l'épilogue est un *autre* 2137, où la Rouille n'a pas eu lieu. L'enfant « Élise » est ce qu'il reste de l'effacement : un écho.)
-3. **Pourquoi novembre 2026 ?** Une seule fenêtre ? Ou le cristal est-il « ouvert » seulement lorsque le niveau du lac passe sous un seuil ?
-4. **Comment Anselme est-il vieux ?** Il est revenu des centaines de fois. Vit-il toujours dans le même corps (un ancêtre à lui, très âgé) ? Ou chaque tour dans un corps différent ?
-5. **Pourquoi ne peut-on rien emporter, mais Élise connaît-elle des faits (jauge, dates) ?** Ce sont des *ancres* mémorisées. Limite à définir : 3 ancres maximum ?
-
-## Personnages
-6. **Le financeur anonyme** : Marle ? Anselme ? Une version future d'Élise ? Ou personne (la boucle s'auto-finance par un paradoxe d'information) ?
-7. **Marle est-il aussi un descendant de Vallorce ?** Si oui, de qui ? Un lien avec Lucie (cousinage) rendrait leur affrontement plus intime.
-8. **Mathis : pourquoi voit-il ?** Parce qu'il est un enfant (pas encore de défenses) ? Parce qu'il est sensible au cristal ? Parce que c'est un *autre* descendant d'une lignée de voyageurs ?
-
-## Structure
-9. **Chapitre 1 en medias res** (réveil au lac) puis flashback 2137 : confirmé ou on revient à l'ordre chronologique ?
-10. **Point de vue de Lucie** : à garder strictement le jour, ou peut-elle avoir un chapitre « nocturne » (elle ne se souvient de rien, donc un blanc) ?
-11. **Les chapitres du carnet** : intégrer le texte des échanges dans les chapitres ou en hors-texte (pages séparées) ?
+## Encore ouvertes
+1. **Combien de tours ?** On laisse le chiffre volontairement flou (« assez pour que je ne sache plus laquelle je suis »).
+2. **La guerre de 2090 dans la nouvelle ligne :** l'épilogue reste évasif. Faut-il une phrase de plus ?
+3. **Consentement des hôtes :** Élise et Noé refusent d'utiliser les corps. Faut-il une scène où Sophia l'apprend et en est touchée ? (Il y en a une esquisse au ch. 23.)
+4. **Mathis :** pourquoi voit-il ? Pour l'instant parce qu'il est un enfant qui ne dort pas. On pourrait suggérer qu'il a bu l'eau du lac.
+5. **Longueur :** le premier jet fait environ 40 000 mots. Les chapitres de l'Acte II doivent être étoffés en priorité.
 
 ## Interactif
-12. **Fins :** détruire / laisser faire / s'effacer + oubli. Faut-il une quatrième « vraie » fin, accessible seulement avec un certain état des jauges ?
-13. **Le lecteur-interlocuteur :** laisser le lecteur choisir *ce qu'écrit Élise* seulement, ou aussi *ce que répond Lucie* ? (Actuellement : les deux, selon le POV.)
-14. **Persistance :** sauvegarde locale seulement ? Ou partage du « carnet final » du lecteur (une page à imprimer) ?
+6. Réécrire les Actes II et III interactifs selon la nouvelle intrigue, avec les trois fins :
+   - **briser** : la boucle continue et l'on finit dans Anselme ;
+   - **rentrer** : retour dans un 2137 qui oublie ;
+   - **rester** : la vraie fin.
+7. Faut-il laisser le lecteur jouer Noé dans un chapitre ?

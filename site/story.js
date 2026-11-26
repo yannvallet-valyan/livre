@@ -2,7 +2,7 @@
    LA ROUILLE — histoire interactive
    Acte I jouable. Voir README.md pour le format des scènes.
 
-   v = jauges   : confiance (de Lucie), memoire (d'Élise), discretion (face au Veilleur)
+   v = jauges   : confiance (de Sophia), memoire (d'Élise), discretion (face au Veilleur)
    f = drapeaux : f.nom (true si posé)
    Texte à la deuxième personne ("tu"), au présent.
    *mot* = italique.
@@ -57,8 +57,8 @@
         pov: "elise",
         text: [
           "Le dossier tient en trois feuilles. Tu les connais par cœur, mais tu les relis, parce que relire est la seule chose que tu saches faire mieux que tout le monde.",
-          "Une date : *14 novembre 2026*. Un lieu : *laboratoire de Vallorce, galerie technique*. Un nom, en bas de page, dans la liste des personnels : *L. Varenne, hydrologue*.",
-          "Tu t'arrêtes sur le nom. C'est le tien. Pas tout à fait : c'est celui de la femme dont le sang, à travers neuf générations, t'a faite.",
+          "Une date : *14 novembre 2026*. Un lieu : *laboratoire de Vallorce, galerie technique*. Un nom, en bas de page, dans la liste des personnels : *S. Varenne, hydrologue*.",
+          "Tu t'arrêtes sur le nom. C'est le tien. Pas tout à fait : c'est celui de la femme dont le sang, à travers quatre générations, t'a faite.",
           "Quelqu'un, derrière toi, dit doucement que tu as le droit d'avoir peur."
         ],
         choices: [
@@ -78,7 +78,7 @@
         ],
         choices: [
           { label: "Le visage d'Iris.", to: "lac", flag: "ancre_iris" },
-          { label: "Le nom de Lucie.", to: "lac", flag: "ancre_nom" },
+          { label: "Le nom de Sophia.", to: "lac", flag: "ancre_nom" },
           { label: "La date : novembre 2026.", to: "lac", flag: "ancre_date" }
         ]
       },
@@ -94,7 +94,7 @@
           "*Ne bouge pas. Compte.*",
           "Tu comptes jusqu'à soixante. Le corps ne se débat pas. Tu ne sauras jamais si tu as gagné ou si on t'a laissée faire.",
           { if: "f.ancre_iris", t: "Tu serres le visage d'Iris contre toi. Il tient. Pour l'instant." },
-          { if: "f.ancre_nom", t: "Tu répètes le nom : *Lucie*. Il est là, dur comme un caillou dans la bouche." },
+          { if: "f.ancre_nom", t: "Tu répètes le nom : *Sophia*. Il est là, dur comme un caillou dans la bouche." },
           { if: "f.ancre_date", t: "Tu récites la date comme une comptine. *Novembre. Deux mille vingt-six.* Elle te tient debout." },
           "Quelque part sous toi, très bas, quelqu'un dort. Une respiration lente, calme, qui ne sait pas qu'on la regarde."
         ],
@@ -128,7 +128,7 @@
         pov: "elise",
         text: [
           "Tu ne bouges pas. Le lac clapote contre les pierres. Le barrage vrombit. Des arbres, quelque part, respirent : une odeur épaisse, sombre. Le mot arrive en retard, comme une pièce qui touche enfin le fond d'un puits : *résine*.",
-          "Les mots affluent. *Grève. Brume. Frisson. Tiède.* Dans la bibliothèque, pour retrouver *tiède*, tu aurais dû fermer les yeux un long moment. Ici, tu n'as qu'à tendre la main. Le corps de Lucie possède une langue intacte, sans une lacune, et tu es une affamée dans une cuisine.",
+          "Les mots affluent. *Grève. Brume. Frisson. Tiède.* Dans la bibliothèque, pour retrouver *tiède*, tu aurais dû fermer les yeux un long moment. Ici, tu n'as qu'à tendre la main. Le corps de Sophia possède une langue intacte, sans une lacune, et tu es une affamée dans une cuisine.",
           "*Ce n'est pas à toi. Ne touche pas.*"
         ],
         choices: [
@@ -145,7 +145,7 @@
           "Tu fais quelques pas vers le sentier. C'est alors que tu vois la cabine, accrochée au flanc de la digue comme un nid : une fenêtre jaune, et dans la fenêtre, une silhouette immobile qui regarde vers le lac. Vers toi.",
           "Tu cesses de respirer.",
           "Alors la silhouette lève la main. Pas pour appeler. Pas pour chasser. Lentement, paume ouverte, comme on salue quelqu'un qu'on attendait.",
-          "Tu ne lui as jamais parlé. Tu ne sais pas qui il est. Ton cœur, le cœur de Lucie, cogne contre vos côtes communes."
+          "Tu ne lui as jamais parlé. Tu ne sais pas qui il est. Ton cœur, le cœur de Sophia, cogne contre vos côtes communes."
         ],
         choices: [
           { label: "Lever la main, toi aussi.", to: "traces", add: { discretion: -1 }, flag: "salue_anselme" },
@@ -159,16 +159,16 @@
         title: "Les traces",
         pov: "elise",
         text: [
-          "Tu retrouves la maison par les gestes : le corps de Lucie connaît le chemin, la clé, la marche qui grince. Il fait plus chaud dedans. Sur la table, des feuilles couvertes de chiffres à l'encre bleue. Au mur, un barographe. Partout, la marque d'une femme qui ne laisse rien au hasard.",
+          "Tu retrouves la maison par les gestes : le corps de Sophia connaît le chemin, la clé, la marche qui grince. Il fait plus chaud dedans. Sur la table, des feuilles couvertes de chiffres à l'encre bleue. Au mur, un barographe. Partout, la marque d'une femme qui ne laisse rien au hasard.",
           "L'aube est à trois heures d'ici. Tu as le temps de laisser quelque chose. Elle se réveillera sans savoir où elle a dormi, ni ce qu'elle a fait de ses nuits. Il faut qu'elle comprenne qu'elle n'est pas folle.",
           "Ou du moins, qu'elle n'est pas seule à l'être."
         ],
         choices: [
-          { label: "Écrire un mot sur la table : « N'aie pas peur. »", to: "jour_lucie", flag: "mot",
+          { label: "Écrire un mot sur la table : « N'aie pas peur. »", to: "jour_sophia", flag: "mot",
             add: { confiance: -1 },
             carnet: { who: "elise", text: "N'aie pas peur. Je ne te veux aucun mal." } },
           { label: "Cacher un carnet sous le plancher, et y écrire.", to: "carnet_ecrire", flag: "plancher" },
-          { label: "Ne rien laisser. Dormir. Elle comprendra seule.", to: "jour_lucie", flag: "rien", add: { memoire: -1 } }
+          { label: "Ne rien laisser. Dormir. Elle comprendra seule.", to: "jour_sophia", flag: "rien", add: { memoire: -1 } }
         ]
       },
 
@@ -180,24 +180,24 @@
           { if: "!f.camera && !f.brule", t: "Le plancher grince à gauche du radiateur. Tu soulèves une lame : un creux, juste assez profond. Dans le tiroir, un carnet à la couverture grise, jamais utilisé. Tu écris la date. Ta main hésite : elle n'est pas faite pour écrire de cette façon." },
           { if: "f.camera", t: "Dans le salon, un petit objet noir est braqué sur le lit : elle t'a filmée. Tu fais un pas de côté, hors du champ. Elle cherche des preuves. Bien. Tu lui en laisseras." },
           { if: "f.brule", t: "Dans la cheminée, des cendres de papier. Elle a brûlé ton premier message. Tu le sais sans qu'on te l'ait dit. Tu prends un nouveau carnet. Tu recommences, et cette fois, tu cherches des mots qui ne feront pas peur." },
-          "Il faut commencer par quelque chose. Quelque chose que Lucie, au matin, ne pourra pas jeter par la fenêtre.",
+          "Il faut commencer par quelque chose. Quelque chose que Sophia, au matin, ne pourra pas jeter par la fenêtre.",
           "*Que lui dis-tu ?*"
         ],
         choices: [
-          { label: "La vérité, en entier : « Je viens de 2137. »", to: "jour_lucie", flag: "carnet", add: { confiance: -1, memoire: -1 },
+          { label: "La vérité, en entier : « Je viens de 2137. »", to: "jour_sophia", flag: "carnet", add: { confiance: -1, memoire: -1 },
             carnet: { who: "elise", text: "Je m'appelle Élise. Je viens de 2137. Tu es mon aïeule. Je suis dans ton corps quand tu dors. Je sais que ça n'a aucun sens." } },
-          { label: "Une preuve : « Demain, la jauge du barrage affichera 412,6 à 7 h 12. »", to: "jour_lucie", flag: ["carnet", "preuve"], add: { confiance: 2, discretion: -1 },
+          { label: "Une preuve : « Demain, la jauge du barrage affichera 412,6 à 7 h 12. »", to: "jour_sophia", flag: ["carnet", "preuve"], add: { confiance: 2, discretion: -1 },
             carnet: { who: "elise", text: "Demain, à 7 h 12, la jauge du barrage affichera 412,6. Note-le avant. Ne me crois pas encore. Vérifie." } },
-          { label: "Rester brève : « Ne dis rien à personne. Réponds-moi. »", to: "jour_lucie", flag: "carnet", add: { confiance: 1 },
+          { label: "Rester brève : « Ne dis rien à personne. Réponds-moi. »", to: "jour_sophia", flag: "carnet", add: { confiance: 1 },
             carnet: { who: "elise", text: "Ne dis rien à personne, pour l'instant. Réponds-moi si tu peux. Ici, sur cette page." } }
         ]
       },
 
       /* ---------------------------------------------------- LUCIE, LE JOUR */
-      jour_lucie: {
+      jour_sophia: {
         chapter: "Acte I — La greffe",
-        title: "Lucie, le jour",
-        pov: "lucie",
+        title: "Sophia, le jour",
+        pov: "sophia",
         text: [
           "Tu te réveilles à six heures quarante, comme toujours, sans réveil. Tu as les pieds glacés. Les orteils, sales : de la boue, du gravier, des brindilles de pin entre les doigts.",
           "Tu regardes tes pieds un long moment. Il n'a pas plu depuis trois jours.",
@@ -220,7 +220,7 @@
         title: "L'objectif",
         pov: "elise",
         text: [
-          "Tu te réveilles dans le corps de Lucie, debout au milieu du salon. Un petit objet noir est braqué sur le lit. Une diode rouge clignote.",
+          "Tu te réveilles dans le corps de Sophia, debout au milieu du salon. Un petit objet noir est braqué sur le lit. Une diode rouge clignote.",
           "Elle ne se contente pas de croire. Elle teste. Tu apprends à l'aimer pour ça.",
           "Il va falloir lui laisser quelque chose, et vite : elle regardera l'enregistrement demain matin."
         ],
@@ -233,7 +233,7 @@
       lire_carnet: {
         chapter: "Acte I — La greffe",
         title: "Les mots de la main",
-        pov: "lucie",
+        pov: "sophia",
         text: [
           "Sous la lame, un carnet gris. Tes mains tremblent, ce qui t'agace.",
           "Tu l'ouvres. Ton écriture, en plus lente, plus appliquée, comme celle d'une enfant qui recopie. À l'encre noire.",
@@ -251,7 +251,7 @@
       bruler: {
         chapter: "Acte I — La greffe",
         title: "La cheminée",
-        pov: "lucie",
+        pov: "sophia",
         text: [
           "Tu déchires les pages une à une. Tu les mets dans la cheminée. Une allumette. Le papier brunit, se recroqueville, devient noir. Au centre de chaque page, la dernière chose à brûler : la date.",
           "Tu te sens presque soulagée. Presque.",
@@ -280,7 +280,7 @@
       medecin: {
         chapter: "Acte I — La greffe",
         title: "Le docteur",
-        pov: "lucie",
+        pov: "sophia",
         text: [
           "Le cabinet du docteur Marle donne sur la place de l'église. Dans la salle d'attente, il n'y a pas d'horloge. Tu l'as toujours trouvé reposant. Aujourd'hui, ça te semble curieux.",
           "Il t'écoute sans t'interrompre, la tête un peu penchée, les mains jointes. Il a une voix douce, de ces voix qu'on croit avoir toujours connues.",
@@ -299,7 +299,7 @@
       medecin_suite: {
         chapter: "Acte I — La greffe",
         title: "Ordonnance",
-        pov: "lucie",
+        pov: "sophia",
         text: [
           { if: "f.a_releve_elle", t: "Il sourit, et le sourire arrive une demi-seconde trop tard. — Pardon. Déformation professionnelle. On parle toujours d'*elle* dans les cas de ce genre : la part de soi qu'on ne reconnaît pas." },
           { if: "!f.a_releve_elle", t: "Il note quelque chose, très vite, avec un stylo à l'encre noire. Tu ne regardes pas ce qu'il écrit." },
@@ -317,7 +317,7 @@
       reponse: {
         chapter: "Acte I — La greffe",
         title: "Réponse",
-        pov: "lucie",
+        pov: "sophia",
         text: [
           "Tu ouvres le carnet à la première page vierge. Ton stylo est bleu. Tout le reste est noir. Tu lis la dernière ligne de l'autre, celle que tu n'as pas écrite.",
           { if: "f.preuve", t: "Ce matin, la jauge du barrage affichait 412,6. À 7 h 12 exactement. Tu l'avais noté avant, sur un coin de papier, par défi. Tu ne sais plus comment respirer." },
@@ -327,11 +327,11 @@
         ],
         choices: [
           { label: "« Qui es-tu ? »", to: "fin_acte1", flag: "q_qui", add: { confiance: 1 },
-            carnet: { who: "lucie", text: "Qui es-tu ?" } },
+            carnet: { who: "sophia", text: "Qui es-tu ?" } },
           { label: "« Prouve-le encore. »", to: "fin_acte1", flag: "q_preuve",
-            carnet: { who: "lucie", text: "Prouve-le encore. Dis-moi quelque chose que je ne peux pas savoir." } },
+            carnet: { who: "sophia", text: "Prouve-le encore. Dis-moi quelque chose que je ne peux pas savoir." } },
           { label: "« Que se passe-t-il au lac, la nuit ? »", to: "fin_acte1", flag: "q_lac", add: { discretion: -1 },
-            carnet: { who: "lucie", text: "Que se passe-t-il au lac, la nuit ? Je me réveille avec les pieds pleins de boue." } }
+            carnet: { who: "sophia", text: "Que se passe-t-il au lac, la nuit ? Je me réveille avec les pieds pleins de boue." } }
         ]
       },
 
@@ -340,14 +340,14 @@
         title: "La nuit suivante",
         pov: "elise",
         text: [
-          "Tu te réveilles dans le corps de Lucie, assise devant la table, le stylo à la main, comme si tu n'avais jamais cessé d'écrire.",
+          "Tu te réveilles dans le corps de Sophia, assise devant la table, le stylo à la main, comme si tu n'avais jamais cessé d'écrire.",
           "Le carnet est ouvert à la bonne page. Quelqu'un a répondu. À l'encre bleue.",
           { if: "f.q_qui", t: "*Qui es-tu ?* Trois mots. C'est la première fois depuis cent ans que quelqu'un te demande qui tu es." },
-          { if: "f.q_preuve", t: "*Prouve-le encore.* Tu souris, avec la bouche de Lucie. Elle te ressemble plus que tu ne l'aurais cru." },
+          { if: "f.q_preuve", t: "*Prouve-le encore.* Tu souris, avec la bouche de Sophia. Elle te ressemble plus que tu ne l'aurais cru." },
           { if: "f.q_lac", t: "*Que se passe-t-il au lac, la nuit ?* C'est la bonne question. Tu ne sais pas encore y répondre." },
           "Le lac est noir, dehors. Le barrage ronronne. Quelque part, dans une cabine accrochée à la paroi, une fenêtre est allumée.",
           { if: "f.salue_anselme", t: "Tu lui as rendu son salut, la première nuit. Tu y penses, maintenant. Pourquoi t'attendait-il ?" },
-          "Une seule chose est certaine : tu n'es plus seule dans ce corps. Et ce que tu écriras maintenant, Lucie le lira demain, sans s'en souvenir."
+          "Une seule chose est certaine : tu n'es plus seule dans ce corps. Et ce que tu écriras maintenant, Sophia le lira demain, sans s'en souvenir."
         ],
         choices: [
           { label: "Continuer : Acte II (à venir)", to: "fin_provisoire" }
@@ -360,7 +360,7 @@
         pov: "neutre",
         text: [
           "L'Acte I s'arrête ici. Les deux femmes ont commencé à s'écrire.",
-          "Dans l'Acte II : le laboratoire, la galerie interdite, le cristal, un gardien qui connaît ton nom, et un message qui n'est ni de Lucie ni de toi.",
+          "Dans l'Acte II : le laboratoire, la galerie interdite, le cristal, un gardien qui connaît ton nom, et un message qui n'est ni de Sophia ni de toi.",
           "*Ce que tu as écrit dans le carnet est conservé. Reviens quand le livre sera plus long.*"
         ],
         end: true,
