@@ -54,6 +54,18 @@ Kerr ne répondit pas tout de suite. Il regarda par la vitre de son bureau, vers
 
 — Il ne se brisera pas, dit-il. On sera prudents.
 
+Il se frotta les yeux. Elle remarqua seulement alors combien il avait maigri depuis l'été, la peau grise sous le hâle, les ongles rongés.
+
+— J'avais un fils, dit-il soudain, sans la regarder. Théo. Il s'est noyé dans le lac d'Annecy il y a quatre ans. Je le cherchais sur la plage, et il était à trois mètres de moi, sous l'eau, pendant que je l'appelais. Tous les matins depuis, je me réveille et je le cherche encore. Tous les matins, je le retrouve.
+
+Il eut un petit rire sans joie.
+
+— Vous voulez savoir pourquoi je fais ça, Sophia ? Voilà. Il y a trois ans, j'ai reçu un colis. Pas d'expéditeur. Le cachet de la poste de Vallorce. Dedans, un bocal de vase avec un fil rouge au milieu, et un mot écrit à la main, une écriture de vieillard, tremblante : *Ce qui efface.* Je ne sais toujours pas qui me l'a envoyé, ni pourquoi à moi.
+
+Il se tut un moment.
+
+— Je dors ici, certaines nuits. Dans la salle du fond, à côté d'un bac. Je ne l'ai dit à personne. Et je perds des choses : mes clés, mon badge. Je le retrouve dans la boîte à gants, dans le frigo, sur le toit de ma voiture. Je me dis que c'est le prix.
+
 Puis il lui retira son badge d'accès à la galerie, poliment, en s'excusant, et lui conseilla de prendre une semaine de congé.
 
 ---

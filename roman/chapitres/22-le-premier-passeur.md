@@ -109,6 +109,20 @@ Anselme la regarda avec une infinie fatigue.
 
 — Tu ne l'as jamais vu avant le 14, dit-il. Tu es en avance, cette fois. Je te l'ai dit dans la galerie.
 
+Il baissa les yeux sur ses mains.
+
+— Il y a autre chose, dit-il. Il y a trois ans, la nuit, nous sommes descendues au pied du mur avec un bocal. Nous avons gratté un morceau de veine. Nous l'avons envoyé par la poste à un homme qui avait écrit dans un journal, après la mort de son fils, qu'il donnerait tout pour oublier. Nous avons écrit : *ce qui efface*.
+
+— Pourquoi ?
+
+— Parce que nous voulions qu'on fabrique ce qui fait oublier. Pour nous. Quarante-six ans de nuits, Élise. Quarante-six ans à refaire le même dessin. Nous voulions oublier, nous aussi.
+
+Élise pensa au laboratoire, aux bacs, aux lits de camp, à Martine Pradel à genoux dans la vase.
+
+— Le laboratoire existe à cause de nous, dit-elle.
+
+— Tout existe à cause de nous, dit le vieil homme.
+
 Élise se tut.
 
 Pour la première fois de tous les tours, peut-être, il restait sept jours.

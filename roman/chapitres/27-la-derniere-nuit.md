@@ -1,4 +1,4 @@
-# Chapitre 22 — La dernière nuit
+# Chapitre 24 — La dernière nuit
 
 *(premier jet)*
 
@@ -72,9 +72,7 @@ Elle écrivit jusqu'à quatre heures.
 
 *Tu avais le front trop grand, les sourcils droits, un creux au menton. Tu avais de la craie jusqu'aux poignets. Tu tenais ta craie comme ton père, entre le pouce et le majeur. Tu m'as demandé « c'est qui ? » en montrant un dessin de moi, et je n'ai pas su te répondre.*
 
-*Il y avait autre chose sur ton visage. Je l'avais appris par cœur la dernière nuit. Je ne sais plus ce que c'était. J'ai cherché pendant trois semaines. Je crois que je ne le retrouverai pas.*
-
-*Ce n'est pas grave. Ton père s'en souvient.*
+*Il y avait autre chose sur ton visage. Je l'avais appris par cœur la dernière nuit, et le cristal me l'avait pris. Quelqu'un me l'a rendu hier, à travers un mur : un grain de beauté, minuscule, au coin de la paupière gauche. Je ne l'oublierai plus. Je n'en aurai plus le temps.*
 
 ---
 

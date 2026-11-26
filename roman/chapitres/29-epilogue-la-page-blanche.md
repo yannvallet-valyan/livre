@@ -1,4 +1,4 @@
-# Chapitre 24 — Épilogue : la page blanche
+# Épilogue — La page blanche
 
 *(premier jet)*
 
@@ -38,7 +38,7 @@ Sa mère ne dormait plus beaucoup non plus.
 
 ---
 
-Le carnet était dans l'armoire de famille, au fond de la salle des archives, derrière une vitre fermée à clé. La bibliothèque y gardait les objets que les vieilles familles de la vallée lui avaient confiés : une montre de gousset, un registre de baptêmes, une paire de lunettes rafistolée au scotch, léguée en 2108 par un certain Mathis Delorme avec une pochette de dessins au feutre. Une boîte de petites fioles de verre, étiquetées à l'encre bleue d'une écriture serrée, *Annecy*, *Bourget*, *Vassivière*, *Vallorce*, pleines d'une eau qui s'était évaporée depuis longtemps. Et le carnet.
+Le carnet était dans l'armoire de famille, au fond de la salle des archives, derrière une vitre fermée à clé. La bibliothèque y gardait les objets que les vieilles familles de la vallée lui avaient confiés : une montre de gousset, un registre de baptêmes, une paire de lunettes rafistolée au scotch, léguée en 2108 par un certain Mathis Delorme, arrière-grand-père de la famille, avec une boîte de cailloux du lac et un cahier d'écolier où il avait noté, de 2026 à sa mort, la date de chaque nuit où il s'était réveillé contre le mur, les doigts écorchés. Une boîte de petites fioles de verre, étiquetées à l'encre bleue d'une écriture serrée, *Annecy*, *Bourget*, *Vassivière*, *Vallorce*, pleines d'une eau qui s'était évaporée depuis longtemps. Et le carnet.
 
 Une couverture grise, usée, ramollie par les mains. Des pages couvertes de deux encres, une bleue et une noire, dans une écriture qui était la même et qui ne l'était pas.
 

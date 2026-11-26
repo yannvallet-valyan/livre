@@ -1,4 +1,4 @@
-# Chapitre 23 — Le matin
+# Chapitre 25 — Le matin
 
 *(premier jet)*
 
@@ -57,7 +57,7 @@ Elle murmura *merci* à personne, et personne ne lui répondit.
 
 ---
 
-Bastien Kerr arriva à huit heures cinquante, avec une équipe de quatre personnes et deux caisses de matériel de découpe. Il trouva l'escalier occupé par des tuyaux et la galerie pleine de béton jusqu'au plafond de la brèche. Ménard lui tendit l'arrêté d'urgence signé par la préfecture à cinq heures du matin. Kerr le lut deux fois, puis le rendit.
+Bastien Kerr arriva à huit heures cinquante. Il aurait dû être là à sept heures : son badge avait disparu pendant la nuit, et il avait mis une heure et demie à le retrouver, dans le congélateur de la salle de pause, posé sur un bac à glaçons. Il arriva avec une équipe de quatre personnes et deux caisses de matériel de découpe. Il trouva l'escalier occupé par des tuyaux et la galerie pleine de béton jusqu'au plafond de la brèche. Ménard lui tendit l'arrêté d'urgence signé par la préfecture à cinq heures du matin. Kerr le lut deux fois, puis le rendit.
 
 Sophia le vit, plus tard, assis sur une marche de l'escalier de fer, son téléphone à la main, sans appeler personne. Il regardait le coulis gris qui débordait du coffrage. Il avait l'air, étrangement, soulagé.
 
@@ -134,6 +134,10 @@ Sophia s'accroupit devant lui. Elle le regarda longtemps. Il la regardait aussi,
 Mathis réfléchit, en caressant les oreilles du chien.
 
 — Elle est pas partie, dit-il enfin. Elle est dedans. Tranquille. Elle dort.
+
+Il regarda ses mains. Les jointures n'étaient plus écorchées.
+
+— L'autre aussi, elle dort, dit-il. Celle de chez moi. Cette nuit, elle a frappé jusqu'à soixante. Après, elle a arrêté.
 
 ---
 

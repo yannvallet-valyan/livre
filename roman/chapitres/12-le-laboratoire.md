@@ -101,3 +101,9 @@ Et puis il y avait un autre nom, qui revenait presque toutes les nuits depuis le
 *ROCH A. — badge exploitant — galerie niveau –3.*
 
 Son père descendait dans la galerie la nuit. Depuis des mois. À l'heure où les autres dorment.
+
+Elle faillit fermer l'historique. Puis une ligne, plus bas, l'arrêta. Elle n'apparaissait que depuis septembre, et seulement certaines nuits, à des heures où le laboratoire aurait dû être vide.
+
+*KERR B. — badge direction — galerie niveau –3 — 03:40.*
+
+Kerr répétait à qui voulait l'entendre qu'il rentrait chaque soir à Grenoble, à une heure de route. Sophia nota les dates à l'encre bleue. Elle ne sut pas quoi en penser.

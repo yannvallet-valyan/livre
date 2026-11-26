@@ -168,3 +168,6 @@ body[data-view="livre"], body[data-view="chrono"] { --bg: #f4efe6; }
 .chrono-notes li.n3, .chrono-notes li.n4 { color: var(--rust); }
 @media (prefers-color-scheme: dark) { .chrono-svg .ok-lbl { fill: #7fc496; } }
 @media (max-width: 480px) { .bar .tabs a { padding: .45rem .55rem; } }
+.toc li.extra .t { font-style: italic; }
+.toc small { font: .7rem/1 system-ui, sans-serif; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-style: normal; }
+.prose h2.part { font-weight: 400; font-size: 1.3rem; margin: 2.2rem 0 1rem; color: var(--rust); letter-spacing: .05em; }

@@ -20,7 +20,13 @@ Sacha l'attendait devant le bâtiment. Il portait le manteau du docteur Marle et
 
 Le badge s'alluma en vert. La porte de service s'ouvrit sur un couloir obscur, qui sentait le désinfectant. Ils passèrent devant la salle de culture sans s'arrêter : Sophia avait déjà tout photographié. Au bout du couloir, une porte métallique peinte en jaune : *Galerie technique — Accès réservé exploitant*. Le badge s'alluma en vert une seconde fois.
 
-Un escalier de fer descendait dans le noir. Il sentait l'eau. Ils comptèrent les marches à voix basse, ensemble, sans s'être concertés : il y en avait cent douze.
+Un escalier de fer descendait dans le noir. Il sentait l'eau. Sur la première marche, quelqu'un avait posé une lampe torche, allumée, tournée vers le bas, comme on laisse une lumière dans l'entrée pour quelqu'un qui rentre tard.
+
+Ils se regardèrent. Aucun des deux ne l'avait posée là.
+
+— Anselme ? souffla Élise.
+
+Sacha ne répondit pas. Il prit la lampe. Ils comptèrent les marches à voix basse, ensemble, sans s'être concertés : il y en avait cent douze.
 
 La galerie était un long tunnel de béton qui courait au pied du barrage, à l'intérieur même du mur, pour permettre aux ingénieurs d'inspecter la structure. Il y faisait un froid humide, parfaitement constant. Des gouttes tombaient du plafond à intervalles réguliers. Le ronronnement du barrage, qu'on entendait partout dans la vallée, était ici si fort qu'il devenait une sensation dans les os plutôt qu'un bruit.
 

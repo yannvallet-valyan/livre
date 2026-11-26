@@ -42,7 +42,15 @@ Sophia la relut trois fois. Puis elle leva les yeux vers Étienne, qui lui tourn
 
 *Fais attention à toi, Élise. Je ne sais pas ce qui t'arrive si quelqu'un te fait du mal dans mon corps. Je ne sais pas ce qui m'arrive à moi.*
 
-Élise lut ces lignes à une heure dix. À une heure quarante, elle était sur le barrage.
+Élise lut ces lignes à une heure dix.
+
+Elle allait sortir quand un caillou heurta la vitre de la cuisine. Un petit bruit sec. Puis un deuxième. Elle éteignit la lampe et s'approcha de la fenêtre. Dans la rue, sous le lampadaire, il n'y avait personne. Seulement, tout au bout, une silhouette d'homme en blouse blanche qui s'éloignait sans se presser vers le laboratoire, et qui ne se retourna pas.
+
+Sur l'appui de la fenêtre, quelqu'un avait posé un objet. Elle ouvrit. C'était le badge de Bastien Kerr, avec sa photo souriante. Au dos, sur une étiquette, d'une écriture qu'elle ne connaissait pas, fine, régulière, presque typographique : *Pour le jour où le sien ne suffira plus.*
+
+Elle le glissa dans sa poche. Elle pensa à Kerr qui l'espionnait, à un piège, à Anselme. Elle ne pensa à personne d'autre, parce qu'il n'y avait personne d'autre.
+
+À une heure quarante, elle était sur le barrage.
 
 Il était là, au milieu, sur le parapet, la tête renversée vers les étoiles. Il tourna la tête en l'entendant venir, et il comprit à sa démarche, avant même qu'elle ait ouvert la bouche. Il descendit du parapet et resta debout, les mains dans les poches du manteau, sans chercher à s'approcher.
 
@@ -130,10 +138,18 @@ Ils restèrent comme ça, les doigts mêlés, sans bouger, sans se rapprocher, s
 
 ---
 
-En rentrant, Élise trouva une feuille glissée sous la porte de la cuisine.
+En rentrant, à l'aube, elle trouva Mathis assis sur le muret, en pyjama, avec un anorak par-dessus. Il ne dormait pas. Il la regardait venir avec ses lunettes rafistolées et son air de savoir des choses.
 
-Un dessin au feutre, signé en lettres majuscules, MATHIS. On y voyait le barrage, la nuit, et sur le barrage deux personnages qui se tenaient par la main. Celui de gauche avait deux visages superposés, un bleu et un noir : c'était Sophia. Celui de droite était un homme avec un manteau. Il avait deux visages aussi. Le premier souriait. Le second, Mathis l'avait dessiné avec beaucoup de soin, avec des larmes bleues qui coulaient jusqu'au menton.
+— Tu étais avec le monsieur du docteur, dit-il.
 
-En dessous, Mathis avait écrit, de son écriture penchée d'écolier :
+Élise ne répondit pas. Elle n'avait jamais parlé à l'enfant : la nuit, il était à sa fenêtre et elle à la sienne.
 
-*LE MONSIEUR QUI PLEURE, IL TE CONNAIT DEPUIS LONGTEMPS.*
+— Lui aussi, il en a deux, dit Mathis. Un qui sourit. Et un autre derrière, qui pleure tout le temps, même quand il rit.
+
+Il descendit du muret, frissonna, et ajouta en rentrant chez lui, sans se retourner :
+
+— Le monsieur qui pleure, il te connaît depuis longtemps.
+
+Cette nuit-là, quand elle se coucha, les coups recommencèrent dans le mur. Elle compta avec eux. Cinquante-sept. Cinquante-huit. Cinquante-neuf.
+
+Elle attendit le soixantième, comme chaque nuit. Comme chaque nuit, il ne vint pas.

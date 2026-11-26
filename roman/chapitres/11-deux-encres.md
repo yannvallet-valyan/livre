@@ -20,6 +20,22 @@ Sophia ne répondit rien à cela, ce soir-là. Le lendemain, Élise trouva sur l
 
 Élise colla la carte dans le carnet avec du ruban adhésif, et passa la nuit à la fenêtre.
 
+C'est cette nuit-là qu'elle entendit le mur.
+
+Elle était revenue s'asseoir sur le lit de Sophia, vers trois heures, la tête pleine d'étoiles. Le mur de la chambre était mitoyen : de l'autre côté, il y avait la maison des Delorme, la voisine et son petit garçon. D'abord, elle crut à un tuyau. Un coup sourd, très doux, contre la cloison, à hauteur de l'oreiller. Puis un autre. Puis un autre, à intervalles parfaitement réguliers, une seconde entre chaque, pas plus.
+
+Elle se mit à compter sans le vouloir. C'était plus fort qu'elle.
+
+Vingt. Vingt et un. Les coups continuaient, patients, réguliers, comme une horloge qu'on aurait posée de l'autre côté de la pierre. Quarante. Cinquante. Elle retenait son souffle.
+
+Cinquante-sept. Cinquante-huit. Cinquante-neuf.
+
+Plus rien.
+
+Elle attendit le soixantième. Il ne vint pas. Elle resta longtemps la main posée à plat sur le papier peint, à l'endroit où les coups avaient résonné, sans comprendre pourquoi elle avait les larmes aux yeux. Puis elle se dit que c'était un enfant qui rêvait, et elle n'en parla pas dans le carnet.
+
+Les coups revinrent la nuit suivante. Et celle d'après. Elle finit par les attendre.
+
 ---
 
 Il y avait une chose qu'Élise n'avait pas écrite, et qui la tenait éveillée bien plus que la mission.

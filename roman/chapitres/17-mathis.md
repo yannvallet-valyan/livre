@@ -4,31 +4,23 @@
 
 Mathis Delorme avait neuf ans, des lunettes rafistolées au scotch, et la conviction tranquille que les adultes ne voyaient pas la moitié de ce qu'il y avait à voir.
 
-Il ne dormait pas beaucoup. Il ne l'avait jamais fait. Sa mère avait consulté trois médecins quand il était petit, puis elle avait renoncé : Mathis se couchait à neuf heures, se réveillait vers minuit, et passait deux ou trois heures assis devant la fenêtre de sa chambre, sous la couette, à regarder le village dormir. Il ne faisait pas de bruit. Il ne se plaignait pas. Il dessinait ce qu'il voyait.
+Il ne dormait pas beaucoup. Il ne l'avait jamais fait. Sa mère avait consulté trois médecins quand il était petit, puis elle avait renoncé : Mathis se couchait à neuf heures, se réveillait vers minuit, et passait deux ou trois heures assis devant la fenêtre de sa chambre, sous la couette, à regarder le village dormir. Il ne faisait pas de bruit. Il ne se plaignait pas. Puis, vers une heure, il se rendormait, et le matin sa mère le retrouvait parfois roulé en boule au pied du lit, contre le mur mitoyen, les jointures des doigts rouges et écorchées, sans qu'il sache dire pourquoi.
 
-Sophia le savait vaguement, comme on sait ces choses sur les enfants des voisins. Elle ne s'en était jamais souciée. Jusqu'au mardi où Mathis frappa à sa porte, en rentrant de l'école, avec une pochette en carton sous le bras.
+Sophia le savait vaguement, comme on sait ces choses sur les enfants des voisins. Elle ne s'en était jamais souciée. Jusqu'au mardi où Mathis frappa à sa porte, en rentrant de l'école, son cartable encore sur le dos.
 
-— Bonjour, dit-il. J'ai fait des dessins de toi.
+— Bonjour, dit-il. Je peux te dire un truc ?
 
-Elle le fit entrer. Elle lui servit un verre de jus de pomme, qu'il but en entier avant de poser la pochette sur la table. Il en sortit quatre feuilles, qu'il disposa devant elle avec soin, comme un marchand étale ses tissus.
+Elle le fit entrer. Elle lui servit un verre de jus de pomme, qu'il but en entier, sérieusement, avant de poser le verre sur la table avec soin, comme on pose une pièce sur un échiquier.
 
-C'étaient des dessins au feutre, maladroits et précis comme le sont les dessins d'enfant. On y voyait la façade de la maison, la fenêtre de la cuisine éclairée, et dans la fenêtre, une femme assise à une table, penchée sur quelque chose. Sophia reconnut la lampe, le radiateur, la chaise.
+— La nuit, dit-il, quand je me réveille, je regarde ta fenêtre. Tu es dans la cuisine. Tu écris.
 
-Sur chacun des quatre dessins, la femme avait deux visages.
+— Je ne…
 
-Ils n'étaient pas côte à côte : ils étaient l'un sur l'autre, superposés, comme deux calques mal alignés. Un visage aux contours bleus, avec de longs cheveux. Un autre, aux contours noirs, avec des cheveux courts et hérissés, qui débordait un peu du premier, vers la gauche, comme s'il essayait d'en sortir.
+— Je sais. C'est pas toi. Enfin si, c'est toi, mais il y a l'autre dame aussi. Dans tes yeux. Le jour, tu en as qu'une. La nuit, il y en a deux, l'une sur l'autre, comme quand on regarde à travers deux vitres.
 
-Sophia resta longtemps sans parler.
+Sophia ne dit rien. Il prit son silence pour une question.
 
-— C'est la nuit, dit Mathis, qui avait pris son silence pour une question. Le jour, tu n'en as qu'un. La nuit, il y a l'autre dame aussi. Elle écrit.
-
-— Tu… tu la vois ?
-
-— Ben oui. Dans tes yeux. Quand tu passes devant la fenêtre. Elle regarde partout, comme si elle avait jamais vu une cuisine.
-
-Il but une gorgée imaginaire dans son verre vide.
-
-— Elle a peur, mais elle est gentille, ajouta-t-il. Elle dit bonjour à Biscotte.
+— Elle regarde partout, comme si elle avait jamais vu une cuisine. Elle a peur, mais elle est gentille. Elle dit bonjour à Biscotte.
 
 Sophia ne savait pas quoi faire de ses mains. Elle les posa à plat sur ses cuisses.
 
@@ -38,24 +30,21 @@ Sophia ne savait pas quoi faire de ses mains. Elle les posa à plat sur ses cuis
 
 — Je sais.
 
-Il haussa les épaules, puis sortit une cinquième feuille de la pochette. Il la tint un moment contre lui, comme s'il hésitait.
+Il regarda ses propres mains. Les jointures étaient rouges, écorchées, comme celles d'un enfant qui se serait battu.
 
-— Et ça, c'est le monsieur du barrage.
+— Et après, je m'endors, dit-il plus bas. Et je me réveille contre le mur. J'ai mal aux doigts. Maman croit que je fais des cauchemars. Moi, je crois que quelqu'un se sert de mes mains pendant que je dors.
 
-Il posa la feuille sur la table.
+Il releva la tête et la regarda, sans peur, avec une sorte de curiosité tranquille.
 
-C'était la cabine, accrochée à la paroi, avec sa fenêtre jaune. Dans la fenêtre, un vieil homme, reconnaissable à sa haute taille voûtée et à ses cheveux blancs. Mais le visage n'était pas un visage. C'était une foule. Mathis avait dessiné, à l'intérieur du contour de la tête, des dizaines de petits visages, serrés les uns contre les autres, chevauchés, entassés, comme des passagers dans un métro. Ils avaient tous des cheveux courts et hérissés. Tous, sauf un : tout en bas, presque caché par les autres dans le coin du menton, Mathis avait dessiné un tout petit visage aux longs cheveux, qui descendaient en traits ondulés jusqu'au bord de la feuille. Il avait les yeux fermés.
+— Comme toi, dit-il.
 
-— Pourquoi tu as dessiné ça ? demanda Sophia, et sa voix lui parut lointaine.
+Sophia sentit le froid lui monter dans le dos.
 
-— Parce que c'est comme ça. Lui, il y a plein de dames dedans. Toutes pareilles. Elles regardent par la fenêtre. Des fois elles pleurent.
+Il descendit de sa chaise, remit son cartable sur l'épaule, puis s'arrêta sur le seuil, comme s'il venait de se rappeler quelque chose.
 
-— Et celle-là, en bas ? Avec les cheveux longs ?
+— Et le monsieur du barrage, ton papa, dans ses yeux il y en a plein. Des dames. Toutes pareilles, avec les cheveux courts. Elles regardent par la fenêtre. Des fois elles pleurent. Sauf une, tout au fond, avec des cheveux longs. C'est la plus vieille. Elle dort tout le temps. Quand elle se réveille, elle appelle sa maman.
 
-Mathis haussa les épaules.
-
-— C'est la plus vieille. Elle est tout au fond. Elle dort tout le temps. Quand elle se réveille, elle appelle sa maman.
-
+Il referma la porte derrière lui.
 ---
 
 Elle monta à la cabine le dimanche, comme d'habitude, avec la pochette de Mathis dans son sac.

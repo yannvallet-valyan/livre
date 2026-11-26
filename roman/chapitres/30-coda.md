@@ -1,4 +1,4 @@
-# Chapitre 25 — Coda
+# Coda
 
 *(premier jet)*
 
