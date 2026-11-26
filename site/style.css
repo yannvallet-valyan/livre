@@ -319,3 +319,17 @@ body[data-view="livre"], body[data-view="chrono"] { --glow: radial-gradient(elli
 .save-file:focus-within { border-color: var(--rust-hi); }
 .save-hint { font-size: .74rem; color: var(--faint) !important; }
 @media (max-width: 520px) { .save-btn { padding: .4rem .6rem; } }
+
+/* ---------- Téléchargement ---------- */
+.dl { margin: 0 0 1.6rem; }
+.dl > a {
+  display: inline-flex; flex-direction: column; gap: .3rem; padding: .85rem 1.2rem; text-decoration: none;
+  font: 600 .86rem/1 var(--sans); letter-spacing: .06em; color: var(--fg-strong);
+  background: var(--panel-2); border: 1px solid rgba(184, 84, 43, .55); border-radius: 4px; transition: background .2s, box-shadow .2s;
+}
+.dl > a:hover { background: var(--rust-soft); box-shadow: 0 0 24px -10px var(--rust-glow); }
+.dl small { font: 400 .68rem/1 var(--sans); letter-spacing: .08em; color: var(--muted); }
+.dl details { margin-top: .8rem; font: .82rem/1.55 var(--sans); color: var(--muted); }
+.dl summary { cursor: pointer; color: var(--rust-hi); }
+.dl ol { margin: .6rem 0 0; padding-left: 1.2rem; }
+.dl b { color: var(--fg); font-weight: 500; }

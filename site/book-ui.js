@@ -42,6 +42,12 @@
     let h = '<p class="chapter">Roman</p><h1 tabindex="-1">La Rouille</h1>' +
       '<p class="lede"><em>En 2137, l\'humanité oublie. Élise Varenne part pour 2026, dans le corps de son arrière-arrière-grand-mère. Elle va découvrir que la Rouille n\'a pas d\'origine. Elle a seulement un cycle.</em></p>' +
       '<p class="meta">' + BOOK.chapters.filter((c) => c.n).length + " chapitres · ~" + total.toLocaleString("fr-FR") + " mots · ~" + pages(total) + ' pages · premier jet</p>';
+    h += '<div class="dl"><a href="la-rouille.epub" download="la-rouille.epub">Télécharger le livre <small>EPUB · Kindle, Kobo, Apple Livres</small></a>' +
+      '<details><summary>Comment le lire sur Kindle ?</summary><ol>' +
+      '<li>Télécharge le fichier <b>la-rouille.epub</b>.</li>' +
+      '<li>Envoie-le avec <b>Envoyer vers Kindle</b> (amazon.fr/sendtokindle, l\'application mobile ou l\'extension de navigateur), ou par e-mail à ton adresse Kindle personnelle.</li>' +
+      '<li>Le livre apparaît dans ta bibliothèque, avec sa couverture et sa table des matières, et ta position se synchronise entre tes appareils.</li>' +
+      '</ol></details></div>';
     const done = BOOK.chapters.filter((c) => prog.read[c.id]).length;
     const last = BOOK.chapters.find((c) => c.id === prog.last);
     if (last) {

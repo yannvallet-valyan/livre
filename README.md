@@ -19,6 +19,8 @@ site/               Le livre interactif (HTML/CSS/JS purs, aucune dépendance)
   engine.js         Le moteur (sauvegarde, carnet, retour arrière, effet « Rouille »)
 scripts/
   build-book.js     Génère site/book.js (le livre linéaire) à partir de roman/chapitres/*.md
+  build-epub.py     Génère site/la-rouille.epub (liseuses, Kindle) à partir de roman/chapitres/*.md
+  cover.html        Source de la couverture (rendue en site/cover.jpg)
   check-story.js    Vérifie le graphe de l'histoire (liens cassés, impasses, scènes orphelines)
 ```
 
@@ -35,6 +37,20 @@ scripts/
 - **Le livre** : lecture linéaire, sommaire + chapitres, générés depuis `roman/chapitres/`.
   Après avoir écrit ou modifié un chapitre : `node scripts/build-book.js` (Vercel le lance aussi à chaque déploiement).
 - **Chronologie** : schéma temporel des voyages et des lignées (`site/chrono.js`), dévoilé acte par acte pour éviter de gâcher la lecture.
+
+## Version téléchargeable (EPUB / Kindle)
+
+Le livre est disponible en **EPUB**, avec couverture, table des matières et tous les chapitres : `site/la-rouille.epub` (lien « Télécharger le livre » dans l'onglet *Le livre*).
+
+- **Kindle :** envoyer le fichier avec *Envoyer vers Kindle* (amazon.fr/sendtokindle, application mobile ou extension) ou par e-mail à l'adresse Kindle personnelle. Amazon accepte l'EPUB directement.
+- **Autres liseuses :** Kobo, Apple Livres, Calibre, etc., ouvrent le fichier tel quel.
+- **Régénérer après avoir modifié un chapitre :**
+
+```bash
+python3 scripts/build-epub.py --author "Nom de l'auteur"
+```
+
+Le nom d'auteur par défaut est « L'auteur » : à changer avant toute diffusion.
 
 ## Lancer le livre interactif
 
