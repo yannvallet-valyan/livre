@@ -185,7 +185,7 @@ Elle quitta Vallorce le 20 décembre, avec Étienne, dans une voiture chargée j
 
 Corinne n'oubliait plus le nom de son chien. Florian avait retrouvé du travail à la scierie. On avait enterré Martine Pradel le 29 octobre, au cimetière du haut, celui qu'on n'avait pas noyé.
 
-Le test, Sophia l'avait fait la veille, dans la salle de bains de la maison vide, assise sur le rebord de la baignoire. Elle avait regardé les deux traits apparaître, l'un après l'autre. Elle n'avait pas été surprise. Elle avait posé la main à plat sur son ventre, et elle avait dit à voix haute, dans la maison vide, au plancher, au radiateur, au carnet rangé dans le carton :
+Le test, Sophia l'avait fait la veille, dans la salle de bains de la maison vide, assise sur le rebord de la baignoire. Elle avait regardé les deux traits apparaître, l'un après l'autre. Elle n'avait pas été surprise. Par habitude, parce qu'elle comptait tout, elle avait commencé à compter les semaines sur ses doigts, depuis le début de novembre. Le six. Puis les jours d'après. Elle s'était arrêtée avant d'arriver au bout, avait refermé la main, et elle n'avait jamais rouvert ce calcul. Elle avait posé la main à plat sur son ventre, et elle avait dit à voix haute, dans la maison vide, au plancher, au radiateur, au carnet rangé dans le carton :
 
 — Elle s'appellera Anne.
 

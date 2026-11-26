@@ -682,7 +682,7 @@
           "*Oui.*",
           { if: "f.etienne_sait", t: "Étienne sait tout depuis octobre. Il n'a pas hésité longtemps." },
           "Dans le tiroir d'Étienne, à l'encre bleue, sous une note de Noé : *Je suis d'accord. S'il le veut, il peut rester.*",
-          "Plus tard, quand Élise te révèle enfin la fille que tu auras, Anne, c'est toi qui écris la suite : *la dernière nuit, je vous la donne, à tous les deux. Je ne veux pas savoir laquelle.*"
+          "Plus tard, tu écris aussi : *Vous vous êtes tenus à un mètre pendant deux mois pour nous laisser la place. La dernière nuit, prenez ce mètre. Nos corps vous le prêtent. Je ne veux rien savoir de cette nuit.*"
         ],
         choices: [
           { label: "La dernière nuit.", to: "a3_derniere", carnet: { who: "sophia", text: "Oui." } }
@@ -695,7 +695,8 @@
         pov: "elise",
         text: [
           "Tu te réveilles à minuit dans le lit de Sophia, contre un corps qui respire. À côté de toi, quelqu'un compte à voix basse. Noé.",
-          "En bas, sous le caillou de Mathis, deux lettres. Sophia t'a révélé ta propre ancêtre, Anne, et t'a demandé de ne jamais savoir : *la dernière nuit, je vous la donne. Chez moi, dans mon lit. Étienne est d'accord.* La lettre d'Étienne dit la même chose à Noé. Tu regardes son visage pendant qu'il la lit.",
+          "En bas, sous le caillou de Mathis, deux lettres. *La dernière nuit, prenez ce mètre. Nos corps vous le prêtent.* La lettre d'Étienne dit la même chose à Noé. Tu regardes son visage pendant qu'il la lit.",
+          "— Et Anne ? demande-t-il. — Elle est déjà là, sans doute. Depuis le 6. On ne peut plus rien abîmer. Ni l'un ni l'autre ne compte les jours sur ses doigts.",
           "Il reste trente-deux pages blanches. Tu écris jusqu'à quatre heures. Le cristal, le coulis, Ménard, les bacs. Anne, le 3 août, à Lyon. Ton père, ses nuits, *merci d'avoir attendu*. Iris, et le grain de beauté, si tu l'as retrouvé.",
           "Il reste une chose à écrire à Sophia. Tu la connais. Tu sais ce qu'elle garde sur son étagère, entre deux lacs."
         ],
@@ -713,7 +714,7 @@
         pov: "sophia",
         text: [
           "Tu te réveilles dans ton lit, sous une couverture qui sent le givre, la main dans celle d'Étienne. Six heures. Tout en bas, au pied du barrage, les pompes démarrent.",
-          "Tu ne sauras jamais ce qui s'est passé entre quatre heures et l'aube. Tu l'as demandé. Si une enfant naît en août, personne ne pourra dire si elle vient du jour ou de la nuit.",
+          "Tu ne sauras jamais ce qui s'est passé entre quatre heures et l'aube. Tu l'as demandé.",
           "Kerr arrive à 8 h 50, trop tard : son badge avait disparu pendant la nuit, on l'a retrouvé dans le congélateur.",
           "À 9 h 40, le coulis atteint le niveau du nœud. Quelque chose s'endort en toi pour la dernière fois. Une vague : une bibliothèque sans fenêtres, une recette de soupe, une chanson dont tu connais enfin les paroles.",
           "L'après-midi, tu vides les bacs dans la benne de béton. Onze. Le douzième ne contient qu'une aiguille rouge, pas plus longue qu'un ongle.",

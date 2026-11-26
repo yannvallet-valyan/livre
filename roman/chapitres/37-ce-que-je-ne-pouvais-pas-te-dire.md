@@ -64,9 +64,9 @@ Les pâtes débordèrent. Ni l'un ni l'autre ne bougea. L'eau grésilla sur la p
 
 Elle mit longtemps à s'endormir, cette nuit-là, et la suivante. Elle restait allongée sur le dos, dans son lit, contre le mur mitoyen, à regarder le plafond. Elle pensait.
 
-Elle pensa aux deux voyageurs. À ce qu'Élise avait écrit d'eux, sans tout dire, par fragments, de nuit en nuit. Un homme qui lui laissait des lentilles depuis deux ans sans signer. Une femme qui avait oublié son visage et qui l'avait aimé de nouveau sans le reconnaître. Des règles d'archivistes. Un mètre entre leurs mains, gardé pendant deux mois sur un parapet gelé. Un enfant, au bout de tout ça, à l'autre bout du temps : Iris. Une petite fille au front trop grand, aux mains pleines de craie, qui descendrait d'Anne. Qui descendrait de la fille qu'elle-même portait peut-être déjà.
+Elle pensa aux deux voyageurs. À ce qu'Élise avait écrit d'eux, sans tout dire, par fragments, de nuit en nuit. Un homme qui lui laissait des lentilles depuis deux ans sans signer. Une femme qui avait oublié son visage et qui l'avait aimé de nouveau sans le reconnaître. Des règles d'archivistes. Un mètre entre leurs mains, gardé pendant deux mois sur un parapet gelé. Une petite fille, au bout de tout ça, à l'autre bout du temps, qu'ils avaient faite ensemble et qu'ils avaient perdue tous les deux : Iris.
 
-Elle pensa qu'Anne naîtrait de son corps et de celui d'Étienne. De leurs gènes, de leur sang, de leurs deux familles, des Varenne et des Marle. Mais qu'il y avait autre chose qu'un corps, dans ce qui fait un enfant. Il y avait l'envie. Le désir. L'élan. Tout ce qui pousse deux personnes l'une vers l'autre, une nuit plutôt qu'une autre. Et elle s'aperçut que, depuis deux mois, cet élan-là ne lui appartenait plus tout à fait. Il venait du jour et de la nuit à la fois. D'elle et d'Étienne, au café, au bord du lac, dans une cuisine qui sentait les pâtes brûlées. Et d'eux, sur le barrage, sous Orion, à un mètre l'un de l'autre.
+Elle pensa à ce qu'elle-même avait eu, depuis deux mois, et qu'ils n'avaient pas eu. Un café, une main posée sur la sienne pendant deux battements de cœur, un baiser sur le chemin du lac, une nuit sous un toit où la pluie tambourinait. Tout cela, elle l'avait eu dans un corps qui était le sien, et ils le lui avaient laissé. Ils s'étaient tenus à un mètre, toutes ces nuits, sur un parapet gelé, pour qu'elle puisse ne pas se tenir à un mètre d'Étienne, le jour. Elle ne s'en était pas aperçue. Elle s'en apercevait maintenant, allongée dans le noir, et cela lui faisait l'effet d'une dette immense qu'on vous révèle d'un coup, avec la certitude qu'on ne pourra jamais la rembourser.
 
 Elle avait été jalouse de ça. Elle ne l'était plus.
 
@@ -86,11 +86,11 @@ Le soir du 11, avant de se coucher, elle alluma la lampe verte de la cuisine, ou
 
 *Et la dernière nuit, je voudrais vous la donner.*
 
-*Pas en cachette. Pas par effraction. Je vous la donne, à tous les deux. Chez moi, dans mon lit. Étienne est d'accord, il te l'écrira lui-même. Nous serons là, le soir, tous les deux, nous aussi, avant de dormir. Et quand nous dormirons, ce sera votre tour. Pour la première et la dernière fois.*
+*Vous vous êtes tenus à un mètre pendant deux mois pour nous laisser la place. La dernière nuit, prenez ce mètre. Pas en cachette, pas par effraction : nos corps vous le prêtent. Chez moi, dans mon lit, si vous le voulez. Étienne est d'accord, il te l'écrira lui-même. Nous serons là, le soir, nous aussi, avant de dormir. Et quand nous dormirons, ce sera votre tour. Pour la première et la dernière fois.*
 
-*Je ne veux pas savoir. C'est ma seule condition. Je ne veux pas savoir quelle nuit, quel soir, quel matin. Ni si c'était nous, ni si c'était vous. Je veux qu'Anne soit faite par tout l'amour qu'il y a autour d'elle, le jour et la nuit, et que personne, jamais, ne puisse dire lequel. Père non dénommé. Mère non dénommée non plus, peut-être. Le registre aura raison.*
+*Je ne veux rien savoir de cette nuit. C'est ma seule condition. Pas un mot dans le carnet, pas une ligne, rien. Elle sera à vous. Le matin, nous reprendrons nos corps, et nous ne poserons pas de questions.*
 
-*Je sais ce que je te donne. Je sais aussi ce que tu me donnes. Ce n'est pas un échange. C'est une demande.*
+*Je sais ce que je te donne. Je sais aussi ce que tu m'as donné. Ce n'est pas un échange. C'est une demande.*
 
 *Dis oui.*
 

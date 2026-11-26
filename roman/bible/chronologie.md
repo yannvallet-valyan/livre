@@ -191,17 +191,19 @@ Personne n'est méchant.
 - **La forme finale de leur amour :** laisser la place. « Après, eux, ils pourront. »
 
 
-## 10. La conception d'Anne (révision 5)
+## 10. La conception d'Anne : un doute que seul le lecteur voit (révision 6)
 
-- **Le principe :** on ne doit jamais savoir si Anne a été faite le jour (par Sophia et Étienne) ou la nuit (par Élise et Noé, dans leurs corps). C'est le sens profond de « père non dénommé ». Sophia en fait une condition : *« Je ne veux pas savoir. »*
-- **Le consentement :**
-  - Élise révèle Anne à Sophia avant de lui demander quoi que ce soit (« je ne peux pas te demander ton corps sans te dire pour quoi »).
-  - C'est **Sophia** qui propose la dernière nuit. Étienne consent par écrit. La proposition est éclairée, écrite le jour, révocable.
-  - Le tour raté d'autrefois échouait parce que Sophia n'avait **pas été consultée**, et non parce que les voyageurs s'étaient aimés.
-- **La nuit du 13 au 14 :**
-  - le soir, Sophia et Étienne s'aiment, puis s'endorment ensemble chez Sophia ;
-  - la nuit, Élise et Noé se réveillent dans ce même lit, lisent les deux lettres, écrivent et mangent des lentilles, montent voir Orion et redescendent main dans la main ;
-  - **l'acte lui-même est en ellipse**. Le cahier noir ne contient qu'une ligne barrée ;
-  - ils s'endorment au compte de 59, la main d'Élise trouvant celle de Noé au 37ᵉ chiffre.
-- **Iris adulte** les voit rentrer depuis la fenêtre de Mathis. Elle s'éloigne du mur pour « leur laisser la place ».
-- **Conséquence :** Anne porte, dès sa conception, ce qui reste d'Élise et de Noé. C'est une raison de plus aux nuits hantées de la ligne B.
+- **Le principe :** aucun personnage ne pense que la dernière nuit pourrait concevoir Anne. Le doute n'est jamais formulé dans le texte. Il naît seulement chez le lecteur qui recoupe les dates.
+- **Le consentement** porte sur la **proximité**, pas sur un enfant.
+  - Élise révèle d'abord Anne à Sophia, par honnêteté, avant de lui demander de rester. C'est un moment séparé.
+  - Puis Sophia offre aux voyageurs la dernière nuit : *« Vous vous êtes tenus à un mètre pendant deux mois. La dernière nuit, prenez ce mètre. Nos corps vous le prêtent. Je ne veux rien savoir de cette nuit. »*
+  - Étienne consent par écrit. Le « je ne veux rien savoir » relève de la pudeur, pas d'une stratégie.
+- **L'aveuglement d'Élise et de Noé :** ils sont convaincus qu'Anne a été conçue le **6 novembre** (première nuit de Sophia et d'Étienne, et leur réveil immobile du 7). Noé : *« Alors on ne peut plus rien abîmer. »* Le narrateur ajoute : *« Ni l'un ni l'autre ne compta les jours sur ses doigts. »*
+- **Les indices laissés au lecteur :**
+  - la naissance le 3 août est compatible aussi bien avec le 6 qu'avec le 13 novembre ;
+  - Sophia et Étienne s'aiment aussi le soir du 13, avant de dormir ;
+  - en décembre, Sophia compte les semaines sur ses doigts et **s'arrête avant le bout** ;
+  - le registre dit « père non dénommé » ;
+  - dans le cahier noir de K., une **ligne raturée**, sans un mot sur Anne.
+- **L'ellipse :** « Ils franchirent le mètre. » Rien d'autre.
+- **L'écho thématique :** « Qui a fait Anne ? » rejoint, sans qu'on le dise, la question de K. : *qui, de nous tous, a commencé ?*

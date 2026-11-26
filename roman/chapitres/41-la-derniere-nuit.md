@@ -16,7 +16,7 @@
 
 *Je ne sais pas comment on écrit le reste.*
 
-*Étienne est là. Il va dormir à côté de moi, dans mon lit. Nous nous serons aimés ce soir, nous deux, et je n'ai pas honte de te l'écrire. Je te l'ai dit : personne ne saura. Ni toi ni moi.*
+*Étienne est là. Il va dormir à côté de moi, dans mon lit. Ne m'écris rien de la suite. Je te l'ai demandé.*
 
 *Sous le caillou de Mathis, il y a deux lettres. Une de moi pour toi. Une d'Étienne pour lui. Elles disent la même chose.*
 
@@ -140,6 +140,20 @@ Ils s'assirent. Ils ne gardèrent pas de mètre entre eux. Il passa un bras auto
 
 — C'est la seule, répéta-t-il.
 
+Il se tut. Elle sentit qu'il pensait encore à autre chose, et elle sut à quoi, parce qu'elle y avait pensé elle aussi, toute la journée, enfouie au fond de Sophia.
+
+— Et Anne ? dit-il enfin, très bas. Le registre. Si on…
+
+— Elle est déjà là, dit Élise. Sans doute. Depuis le 6. Depuis la nuit où on s'est réveillés dans son lit à lui, sans bouger. Ils s'aiment depuis des semaines, Noé. Le registre ne peut plus changer.
+
+Il réfléchit longtemps. Elle le sentit se détendre, peu à peu, contre elle, comme un homme qui pose un sac qu'il porte depuis deux mois.
+
+— Alors on ne peut plus rien abîmer, dit-il.
+
+— Non. Plus rien.
+
+Elle le crut. Il la crut. Ni l'un ni l'autre ne compta les jours sur ses doigts.
+
 Ils regardèrent le ciel. Orion était au sud, très haut, le chasseur penché au-dessus du barrage. Ils nommèrent les étoiles qu'ils connaissaient, puis celles qu'ils ne connaissaient pas, et ils leur inventèrent des noms. Ils en appelèrent une *Matthias*, une *Ruben*, une *Biscotte*. Ils en appelèrent une *Iris*, une petite, presque invisible, à gauche de la ceinture, et ils ne dirent plus rien pendant un long moment.
 
 — Raconte-la-moi, dit Élise. Une dernière fois.
@@ -186,7 +200,7 @@ Elle pensa à la bibliothèque. À Matthias Oller qui épluchait des légumes in
 
 Vingt. Vingt et un.
 
-Elle pensa à Sophia, qui dormait au fond, très bas, et qui allait se réveiller, et qui ne saurait pas, et qui ne voulait pas savoir. Elle pensa : *merci*.
+Elle pensa à Sophia, qui dormait au fond, très bas, et qui allait se réveiller, et qui ne voulait rien savoir de cette nuit. Elle pensa : *merci*.
 
 Trente-sept.
 
