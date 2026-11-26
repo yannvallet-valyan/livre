@@ -10,7 +10,11 @@
 <body data-pov="neutre">
   <header class="bar">
     <span class="brand">La Rouille</span>
-    <nav aria-label="Outils">
+    <nav class="tabs" aria-label="Sections">
+      <a id="tab-story" href="#" aria-current="page">Roman interactif</a>
+      <a id="tab-book" href="#livre" aria-current="false">Le livre</a>
+    </nav>
+    <nav class="tools story-only" aria-label="Outils">
       <button id="btn-back" type="button" title="Revenir au choix précédent">↶ Revenir</button>
       <button id="btn-carnet" type="button" aria-expanded="false" aria-controls="carnet" data-count="0">Carnet</button>
       <button id="btn-gauges" type="button" aria-expanded="false" aria-controls="gauges">Jauges</button>
@@ -19,11 +23,11 @@
     </nav>
   </header>
 
-  <section id="gauges" class="gauges" hidden aria-label="Jauges">
+  <section id="gauges" class="gauges story-only" hidden aria-label="Jauges">
     <div id="gauge-bars"></div>
   </section>
 
-  <main>
+  <main class="story-only">
     <article id="scene" class="scene enter" aria-live="polite">
       <p id="chapter" class="chapter"></p>
       <h1 id="title" tabindex="-1"></h1>
@@ -32,7 +36,7 @@
     </article>
   </main>
 
-  <aside id="carnet" class="carnet" hidden aria-label="Le carnet">
+  <aside id="carnet" class="carnet story-only" hidden aria-label="Le carnet">
     <div class="carnet-head">
       <h2>Le carnet</h2>
       <button id="close-carnet" type="button" aria-label="Fermer le carnet">✕</button>
@@ -40,8 +44,12 @@
     <ol id="carnet-list"></ol>
   </aside>
 
+  <main id="book" class="book-only" aria-live="polite"></main>
+
   <noscript><p style="padding:1rem">Ce livre interactif nécessite JavaScript.</p></noscript>
   <script src="story.js"></script>
   <script src="engine.js"></script>
+  <script src="book.js"></script>
+  <script src="book-ui.js"></script>
 </body>
 </html>

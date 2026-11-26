@@ -101,3 +101,29 @@ body[data-pov="lucie"] .text em { color: var(--ink-blue); }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+/* ---------- Onglets et livre linéaire ---------- */
+.tabs { display: flex; gap: .25rem; }
+.tabs a { color: var(--muted); text-decoration: none; padding: .45rem .8rem; border-radius: 999px; border: 1px solid transparent; font: .8rem/1 system-ui, sans-serif; }
+.tabs a:hover { color: var(--rust); }
+.tabs a[aria-current="page"] { color: var(--fg); border-color: var(--rust); }
+.bar .tools { display: flex; flex-wrap: wrap; gap: .35rem; }
+body[data-view="livre"] .story-only, body:not([data-view="livre"]) .book-only { display: none !important; }
+body[data-view="livre"] { --bg: #f4efe6; }
+@media (prefers-color-scheme: dark) { body[data-view="livre"] { --bg: #14110e; } }
+.lede { font-size: 1.05em; color: var(--muted); }
+.meta { font: .78rem/1 system-ui, sans-serif; letter-spacing: .08em; color: var(--muted); margin: 1.4rem 0; }
+.toc { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--line); }
+.toc li { border-bottom: 1px solid var(--line); }
+.toc a, .toc li.soon { display: grid; grid-template-columns: 2rem 1fr auto; gap: .8rem; align-items: baseline; padding: .8rem .2rem; color: inherit; text-decoration: none; }
+.toc a:hover .t { color: var(--rust); }
+.toc .num { color: var(--rust); font-variant-numeric: tabular-nums; }
+.toc .p { font: .75rem/1 system-ui, sans-serif; color: var(--muted); }
+.toc li.soon { color: var(--muted); opacity: .6; }
+.prose p { margin: 0 0 1.05rem; text-indent: 1.4em; text-align: justify; hyphens: auto; }
+.prose p:first-child, .prose .sep + p { text-indent: 0; }
+.prose em { font-style: italic; color: inherit; }
+.prose .sep { text-indent: 0; text-align: center; color: var(--muted); margin: 1.6rem 0; }
+.pager { display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--line); font: .85rem/1.3 system-ui, sans-serif; }
+.pager a { color: var(--rust); text-decoration: none; }
+@media (max-width: 480px) { .bar { gap: .4rem; } }

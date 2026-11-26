@@ -16,6 +16,7 @@ site/               Le livre interactif (HTML/CSS/JS purs, aucune dépendance)
   story.js          Toute l'histoire interactive : scènes, choix, variables
   engine.js         Le moteur (sauvegarde, carnet, retour arrière, effet « Rouille »)
 scripts/
+  build-book.js     Génère site/book.js (le livre linéaire) à partir de roman/chapitres/*.md
   check-story.js    Vérifie le graphe de l'histoire (liens cassés, impasses, scènes orphelines)
 ```
 
@@ -25,6 +26,12 @@ scripts/
 - Le suivi d'avancement est en tête de `roman/plan/plan-chapitres.md`.
 - Avant d'écrire, relire `roman/bible/themes-et-style.md` (voix, temps, règles de ton).
 - Ce qui reste flou ou contradictoire va dans `roman/notes/questions-ouvertes.md`.
+
+## Le site : deux onglets
+
+- **Roman interactif** : l'histoire à choix (`site/story.js`).
+- **Le livre** : lecture linéaire, sommaire + chapitres, générés depuis `roman/chapitres/`.
+  Après avoir écrit ou modifié un chapitre : `node scripts/build-book.js` (Vercel le lance aussi à chaque déploiement).
 
 ## Lancer le livre interactif
 
