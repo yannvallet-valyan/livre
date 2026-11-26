@@ -10,7 +10,7 @@ Une feuille d'ordonnance pliée en quatre, à l'en-tête du cabinet de la place 
 
 *Pour quand il fera froid et que je ne serai pas là.*
 
-Elle resta longtemps dans l'entrée. Elle referma la porte. Elle s'assit sur la première marche de l'escalier, celle qui glissait, la feuille sur les genoux.
+Elle ne bougea pas de l'entrée. Elle referma la porte. Elle s'assit sur la première marche de l'escalier, celle qui glissait, la feuille sur les genoux.
 
 Ce n'était pas pour elle. Elle le savait. C'était pour l'autre. Pour la femme de la nuit, qui portait sa parka, ses mains, sa bouche. Et pourtant, assise sur la marche, une feuille de recette à la main, Sophia Varenne, trente-sept ans, hydrologue, sentit monter en elle une chose qu'elle n'avait pas ressentie depuis l'adolescence, et qu'elle mit plusieurs minutes à reconnaître, tant elle était absurde.
 
@@ -108,7 +108,7 @@ La deuxième nuit, la page était pleine.
 
 *Je ne veux pas t'aimer à ta place. Je veux que tu aimes à ta place.*
 
-Sophia posa le carnet sur ses genoux. Dehors, il commençait à pleuvoir. Elle resta longtemps à regarder la pluie, sans penser à rien.
+Sophia posa le carnet sur ses genoux. Dehors, il commençait à pleuvoir. Elle regarda tomber la pluie, sans penser à rien.
 
 Puis elle prit son téléphone, et elle appela Étienne, et elle lui dit qu'elle avait oublié son écharpe au café, et qu'elle voulait qu'il la lui rende lui-même, ce soir, chez elle, et qu'il fasse des lentilles, parce qu'elle avait la recette, et qu'elle voulait savoir si c'était bon.
 

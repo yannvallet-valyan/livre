@@ -64,7 +64,7 @@ Elle coucha sa fille à dix heures. Anne s'endormit au milieu d'une histoire, le
 
 Elle pensa au registre rouge, qu'elle n'avait jamais vu. *Père non dénommé.* Elle avait toujours cru que cette phrase la protégeait. Qu'elle protégeait Étienne, sa lignée, son nom, contre quelqu'un qui viendrait un jour chercher dans le sang des Marle ce qu'on était venu chercher dans celui des Varenne. Elle s'aperçut, assise au bord du lit de sa fille, que la phrase pouvait vouloir dire autre chose.
 
-Elle se leva. Elle alla dans le salon. Dans le tiroir du bas de la bibliothèque, sous des papiers d'assurance, il y avait le carnet gris. Elle l'ouvrit à la dernière page. Elle était blanche, comme toujours. Elle la regarda longtemps, le stylo bleu à la main.
+Elle se leva. Elle alla dans le salon. Dans le tiroir du bas de la bibliothèque, sous des papiers d'assurance, il y avait le carnet gris. Elle l'ouvrit à la dernière page. Elle était blanche, comme toujours. Elle la regarda, le stylo bleu à la main.
 
 Elle ne l'écrivit pas.
 

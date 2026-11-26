@@ -54,7 +54,7 @@ C'était Ruben. Il avait les yeux rouges.
 
 — L'homme, dit-il. Celui qui pleurait à la porte. Il veut partir derrière elle. Il dit qu'il a une branche qui passe par Vallorce, lui aussi. Il m'a demandé un éclat.
 
-Oriane le regarda longtemps. Elle pensa : *il l'arrêtera peut-être*. Elle pensa : *ou il la retiendra là-bas*. Elle pensa : *ou il fera en sorte que tout se passe comme c'est écrit*. Elle n'avait aucun moyen de savoir laquelle de ces pensées était vraie, et c'est précisément pour cela qu'elle répondit :
+Oriane le dévisagea. Elle pensa : *il l'arrêtera peut-être*. Elle pensa : *ou il la retiendra là-bas*. Elle pensa : *ou il fera en sorte que tout se passe comme c'est écrit*. Elle n'avait aucun moyen de savoir laquelle de ces pensées était vraie, et c'est précisément pour cela qu'elle répondit :
 
 — Donne-le-lui.
 

@@ -38,7 +38,7 @@ Le soir, elle appela le cabinet médical de la place de l'église et prit le pre
 
 Le docteur Marle recevait dans une maison de pierre aux volets verts, au premier étage, au-dessus de la pharmacie. La salle d'attente n'avait pas d'horloge. Sophia le remarqua en s'asseyant, et cela lui parut étrange qu'un médecin choisisse de ne pas montrer l'heure à ceux qui attendent.
 
-Étienne Marle avait quarante-six ans, des tempes grises, une cicatrice fine au-dessus du sourcil gauche et une voix douce qui semblait toujours sur le point de rire de quelque chose. Il la fit asseoir, s'assit en face d'elle plutôt que derrière son bureau, et l'écouta sans l'interrompre.
+Étienne Marle avait quarante-six ans, des tempes grises, une cicatrice fine au-dessus du sourcil gauche et une voix douce qui semblait toujours sur le point de rire. Il la fit asseoir, s'assit en face d'elle plutôt que derrière son bureau, et l'écouta sans l'interrompre.
 
 Le bureau ressemblait à son occupant : un peu trop grand, un peu en désordre, chaleureux malgré lui. Un échiquier au coin de la table, une partie en cours, les pièces blanches en mauvaise posture. Une sacoche de cuir craquelé sur le portemanteau. Et, sur le rebord de la fenêtre, une paire de gants de jardinage, terreux, usés aux doigts, qui n'avaient rien à faire dans un cabinet médical. Sophia les regarda un peu trop longtemps. Il s'en aperçut.
 
@@ -64,7 +64,7 @@ Elle hésita.
 
 Il ne demanda pas qui était son père. Tout le monde, à Vallorce, savait qui était Anselme Roch.
 
-Il prit des notes. Il écrivait au stylo plume, à l'encre bleue. Elle se surprit à regarder la couleur, et à en être soulagée sans savoir pourquoi.
+Il prit des notes. Il écrivait au stylo plume, à l'encre bleue. Elle se surprit à regarder la couleur, et à s'en trouver bêtement soulagée.
 
 — Vous écrivez, la nuit ? demanda-t-il soudain, sans lever les yeux.
 

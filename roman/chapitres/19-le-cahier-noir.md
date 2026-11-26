@@ -62,7 +62,7 @@ Elle reconnut la silhouette. Kerr. Le directeur. Elle l'avait vu de loin, une fo
 
 Ce n'était pas Kerr.
 
-Elle le sut à la voix. Elle ne connaissait pas la voix de Kerr, mais elle connaissait celle-là : c'était une voix qui avait peu servi, qui butait légèrement sur les mots comme on bute sur une langue apprise. Une voix comme la sienne. Une voix de quelqu'un qui n'était pas chez lui dans sa propre gorge.
+Elle le sut à la voix. Elle ne connaissait pas la voix de Kerr, mais elle connaissait celle-là : c'était une voix qui avait peu servi, qui butait légèrement sur les mots, en étranger. Une voix comme la sienne. Une voix de quelqu'un qui n'était pas chez lui dans sa propre gorge.
 
 — Qui êtes-vous ? murmura-t-elle.
 
@@ -80,7 +80,7 @@ Il regarda le bac numéro sept, les aiguilles rouges qui s'étaient redressées 
 
 — C'est vous, dit-elle. La lampe sur la marche.
 
-Il inclina légèrement la tête, comme on salue.
+Il inclina légèrement la tête, en guise de salut.
 
 — Une politesse, dit-il. Rien d'autre. Je n'interviens pas.
 
@@ -100,7 +100,7 @@ Mais il s'était déjà détourné. Il s'était allongé sur le lit défait, le 
 
 En moins d'une minute, sa respiration changea. Elle devint lente, lourde, régulière. Il dormait.
 
-Élise resta longtemps immobile au milieu de la salle violette, à regarder un homme dormir à côté d'un bac de cristal. Puis elle comprit, avec une netteté qui la glaça : celui qui dormait maintenant, c'était Kerr. L'autre était parti. Ou plutôt, il était descendu, tout au fond, là où elle-même descendait chaque matin, quand Sophia ouvrait les yeux.
+Élise demeura immobile au milieu de la salle violette, à regarder un homme dormir à côté d'un bac de cristal. Puis elle comprit, avec une netteté qui la glaça : celui qui dormait maintenant, c'était Kerr. L'autre était parti. Ou plutôt, il était descendu, tout au fond, là où elle-même descendait chaque matin, quand Sophia ouvrait les yeux.
 
 Il y en avait un autre. Encore un. Et celui-là savait ce qu'elle avait mangé la sixième nuit.
 

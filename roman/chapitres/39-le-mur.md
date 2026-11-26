@@ -1,4 +1,4 @@
-# Chapitre 33 — Le mur
+# Chapitre 34 — Le mur
 
 *(premier jet)*
 
@@ -46,7 +46,7 @@ La voix d'un enfant, et les mots d'une femme. Le rythme d'une femme, les pauses 
 
 — Qui êtes-vous ?
 
-Un long silence. Puis la voix, plus bas encore, comme on avoue une faute :
+Un long silence. Puis la voix, plus bas encore, presque coupable :
 
 — Quand j'étais petite, tu comptais jusqu'à soixante pour m'endormir. Tu tapais doucement sur le bois du lit, à chaque chiffre. Je m'endormais toujours avant la fin. Je n'ai jamais entendu le soixantième. Alors, quand je compte, je m'arrête toujours à cinquante-neuf. Je ne sais pas faire autrement.
 

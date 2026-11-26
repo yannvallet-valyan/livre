@@ -42,7 +42,7 @@ Il releva la tête et la regarda, sans peur, avec une sorte de curiosité tranqu
 
 Sophia sentit le froid lui monter dans le dos.
 
-Il descendit de sa chaise, remit son cartable sur l'épaule, puis s'arrêta sur le seuil, comme s'il venait de se rappeler quelque chose.
+Il descendit de sa chaise, remit son cartable sur l'épaule, puis s'arrêta sur le seuil, comme s'il venait de se souvenir d'un détail.
 
 Avant de partir, il fouilla dans la poche de son anorak et posa sur la table un caillou. Un galet du lac, gris, parfaitement rond, traversé d'une veine blanche.
 
@@ -67,7 +67,7 @@ Ils descendirent sur la grève par le chemin du lac. Mathis marchait devant, son
 
 — Il faut qu'ils aient une histoire, dit-il sans lever les yeux. Ceux qui n'en ont pas, je les laisse. Ils en auront une plus tard. On n'est pas pressés.
 
-Elle s'accroupit à côté de lui. Elle ramassa un galet, au hasard, gris, rond, banal. Elle le lui tendit. Il le regarda longtemps, le retourna, le soupesa.
+Elle s'accroupit à côté de lui. Elle ramassa un galet, au hasard, gris, rond, banal. Elle le lui tendit. Il l'examina, le retourna, le soupesa.
 
 — Celui-là, il attend quelqu'un, dit-il.
 
@@ -97,7 +97,7 @@ Sophia ne répondit pas. Elle regarda le barrage, la petite cabine jaune au flan
 
 Elle monta à la cabine le dimanche, comme d'habitude, avec le caillou de Mathis dans la poche.
 
-Son père lui ouvrit avant qu'elle frappe. Il avait l'air plus fatigué que d'ordinaire, et plus vieux, comme si quelque chose en lui avait commencé à céder. Il la regarda un instant sans la reconnaître, une seconde de trop, et son visage s'éclaira d'une manière qu'elle ne lui avait jamais vue.
+Son père lui ouvrit avant qu'elle frappe. Il avait l'air plus fatigué que d'ordinaire, et plus vieux, comme si une poutre, en lui, avait commencé à céder. Il la regarda un instant sans la reconnaître, une seconde de trop, et son visage s'éclaira d'une manière qu'elle ne lui avait jamais vue.
 
 — Élise, dit-il.
 
@@ -127,7 +127,7 @@ Une maison, avec un toit en triangle et une porte. Un soleil dans le coin, avec 
 
 — Papa, dit Sophia. Qu'est-ce que c'est ?
 
-Anselme regarda les murs comme s'il les voyait pour la première fois. Il resta longtemps silencieux. Puis il dit, d'une voix qui n'était pas tout à fait la sienne, plus haute, plus douce :
+Anselme regarda les murs comme s'il les voyait pour la première fois. Il se tut un moment. Puis il dit, d'une voix qui n'était pas tout à fait la sienne, plus haute, plus douce :
 
 — Je ne sais pas. Je les fais la nuit. Je me réveille, il y en a un de plus.
 

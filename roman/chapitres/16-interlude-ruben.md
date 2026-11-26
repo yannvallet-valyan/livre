@@ -10,7 +10,7 @@ Les éducatrices faisaient ce qu'elles pouvaient. Elles avaient trente enfants p
 
 Ruben resta sur le seuil, sa boîte à outils à la main. Il ne savait pas parler aux enfants. Il savait parler aux machines, aux lampes, au générateur, à la vieille machine du voyage qui ronronnait au troisième sous-sol quand on lui demandait l'impossible. Les enfants, c'était autre chose : ils posaient des questions.
 
-Il entra quand même. Il s'assit par terre, à un mètre d'elle, exactement là où s'asseyait sa mère, sans savoir pourquoi il choisissait cette place. Il posa les mains à plat sur ses cuisses.
+Il entra quand même. Il s'assit par terre, à un mètre d'elle, exactement là où s'asseyait sa mère, par un instinct qu'il ne s'expliqua pas. Il posa les mains à plat sur ses cuisses.
 
 Iris leva les yeux. Elle le regarda avec cette politesse terrible qu'avaient les enfants rouillés, cette façon de vous accueillir comme un étranger gentil.
 
@@ -20,7 +20,7 @@ Iris leva les yeux. Elle le regarda avec cette politesse terrible qu'avaient les
 
 — Bonjour, Ruben.
 
-Elle retourna à son ardoise. Elle dessinait la maison, le toit en triangle, la porte. Le soleil dans le coin, avec ses rayons trop longs. Et devant, une silhouette aux cheveux courts, hérissés. Elle posa la craie. Elle regarda la silhouette longtemps, la tête penchée.
+Elle retourna à son ardoise. Elle dessinait la maison, le toit en triangle, la porte. Le soleil dans le coin, avec ses rayons trop longs. Et devant, une silhouette aux cheveux courts, hérissés. Elle posa la craie. Elle considéra la silhouette, la tête penchée.
 
 — C'est qui ? demanda-t-elle.
 
@@ -60,7 +60,7 @@ Elle dormait. Elle dormait toujours à cinquante-neuf. Il ne disait jamais le so
 
 Un mois après les départs, il alla à la salle des Cartes et demanda à Oriane la permission d'ouvrir le registre rouge des Varenne.
 
-Oriane le regarda longtemps, de ses yeux trop clairs. Elle ne demanda pas pourquoi. Elle lui tendit la clé du tiroir.
+Oriane le jaugea de ses yeux trop clairs. Elle ne demanda pas pourquoi. Elle lui tendit la clé du tiroir.
 
 Il ouvrit le cahier d'écolier à la dernière page écrite. Il lut, de la main d'Élise : *Iris VARENNE, née en 2130 au refuge, de Élise Varenne et de* — et le blanc. Il lut, en dessous, d'une écriture plus récente, plus serrée : *Élise VARENNE. Partie le 15 septembre 2137.* Et rien après.
 

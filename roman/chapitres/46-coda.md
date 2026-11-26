@@ -18,7 +18,7 @@ Iris Varenne avait soixante et un ans. Elle était rouillée jusqu'au cœur depu
 
 Élise posa sur ses genoux une vieille ardoise, une ardoise d'enfant, retrouvée au fond d'un placard. Dessus, une maison, un soleil, une silhouette aux longs cheveux, avec un petit point de craie au coin de l'œil. Personne ne l'avait jamais effacée.
 
-Iris baissa les yeux sur l'ardoise. Elle la regarda longtemps, avec un intérêt sincère, la tête penchée. Elle posa le doigt sur la silhouette.
+Iris baissa les yeux sur l'ardoise. Elle la regarda avec un intérêt sincère, la tête penchée. Elle posa le doigt sur la silhouette.
 
 — C'est qui ?
 
@@ -86,7 +86,7 @@ Les premières nuits, elle fit tout ce que le carnet de famille disait qu'il fal
 
 Elle apprit le corps. Elle apprit l'escalier raide et la quatrième marche qui glisse. Elle apprit la fontaine du carrefour, le néon rose du salon de coiffure dont le C clignotait, la cabine jaune accrochée au flanc du mur. Elle reconnaissait tout. Elle l'avait lu cent fois, enfant, dans les pages bleues, celles qu'on avait le droit de lire. Elle marchait dans Vallorce comme on marche dans un livre qu'on connaît par cœur, avec le vertige de découvrir que les phrases avaient des odeurs.
 
-La cinquième nuit, à une fenêtre du premier étage de la maison voisine, elle vit une petite tache pâle derrière la vitre, un visage d'enfant, avec des lunettes. Elle leva la main. La tache disparut. Elle pensa à une boîte de cailloux du lac et à une paire de lunettes rafistolées au scotch, dans une armoire de famille, à cent trente-huit ans d'ici, et elle eut envie de pleurer sans savoir pourquoi.
+La cinquième nuit, à une fenêtre du premier étage de la maison voisine, elle vit une petite tache pâle derrière la vitre, un visage d'enfant, avec des lunettes. Elle leva la main. La tache disparut. Elle pensa à une boîte de cailloux du lac et à une paire de lunettes rafistolées au scotch, dans une armoire de famille, à cent trente-huit ans d'ici, et une envie de pleurer lui serra la gorge.
 
 La sixième nuit, elle ouvrit le réfrigérateur et mangea une pomme. Elle en avait mangé des milliers, enfant, dans la bibliothèque aux grandes fenêtres. Elle n'en avait plus mangé depuis quinze ans. Elle mangea le trognon et les pépins.
 
@@ -114,7 +114,7 @@ S'éteignit. Se ralluma. S'éteignit.
 
 Se ralluma, et ne bougea plus.
 
-Élise resta longtemps devant la vitre, la main à plat sur le carreau froid. Elle pensa à un vieil homme qu'elle ne connaissait pas, qui l'attendait peut-être, quelque part dans la nuit. Elle pensa qu'il y avait peut-être, là-haut, dans ce vieil homme, quelqu'un qui savait exactement ce qu'elle allait faire, et qui l'avait déjà fait, et qui ne pouvait pas l'en empêcher.
+Élise s'attarda devant la vitre, la main à plat sur le carreau froid. Elle pensa à un vieil homme qu'elle ne connaissait pas, qui l'attendait peut-être, quelque part dans la nuit. Elle pensa qu'il y avait peut-être, là-haut, dans ce vieil homme, quelqu'un qui savait exactement ce qu'elle allait faire, et qui l'avait déjà fait, et qui ne pouvait pas l'en empêcher.
 
 Elle pensa qu'elle délirait.
 

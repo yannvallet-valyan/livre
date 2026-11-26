@@ -1,4 +1,4 @@
-# Chapitre 28 — Hugo
+# Chapitre 29 — Hugo
 
 *(premier jet)*
 
@@ -14,7 +14,7 @@ Hugo Marle arriva le samedi 7 novembre, à midi, au volant d'une petite voiture 
 
 — Je ne sais pas.
 
-Hugo regarda son père longtemps. Il avait dix-neuf ans, une tête de plus que lui, une barbe naissante qui ne prenait pas, la carrure maigre et nerveuse de ceux qui passent leurs week-ends accrochés à des falaises. Il avait les yeux de Claire. Étienne avait toujours du mal à le regarder en face, à cause de ça, et il s'en voulait.
+Hugo dévisagea son père. Il avait dix-neuf ans, une tête de plus que lui, une barbe naissante qui ne prenait pas, la carrure maigre et nerveuse de ceux qui passent leurs week-ends accrochés à des falaises. Il avait les yeux de Claire. Étienne avait toujours du mal à le regarder en face, à cause de ça, et il s'en voulait.
 
 — D'accord, dit Hugo. Tu me raconteras. Je fais à manger. Tu cuisines toujours aussi mal ?
 
@@ -40,7 +40,7 @@ Sophia faillit s'étouffer.
 
 Il y eut un silence. Étienne regarda par la fenêtre. Sur le rebord, les gants de jardinage de Claire. Il ne dit rien. Il posa la main sur l'épaule de son fils, et la laissa là longtemps.
 
-Sophia, en face, sentit quelque chose se serrer dans sa gorge. Elle pensa : *Anne*. Elle pensa à un registre rouge qu'elle n'avait jamais vu. Elle pensa que ce garçon, ce grand garçon maigre aux yeux de sa mère, serait peut-être un jour le grand frère d'une petite fille qui n'existait pas encore. Elle ne savait pas d'où lui venait cette pensée. Elle la chassa.
+Sophia, en face, sentit sa gorge se serrer. Elle pensa : *Anne*. Elle pensa à un registre rouge qu'elle n'avait jamais vu. Elle pensa que ce garçon, ce grand garçon maigre aux yeux de sa mère, serait peut-être un jour le grand frère d'une petite fille qui n'existait pas encore. Elle ne savait pas d'où lui venait cette pensée. Elle la chassa.
 
 ---
 
@@ -48,7 +48,7 @@ L'après-midi, Hugo voulut voir le lac.
 
 Ils descendirent tous les trois par le chemin, jusqu'à la grève. Il faisait gris, froid, le vent soufflait de la vallée et faisait claquer l'anorak d'Hugo. Le lac n'était plus qu'une flaque noire au pied du barrage, au milieu d'un désert de vase, et au milieu de la vase, le clocher noir du village noyé pointait vers le ciel.
 
-Hugo resta longtemps à le regarder.
+Hugo ne le quittait plus des yeux.
 
 — C'est dingue, dit-il. On voit les murs. Les maisons. On voit même un escalier. C'est le village d'avant ?
 

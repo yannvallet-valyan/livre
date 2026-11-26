@@ -1,4 +1,4 @@
-# Chapitre 36 — Le matin
+# Chapitre 37 — Le matin
 
 *(premier jet)*
 
@@ -18,7 +18,7 @@ Ils ne bougèrent pas. Ils restèrent allongés là, à se regarder, avec la sen
 
 — C'est fini ? demanda-t-il.
 
-Sophia ferma les yeux. Elle chercha au fond d'elle, comme on cherche dans le noir une présence dans une pièce. Il y avait quelque chose. Pas quelqu'un : quelque chose. Une chaleur. Une fatigue immense et douce, comme après une très longue marche. Et sous la chaleur, encore éveillée, à peine, quelque chose qui attendait.
+Sophia ferma les yeux. Elle chercha au fond d'elle, à tâtons. Il y avait quelque chose. Pas quelqu'un : quelque chose. Une chaleur. Une fatigue immense et douce, comme après une très longue marche. Et sous la chaleur, encore éveillée, à peine, quelque chose qui attendait.
 
 — Pas encore, dit-elle.
 
@@ -73,7 +73,7 @@ Ils vidèrent les bacs un à un dans une benne qu'on descendit ensuite au pied d
 
 Le douzième était le plus petit. Au fond, il n'y avait qu'une aiguille, une seule, pas plus longue qu'un ongle, couchée dans un reste de vase.
 
-Sophia la regarda longtemps.
+Sophia la fixa.
 
 *Pas un grain, Sophia. Promets-le-moi.*
 
@@ -119,7 +119,7 @@ Il hocha la tête. Puis il s'assit sur le lit de camp, lourdement, et elle s'ass
 
 — Je la connais, dit Sophia.
 
-Et elle la lui chanta. Elle la chanta en entier, les trois couplets, avec toutes les paroles qu'elle n'avait jamais sues et qu'elle savait maintenant. Son père l'écouta les yeux fermés. Au troisième couplet, il se mit à pleurer, avec sa voix à lui cette fois, une voix de vieil homme, sans savoir pourquoi.
+Et elle la lui chanta. Elle la chanta en entier, les trois couplets, avec toutes les paroles qu'elle n'avait jamais sues et qu'elle savait maintenant. Son père l'écouta les yeux fermés. Au troisième couplet, il se mit à pleurer, avec sa voix à lui cette fois, une voix de vieil homme, sans comprendre ce qui lui arrivait.
 
 ---
 
@@ -127,7 +127,7 @@ Mathis l'attendait sur le muret, devant chez elle, en anorak, avec Biscotte sur 
 
 — Elle est partie, la dame ? demanda-t-il.
 
-Sophia s'accroupit devant lui. Elle le regarda longtemps. Il la regardait aussi, droit dans les yeux, au fond, avec cette attention tranquille qu'ont certains enfants et qu'on ne retrouve plus jamais après.
+Sophia s'accroupit devant lui. Elle le regarda. Il la regardait aussi, droit dans les yeux, au fond, avec cette attention tranquille qu'ont certains enfants et qu'on ne retrouve plus jamais après.
 
 — Je ne sais pas, dit-elle. Qu'est-ce que tu vois ?
 
@@ -147,7 +147,7 @@ Ses pieds étaient propres. Il n'y avait pas de bleu. Le verre était dans le pl
 
 Elle s'était réveillée seule pour la première fois depuis deux mois.
 
-Elle resta longtemps assise au bord du lit. Puis elle alla dans la cuisine, ouvrit le carnet à la dernière page écrite, et relut tout, depuis le début, jusqu'à la page blanche.
+Elle resta assise au bord du lit. Puis elle alla dans la cuisine, ouvrit le carnet à la dernière page écrite, et relut tout, depuis le début, jusqu'à la page blanche.
 
 Elle prit le stylo bleu. Elle l'approcha de la page. Elle le reposa.
 
@@ -185,7 +185,7 @@ Le 16, elle remonta à la cabine avec Étienne.
 
 Elle ne l'avait pas prévu. Il l'avait proposé au petit déjeuner, en beurrant sa tartine trop épais, sans lever les yeux : *Je voudrais le rencontrer. Ton père. Le vrai. Celui du jour.* Elle avait hésité. Elle avait dit oui.
 
-Anselme ouvrit la porte après qu'ils eurent frappé. Deux fois. Il regarda sa fille, puis l'homme à côté d'elle, en manteau loden vert, l'écharpe rouge autour du cou, et quelque chose passa sur son visage qu'elle mit longtemps à identifier. De la timidité.
+Anselme ouvrit la porte après qu'ils eurent frappé. Deux fois. Il regarda sa fille, puis l'homme à côté d'elle, en manteau loden vert, l'écharpe rouge autour du cou, et une expression passa sur son visage qu'elle mit un moment à identifier. De la timidité.
 
 — Le docteur, dit-il.
 

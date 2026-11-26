@@ -1,4 +1,4 @@
-# Chapitre 27 — Le lit vide
+# Chapitre 28 — Le lit vide
 
 *(premier jet)*
 
@@ -24,7 +24,7 @@ Anselme ne comprit pas. Il resta un moment les bras ballants. Puis, maladroiteme
 
 — Maman. Le départ. Tout ça. Ce n'était pas ta faute.
 
-Il ne demanda pas comment elle le savait. Il la tint contre lui, sur la petite terrasse, face au lac, et ils restèrent longtemps comme ça, sans rien dire, pendant que l'eau chauffait pour personne.
+Il ne demanda pas comment elle le savait. Il la tint contre lui, sur la petite terrasse, face au lac, et ils restèrent ainsi, sans rien dire, pendant que l'eau chauffait pour personne.
 
 ---
 
@@ -90,7 +90,7 @@ Puis la Rouille avait pris son visage, dans la tête d'Élise. Il l'avait racont
 
 ---
 
-Ils restèrent longtemps sous le toit du lavoir, à écouter la source.
+Ils restèrent un moment sous le toit du lavoir, à écouter la source.
 
 Puis elle lui raconta la galerie. La masse. La poussière. La chute. Le jeune homme en bottes, la boue, octobre 1980. Les calques. Les dessins. Le vieil homme qui pleurait avec une voix de femme. Elle lui raconta *chaque fois, il descend l'escalier en courant, il crie ton nom, et il te trouve au milieu de la poussière*.
 
@@ -124,7 +124,7 @@ Il n'y avait rien. Seulement un homme qui la regardait comme personne ne l'avait
 
 Elle rentra à l'aube sous la pluie, trempée jusqu'aux os, et elle ne se coucha pas tout de suite.
 
-Elle monta dans la chambre de Sophia, ouvrit l'armoire, et chercha à tâtons, au fond, sous les pulls, quelque chose qui n'y était pas. Elle savait que ça n'y était pas. La chemise trop grande était restée dans son armoire à elle, au refuge, à cent onze ans d'ici, pliée sur une étagère, entre deux pulls troués. Elle chercha quand même. Elle avait besoin que ses mains cherchent quelque chose.
+Elle monta dans la chambre de Sophia, ouvrit l'armoire, et chercha à tâtons, au fond, sous les pulls, quelque chose qui n'y était pas. Elle savait que ça n'y était pas. La chemise trop grande était restée dans son armoire à elle, au refuge, à cent onze ans d'ici, pliée sur une étagère, entre deux pulls troués. Elle chercha quand même. Elle avait besoin que ses mains cherchent.
 
 Elle s'assit sur le lit, contre le mur mitoyen, les mains vides.
 

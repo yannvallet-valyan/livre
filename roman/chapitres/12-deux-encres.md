@@ -32,7 +32,7 @@ Cinquante-sept. Cinquante-huit. Cinquante-neuf.
 
 Plus rien.
 
-Elle attendit le soixantième. Il ne vint pas. Elle resta longtemps la main posée à plat sur le papier peint, à l'endroit où les coups avaient résonné, sans comprendre pourquoi elle avait les larmes aux yeux. Puis elle se dit que c'était un enfant qui rêvait, et elle n'en parla pas dans le carnet.
+Elle attendit le soixantième. Il ne vint pas. Elle garda la main posée à plat sur le papier peint, à l'endroit où les coups avaient résonné, sans comprendre pourquoi elle avait les larmes aux yeux. Puis elle se dit que c'était un enfant qui rêvait, et elle n'en parla pas dans le carnet.
 
 Les coups revinrent la nuit suivante. Et celle d'après. Elle finit par les attendre.
 

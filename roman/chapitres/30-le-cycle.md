@@ -1,4 +1,4 @@
-# Chapitre 25 — Le cycle
+# Chapitre 26 — Le cycle
 
 *(premier jet)*
 
@@ -8,7 +8,7 @@ Elle ne bougea pas. Elle compta. À vingt, elle sut où elle était, ou plutôt 
 
 À quarante, elle comprit.
 
-Elle retira sa main très doucement, comme on retire la main d'une flamme. Elle se redressa sur un coude. Dans la pénombre, elle distingua un profil, des tempes grises, la ligne pâle d'une cicatrice au-dessus d'un sourcil. L'homme dormait.
+Elle retira sa main avec une lenteur infinie. Elle se redressa sur un coude. Dans la pénombre, elle distingua un profil, des tempes grises, la ligne pâle d'une cicatrice au-dessus d'un sourcil. L'homme dormait.
 
 Puis il ne dormit plus. Sa respiration changea. Elle le sentit à la façon dont le corps se raidit sous le drap. Il ne bougea pas, lui non plus. Elle l'entendit compter à voix basse, à peine un souffle.
 
@@ -38,7 +38,7 @@ Peut-être que c'était cette nuit. Peut-être qu'Anne avait commencé, là, que
 
 — D'accord.
 
-Il se leva. Il chercha à tâtons quelque chose pour se couvrir, trouva une robe de chambre, l'enfila en tournant le dos. Elle trouva sur une chaise le pull trop grand, l'enfila aussi, et sentit un papier craquer dans la poche de poitrine. Elle le déplia à la lumière de la fenêtre.
+Il se leva. Il chercha à tâtons de quoi se couvrir, trouva une robe de chambre, l'enfila en tournant le dos. Elle trouva sur une chaise le pull trop grand, l'enfila aussi, et sentit un papier craquer dans la poche de poitrine. Elle le déplia à la lumière de la fenêtre.
 
 *Si tu te réveilles ici : c'est moi qui l'ai voulu. Tout va bien. Je suis heureuse. Rentre doucement.*
 

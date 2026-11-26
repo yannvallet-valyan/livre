@@ -26,7 +26,7 @@ La cinquième nuit, elle sortit dans le village.
 
 Elle n'alla pas loin. La rue des Fontaines montait en pente douce, pavée de galets ronds qui roulaient sous les semelles, entre des maisons de pierre aux volets fermés. Une fontaine à deux bassins chuchotait au premier carrefour. L'eau était si froide qu'elle lui engourdit les doigts, et elle la but quand même, dans le creux de ses mains, parce qu'elle n'avait jamais bu une eau qui sortait toute seule de la pierre.
 
-Sur la place de l'église, un tilleul énorme, nu, tendait ses branches au-dessus d'un monument aux morts. Une enseigne au néon rose, *Chez Corinne*, était restée allumée au-dessus d'un salon de coiffure, et le C clignotait, s'éteignait, se rallumait, avec un petit grésillement d'insecte. Derrière la vitrine, trois fauteuils vides tournés vers trois miroirs. Élise resta longtemps devant. Dans le refuge, on se coupait les cheveux soi-même, aux ciseaux de cuisine, et l'idée qu'on ait pu payer quelqu'un pour vous coiffer, assis devant un miroir, lui parut d'un luxe presque obscène.
+Sur la place de l'église, un tilleul énorme, nu, tendait ses branches au-dessus d'un monument aux morts. Une enseigne au néon rose, *Chez Corinne*, était restée allumée au-dessus d'un salon de coiffure, et le C clignotait, s'éteignait, se rallumait, avec un petit grésillement d'insecte. Derrière la vitrine, trois fauteuils vides tournés vers trois miroirs. Élise s'attarda devant. Dans le refuge, on se coupait les cheveux soi-même, aux ciseaux de cuisine, et l'idée qu'on ait pu payer quelqu'un pour vous coiffer, assis devant un miroir, lui parut d'un luxe presque obscène.
 
 Le clocher sonna trois heures. Elle compta les coups sans le vouloir. Puis elle redescendit, en rasant les murs, parce qu'elle avait eu, en passant devant la vitrine d'un café, la sensation très nette d'être regardée.
 
@@ -36,7 +36,7 @@ Il n'y avait personne. Sauf, peut-être, à une fenêtre du premier étage de la
 
 La sixième nuit, elle ouvrit le réfrigérateur.
 
-Elle l'avait évité jusque-là, par scrupule : manger, c'était prendre. Mais le corps de Sophia avait faim, une faim de trois heures du matin, impérieuse, qui lui tordait l'estomac, et Élise finit par céder. La lumière du réfrigérateur l'éblouit. Elle resta longtemps devant, la porte ouverte, à regarder. Des œufs, rangés dans leur boîte. Du beurre. Un pot de confiture d'abricots entamé. Un morceau de fromage enveloppé dans du papier. Une pomme.
+Elle l'avait évité jusque-là, par scrupule : manger, c'était prendre. Mais le corps de Sophia avait faim, une faim de trois heures du matin, impérieuse, qui lui tordait l'estomac, et Élise finit par céder. La lumière du réfrigérateur l'éblouit. Elle resta plantée devant, la porte ouverte, à regarder. Des œufs, rangés dans leur boîte. Du beurre. Un pot de confiture d'abricots entamé. Un morceau de fromage enveloppé dans du papier. Une pomme.
 
 Elle prit la pomme.
 
@@ -68,7 +68,7 @@ Un jeune homme d'une vingtaine d'années, en bottes de pêcheur montant jusqu'à
 
 Au dos, d'une écriture de femme : *Papa, vidange du lac, octobre 1980.*
 
-Élise retourna la photo. Elle regarda longtemps le visage du jeune homme. Elle ne le connaissait pas. Puis elle pensa à la silhouette dans la cabine, la première nuit, à la main levée, et elle sut sans savoir pourquoi que c'était lui.
+Élise retourna la photo. Elle scruta le visage du jeune homme. Elle ne le connaissait pas. Puis elle pensa à la silhouette dans la cabine, la première nuit, à la main levée, et elle sut, sans raison, que c'était lui.
 
 ---
 

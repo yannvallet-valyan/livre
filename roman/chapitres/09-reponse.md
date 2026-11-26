@@ -4,7 +4,7 @@
 
 Sophia répondit le soir même. Elle n'avait jamais rien fait à moitié.
 
-Elle s'installa à la table de la cuisine, à l'endroit exact où l'autre s'était assise. Elle posa le carnet devant elle, ouvert sur la page de droite, toute blanche, et prit un stylo bleu. Elle resta longtemps sans écrire, la plume à un centimètre du papier, avec le sentiment ridicule d'être observée par une pièce vide.
+Elle s'installa à la table de la cuisine, à l'endroit exact où l'autre s'était assise. Elle posa le carnet devant elle, ouvert sur la page de droite, toute blanche, et prit un stylo bleu. Elle resta de longues minutes sans écrire, la plume à un centimètre du papier, avec le sentiment ridicule d'être observée par une pièce vide.
 
 Puis elle écrivit.
 
@@ -60,7 +60,7 @@ La réponse vint au matin.
 
 *Mais si tu veux me le dire, je le garderai.*
 
-Sophia resta longtemps devant la page. Elle s'aperçut, avec un étonnement qui lui dura toute la journée, que cette réponse-là, cette ignorance avouée, la convainquait davantage que tous les chiffres de la jauge. Une folie aurait su. Une folie sait toujours.
+Sophia ne quitta pas la page des yeux. Elle s'aperçut, avec un étonnement qui lui dura toute la journée, que cette réponse-là, cette ignorance avouée, la convainquait davantage que tous les chiffres de la jauge. Une folie aurait su. Une folie sait toujours.
 
 Le soir, elle écrivit : *Il s'appelait Capitaine. Il était roux. Il est mort écrasé par la voiture du facteur. J'ai pleuré trois jours. Cinq ans plus tard, au bord d'un lac, ma mère m'a offert une fiole vide, pour que j'aie quelque chose à garder. C'est pour ça que je garde des choses.*
 
@@ -84,7 +84,7 @@ Les jours suivants, le carnet se remplit. Il y eut des questions et des réponse
 
 *Et c'est ça ? C'est ce qui est arrivé à mon père ? Quelqu'un comme toi ?*
 
-Élise posa le stylo. Elle regarda la question longtemps. Elle pensa à l'homme dans la cabine, à la lumière qui s'éteignait trois fois, à la lettre : *il comptait jusqu'à soixante*. Elle aurait voulu écrire *je ne sais pas*, mais ce n'était pas tout à fait vrai.
+Élise posa le stylo. Elle fixa la question. Elle pensa à l'homme dans la cabine, à la lumière qui s'éteignait trois fois, à la lettre : *il comptait jusqu'à soixante*. Elle aurait voulu écrire *je ne sais pas*, mais ce n'était pas tout à fait vrai.
 
 *Je ne sais pas*, écrivit-elle tout de même. *Mais je vais chercher.*
 

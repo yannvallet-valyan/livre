@@ -1,4 +1,4 @@
-# Chapitre 26 — Le premier Passeur
+# Chapitre 27 — Le premier Passeur
 
 *(premier jet)*
 
@@ -106,7 +106,7 @@ Le vieil homme leva la tête.
 
 — Ma fille. Ta fille. Notre… C'est elle qui l'a dessiné. La maison, le soleil, et moi devant. Elle s'appelle Iris.
 
-Anselme la regarda longtemps, sans comprendre. Puis quelque chose bougea sur son visage, quelque chose de très lointain qui remontait du fond d'un puits. Ses lèvres formèrent le nom sans le prononcer. Puis il le prononça, une fois, très bas, comme on rend un objet qu'on a cherché pendant des années.
+Anselme la regarda sans comprendre. Puis quelque chose bougea sur son visage, quelque chose de très lointain qui remontait du fond d'un puits. Ses lèvres formèrent le nom sans le prononcer. Puis il le prononça, une fois, très bas, comme on rend un objet qu'on a cherché pendant des années.
 
 — Iris.
 
@@ -176,3 +176,18 @@ Elle se figea.
 Anselme lâcha sa manche. Il se tourna vers la fenêtre, vers le jour qui se levait, et elle sut qu'il était en train de redevenir lui-même, qu'il ne restait plus que quelques secondes avant que les femmes en lui ne retournent dormir.
 
 — Demande-lui, dit-il, qui dort dans le lit vide.
+
+
+---
+
+Elle redescendit l'escalier de fer à l'aube.
+
+Elle ne pensa à rien. Elle n'en avait plus la force. Elle compta les marches sans s'en rendre compte, s'arrêta à trente, ne reprit pas. En bas, le parking était désert, la vase grise, le lac plat comme une ardoise. Le froid lui piquait les joues.
+
+Le village se réveillait. Une lumière jaune s'alluma derrière la vitrine de la boulangerie, puis une odeur monta dans la rue, chaude, épaisse, une odeur de pain qu'elle n'avait jamais sentie de sa vie et qui lui fit monter les larmes aux yeux pour la seule raison qu'elle était bonne. Un chat noir traversa la place de l'église et s'assit sur le rebord de la fontaine, la regarda, se lécha une patte. Le néon rose de *Chez Corinne* était éteint. Le C ne clignotait plus.
+
+Elle s'assit sur le rebord de la fontaine, à côté du chat, et laissa venir le matin. Elle sentait le corps de Sophia l'appeler vers le fond, vers le sommeil, et pour une fois, elle ne résista pas, elle ne compta pas, elle ne fit aucun inventaire. Elle regarda seulement le ciel pâlir au-dessus de la crête, et le boulanger lever le rideau de fer, et le chat s'en aller.
+
+Elle pensa qu'il y avait, dans ce monde, des matins comme celui-là, chaque jour, et que personne ne les remarquait.
+
+Elle rentra dormir.

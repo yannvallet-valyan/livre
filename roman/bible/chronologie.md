@@ -25,14 +25,15 @@
    - **Iris adulte** vient de 2164, d'un tour où sa mère n'est jamais revenue. Elle voyage dans Mathis, son ancêtre.
    - **K.** vient d'un futur indéterminé. Il voyage dans Kerr, son ancêtre par Léa. Son rôle reste limité, et il amorce le tome 2.
    - **L'Élise B** vient de 2164, dans la ligne B.
-7. **La contamination, de la fiole au monde.** Le cristal se nourrit des **dormeurs** à proximité : il pousse, s'ouvre en éventail et lâche une poussière fine comme du sucre. Les **résidus** passent de dormeur en dormeur et de génération en génération.
+7. **Dès 2026,** les eaux de culture du laboratoire, filtrées mais pas assez, rejoignent la retenue, en amont du captage d'eau potable de la rue des Fontaines. Des micro-cristaux arrivent dans les robinets : c'est une des causes des oublis précoces (Corinne, Martine). Sophia les découvre au microscope (chapitre « L'eau »).
+8. **La contamination, de la fiole au monde.** Le cristal se nourrit des **dormeurs** à proximité : il pousse, s'ouvre en éventail et lâche une poussière fine comme du sucre. Les **résidus** passent de dormeur en dormeur et de génération en génération.
    - **En 2141 :** la poussière essuyée chaque matin est rincée dans l'évier, et les éviers descendent au lac. Puis Iris jette la fiole dans le lac pour s'en débarrasser. Le lac est réensemencé, et la Rouille de la ligne B repart.
    - La consigne d'Élise (« pas dans l'évier, jamais dans l'eau ») est ainsi violée deux fois, sans le savoir.
-8. **Mathis.** Il voit les voyageurs parce qu'il a failli se noyer à 3 ans au pied du barrage : il a bu l'eau du lac. Il veille de minuit à 1 h environ. Iris occupe ensuite ses nuits, et laisse des traces : jointures écorchées, craie sur les doigts, ardoise effacée.
-9. **Les prénoms de la ligne B.**
+9. **Mathis.** Il voit les voyageurs parce qu'il a failli se noyer à 3 ans au pied du barrage : il a bu l'eau du lac. Il veille de minuit à 1 h environ. Iris occupe ensuite ses nuits, et laisse des traces : jointures écorchées, craie sur les doigts, ardoise effacée.
+10. **Les prénoms de la ligne B.**
    - En 2103, Paul appelle sa fille **Iris**, d'après l'enfant des pages noires.
    - En 2130, Iris appelle sa fille **Élise**, d'après la femme qui, dans ces pages, aimait cette enfant : « pour que quelqu'un, cette fois, la garde ».
-10. **La conception d'Anne** a eu lieu entre le 6 et le 14 novembre, de jour ou de nuit : c'est **indéterminable**. Voir le §10 et le §11.
+11. **La conception d'Anne** a eu lieu entre le 6 et le 14 novembre, de jour ou de nuit : c'est **indéterminable**. Voir le §10 et le §11.
 
 ---
 

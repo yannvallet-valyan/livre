@@ -1,4 +1,4 @@
-# Chapitre 31 — Trois portes
+# Chapitre 32 — Trois portes
 
 *(premier jet)*
 
@@ -10,7 +10,7 @@ Elle n'y était jamais allée. Elle trouva la tombe de Martine Pradel à la lamp
 
 Pas Kerr, pas le laboratoire, pas la Fondation. Elle. Le bocal envoyé en 2023 par des Élise qui voulaient oublier. Les dormeurs payés cent euros la nuit. Le cristal qui appelait. Une vieille institutrice à genoux dans la vase, les ongles cassés. Et si elle brisait le nœud, comme toutes les autres avant elle, ce ne serait pas une Martine : ce seraient des millions. Des cuisiniers qui épluchent des légumes invisibles. Des pères nourris à la cuillère. Des enfants qui demandent *c'est qui ?* en regardant leur mère.
 
-Elle resta longtemps accroupie dans l'herbe gelée. Elle eut, un moment, une pensée qu'elle n'avoua jamais à personne, même pas au carnet : que la seule façon honnête de payer, c'était de descendre avec la masse, de frapper, et de tomber, et de passer quarante-six ans dans un vieil homme à dessiner des maisons, parce que c'était ce qu'elle méritait.
+Elle resta accroupie dans l'herbe gelée. Elle eut, un moment, une pensée qu'elle n'avoua jamais à personne, même pas au carnet : que la seule façon honnête de payer, c'était de descendre avec la masse, de frapper, et de tomber, et de passer quarante-six ans dans un vieil homme à dessiner des maisons, parce que c'était ce qu'elle méritait.
 
 Puis elle pensa à Sophia, qui dormait au fond d'elle, et qui n'avait rien mérité du tout. À Corinne qui cherchait le prénom de son fils. À un petit garçon qui se réveillait contre un mur avec les doigts en sang.
 
@@ -30,7 +30,7 @@ Elle les écrivit dans le carnet comme on fait un inventaire, en trois colonnes,
 
 *TROISIÈME PORTE.*
 
-Elle s'arrêta. Elle resta longtemps la plume levée.
+Elle s'arrêta. La plume resta suspendue au-dessus du papier.
 
 Puis elle écrivit.
 
@@ -48,7 +48,7 @@ Puis elle écrivit.
 
 *Il faudra qu'il n'en reste rien. Pas un grain, pas un bac, pas une trace. Parce que si quelqu'un, un jour, en retrouve un morceau…*
 
-Elle s'arrêta. Elle regarda la phrase longtemps. Elle ne la finit pas.
+Elle s'arrêta. Elle relut la phrase. Elle ne la finit pas.
 
 *Je n'ai pas le droit de te le demander. C'est ton corps, ta tête, ta vie. Tu ne m'as jamais rien demandé, et je suis entrée chez toi par effraction, il y a deux mois, une nuit, au bord du lac.*
 
@@ -88,7 +88,7 @@ Et en dessous, d'une autre encre, bleue, de la même main mais plus ronde, plus 
 
 *Je suis d'accord. S'il le veut, il peut rester. — Étienne.*
 
-Élise regarda les deux lignes longtemps, les deux encres, la même main. Elle pensa : *eux aussi, ils se sont parlé*.
+Élise contempla les deux lignes, les deux encres, la même main. Elle pensa : *eux aussi, ils se sont parlé*.
 
 ---
 

@@ -40,7 +40,7 @@ Sur l'ardoise, il y avait une maison, un toit en triangle, une porte. Un soleil 
 
 — C'est joli, dit Élise. C'est qui, devant la maison ?
 
-Iris regarda son dessin longtemps. Elle fronça les sourcils, de ce froncement qui était celui d'Élise enfant, Élise le savait par une photo. Elle posa le doigt sur la silhouette.
+Iris examina son dessin. Elle fronça les sourcils, de ce froncement qui était celui d'Élise enfant, Élise le savait par une photo. Elle posa le doigt sur la silhouette.
 
 — Je sais pas, dit-elle. C'est qui ?
 
@@ -86,7 +86,7 @@ La déchirure emportait la fin du mot. Plus bas, sous l'accroc, il restait trois
 
 — Nous savons voyager, dit Oriane.
 
-Elle le dit simplement, comme on annonce qu'il pleut.
+Elle le dit simplement, sur le ton d'un bulletin météo.
 
 Elle expliqua. Il y avait trois ans que les médecins du refuge l'avaient compris par accident : le cristal ne se contentait pas d'effacer. Il *reliait*. Chaque éclat de Rouille dans un cerveau gardait une sorte de mémoire du gisement dont il descendait, comme un saumon garde la mémoire de sa rivière. Un dormeur au cerveau assez lucide pouvait remonter ce courant. Il remontait le long du sang, parce que le sang était le seul chemin que le corps connaissait. Il arrivait dans un ancêtre endormi, à condition que cet ancêtre se trouve près du gisement, à un moment où le gisement était ouvert.
 
@@ -112,7 +112,7 @@ Il y eut un silence. Oriane la regardait avec une douceur qu'Élise ne comprit p
 
 — Tu le connaissais, dit Oriane.
 
-Élise ouvrit la bouche, puis la referma. Elle chercha dans sa mémoire, comme on fouille une poche, et ne trouva que le vide en forme de meuble sur le parquet. Elle sentit quelque chose se serrer dans sa gorge, une chose qui ne venait de nulle part et qu'elle n'aurait pas su nommer.
+Élise ouvrit la bouche, puis la referma. Elle fouilla sa mémoire et ne trouva que le vide en forme de meuble sur le parquet. Elle sentit quelque chose se serrer dans sa gorge, une chose qui ne venait de nulle part et qu'elle n'aurait pas su nommer.
 
 — Pourquoi a-t-il refusé ?
 

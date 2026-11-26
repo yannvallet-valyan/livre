@@ -1,4 +1,4 @@
-# Chapitre 32 — Ce que je ne pouvais pas te dire
+# Chapitre 33 — Ce que je ne pouvais pas te dire
 
 *(premier jet)*
 
@@ -24,7 +24,7 @@ La page était datée du 10 novembre. L'écriture noire avait tremblé du début
 
 ---
 
-Sophia lut la page assise par terre, dans le séjour, le dos contre le radiateur, à l'endroit exact où Élise s'asseyait pour lire ses réponses. Elle la lut une fois. Puis elle posa le carnet sur le plancher, à côté d'elle, et regarda longtemps l'étagère en face, les quarante-trois fioles alignées dans la lumière grise du matin.
+Sophia lut la page assise par terre, dans le séjour, le dos contre le radiateur, à l'endroit exact où Élise s'asseyait pour lire ses réponses. Elle la lut une fois. Puis elle posa le carnet sur le plancher, à côté d'elle, et fixa l'étagère en face, les quarante-trois fioles alignées dans la lumière grise du matin.
 
 Elle avait dit non à Julien pendant cinq ans. Elle avait dit non à un enfant sans pouvoir dire pourquoi. Elle s'était dit que c'était l'instinct, le métier, le hasard, la peur d'un héritage sans forme. Elle comprenait maintenant que la forme existait. Qu'elle avait une écriture lente, ronde, appliquée. Qu'elle avait les cheveux courts. Qu'elle s'appelait Élise.
 
@@ -42,7 +42,7 @@ Elle ne prépara rien. Elle le dit d'un coup, dos à lui, en regardant les gants
 
 Le bruit de la cuillère dans la casserole s'arrêta.
 
-Elle n'osait pas se retourner. Elle l'entendit poser la cuillère sur le bord de l'évier, très doucement, comme on pose quelque chose de fragile. Puis plus rien. Elle se retourna.
+Elle n'osait pas se retourner. Elle l'entendit poser la cuillère sur le bord de l'évier, sans un bruit. Puis plus rien. Elle se retourna.
 
 Étienne était debout devant la cuisinière, les bras le long du corps. Il pleurait. Il pleurait sans bruit, avec un visage qui ne savait pas s'il devait sourire, la bouche entrouverte, les yeux brillants.
 

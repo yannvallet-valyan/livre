@@ -6,7 +6,7 @@ Anselme Roch se réveillait tous les matins à six heures, dans le fauteuil, ave
 
 Il ne se rappelait pas s'être assis dans le fauteuil. Il se couchait chaque soir sur le lit de camp, à dix heures, après le bulletin météo de la radio, et chaque matin il se retrouvait là, face à la fenêtre et au lac, une couverture sur les genoux qu'il n'avait pas dépliée, les mains posées à plat sur les cuisses. Il avait arrêté de s'en étonner vers 1995. Il avait arrêté de s'en inquiéter un peu plus tard. Il se levait, il allait se laver les mains à l'évier, il frottait longtemps le gris sous ses ongles avec une brosse à chiendent, et il ne regardait pas le mur.
 
-Il y avait toujours un dessin de plus sur le mur. Il le savait sans le voir, comme on sait qu'il a neigé dans la nuit à la qualité du silence. Il avait appris à ne pas les regarder, comme on apprend à ne pas regarder ses propres cicatrices. S'il les regardait, il se mettait à compter, et il ne savait pas s'arrêter.
+Il y avait toujours un dessin de plus sur le mur. Il le savait sans le voir, comme on sait qu'il a neigé dans la nuit à la qualité du silence. Il avait appris à ne pas les regarder. On n'examine pas ses propres cicatrices. S'il les regardait, il se mettait à compter, et il ne savait pas s'arrêter.
 
 ---
 
@@ -58,7 +58,7 @@ Derrière sa carte d'identité, plié en quatre, cassé aux plis, il y avait un 
 
 Il l'avait trouvé dans son carnet le 14 octobre 1980, au réveil, dans le baraquement de la vidange. Il n'en avait jamais parlé à personne, sauf une fois, à Hélène, qui avait pâli. Il ne connaissait aucune Iris. Il n'en avait jamais connu. Il dépliait le dessin chaque dimanche soir, depuis quarante-six ans, comme on relit une lettre dont on ne comprend pas la langue, en espérant qu'un jour, à force, les mots finiront par vouloir dire quelque chose.
 
-Ce dimanche-là, le dernier de septembre, il le déplia, le regarda longtemps, et pour la première fois depuis 1980, il eut l'impression qu'il allait comprendre.
+Ce dimanche-là, le dernier de septembre, il le déplia, le contempla, et pour la première fois depuis 1980, il eut l'impression qu'il allait comprendre.
 
 Il le replia très vite.
 

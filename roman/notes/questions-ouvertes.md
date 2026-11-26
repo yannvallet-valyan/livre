@@ -42,8 +42,16 @@
 - Le poids du mensonge de Noé.
 - Les documents synchronisés autour du §0 de `chronologie.md`.
 
-**Reste à faire :**
-- **La respiration des révélations de l'Acte III :** espacer Noé, Iris et le mur, ne pas sur-expliquer la ligne B.
-- **L'autonomie de Sophia :** lui donner encore une ou deux scènes où elle agit seule.
-- **Kerr :** lui donner un peu plus de présence avant sa confession.
-- **Le style :** varier les tics d'écriture et différencier les voix (voir `themes-et-style.md`).
+**Fait ensuite (V3, suite) :**
+- **Respiration de l'Acte III :** une aube silencieuse après « Le premier Passeur », et la scène du cimetière avant « Trois portes ».
+- **Autonomie de Sophia :** un nouveau chapitre, « L'eau ». Elle trouve le cristal dans l'eau du robinet au microscope, confronte Kerr, alerte l'agence régionale de santé et la mairie, colle des affiches et fait boire de l'eau de source à Mathis, seule et contre l'avis de tous.
+- **Présence de Kerr :** Sophia le voit, au crépuscule, déposer un caillou blanc au bord du lac (le caillou de Théo), bien avant sa confession.
+- **Passe de style ciblée :**
+  - « longtemps » passe de 108 à 61 occurrences, « comme on » de 96 à 81, « sans savoir pourquoi » de 12 à 7 ;
+  - douze « quelque chose » faibles ont été remplacés ;
+  - les images en doublon ont été supprimées : trois « clé dans la poche », deux « langue apprise », deux gestes « très doucement ».
+
+**Pistes pour une V4 (relecture humaine conseillée) :**
+- Une lecture à voix haute, chapitre par chapitre, pour le rythme.
+- Les dialogues de Sophia, à rendre encore plus secs et chiffrés.
+- Une vérification finale des dates de la semaine (2026) chapitre par chapitre.

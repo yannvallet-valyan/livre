@@ -38,7 +38,7 @@ Elles étaient trop salées.
 
 Exactement trop salées. Exactement comme elle les aimait. Exactement comme les lentilles qu'elle trouvait chaque midi au réfectoire du refuge, à sa place, depuis deux ans, sans savoir d'où elles venaient.
 
-Elle reposa la cuillère. Elle sentit quelque chose monter dans sa gorge, une chose sans nom, sans souvenir, une chose qui venait de beaucoup plus bas que la mémoire, et elle se mit à pleurer. Pas un sanglot. Juste des larmes qui coulaient toutes seules sur les joues de Sophia, sans bruit, pendant qu'elle restait assise, le dos droit, les mains à plat sur les cuisses.
+Elle reposa la cuillère. Elle sentit monter dans sa gorge une chose sans nom, sans souvenir, une chose qui venait de beaucoup plus bas que la mémoire, et elle se mit à pleurer. Pas un sanglot. Juste des larmes qui coulaient toutes seules sur les joues de Sophia, sans bruit, pendant qu'elle restait assise, le dos droit, les mains à plat sur les cuisses.
 
 Sacha ne bougea pas.
 
@@ -64,7 +64,7 @@ Sacha avait posé le torchon. Il était devenu très pâle.
 
 — Non. Je crois… Sophia écrit qu'elle voit Étienne. Pour le dossier. Je crois que c'est lui. Je l'espère.
 
-Il s'assit lentement sur une chaise, comme un homme qui vient de recevoir un coup. Il regarda ses mains, celles d'Étienne, longtemps. Puis il parla, et sa voix était celle d'un historien qui récite une chronologie qu'il connaît trop bien.
+Il s'assit lentement sur une chaise, comme un homme qui vient de recevoir un coup. Il regarda ses mains, celles d'Étienne. Puis il parla, et sa voix était celle d'un historien qui récite une chronologie qu'il connaît trop bien.
 
 — Alors écoute-moi. Écoute-moi bien, parce que je ne le dirai qu'une fois et que je voudrais ne pas avoir à le dire. Si c'est lui, Anne sera conçue une nuit précise. Une seule. Dans quelques semaines. Ce sera *leur* nuit, à eux. Choisie par eux, le jour, avec leurs raisons à eux, leur peur, leur envie, leur fatigue. Si cette nuit-là change, d'une heure, d'un jour, ce ne sera pas Anne. Ce sera une autre enfant. Une autre combinaison. Une petite fille qui s'appellera peut-être Anne, qui aura peut-être ses yeux, mais qui ne sera pas *ton* Anne. Et tout ce qui descend d'elle s'effacera. Jeanne. Paul. Toi.
 
@@ -78,7 +78,7 @@ Il s'arrêta.
 
 ---
 
-Elle resta longtemps debout contre l'évier.
+Elle resta adossée à l'évier, immobile.
 
 Elle pensa à la phrase de Ruben, *tu marches sur la branche que tu scies*. Elle pensa qu'elle l'avait toujours comprise comme une affaire de chiffres, de dates, d'incidents, de cristaux. Elle n'avait jamais pensé qu'on puisse scier la branche avec ses mains, avec ses lèvres, avec la simple envie d'être tenue contre quelqu'un, une nuit de gel.
 

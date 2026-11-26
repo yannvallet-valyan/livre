@@ -1,4 +1,4 @@
-# Chapitre 29 — La nuit de Noé
+# Chapitre 30 — La nuit de Noé
 
 *(premier jet)*
 
@@ -62,7 +62,7 @@ Il comprit qu'il n'avait aucun droit de demander à Élise quoi que ce soit.
 
 ---
 
-Il porta Hugo jusqu'à la maison, à moitié sur le dos, à moitié en le traînant, en s'arrêtant tous les vingt pas. Il le coucha dans le lit de la chambre d'amis, lui enleva ses vêtements mouillés, le frictionna avec une serviette comme on frictionne un enfant, et le borda. Hugo ne se réveilla pas.
+Il porta Hugo jusqu'à la maison, à moitié sur le dos, à moitié en le traînant, en s'arrêtant tous les vingt pas. Il le coucha dans le lit de la chambre d'amis, lui enleva ses vêtements mouillés, le frictionna vigoureusement avec une serviette, et le borda. Hugo ne se réveilla pas.
 
 Puis il redescendit à la cuisine, se lava les pieds dans l'évier (ils saignaient), et écrivit sur une feuille d'ordonnance, à l'encre noire, de la main d'Étienne :
 
@@ -80,7 +80,7 @@ Il hésita, puis ajouta une ligne. Il ne l'avait jamais écrite. Il n'avait jama
 
 En sortant pour rejoindre Élise sur le barrage, il vit une lumière, au pied du mur, côté laboratoire.
 
-Quelqu'un était debout sur la grève, à l'endroit exact où il avait ramené Hugo. Un homme en blouse blanche, immobile, qui tenait à la main un petit appareil dont l'écran luisait vert. Il regardait la flaque noire, au pied du barrage, et il notait quelque chose dans un cahier.
+Quelqu'un était debout sur la grève, à l'endroit exact où il avait ramené Hugo. Un homme en blouse blanche, immobile, qui tenait à la main un petit appareil dont l'écran luisait vert. Il regardait la flaque noire, au pied du barrage, et il notait des chiffres dans un cahier.
 
 Noé reconnut le directeur du laboratoire, Kerr, qu'il avait vu une fois, de loin, une nuit d'octobre.
 

@@ -1,4 +1,4 @@
-# Chapitre 24 — Le financeur
+# Chapitre 25 — Le financeur
 
 *(premier jet)*
 
@@ -46,7 +46,7 @@ Kerr se tut un instant.
 
 *Cassant comme du sucre.*
 
-Sophia sentit quelque chose se tordre dans son ventre.
+Sophia sentit son ventre se tordre.
 
 — Et si un bloc se brise ? demanda-t-elle. Dans la galerie ? À côté de l'eau ?
 
@@ -94,7 +94,7 @@ Ménard la regarda comme on regarde quelqu'un qui demande de déplacer une monta
 
 — Madame Varenne. J'ai trente camions-toupies, une centrale à béton mobile et une équipe de forage qui arrive de Clermont. Tout est réservé au jour près depuis six mois. Je ne peux rien avancer de quatre jours sans un ordre écrit de la direction. Et la direction a signé un accord avec la Fondation Léthé. Vous comprenez ?
 
-Elle comprenait. Elle sortit sous la pluie, et resta longtemps assise dans sa voiture sans démarrer.
+Elle comprenait. Elle sortit sous la pluie, et resta un quart d'heure assise dans sa voiture sans démarrer.
 
 ---
 
@@ -120,7 +120,7 @@ Après, ils restèrent allongés dans le noir, la tête de Sophia sur son épaul
 
 — Alors, je crois qu'ils vont avoir une nuit très difficile.
 
-Elle rit encore, contre sa peau. Puis elle se leva, sans allumer, chercha son sac dans le noir et en sortit un stylo et un bout de papier. Elle écrivit quelque chose à tâtons et glissa le papier dans la poche de poitrine du pull trop grand qu'elle portait encore.
+Elle rit encore, contre sa peau. Puis elle se leva, sans allumer, chercha son sac dans le noir et en sortit un stylo et un bout de papier. Elle écrivit quelques mots à tâtons et glissa le papier dans la poche de poitrine du pull trop grand qu'elle portait encore.
 
 *Si tu te réveilles ici : c'est moi qui l'ai voulu. Tout va bien. Je suis heureuse. Rentre doucement.*
 

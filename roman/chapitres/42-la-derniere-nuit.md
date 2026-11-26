@@ -1,4 +1,4 @@
-# Chapitre 35 — La dernière nuit
+# Chapitre 36 — La dernière nuit
 
 *(premier jet)*
 
@@ -112,7 +112,7 @@ Elle écrivit jusqu'à quatre heures.
 
 Il restait une page.
 
-Élise la regarda longtemps. Elle avait voulu y écrire une dernière phrase, une seule, celle qui résumerait tout. Elle l'avait cherchée pendant des heures, en écrivant le reste. Elle ne l'avait pas trouvée.
+Élise la regarda. Elle avait voulu y écrire une dernière phrase, une seule, celle qui résumerait tout. Elle l'avait cherchée pendant des heures, en écrivant le reste. Elle ne l'avait pas trouvée.
 
 Elle reposa le stylo noir sur la page, à gauche, à sa place. Elle laissa la page blanche.
 

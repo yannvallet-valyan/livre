@@ -1,4 +1,4 @@
-# Chapitre 30 — Huit ans
+# Chapitre 31 — Huit ans
 
 *(premier jet)*
 
@@ -80,7 +80,7 @@ Elle se mit à pleurer, comme dans la cuisine d'Étienne. Cette fois, elle savai
 
 ---
 
-Ils restèrent longtemps sans parler. Orion se leva au-dessus de la crête, le chasseur penché, et ils le regardèrent monter.
+Ils se turent. Orion se leva au-dessus de la crête, le chasseur penché, et ils le regardèrent monter.
 
 — Il y a quelque chose que je dois te dire, dit Élise. Anselme me l'a dit. La nuit où il m'a montré.
 
@@ -110,7 +110,7 @@ Ils restèrent assis jusqu'à quatre heures, à un mètre l'un de l'autre. Puis 
 
 — Décris-moi mon visage. Le mien. Celui de 2137. Comme tu le voyais quand je n'avais pas peur de toi.
 
-Il la regarda longtemps. Il regardait le visage de Sophia, dans la lumière jaune du lampadaire, mais elle comprit qu'il regardait à travers.
+Il la regarda. Il regardait le visage de Sophia, dans la lumière jaune du lampadaire, mais elle comprit qu'il regardait à travers.
 
 — Tu avais une ride ici, dit-il en levant la main vers son propre front, entre les sourcils. Une seule, verticale. À force de déchiffrer. Elle disparaissait quand tu dormais. Tu avais les cheveux qui se dressaient sur le haut de la tête, toujours, même mouillés. Tu les coupais toi-même avec les ciseaux de la cuisine, de travers, et tu refusais que je t'aide. Tu avais les yeux noisette, très mobiles, qui ne restaient jamais sur une chose plus d'une seconde, sauf sur moi. Tu bougeais les lèvres en comptant, sans t'en rendre compte. Tu avais de l'encre sur le majeur droit. Tu souriais rarement, et toujours d'un seul côté.
 

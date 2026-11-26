@@ -22,7 +22,7 @@ Un matin, elle trouva la liste sur la table, toute barrée, d'un trait noir, ép
 
 — C'est toi qui as écrit ça ? demanda-t-elle.
 
-Anselme regarda la feuille longtemps.
+Anselme considéra la feuille.
 
 — Je ne sais pas, dit-il. Mais c'est joli, non ?
 

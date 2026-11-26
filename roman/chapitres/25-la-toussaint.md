@@ -22,13 +22,13 @@ Corinne était là, avec Mathis et Biscotte, qu'on n'avait pas le droit d'amener
 
 — Elle m'a appris à lire, dit Corinne. En CP. Elle avait… elle avait un nom pour les lettres. Elle disait que le *a* était une petite pomme. Elle s'appelait…
 
-Elle s'arrêta. Sa bouche resta entrouverte. Elle regardait la plaque de plastique, sur la croix, où le nom était écrit en lettres noires, à un mètre d'elle. Elle le regardait comme on regarde une langue étrangère.
+Elle s'arrêta. Sa bouche resta entrouverte. Elle regardait la plaque de plastique, sur la croix, où le nom était écrit en lettres noires, à un mètre d'elle. Elle le regardait sans parvenir à le lire.
 
 — Martine, dit Mathis doucement, en lui prenant la main.
 
 — Martine, répéta Corinne. Martine. Bien sûr. Martine.
 
-Elle posa le pot de fleurs. Elle ne pleura pas. Elle rit un peu, de ce rire haut perché qui ne trompait plus personne, et elle redescendit très vite vers le village, en tirant Mathis par la main, en répétant à voix basse le prénom de la morte comme on serre une clé dans sa poche.
+Elle posa le pot de fleurs. Elle ne pleura pas. Elle rit un peu, de ce rire haut perché qui ne trompait plus personne, et elle redescendit très vite vers le village, en tirant Mathis par la main, en répétant à voix basse le prénom de la morte, sans relâche, jusqu'au bas du chemin.
 
 Mathis se retourna une fois vers Sophia. Il ne dit rien. Il la regarda seulement, longtemps, droit dans les yeux, au fond, comme s'il y cherchait quelqu'un, et Sophia comprit qu'en plein jour, il ne voyait personne d'autre qu'elle. Elle ne sut pas si elle en était soulagée.
 
@@ -47,7 +47,7 @@ Il y avait un pot de chrysanthèmes à moitié fanés, de l'année dernière, et
 
 Ce n'était pas une question. Elle n'avait jamais su son nom.
 
-Anselme hocha la tête. Il resta longtemps silencieux, les yeux sur la dalle. Puis il parla, et ce fut la plus longue phrase qu'elle l'ait jamais entendu dire.
+Anselme hocha la tête. Il garda le silence, les yeux sur la dalle. Puis il parla, et ce fut la plus longue phrase qu'elle l'ait jamais entendu dire.
 
 — Elle est née dans la troisième maison à gauche, en bas, au fond du lac. Moi aussi. On l'a relogée ici, en 58, dans un appartement au-dessus de la boulangerie. Pendant quarante ans, elle a mis la table pour cinq. Nous n'étions que trois, puis deux. Elle disait qu'elle mettait le couvert pour la cuisine. Pour la maison, pour qu'elle sache qu'on ne l'avait pas oubliée. Les gens la prenaient pour une folle. Elle n'était pas folle. Elle attendait.
 

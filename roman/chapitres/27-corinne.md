@@ -28,7 +28,7 @@ Mathis était assis sur son lit, en pyjama, contre le mur mitoyen. Il ne pleurai
 
 — Tu es partie longtemps, dit-il à sa mère.
 
-Corinne le serra contre elle si fort qu'il fit une grimace. Elle répéta son prénom dans ses cheveux, *Mathis, Mathis, Mathis*, comme on vérifie qu'une clé est toujours dans sa poche. Il se laissa faire. Par-dessus l'épaule de sa mère, il regarda Sophia, debout sur le seuil de la chambre, et il dit, très calmement :
+Corinne le serra contre elle si fort qu'il fit une grimace. Elle répéta son prénom dans ses cheveux, *Mathis, Mathis, Mathis*, comme pour s'assurer qu'il existait encore. Il se laissa faire. Par-dessus l'épaule de sa mère, il regarda Sophia, debout sur le seuil de la chambre, et il dit, très calmement :
 
 — Elle oublie la nuit. Comme les gens du labo. Parce qu'on dort à côté du lac.
 

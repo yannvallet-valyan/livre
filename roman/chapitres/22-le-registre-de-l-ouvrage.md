@@ -24,7 +24,7 @@ Il y avait parfois, dans la colonne des observations, une phrase qui n'était pa
 
 *17 février 1991. Rien à signaler.*
 
-Sophia resta longtemps devant cette dernière ligne. Le 17 février 1991, c'était le jour où sa mère était partie avec elle dans les bras. *Rien à signaler.*
+Sophia s'arrêta sur cette dernière ligne. Le 17 février 1991, c'était le jour où sa mère était partie avec elle dans les bras. *Rien à signaler.*
 
 Elle referma le cahier et alla se coucher.
 

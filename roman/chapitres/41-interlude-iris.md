@@ -42,7 +42,7 @@ Et puis, la veille, sa mère avait frappé le soixantième coup.
 
 ---
 
-Cette nuit, la dernière, sa mère n'était pas dans la chambre. Elle était en bas, dans la cuisine. Iris voyait la lumière verte sur le givre qui blanchissait déjà la rue. Elle voyait l'ombre penchée sur le carnet, qui écrivait, qui écrivait, page après page. Et en face, de l'autre côté de la table, une autre ombre, plus grande, qui ne bougeait pas, qui la regardait écrire, et qui se leva une fois pour remuer quelque chose dans une casserole.
+Cette nuit, la dernière, sa mère n'était pas dans la chambre. Elle était en bas, dans la cuisine. Iris voyait la lumière verte sur le givre qui blanchissait déjà la rue. Elle voyait l'ombre penchée sur le carnet, qui écrivait, qui écrivait, page après page. Et en face, de l'autre côté de la table, une autre ombre, plus grande, qui ne bougeait pas, qui la regardait écrire, et qui se leva une fois pour remuer une casserole.
 
 Iris posa la main de Mathis à plat contre le mur, à hauteur de l'oreiller, contre une chambre vide.
 

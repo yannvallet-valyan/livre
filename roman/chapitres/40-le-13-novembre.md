@@ -1,4 +1,4 @@
-# Chapitre 34 — Le 13 novembre
+# Chapitre 35 — Le 13 novembre
 
 *(premier jet)*
 
@@ -36,7 +36,7 @@ Sophia avait passé la nuit, ou plutôt la soirée, à préparer une réponse. E
 
 — Ils ont percé le mur de la galerie pour accéder aux sédiments. Le lac baisse d'un mètre par semaine, la pression de l'eau dans la vase change, elle se remet à circuler. Elle va trouver le chemin le plus court. Le plus court, c'est leur trou. Faites-moi confiance jusqu'à seize heures, monsieur Ménard. Si je me trompe, vous me renvoyez à mes bacs, et vous ne m'entendrez plus jamais.
 
-Ménard la regarda longtemps. Puis il posa sa tasse.
+Ménard la jaugea en silence. Puis il posa sa tasse.
 
 — Seize heures, dit-il. Je descends avec vous. Si c'est zéro virgule quatre, c'est vous qui payez les croissants à toute l'équipe pendant un mois.
 
@@ -180,7 +180,7 @@ Elle le fit entrer. Elle s'assit à la table de la cuisine, ouvrit le carnet, et
 
 Puis ils montèrent. Ils s'aimèrent, ce soir-là, lentement, dans le lit contre le mur mitoyen, avec une gravité qu'ils ne s'étaient jamais connue, comme on dit au revoir à quelqu'un qu'on ne voit pas. Ils ne parlèrent pas d'eux. Ils ne respectèrent pas non plus la règle : ils ne pensèrent qu'à eux.
 
-Après, ils restèrent longtemps les yeux ouverts dans le noir, la tête de Sophia sur l'épaule d'Étienne.
+Après, ils restèrent les yeux ouverts dans le noir, la tête de Sophia sur l'épaule d'Étienne.
 
 Elle ne savait pas comment on s'endort quand on sait que c'est la dernière fois qu'on ne s'endort pas seule.
 

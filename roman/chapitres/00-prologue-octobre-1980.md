@@ -66,7 +66,7 @@ Le lac n'était plus qu'une plaine de boue sous les étoiles. Au milieu, le vieu
 
 Personne ne l'attendait.
 
-Elle resta longtemps assise sur une caisse, devant le baraquement, à regarder ses mains d'homme. Puis elle retourna à l'intérieur, à tâtons, trouva près de la paillasse le carnet à spirale où le garçon notait ses heures de chantier, et un crayon de menuisier.
+Elle passa une heure assise sur une caisse, devant le baraquement, à regarder ses mains d'homme. Puis elle retourna à l'intérieur, à tâtons, trouva près de la paillasse le carnet à spirale où le garçon notait ses heures de chantier, et un crayon de menuisier.
 
 Elle voulut écrire son nom. Elle écrivit *Je m'appelle É*, et la mine s'arrêta là, parce qu'il n'y avait plus rien derrière la lettre.
 

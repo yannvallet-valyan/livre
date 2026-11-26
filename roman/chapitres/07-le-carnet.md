@@ -28,7 +28,7 @@ Elle connaissait un chiffre.
 
 ---
 
-Elle l'avait appris dans le dossier gris, sans savoir à quoi il servirait. Le rapport d'ingénierie sur l'incident commençait par un historique des niveaux du lac pendant les semaines précédant le 14 novembre. Une colonne de dates, une colonne de cotes. Élise l'avait recopiée dans sa tête comme on recopie un poème, parce que c'était ce qu'elle faisait de tout ce qu'elle lisait. Elle ferma les yeux et la colonne se déroula, propre, nette, comme sur la page.
+Elle l'avait appris dans le dossier gris, sans savoir à quoi il servirait. Le rapport d'ingénierie sur l'incident commençait par un historique des niveaux du lac pendant les semaines précédant le 14 novembre. Une colonne de dates, une colonne de cotes. Élise l'avait recopiée dans sa tête à la manière d'un poème, parce que c'était ce qu'elle faisait de tout ce qu'elle lisait. Elle ferma les yeux et la colonne se déroula, propre, nette, comme sur la page.
 
 *24 septembre 2026, 7 h 12 : 412,60.*
 
@@ -66,15 +66,15 @@ Pendant trois nuits, elle avait pris dans la corbeille de Sophia des enveloppes 
 
 Elle brûlait ensuite les papiers un à un, dans l'évier, avec les allumettes de la cuisinière, et ouvrait la fenêtre pour chasser l'odeur.
 
-La deuxième nuit, en recopiant des mots au hasard pour s'habituer, elle avait écrit, sans le décider, sur le dos d'une facture d'électricité : *Iris*. Quatre lettres, nettes, bien formées, les plus belles de la nuit. Elle les avait regardées longtemps. Puis elle avait brûlé la facture, elle aussi, et elle était restée devant l'évier jusqu'à ce que le papier ne soit plus qu'une petite feuille noire et tordue qui gardait encore, en gris plus clair, la forme des lettres.
+La deuxième nuit, en recopiant des mots au hasard pour s'habituer, elle avait écrit, sans le décider, sur le dos d'une facture d'électricité : *Iris*. Quatre lettres, nettes, bien formées, les plus belles de la nuit. Elle les avait contemplées. Puis elle avait brûlé la facture, elle aussi, et elle était restée devant l'évier jusqu'à ce que le papier ne soit plus qu'une petite feuille noire et tordue qui gardait encore, en gris plus clair, la forme des lettres.
 
-Dans la bibliothèque, on écrivait peu, et au crayon, pour pouvoir effacer et réutiliser le papier. Écrire à l'encre, quelque chose qui ne s'efface pas, à quelqu'un qui est vivant, lui paraissait une audace presque obscène. Elle s'y habitua, comme on s'habitue au froid.
+Dans la bibliothèque, on écrivait peu, et au crayon, pour pouvoir effacer et réutiliser le papier. Écrire à l'encre, quelque chose qui ne s'efface pas, à quelqu'un qui est vivant, lui paraissait une audace presque obscène. Elle s'y habitua. Il le fallait bien.
 
-Il restait une heure avant l'aube. Elle aurait dû aller se coucher, rendre le corps à sa propriétaire, comme on rend un manteau emprunté.
+Il restait une heure avant l'aube. Elle aurait dû aller se coucher, rendre le corps à sa propriétaire.
 
 Elle alla plutôt à la fenêtre.
 
-La cabine, en haut, était allumée. Elle était toujours allumée. Élise la regarda longtemps, en pensant à la lettre d'Hélène et à un homme qui comptait jusqu'à soixante dans une cuisine, trente-cinq ans plus tôt.
+La cabine, en haut, était allumée. Elle était toujours allumée. Élise la fixa, en pensant à la lettre d'Hélène et à un homme qui comptait jusqu'à soixante dans une cuisine, trente-cinq ans plus tôt.
 
 La lumière s'éteignit.
 

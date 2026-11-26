@@ -66,9 +66,21 @@ Sophia regarda la date. 1-4-1-1. Le code de la porte.
 
 ---
 
+Ce soir-là, en quittant le laboratoire, elle vit Kerr sur la grève.
+
+Il ne l'avait pas vue. Il était descendu par le chemin des pêcheurs, en chemise blanche malgré le froid, les mains dans les poches, et il marchait lentement le long de l'eau, à l'endroit où la vase rejoignait le gravier. Il s'arrêta. Il se baissa. Il ramassa un galet, l'examina, le reposa. Il en ramassa un autre, blanc, rond, presque lumineux dans le crépuscule, et il le garda dans la main un moment.
+
+Puis il s'accroupit au bord de l'eau, et il le posa sur la vase, tout au bord, là où la prochaine baisse du lac le découvrirait davantage, comme on dépose une offrande.
+
+Il resta accroupi devant ce caillou blanc pendant cinq minutes. Sophia, en haut du chemin, n'osait plus bouger. Quand il se releva, il essuya ses mains sur son pantalon, regarda le lac une dernière fois, et remonta vers le parking sans se retourner.
+
+Elle repensa à la photo retournée sur le bureau. Un petit garçon sur un ponton, qui tendait un caillou blanc vers l'objectif comme un trésor.
+
+---
+
 Le jeudi, elle retrouva Étienne Marle au café de la place, celui qui sentait le vieux bois et le chocolat chaud. Elle lui montra les photos sur son téléphone, à l'abri d'une main, en parlant bas.
 
-Il les regarda longtemps, sans rien dire. Puis il revint en arrière, jusqu'à la photo du tableau blanc, et posa le doigt sur l'écran.
+Il les fit défiler sans rien dire. Puis il revint en arrière, jusqu'à la photo du tableau blanc, et posa le doigt sur l'écran.
 
 — Phase paradoxale, dit-il. C'est quand on rêve.
 

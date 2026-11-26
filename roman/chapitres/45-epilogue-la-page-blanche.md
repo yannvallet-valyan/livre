@@ -64,7 +64,7 @@ Avant de partir, comme chaque samedi, elle descendit au sous-sol.
 
 Elle n'avait pas le droit d'y aller seule. Elle y allait quand même, par l'escalier de service, celui qui sentait l'eau. En bas, au bout du couloir, entre la réserve des chaises et la chaufferie, il y avait le mur de béton plus lisse que les autres, et la plaque de cuivre. *Galerie technique, niveau –3. Obturée le 14 novembre 2026. Ne pas rouvrir.*
 
-Elle posa les deux mains à plat sur le béton, comme on pose les mains sur le ventre d'une femme enceinte. Elle colla l'oreille contre la paroi. Elle resta comme ça longtemps, les yeux fermés.
+Elle posa les deux mains à plat sur le béton, comme on pose les mains sur le ventre d'une femme enceinte. Elle colla l'oreille contre la paroi. Elle resta ainsi, les yeux fermés.
 
 Un gardien la trouva là, un jour. Il lui demanda ce qu'elle faisait. Elle répondit, très sérieusement :
 
