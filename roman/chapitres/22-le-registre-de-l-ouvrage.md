@@ -82,3 +82,13 @@ Sophia relut la réponse dix fois. Elle la crut. C'est ce qui la terrifia le plu
 Elle rangea les quarante-sept cahiers dans leur carton et le poussa sous le lit, à l'endroit exact du mur mitoyen, là où, chaque nuit, elle ne le savait pas, quelqu'un frappait cinquante-neuf fois.
 
 Elle ne put pas dormir. Ce qui, pour une fois, voulait dire qu'Élise non plus.
+
+---
+
+Le lendemain soir, elle prit la photo sur la table et la colla sur la page de droite, à côté de sa propre écriture. Elle n'écrivit qu'une ligne en dessous :
+
+*Ce dessin est sur tous les murs de mon père. Il en fait un chaque nuit depuis quarante-six ans. Est-ce que tu sais ce que c'est ?*
+
+Puis elle hésita, la main au-dessus du papier. Elle ajouta :
+
+*Il m'a appelée Élise.*

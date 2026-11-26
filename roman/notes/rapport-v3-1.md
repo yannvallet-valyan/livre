@@ -52,7 +52,11 @@ Laissé volontairement : « trente-huit ans » dans `40` (anniversaire du 12 nov
 
 ---
 
-## B. À valider (rien n'est écrit)
+## B. Points validés puis appliqués (V3.1, deuxième passe)
+
+> **Mise à jour :** tous les points ci-dessous ont été appliqués tels que proposés (2.2, 2.3, 4.1 à 4.8, indice 6.2, correctifs C1 et C2). L'annexe (6.1, option C) a été déplacée dans `tome2/annexe-cahier-noir.md` après application de 4.3. Partie 5 : seul le lot 1 (`00`-`02`) et la phrase de `15` sont faits. L'EPUB et `site/book.js` ont été régénérés.
+
+(Texte des propositions conservé ci-dessous.)
 
 ### 2.2 — Les trois éclats de lumière
 

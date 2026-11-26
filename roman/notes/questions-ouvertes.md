@@ -64,7 +64,7 @@
 - Dates et chiffres : vidange en 12 jours, jauge 411,71 / 411,52, Sophia 37 ans, cahiers 1 à 47, Paul/Marthe à six ans d'intervalle, générations de Noé et d'Iris, « vingt-sept ans plus tard ». Voir `bible/chronologie.md` §0.12.
 - Secret de Noé : « Noé » seul dans le registre (`16`), passage sur « l'enfant qui naîtrait dans cent ans » supprimé (`26`), « Sacha » dans `30`.
 
-**En attente de validation de l'auteur** (voir le rapport remis avec cette passe) :
+**Tout a ensuite été appliqué** (voir `rapport-v3-1.md`) : 2.2, calendrier 2.3, 4.1 à 4.8, indice de règle (6.2), annexe déplacée dans `tome2/`. Reste : partie 5 au-delà du lot 1, retrait de « premier jet ». Anciennes listes d'attente :
 - 2.2 trois éclats la première nuit ; 2.3 calendrier d'octobre (chapitres 20 à 24) ;
 - 4.1 à 4.8 : piézomètres P7, fiole/aiguille, observations de K., dessin dans le portefeuille, badge de Kerr, collage du dessin, feuille du Veilleur, origine de la Fondation Léthé ;
 - Partie 5 (style, par lots) ; Partie 6 (annexe, règle de réécriture, mention « premier jet »).

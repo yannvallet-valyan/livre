@@ -42,7 +42,7 @@
 | 25 | 28 | Le matin | Sophia | 14 nov.-déc. | Le coulis ; la dissolution ; **la fiole** ; Anselme libéré |
 | — | 29 | Épilogue : la page blanche | Ligne B | 2137 puis 2141 | « C'est toi. » ; puis Iris ouvre la fiole : « Pardon. » |
 | — | 30 | Coda | Élise B | 2164 puis 2026 | **La sortie était l'entrée** |
-| — | 31 | Annexe : le cahier noir | K. | Genève | Bilan du tour 47 ; K. descend de Kerr ; **« qui, de nous tous, a commencé ? »** (amorce du tome 2) |
+| — | — | *Annexe : le cahier noir (déplacée dans `tome2/annexe-cahier-noir.md`)* | K. | Genève | Bilan du tour 47 ; **« qui, de nous tous, a commencé ? »** (amorce du tome 2) |
 
 ## Les fils entrelacés
 
@@ -114,4 +114,3 @@
 | `44-interlude-anne.md` | Interlude — Lyon, hiver 2033 | 1099 |
 | `45-epilogue-la-page-blanche.md` | Épilogue — La page blanche | 2676 |
 | `46-coda.md` | Coda | 1657 |
-| `47-annexe.md` | Annexe — Le cahier noir | 437 |

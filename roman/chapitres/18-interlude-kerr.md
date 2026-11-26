@@ -34,6 +34,7 @@ Sur la page de droite, quelqu'un avait écrit, à l'encre, d'une écriture qu'il
 *Variable É. : greffe stable (hôte S.V.). Mémoire en érosion lente. Contact établi avec variable N. (hôte E.M.), conforme.*
 *Anomalie : variable I. (hôte M.D.). Non observée lors des tours précédents. À surveiller.*
 *Écart de la poussière : – 94 jours (attendu : – 91). La spirale se resserre.*
+*Chaque tour recouvre le précédent. Ne survit que ce qui sort avant que la fenêtre se referme.*
 *Ne pas intervenir sur la structure. Protéger É. jusqu'au choix. Mesurer.*
 
 Et en bas de la page, plus petit, comme une note qu'on se laisse à soi-même :

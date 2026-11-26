@@ -26,13 +26,13 @@ Le treizième jour de la vidange, un lundi, il trouva la veine.
 
 Il creusait au pied du mur, côté gauche, là où la vase était la plus épaisse. Sa pelle racla quelque chose de dur. Il se baissa, gratta de ses mains gantées. Dans le gris, il y avait une ligne rouge, fine comme un fil, qui courait en zigzag et disparaissait dans la masse noire. Puis une autre. Puis un nœud de lignes, gros comme un poing, hérissé de petites aiguilles.
 
-On aurait dit de la rouille sur un clou. Il retira son gant sans savoir pourquoi, et il le toucha.
+On aurait dit de la rouille sur un clou. Il retira son gant, et il le toucha.
 
 C'était tiède.
 
 Sans savoir pourquoi non plus, il cassa du bout de l'ongle une petite aiguille rouge, pas plus longue qu'une allumette, et la glissa dans la poche de poitrine de sa salopette.
 
-Il n'en dit rien à personne. Le soir, au baraquement, il saigna du nez pendant le repas, longtemps, sans raison, et les autres se moquèrent de lui. Il se coucha tôt. Il avait la tête pleine d'un bourdonnement très bas, comme si le barrage, au lieu d'être derrière lui, était entré à l'intérieur.
+Il n'en dit rien à personne. Le soir, au baraquement, il saigna du nez pendant le repas, sans raison, et les autres se moquèrent de lui. Il se coucha tôt. Il avait la tête pleine d'un bourdonnement très bas, comme si le barrage, au lieu d'être derrière lui, était entré à l'intérieur.
 
 Il s'endormit à dix heures.
 

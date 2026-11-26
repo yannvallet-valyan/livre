@@ -170,7 +170,9 @@ Au bout d'un an, un matin de printemps, Élise s'arrêta sur le seuil de la cuis
 
 ---
 
-Cette nuit-là, Iris descendit au lac et jeta la fiole dans l'eau, aussi loin qu'elle put. Elle crut s'en débarrasser. Elle rendait seulement au lac ce qu'on lui avait pris plus d'un siècle plus tôt.
+Cette nuit-là, Iris descendit au lac. Elle tira l'aiguille de la fiole avec un chiffon et la jeta dans l'eau, aussi loin qu'elle put. Elle crut s'en débarrasser. Elle rendait seulement au lac ce qu'on lui avait pris plus d'un siècle plus tôt.
+
+Elle rapporta la fiole, qu'elle rinça et reposa sur l'étagère, et qu'elle crut vide. Au fond du verre, contre la paroi, un grain restait collé, trop petit pour qu'elle le voie.
 
 Quelques années plus tard, à la bibliothèque de Vallorce, quelqu'un proposa de murer les fenêtres.
 

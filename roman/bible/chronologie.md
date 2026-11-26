@@ -27,7 +27,7 @@
    - **L'Élise B** vient de 2164, dans la ligne B.
 7. **Dès 2026,** les eaux de culture du laboratoire, filtrées mais pas assez, rejoignent la retenue, en amont du captage d'eau potable de la rue des Fontaines. Des micro-cristaux arrivent dans les robinets : c'est une des causes des oublis précoces (Corinne, Martine). Sophia les découvre au microscope (chapitre « L'eau »).
 8. **La contamination, de la fiole au monde.** Le cristal se nourrit des **dormeurs** à proximité : il pousse, s'ouvre en éventail et lâche une poussière fine comme du sucre. Les **résidus** passent de dormeur en dormeur et de génération en génération.
-   - **En 2141 :** la poussière essuyée chaque matin est rincée dans l'évier, et les éviers descendent au lac. Puis Iris jette la fiole dans le lac pour s'en débarrasser. Le lac est réensemencé, et la Rouille de la ligne B repart.
+   - **En 2141 :** la poussière essuyée chaque matin est rincée dans l'évier, et les éviers descendent au lac. Puis Iris jette **l'aiguille** dans le lac et garde la fiole, qu'elle croit vide : un grain reste collé au verre (la fiole « qu'on croyait vide » de la coda). Le lac est réensemencé, et la Rouille de la ligne B repart.
    - La consigne d'Élise (« pas dans l'évier, jamais dans l'eau ») est ainsi violée deux fois, sans le savoir.
 9. **Mathis.** Il voit les voyageurs parce qu'il a failli se noyer à 3 ans au pied du barrage : il a bu l'eau du lac. Il veille de minuit à 1 h environ. Iris occupe ensuite ses nuits, et laisse des traces : jointures écorchées, craie sur les doigts, ardoise effacée.
 10. **Les prénoms de la ligne B.**
@@ -41,6 +41,8 @@
    - **Jauge :** lundi 28 septembre 7 h 12 = **411,71** ; jeudi 1er octobre 7 h 12 = **411,52**.
    - **Famille d'Élise :** Paul rouille en **2118** (Élise a 15 ans), Marthe s'éteint en **2124** (six ans d'écart). Dans la ligne B, Iris naît en 2103 et sa fille Élise en 2130 (**27 ans** plus tard).
    - **Générations :** Hugo (2007) est le grand-père du grand-père de Noé ; Mathis (2017) est l'arrière-arrière-grand-père d'Iris.
+   - **Annexe :** retirée du roman en V3.1 (le livre se termine sur la coda) ; texte conservé dans `tome2/annexe-cahier-noir.md`. Les observations de K. y sont des constats de la **nuit suivante** (K. n'agit que pendant le sommeil de Kerr).
+   - **Calendrier d'octobre :** Mathis (chap. 21) du 20 au 25 oct. ; registres, collage du dessin le sam. 31 oct. ; « Quatre » du lun. 26 au sam. 31 ; Toussaint le dim. 1er nov.
    - **Ruben** n'écrit que « *Noé.* » dans le registre rouge (pas de nom de famille) : le nom Marle ne doit pas apparaître avant le chapitre « Le lit vide ».
 
 ---
@@ -261,7 +263,7 @@ Personne n'est méchant.
   - Anne, si. Le savoir ne peut venir que de la nuit du 13 au 14.
   - Cela n'exclut pas d'autres voies du résidu. Le doute reste ouvert.
 - **La réaction :** Sophia ne pose aucune question. Elle ouvre la dernière page blanche du carnet et ne l'écrit pas. *« Ce soir-là, pour la première fois, Sophia Varenne se demanda de qui sa fille était la fille. »*
-- **L'écho chez K. (annexe) :** *« Je n'ai pas observé la nuit du 13. Je commence à croire que c'était la seule chose qu'il fallait observer. »*
+- **L'écho chez K. (annexe, désormais dans `tome2/annexe-cahier-noir.md`) :** *« Je n'ai pas observé la nuit du 13. Je commence à croire que c'était la seule chose qu'il fallait observer. »*
 - **Les pistes pour le tome 2 :**
   - **Anne** comme personnage central (de 2027 à 2090, jusqu'à la guerre de l'eau) : porte-t-elle Élise et Noé plus qu'un simple résidu ?
   - **L'enquête de K.** sur la nuit non observée, et le lien entre « qui a fait Anne ? » et « qui a commencé ? ».
@@ -273,6 +275,6 @@ Personne n'est méchant.
 
 Voir le dossier `../../tome2/` (pitch, personnages, chronologie de 1958, **amorces**). Ce qui est déjà semé dans le tome 1 :
 - **Rose Roch, habitée en 1958 :** cheveux ras depuis l'été 1958, mains à plat, compte jusqu'à 59, « Comme ça, je me reconnais », la chanson de rivière qui « s'arrêtait toujours avant la fin ».
-- **K. en 1958 :** « Ce n'est pas encore vous. » Dans l'annexe, la femme aux cheveux ras « m'a regardé comme si elle me connaissait ».
+- **K. en 1958 :** « Ce n'est pas encore vous. » Dans l'annexe (tome 2), la femme aux cheveux ras « m'a regardé comme si elle me connaissait ».
 - **Jeanne, 7 ans, en 2059 :** elle frappe contre le mur jusqu'à 59, ce qui montre qu'Iris adulte, dissoute dans Mathis, est transmise à son arrière-grand-mère.
 - **La relecture de la coda :** Iris B, en 2164, est le corps vide d'une voyageuse partie en 2155 vers 1958.

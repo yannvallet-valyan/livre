@@ -10,6 +10,8 @@ Elle resta assise par terre, dans l'obscurité, à compter jusqu'à soixante.
 
 Puis elle se mit au travail.
 
+La première nuit, en remontant du lac, elle avait vu la lumière de la cabine s'éteindre, puis se rallumer, trois fois de suite, à intervalles réguliers. Elle y avait vu un défaut de courant. Le barrage était vieux.
+
 ---
 
 Elle apprit le corps comme on apprend une maison louée en pleine nuit : à tâtons, en se cognant. Les jambes voulaient marcher plus vite qu'elle. Les mains savaient des choses qu'elle ignorait : elles trouvaient l'interrupteur dans le noir, tournaient la clé de la porte d'entrée deux fois vers la gauche puis une vers la droite, attrapaient un verre dans le placard sans que la tête ait rien demandé. Au début, Élise luttait contre ces gestes. Puis elle comprit qu'il valait mieux les laisser faire. Le corps de Sophia était un guide qui ne parlait pas, et qui connaissait le chemin.

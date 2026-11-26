@@ -64,7 +64,7 @@ Iris avait un père. Élise le savait comme on sait qu'une pièce a contenu un m
 
 Élise n'était pas *rouillée*. Elle lisait, elle se souvenait, elle comptait. Mais tout le monde, ici, portait un peu de cristal dans la tête, et chacun avait sa pièce vide.
 
-Il y avait d'autres choses qu'elle avait cessé d'interroger. Chaque midi, au réfectoire, il y avait à sa place un bol de lentilles au cumin, encore chaud, posé là avant qu'elle n'arrive. Personne ne le revendiquait. Elle avait demandé, au début, une fois ou deux. On lui avait répondu que c'était comme ça depuis longtemps, qu'il ne fallait pas s'en faire. Elle avait fini par ne plus demander, comme on cesse de se demander d'où vient la pluie. Elle mangeait les lentilles. Elles étaient toujours un peu trop salées, exactement comme elle les aimait.
+Elle avait cessé d'interroger d'autres choses. Chaque midi, au réfectoire, un bol de lentilles au cumin, encore chaud, l'attendait à sa place, posé là avant qu'elle n'arrive. Personne ne le revendiquait. Elle avait demandé, au début, une fois ou deux. On lui avait répondu que c'était comme ça depuis longtemps, qu'il ne fallait pas s'en faire. Elle avait fini par ne plus demander, comme on cesse de se demander d'où vient la pluie. Elle mangeait les lentilles. Elles étaient toujours un peu trop salées, exactement comme elle les aimait.
 
 ---
 

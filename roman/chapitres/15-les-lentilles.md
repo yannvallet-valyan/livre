@@ -112,7 +112,7 @@ Elle hocha la tête. Elle avait la gorge serrée.
 
 — Et qu'est-ce qui reste ?
 
-Il se retourna. Il la regarda, de l'autre bout de la cuisine, avec une tendresse si nue qu'elle dut baisser les yeux.
+Il se retourna. Il la regarda, de l'autre bout de la cuisine. Elle détourna les yeux la première.
 
 — Le barrage, dit-il. Le ciel. Les mots. Les mots, on a le droit. Les mots, ça ne fait pas d'enfants.
 
@@ -128,4 +128,4 @@ Et en bas, d'une écriture plus petite :
 
 *Pour quand il fera froid et que je ne serai pas là.*
 
-Elle la glissa dans la poche intérieure de la parka de Sophia, contre sa poitrine. Elle oublia de la sortir. Sophia la trouverait une semaine plus tard, en cherchant ses clés, et ce serait le début d'autre chose.
+Elle la glissa dans la poche intérieure de la parka de Sophia, contre sa poitrine. Elle oublia de la sortir. Sophia la trouverait dix jours plus tard, en cherchant ses clés, et ce serait le début d'autre chose.

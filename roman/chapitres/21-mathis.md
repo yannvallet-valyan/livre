@@ -26,7 +26,7 @@ Sophia ne savait pas quoi faire de ses mains. Elle les posa à plat sur ses cuis
 
 — Mathis, est-ce que tu as parlé de ça à quelqu'un ?
 
-— À maman. Elle a dit que j'avais trop d'imagination. Elle oublie des trucs, maman, en ce moment.
+— À maman. Elle a dit que j'avais trop d'imagination. Elle perd ses clés, maman, en ce moment.
 
 — Je sais.
 
@@ -58,7 +58,7 @@ Le caillou resta sur la table de la cuisine, à côté du carnet. Le lendemain m
 
 ---
 
-Le samedi, elle l'emmena ramasser des cailloux.
+Le vendredi, elle l'emmena ramasser des cailloux.
 
 Ce fut Corinne qui le proposa, épuisée, entre deux clientes, en lui tendant le petit garçon par la main comme on tend un paquet : *Tu veux bien l'occuper une heure ? Il ne tient pas en place, et moi je ne tiens plus debout.* Sophia n'avait jamais gardé d'enfant. Elle dit oui.
 
@@ -144,10 +144,4 @@ Sophia sortit son téléphone. Ses doigts tremblaient. Elle photographia le mur,
 
 ---
 
-Le soir, elle imprima la photo au format d'une page de carnet, sur la vieille imprimante du séjour. Elle la colla sur la page de droite, à côté de sa propre écriture, et n'écrivit qu'une ligne en dessous :
-
-*Ce dessin est sur tous les murs de mon père. Il en fait un chaque nuit depuis quarante ans. Est-ce que tu sais ce que c'est ?*
-
-Puis elle hésita, la main au-dessus du papier. Elle ajouta :
-
-*Il m'a appelée Élise.*
+Le soir, elle imprima la photo au format d'une page de carnet, sur la vieille imprimante du séjour. Elle la posa sur la table, à côté du carnet fermé, et n'osa pas la coller.

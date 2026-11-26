@@ -62,11 +62,11 @@ Le menton de sa mère. Le front d'Iris.
 
 Elle recula si vite qu'elle tomba assise dans les galets.
 
-*Iris.* Elle prononça le nom à voix haute, et la voix qui sortit n'était pas la sienne, plus grave, plus claire, avec des consonnes qu'elle n'avait pas entendues depuis l'enfance : « Iris. » Les syllabes roulèrent sur l'eau, revinrent, se perdirent. Elle porta les mains à sa bouche. Elle se mit à pleurer sans bruit, sans comprendre pourquoi, ni pour qui, ni dans quel corps coulaient les larmes.
+*Iris.* Elle prononça le nom à voix haute, et la voix qui sortit n'était pas la sienne, plus grave, plus claire, avec des consonnes qu'elle n'avait pas entendues depuis l'enfance : « Iris. » Les syllabes roulèrent sur l'eau, revinrent, se perdirent. Elle porta les mains à sa bouche. Elle se mit à pleurer, sans savoir pour qui, ni dans quel corps coulaient les larmes.
 
 Dans la bibliothèque, Iris avait tendu le doigt vers son visage, la dernière fois, et demandé : *C'est qui ?*
 
-Il lui fallut longtemps pour que le froid reprenne ses droits. Il revint par les cuisses, par les reins, par les coudes, et avec lui la conscience d'une limite : elle ne disposait que de cette nuit, et des nuits qui suivraient, et chaque matin, quelque part sous elle, une femme qui dormait ouvrirait les yeux et ne saurait pas où elle avait dormi.
+Le froid mit du temps à reprendre ses droits. Il revint par les cuisses, par les reins, par les coudes, et avec lui la conscience d'une limite : elle ne disposait que de cette nuit, et des nuits qui suivraient, et chaque matin, quelque part sous elle, une femme qui dormait ouvrirait les yeux et ne saurait pas où elle avait dormi.
 
 Elle se redressa. Il fallait rentrer. Il fallait comprendre où.
 

@@ -28,7 +28,7 @@ Elle connaissait un chiffre.
 
 ---
 
-Elle l'avait appris dans le dossier gris, sans savoir à quoi il servirait. Le rapport d'ingénierie sur l'incident commençait par un historique des niveaux du lac pendant les semaines précédant le 14 novembre. Une colonne de dates, une colonne de cotes. Élise l'avait recopiée dans sa tête à la manière d'un poème, parce que c'était ce qu'elle faisait de tout ce qu'elle lisait. Elle ferma les yeux et la colonne se déroula, propre, nette, comme sur la page.
+Elle l'avait appris dans le dossier gris, sans savoir à quoi il servirait. Le rapport d'ingénierie sur l'incident commençait par un historique des niveaux du lac pendant les semaines précédant le 14 novembre. Une colonne de dates, une colonne de cotes, puis, plus bas, les relevés des piézomètres du mur jusqu'à la veille de l'incident. Élise avait tout recopié dans sa tête à la manière d'un poème, parce que c'était ce qu'elle faisait de tout ce qu'elle lisait. Elle ferma les yeux et la colonne se déroula, propre, nette, comme sur la page.
 
 *24 septembre 2026, 7 h 12 : 412,60.*
 
@@ -76,9 +76,9 @@ Elle alla plutôt à la fenêtre.
 
 La cabine, en haut, était allumée. Elle était toujours allumée. Élise la fixa, en pensant à la lettre d'Hélène et à un homme qui comptait jusqu'à soixante dans une cuisine, trente-cinq ans plus tôt.
 
-La lumière s'éteignit.
+La lumière s'éteignit, comme la première nuit.
 
-Élise retint son souffle. La lumière se ralluma. S'éteignit. Se ralluma. Trois fois, à intervalles parfaitement réguliers, comme un signal. Puis plus rien : la cabine resta allumée, immobile, et le barrage continua de ronronner comme si rien ne s'était passé.
+Élise retint son souffle. La lumière se ralluma. S'éteignit. Se ralluma. De nouveau trois fois, à intervalles parfaitement réguliers. Ce n'était pas un défaut de courant. Puis plus rien : la cabine resta allumée, immobile, et le barrage continua de ronronner comme si rien ne s'était passé.
 
 Elle recula de la fenêtre. Elle se coucha dans le lit de Sophia, ramena le drap sous le menton et compta jusqu'à soixante, deux fois, trois fois, sans parvenir à s'endormir.
 

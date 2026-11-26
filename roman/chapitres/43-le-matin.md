@@ -213,7 +213,7 @@ Anselme regarda le tas de papiers sur la table. Il passa la main dessus, très d
 
 — Moi, si, dit Sophia.
 
-Il leva les yeux vers elle. Il ne demanda rien. Il fouilla dans le tas, longtemps, et en sortit un dessin qui n'était pas comme les autres : le plus vieux, le plus jauni, celui du fond, cassé aux plis, sur une page de carnet de chantier. La silhouette devant la maison avait de longs cheveux, et un petit point au coin de l'œil gauche. Il le lui tendit. Puis il prit les autres, tous les autres, les rangea dans un carton de registres vide, ferma le carton, et le glissa sous le lit de camp, à côté des boîtes de mouches de pêche.
+Il leva les yeux vers elle. Il ne demanda rien. Il sortit son portefeuille et tira, de derrière sa carte d'identité, une page de carnet de chantier pliée en quatre, cassée aux plis. Il la déplia. La silhouette devant la maison avait de longs cheveux, et un petit point au coin de l'œil gauche. Il la lui tendit. Puis il prit les autres, tous les autres, les rangea dans un carton de registres vide, ferma le carton, et le glissa sous le lit de camp, à côté des boîtes de mouches de pêche.
 
 Sophia regarda le dessin. Elle ne comprit pas pourquoi celui-là. Elle ne comprit pas pourquoi les cheveux étaient longs, ni à qui appartenait ce point minuscule au coin de l'œil. Elle le plia et le mit dans sa poche.
 
