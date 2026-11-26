@@ -60,3 +60,13 @@ Fille d'Élise et de Noé. Elle dessine une maison, un soleil et un visage, et d
 ## Ligne B (épilogue et coda) 🔒
 - **Iris Varenne (née en 2103)** : archiviste à la bibliothèque de Vallorce et mère d'Élise. Elle a le grain de beauté au coin de l'œil gauche. En 2141, par amour, elle ouvre la fiole. En 2164, rouillée, elle demande « C'est qui ? » devant le dessin que sa fille avait fait d'elle.
 - **Élise Varenne (née en 2130)** : enfant hantée, puis Passeuse. Elle a les **cheveux longs**, parce que sa mère les lui tressait. C'est la femme du prologue, la plus ancienne dans Anselme, et l'autrice de la page arrachée.
+
+## Ajouts (révision 3)
+- **Iris adulte (ligne A, 34 ans)** : elle vit les nuits de Mathis et frappe au mur jusqu'à 59. Elle rend à sa mère le grain de beauté perdu et lui donne la permission de rester. Elle se dissout dans Mathis.
+- **Mathis Delorme** : il veille de minuit à 1 h (« deux personnes dans tes yeux »), puis se réveille contre le mur, les doigts écorchés. Il épousera Anne. Il tient jusqu'à sa mort un cahier des nuits où l'on a frappé.
+- **Bastien Kerr** : il a perdu son fils Théo (noyé à Annecy en 2022). Il dort près du bac 7 pour oublier les trois minutes de la plage. Il reçoit en 2023 le colis « Ce qui efface ». Ce n'est pas un méchant. Il aura une fille, Léa, en 2029.
+- **K.** 🔒 : le descendant de Kerr par Léa, venu d'un futur lointain. C'est un observateur, presque un scientifique de la boucle. Il protège sans intervenir et signe d'une seule lettre. C'est le personnage pivot du tome 2.
+- **Oriane Sell** : elle sait que la Passeuse cause l'incident et l'envoie quand même. Elle compte jusqu'à soixante sans savoir pourquoi (piste pour le tome 2).
+- **Hélène Varenne** : la mère de Sophia. Elle a épousé l'homme du jour et rencontré la femme de la nuit.
+- **Hugo Marle** : le fils d'Étienne et l'ancêtre de Noé. Il manque de se noyer, et Noé le sauve.
+- **Ruben** : le technicien de 2137. Il donne l'éclat à Noé, avec l'accord secret d'Oriane.

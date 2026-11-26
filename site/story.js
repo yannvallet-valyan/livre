@@ -1,6 +1,6 @@
 /* ============================================================
    LA ROUILLE — histoire interactive
-   Acte I jouable. Voir README.md pour le format des scènes.
+   Actes I à III jouables, cinq fins. Voir README.md pour le format des scènes.
 
    v = jauges   : confiance (de Sophia), memoire (d'Élise), discretion (face au Veilleur)
    f = drapeaux : f.nom (true si posé)
@@ -350,18 +350,443 @@
           "Une seule chose est certaine : tu n'es plus seule dans ce corps. Et ce que tu écriras maintenant, Sophia le lira demain, sans s'en souvenir."
         ],
         choices: [
-          { label: "Continuer : Acte II (à venir)", to: "fin_provisoire" }
+          { label: "Continuer : Acte II", to: "a2_mur" }
         ]
       },
 
-      fin_provisoire: {
-        chapter: "Fin de l'Acte I",
-        title: "À suivre",
+      /* ==================================================== ACTE II */
+      a2_mur: {
+        chapter: "Acte II — Les deux femmes",
+        title: "Le mur",
+        pov: "elise",
+        text: [
+          "Octobre. Le carnet vit sur la table de la cuisine, un stylo bleu et un stylo noir posés en croix, comme deux couverts.",
+          "Cette nuit-là, assise sur le lit de Sophia, tu entends le mur. Le mur mitoyen, celui de la maison des voisins. Un coup sourd, très doux, à hauteur de l'oreiller. Puis un autre. Une seconde entre chaque, pas plus.",
+          "Tu te mets à compter sans le vouloir. Vingt. Quarante. Cinquante-sept. Cinquante-huit. Cinquante-neuf.",
+          "Plus rien. Le soixantième ne vient pas."
+        ],
+        choices: [
+          { label: "Compter avec les coups, chaque nuit, et ne rien dire.", to: "a2_etoiles", flag: "compte_mur" },
+          { label: "Frapper une fois en retour.", to: "a2_etoiles", flag: "frappe_tot", add: { discretion: -1 } },
+          { label: "Se dire que c'est un tuyau. Dormir.", to: "a2_etoiles" }
+        ]
+      },
+
+      a2_etoiles: {
+        chapter: "Acte II — Les deux femmes",
+        title: "L'homme aux étoiles",
+        pov: "elise",
+        text: [
+          { if: "f.frappe_tot", t: "Depuis que tu as frappé, le mur se tait. Trois nuits de silence. Tu as l'impression d'avoir fait peur à quelqu'un." },
+          "Tu montes sur le barrage. Le ciel est si chargé d'étoiles qu'il en paraît sale. Au milieu du parapet, un homme est assis, la tête renversée vers le ciel, comme quelqu'un qui n'en a jamais vu.",
+          "Il tourne la tête vers toi. Il ne paraît pas surpris.",
+          "— On n'en voit pas, chez moi, dit-il. Il a buté sur *chez moi*, comme sur un mot appris.",
+          "Quand il passe sous la lampe de la cabine, tu vois une cicatrice blanche au-dessus de son sourcil gauche. Celle du docteur de Sophia."
+        ],
+        choices: [
+          { label: "« Chez moi non plus. »", to: "a2_sacha", flag: "sacha" },
+          { label: "Partir sans un mot.", to: "a2_jour", flag: "mefiance", add: { discretion: 1 } }
+        ]
+      },
+
+      a2_sacha: {
+        chapter: "Acte II — Les deux femmes",
+        title: "Sacha",
+        pov: "elise",
+        text: [
+          "Il dit s'appeler Sacha. Ce n'est pas son vrai nom, il le dit lui-même. Il vient de 2137, d'un autre refuge, au nord. Le Conseil l'aurait envoyé derrière toi, pour t'aider.",
+          "Vous revenez presque toutes les nuits. Vous vous rendez les mots perdus : il t'offre *aubépine*, tu lui rends *nostalgie*.",
+          "Un soir, il dit qu'il a aimé une femme qui a oublié son visage. Qu'il est resté quand même. *Où voulais-tu que j'aille ?*",
+          "— On ne touche pas à ces corps, dit-il. Ils ne sont pas à nous.",
+          "Tu gardes un mètre entre vos mains. Ce mètre pèse plus lourd que tout le reste."
+        ],
+        choices: [
+          { label: "Lui parler d'Iris.", to: "a2_jour", flag: "parle_iris" },
+          { label: "Ne rien lui dire de toi.", to: "a2_jour", add: { discretion: 1 } }
+        ]
+      },
+
+      a2_jour: {
+        chapter: "Acte II — Les deux femmes",
+        title: "Pour le dossier",
+        pov: "sophia",
+        text: [
+          { if: "f.sacha", t: "Dans le carnet, à l'encre noire : *Il y a un homme, la nuit, sur le barrage. Il habite le corps de ton docteur.* Tu relis la phrase trois fois." },
+          { if: "!f.sacha", t: "Dans le carnet, à l'encre noire : *Quelqu'un regarde les étoiles sur le barrage, la nuit. Je ne suis pas allée lui parler.*" },
+          "Au café de la place, Étienne te montre ses paumes écorchées, sa voiture déplacée, les notes noires dans ses tiroirs. Il rit, d'un rire fatigué. Pour la première fois depuis des semaines, tu ris aussi.",
+          "Il pose sa main sur la tienne, le temps de deux battements de cœur."
+        ],
+        choices: [
+          { label: "Lui parler du carnet. De tout.", to: "a2_labo", flag: "etienne_sait", add: { confiance: 1 } },
+          { label: "Garder le secret. Pour l'instant.", to: "a2_labo" }
+        ]
+      },
+
+      a2_labo: {
+        chapter: "Acte II — Les deux femmes",
+        title: "La salle du fond",
+        pov: "sophia",
+        text: [
+          "Code 1-4-1-1. La porte s'ouvre avec un soupir de caoutchouc. Douze bacs sous une lumière violette. Dans la vase, des aiguilles rouges, en éventail, comme des doigts. La couleur d'un clou laissé sous la pluie.",
+          "Trois lits de camp, des électrodes. Au tableau : *Croissance ×3,4 à proximité des dormeurs.*",
+          "Sur le terminal des badges : *ROCH A.*, ton père, presque toutes les nuits. Et une autre ligne, que tu ne comprends pas : *KERR B. — 03:40.* Kerr jure qu'il rentre à Grenoble tous les soirs."
+        ],
+        choices: [
+          { label: "Tout photographier, et se taire.", to: "a2_galerie", flag: "photos", add: { confiance: 1 } },
+          { label: "Confronter Kerr dès le lendemain.", to: "a2_galerie", flag: "kerr_alerte", add: { discretion: -2 } }
+        ]
+      },
+
+      a2_galerie: {
+        chapter: "Acte II — Les deux femmes",
+        title: "La galerie",
+        pov: "elise",
+        text: [
+          { if: "f.kerr_alerte", t: "Kerr a fait changer les codes. Tu passes quand même : quelqu'un a laissé la porte de service entrouverte, calée avec un bout de carton." },
+          "Sur la première marche de l'escalier de fer, une lampe torche est posée, allumée, tournée vers le bas. Comme une lumière laissée dans l'entrée pour quelqu'un qui rentre tard. Personne ne l'a posée là. Personne que tu connaisses.",
+          { if: "f.sacha", t: "Sacha est derrière toi. Vous comptez les marches ensemble : cent douze." },
+          "Au bout de la galerie, le mur est percé. Derrière, la vase grise, et dedans, des veines rouges, un réseau, un poumon. Au centre, un nœud gros comme une tête d'enfant.",
+          "Tu sens une pente. Une immense fatigue bienveillante. On te vide, doucement, comme une baignoire. Le nom d'une éducatrice. L'odeur du réfectoire. Puis le menton d'Iris, qui commence à partir."
+        ],
+        choices: [
+          { label: "Reculer. Compter. Penser à ses mains.", to: "a2_anselme", add: { memoire: -1 } },
+          { label: "Poser la main sur le nœud.", to: "a2_vision", flag: "vision", add: { memoire: -2 } }
+        ]
+      },
+
+      a2_vision: {
+        chapter: "Acte II — Les deux femmes",
+        title: "Ce qu'il montre",
+        pov: "elise",
+        text: [
+          "C'est tiède. Ça ronronne. Et tu vois.",
+          "Une femme dans la galerie, une masse d'atelier au-dessus de la tête. Elle compte. À soixante, elle frappe. Le nœud éclate comme du sucre, une poussière rouge, l'eau du lac qui s'engouffre.",
+          "Tu ne vois pas son visage. Tu vois seulement qu'elle porte le manteau de Sophia.",
+          { if: "f.sacha", t: "Quelqu'un t'arrache à la paroi. Sacha, ses mains sur tes épaules. *Pense à Iris. Pense à ses mains pleines de craie.* Tu ne lui as jamais parlé de la craie." },
+          { if: "!f.sacha", t: "Tu t'arraches toi-même à la paroi, en hurlant des chiffres. Tu saignes du nez." }
+        ],
+        choices: [
+          { label: "Remonter.", to: "a2_anselme" }
+        ]
+      },
+
+      a2_anselme: {
+        chapter: "Acte II — Les deux femmes",
+        title: "Le gardien",
+        pov: "elise",
+        text: [
+          "Une lampe tempête au fond de la galerie. Un vieil homme, grand, voûté, cheveux blancs ras. Le père de Sophia.",
+          "Il ne regarde pas Sophia. Il te regarde, toi, au fond.",
+          "— Élise, dit-il. Tu es en avance, cette fois.",
+          { if: "f.vision", t: "Il voit le sang sous ton nez. Son visage se défait. — Tu l'as touché. Si tôt. Aucune de nous ne l'avait touché si tôt." },
+          { if: "f.sacha", t: "Il se tourne vers Sacha. — Et toi. Toujours toi." }
+        ],
+        choices: [
+          { label: "Le suivre jusqu'à sa cabine.", to: "a2_cabine", flag: "cabine" },
+          { label: "Fuir.", to: "a2_pradel" }
+        ]
+      },
+
+      a2_cabine: {
+        chapter: "Acte II — Les deux femmes",
+        title: "Les murs de la cabine",
+        pov: "elise",
+        text: [
+          "Les murs sont couverts de dessins. Des centaines. Une maison au toit en triangle, un soleil aux rayons trop longs, une silhouette aux cheveux courts. Le dessin d'Iris. *C'est toi, maman.*",
+          "Les plus anciens, au fond, jaunis, sont différents : la silhouette a de longs cheveux, et un petit point au coin de l'œil gauche. Tu n'y prêtes pas attention.",
+          "Le vieil homme compte à voix basse en faisant chauffer de l'eau pour personne.",
+          "— Méfie-toi de celui qui regarde les étoiles, dit-il. Il t'aime. C'est pour ça qu'il arrive toujours trop tard."
+        ],
+        choices: [
+          { label: "Rentrer avant l'aube.", to: "a2_pradel" }
+        ]
+      },
+
+      a2_pradel: {
+        chapter: "Acte II — Les deux femmes",
+        title: "Dans la vase",
+        pov: "sophia",
+        text: [
+          "Le 25 octobre, on retrouve Martine Pradel au pied du barrage, à genoux dans la vase, l'eau jusqu'aux coudes. Elle dormait au laboratoire, pour cent euros la nuit.",
+          "Ses pantoufles sont rangées côte à côte sur un rocher sec. Elle a les yeux ouverts. Elle sourit.",
+          "Étienne retourne sa main. Les ongles sont cassés jusqu'à la chair. Dessous, une poudre rouge, fine, couleur de clou mouillé. Elle a creusé.",
+          "Le soir, devant le carnet, tu ne sais pas quoi écrire."
+        ],
+        choices: [
+          { label: "Coller l'avis de décès dans le carnet. Qu'elle sache.", to: "a2_caillou", add: { confiance: 1 } },
+          { label: "Ne rien écrire. Te protéger d'elle, un peu.", to: "a2_caillou", add: { confiance: -1 } }
+        ]
+      },
+
+      a2_caillou: {
+        chapter: "Acte II — Les deux femmes",
+        title: "Une politesse",
+        pov: "elise",
+        text: [
+          "Un caillou contre la vitre. Puis un deuxième. Dans la rue, personne. Tout au bout, une silhouette en blouse blanche qui s'éloigne vers le laboratoire sans se retourner.",
+          "Sur l'appui de la fenêtre, un badge. La photo souriante de Bastien Kerr. Au dos, d'une écriture fine, presque typographique, que tu n'as jamais vue : *Pour le jour où le sien ne suffira plus.*",
+          { if: "f.compte_mur", t: "Cette nuit encore, le mur compte avec toi jusqu'à cinquante-neuf." }
+        ],
+        choices: [
+          { label: "Garder le badge.", to: "a2_veilleur", flag: "badge_kerr" },
+          { label: "Le jeter dans le lac. Un piège, sûrement.", to: "a2_veilleur", add: { discretion: 1 } }
+        ]
+      },
+
+      a2_veilleur: {
+        chapter: "Acte II — Les deux femmes",
+        title: "La boucle doit tourner",
+        pov: "elise",
+        text: [
+          "Dans le carnet, Sophia a recopié une note trouvée dans le tiroir d'Étienne, à l'encre noire : *C'est S. Certitude. Le 14, l'empêcher. Coûte que coûte. La boucle doit tourner.*",
+          { if: "f.sacha", t: "Sur le barrage, Sacha avoue avant même que tu parles. On l'a envoyé pour veiller à ce que l'histoire reste l'histoire. *Le Veilleur.* Il devait t'empêcher. Il ne l'a pas fait. — Tu sais pourquoi, dit-il." },
+          { if: "!f.sacha", t: "Celui qui habite le docteur te cherche. Il t'a trouvée. Tu ne lui as jamais parlé, et il sait tout de toi." }
+        ],
+        choices: [
+          { label: "Lui tendre la main, au-dessus du mètre.", to: "a3_cycle", if: "f.sacha", flag: "main" },
+          { label: "Le quitter, et descendre seule au cristal.", to: "a3_cycle", flag: "rupture", add: { discretion: 1 } }
+        ]
+      },
+
+      /* ==================================================== ACTE III */
+      a3_cycle: {
+        chapter: "Acte III — Le cycle",
+        title: "Le cycle",
+        pov: "elise",
+        text: [
+          { if: "f.main", t: "Une nuit de novembre, tu te réveilles dans un lit inconnu, contre un corps qui respire. Sophia a dormi chez Étienne. À côté de toi, Sacha se réveille en comptant. Vous vous levez sans vous toucher. Dans la poche du pull, un mot de Sophia : *C'est moi qui l'ai voulu. Je suis heureuse. Rentre doucement.*" },
+          { if: "f.badge_kerr", t: "Dans ta poche, le badge de Kerr, avec son écriture typographique au dos. Tu n'en as pas besoin cette nuit. Quelqu'un l'avait prévu pour une autre." },
+          "Anselme t'attend devant le laboratoire. Il ouvre avec son badge. Il compte les marches comme toi, avec une petite pause entre trente et trente et un.",
+          "— Pose ta main, dit-il. Ne pense pas à l'enfant. Laisse-la te montrer.",
+          { if: "f.vision", t: "Tu l'as déjà entrevue, cette femme à la masse. Cette fois, tu vois son visage." },
+          "C'est toi. Dans le manteau de Sophia, la masse au-dessus de la tête, le 14 novembre, à 3 h 12. Tu frappes. La poussière. L'eau. Et la chute, en arrière, jusqu'à un jeune homme en bottes debout au milieu d'un lac sans eau, en octobre 1980.",
+          "Et encore. Et encore. Chaque fois, la poussière arrive un peu plus tôt dans le monde.",
+          "*L'incident, c'est toi.*"
+        ],
+        choices: [
+          { label: "Remonter avec lui jusqu'à la cabine.", to: "a3_anselme", add: { memoire: -1 } }
+        ]
+      },
+
+      a3_anselme: {
+        chapter: "Acte III — Le cycle",
+        title: "Le premier Passeur",
+        pov: "elise",
+        text: [
+          "— Nous sommes toi, dit le vieil homme. Celles qui ont brisé. Nous tombons en 1980, dans lui. Nous vivons ses nuits. Nous nous recouvrons, comme des couches de vase.",
+          "— Aucune n'a jamais fait autrement ?",
+          "— Nous ne savons pas. Celles qui font autrement ne tombent pas jusqu'ici. Nous ne connaissons que celles qui brisent.",
+          "Il baisse les yeux. — Il y a trois ans, nous avons envoyé un bocal de vase à un homme qui voulait oublier son fils. *Ce qui efface.* Nous voulions qu'on invente l'oubli. Pour nous.",
+          "Le laboratoire existe à cause de toi. De vous. De nous.",
+          "— Demande à l'homme aux étoiles qui dort dans le lit vide."
+        ],
+        choices: [
+          { label: "Aller trouver celui qui habite le docteur.", to: "a3_noe" }
+        ]
+      },
+
+      a3_noe: {
+        chapter: "Acte III — Le cycle",
+        title: "Le lit vide",
+        pov: "elise",
+        text: [
+          "Sous le toit du vieux lavoir, la source coule. Il est là.",
+          "— Qui dort dans le lit vide ? demandes-tu.",
+          "— Je m'appelle Noé, dit-il. Je suis le père d'Iris.",
+          { if: "f.main", t: "Tu as tenu sa main toute une nuit sans savoir que tu l'avais déjà tenue pendant huit ans." },
+          { if: "!f.sacha", t: "Tu ne l'as jamais rencontré ici. Il t'a regardée de loin pendant deux mois, sans oser venir." },
+          { if: "f.parle_iris", t: "Tu lui avais décrit le visage d'Iris, sur le barrage. Jamais ses mains. Il connaissait la craie depuis le début." },
+          "Tu ne te souviens pas de lui. La Rouille prend d'abord les visages qu'on a le plus regardés.",
+          "— Ne brise rien, dit-il. Rentre avec moi. Iris ne nous reconnaîtra pas, mais elle existera.",
+          "Tu lui racontes Anselme. Les couches. Les quarante-six ans de nuits. Il ne savait pas."
+        ],
+        choices: [
+          { label: "Rentrer chez Sophia et attendre la nuit.", to: "a3_mur" }
+        ]
+      },
+
+      a3_mur: {
+        chapter: "Acte III — Le cycle",
+        title: "Cinquante-neuf",
+        pov: "elise",
+        text: [
+          "La veille de la dernière nuit, tu ne sors pas. Tu t'allonges dans le noir. Tu attends.",
+          { if: "f.compte_mur", t: "Trois heures. Les coups. Un. Deux. Tu comptes avec eux, comme chaque nuit depuis six semaines. Cinquante-sept. Cinquante-huit. Cinquante-neuf. Silence." },
+          { if: "!f.compte_mur", t: "Trois heures. Le mur se tait. Il s'est tu depuis longtemps. Tu n'as jamais su qui frappait, et maintenant tu ne le sauras plus." }
+        ],
+        choices: [
+          { label: "Frapper le soixantième coup.", to: "a3_iris", if: "f.compte_mur" },
+          { label: "Se tourner vers la fenêtre. Penser aux portes.", to: "a3_portes", if: "!f.compte_mur" }
+        ]
+      },
+
+      a3_iris: {
+        chapter: "Acte III — Le cycle",
+        title: "Soixante",
+        pov: "elise",
+        text: [
+          "De l'autre côté, une respiration courte d'enfant. Puis une voix de petit garçon, étouffée par la pierre. Mais ce n'est pas un petit garçon qui parle.",
+          "— Quand j'étais petite, tu tapais sur le bois du lit jusqu'à soixante. Je m'endormais toujours avant la fin. Je n'ai jamais entendu le soixantième.",
+          "— Iris.",
+          "Elle est dans Mathis. Mathis épousera Anne : c'est le seul corps où elle pouvait être à côté de toi. Six semaines, ta fille était à quarante centimètres, et tu croyais que c'était un tuyau.",
+          "— Je sais ce que tu vas faire, dit-elle. Je suis venue te dire que tu peux.",
+          "— J'ai perdu quelque chose de ton visage.",
+          "— Le grain de beauté. Au coin de la paupière gauche. Il faut regarder de très près.",
+          "Le visage revient d'un coup, entier, comme une lampe qu'on allume."
+        ],
+        choices: [
+          { label: "Rester jusqu'à l'aube, le front contre le mur.", to: "a3_portes", flag: "iris", add: { memoire: 2, confiance: 1 } }
+        ]
+      },
+
+      a3_portes: {
+        chapter: "Acte III — Le cycle",
+        title: "Trois portes",
+        pov: "elise",
+        text: [
+          "*Briser.* La poussière, la Rouille, un peu plus tôt. La chute en 1980. Quarante-six ans à dessiner une maison avec un soleil.",
+          "*Rentrer.* Le cristal entier, extrait par Kerr, cultivé à Genève. Une bibliothèque où ta fille ne te reconnaît pas.",
+          "*Rester.* Le noyer intact sous le béton. Te dissoudre dans Sophia. Pas de chute, pas de retour. Peut-être pas d'Iris.",
+          { if: "f.refus", t: "Sophia t'a dit non. Il ne reste que deux portes." },
+          { if: "v.memoire < 2", t: "Le fil qui te relie à 2137 est trop mince. Tu ne trouverais plus le chemin du retour." }
+        ],
+        choices: [
+          { label: "Briser le cristal.", to: "fin_briser" },
+          { label: "Ne rien faire, et rentrer avec Noé.", to: "fin_rentrer", if: "v.memoire >= 2" },
+          { label: "Rester. Le demander à Sophia.", to: "a3_oui", if: "!f.refus && v.confiance >= 3" },
+          { label: "Rester. Le demander à Sophia.", to: "a3_non", if: "!f.refus && v.confiance < 3" }
+        ]
+      },
+
+      a3_non: {
+        chapter: "Acte III — Le cycle",
+        title: "Non",
+        pov: "sophia",
+        text: [
+          "Tu lis la question d'Élise trois fois. *Est-ce que tu veux bien de moi ?*",
+          "Tu penses à Martine Pradel dans la vase. Au bleu sur ta hanche. Aux nuits volées. Tu ne la connais pas assez. Tu ne lui as jamais assez fait confiance pour lui donner ta tête.",
+          "Tu écris, à l'encre bleue : *Non. Pardon.*"
+        ],
+        choices: [
+          { label: "Refermer le carnet.", to: "a3_portes", flag: "refus" }
+        ]
+      },
+
+      a3_oui: {
+        chapter: "Acte III — Le cycle",
+        title: "Oui",
+        pov: "sophia",
+        text: [
+          "*Est-ce que tu veux bien de moi ?*",
+          "*Tu m'as appris le nom des étoiles que je ne regardais pas. Tu m'as rendu mon père. Tu n'es pas entrée par effraction : j'avais laissé la porte ouverte depuis longtemps.*",
+          "*Oui.*",
+          { if: "f.etienne_sait", t: "Étienne sait tout depuis octobre. Il n'a pas hésité longtemps." },
+          "Dans le tiroir d'Étienne, à l'encre bleue, sous une note de Noé : *Je suis d'accord. S'il le veut, il peut rester.*"
+        ],
+        choices: [
+          { label: "La dernière nuit.", to: "a3_derniere", carnet: { who: "sophia", text: "Oui." } }
+        ]
+      },
+
+      a3_derniere: {
+        chapter: "Acte III — Le cycle",
+        title: "La dernière nuit",
+        pov: "elise",
+        text: [
+          "Il reste trente-deux pages blanches. Tu écris jusqu'à quatre heures. Le cristal, le coulis, Ménard, les bacs. Anne, le 3 août, à Lyon. Ton père, ses nuits, *merci d'avoir attendu*. Iris, et le grain de beauté, si tu l'as retrouvé.",
+          "Il reste une chose à écrire à Sophia. Tu la connais. Tu sais ce qu'elle garde sur son étagère, entre deux lacs."
+        ],
+        choices: [
+          { label: "« Ne garde rien. Pas un grain. Promets-le-moi. »", to: "a3_matin", flag: "promesse",
+            carnet: { who: "elise", text: "Ne garde rien. Pas un grain, Sophia. Promets-le-moi." } },
+          { label: "Ne pas l'écrire. Lui faire confiance.", to: "a3_matin",
+            carnet: { who: "elise", text: "Je te laisse la dernière page." } }
+        ]
+      },
+
+      a3_matin: {
+        chapter: "Acte III — Le cycle",
+        title: "Le matin",
+        pov: "sophia",
+        text: [
+          "Tu te réveilles sur le barrage, sous une couverture givrée, la main dans celle d'Étienne. Six heures. En bas, les pompes démarrent.",
+          "Kerr arrive à 8 h 50, trop tard : son badge avait disparu pendant la nuit, on l'a retrouvé dans le congélateur.",
+          "À 9 h 40, le coulis atteint le niveau du nœud. Quelque chose s'endort en toi pour la dernière fois. Une vague : une bibliothèque sans fenêtres, une recette de soupe, une chanson dont tu connais enfin les paroles.",
+          "L'après-midi, tu vides les bacs dans la benne de béton. Onze. Le douzième ne contient qu'une aiguille rouge, pas plus longue qu'un ongle.",
+          { if: "f.promesse", t: "*Pas un grain, Sophia. Promets-le-moi.*" },
+          "Tu es hydrologue. Tu as quarante-trois fioles sur ton étagère, une par lac. On ne détruit pas la seule preuve d'une chose que personne ne croira jamais."
+        ],
+        choices: [
+          { label: "Garder l'aiguille dans une fiole. Un témoin.", to: "fin_noeud" },
+          { label: "La verser dans le béton. Tenir la promesse.", to: "fin_page_blanche", if: "f.promesse && v.confiance >= 4" }
+        ]
+      },
+
+      /* ==================================================== FINS */
+      fin_briser: {
+        chapter: "Fin",
+        title: "Cassant comme du sucre",
+        pov: "elise",
+        text: [
+          "Tu prends la masse dans l'appentis du barrage. Tu descends les cent douze marches. Tu comptes.",
+          "À soixante, tu frappes.",
+          "Le nœud éclate comme du sucre. La poussière rouge remplit la galerie. L'eau du lac s'engouffre par la brèche et l'emporte vers la rivière, vers la vallée, vers le monde.",
+          "En haut des marches, une voix d'homme crie ton nom. Trop tard. Toujours trop tard.",
+          "Tu tombes. Longtemps. Et tu ouvres les yeux dans un corps d'homme, en bottes, au milieu d'un lac sans eau. Octobre 1980.",
+          "Tu as quarante-six ans de nuits devant toi pour oublier ton nom. Il te restera un dessin.",
+          { if: "f.iris", t: "Derrière un mur, à Vallorce, quelqu'un compte encore jusqu'à cinquante-neuf. Personne ne frappera plus le soixantième." },
+          "*Tu es déjà venue. Tu reviens toujours.*"
+        ],
+        end: true,
+        choices: []
+      },
+
+      fin_rentrer: {
+        chapter: "Fin",
+        title: "Le retour",
+        pov: "elise",
+        text: [
+          "Le 14 au matin, tu ne descends pas. Tu t'endors sur le barrage, la main dans celle de Noé, en pensant très fort à une salle des Cartes.",
+          "Tu te réveilles sur un lit de camp, au troisième sous-sol. L'éclat est froid sur ton front. Ruben pleure.",
+          "Les archives n'ont pas changé. Le 14 novembre 2026, à 8 h 50, pendant l'extraction, un bloc s'est brisé dans les mains d'un technicien. La poussière est partie dans l'eau.",
+          "Au dortoir, Iris dessine une maison avec un soleil. Elle lève les yeux vers toi, poliment.",
+          "— C'est qui ?",
+          "À côté de toi, un homme pleure sans bruit. Tu sais maintenant qui il est. Elle, non."
+        ],
+        end: true,
+        choices: []
+      },
+
+      fin_noeud: {
+        chapter: "Fin",
+        title: "Le nœud",
         pov: "neutre",
         text: [
-          "L'Acte I s'arrête ici. Les deux femmes ont commencé à s'écrire.",
-          "Dans l'Acte II : le laboratoire, la galerie interdite, le cristal, un gardien qui connaît ton nom, et un message qui n'est ni de Sophia ni de toi.",
-          "*Ce que tu as écrit dans le carnet est conservé. Reviens quand le livre sera plus long.*"
+          "Tu ranges la fiole entre le lac d'Annecy et le lac du Bourget, là où personne ne la remarquera jamais. *Vallorce, 14/11/2026.*",
+          "2137 — Une bibliothèque lumineuse au bord du lac. Une archiviste de trente-quatre ans, un grain de beauté au coin de l'œil. Elle s'appelle Iris. Sa fille, sept ans, s'appelle Élise. Elle dessine une maison avec un soleil. *C'est qui ? — C'est toi.*",
+          "2141 — La petite Élise compte la nuit, marche dans le lac, dit d'une voix de femme : *Il faut le briser avant le 14.* Pour la sauver, Iris ouvre la fiole près de son lit. L'enfant guérit. Puis elle oublie. Puis, un matin : *C'est qui ?*",
+          "2164 — Élise a trente-quatre ans et les cheveux longs. Le Conseil a décidé que *le noyer ne suffit pas*. Elle part. Elle se réveille au bord d'un lac, dans le corps d'une hydrologue. Elle écrit une page, l'arrache, la cache sous une vieille photo.",
+          "*Le cristal est cassant comme du sucre. Il faut le briser avant le 14. Le noyer ne suffit pas.*",
+          { if: "f.iris", t: "Dans les archives de Genève, une ligne d'un cahier noir : *Première fois en 47 tours que la mère et la fille se parlent. Je ne sais pas ce que cela change.*" },
+          "Elle s'appelait Élise. Elle n'était jamais venue. Elle reviendrait toujours."
+        ],
+        end: true,
+        choices: []
+      },
+
+      fin_page_blanche: {
+        chapter: "Fin cachée",
+        title: "La page blanche",
+        pov: "neutre",
+        text: [
+          "Tu verses l'aiguille dans le béton. Elle disparaît sans un bruit. Tu restes longtemps devant la benne, les mains vides.",
+          "Dans le carnet, tu laisses la dernière page blanche. Tu n'écris rien sur la première non plus. Pas de consigne, pas de secret. Juste deux encres.",
+          "2137 — Une bibliothèque au bord d'un lac. Une petite fille lit une recette à voix haute, et tout le monde rit, et elle rit aussi. Elle dort bien. Elle ne compte jamais.",
+          "*Archives de Genève, fonds Léthé, cahier noir, dernière page :*",
+          "*Tour 48. Variante sans témoin. Aucune fiole. Aucune chute. La ligne B ne rouvre pas.*",
+          "*Pour la première fois depuis le tour 1, je ne sais pas ce qui vient.*",
+          { if: "f.iris", t: "*Variable I. : elle a rendu à É. ce que le cristal avait pris. C'est peut-être cela, la différence.*" },
+          "*Il faut que je trouve qui a commencé. — K.*"
         ],
         end: true,
         choices: []

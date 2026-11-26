@@ -1,59 +1,62 @@
-# Plan chapitre par chapitre
+# Plan
 
-> ⚠️ Contient toutes les révélations. Mécanique temporelle et calendrier : `bible/chronologie.md`.
+> ⚠️ Contient toutes les révélations. Mécanique : `bible/chronologie.md`. Indices : §7 de ce même fichier.
 
-État : **premier jet complet** (prologue, 24 chapitres et une coda, environ 30 000 mots, soit 1 000 à 2 000 mots par chapitre). Pour atteindre les 250 pages (environ 70 000 mots), chaque chapitre devra à peu près doubler à la réécriture.
+**État :** premier jet complet, environ 39 000 mots, soit environ 140 pages. Il comprend un prologue, 25 chapitres, 3 interludes, un épilogue, une coda et une annexe. Objectif : environ 70 000 mots, à obtenir en étoffant chaque chapitre.
 
-**Parti pris :** le roman s'ouvre *in medias res* sur le réveil au lac (ch. 1), puis revient à 2137 (ch. 2 et 3).
+**Structure :** trois époques entrelacées, à la manière de *Dark* :
+- **1980-1991** : Anselme et Hélène ;
+- **2026** : Sophia et Élise, Étienne et Noé, Mathis et Iris, Kerr et K. ;
+- **2137-2164** : le refuge, puis la ligne B.
 
-| # | Titre | POV | Date | Fil amoureux / révélation |
-|---|---|---|---|---|
-| 0 | Prologue : octobre 1980 | « elle » | 13 oct. 1980 | Une femme aux cheveux longs tombe dans Anselme (indice de la chute) |
-| 1 | Le lac | Élise | 15 sept. 2026, nuit | Anselme salue Élise |
-| 2 | La bibliothèque | Élise | 2137 | « L'autre a refusé. Tu le connaissais. » |
-| 3 | Passeuse | Élise | 2137 | Un homme pleure à la porte |
-| 4 | Le corps des autres | Élise | sept. 2026 | Anselme est le père de Sophia ; « il parlait la nuit avec une voix de femme » |
-| 5 | Sophia, le jour | Sophia | sept. 2026 | La berceuse ; la peur de devenir son père |
-| 6 | Le carnet | Élise | sept. 2026 | La preuve de la jauge |
-| 7 | Les mots de la main | Sophia | sept. 2026 | Rencontre avec Étienne, qui souffre du même mal |
-| 8 | Réponse | Sophia / Élise | fin sept. | « Merci. » |
-| 9 | Deux encres | Élise | début oct. | Anne, conçue en novembre ; l'homme aux étoiles |
-| 10 | Le laboratoire | Sophia | oct. | Fondation Léthé ; café avec Étienne ; badge « ROCH A. » |
-| 11 | L'homme aux étoiles | Élise | oct. | Sacha, qui habite Étienne ; « une femme qui a oublié mon visage » |
-| 12 | La galerie | Élise | oct. | Le cristal ; « les mains pleines de craie » ; « Tu es en avance, cette fois » |
-| 13 | Le nom du chien | Sophia | oct. | Trois mois d'avance ; premier baiser avec Étienne |
-| 14 | Mathis | Sophia | fin oct. | Anselme « plein de dames » ; les dessins d'Iris dans la cabine |
-| 15 | Tu reviens toujours | Élise | fin oct. | Le troisième message ; « Méfie-toi de celui qui regarde les étoiles » |
-| 16 | Le Veilleur | Sophia / Élise | début nov. | Le dossier « V. » ; aveu d'amour sur le barrage |
-| 17 | Le financeur | Sophia | 6 nov. | L'extraction du 14 ; Sophia et Étienne passent la nuit ensemble |
-| 18 | Le cycle | Élise | nuit du 6 au 7 nov. | Réveil dans le même lit ; **l'incident, c'est elle** |
-| 19 | Le premier Passeur | Élise | nuit du 6 au 7 nov. | **Anselme abrite les Élise des tours précédents** |
-| 20 | Le lit vide | Sophia / Élise | 7-8 nov. | **Sacha, c'est Noé, le père d'Iris** |
-| 21 | Trois portes | Élise | 9-12 nov. | Le choix ; Noé reste aussi |
-| 22 | La dernière nuit | Élise | 13-14 nov. | Le carnet ; compter jusqu'à cinquante-neuf |
-| 23 | Le matin | Sophia | 14 nov.-déc. | Réveil main dans la main ; le coulis ; Anselme libéré |
-| 24 | Épilogue : la page blanche | Élise B / Iris | 2137 puis 2141 | « C'est toi. », puis la fiole : « Pardon. » La Rouille recommence |
-| 25 | Coda | Élise B | 2164 puis 2026 | **La sortie était l'entrée.** La page « Le noyer ne suffit pas » |
+| # | Fichier | Titre | Point de vue | Date | Fonction |
+|---|---|---|---|---|---|
+| — | 00 | Prologue : Octobre 1980 | « elle » | 13 oct. 1980 | La chute de la plus ancienne (cheveux longs, « maman », point au coin de l'œil) |
+| 1 | 01 | Le lac | Élise | 15 sept. 2026 | Réveil ; Anselme salue Élise |
+| 2 | 02 | La bibliothèque | Élise | 2137 | Iris, « c'est qui ? » ; la page « Le no… ne suffit pas » |
+| 3 | 03 | Passeuse | Élise | 2137 | Le grain de beauté ; l'homme qui pleure |
+| — | 04 | Interlude : Oriane | Oriane | 2137 | **Le Conseil sait** (témoignage d'Anselme) et envoie Élise quand même ; laisse partir Noé |
+| 4 | 05 | Le corps des autres | Élise | sept. | Les fioles ; la lettre d'Hélène |
+| 5 | 06 | Sophia, le jour | Sophia | sept. | Les poissons morts ; la berceuse ; la peur de devenir son père |
+| 6 | 07 | Le carnet | Élise | sept. | La preuve de la jauge |
+| 7 | 08 | Les mots de la main | Sophia | sept. | Étienne |
+| 8 | 09 | Réponse | Sophia / Élise | sept. | « Merci » |
+| — | 10 | Interlude : Hélène | Hélène | 1988-1991 | Le prénom « Sophia » imposé la nuit ; la berceuse ; « emmenez-la loin » |
+| 9 | 11 | Deux encres | Élise | oct. | Anne ; **les coups dans le mur (jusqu'à 59)** ; l'homme aux étoiles |
+| 10 | 12 | Le laboratoire | Sophia | oct. | Léthé ; badge « ROCH A. » ; **badge « KERR B. » la nuit** |
+| 11 | 13 | L'homme aux étoiles | Élise | oct. | Sacha |
+| 12 | 14 | La galerie | Élise | 19 oct. | **La lampe sur la marche** (K.) ; le cristal ; « en avance, cette fois » |
+| — | 15 | Interlude : Kerr | Kerr | oct. | Son fils Théo ; il dort près du bac 7 ; le colis « Ce qui efface » ; **le cahier noir de K. (« Tour 47 »)** |
+| 13 | 16 | Le nom du chien | Sophia | 24-25 oct. | Trois mois d'avance ; le baiser ; **la mort de Martine Pradel** |
+| 14 | 17 | Mathis | Sophia | fin oct. | Mathis voit deux personnes ; ses doigts écorchés ; « la plus vieille, avec les cheveux longs » ; les dessins d'Anselme |
+| 15 | 18 | Tu reviens toujours | Élise | fin oct. | Le troisième message ; « méfie-toi de celui qui regarde les étoiles » |
+| 16 | 19 | Le Veilleur | Sophia / Élise | 2 nov. | **Le caillou et le badge de Kerr** ; l'aveu de Sacha ; les mains ; « le monsieur qui pleure » |
+| 17 | 20 | Le financeur | Sophia | 6 nov. | Kerr se confie ; Ménard ; Sophia et Étienne passent la nuit ensemble |
+| 18 | 21 | Le cycle | Élise | 6-7 nov. | **L'incident, c'est elle** ; la chute en 1980 |
+| 19 | 22 | Le premier Passeur | Élise | 6-7 nov. | **Anselme abrite les Élise** ; « nous ne connaissons que celles qui brisent » ; **c'est nous qui avons envoyé l'échantillon** |
+| 20 | 23 | Le lit vide | Sophia / Élise | 7-8 nov. | **Sacha est Noé** |
+| 21 | 24 | La nuit de Noé | Noé | 8-9 nov. | Hugo dans le lac ; Noé sauve son ancêtre ; « Kerr » mesure sur la grève |
+| 22 | 25 | Trois portes | Élise | 9-12 nov. | Le choix ; consentement des hôtes ; Noé reste |
+| 23 | 26 | Le mur | Élise / Iris | 12-13 nov. | **Iris adulte est dans Mathis** ; le soixantième coup ; le grain de beauté rendu |
+| 24 | 27 | La dernière nuit | Élise | 13-14 nov. | Le carnet ; « pas un grain » ; elle s'arrête à cinquante-neuf |
+| 25 | 28 | Le matin | Sophia | 14 nov.-déc. | Le coulis ; la dissolution ; **la fiole** ; Anselme libéré |
+| — | 29 | Épilogue : la page blanche | Ligne B | 2137 puis 2141 | « C'est toi. » ; puis Iris ouvre la fiole : « Pardon. » |
+| — | 30 | Coda | Élise B | 2164 puis 2026 | **La sortie était l'entrée** |
+| — | 31 | Annexe : le cahier noir | K. | Genève | Bilan du tour 47 ; K. descend de Kerr ; **« qui, de nous tous, a commencé ? »** (amorce du tome 2) |
 
-## Les trois fils
+## Les fils entrelacés
 
-1. **Le thriller temporel :** une mission (empêcher l'incident) qui se révèle en être la cause.
-2. **L'histoire d'amour, en double.**
-   - Le jour, Sophia et Étienne : deux « malades » qui se trouvent.
-   - La nuit, Élise et Noé : deux voyageurs dans ces mêmes corps, qui ne se touchent pas. Elle ne sait pas qu'elle l'a déjà aimé.
-   - À la fin, l'amour de la nuit se fond dans celui du jour.
-3. **La lignée :** Sophia, son père Anselme, sa fille Anne. Ce qu'on reçoit sans le savoir, ce qu'on transmet sans le vouloir.
+1. **Le thriller temporel :** l'incident, la spirale, le nœud A/B.
+2. **Deux amours dans deux mêmes corps.**
+   - Le jour : Sophia et Étienne.
+   - La nuit : Élise et Noé.
+3. **Mère et fille :** Élise et Iris, séparées par cent ans puis par quarante centimètres de mur. En miroir : Iris et Élise dans la ligne B, et Hélène et Sophia.
+4. **Le pouvoir :** Oriane sait et se tait. Le Conseil de la ligne B lit le carnet comme des Écritures.
+5. **Le deuil :** Kerr veut oublier Théo, Iris veut soulager sa fille, et les Élise d'Anselme ont envoyé l'échantillon parce qu'elles voulaient oublier. Tout le monde veut oublier quelque chose, et c'est ce qui nourrit le cristal.
+6. **L'observateur (amorce du tome 2) :** K., descendant de Kerr, observe la boucle depuis « 47 tours ». Il protège Élise par des « politesses » et s'interdit d'intervenir. Qui est-il ? Qui a commencé ?
 
-## Ce que la chute doit produire
-
-À la dernière page, le lecteur comprend en même temps deux choses :
-- le sacrifice a marché : il n'y a plus de Rouille ;
-- personne n'a vraiment disparu, chacun a seulement changé de place dans la lignée. Iris est la mère, Élise est l'enfant.
-
-La dernière réplique (« C'est toi. ») répond à la question d'Iris au ch. 1 et au ch. 2 (« C'est qui ? »).
-
-## Révision « sombre » (fin définitive)
-
-La fin heureuse est remplacée par un nœud : voir `bible/chronologie.md`, §6 et §7 (carte des indices). Ce qu'il faut garder en tête :
-- **Ton :** sombre, sans répit. Chaque scène lumineuse cache une fissure.
-- **Lisibilité :** chaque indice doit pouvoir être lu au premier degré sans éveiller le soupçon.
+## Pistes gardées pour le tome 2
+- Le tour 48 : K. prépare « l'entrée par la ligne B ».
+- **1958 :** la construction du barrage et le village noyé. C'est une ouverture plus ancienne du cristal, avec la légende de « la dame du lac qui prend les souvenirs ».
+- Oriane compte jusqu'à soixante sans savoir de qui elle tient cette habitude.
+- Léa Kerr, née en 2029.

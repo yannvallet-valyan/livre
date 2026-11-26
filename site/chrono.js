@@ -124,10 +124,13 @@
       "En le brisant, elle coupe son fil et <b>tombe en 1980</b>, dernière ouverture du cristal, dans Anselme. Le « premier Passeur », c'est elle.",
       "À chaque tour, la Rouille arrive plus tôt. Ce n'est pas un cercle mais une <b>spirale</b>.",
       "« Sacha » est <b>Noé</b>, le père d'Iris, qu'Élise a oublié.",
+      "Les coups dans le mur : <b>Iris adulte</b> vit les nuits de <b>Mathis</b>, qui épousera Anne. Elle compte avec sa mère jusqu'à 59.",
+      "Oriane savait : le témoignage d'Anselme désignait une Passeuse. Le laboratoire est né d'un bocal envoyé par les Élise d'Anselme (« Ce qui efface »).",
       "La sortie : noyer le cristal <b>intact</b>. Le fil se coupe sans chute, et les voyageurs se fondent dans leurs hôtes."],
     4: ["La femme du prologue, en 1980, aux cheveux longs, qui dit « maman » : c'est l'Élise de la nouvelle ligne. La page « Le no… ne suffit pas » du dossier du chapitre 2, c'est elle qui l'a écrite.",
       "Chaque sortie fabrique l'entrée suivante : briser le cristal crée la Rouille, le noyer laisse une fiole, et la fiole recrée la Rouille.",
       "Dans la nouvelle ligne, le carnet se transmet et l'on donne aux enfants les noms qu'on y lit.",
+      "Un observateur, <b>K.</b>, descendant de Bastien Kerr, regarde la boucle depuis « 47 tours » sans intervenir. Sa question ouvre le tome 2 : <i>qui, de nous tous, a commencé ?</i>",
       "<b>Iris</b> naît en 2103, <b>Élise</b> en 2130 : les places s'inversent. Puis la boucle recommence par l'autre bout."]
   };
 

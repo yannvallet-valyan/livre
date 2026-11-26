@@ -1134,7 +1134,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle le faisait chaque semaine depuis son arrivée, et chaque semaine elle se demandait pourquoi. La cabine du gardien était accrochée au flanc de la digue, accessible par un escalier de fer qui sonnait sous les pas. Anselme Roch y vivait depuis quarante-six ans. Il avait refusé de prendre sa retraite. L'exploitant avait fini par le garder, d'abord par commodité, puis parce que personne n'osait lui annoncer son départ."
+     "s": "Elle le faisait chaque semaine depuis son arrivée, et chaque semaine elle se demandait pourquoi. La cabine du gardien était accrochée au flanc de la digue, accessible par un escalier de fer qui sonnait sous les pas. Anselme Roch y travaillait depuis quarante-six ans, et y vivait seul depuis trente-cinq. Il avait refusé de prendre sa retraite. L'exploitant avait fini par le garder, d'abord par commodité, puis parce que personne n'osait lui annoncer son départ."
     },
     {
      "t": "p",
@@ -1247,7 +1247,7 @@ window.BOOK = {
      "s": "*Ne t'inquiète pas. Regarde sous le plancher, à gauche du radiateur.*"
     }
    ],
-   "words": 1141
+   "words": 1147
   },
   {
    "id": "07-le-carnet",

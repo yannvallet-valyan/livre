@@ -30,7 +30,7 @@ Anselme ROCH (1956)  x  Hélène VARENNE (1960)    Étienne MARLE (1980)  x (1) 
         │  (séparés en 1991)                         │          │
    Sophia VARENNE (1988)  ───────── x (2) ────────────┘          │
         │                                                        Hugo MARLE (2007)
-   Anne VARENNE (3 août 2027)                                    │
+   Anne VARENNE (3 août 2027) x Mathis DELORME (2017)            │
         │                                                        …
    Jeanne (2052)                                                 │
         │                                                        Noé MARLE (2101)
@@ -147,3 +147,30 @@ Personne n'est méchant.
 | Ch. 22 | « Ne garde rien. Pas un grain, Sophia. Promets-le-moi. » | Une consigne | Sophia ne promet pas (ch. 23) |
 | Ch. 23 | La fiole « Vallorce, 14/11/2026 », rangée là où « personne ne la remarquerait jamais » ; « Les pages noires ne sont pas pour vous » | Une faiblesse humaine | La graine de la ligne B |
 | Ch. 24 | « C'est qui ? » « C'est toi. » | Une fin heureuse | Un faux happy end : la section 2141 le retourne |
+
+
+---
+
+## 8. Les nouveaux fils (révision 3)
+
+**Iris dans Mathis.** Mathis Delorme (né en 2017) épousera Anne. Il est donc un ancêtre d'Élise et d'Iris.
+- Une **Iris adulte** de la ligne A (34 ans, venue d'un tour où sa mère n'est jamais revenue) vit les nuits de Mathis, entre 1 h et 6 h environ. Mathis, lui, veille de minuit à 1 h : c'est lui qui « voit deux personnes ».
+- Iris frappe au mur mitoyen pour compter avec sa mère et s'arrête toujours à 59. Enfant, elle s'endormait avant le soixantième coup que sa mère frappait sur le bois du lit.
+- Ch. « Le mur » : Élise frappe le soixantième. Iris lui rend le grain de beauté et lui dit qu'elle peut rester.
+- Quand le cristal est noyé, Iris se dissout dans Mathis. Mathis transmettra donc *deux* résidus à la lignée, ce qui explique en partie les nuits de la petite Élise B.
+
+**K., le protecteur invisible.** C'est un descendant de Bastien Kerr, par Léa, née en 2029 d'un second lit. Il vient d'un futur indéterminé et voyage dans Kerr les nuits où Kerr dort près du bac 7.
+- Il observe la boucle (« Tour 47 ») et note tout dans le cahier noir de Kerr.
+- Sa règle : *ne pas intervenir sur la structure*. Il se permet des « politesses » : une lampe sur la marche, le badge de Kerr glissé à Élise, un caillou contre la vitre, le badge caché au congélateur le 14, ce qui retarde Kerr jusqu'à 8 h 50.
+- Il voit Sophia garder la fiole et ne fait rien.
+- Sa question (amorce du tome 2) : *qui, de nous tous, a commencé ?*
+
+**Oriane sait.** Elle possède la cinquième page du rapport : le témoignage d'Anselme, qui identifie sa fille « S. Varenne » avec une masse à 3 h 12. Elle comprend qu'une Passeuse a causé l'incident et envoie quand même Élise, pour ne pas cesser d'exister. Elle laisse Ruben donner un éclat à Noé.
+
+**L'échantillon.** En 2023, les Élise d'Anselme envoient à Kerr, qui a perdu son fils, un bocal de vase avec le mot « Ce qui efface ». Elles voulaient qu'on invente l'oubli pour elles-mêmes. Le laboratoire naît de leur souffrance.
+
+**Hélène (1985-1991).** Le prénom « Sophia » a été écrit la nuit par les Élise d'Anselme : c'est une boucle de causalité. C'est la femme de la nuit qui dit à Hélène de partir. Elle voulait éloigner Sophia du lac, mais une promesse de ne jamais revenir apprend aussi à Sophia que ce lieu existe.
+
+**Autres ajouts :**
+- La mort de Martine Pradel, le 25 octobre : le cristal appelle les dormeurs.
+- Hugo, l'ancêtre de Noé, manque de se noyer dans la nuit du 8 au 9 novembre.
