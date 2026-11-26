@@ -12,7 +12,7 @@ Sur sa mère.
 
 Elle avait trente-quatre ans. Elle avait grandi au refuge, dans le dortoir B, puis dans le dortoir des grands, puis dans une petite chambre de la salle des Cartes, avec Ruben pour seule famille. Ruben, qui comptait chaque soir sur le bois du lit et ne disait jamais le soixantième. Ruben, qui lui avait appris à réparer une lampe, à lire un schéma, à ne pas dire « rouillé ». Ruben, qui était devenu vieux avant l'âge et qui était parti devant, lui aussi, l'hiver de ses vingt-neuf ans à elle. Elle avait écrit son nom au mur des noms, à hauteur de poitrine, à côté de deux autres qu'elle ne connaissait pas : *Paul Varenne. Marthe Varenne.* Ses grands-parents.
 
-À vingt ans, elle était devenue archiviste. À vingt et un ans, elle avait ouvert le registre rouge et lu, à la dernière ligne de sa mère, trois mots de l'écriture de Ruben : *Pas encore revenue.* Et, dans le blanc, à côté de son propre nom, le nom de son père, qu'elle n'avait jamais entendu prononcer. *Noé Marle.*
+À vingt ans, elle était devenue archiviste. À vingt et un ans, elle avait ouvert le registre rouge et lu, à la dernière ligne de sa mère, trois mots de l'écriture de Ruben : *Pas encore revenue.* Et, dans le blanc, à côté de son propre nom, le nom de son père, qu'elle n'avait jamais entendu prononcer. *Noé.*
 
 Elle avait cherché. Elle avait trouvé le dossier gris, la page arrachée, la cinquième feuille dans le tiroir d'Oriane, qui était morte depuis longtemps. Elle avait trouvé, dans les archives du Conseil, les registres de départ. Deux lignes. *Élise Varenne, 15 septembre 2137.* *Noé Marle, 17 septembre 2137, sans autorisation.* Et rien d'autre. Ni l'un ni l'autre n'était jamais revenu.
 

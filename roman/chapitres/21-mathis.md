@@ -26,7 +26,7 @@ Sophia ne savait pas quoi faire de ses mains. Elle les posa à plat sur ses cuis
 
 — Mathis, est-ce que tu as parlé de ça à quelqu'un ?
 
-— À maman. Elle a dit que j'avais trop d'imagination. Elle oublie des trucs, maman, en ce moment.
+— À maman. Elle a dit que j'avais trop d'imagination. Elle perd ses clés, maman, en ce moment.
 
 — Je sais.
 
@@ -48,16 +48,17 @@ Avant de partir, il fouilla dans la poche de son anorak et posa sur la table un 
 
 — C'est pour elle, dit-il. L'autre dame. Je ramasse des cailloux sur la grève. Chacun a une histoire, il faut juste attendre qu'il la raconte. Celui-là, il attend depuis longtemps.
 
+— Et le monsieur du barrage, ton papa, dans ses yeux il y en a plein. Des dames. Toutes pareilles, avec les cheveux courts. Elles regardent par la fenêtre. Des fois elles pleurent. Sauf une, tout au fond, avec des cheveux longs. C'est la plus vieille. Elle dort tout le temps. Quand elle se réveille, elle appelle sa maman.
+
+Il referma la porte derrière lui.
+
 Sophia apprit plus tard, par Corinne, que Mathis avait une boîte à chaussures pleine de cailloux classés par couleur, et dans la même boîte une carte postale de Marseille, la seule que son père lui ait jamais envoyée, qu'il ne relisait pas mais qu'il ne jetait pas. Elle apprit que la seule adulte qui l'écoutait vraiment, au village, était Martine Pradel, l'ancienne institutrice, qui lui donnait des cours de soutien le mercredi et qui lui avait dit un jour : *Les gens qui voient des choses, il faut les écrire, Mathis. Comme ça, plus tard, personne ne pourra te dire que tu les as inventées.*
 
 Le caillou resta sur la table de la cuisine, à côté du carnet. Le lendemain matin, Sophia le trouva posé sur la page noire, comme un presse-papier.
 
-— Et le monsieur du barrage, ton papa, dans ses yeux il y en a plein. Des dames. Toutes pareilles, avec les cheveux courts. Elles regardent par la fenêtre. Des fois elles pleurent. Sauf une, tout au fond, avec des cheveux longs. C'est la plus vieille. Elle dort tout le temps. Quand elle se réveille, elle appelle sa maman.
-
-Il referma la porte derrière lui.
 ---
 
-Le samedi, elle l'emmena ramasser des cailloux.
+Le vendredi, elle l'emmena ramasser des cailloux.
 
 Ce fut Corinne qui le proposa, épuisée, entre deux clientes, en lui tendant le petit garçon par la main comme on tend un paquet : *Tu veux bien l'occuper une heure ? Il ne tient pas en place, et moi je ne tiens plus debout.* Sophia n'avait jamais gardé d'enfant. Elle dit oui.
 
@@ -143,10 +144,4 @@ Sophia sortit son téléphone. Ses doigts tremblaient. Elle photographia le mur,
 
 ---
 
-Le soir, elle imprima la photo au format d'une page de carnet, sur la vieille imprimante du séjour. Elle la colla sur la page de droite, à côté de sa propre écriture, et n'écrivit qu'une ligne en dessous :
-
-*Ce dessin est sur tous les murs de mon père. Il en fait un chaque nuit depuis quarante ans. Est-ce que tu sais ce que c'est ?*
-
-Puis elle hésita, la main au-dessus du papier. Elle ajouta :
-
-*Il m'a appelée Élise.*
+Le soir, elle imprima la photo au format d'une page de carnet, sur la vieille imprimante du séjour. Elle la posa sur la table, à côté du carnet fermé, et n'osa pas la coller.

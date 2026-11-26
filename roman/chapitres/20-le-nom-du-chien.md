@@ -20,13 +20,15 @@ Corinne la regarda, interdite. Puis son visage se défit d'un coup, de soulageme
 
 — Biscotte ! Mais bien sûr. Biscotte. Mon Dieu. Je deviens gâteuse. À quarante-six ans.
 
-Elle repartit en le serrant contre elle et en répétant son nom à voix basse, comme une prière. Sophia la regarda traverser le jardin. Puis elle rouvrit le carnet à la page où, trois semaines plus tôt, Élise avait recopié ce qu'elle savait des premiers symptômes.
+Elle repartit en le serrant contre elle et en répétant son nom à voix basse, comme une prière.
 
 Sophia la regarda traverser le jardin, en robe de chambre polaire, les pantoufles trempées, le chien contre la poitrine. À mi-chemin, Corinne se retourna, et cria par-dessus la haie, avec un rire qui sonnait faux :
 
 — Et Mathis ! Je ne vais quand même pas oublier comment s'appelle mon fils, hein ?
 
 Elle rentra chez elle. Sophia entendit la porte claquer, puis, à travers le mur mitoyen, très étouffé, le prénom de l'enfant répété plusieurs fois, *Mathis, Mathis, Mathis*, comme on vérifie qu'une clé est toujours dans sa poche.
+
+Puis Sophia rouvrit le carnet à la page où, trois semaines plus tôt, Élise avait recopié ce qu'elle savait des premiers symptômes.
 
 *Note médicale, archives : premiers cas d'amnésie progressive signalés dans la vallée de Vallorce en janvier 2027. Symptômes initiaux bénins : oubli de noms propres familiers (animaux, proches), codes, dates.*
 
@@ -100,7 +102,7 @@ Elle écrivit le soir, d'une écriture qui partait dans tous les sens.
 
 *Pas lui, ton Sacha : moi, Étienne. Sur le chemin du lac. Je te le dis parce que c'est la règle. Et parce que je n'ai personne d'autre à qui le dire.*
 
-*J'ai trente-huit ans et j'écris ça comme une adolescente dans son journal. Ne te moque pas.*
+*J'ai trente-sept ans et j'écris ça comme une adolescente dans son journal. Ne te moque pas.*
 
 *Corinne a oublié le nom de Biscotte. Ça commence. Tu avais trois mois de retard.*
 

@@ -18,13 +18,13 @@
 
 *Variable I. (hôte M.D.) : dissoute. Anomalie confirmée. Elle a rendu à É. le détail perdu (le grain de beauté). Effet sur la suite : inconnu. Première fois en 47 tours que la mère et la fille se parlent. Je ne sais pas ce que cela change. Je n'aime pas ne pas savoir.*
 
-*Les Élise de l'hôte A.R. : éteintes à 9 h 40. Le vieil homme a pleuré. Je l'ai regardé depuis la grève. Je n'avais rien à mesurer. Je suis resté quand même.*
+*Les Élise de l'hôte A.R. : éteintes à 9 h 40. Cette nuit, je suis allé sur la grève. Le vieil homme pleurait encore. Je n'avais rien à mesurer. Je suis resté quand même.*
 
-*S.V. a gardé un témoin. Fiole, étiquette bleue, « Vallorce, 14/11/2026 ». Je l'ai vue faire. Je n'ai pas bougé.*
+*S.V. a gardé un témoin. Fiole, étiquette bleue, « Vallorce, 14/11/2026 ». Je l'ai vue sur son étagère, par la fenêtre. J'aurais pu entrer. Je n'ai pas bougé.*
 
-*Je rappelle la règle, pour moi-même, puisque personne d'autre ne la lira : ne pas intervenir sur la structure. Une lampe sur une marche, un badge dans un congélateur, un caillou contre une vitre : ce ne sont pas des interventions. Ce sont des politesses.*
+*Je rappelle la règle, pour moi-même, puisque personne d'autre ne la lira : ne pas intervenir sur la structure. Une lampe sur une marche, un badge glissé sur un appui de fenêtre, un autre dans un congélateur, un caillou contre une vitre : ce ne sont pas des interventions. Ce sont des politesses.*
 
-*Empêcher S.V. de garder la fiole aurait été une intervention.*
+*La lui prendre aurait été une intervention.*
 
 *Je ne l'ai pas fait.*
 

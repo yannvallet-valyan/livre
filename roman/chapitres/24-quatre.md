@@ -2,7 +2,7 @@
 
 *(premier jet)*
 
-Sophia trouva la recette un mardi, en cherchant ses clés dans la poche intérieure de sa parka.
+Sophia trouva la recette un lundi, en cherchant ses clés dans la poche intérieure de sa parka.
 
 Une feuille d'ordonnance pliée en quatre, à l'en-tête du cabinet de la place de l'église. *Dr Étienne Marle, médecine générale.* Elle la déplia debout dans l'entrée, la porte encore ouverte sur le froid. L'écriture était celle d'Étienne. Elle la connaissait maintenant, elle l'avait vue sur des ordonnances, sur des mots glissés sous sa porte, sur le dos d'un ticket de cinéma. Mais elle était à l'encre noire. Et elle était plus serrée, plus ancienne, comme si la main d'Étienne avait appris à écrire dans une autre école.
 
@@ -36,7 +36,7 @@ Elle relut la dernière ligne plusieurs fois. Puis elle referma le carnet à spi
 
 ---
 
-Elle en parla à Étienne le jeudi, au café de la place, devant deux chocolats que Nadia avait apportés sans qu'ils les commandent.
+Elle en parla à Étienne le mercredi, au café de la place, devant deux chocolats que Nadia avait apportés sans qu'ils les commandent.
 
 Elle posa la recette sur la table, entre les tasses. Il la regarda. Il reconnut son écriture, l'encre noire, et elle vit son visage se fermer, puis se défaire.
 

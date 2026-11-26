@@ -58,6 +58,10 @@ Elle pensa : *c'est moi qui le lui ai appris.*
 
 — Chaque fois, tu viens. Chaque fois, tu choisis le carnet. Chaque fois, tu regardes les étoiles, et lui, il est là. Chaque fois, le 14, tu descends avec la masse. Et chaque fois, tu tombes. Tu tombes en 1980, ici, dans ce corps où une autre toi est déjà tombée, et une autre avant elle.
 
+— Toutes en même temps ?
+
+— Nous nous recouvrons. Comme la vase du lac : des couches. Celles du dessus se souviennent encore un peu. Celles du dessous font corps avec le reste. Ça ne fait plus qu'une seule chose, qui a beaucoup de mémoires et presque pas de nom.
+
 — Et aucune n'a jamais fait autrement ?
 
 — Nous ne savons pas, dit-il. Celles qui font autrement ne tombent pas jusqu'ici. Nous ne connaissons que celles qui brisent.
@@ -75,12 +79,6 @@ Il hésita, puis ajouta, plus bas, comme on avoue une chose dont on a honte pour
 Il la regarda avec une infinie douceur.
 
 — Il ne le sait pas, lui. Ne l'aime pas moins pour ça. Aime-le autrement.
-
-— Toutes en même temps ?
-
-— Toutes en même temps. Nous nous recouvrons. Comme des calques. Comme des couches de vase. Les plus anciennes ont presque tout perdu. Les plus récentes se souviennent encore de… de certaines choses.
-
-— Mais pas plusieurs, ajouta-t-il, comme on corrige une erreur de copie. Pas vraiment. Au début, peut-être. Plus maintenant. Nous sommes comme la vase du lac : des couches. Celles du dessus se souviennent encore un peu. Celles du dessous font corps avec le reste. Ça ne fait plus qu'une seule chose, qui a beaucoup de mémoires et presque pas de nom.
 
 Il regarda par la fenêtre, vers le village.
 

@@ -9,7 +9,7 @@ window.BOOK = {
    "blocks": [
     {
      "t": "p",
-     "s": "Le lac avait disparu en dix-neuf jours."
+     "s": "Le lac avait disparu en douze jours."
     },
     {
      "t": "p",
@@ -17,7 +17,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Le dix-neuvième jour, on vit apparaître le village."
+     "s": "Le douzième jour, on vit apparaître le village."
     },
     {
      "t": "p",
@@ -56,7 +56,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "On aurait dit de la rouille sur un clou. Il retira son gant sans savoir pourquoi, et il le toucha."
+     "s": "On aurait dit de la rouille sur un clou. Il retira son gant, et il le toucha."
     },
     {
      "t": "p",
@@ -68,7 +68,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il n'en dit rien à personne. Le soir, au baraquement, il saigna du nez pendant le repas, longtemps, sans raison, et les autres se moquèrent de lui. Il se coucha tôt. Il avait la tête pleine d'un bourdonnement très bas, comme si le barrage, au lieu d'être derrière lui, était entré à l'intérieur."
+     "s": "Il n'en dit rien à personne. Le soir, au baraquement, il saigna du nez pendant le repas, sans raison, et les autres se moquèrent de lui. Il se coucha tôt. Il avait la tête pleine d'un bourdonnement très bas, comme si le barrage, au lieu d'être derrière lui, était entré à l'intérieur."
     },
     {
      "t": "p",
@@ -180,7 +180,7 @@ window.BOOK = {
      "s": "Il la garda quarante-six ans."
     }
    ],
-   "words": 1289
+   "words": 1285
   },
   {
    "id": "01-le-lac",
@@ -310,7 +310,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "*Iris.* Elle prononça le nom à voix haute, et la voix qui sortit n'était pas la sienne, plus grave, plus claire, avec des consonnes qu'elle n'avait pas entendues depuis l'enfance : « Iris. » Les syllabes roulèrent sur l'eau, revinrent, se perdirent. Elle porta les mains à sa bouche. Elle se mit à pleurer sans bruit, sans comprendre pourquoi, ni pour qui, ni dans quel corps coulaient les larmes."
+     "s": "*Iris.* Elle prononça le nom à voix haute, et la voix qui sortit n'était pas la sienne, plus grave, plus claire, avec des consonnes qu'elle n'avait pas entendues depuis l'enfance : « Iris. » Les syllabes roulèrent sur l'eau, revinrent, se perdirent. Elle porta les mains à sa bouche. Elle se mit à pleurer, sans savoir pour qui, ni dans quel corps coulaient les larmes."
     },
     {
      "t": "p",
@@ -318,7 +318,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il lui fallut longtemps pour que le froid reprenne ses droits. Il revint par les cuisses, par les reins, par les coudes, et avec lui la conscience d'une limite : elle ne disposait que de cette nuit, et des nuits qui suivraient, et chaque matin, quelque part sous elle, une femme qui dormait ouvrirait les yeux et ne saurait pas où elle avait dormi."
+     "s": "Le froid mit du temps à reprendre ses droits. Il revint par les cuisses, par les reins, par les coudes, et avec lui la conscience d'une limite : elle ne disposait que de cette nuit, et des nuits qui suivraient, et chaque matin, quelque part sous elle, une femme qui dormait ouvrirait les yeux et ne saurait pas où elle avait dormi."
     },
     {
      "t": "p",
@@ -349,7 +349,7 @@ window.BOOK = {
      "s": "Pas pour appeler. Pas pour chasser. Elle la leva lentement, paume ouverte, comme on salue quelqu'un qu'on attendait."
     }
    ],
-   "words": 1174
+   "words": 1168
   },
   {
    "id": "02-la-bibliotheque",
@@ -399,7 +399,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Élise s'arrêta, comme chaque jour, devant deux noms côte à côte, à hauteur de sa poitrine, qu'elle avait écrits elle-même à neuf ans d'intervalle. *Paul Varenne. Marthe Varenne.* Elle n'y toucha pas. Elle ne priait pas : personne ne priait plus, ici. Elle se contentait de les lire, une fois, lentement, comme on vérifie qu'une porte est bien fermée."
+     "s": "Élise s'arrêta, comme chaque jour, devant deux noms côte à côte, à hauteur de sa poitrine, qu'elle avait écrits elle-même à six ans d'intervalle. *Paul Varenne. Marthe Varenne.* Elle n'y toucha pas. Elle ne priait pas : personne ne priait plus, ici. Elle se contentait de les lire, une fois, lentement, comme on vérifie qu'une porte est bien fermée."
     },
     {
      "t": "p",
@@ -482,7 +482,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il y avait d'autres choses qu'elle avait cessé d'interroger. Chaque midi, au réfectoire, il y avait à sa place un bol de lentilles au cumin, encore chaud, posé là avant qu'elle n'arrive. Personne ne le revendiquait. Elle avait demandé, au début, une fois ou deux. On lui avait répondu que c'était comme ça depuis longtemps, qu'il ne fallait pas s'en faire. Elle avait fini par ne plus demander, comme on cesse de se demander d'où vient la pluie. Elle mangeait les lentilles. Elles étaient toujours un peu trop salées, exactement comme elle les aimait."
+     "s": "Elle avait cessé d'interroger d'autres choses. Chaque midi, au réfectoire, un bol de lentilles au cumin, encore chaud, l'attendait à sa place, posé là avant qu'elle n'arrive. Personne ne le revendiquait. Elle avait demandé, au début, une fois ou deux. On lui avait répondu que c'était comme ça depuis longtemps, qu'il ne fallait pas s'en faire. Elle avait fini par ne plus demander, comme on cesse de se demander d'où vient la pluie. Elle mangeait les lentilles. Elles étaient toujours un peu trop salées, exactement comme elle les aimait."
     },
     {
      "t": "hr"
@@ -608,7 +608,7 @@ window.BOOK = {
      "s": "— D'accord, dit-elle."
     }
    ],
-   "words": 2014
+   "words": 2009
   },
   {
    "id": "03-passeuse",
@@ -1023,6 +1023,10 @@ window.BOOK = {
      "s": "Puis elle se mit au travail."
     },
     {
+     "t": "p",
+     "s": "La première nuit, en remontant du lac, elle avait vu la lumière de la cabine s'éteindre, puis se rallumer, trois fois de suite, à intervalles réguliers. Elle y avait vu un défaut de courant. Le barrage était vieux."
+    },
+    {
      "t": "hr"
     },
     {
@@ -1206,7 +1210,7 @@ window.BOOK = {
      "s": "Elle se surprit à compter, et s'arrêta à onze."
     }
    ],
-   "words": 1943
+   "words": 1981
   },
   {
    "id": "06-sophia-le-jour",
@@ -1247,6 +1251,14 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Ce qu'il découvrait, c'était de la vase. Des mètres de vase grise, accumulée depuis la dernière vidange, en 1980, et qui intéressait beaucoup Bastien Kerr, le directeur. Kerr avait trente-cinq ans, un sourire de publicité et une politesse si parfaite qu'elle en devenait une forme d'absence. Il passait ses journées dans la salle du fond, celle dont la porte portait un clavier à code et une affichette : *Culture — accès restreint*."
+    },
+    {
+     "t": "p",
+     "s": "Et puis il y avait les poissons. Chaque matin, en reculant, le lac en abandonnait quelques-uns sur la vase : des truites, des chevesnes, blancs, le ventre en l'air, que les corbeaux venaient ouvrir dès l'aube. Les jours sans vent, l'odeur montait jusqu'au village. Les gens fermaient leurs fenêtres. Personne n'en parlait."
+    },
+    {
+     "t": "p",
      "s": "Elle s'était dit beaucoup de choses, ces dernières années."
     },
     {
@@ -1263,15 +1275,11 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Ce qu'il découvrait, c'était de la vase. Des mètres de vase grise, accumulée depuis la dernière vidange, en 1980, et qui intéressait beaucoup Bastien Kerr, le directeur. Kerr avait trente-cinq ans, un sourire de publicité et une politesse si parfaite qu'elle en devenait une forme d'absence. Il passait ses journées dans la salle du fond, celle dont la porte portait un clavier à code et une affichette : *Culture — accès restreint*."
+     "s": "Kerr la croisa dans le couloir, ce matin-là."
     },
     {
      "t": "p",
-     "s": "Et puis il y avait les poissons. Chaque matin, en reculant, le lac en abandonnait quelques-uns sur la vase : des truites, des chevesnes, blancs, le ventre en l'air, que les corbeaux venaient ouvrir dès l'aube. Les jours sans vent, l'odeur montait jusqu'au village. Les gens fermaient leurs fenêtres. Personne n'en parlait."
-    },
-    {
-     "t": "p",
-     "s": "— Vous avez l'air fatiguée, Sophia, dit-il ce matin-là en croisant son regard dans le couloir."
+     "s": "— Vous avez l'air fatiguée, Sophia, dit-il."
     },
     {
      "t": "p",
@@ -1358,7 +1366,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle aurait voulu lui dire. *Je me réveille avec de la boue sous les pieds. J'ai un bleu que je ne me suis pas fait. Il y a un verre dans mon évier.* Mais elle pensa à la lettre de sa mère, rangée au fond de la boîte à chaussures. *Il ne dormait pas, ou alors il dormait autrement.* Et elle se tut. Elle avait trente-huit ans, et elle était une scientifique. Elle avait peur, pour la première fois de sa vie, d'avoir hérité de quelque chose qui ne se mesure pas."
+     "s": "Elle aurait voulu lui dire. *Je me réveille avec de la boue sous les pieds. J'ai un bleu que je ne me suis pas fait. Il y a un verre dans mon évier.* Mais elle pensa à la lettre de sa mère, rangée au fond de la boîte à chaussures. *Il ne dormait pas, ou alors il dormait autrement.* Et elle se tut. Elle avait trente-sept ans, et elle était une scientifique. Elle avait peur, pour la première fois de sa vie, d'avoir hérité de quelque chose qui ne se mesure pas."
     },
     {
      "t": "hr"
@@ -1407,7 +1415,7 @@ window.BOOK = {
      "s": "*Ne t'inquiète pas. Regarde sous le plancher, à gauche du radiateur.*"
     }
    ],
-   "words": 1421
+   "words": 1420
   },
   {
    "id": "07-le-carnet",
@@ -1467,7 +1475,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle l'avait appris dans le dossier gris, sans savoir à quoi il servirait. Le rapport d'ingénierie sur l'incident commençait par un historique des niveaux du lac pendant les semaines précédant le 14 novembre. Une colonne de dates, une colonne de cotes. Élise l'avait recopiée dans sa tête à la manière d'un poème, parce que c'était ce qu'elle faisait de tout ce qu'elle lisait. Elle ferma les yeux et la colonne se déroula, propre, nette, comme sur la page."
+     "s": "Elle l'avait appris dans le dossier gris, sans savoir à quoi il servirait. Le rapport d'ingénierie sur l'incident commençait par un historique des niveaux du lac pendant les semaines précédant le 14 novembre. Une colonne de dates, une colonne de cotes, puis, plus bas, les relevés des piézomètres du mur jusqu'à la veille de l'incident. Élise avait tout recopié dans sa tête à la manière d'un poème, parce que c'était ce qu'elle faisait de tout ce qu'elle lisait. Elle ferma les yeux et la colonne se déroula, propre, nette, comme sur la page."
     },
     {
      "t": "p",
@@ -1562,11 +1570,11 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "La lumière s'éteignit."
+     "s": "La lumière s'éteignit, comme la première nuit."
     },
     {
      "t": "p",
-     "s": "Élise retint son souffle. La lumière se ralluma. S'éteignit. Se ralluma. Trois fois, à intervalles parfaitement réguliers, comme un signal. Puis plus rien : la cabine resta allumée, immobile, et le barrage continua de ronronner comme si rien ne s'était passé."
+     "s": "Élise retint son souffle. La lumière se ralluma. S'éteignit. Se ralluma. De nouveau trois fois, à intervalles parfaitement réguliers. Ce n'était pas un défaut de courant. Puis plus rien : la cabine resta allumée, immobile, et le barrage continua de ronronner comme si rien ne s'était passé."
     },
     {
      "t": "p",
@@ -1581,7 +1589,7 @@ window.BOOK = {
      "s": "*Il sait que je suis réveillée.*"
     }
    ],
-   "words": 1295
+   "words": 1320
   },
   {
    "id": "08-les-mots-de-la-main",
@@ -1900,7 +1908,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "*3. Jeudi, à 7 h 12 : 411,94. Lundi, à 7 h 12 : 411,52. Je connais une colonne de chiffres jusqu'au 14 novembre. Je te les donnerai un par un, la veille, jusqu'à ce que tu me croies.*"
+     "s": "*3. Lundi, à 7 h 12 : 411,71. Jeudi, à 7 h 12 : 411,52. Je connais une colonne de chiffres jusqu'au 14 novembre. Je te les donnerai un par un, la veille, jusqu'à ce que tu me croies.*"
     },
     {
      "t": "p",
@@ -1915,7 +1923,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Le jeudi, à 7 h 12, la jauge affichait 411,94. Le lundi, 411,52. Sophia avait mis chaque prédiction sous enveloppe, la veille, et signé le rabat."
+     "s": "Le lundi, à 7 h 12, la jauge affichait 411,71. Le jeudi, 411,52. Sophia avait mis chaque prédiction sous enveloppe, la veille, et signé le rabat."
     },
     {
      "t": "p",
@@ -3485,7 +3493,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il se retourna. Il la regarda, de l'autre bout de la cuisine, avec une tendresse si nue qu'elle dut baisser les yeux."
+     "s": "Il se retourna. Il la regarda, de l'autre bout de la cuisine. Elle détourna les yeux la première."
     },
     {
      "t": "p",
@@ -3516,10 +3524,10 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle la glissa dans la poche intérieure de la parka de Sophia, contre sa poitrine. Elle oublia de la sortir. Sophia la trouverait une semaine plus tard, en cherchant ses clés, et ce serait le début d'autre chose."
+     "s": "Elle la glissa dans la poche intérieure de la parka de Sophia, contre sa poitrine. Elle oublia de la sortir. Sophia la trouverait dix jours plus tard, en cherchant ses clés, et ce serait le début d'autre chose."
     }
    ],
-   "words": 1443
+   "words": 1439
   },
   {
    "id": "16-interlude-ruben",
@@ -3659,7 +3667,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "*Noé MARLE.*"
+     "s": "*Noé.*"
     },
     {
      "t": "p",
@@ -3678,7 +3686,7 @@ window.BOOK = {
      "s": "Il le fit chaque soir, pendant des années."
     }
    ],
-   "words": 890
+   "words": 889
   },
   {
    "id": "17-la-galerie",
@@ -3990,7 +3998,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "*Tour 47. J + 32.* *Variable É. : greffe stable (hôte S.V.). Mémoire en érosion lente. Contact établi avec variable N. (hôte E.M.), conforme.* *Anomalie : variable I. (hôte M.D.). Non observée lors des tours précédents. À surveiller.* *Écart de la poussière : – 94 jours (attendu : – 91). La spirale se resserre.* *Ne pas intervenir sur la structure. Protéger É. jusqu'au choix. Mesurer.*"
+     "s": "*Tour 47. J + 32.* *Variable É. : greffe stable (hôte S.V.). Mémoire en érosion lente. Contact établi avec variable N. (hôte E.M.), conforme.* *Anomalie : variable I. (hôte M.D.). Non observée lors des tours précédents. À surveiller.* *Écart de la poussière : – 94 jours (attendu : – 91). La spirale se resserre.* *Chaque tour recouvre le précédent. Ne survit que ce qui sort avant que la fenêtre se referme.* *Ne pas intervenir sur la structure. Protéger É. jusqu'au choix. Mesurer.*"
     },
     {
      "t": "p",
@@ -4060,7 +4068,7 @@ window.BOOK = {
      "s": "À vingt-trois heures douze, quelqu'un d'autre ouvrit les yeux, regarda le plafond un long moment, puis se leva, mit la blouse de Bastien Kerr, prit son badge, et alla chercher une lampe torche pour la poser sur la première marche de l'escalier de la galerie."
     }
    ],
-   "words": 854
+   "words": 871
   },
   {
    "id": "19-le-cahier-noir",
@@ -4136,7 +4144,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "*Tour 47. J + 44.*"
+     "s": "*Tour 47. J + 37.*"
     },
     {
      "t": "p",
@@ -4335,7 +4343,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle repartit en le serrant contre elle et en répétant son nom à voix basse, comme une prière. Sophia la regarda traverser le jardin. Puis elle rouvrit le carnet à la page où, trois semaines plus tôt, Élise avait recopié ce qu'elle savait des premiers symptômes."
+     "s": "Elle repartit en le serrant contre elle et en répétant son nom à voix basse, comme une prière."
     },
     {
      "t": "p",
@@ -4348,6 +4356,10 @@ window.BOOK = {
     {
      "t": "p",
      "s": "Elle rentra chez elle. Sophia entendit la porte claquer, puis, à travers le mur mitoyen, très étouffé, le prénom de l'enfant répété plusieurs fois, *Mathis, Mathis, Mathis*, comme on vérifie qu'une clé est toujours dans sa poche."
+    },
+    {
+     "t": "p",
+     "s": "Puis Sophia rouvrit le carnet à la page où, trois semaines plus tôt, Élise avait recopié ce qu'elle savait des premiers symptômes."
     },
     {
      "t": "p",
@@ -4484,7 +4496,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "*J'ai trente-huit ans et j'écris ça comme une adolescente dans son journal. Ne te moque pas.*"
+     "s": "*J'ai trente-sept ans et j'écris ça comme une adolescente dans son journal. Ne te moque pas.*"
     },
     {
      "t": "p",
@@ -4550,7 +4562,7 @@ window.BOOK = {
      "s": "Le soir, Sophia ne put rien écrire dans le carnet. Elle colla seulement, sur la page de droite, l'avis de décès découpé dans le journal, et elle laissa la page blanche autour."
     }
    ],
-   "words": 1541
+   "words": 1535
   },
   {
    "id": "21-mathis",
@@ -4608,7 +4620,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— À maman. Elle a dit que j'avais trop d'imagination. Elle oublie des trucs, maman, en ce moment."
+     "s": "— À maman. Elle a dit que j'avais trop d'imagination. Elle perd ses clés, maman, en ce moment."
     },
     {
      "t": "p",
@@ -4652,14 +4664,6 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Sophia apprit plus tard, par Corinne, que Mathis avait une boîte à chaussures pleine de cailloux classés par couleur, et dans la même boîte une carte postale de Marseille, la seule que son père lui ait jamais envoyée, qu'il ne relisait pas mais qu'il ne jetait pas. Elle apprit que la seule adulte qui l'écoutait vraiment, au village, était Martine Pradel, l'ancienne institutrice, qui lui donnait des cours de soutien le mercredi et qui lui avait dit un jour : *Les gens qui voient des choses, il faut les écrire, Mathis. Comme ça, plus tard, personne ne pourra te dire que tu les as inventées.*"
-    },
-    {
-     "t": "p",
-     "s": "Le caillou resta sur la table de la cuisine, à côté du carnet. Le lendemain matin, Sophia le trouva posé sur la page noire, comme un presse-papier."
-    },
-    {
-     "t": "p",
      "s": "— Et le monsieur du barrage, ton papa, dans ses yeux il y en a plein. Des dames. Toutes pareilles, avec les cheveux courts. Elles regardent par la fenêtre. Des fois elles pleurent. Sauf une, tout au fond, avec des cheveux longs. C'est la plus vieille. Elle dort tout le temps. Quand elle se réveille, elle appelle sa maman."
     },
     {
@@ -4667,11 +4671,19 @@ window.BOOK = {
      "s": "Il referma la porte derrière lui."
     },
     {
+     "t": "p",
+     "s": "Sophia apprit plus tard, par Corinne, que Mathis avait une boîte à chaussures pleine de cailloux classés par couleur, et dans la même boîte une carte postale de Marseille, la seule que son père lui ait jamais envoyée, qu'il ne relisait pas mais qu'il ne jetait pas. Elle apprit que la seule adulte qui l'écoutait vraiment, au village, était Martine Pradel, l'ancienne institutrice, qui lui donnait des cours de soutien le mercredi et qui lui avait dit un jour : *Les gens qui voient des choses, il faut les écrire, Mathis. Comme ça, plus tard, personne ne pourra te dire que tu les as inventées.*"
+    },
+    {
+     "t": "p",
+     "s": "Le caillou resta sur la table de la cuisine, à côté du carnet. Le lendemain matin, Sophia le trouva posé sur la page noire, comme un presse-papier."
+    },
+    {
      "t": "hr"
     },
     {
      "t": "p",
-     "s": "Le samedi, elle l'emmena ramasser des cailloux."
+     "s": "Le vendredi, elle l'emmena ramasser des cailloux."
     },
     {
      "t": "p",
@@ -4841,22 +4853,10 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Le soir, elle imprima la photo au format d'une page de carnet, sur la vieille imprimante du séjour. Elle la colla sur la page de droite, à côté de sa propre écriture, et n'écrivit qu'une ligne en dessous :"
-    },
-    {
-     "t": "p",
-     "s": "*Ce dessin est sur tous les murs de mon père. Il en fait un chaque nuit depuis quarante ans. Est-ce que tu sais ce que c'est ?*"
-    },
-    {
-     "t": "p",
-     "s": "Puis elle hésita, la main au-dessus du papier. Elle ajouta :"
-    },
-    {
-     "t": "p",
-     "s": "*Il m'a appelée Élise.*"
+     "s": "Le soir, elle imprima la photo au format d'une page de carnet, sur la vieille imprimante du séjour. Elle la posa sur la table, à côté du carnet fermé, et n'osa pas la coller."
     }
    ],
-   "words": 1869
+   "words": 1822
   },
   {
    "id": "22-le-registre-de-l-ouvrage",
@@ -4874,7 +4874,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Anselme la regarda un long moment. Elle crut qu'il allait refuser. Puis il se leva, entra dans la cabine, et revint avec un carton de déménagement plein de cahiers reliés de toile bleue, numérotés au dos à l'encre violette, de 1 à 46."
+     "s": "Anselme la regarda un long moment. Elle crut qu'il allait refuser. Puis il se leva, entra dans la cabine, et revint avec un carton de déménagement plein de cahiers reliés de toile bleue, numérotés au dos à l'encre violette, de 1 à 47."
     },
     {
      "t": "p",
@@ -4967,7 +4967,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle chercha la dernière occurrence. Elle la trouva dans le cahier 46, celui de cette année, le seul qu'elle n'avait pas encore ouvert."
+     "s": "Elle chercha la dernière occurrence. Elle la trouva dans le cahier 47, celui de cette année, le seul qu'elle n'avait pas encore ouvert."
     },
     {
      "t": "p",
@@ -5010,14 +5010,33 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle rangea les quarante-six cahiers dans leur carton et le poussa sous le lit, à l'endroit exact du mur mitoyen, là où, chaque nuit, elle ne le savait pas, quelqu'un frappait cinquante-neuf fois."
+     "s": "Elle rangea les quarante-sept cahiers dans leur carton et le poussa sous le lit, à l'endroit exact du mur mitoyen, là où, chaque nuit, elle ne le savait pas, quelqu'un frappait cinquante-neuf fois."
     },
     {
      "t": "p",
      "s": "Elle ne put pas dormir. Ce qui, pour une fois, voulait dire qu'Élise non plus."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Le lendemain soir, elle prit la photo sur la table et la colla sur la page de droite, à côté de sa propre écriture. Elle n'écrivit qu'une ligne en dessous :"
+    },
+    {
+     "t": "p",
+     "s": "*Ce dessin est sur tous les murs de mon père. Il en fait un chaque nuit depuis quarante-six ans. Est-ce que tu sais ce que c'est ?*"
+    },
+    {
+     "t": "p",
+     "s": "Puis elle hésita, la main au-dessus du papier. Elle ajouta :"
+    },
+    {
+     "t": "p",
+     "s": "*Il m'a appelée Élise.*"
     }
    ],
-   "words": 887
+   "words": 960
   },
   {
    "id": "23-tu-reviens-toujours",
@@ -5298,7 +5317,7 @@ window.BOOK = {
    "blocks": [
     {
      "t": "p",
-     "s": "Sophia trouva la recette un mardi, en cherchant ses clés dans la poche intérieure de sa parka."
+     "s": "Sophia trouva la recette un lundi, en cherchant ses clés dans la poche intérieure de sa parka."
     },
     {
      "t": "p",
@@ -5364,7 +5383,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle en parla à Étienne le jeudi, au café de la place, devant deux chocolats que Nadia avait apportés sans qu'ils les commandent."
+     "s": "Elle en parla à Étienne le mercredi, au café de la place, devant deux chocolats que Nadia avait apportés sans qu'ils les commandent."
     },
     {
      "t": "p",
@@ -5877,7 +5896,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle rentra chez elle à pied, à deux heures du matin, dans le froid, en pensant qu'elle venait de parler au père d'un enfant qui naîtrait dans cent ans, et sans savoir qu'elle le pensait. Elle se coucha, et dès qu'elle ferma les yeux, ce ne fut plus elle."
+     "s": "Elle rentra chez elle à pied, à deux heures du matin, dans le froid. Elle se coucha, et dès qu'elle ferma les yeux, ce ne fut plus elle."
     },
     {
      "t": "p",
@@ -5900,10 +5919,6 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "*C'est S. Certitude. Corinne : non (elle ne voit rien quand Mathis parle). S. : la main gauche, l'écriture lente, la façon de lever les yeux vers le ciel.*"
-    },
-    {
-     "t": "p",
      "s": "*Rester près d'elle. Ne rien lui dire.*"
     },
     {
@@ -5920,7 +5935,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— *S.*, c'est moi, dit-elle."
+     "s": "— *Ne rien lui dire*, dit-elle. Il lui ment."
     },
     {
      "t": "p",
@@ -5928,15 +5943,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Il l'a trouvée. Elle. Il sait qu'elle est en moi."
-    },
-    {
-     "t": "p",
-     "s": "— Oui."
-    },
-    {
-     "t": "p",
-     "s": "— *L'empêcher.* L'empêcher de quoi ?"
+     "s": "— Et il veut l'empêcher. L'empêcher de quoi ?"
     },
     {
      "t": "p",
@@ -5944,14 +5951,14 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Je ne sais pas, Sophia. Je ne sais pas ce qu'il y a dans ma tête. Je ne sais pas qui c'est. Je sais seulement que ce type passe ses nuits avec elle, sur le barrage, avec mes jambes, ma voix, mon manteau, et qu'il lui ment."
+     "s": "— Je ne sais pas, Sophia. Je ne sais pas ce qu'il y a dans ma tête. Je ne sais pas qui c'est. Je sais seulement que ce type passe ses nuits avec elle, sur le barrage, avec mes jambes, ma voix, mon manteau."
     },
     {
      "t": "hr"
     },
     {
      "t": "p",
-     "s": "*Il y a quelqu'un dans Étienne qui veut que la Rouille arrive. Il sait que tu es en moi. Il veut t'empêcher de faire ce que tu es venue faire, le 14. Il a écrit « la boucle doit tourner ».*"
+     "s": "*Il y a quelqu'un dans Étienne qui veut que la Rouille arrive. Il veut t'empêcher de faire ce que tu es venue faire, le 14. Il a écrit « la boucle doit tourner ».*"
     },
     {
      "t": "p",
@@ -6188,7 +6195,7 @@ window.BOOK = {
      "s": "Elle attendit le soixantième, comme chaque nuit. Comme chaque nuit, il ne vint pas."
     }
    ],
-   "words": 2314
+   "words": 2247
   },
   {
    "id": "27-corinne",
@@ -6557,7 +6564,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "La Fondation Léthé appartenait à un groupe pharmaceutique suisse qui avait perdu une fortune sur les antidépresseurs. Elle avait été créée trois ans plus tôt, après qu'un géologue avait fait analyser, par hasard, une carotte de sédiments de Vallorce prélevée lors d'une inspection. On y avait trouvé une structure cristalline inconnue, et une propriété qui avait fait trembler les mains de tout le monde : placée à proximité d'un rat endormi, la substance effaçait, sélectivement, ce que le rat avait appris dans la journée."
+     "s": "La Fondation Léthé appartenait à un groupe pharmaceutique suisse qui avait perdu une fortune sur les antidépresseurs. Elle avait été créée trois ans plus tôt, après que Kerr, lui-même, avait fait analyser le contenu d'un bocal reçu par la poste. On y avait trouvé une structure cristalline inconnue, et une propriété qui avait fait trembler les mains de tout le monde : placée à proximité d'un rat endormi, la substance effaçait, sélectivement, ce que le rat avait appris dans la journée."
     },
     {
      "t": "p",
@@ -6774,7 +6781,7 @@ window.BOOK = {
      "s": "Elle eut le temps de penser, juste avant que le sommeil ne la prenne : *Dans une minute, ce ne sera plus moi.*"
     }
    ],
-   "words": 1498
+   "words": 1495
   },
   {
    "id": "30-le-cycle",
@@ -6848,7 +6855,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Élise posa les mains à plat sur le drap, de chaque côté d'elle, et ne bougea plus du tout. Elle sentit, à côté, Noé faire exactement la même chose."
+     "s": "Élise posa les mains à plat sur le drap, de chaque côté d'elle, et ne bougea plus du tout. Elle sentit, à côté, Sacha faire exactement la même chose."
     },
     {
      "t": "p",
@@ -6939,7 +6946,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Je sais. Je trouverai."
+     "s": "— Je sais. J'ai celui de Kerr, dans le manteau."
     },
     {
      "t": "p",
@@ -6974,7 +6981,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il ne dit pas qu'il savait qu'elle viendrait. Il n'en avait pas besoin. Il passa son badge d'exploitant sur le lecteur, la porte s'ouvrit, et ils descendirent l'escalier de fer, lui devant, elle derrière. Ils comptèrent les cent douze marches ensemble, à voix basse, et elle remarqua qu'il comptait exactement comme elle : avec une petite pause entre trente et trente et un, parce qu'enfant elle avait toujours eu du mal avec *trente et un*."
+     "s": "Il ne dit pas qu'il savait qu'elle viendrait. Il n'en avait pas besoin. Elle passa le badge de Kerr sur le lecteur, la porte s'ouvrit, et ils descendirent l'escalier de fer, lui devant, elle derrière. Ils comptèrent les cent douze marches ensemble, à voix basse, et elle remarqua qu'il comptait exactement comme elle : avec une petite pause entre trente et trente et un, parce qu'enfant elle avait toujours eu du mal avec *trente et un*."
     },
     {
      "t": "p",
@@ -7125,7 +7132,7 @@ window.BOOK = {
      "s": "— Elle n'a pas d'origine, dit Anselme. Elle a seulement toi."
     }
    ],
-   "words": 1742
+   "words": 1748
   },
   {
    "id": "31-le-premier-passeur",
@@ -7245,6 +7252,14 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "— Toutes en même temps ?"
+    },
+    {
+     "t": "p",
+     "s": "— Nous nous recouvrons. Comme la vase du lac : des couches. Celles du dessus se souviennent encore un peu. Celles du dessous font corps avec le reste. Ça ne fait plus qu'une seule chose, qui a beaucoup de mémoires et presque pas de nom."
+    },
+    {
+     "t": "p",
      "s": "— Et aucune n'a jamais fait autrement ?"
     },
     {
@@ -7278,18 +7293,6 @@ window.BOOK = {
     {
      "t": "p",
      "s": "— Il ne le sait pas, lui. Ne l'aime pas moins pour ça. Aime-le autrement."
-    },
-    {
-     "t": "p",
-     "s": "— Toutes en même temps ?"
-    },
-    {
-     "t": "p",
-     "s": "— Toutes en même temps. Nous nous recouvrons. Comme des calques. Comme des couches de vase. Les plus anciennes ont presque tout perdu. Les plus récentes se souviennent encore de… de certaines choses."
-    },
-    {
-     "t": "p",
-     "s": "— Mais pas plusieurs, ajouta-t-il, comme on corrige une erreur de copie. Pas vraiment. Au début, peut-être. Plus maintenant. Nous sommes comme la vase du lac : des couches. Celles du dessus se souviennent encore un peu. Celles du dessous font corps avec le reste. Ça ne fait plus qu'une seule chose, qui a beaucoup de mémoires et presque pas de nom."
     },
     {
      "t": "p",
@@ -7505,7 +7508,7 @@ window.BOOK = {
      "s": "Elle rentra dormir."
     }
    ],
-   "words": 2424
+   "words": 2374
   },
   {
    "id": "32-interlude-rose",
@@ -8265,7 +8268,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "C'était son ancêtre. Le grand-père du grand-père de son grand-père. Sans ce garçon de dix-neuf ans, en tee-shirt mouillé, avec un duvet de barbe et une cicatrice d'acné sur la tempe, il n'y aurait pas de Noé. Pas de registre Marle. Pas de salle des Cartes, pas de rencontre avec une archiviste qui lisait trop vite. Pas d'Iris."
+     "s": "C'était son ancêtre. Le grand-père de son grand-père. Sans ce garçon de dix-neuf ans, en tee-shirt mouillé, avec un duvet de barbe et une cicatrice d'acné sur la tempe, il n'y aurait pas de Noé. Pas de registre Marle. Pas de salle des Cartes, pas de rencontre avec une archiviste qui lisait trop vite. Pas d'Iris."
     },
     {
      "t": "p",
@@ -8338,7 +8341,7 @@ window.BOOK = {
      "s": "Il ne pensa pas qu'à cette heure-là, Bastien Kerr dormait."
     }
    ],
-   "words": 1194
+   "words": 1192
   },
   {
    "id": "36-huit-ans",
@@ -9259,7 +9262,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Comme toi. Un éclat sur le front, compter. Mais je ne pouvais pas aller dans Sophia : tu y étais. Alors j'ai cherché dans le registre. Mathis épousera Anne, plus tard. C'est mon arrière-arrière-arrière-grand-père. C'est le seul corps où je pouvais être à côté de toi."
+     "s": "— Comme toi. Un éclat sur le front, compter. Mais je ne pouvais pas aller dans Sophia : tu y étais. Alors j'ai cherché dans le registre. Mathis épousera Anne, plus tard. C'est mon arrière-arrière-grand-père. C'est le seul corps où je pouvais être à côté de toi."
     },
     {
      "t": "p",
@@ -9756,7 +9759,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "À vingt ans, elle était devenue archiviste. À vingt et un ans, elle avait ouvert le registre rouge et lu, à la dernière ligne de sa mère, trois mots de l'écriture de Ruben : *Pas encore revenue.* Et, dans le blanc, à côté de son propre nom, le nom de son père, qu'elle n'avait jamais entendu prononcer. *Noé Marle.*"
+     "s": "À vingt ans, elle était devenue archiviste. À vingt et un ans, elle avait ouvert le registre rouge et lu, à la dernière ligne de sa mère, trois mots de l'écriture de Ruben : *Pas encore revenue.* Et, dans le blanc, à côté de son propre nom, le nom de son père, qu'elle n'avait jamais entendu prononcer. *Noé.*"
     },
     {
      "t": "p",
@@ -9899,7 +9902,7 @@ window.BOOK = {
      "s": "*Il fait jour. Il n'a plus peur.*"
     }
    ],
-   "words": 1520
+   "words": 1519
   },
   {
    "id": "42-la-derniere-nuit",
@@ -10747,7 +10750,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il leva les yeux vers elle. Il ne demanda rien. Il fouilla dans le tas, longtemps, et en sortit un dessin qui n'était pas comme les autres : le plus vieux, le plus jauni, celui du fond, cassé aux plis, sur une page de carnet de chantier. La silhouette devant la maison avait de longs cheveux, et un petit point au coin de l'œil gauche. Il le lui tendit. Puis il prit les autres, tous les autres, les rangea dans un carton de registres vide, ferma le carton, et le glissa sous le lit de camp, à côté des boîtes de mouches de pêche."
+     "s": "Il leva les yeux vers elle. Il ne demanda rien. Il sortit son portefeuille et tira, de derrière sa carte d'identité, une page de carnet de chantier pliée en quatre, cassée aux plis. Il la déplia. La silhouette devant la maison avait de longs cheveux, et un petit point au coin de l'œil gauche. Il la lui tendit. Puis il prit les autres, tous les autres, les rangea dans un carton de registres vide, ferma le carton, et le glissa sous le lit de camp, à côté des boîtes de mouches de pêche."
     },
     {
      "t": "p",
@@ -10840,7 +10843,7 @@ window.BOOK = {
      "s": "Il leva la main. Pas pour appeler. Pas pour retenir. Lentement, paume ouverte, comme on salue quelqu'un qu'on reverra."
     }
    ],
-   "words": 3164
+   "words": 3153
   },
   {
    "id": "44-interlude-anne",
@@ -11108,7 +11111,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il y avait eu une Anne. Puis une Jeanne. Puis un Paul. En 2103, Paul avait appelé sa fille Iris, d'après l'enfant des pages noires dont on lisait le nom sans lire l'histoire : une petite fille au front trop grand, comme celui de toutes les femmes de la famille. Et trente ans plus tard, quand on lui avait mis sa propre fille dans les bras, Iris avait choisi le seul autre nom qui revenait sans cesse dans ces pages-là, celui de la femme qui écrivait à l'encre noire et qui, semblait-il, aimait cette enfant plus que tout. Élise. Pour que quelqu'un, cette fois, la garde."
+     "s": "Il y avait eu une Anne. Puis une Jeanne. Puis un Paul. En 2103, Paul avait appelé sa fille Iris, d'après l'enfant des pages noires dont on lisait le nom sans lire l'histoire : une petite fille au front trop grand, comme celui de toutes les femmes de la famille. Et vingt-sept ans plus tard, quand on lui avait mis sa propre fille dans les bras, Iris avait choisi le seul autre nom qui revenait sans cesse dans ces pages-là, celui de la femme qui écrivait à l'encre noire et qui, semblait-il, aimait cette enfant plus que tout. Élise. Pour que quelqu'un, cette fois, la garde."
     },
     {
      "t": "p",
@@ -11332,7 +11335,11 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Cette nuit-là, Iris descendit au lac et jeta la fiole dans l'eau, aussi loin qu'elle put. Elle crut s'en débarrasser. Elle rendait seulement au lac ce qu'on lui avait pris plus d'un siècle plus tôt."
+     "s": "Cette nuit-là, Iris descendit au lac. Elle tira l'aiguille de la fiole avec un chiffon et la jeta dans l'eau, aussi loin qu'elle put. Elle crut s'en débarrasser. Elle rendait seulement au lac ce qu'on lui avait pris plus d'un siècle plus tôt."
+    },
+    {
+     "t": "p",
+     "s": "Elle rapporta la fiole, qu'elle rinça et reposa sur l'étagère, et qu'elle crut vide. Au fond du verre, contre la paroi, un grain restait collé, trop petit pour qu'elle le voie."
     },
     {
      "t": "p",
@@ -11343,7 +11350,7 @@ window.BOOK = {
      "s": "Ceux qui oubliaient avaient pris l'habitude de sortir la nuit, et de descendre vers le lac."
     }
    ],
-   "words": 2688
+   "words": 2727
   },
   {
    "id": "46-coda",
@@ -11431,7 +11438,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Ils y avaient trouvé tout ce qu'il fallait. La règle du sang. La règle du sommeil. L'éclat sur le front, le compte jusqu'à soixante. La date, la galerie, le niveau –3. Ils y avaient trouvé aussi l'histoire d'une femme qui avait noyé le cristal dans le béton, un siècle plus tôt, en croyant y mettre fin. Et ils avaient sous les yeux la preuve que ça n'avait pas suffi : une fiole vide, sur l'étagère des archives, et une ville entière qui oubliait."
+     "s": "Ils y avaient trouvé tout ce qu'il fallait. La règle du sang. La règle du sommeil. L'éclat sur le front, le compte jusqu'à soixante. La date, la galerie, le niveau –3. Ils y avaient trouvé aussi l'histoire d'une femme qui avait noyé le cristal dans le béton, un siècle plus tôt, en croyant y mettre fin. Et ils avaient sous les yeux la preuve que ça n'avait pas suffi : une fiole qu'on croyait vide, sur l'étagère des archives, et une ville entière qui oubliait."
     },
     {
      "t": "p",
@@ -11591,7 +11598,7 @@ window.BOOK = {
      "s": "Elle reviendrait toujours."
     }
    ],
-   "words": 1646
+   "words": 1648
   },
   {
    "id": "47-annexe",
@@ -11628,19 +11635,19 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "*Les Élise de l'hôte A.R. : éteintes à 9 h 40. Le vieil homme a pleuré. Je l'ai regardé depuis la grève. Je n'avais rien à mesurer. Je suis resté quand même.*"
+     "s": "*Les Élise de l'hôte A.R. : éteintes à 9 h 40. Cette nuit, je suis allé sur la grève. Le vieil homme pleurait encore. Je n'avais rien à mesurer. Je suis resté quand même.*"
     },
     {
      "t": "p",
-     "s": "*S.V. a gardé un témoin. Fiole, étiquette bleue, « Vallorce, 14/11/2026 ». Je l'ai vue faire. Je n'ai pas bougé.*"
+     "s": "*S.V. a gardé un témoin. Fiole, étiquette bleue, « Vallorce, 14/11/2026 ». Je l'ai vue sur son étagère, par la fenêtre. J'aurais pu entrer. Je n'ai pas bougé.*"
     },
     {
      "t": "p",
-     "s": "*Je rappelle la règle, pour moi-même, puisque personne d'autre ne la lira : ne pas intervenir sur la structure. Une lampe sur une marche, un badge dans un congélateur, un caillou contre une vitre : ce ne sont pas des interventions. Ce sont des politesses.*"
+     "s": "*Je rappelle la règle, pour moi-même, puisque personne d'autre ne la lira : ne pas intervenir sur la structure. Une lampe sur une marche, un badge glissé sur un appui de fenêtre, un autre dans un congélateur, un caillou contre une vitre : ce ne sont pas des interventions. Ce sont des politesses.*"
     },
     {
      "t": "p",
-     "s": "*Empêcher S.V. de garder la fiole aurait été une intervention.*"
+     "s": "*La lui prendre aurait été une intervention.*"
     },
     {
      "t": "p",
@@ -11700,7 +11707,7 @@ window.BOOK = {
      "s": "*— K.*"
     }
    ],
-   "words": 498
+   "words": 513
   }
  ]
 };

@@ -20,7 +20,7 @@ Elle s'assit.
 
 Il lui parla pendant une heure, et elle eut l'horrible impression qu'il était sincère.
 
-La Fondation Léthé appartenait à un groupe pharmaceutique suisse qui avait perdu une fortune sur les antidépresseurs. Elle avait été créée trois ans plus tôt, après qu'un géologue avait fait analyser, par hasard, une carotte de sédiments de Vallorce prélevée lors d'une inspection. On y avait trouvé une structure cristalline inconnue, et une propriété qui avait fait trembler les mains de tout le monde : placée à proximité d'un rat endormi, la substance effaçait, sélectivement, ce que le rat avait appris dans la journée.
+La Fondation Léthé appartenait à un groupe pharmaceutique suisse qui avait perdu une fortune sur les antidépresseurs. Elle avait été créée trois ans plus tôt, après que Kerr, lui-même, avait fait analyser le contenu d'un bocal reçu par la poste. On y avait trouvé une structure cristalline inconnue, et une propriété qui avait fait trembler les mains de tout le monde : placée à proximité d'un rat endormi, la substance effaçait, sélectivement, ce que le rat avait appris dans la journée.
 
 — Vous imaginez ? dit Kerr. Vous imaginez ce que ça veut dire ? Les soldats qui reviennent de guerre et qui revoient chaque nuit le visage du gamin qu'ils ont tué. Les femmes violées qui sursautent quand un homme lève la main. Les parents qui ont trouvé leur enfant mort dans son lit et qui le retrouvent mort chaque matin en se réveillant. On pourrait leur enlever ça. Juste ça. Leur rendre une vie.
 

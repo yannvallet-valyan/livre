@@ -34,7 +34,7 @@ Elle ne bougeait pas, pourtant. Ni lui. Ils restèrent encore un instant immobil
 
 Peut-être que c'était cette nuit. Peut-être qu'Anne avait commencé, là, quelque part dans le corps qu'elle habitait. Peut-être que le moindre geste maladroit, le moindre réveil en sursaut de Sophia dans un lit qu'elle n'aurait pas choisi, si les choses avaient tourné autrement, aurait pu tout défaire.
 
-Élise posa les mains à plat sur le drap, de chaque côté d'elle, et ne bougea plus du tout. Elle sentit, à côté, Noé faire exactement la même chose.
+Élise posa les mains à plat sur le drap, de chaque côté d'elle, et ne bougea plus du tout. Elle sentit, à côté, Sacha faire exactement la même chose.
 
 — D'accord.
 
@@ -80,7 +80,7 @@ Elle regarda ses mains autour du bol. Elle pensa : *dans sept jours, c'est le 14
 
 — Sophia n'a plus de badge.
 
-— Je sais. Je trouverai.
+— Je sais. J'ai celui de Kerr, dans le manteau.
 
 Elle se leva. Il se leva aussi.
 
@@ -98,7 +98,7 @@ Sacha ne répondit rien. Il la regarda partir dans le pull d'un autre, avec le v
 
 Anselme l'attendait devant le laboratoire.
 
-Il ne dit pas qu'il savait qu'elle viendrait. Il n'en avait pas besoin. Il passa son badge d'exploitant sur le lecteur, la porte s'ouvrit, et ils descendirent l'escalier de fer, lui devant, elle derrière. Ils comptèrent les cent douze marches ensemble, à voix basse, et elle remarqua qu'il comptait exactement comme elle : avec une petite pause entre trente et trente et un, parce qu'enfant elle avait toujours eu du mal avec *trente et un*.
+Il ne dit pas qu'il savait qu'elle viendrait. Il n'en avait pas besoin. Elle passa le badge de Kerr sur le lecteur, la porte s'ouvrit, et ils descendirent l'escalier de fer, lui devant, elle derrière. Ils comptèrent les cent douze marches ensemble, à voix basse, et elle remarqua qu'il comptait exactement comme elle : avec une petite pause entre trente et trente et un, parce qu'enfant elle avait toujours eu du mal avec *trente et un*.
 
 Elle ne dit rien.
 

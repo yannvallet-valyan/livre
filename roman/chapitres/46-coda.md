@@ -42,7 +42,7 @@ Elle ne lui avait pas dit qu'elle partait. Elle se disait que c'était pour le p
 
 Le Conseil se réunissait dans l'ancienne salle des cartes. Ils étaient cinq. Ils avaient lu le carnet, les pages bleues et les noires, cent fois, à voix haute, comme on lit les Écritures : en gardant ce qui les arrangeait.
 
-Ils y avaient trouvé tout ce qu'il fallait. La règle du sang. La règle du sommeil. L'éclat sur le front, le compte jusqu'à soixante. La date, la galerie, le niveau –3. Ils y avaient trouvé aussi l'histoire d'une femme qui avait noyé le cristal dans le béton, un siècle plus tôt, en croyant y mettre fin. Et ils avaient sous les yeux la preuve que ça n'avait pas suffi : une fiole vide, sur l'étagère des archives, et une ville entière qui oubliait.
+Ils y avaient trouvé tout ce qu'il fallait. La règle du sang. La règle du sommeil. L'éclat sur le front, le compte jusqu'à soixante. La date, la galerie, le niveau –3. Ils y avaient trouvé aussi l'histoire d'une femme qui avait noyé le cristal dans le béton, un siècle plus tôt, en croyant y mettre fin. Et ils avaient sous les yeux la preuve que ça n'avait pas suffi : une fiole qu'on croyait vide, sur l'étagère des archives, et une ville entière qui oubliait.
 
 — Le noyer ne suffit pas, dit la doyenne. Il en reste toujours un grain. Quelqu'un le garde toujours. Il faut qu'il n'en reste rien. Il faut le briser, le réduire en poudre, avant qu'ils ne l'extraient.
 

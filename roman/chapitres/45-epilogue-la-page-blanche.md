@@ -54,7 +54,7 @@ Une couverture grise, usée, ramollie par les mains. Des pages couvertes de deux
 
 Sur la première page, quelqu'un avait écrit, à l'encre bleue : *Les pages noires ne sont pas pour vous. Gardez-les. Ne les lisez pas.* Dans la famille Varenne, on avait respecté la consigne pendant cent onze ans. On lisait les pages bleues, qui parlaient d'une femme seule, d'un lac qui baissait, d'un médecin. On ne lisait pas les noires. On se contentait d'y prendre des noms. C'était une tradition, dont plus personne ne savait qui l'avait commencée : on donnait aux enfants les noms qu'on trouvait dans le carnet.
 
-Il y avait eu une Anne. Puis une Jeanne. Puis un Paul. En 2103, Paul avait appelé sa fille Iris, d'après l'enfant des pages noires dont on lisait le nom sans lire l'histoire : une petite fille au front trop grand, comme celui de toutes les femmes de la famille. Et trente ans plus tard, quand on lui avait mis sa propre fille dans les bras, Iris avait choisi le seul autre nom qui revenait sans cesse dans ces pages-là, celui de la femme qui écrivait à l'encre noire et qui, semblait-il, aimait cette enfant plus que tout. Élise. Pour que quelqu'un, cette fois, la garde.
+Il y avait eu une Anne. Puis une Jeanne. Puis un Paul. En 2103, Paul avait appelé sa fille Iris, d'après l'enfant des pages noires dont on lisait le nom sans lire l'histoire : une petite fille au front trop grand, comme celui de toutes les femmes de la famille. Et vingt-sept ans plus tard, quand on lui avait mis sa propre fille dans les bras, Iris avait choisi le seul autre nom qui revenait sans cesse dans ces pages-là, celui de la femme qui écrivait à l'encre noire et qui, semblait-il, aimait cette enfant plus que tout. Élise. Pour que quelqu'un, cette fois, la garde.
 
 La dernière page était blanche. Personne n'avait jamais osé y écrire.
 
@@ -170,7 +170,9 @@ Au bout d'un an, un matin de printemps, Élise s'arrêta sur le seuil de la cuis
 
 ---
 
-Cette nuit-là, Iris descendit au lac et jeta la fiole dans l'eau, aussi loin qu'elle put. Elle crut s'en débarrasser. Elle rendait seulement au lac ce qu'on lui avait pris plus d'un siècle plus tôt.
+Cette nuit-là, Iris descendit au lac. Elle tira l'aiguille de la fiole avec un chiffon et la jeta dans l'eau, aussi loin qu'elle put. Elle crut s'en débarrasser. Elle rendait seulement au lac ce qu'on lui avait pris plus d'un siècle plus tôt.
+
+Elle rapporta la fiole, qu'elle rinça et reposa sur l'étagère, et qu'elle crut vide. Au fond du verre, contre la paroi, un grain restait collé, trop petit pour qu'elle le voie.
 
 Quelques années plus tard, à la bibliothèque de Vallorce, quelqu'un proposa de murer les fenêtres.
 

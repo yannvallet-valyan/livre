@@ -68,7 +68,7 @@ Iris raconta. Elle parlait lentement, avec la bouche d'un enfant qui ne savait p
 
 — Comment tu es venue ?
 
-— Comme toi. Un éclat sur le front, compter. Mais je ne pouvais pas aller dans Sophia : tu y étais. Alors j'ai cherché dans le registre. Mathis épousera Anne, plus tard. C'est mon arrière-arrière-arrière-grand-père. C'est le seul corps où je pouvais être à côté de toi.
+— Comme toi. Un éclat sur le front, compter. Mais je ne pouvais pas aller dans Sophia : tu y étais. Alors j'ai cherché dans le registre. Mathis épousera Anne, plus tard. C'est mon arrière-arrière-grand-père. C'est le seul corps où je pouvais être à côté de toi.
 
 — Dans un enfant.
 

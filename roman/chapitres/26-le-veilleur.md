@@ -88,7 +88,7 @@ Elle se leva. Elle reprit son carnet à spirale. Elle n'avait rien noté depuis 
 
 L'homme ne rouvrit pas les yeux. Elle vit seulement, à la lueur du réverbère, ses mains se poser à plat sur le drap, de chaque côté de lui.
 
-Elle rentra chez elle à pied, à deux heures du matin, dans le froid, en pensant qu'elle venait de parler au père d'un enfant qui naîtrait dans cent ans, et sans savoir qu'elle le pensait. Elle se coucha, et dès qu'elle ferma les yeux, ce ne fut plus elle.
+Elle rentra chez elle à pied, à deux heures du matin, dans le froid. Elle se coucha, et dès qu'elle ferma les yeux, ce ne fut plus elle.
 
 Dans le carnet, le lendemain, elle écrivit seulement : *Il dort.*
 
@@ -100,7 +100,6 @@ Il la montra à Sophia le soir même, dans sa cuisine à lui cette fois, une cui
 
 L'écriture était la sienne, à l'encre noire. Elle était plus nerveuse que d'habitude, comme écrite à la hâte, à la lumière d'un portable.
 
-*C'est S. Certitude. Corinne : non (elle ne voit rien quand Mathis parle). S. : la main gauche, l'écriture lente, la façon de lever les yeux vers le ciel.*
 
 *Rester près d'elle. Ne rien lui dire.*
 
@@ -110,23 +109,19 @@ L'écriture était la sienne, à l'encre noire. Elle était plus nerveuse que d'
 
 Sophia la relut trois fois. Puis elle leva les yeux vers Étienne, qui lui tournait toujours le dos.
 
-— *S.*, c'est moi, dit-elle.
+— *Ne rien lui dire*, dit-elle. Il lui ment.
 
 — Je sais.
 
-— Il l'a trouvée. Elle. Il sait qu'elle est en moi.
-
-— Oui.
-
-— *L'empêcher.* L'empêcher de quoi ?
+— Et il veut l'empêcher. L'empêcher de quoi ?
 
 Étienne se retourna. Il avait le visage de quelqu'un qui n'a pas dormi depuis des semaines, ce qui était à peu près le cas.
 
-— Je ne sais pas, Sophia. Je ne sais pas ce qu'il y a dans ma tête. Je ne sais pas qui c'est. Je sais seulement que ce type passe ses nuits avec elle, sur le barrage, avec mes jambes, ma voix, mon manteau, et qu'il lui ment.
+— Je ne sais pas, Sophia. Je ne sais pas ce qu'il y a dans ma tête. Je ne sais pas qui c'est. Je sais seulement que ce type passe ses nuits avec elle, sur le barrage, avec mes jambes, ma voix, mon manteau.
 
 ---
 
-*Il y a quelqu'un dans Étienne qui veut que la Rouille arrive. Il sait que tu es en moi. Il veut t'empêcher de faire ce que tu es venue faire, le 14. Il a écrit « la boucle doit tourner ».*
+*Il y a quelqu'un dans Étienne qui veut que la Rouille arrive. Il veut t'empêcher de faire ce que tu es venue faire, le 14. Il a écrit « la boucle doit tourner ».*
 
 *Je recopie mot pour mot ce qu'il y avait sur la feuille.*
 

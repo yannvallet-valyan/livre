@@ -36,7 +36,7 @@ Elle s'approcha. Elle ne voulait pas lire. Elle lut. Elle avait passé sa vie à
 
 L'écriture était fine, régulière, presque typographique. Une écriture d'ingénieur, de cartographe.
 
-*Tour 47. J + 44.*
+*Tour 47. J + 37.*
 
 *Variable É. : seule cette nuit. Écart de comportement : elle revient sans N. Probabilité qu'elle lise ce cahier : élevée. Laisser ouvert.*
 
