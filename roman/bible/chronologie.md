@@ -39,7 +39,7 @@
    - **Âge de Sophia :** née le 12 novembre 1988, elle a **37 ans** jusqu'au 11 novembre 2026, **38 ans** le 12.
    - **Registres d'Anselme :** cahiers numérotés de **1 (1980) à 47 (2026)** ; 1986 = cahier 7, 1988 = cahier 9. Les « quarante-six ans » désignent la durée (1980-2026), pas le nombre de cahiers.
    - **Jauge :** lundi 28 septembre 7 h 12 = **411,71** ; jeudi 1er octobre 7 h 12 = **411,52**.
-   - **Famille d'Élise :** Paul rouille en **2118** (Élise a 15 ans), Marthe s'éteint en **2124** (six ans d'écart). Iris naît en 2130, **27 ans** après la naissance d'Iris la mère (2103).
+   - **Famille d'Élise :** Paul rouille en **2118** (Élise a 15 ans), Marthe s'éteint en **2124** (six ans d'écart). Dans la ligne B, Iris naît en 2103 et sa fille Élise en 2130 (**27 ans** plus tard).
    - **Générations :** Hugo (2007) est le grand-père du grand-père de Noé ; Mathis (2017) est l'arrière-arrière-grand-père d'Iris.
    - **Ruben** n'écrit que « *Noé.* » dans le registre rouge (pas de nom de famille) : le nom Marle ne doit pas apparaître avant le chapitre « Le lit vide ».
 
