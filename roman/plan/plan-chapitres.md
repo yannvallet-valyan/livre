@@ -2,7 +2,7 @@
 
 > ⚠️ Contient toutes les révélations. Mécanique : `bible/chronologie.md`. Indices : §7 de ce même fichier.
 
-**État :** premier jet complet, environ 62 500 mots, soit environ 225 pages. Il comprend un prologue, 25 chapitres, 3 interludes, un épilogue, une coda et une annexe. Objectif : environ 70 000 mots, à obtenir en étoffant chaque chapitre.
+**État :** premier jet complet  environ 63 700 mots  soit environ 232 pages. Il comprend un prologue  36 chapitres  7 interludes  un épilogue  une coda et une annexe.
 
 **Structure :** trois époques entrelacées, à la manière de *Dark* :
 - **1980-1991** : Anselme et Hélène ;
@@ -104,12 +104,13 @@
 | `34-la-nuit-de-noe.md` | Chapitre 29 — La nuit de Noé | 1213 |
 | `35-huit-ans.md` | Chapitre 30 — Huit ans | 1509 |
 | `36-trois-portes.md` | Chapitre 31 — Trois portes | 1478 |
-| `37-ce-que-je-ne-pouvais-pas-te-dire.md` | Chapitre 32 — Ce que je ne pouvais pas te dire | 1548 |
+| `37-ce-que-je-ne-pouvais-pas-te-dire.md` | Chapitre 32 — Ce que je ne pouvais pas te dire | 1534 |
 | `38-le-mur.md` | Chapitre 33 — Le mur | 1146 |
 | `39-le-13-novembre.md` | Chapitre 34 — Le 13 novembre | 2149 |
 | `40-interlude-iris.md` | Interlude — Iris | 1534 |
-| `41-la-derniere-nuit.md` | Chapitre 35 — La dernière nuit | 2384 |
-| `42-le-matin.md` | Chapitre 36 — Le matin | 2280 |
-| `43-epilogue-la-page-blanche.md` | Épilogue — La page blanche | 1878 |
-| `44-coda.md` | Coda | 991 |
-| `45-annexe.md` | Annexe — Le cahier noir | 444 |
+| `41-la-derniere-nuit.md` | Chapitre 35 — La dernière nuit | 2500 |
+| `42-le-matin.md` | Chapitre 36 — Le matin | 2325 |
+| `43-interlude-anne.md` | Interlude — Lyon, hiver 2033 | 1100 |
+| `44-epilogue-la-page-blanche.md` | Épilogue — La page blanche | 1878 |
+| `45-coda.md` | Coda | 991 |
+| `46-annexe.md` | Annexe — Le cahier noir | 437 |

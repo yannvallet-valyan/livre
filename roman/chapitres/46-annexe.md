@@ -42,6 +42,10 @@
 
 ---
 
+*Je n'ai pas observé la nuit du 13. Je commence à croire que c'était la seule chose qu'il fallait observer.*
+
+---
+
 *Tour 48 : préparer l'entrée par la ligne B.*
 
 *Question ouverte, la seule qui compte, celle que je pose depuis le tour 1 et que je n'ai pas le droit de poser ailleurs que sur cette page :*

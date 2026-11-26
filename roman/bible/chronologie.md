@@ -207,3 +207,19 @@ Personne n'est méchant.
   - dans le cahier noir de K., une **ligne raturée**, sans un mot sur Anne.
 - **L'ellipse :** « Ils franchirent le mètre. » Rien d'autre.
 - **L'écho thématique :** « Qui a fait Anne ? » rejoint, sans qu'on le dise, la question de K. : *qui, de nous tous, a commencé ?*
+
+
+## 11. Le doute révélé : amorce du tome 2 (révision 7)
+
+- **La scène (interlude « Lyon, hiver 2033 ») :** Anne, 6 ans, nomme sur le balcon les étoiles qu'Élise et Noé ont baptisées sur le barrage la dernière nuit, entre 4 h et 5 h : *Iris* (la toute petite à gauche de la ceinture d'Orion), *Biscotte*, *Ruben*, et « un monsieur qui épluchait des légumes » (Matthias).
+- **Pourquoi c'est un indice fort et pas une preuve :**
+  - Sophia a tout reçu d'Élise le 14 novembre à 9 h 40, **sauf cette nuit-là**, qu'elle avait refusé de connaître. Elle ne connaît donc pas ces noms d'étoiles, et Étienne non plus.
+  - Anne, si. Le savoir ne peut venir que de la nuit du 13 au 14.
+  - Cela n'exclut pas d'autres voies du résidu. Le doute reste ouvert.
+- **La réaction :** Sophia ne pose aucune question. Elle ouvre la dernière page blanche du carnet et ne l'écrit pas. *« Ce soir-là, pour la première fois, Sophia Varenne se demanda de qui sa fille était la fille. »*
+- **L'écho chez K. (annexe) :** *« Je n'ai pas observé la nuit du 13. Je commence à croire que c'était la seule chose qu'il fallait observer. »*
+- **Les pistes pour le tome 2 :**
+  - **Anne** comme personnage central (de 2027 à 2090, jusqu'à la guerre de l'eau) : porte-t-elle Élise et Noé plus qu'un simple résidu ?
+  - **L'enquête de K.** sur la nuit non observée, et le lien entre « qui a fait Anne ? » et « qui a commencé ? ».
+  - **Les gènes ne tranchent rien** (ce sont ceux de Sophia et d'Étienne dans les deux cas). Il faudra une enquête, pas un test.
+  - Les autres amorces déjà posées : 1958 et l'homme en blanc, Oriane qui compte jusqu'à 60, Léa Kerr, le tour 48.
