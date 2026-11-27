@@ -67,7 +67,14 @@
 - Le chef-lieu est à 14 km de Vallorce-le-Bas ; Grenoble est la préfecture (car de 6 h 40, 3 h 20).
 
 ## Décisions d'écriture V3.25 (tome 2)
-- **Sacha** : rouillé en déc. 2064-févr. 2065 ; le 11→12 févr. 2065 Théo lui pose un éclat sur le front (« la porte ») ; mort déclarée une semaine plus tard ; **enterré** à Vallorce. Théo disparaît **la nuit de l'enterrement** (mot : « Pardon. Je ne pouvais pas faire autrement. Compte. — T. »).
+- **Sacha** : rouillé de l'automne 2064 à déc. 2065 ; le 11→12 déc. 2065 Théo lui pose un éclat sur le front (« la porte ») ; mort déclarée une semaine plus tard ; **enterré** à Vallorce. Théo disparaît **la nuit de l'enterrement** (mot : « Pardon. Je ne pouvais pas faire autrement. Compte. — T. »).
 - **Ch. 30 (à écrire)** : Iris et Étienne **exhument** Sacha en hiver 2065-66 ; Étienne prélève l'éclat (« un donneur »), sans savoir pourquoi. Iris trouve la cache de Théo (« Que la boucle tourne »).
 - **K. (1958)** : première mesure la nuit du 13→14 nov., dans Walther ; cahier « Variable inconnue. Hôte R.R. » ; il donne sa **lampe de poche** à Rose-Iris, qui la pose sur le paillasson (épilogue). Iris se tait pour qu'il devienne K.
 - Odette dit « Cinquante-neuf » à la porte de Rose, sans « soixante ».
+
+## Tome 2 : faits fixés à l'écriture (V3.27)
+- Iris part de **Lyon** (appartement de Sophia) le **2-4 janv. 2066**, sur le lit de sa mère, Étienne (85 ans) la veille. À 58 elle retrouve le nom « Sacha » ; à 59 elle s'arrête ; elle l'oublie à son arrivée (ch. 1).
+- 14 nov. 1958, 6 h : vanne fermée ; Iris dort au fond de Rose, qui ne l'entendra plus. La lampe de K. reste sur le seuil, Rose la retrouve sur une pierre du belvédère, la garde 41 ans (« elle marchait encore »).
+- Rose † octobre 1999 à 67 ans ; épitaphe « Et la maison. » ; en nov. 2026 un visiteur inconnu écrit « Et lui. » à la craie, puis la gravure apparaît. Origine non fixée (candidats : Iris du présent, K., Kerr).
+- Hélène a rencontré Anselme vers 1985-86 (apparition devant la porte du Haut, « la mère d'Anselme »).
+- **Étienne** : grand-père de Sacha sans le savoir ; « Un donneur. Il ne s'en servait plus » ; « Si tu pars, je serai là ».

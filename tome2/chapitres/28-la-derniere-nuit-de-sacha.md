@@ -4,7 +4,7 @@
 
 À quinze ans, Sacha ne comptait plus.
 
-Il avait cessé de le faire à l'automne 2064, un peu après son anniversaire. Les premières semaines, Iris n'avait pas osé s'en réjouir. Elle l'observait à table, à la dérobée : il mangeait peu, parlait peu, souriait de temps en temps, d'un sourire en retard sur lui-même. Il ne dessinait plus de maison. Il ne chantait plus. Il avait des absences, de plus en plus longues, de plus en plus profondes, où il restait immobile, une cuillère à la main, les yeux dans le vague.
+Il avait cessé de le faire à l'automne 2064. Les premières semaines, Iris n'avait pas osé s'en réjouir. Elle l'observait à table, à la dérobée : il mangeait peu, parlait peu, souriait de temps en temps, d'un sourire en retard sur lui-même. Il ne dessinait plus de maison. Il ne chantait plus. Il avait des absences, de plus en plus longues, de plus en plus profondes, où il restait immobile, une cuillère à la main, les yeux dans le vague.
 
 Il oublia d'abord les visages.
 
@@ -16,7 +16,7 @@ Iris le lavait, l'habillait, le nourrissait. Elle lui parlait de sa voix douce, 
 
 ---
 
-Il rouilla complètement dans la nuit du 11 au 12 février 2065.
+Il rouilla complètement dans la nuit du 11 au 12 décembre 2065.
 
 Elle ne le sut qu'après. Elle dormait, épuisée, dans la chambre voisine. Elle ne s'était pas réveillée à l'heure habituelle. Quelque chose l'avait gardée dans le sommeil, avec une lourdeur anormale, comme si on avait posé une main sur sa tête. Elle se rappela plus tard que Théo, la veille au soir, avait insisté pour lui préparer une tisane.
 
@@ -60,6 +60,6 @@ Il ne s'était pas réveillé. Il respirait, les yeux ouverts, dans le lit défa
 
 Théo était assis près du lit, les mains jointes, le visage gris. Il avait veillé toute la nuit. Il leva les yeux vers elle quand elle entra, et elle comprit qu'il savait qu'elle savait. Il ne dit rien. Elle ne dit rien non plus. Elle aurait voulu hurler. Elle n'en eut pas la force, ni le droit : il y avait entre eux, sur ce lit, un petit garçon qui ne les regardait plus.
 
-Une semaine plus tard, Sacha mourut. C'est ce que dit Étienne. C'est ce qu'écrivit le médecin dans un certificat de décès, de sa main tremblante : *arrêt cardiaque, atrophie corticale terminale, quinze ans.* On l'enterra à Vallorce, un matin de gel. Iris resta debout devant la tombe, une heure, dans le vent. Elle n'avait plus de larmes.
+Une semaine plus tard, Sacha mourut. C'est ce que dit Étienne. C'est ce qu'écrivit le médecin dans un certificat de décès, de sa main tremblante : *arrêt cardiaque, atrophie corticale terminale, quinze ans.* On l'enterra à Vallorce le 19 décembre, un matin de gel. Iris resta debout devant la tombe, une heure, dans le vent. Elle n'avait plus de larmes.
 
 Théo se tenait à côté d'elle. Il ne la toucha pas. Il regardait le cercueil descendre, avec l'attention de quelqu'un qui compte.
