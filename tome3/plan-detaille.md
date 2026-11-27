@@ -13,7 +13,7 @@
 | 9 bis `09b-ce-quelle-choisit` | 2153-2155 | Iris et Walther ; elle le choisit en connaissance de cause ; Kerr conçu ; nom « Kerr » voulu par elle ✅ |
 | 11 `11-le-registre-rouge` | 14 nov. 2159 | Ruben : 43 carnets cachés ; il sait que Sacha se trompe ✅ |
 | 11 bis `11b-le-cahier-partage` | 2159-2160 | Iris porte la page à Sacha ; Sacha et Walther s'écrivent dans les marges d'un même cahier ; « Il a un père. Je suis heureux de l'apprendre » ✅ |
-| à écrire | 2156 | Naissance de Kerr au dortoir B (Ruben tient l'enfant ; Sacha est dans la galerie) |
+| 12 `12-la-naissance` | 3 mai 2156 | Naissance de Kerr, coupure de lampes ; Ruben tient l'enfant ; Walther arrive à l'aube, pleure ; Sacha arrive le soir, croit être le père (« Père : moi ») ✅ |
 | à écrire | 2160 | Iris du présent à Vallorce (Odette) : **elle y croise Walther vivant, qui ne la connaît pas** ; elle ment à l'autre Iris (« je te dirai comment sauver ton fils ») ; plus tard, elle comprend « Quelqu'un doit être là » |
 | à écrire | 2164 | Iris part (Mathis). Elle laisse Kerr (8 ans) à Agathe. Walther et Sacha se partagent le corps de Tobie ; Walther s'efface (il ne veut pas voler une enfance) |
 | à écrire | 2165-2180 | Kerr grandit, croit que K. est son père (le cahier), apprend l'écriture fine ; Mael ; Agathe ; départ 2180 |
@@ -68,7 +68,7 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
 
 **12. R · 2156 · Kerr naît.** Dans le dortoir B, une nuit de coupure de lampes. Ruben tient l'enfant, parce que personne d'autre n'est là. Sacha n'est pas à la naissance : il est dans la galerie du refuge, à mesurer. *Coût :* le père n'était pas là. *(maillon 19)*
 
-**13. O · oct. 2026, tour 47.** Il est tard. Kerr retire à **Sophia** son badge. Il le fait avec une politesse d'assassin. Il sait qu'elle ira voir Étienne le soir même, qu'elle y passera la nuit, qu'elle s'y réveillera avec Élise. **Il veut que l'histoire arrive vite.** *Coût :* Sophia, qui n'a rien demandé. *(maillon 20)*
+**13. O · 6 nov. 2026, tour 47. ✅ (`13-le-badge`)** Il est tard. Kerr retire à **Sophia** son badge. Il le fait avec une politesse d'assassin. Il sait qu'elle ira voir Étienne le soir même, qu'elle y passera la nuit, qu'elle s'y réveillera avec Élise. **Il veut que l'histoire arrive vite.** *Coût :* Sophia, qui n'a rien demandé. *(maillon 20)*
 
 **14. S · 2026-2046.** Kerr, resté dans Bastien le jour, voit Bastien devenir le patron de Léthé. Il regarde le tour brisé s'écrire : Sophia fuit, Étienne l'appelle, le gisement est emporté à Genève, les pilules. Il ne peut rien arrêter : **s'il arrête, Iris du passé ne naît pas.** *Coût :* des milliers de rouillés, qu'il choisit de ne pas empêcher. *(maillon 7, 9)*
 
