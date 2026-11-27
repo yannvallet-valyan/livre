@@ -4,7 +4,7 @@
 
 Vallorce, en 2046, avait une digue de quatre cents mètres, un lac plein à ras bord et une population de trois cent quarante habitants, dont la moitié travaillait pour un laboratoire qu'on n'appelait jamais par son nom.
 
-Iris y arriva avec une valise et une lettre. Elle ne trouva pas le médecin de la lettre. Elle trouva un homme de soixante-six ans, aux mains lentes, au sourcil gauche barré d'une cicatrice, qui lut l'enveloppe devant sa porte, sur le seuil de son cabinet de la place de l'église, et qui resta longtemps immobile, la page entre les doigts, sans rien dire. Puis il l'invita à entrer. Il lui prépara un chocolat chaud. Il lui demanda son nom.
+Iris y arriva avec une valise et une lettre. Elle ne trouva pas le médecin de la lettre. Elle trouva un homme de soixante-six ans, aux mains lentes, au sourcil gauche barré d'une cicatrice, qui lut l'enveloppe devant sa porte, sur le seuil de son cabinet de la place de l'église, et qui resta immobile, la page entre les doigts, sans rien dire. Puis il l'invita à entrer. Il lui prépara un chocolat chaud. Il lui demanda son nom.
 
 — Iris.
 
@@ -12,7 +12,7 @@ Iris y arriva avec une valise et une lettre. Elle ne trouva pas le médecin de l
 
 — Varenne.
 
-Il hocha la tête. Il y avait dans son regard quelque chose qu'elle ne sut pas nommer : une tendresse de vieillard, de celles qu'on réserve aux enfants qu'on n'a pas eus. Il dit : « Elle écrivait bien, votre mère. » Il dit : « Vous resterez ici. J'ai besoin d'une infirmière. » Il ne lui demanda rien d'autre. Elle le crut. Elle eut tort de le croire aussi vite, ou raison.
+Il hocha la tête. Il y avait dans son regard une tendresse de vieillard, de celles qu'on réserve aux enfants qu'on n'a pas eus. Il dit : « Elle écrivait bien, votre mère. » Il dit : « Vous resterez ici. J'ai besoin d'une infirmière. » Il ne lui demanda rien d'autre. Elle le crut. Elle eut tort de le croire aussi vite, ou raison.
 
 ---
 
@@ -22,7 +22,7 @@ Elle occupait une chambre mansardée, au-dessus du cabinet, avec un lit de fer, 
 
 Elle se levait à six heures. Elle descendait à la cuisine. Étienne était déjà là, en robe de chambre, devant une cafetière italienne qu'il astiquait comme un trophée. Il lui servait du chocolat chaud, qu'il faisait lui-même, avec du vrai chocolat noir râpé dans du lait entier. Ils mangeaient sans parler. Il lisait le journal, en le tenant très loin des yeux, avec des grognements qui voulaient dire *tiens* ou *encore*. Elle regardait par la fenêtre le lac gelé, la brume, le chemin de halage. Elle se disait qu'elle avait trouvé un endroit où l'on pouvait ne pas dire.
 
-Le soir, elle marchait. Elle faisait le tour de la place, puis celui du lac. Elle passait devant la maison blanche des Kerr, devant l'église, devant le café où les hommes jouaient aux cartes. Elle se sentait invisible, comme on l'est quand on ne demande rien. Elle s'arrêtait parfois au bord de l'eau et se tenait là, longtemps, à écouter. Elle cherchait le chant. Il n'y avait pas de chant. Il y avait seulement, sous la glace, un très faible bourdonnement, qu'elle croyait avoir inventé.
+Le soir, elle marchait. Elle faisait le tour de la place, puis celui du lac. Elle passait devant la maison blanche des Kerr, devant l'église, devant le café où les hommes jouaient aux cartes. Elle se sentait invisible. Elle s'arrêtait parfois au bord de l'eau et se tenait là, à écouter. Elle cherchait le chant. Il n'y avait pas de chant. Il y avait seulement, sous la glace, un très faible bourdonnement, qu'elle croyait avoir inventé.
 
 ---
 
@@ -32,7 +32,7 @@ Elle marchait sur le chemin de halage, les mains dans les poches, sans but, parc
 
 Un garçon était assis sur le muret, les jambes ballantes, un caillou à la main.
 
-Il avait dix-sept ans. Il en paraissait vingt-cinq, par une gravité de pasteur, par une façon d'avoir toujours déjà fini la phrase qu'on commençait. Maigre, brun, les tempes un peu creuses, les yeux d'un gris de glaise. Il ne se leva pas. Il ne la regarda pas non plus. Il lança le caillou dans l'eau. Il le fit rebondir sept fois, très régulièrement, comme on compte.
+Il avait dix-sept ans. Il en paraissait vingt-cinq, par une gravité de pasteur, par une façon d'avoir toujours déjà fini la phrase qu'on commençait. Maigre, brun, les tempes un peu creuses, les yeux d'un gris de glaise. Il ne se leva pas. Il ne la regarda pas non plus. Il lança le caillou dans l'eau. Il le fit rebondir sept fois, très régulièrement.
 
 — Vous êtes en avance, dit-il.
 
@@ -54,7 +54,7 @@ Ce n'était pas vrai. Elle ne le releva pas.
 
 Elle l'aima à la seconde où elle le vit.
 
-Elle ne l'aurait pas formulé ainsi. Elle aurait dit : *il me plaît*, *il m'intrigue*, *il est étrange*. Elle ne se serait pas avoué qu'à l'instant où il avait fait rebondir son caillou, quelque chose en elle s'était détendu, comme un muscle qu'on lâche après trop longtemps. Elle le revit le lendemain, puis tous les jours. Il l'attendait, sur le muret, un livre à la main, ou dans la salle d'attente du docteur, sous prétexte d'un rhume. Il parlait peu. Il écoutait comme on écoute une chanson dont on connaît les paroles.
+Elle ne l'aurait pas formulé ainsi. Elle aurait dit : *il me plaît*, *il m'intrigue*, *il est étrange*. Elle ne se serait pas avoué qu'à l'instant où il avait fait rebondir son caillou, elle s'était détendue, comme un muscle qu'on lâche après trop longtemps. Elle le revit le lendemain, puis tous les jours. Il l'attendait, sur le muret, un livre à la main, ou dans la salle d'attente du docteur, sous prétexte d'un rhume. Il parlait peu. Il écoutait.
 
 Il lui apprit qu'il était le fils de Bastien Kerr, directeur de Léthé, dont la grande maison blanche dominait la place. Qu'il avait eu un frère, avant lui, qu'on avait appelé Théo aussi et qui s'était noyé à cinq ans dans un lac d'Annecy. Qu'il portait le nom d'un mort. Qu'on ne l'aimait pas, chez lui, parce qu'il lui ressemblait trop.
 

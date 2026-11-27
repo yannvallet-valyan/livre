@@ -18,7 +18,7 @@ Elle ne dit rien pendant onze jours. Elle ne dit pas le nom de l'homme, ni celui
 
 Elles vécurent ainsi, côte à côte, en silence, avec des gestes qui se frôlaient sans se toucher. Hélène se levait à six heures, mettait l'eau à chauffer, faisait du thé. Sophia se levait à sept, s'asseyait en face d'elle, buvait. Hélène lisait le journal, à voix basse, par bribes. Elle disait : « Il y a eu une inondation dans le Gard. » Elle disait : « Ils ont retrouvé la fille. » Elle disait : « Tu veux du pain ? » Sophia répondait par un mot, puis par un autre, puis, le sixième jour, par une phrase entière. Elle dit : « Je n'ai plus de travail. » Hélène dit : « On verra. »
 
-Sophia téléphona à l'agence de l'eau, le huitième jour. Elle prétendit une urgence familiale. Une jeune femme lui répondit, avec une gentillesse sans mémoire, qu'on lui adresserait les papiers. Elle dit merci. Elle resta longtemps debout dans le couloir, le combiné à la main, devant le miroir où elle se voyait mal : un visage mince, aux pommettes marquées, aux cheveux déjà gris au-dessus des tempes. Elle trouva qu'elle ressemblait à sa mère. Elle trouva aussi, pour la première fois, que ce n'était pas une insulte.
+Sophia téléphona à l'agence de l'eau, le huitième jour. Elle prétendit une urgence familiale. Une jeune femme lui répondit, avec une gentillesse sans mémoire, qu'on lui adresserait les papiers. Elle dit merci. Elle resta debout dans le couloir, le combiné à la main, devant le miroir où elle se voyait mal : un visage mince, aux pommettes marquées, aux cheveux déjà gris au-dessus des tempes. Elle trouva qu'elle ressemblait à sa mère. Elle trouva aussi, pour la première fois, que ce n'était pas une insulte.
 
 ---
 
@@ -34,7 +34,7 @@ Le onzième matin, Sophia se pencha au-dessus de l'évier et vomit, et Hélène,
 
 — Octobre ?
 
-Sophia hocha la tête. Hélène fit un calcul rapide, du bout des doigts, sans quitter sa fille des yeux. Ce n'était pas un calcul de médecin. C'était celui d'une femme qui en a fait un, il y a longtemps, avec une enfant dans le ventre et la peur d'un homme qui chantait.
+Sophia hocha la tête. Hélène fit un calcul rapide, du bout des doigts, sans quitter sa fille des yeux. Ce n'était pas un calcul de médecin. C'était celui d'une femme qui en a fait un, il y a, avec une enfant dans le ventre et la peur d'un homme qui chantait.
 
 — Juillet, dit-elle.
 
@@ -42,7 +42,7 @@ Sophia hocha la tête.
 
 — Tu sais de qui ?
 
-Sophia ne répondit pas. Elle regardait le carrelage, un damier rouge et blanc, usé près de l'évier à l'endroit où l'on se tient debout pour laver. Hélène attendit, longtemps, avec la patience de quelqu'un qui sait exactement ce qu'elle va entendre.
+Sophia ne répondit pas. Elle regardait le carrelage, un damier rouge et blanc, usé près de l'évier à l'endroit où l'on se tient debout pour laver. Hélène attendit, avec la patience de quelqu'un qui sait exactement ce qu'elle va entendre.
 
 — Je ne sais pas, dit enfin Sophia.
 
@@ -68,7 +68,7 @@ Hélène essuya ses mains sur un torchon. Elle avait les doigts tachés par la c
 
 — Ne retourne pas là-bas. Jamais. Promets-le-moi.
 
-Sophia sentit quelque chose se refermer, très doucement, au fond d'elle. Elle avait déjà entendu cette phrase. Elle l'avait lue dans une lettre de 2009, dans une boîte à chaussures qu'elle n'avait pas emportée. Elle n'y avait jamais répondu. Elle l'avait trahie quand même, quatre mois plus tôt, en signant un contrat de travail pour une vallée dont elle n'aurait jamais dû connaître le nom.
+Au fond d'elle, très doucement, Sophia se referma. Elle avait déjà entendu cette phrase. Elle l'avait lue dans une lettre de 2009, dans une boîte à chaussures qu'elle n'avait pas emportée. Elle n'y avait jamais répondu. Elle l'avait trahie quand même, quatre mois plus tôt, en signant un contrat de travail pour une vallée dont elle n'aurait jamais dû connaître le nom.
 
 — Je te le promets, dit-elle.
 
@@ -76,7 +76,7 @@ Elle le dit sans y croire. Hélène la serra contre elle, plus fort qu'elle ne l
 
 ---
 
-Il y eut ensuite les rendez-vous. Le médecin, d'abord, un grand type fatigué, qui lui demanda si elle avait « un projet ». Elle dit non. Il hocha la tête, nota quelque chose, lui tendit une ordonnance pour des vitamines. L'échographie, ensuite, dans un cabinet du sixième arrondissement, où une jeune femme lui passa sur le ventre une sonde froide, sans un mot, les yeux sur l'écran. Il y avait, dans la lumière grise, quelque chose de très petit, de très net, qui battait. Sophia le regarda longtemps.
+Il y eut ensuite les rendez-vous. Le médecin, d'abord, un grand type fatigué, qui lui demanda si elle avait « un projet ». Elle dit non. Il hocha la tête, nota quelque chose, lui tendit une ordonnance pour des vitamines. L'échographie, ensuite, dans un cabinet du sixième arrondissement, où une jeune femme lui passa sur le ventre une sonde froide, sans un mot, les yeux sur l'écran. Il y avait, dans la lumière grise, un point très petit, très net, qui battait. Sophia le regarda.
 
 — Tout va bien, dit la jeune femme. Vous voulez entendre ?
 
@@ -96,4 +96,4 @@ Elle écrivit à Étienne en novembre. Quatre pages, à l'encre bleue. Elle les 
 
 Elle la posterait un jour. Elle ne la posta jamais.
 
-Le 14 novembre, elle apprit par la radio qu'un laboratoire suisse venait d'extraire, « dans des conditions de sécurité exemplaires », un gisement minéral d'un lac des Alpes. Elle éteignit le poste. Elle resta longtemps debout dans la cuisine, la main sur le ventre, qu'elle ne retira pas cette fois.
+Le 14 novembre, elle apprit par la radio qu'un laboratoire suisse venait d'extraire, « dans des conditions de sécurité exemplaires », un gisement minéral d'un lac des Alpes. Elle éteignit le poste. Elle resta debout dans la cuisine, la main sur le ventre, qu'elle ne retira pas cette fois.

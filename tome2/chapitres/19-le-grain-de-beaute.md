@@ -4,7 +4,7 @@
 
 Ils vécurent ensemble quatre ans, dans la maison d'en haut.
 
-Étienne leur avait cédé les deux pièces au-dessus du cabinet, avec le poêle et la vue sur la place. Il n'avait posé aucune condition. Il montait le soir, trois marches à la fois pour un homme de soixante-huit ans, déposer sur la table un pain, un bocal de confiture, un livre qu'il avait aimé. Il disait : « Je ne veux pas déranger. » Puis il restait. Iris faisait du thé. Théo, qui ne mangeait presque pas, regardait le vieux médecin avec un respect étrange, une douceur très ancienne, comme on regarde le portrait d'un homme qu'on n'a pas connu.
+Étienne leur avait cédé les deux pièces au-dessus du cabinet, avec le poêle et la vue sur la place. Il n'avait posé aucune condition. Il montait le soir, trois marches à la fois pour un homme de soixante-huit ans, déposer sur la table un pain, un bocal de confiture, un livre qu'il avait aimé. Il disait : « Je ne veux pas déranger. » Puis il restait. Iris faisait du thé. Théo, qui ne mangeait presque pas, regardait le vieux médecin avec un respect étrange, une douceur très ancienne.
 
 Elle apprit le métier d'infirmière en un an. Elle apprit à poser des sutures, à retourner un malade sans lui faire mal, à tenir la main de ceux qui s'en vont sans les retenir. Étienne l'observait, le sourcil gauche un peu plissé. Il lui apprit le geste pour calmer un enfant qui hurle : la main à plat sur le sternum, le pouce immobile. Il le fit une fois, devant elle, sur un nourrisson. Elle lui dit :
 
@@ -30,7 +30,7 @@ Il était à côté d'elle toutes les nuits. Il lui tenait la main. Il restait l
 
 — Je te regarde.
 
-Elle riait. Elle le crut longtemps. Il y avait dans son regard une telle fixité, une telle tendresse sans reste, qu'elle n'imaginait pas qu'on puisse regarder ainsi quelqu'un sans l'aimer.
+Elle riait. Elle le crut. Il y avait dans son regard une telle fixité, une telle tendresse sans reste, qu'elle n'imaginait pas qu'on puisse regarder ainsi quelqu'un sans l'aimer.
 
 Il l'aimait. Elle n'en douta jamais. C'est plus tard, bien plus tard, qu'elle se demanda s'il avait choisi de l'aimer ou s'il l'avait trouvé écrit.
 
@@ -42,7 +42,7 @@ Elle fut enceinte tout l'été 2049 sans le dire à personne.
 
 Elle le comprit à la fin de juin, un matin de chaleur, en se penchant sur un patient. Elle eut un vertige. Elle s'appuya à la table. Étienne la regarda, par-dessus ses lunettes. Il ne dit rien. Il lui apporta un verre d'eau. Il lui dit, avec cette douceur de vieux médecin qui sait lire les visages : « Assieds-toi. »
 
-Elle dit : « Je suis fatiguée. » Il répondit : « Oui. » Il alla chercher dans l'armoire un test, qu'il posa devant elle, sans un mot. Elle le regarda. Elle le prit. Elle comprit, en un quart d'heure, ce qu'elle savait déjà. Elle ne pleura pas. Elle resta longtemps assise sur le bord de la table d'examen, les mains sur le ventre, avec une expression d'étonnement très grande, un peu enfantine.
+Elle dit : « Je suis fatiguée. » Il répondit : « Oui. » Il alla chercher dans l'armoire un test, qu'il posa devant elle, sans un mot. Elle le regarda. Elle le prit. Il lui fallut un quart d'heure pour accepter ce qu'elle savait déjà. Elle ne pleura pas. Elle resta assise sur le bord de la table d'examen, les mains sur le ventre, avec une expression d'étonnement très grande, un peu enfantine.
 
 — Tu veux le garder ? demanda Étienne.
 
@@ -90,7 +90,7 @@ Les douleurs avaient commencé à la tombée du jour, un dimanche, dans la cuisi
 
 — Tout ce qu'il y avait.
 
-Il avait un sourire fragile. Elle le regarda. Elle comprit qu'il avait peur. Pas de l'accouchement : de quelque chose d'autre, qu'il portait depuis longtemps, comme un homme qui va retirer un sparadrap. Elle posa sa main sur sa joue. Elle dit : « Ça va bien se passer. » Il répondit : « Oui. » Il ferma les yeux contre sa paume. Il ajouta : « Je sais. »
+Il avait un sourire fragile. Elle le regarda. Il avait peur. Pas de l'accouchement : de quelque chose d'autre, qu'il portait depuis longtemps, comme un homme qui va retirer un sparadrap. Elle posa sa main sur sa joue. Elle dit : « Ça va bien se passer. » Il répondit : « Oui. » Il ferma les yeux contre sa paume. Il ajouta : « Je sais. »
 
 Étienne était arrivé à minuit, en robe de chambre, avec sa mallette et une bouteille thermos. Il avait ausculté Iris, puis soupiré. Il s'était assis au pied du lit. Il avait dit : « On va attendre. » Il avait attendu. Il avait parlé de tout et de rien : de la neige qui tombait, du maire qui avait gagné une vache, de l'époque où l'on accouchait à la maison et où l'on ne s'en portait pas plus mal. Elle avait ri, entre deux contractions. Il lui avait tenu la main.
 
@@ -116,7 +116,7 @@ Il ne dit rien. Il rendit l'enfant à sa mère. Il sortit de la chambre. Dans l'
 
 Elle nomma son fils Sacha. Elle ne sut pas pourquoi non plus. Le prénom était venu avec l'enfant, entier, comme un objet qu'on sort d'une poche.
 
-Théo le tint dans ses bras la nuit suivante, longtemps, sans parler. Il le regardait comme on regarde un monument. Elle le vit tendre un doigt, que le bébé saisit dans son poing. Elle vit son visage se défaire, à la lueur de la lampe, avec une expression qu'elle ne lui connaissait pas : un chagrin immense, sans larme, de ceux qui savent exactement à quoi ils ont condamné quelqu'un.
+Théo le tint dans ses bras la nuit suivante, sans parler. Il le regardait comme on regarde un monument. Elle le vit tendre un doigt, que le bébé saisit dans son poing. Elle vit son visage se défaire, à la lueur de la lampe, avec une expression qu'elle ne lui connaissait pas : un chagrin immense, sans larme, de ceux qui savent exactement à quoi ils ont condamné quelqu'un.
 
 — Qu'est-ce que tu as ? demanda-t-elle.
 

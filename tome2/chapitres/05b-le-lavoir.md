@@ -6,7 +6,7 @@ Le vieux lavoir de Vallorce-le-Bas se trouvait en contrebas du village, à l'abr
 
 Iris s'y rendit la nuit suivante, vers trois heures, en châle, pieds nus sur la terre sèche.
 
-Elle ne l'avait pas décidé non plus. Elle était simplement sortie, comme on sort pour rejoindre quelqu'un, et ses pas l'avaient menée là. Le ciel était noir, constellé. À gauche, très haut, des projecteurs blancs marquaient le couronnement du barrage, et plus bas, au pied du mur, des lanternes de camions.
+Elle ne l'avait pas décidé non plus. Elle était simplement sortie, et ses pas l'avaient menée là. Le ciel était noir, constellé. À gauche, très haut, des projecteurs blancs marquaient le couronnement du barrage, et plus bas, au pied du mur, des lanternes de camions.
 
 Elle s'arrêta sur le seuil du lavoir.
 
@@ -48,11 +48,11 @@ Elle s'était arrêtée trois fois, sur le sentier, devant des ombres qui n'éta
 
 Elle avait appris, dans les carnets de Théo, à se méfier de ceux qui disent la vérité trop tôt. Elle avait appris, par expérience, à se méfier de ceux qui mentent. Elle ne savait pas comment on se fiait à quelqu'un dont on ne connaissait ni l'âge, ni l'époque, ni les intentions. Elle pensa à Rose, qui se fiait à tout le monde, avec la naïveté têtue des gens qui n'ont pas le choix.
 
-Elle entra. Elle s'assit. Elle trempa ses pieds. Elle comprit qu'elle venait de faire, sans le décider, ce que Rose aurait fait.
+Elle entra. Elle s'assit. Elle trempa ses pieds. Sans le décider, elle venait de faire ce que Rose aurait fait.
 
 ---
 
-Elles parlèrent longtemps. Pas de ce qu'on aurait cru. Pas de lac, ni de barrage, ni de mission. Elles parlèrent du compte, de la façon dont il fallait s'asseoir pour ne pas se faire refuser par un corps, des mots qu'on perdait le matin, du goût des choses. L'autre avait perdu *aubépine*. Iris, *chevreuil*. Elles se les rendirent à tour de rôle, comme deux ouvrières qui échangent des outils.
+Elles parlèrent. Pas de ce qu'on aurait cru. Pas de lac, ni de barrage, ni de mission. Elles parlèrent du compte, de la façon dont il fallait s'asseoir pour ne pas se faire refuser par un corps, des mots qu'on perdait le matin, du goût des choses. L'autre avait perdu *aubépine*. Iris, *chevreuil*. Elles se les rendirent à tour de rôle, comme deux ouvrières qui échangent des outils.
 
 À un moment, Iris dit, sans savoir pourquoi :
 
@@ -70,7 +70,7 @@ L'autre ferma les yeux.
 
 — Elle avait les cheveux ras, dit-elle. Elle se les coupait elle-même, de travers, aux ciseaux de cuisine, et elle refusait qu'on l'aide. Elle écrivait à l'encre noire. Elle comptait quand elle avait peur, à voix basse, sans s'en apercevoir. Elle lisait des recettes à des gens qui ne savaient plus écouter. Elle faisait des lentilles trop salées, ou plutôt quelqu'un lui en laissait, chaque midi, et elle ne savait pas qui.
 
-Iris l'écoutait. À chaque mot, elle sentait quelque chose se déplacer en elle, comme une pierre au fond d'un puits, qui trouve enfin sa place.
+Iris l'écoutait. À chaque mot, elle sentait une pierre, au fond d'un puits, trouver enfin sa place.
 
 — Elle avait les cheveux courts, répéta-t-elle.
 
@@ -92,7 +92,7 @@ Elle ne dit pas autre chose. Elle ne dit pas *notre*. Iris, qui n'aurait pas su 
 
 ---
 
-Elle ne demanda pas son nom. Elle ne demanda pas ce qu'elle faisait là. Quand elles se séparèrent, vers cinq heures, sur la berge, avec la nuit qui commençait à se déchirer à l'est, elle ne s'inquiéta pas de la revoir. Elle sut qu'on se reverrait. Elle sut aussi qu'elle venait de recevoir quelque chose, et que cela se paierait.
+Elle ne demanda pas son nom. Elle ne demanda pas ce qu'elle faisait là. Quand elles se séparèrent, vers cinq heures, sur la berge, avec la nuit qui commençait à se déchirer à l'est, elle ne s'inquiéta pas de la revoir. On se reverrait. Elle sut aussi qu'elle venait de recevoir quelque chose, et que cela se paierait.
 
 Elle remonta par le sentier. Elle se recoucha avant le jour, dans le lit de Rose, à côté de l'enfant.
 

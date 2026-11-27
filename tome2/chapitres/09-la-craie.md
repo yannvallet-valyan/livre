@@ -8,15 +8,15 @@ C'était la légende familiale, que racontait Hélène aux voisines, avec ce ton
 
 Elle avait le front trop grand. Les médecins disaient : *ça passera.* Elle avait des sourcils droits, qui lui donnaient l'air de juger, et au coin de la paupière gauche, minuscule, presque invisible, un grain de beauté.
 
-Sophia ne le remarqua que le troisième mois. Elle regarda longtemps sa fille dormir, penchée sur le berceau, une tasse froide à la main. Puis elle alla s'asseoir à la table de la cuisine, et resta ainsi, immobile, jusqu'au matin.
+Sophia ne le remarqua que le troisième mois. Elle regarda sa fille dormir, penchée sur le berceau, une tasse froide à la main. Puis elle alla s'asseoir à la table de la cuisine, et resta ainsi, immobile, jusqu'au matin.
 
 ---
 
-Elle l'élevait seule, et elle l'élevait mal, comme on élève un enfant qu'on aime avec la peur de le perdre : par excès de silence. Elle travaillait trop. Elle rentrait tard de l'agence de l'eau, avec des dossiers sous le bras, des cernes violets, une fatigue qui ressemblait à de la colère. Hélène gardait la petite. Hélène vieillissait. Elle avait soixante-sept ans à la naissance d'Iris, et le thé noir lui tremblait dans les mains.
+Elle l'élevait seule, et elle l'élevait mal,: par excès de silence. Elle travaillait trop. Elle rentrait tard de l'agence de l'eau, avec des dossiers sous le bras, des cernes violets, une fatigue qui ressemblait à de la colère. Hélène gardait la petite. Hélène vieillissait. Elle avait soixante-sept ans à la naissance d'Iris, et le thé noir lui tremblait dans les mains.
 
 Les nuits étaient difficiles.
 
-Iris ne dormait pas comme les autres enfants. Elle dormait en deux temps : un premier sommeil lourd, profond, d'où il était impossible de la tirer, puis, vers trois heures, quelque chose se redressait en elle. Elle s'asseyait dans son lit, les yeux ouverts, et parlait. Pas des mots d'enfant. Des phrases entières, claires, posées, dans une voix qui n'était pas la sienne. Une voix de femme, grave, fatiguée.
+Iris ne dormait pas comme les autres enfants. Elle dormait en deux temps : un premier sommeil lourd, profond, d'où il était impossible de la tirer, puis, vers trois heures, quelqu'un se redressait en elle. Elle s'asseyait dans son lit, les yeux ouverts, et parlait. Pas des mots d'enfant. Des phrases entières, claires, posées, dans une voix qui n'était pas la sienne. Une voix de femme, grave, fatiguée.
 
 Elle disait : « Ne bouge pas. Je compte. »
 
@@ -86,7 +86,7 @@ C'était un soir d'hiver, dans la chambre de sa grand-mère. Hélène était ali
 
 — Je ne sais pas. Je sais seulement qu'on n'y retourne pas. Promets-moi.
 
-Iris avait douze ans, des genoux écorchés, les cheveux dans le cou. Elle regarda sa grand-mère. Elle comprit, avec cette lucidité terrible des enfants qui sont plus âgés qu'eux-mêmes, que la vieille avait peur, vraiment peur, et qu'elle ne mentait pas. Elle comprit aussi qu'elle-même, déjà, en cet instant, savait qu'elle ne tiendrait pas.
+Iris avait douze ans, des genoux écorchés, les cheveux dans le cou. Elle regarda sa grand-mère. La vieille avait peur, vraiment peur, et elle ne mentait pas : Iris le vit avec cette lucidité terrible des enfants plus âgés qu'eux-mêmes. Elle-même, déjà, savait qu'elle ne tiendrait pas.
 
 — Je te le promets, dit-elle.
 

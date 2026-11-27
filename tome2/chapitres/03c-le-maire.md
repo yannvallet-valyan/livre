@@ -70,7 +70,7 @@ Il se rassit. Personne ne répondit. Madame Pellissier, réveillée en sursaut, 
 
 Ce fut Rose qui parla ensuite.
 
-Elle ne l'avait pas décidé. Elle se leva, simplement, comme on se lève à l'église quand le prêtre dit *Levez-vous*. Elle sentit Jean tressaillir à côté d'elle. Elle ne le regarda pas. Elle regarda l'ingénieur, droit dans les yeux, avec cette obstination qu'on lui connaissait et qu'elle n'avait jamais su dire autrement.
+Elle ne l'avait pas décidé. Elle se leva, simplement. Elle sentit Jean tressaillir à côté d'elle. Elle ne le regarda pas. Elle regarda l'ingénieur, droit dans les yeux, avec cette obstination qu'on lui connaissait et qu'elle n'avait jamais su dire autrement.
 
 — Je ne signerai pas, dit-elle.
 
@@ -90,7 +90,7 @@ Il y eut un rire, bref, de gêne. Elle ne cilla pas.
 
 — Je ne partirai pas, dit-elle. Vous aurez beau noyer le village, vous me trouverez dedans.
 
-Il y eut un silence si total qu'on entendit le poêle craquer. Le maire se leva à demi, puis se rassit. Le gendarme, au fond, décroisa les bras. Walther ne bougea pas. Il la regardait, lui aussi, avec une expression que Rose ne sut pas lire, à laquelle elle ne chercha pas de nom : quelque chose de grave, de clair, d'immensément triste, comme quand on regarde au loin un navire en train de couler.
+Il y eut un silence si total qu'on entendit le poêle craquer. Le maire se leva à demi, puis se rassit. Le gendarme, au fond, décroisa les bras. Walther ne bougea pas. Il la regardait, lui aussi, avec une expression que Rose ne sut pas lire, à laquelle elle ne chercha pas de nom : une gravité claire, immensément triste, d'homme qui regarde au loin un navire en train de couler.
 
 — Je ne vous en veux pas, dit-il enfin. Je ferais comme vous.
 
@@ -118,7 +118,7 @@ Une silhouette se détacha du mur. Elle ne bougea pas.
 
 — Madame Roch, dit Walther Kerr.
 
-Il avait remis sa casquette. Il la tenait contre lui, à deux mains. Elle sut qu'il avait attendu.
+Il avait remis sa casquette. Il la tenait contre lui, à deux mains. Il avait attendu.
 
 — Je voulais vous dire que… Vous avez raison.
 
@@ -126,6 +126,6 @@ Il avait remis sa casquette. Il la tenait contre lui, à deux mains. Elle sut qu
 
 — C'est la même chose, dit-il.
 
-Elle ne répondit pas. Elle le regarda un instant, puis rentra son châle sur ses épaules et descendit les marches. Il resta sur le seuil, sous la lampe, longtemps.
+Elle ne répondit pas. Elle le regarda un instant, puis rentra son châle sur ses épaules et descendit les marches. Il resta sur le seuil, sous la lampe.
 
 Elle sentit son regard dans son dos jusqu'à la place.

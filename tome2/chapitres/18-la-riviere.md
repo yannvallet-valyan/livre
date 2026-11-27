@@ -38,11 +38,11 @@ Elle le serra contre elle, trempé, glacé, hurlant. Elle sentit son cœur à lu
 
 Elle ne sut combien de temps passa.
 
-Quand elle releva la tête, l'homme était toujours là, à genoux dans la boue, les mains pendantes. Il tremblait de froid, ou d'autre chose. Il avait perdu sa casquette. Ses cheveux bruns lui collaient au front. Il la regardait avec une expression qu'elle ne lui avait jamais vue : pas la distance polie de l'ingénieur, ni la timidité des hommes qui ne savent pas parler aux femmes. Quelque chose de nu.
+Quand elle releva la tête, l'homme était toujours là, à genoux dans la boue, les mains pendantes. Il tremblait de froid, ou d'autre chose. Il avait perdu sa casquette. Ses cheveux bruns lui collaient au front. Il la regardait avec une expression qu'elle ne lui avait jamais vue : pas la distance polie de l'ingénieur, ni la timidité des hommes qui ne savent pas parler aux femmes. Une nudité.
 
 — Je passais pour ma tournée, dit Walther Kerr. Je n'ai pas pu le laisser.
 
-Il parlait français avec un accent lourd, tout en consonnes. Il ne bougea pas. Elle regarda ses mains, qui avaient saigné sur les parois du canal. Elle regarda sa bouche, qui tremblait. Elle sut qu'il avait couru pour son fils comme il aurait couru pour le sien.
+Il parlait français avec un accent lourd, tout en consonnes. Il ne bougea pas. Elle regarda ses mains, qui avaient saigné sur les parois du canal. Elle regarda sa bouche, qui tremblait. Il avait couru pour son fils comme il aurait couru pour le sien.
 
 Elle ne sut pas pourquoi elle fit ce qu'elle fit. Ce n'était pas une pensée. C'était un geste d'avant la pensée, qui venait de plus bas que la raison, de ce lieu où les corps se souviennent des dettes. Elle se pencha. Elle l'embrassa.
 
@@ -68,7 +68,7 @@ Odette marchait derrière elle, à dix pas, sans oser s'approcher. Elle avait ce
 
 — Je sais.
 
-Elle ne leva pas la voix. Elle n'avait pas de colère. Elle n'avait que cette froideur très claire des gens qui viennent de frôler le pire, et qui n'ont plus rien à dire aux autres. Elle regarda Odette, longtemps, sans haine, sans pitié. Elle vit une femme pâle, les mains tremblantes, les yeux rougis. Elle vit aussi, à l'arrière-plan, comme à travers une vitre, une autre femme, plus vieille, plus fatiguée, qui la regardait avec une angoisse d'un autre âge.
+Elle ne leva pas la voix. Elle n'avait pas de colère. Elle n'avait que cette froideur très claire des gens qui viennent de frôler le pire, et qui n'ont plus rien à dire aux autres. Elle regarda Odette, sans haine, sans pitié. Elle vit une femme pâle, les mains tremblantes, les yeux rougis. Elle vit aussi, à l'arrière-plan, comme à travers une vitre, une autre femme, plus vieille, plus fatiguée, qui la regardait avec une angoisse d'un autre âge.
 
 — Rentre chez toi, dit-elle.
 
@@ -82,15 +82,15 @@ Odette ne bougea pas. Elle ouvrit la bouche, comme pour dire quelque chose, puis
 
 Rose ne répondit pas. Elle se détourna. Elle entendit derrière elle, très faiblement, un sanglot qui ne ressemblait à aucun autre.
 
-Dans la cuisine, devant le poêle, elle sécha son fils. Elle le mit au lit. Elle resta longtemps assise à côté de lui, la main sur sa poitrine, à compter ses souffles.
+Dans la cuisine, devant le poêle, elle sécha son fils. Elle le mit au lit. Elle resta assise à côté de lui, la main sur sa poitrine, à compter ses souffles.
 
 Jean rentra à la nuit. Il la trouva dans la même position, les yeux rouges, les mains tremblantes. Elle ne lui dit rien. Il ne demanda rien. Il alla poser son béret sur le clou, vint s'asseoir en face d'elle, et prit, dans la sienne, la main qu'elle ne retira pas.
 
 Au fond d'elle, Iris regardait.
 
-Elle avait vu l'enfant couler. Elle avait vu l'homme le sauver. Elle avait vu Rose l'embrasser, et son mari lui tenir la main, et elle comprit ce qu'elle avait fait en prenant un jour. Elle comprit qu'elle avait failli tuer Anselme, le père de sa mère, le seul qui fît que sa mère eût existé, qu'elle eût existé elle-même, qu'il y eût eu un Sacha à pleurer.
+Elle avait vu l'enfant couler. Elle avait vu l'homme le sauver. Elle avait vu Rose l'embrasser, et son mari lui tenir la main, et elle comprit ce qu'elle avait fait en prenant un jour. Elle avait failli tuer Anselme, le père de sa mère, le seul qui fît que sa mère eût existé, qu'elle eût existé elle-même, qu'il y eût eu un Sacha à pleurer.
 
-Elle comprit aussi qu'un homme qu'elle prenait pour un ennemi venait de la sauver d'elle-même.
+Un homme qu'elle prenait pour un ennemi venait de la sauver d'elle-même.
 
 Elle ne sut pas lequel des deux elle devait remercier. Elle ne remercia personne. Elle resta dans le noir, sous la peau de Rose, avec le baiser de l'autre sur les lèvres de quelqu'un d'autre, et elle dit, très bas :
 

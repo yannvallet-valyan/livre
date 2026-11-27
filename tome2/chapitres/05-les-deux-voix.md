@@ -20,7 +20,7 @@ Elle apprit ainsi le rythme des nuits.
 
 Il y avait d'abord le temps de la fatigue de Rose, de neuf heures à minuit, quand le corps lourd, noué de courbatures, se laissait glisser dans le lit comme un sac qu'on pose. Iris attendait. Elle comptait, jusqu'à cinquante-neuf, et sentait la marée descendre. Il y avait ensuite le temps de l'enfant, de minuit à deux heures, quand Anselme se réveillait, ou ne se réveillait pas, et qu'il fallait le calmer, le changer, lui chanter les deux couplets. Il y avait enfin le temps du dehors, de deux heures à l'aube, où elle sortait, longeait le hameau, regardait le chantier de loin, revenait.
 
-Elle savait désormais quelle marche de l'escalier craquait. Elle savait quelle fenêtre fermait mal. Elle avait appris à ne pas heurter le seau d'eau, à poser le pied à plat sur le troisième carreau. Elle avait appris que, vers trois heures, un renard traversait la cour, que les poules l'entendaient et se taisaient. Elle connaissait le bruit du vent dans la gouttière, qui ressemblait à un soupir de vieille. Elle commençait à aimer la maison, comme on aime un animal à qui on a donné son temps.
+Elle savait désormais quelle marche de l'escalier craquait. Elle savait quelle fenêtre fermait mal. Elle avait appris à ne pas heurter le seau d'eau, à poser le pied à plat sur le troisième carreau. Elle avait appris que, vers trois heures, un renard traversait la cour, que les poules l'entendaient et se taisaient. Elle connaissait le bruit du vent dans la gouttière, qui ressemblait à un soupir de vieille. Elle commençait à aimer la maison.
 
 Elle n'aimait pas l'aimer. Elle se disait : *ce n'est pas la mienne.* Elle se le répétait, le soir, en posant la main sur le mur chaud du poêle, avec une obstination de gamine.
 
@@ -32,7 +32,7 @@ Elle ne le sut que quelques jours plus tard, quand elle trouva sur le mur, au ch
 
 *Tu chantes juste.*
 
-Elle resta longtemps devant ces trois mots. Elle ne répondit pas. Elle ne trouvait pas comment dire merci sans mentir.
+Elle resta devant ces trois mots. Elle ne répondit pas. Elle ne trouvait pas comment dire merci sans mentir.
 
 ---
 
@@ -40,7 +40,7 @@ La quatrième semaine de juillet, la chanson fut reprise.
 
 Elle chantait depuis dix minutes, dans la chambre étroite, par la fenêtre ouverte sur la nuit chaude, quand elle entendit, de l'autre côté de la cloison mitoyenne, un souffle qui s'accordait au sien. Elle se tut. Le souffle se tut.
 
-Elle chanta de nouveau : le premier couplet, le deuxième. Elle s'arrêta au bord du troisième, comme on s'arrête au bord d'une falaise.
+Elle chanta de nouveau : le premier couplet, le deuxième. Elle s'arrêta au bord du troisième,.
 
 Derrière le mur, une voix de femme, plus grave que la sienne, plus lasse, chanta les deux mêmes couplets, avec les mêmes mots, les mêmes silences. Et s'arrêta au même endroit.
 

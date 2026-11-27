@@ -1,10 +1,10 @@
-# Chapitre 60 — La première mesure
+# Chapitre 57 — La première mesure
 
 *(premier jet)*
 
 Il se réveilla dans un corps qui ne criait pas.
 
-C'était la première chose qu'il remarqua : le silence. Il avait attendu, comme on attend une gifle, la poussée de l'hôte qui hurle, le cognement contre les parois, la plainte. Il n'y avait rien. Il y avait seulement, au fond, une sorte de tiédeur apaisée, de soupir, comme celle d'un homme qui s'endort dans un fauteuil, un soir, devant un feu. Il pensa : *il dort.* Il pensa : *il sait.*
+C'était la première chose qu'il remarqua : le silence. Il avait attendu, la poussée de l'hôte qui hurle, le cognement contre les parois, la plainte. Il n'y avait rien. Il y avait seulement, au fond, une sorte de tiédeur apaisée, de soupir, comme celle d'un homme qui s'endort dans un fauteuil, un soir, devant un feu. Il pensa : *il dort.* Il pensa : *il sait.*
 
 Il ouvrit les yeux. Il était debout, sur la berge de ciment, devant un mur immense, qui montait vers un ciel sans lune. Il avait dans la main droite un petit boîtier, à écran vert, qui bourdonnait, et dans la gauche un cahier noir. Il portait un pardessus sombre, trop chaud, une casquette de toile. Il ne savait plus où il avait laissé le reste.
 
@@ -46,11 +46,11 @@ Il sentit son cœur battre, dans la poitrine d'un homme qui n'était pas lui.
 
 *Je la connais.*
 
-Il ne dit pas cela. Il dit, comme on récite une consigne :
+Il ne dit pas cela. Il dit,:
 
 — Pardon, madame. Je ne voulais pas vous effrayer.
 
-Elle ne répondit pas. Elle regardait ses mains, qui serraient le crayon. Elle le regardait, lui, avec une intensité sans nom, une espèce de faim. Il comprit qu'elle voulait lui dire quelque chose, qu'elle ne le dirait pas, qu'il ne le saurait jamais. Il le comprit, et ne chercha pas à en savoir plus. Il avait appris, depuis longtemps, que les choses qu'on ne dit pas sont celles qui tiennent le monde.
+Elle ne répondit pas. Elle regardait ses mains, qui serraient le crayon. Elle le regardait, lui, avec une intensité sans nom, une espèce de faim. Elle voulait lui dire quelque chose, elle ne le dirait pas, il ne le saurait jamais. Il le comprit, et ne chercha pas à en savoir plus. Il avait appris, depuis longtemps, que les choses qu'on ne dit pas sont celles qui tiennent le monde.
 
 — Je mesure, c'est tout, dit-il. Je n'interviens pas.
 
@@ -58,7 +58,7 @@ Il avait dit la phrase sans y penser. Elle lui parut absurde, aussitôt dite. Il
 
 ---
 
-Quand elle partit, il resta longtemps debout, la lampe de poche éteinte dans sa main vide, à regarder le chemin par lequel elle s'était éloignée. Il ne l'avait plus. Il la lui avait donnée. Il ne savait plus pourquoi. Il avait pensé : *il fait noir.* Il avait pensé : *elle en a besoin.* Il avait pensé, plus profondément : *je dois lui laisser quelque chose.*
+Quand elle partit, il resta debout, la lampe de poche éteinte dans sa main vide, à regarder le chemin par lequel elle s'était éloignée. Il ne l'avait plus. Il la lui avait donnée. Il ne savait plus pourquoi. Il avait pensé : *il fait noir.* Il avait pensé : *elle en a besoin.* Il avait pensé, plus profondément : *je dois lui laisser quelque chose.*
 
 Il ouvrit le cahier. Il écrivit, très lentement :
 

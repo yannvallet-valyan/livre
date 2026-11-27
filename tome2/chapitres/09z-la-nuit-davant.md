@@ -30,7 +30,7 @@ Elle chanta.
 
 *Dors, la rivière, dors sous le pont.*
 
-Il se rendormit au bout de deux couplets. Elle resta ainsi, longtemps, la joue contre ses cheveux, qui sentaient le lait et le savon noir. Elle écoutait son souffle. Elle pensait qu'elle ne le reverrait pas, dans une autre vie, avec ce menton-là, cette façon de serrer les poings, cette petite sueur au front. Elle pensait qu'elle ferait n'importe quoi pour que cet enfant devienne un homme, et qu'elle venait de décider de risquer, pour y parvenir, la seule chose qu'elle ne pouvait pas lui donner : sa certitude.
+Il se rendormit au bout de deux couplets. Elle resta ainsi, la joue contre ses cheveux, qui sentaient le lait et le savon noir. Elle écoutait son souffle. Elle pensait qu'elle ne le reverrait pas, dans une autre vie, avec ce menton-là, cette façon de serrer les poings, cette petite sueur au front. Elle pensait qu'elle ferait n'importe quoi pour que cet enfant devienne un homme, et qu'elle venait de décider de risquer, pour y parvenir, la seule chose qu'elle ne pouvait pas lui donner : sa certitude.
 
 Elle ne sut pas dire si c'était de l'amour ou de l'orgueil.
 
@@ -46,7 +46,7 @@ Elle descendit par le sentier, évita le lavoir, longea le talus. Son cœur batt
 
 Elle ne se détourna pas. Elle arriva au pied de la pompe à deux heures dix.
 
-Orsini n'était pas là. Il avait fini sa flasque. Il dormait sur sa caisse, adossé à la tôle, la bouche ouverte, un chapelet entre les doigts. Il ronflait paisiblement, avec un petit sifflement à chaque expiration. Elle resta devant lui, longtemps, immobile.
+Orsini n'était pas là. Il avait fini sa flasque. Il dormait sur sa caisse, adossé à la tôle, la bouche ouverte, un chapelet entre les doigts. Il ronflait paisiblement, avec un petit sifflement à chaque expiration. Elle resta devant lui, immobile.
 
 Elle aurait pu partir. Il n'y avait personne pour la retenir. Elle se dit : *il a une femme. Il a un enfant, peut-être. Il va se faire renvoyer.* Elle se dit : *c'est lui qui paiera.*
 

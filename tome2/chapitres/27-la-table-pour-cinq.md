@@ -1,8 +1,8 @@
-# Chapitre 56 — La table pour cinq
+# Chapitre 54 — La table pour cinq
 
 *(premier jet)*
 
-À onze heures du soir, le jeudi 13 novembre, la maison était vide de tout, sauf de la table.
+Le jeudi 13 novembre, à trois heures de l'après-midi, la maison était vide de tout, sauf de la table.
 
 On avait emporté le buffet, la huche, les deux lits, la malle, le missel. Les voisins avaient prêté une charrette. Le chantier avait mis un camion à disposition, qui attendait, moteur éteint, devant la porte, sous le bruit de la pluie. On devait partir à l'aube pour l'appartement du Haut, trois pièces au-dessus de la boulangerie, avec un poêle qui fumait. Rose avait tout rangé. Elle n'avait laissé que la table, une grande table de noyer, noire de soixante ans de mains, qu'on n'avait pas eu la place de charger.
 
@@ -46,7 +46,7 @@ Ils laissèrent passer le temps. Il mit du bois dans le poêle, qu'on avait dém
 
 — Moi, je sais.
 
-Elle ne répondit pas. Elle regarda ses mains, qui avaient lavé, pétri, cousu, bercé. Elle y vit une chose qu'elle n'y avait jamais vue : la trace d'une autre. Elle sut qu'elle ne pouvait pas le lui dire. Elle prit sa main à lui, ouverte, large, calleuse. Elle la mit contre sa joue, un instant, comme on pose un caillou sur un tas.
+Elle ne répondit pas. Elle regarda ses mains, qui avaient lavé, pétri, cousu, bercé. Elle y vit une chose qu'elle n'y avait jamais vue : la trace d'une autre. Elle ne pouvait pas le lui dire. Elle prit sa main à lui, ouverte, large, calleuse. Elle la mit contre sa joue, un instant, comme on pose un caillou sur un tas.
 
 — Je t'ai aimé, dit-elle.
 
@@ -58,9 +58,17 @@ Il ne comprit pas. Il ne demanda pas. Il resta, la main contre sa joue, jusqu'à
 
 ---
 
+À quatre heures, ils vinrent la chercher : le maire Fortier, le gendarme Fabre, et Walther Kerr, en manteau gris, avec un papier qu'on lui avait déjà montré trois fois. Elle ferma la porte au nez de l'ingénieur. Jean supplia à travers le bois. Il resta longtemps, le front contre la planche, à dire son nom. Puis il partit, avec l'enfant dans les bras, dans le dernier camion, vers le Haut.
+
+— Je reviendrai à l'aube, dit-il, du bas de l'escalier. Avec des hommes, s'il le faut.
+
+Elle ne répondit pas. Elle resta seule dans sa cuisine, à la lueur d'une lampe à pétrole, puisqu'on avait coupé l'électricité la veille. Elle fit cuire une soupe d'oignons, parce qu'il restait des oignons. Elle la servit dans les cinq assiettes. Elle s'assit à sa place, au bout de la table, et elle ne mangea pas.
+
+---
+
 On frappa à minuit moins le quart.
 
-Rose alla ouvrir. Elle vit Odette Girard sur le seuil, sans châle, sans lanterne, trempée jusqu'aux os, les cheveux collés au visage. Elle ne portait pas de panier. Elle tenait ses deux mains serrées contre sa poitrine, comme on tient un oiseau mort.
+Rose alla ouvrir. Elle vit Odette Girard sur le seuil, sans châle, sans lanterne, trempée jusqu'aux os, les cheveux collés au visage. Elle ne portait pas de panier. Elle tenait ses deux mains serrées contre sa poitrine.
 
 — Je ne viens pas pour me justifier, dit-elle.
 
@@ -94,18 +102,18 @@ Elle regarda Odette s'éloigner, sur le chemin, entre les haies, sous la pluie. 
 
 Walther Kerr passa vers une heure du matin.
 
-Elle l'aperçut par la fenêtre sans rideau : un homme seul, en pardessus, qui remontait le chemin en direction du mur. Il s'arrêta devant la maison. Il leva les yeux. Il vit la lampe, la table mise, les trois silhouettes dans la cuisine : le mari, la femme, l'enfant endormi.
+Elle l'aperçut par la fenêtre sans rideau : un homme seul, en pardessus, qui remontait le chemin en direction du mur. Il s'arrêta devant la maison. Il leva les yeux. Il vit la lampe, la table mise, une seule silhouette dans la cuisine, devant cinq assiettes.
 
 Il resta là un long moment, tête nue sous la pluie, comme un homme qui regarde une église.
 
 Puis il repartit.
 
-Rose ne bougea pas. Jean ne bougea pas. Ni l'un ni l'autre ne dit à haute voix ce qu'ils avaient vu. Ils restèrent assis, face à face, de part et d'autre de la table pour cinq. Cinq assiettes, cinq verres. Trois vivants, deux absents. Et dans la femme, une autre femme, qui retenait sa respiration.
+Rose ne bougea pas. Elle resta assise devant la table pour cinq, seule avec les cinq assiettes, les cinq verres, les quatre absents. Et dans la femme, une autre femme, qui retenait sa respiration.
 
 Personne ne toucha à la soupe. Elle refroidit sur la table.
 
 À deux heures et demie, Iris se leva.
 
-Ce n'était pas elle, c'était Rose. Mais Rose, sans un mot, avec la lenteur d'une femme qui obéit à une prière, ouvrit la porte, mit son châle, descendit les marches. Jean ne tenta pas de la retenir. Il resta à sa place, la tête dans les mains, à regarder l'assiette vide en face de lui.
+Ce n'était pas elle, c'était Rose. Mais Rose, sans un mot, avec la lenteur d'une femme qui obéit à une prière, ouvrit la porte, mit son châle, descendit les marches. Personne ne tenta de la retenir.
 
 Elle marcha vers le mur.

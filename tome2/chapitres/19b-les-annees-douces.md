@@ -4,7 +4,7 @@
 
 Il y eut des années douces. C'est ce qui rend la suite insupportable.
 
-Elle ne les voyait pas, sur le moment. On ne voit jamais le bonheur : on le vit comme on respire, avec distraction. Elle s'en aperçut plus tard, à rebours, en feuilletant ses souvenirs comme on parcourt un album, et en comprenant que ces années-là, de l'été 2051 à l'automne 2059, étaient les seules de sa vie où elle avait cessé de compter.
+Elle ne les voyait pas, sur le moment. On ne voit jamais le bonheur : on le vit comme on respire, avec distraction. Elle s'en aperçut plus tard, à rebours, en feuilletant ses souvenirs, et en comprenant que ces années-là, de l'été 2051 à l'automne 2059, étaient les seules de sa vie où elle avait cessé de compter.
 
 Sacha avait un an. Il marchait déjà, d'une démarche d'ivrogne, en se tenant aux meubles, avec un air de dignité offensée. Il disait « pa » pour son père, « ma » pour sa mère, et « Tè » pour le docteur, qu'il prenait pour un arbre. Il passait ses journées au cabinet, sur un tapis de laine, entre les jambes des chaises, à empiler des boîtes de médicaments vides. Il les alignait par taille, du plus grand au plus petit, avec un sérieux effrayant.
 
@@ -70,7 +70,7 @@ Elle se rappelait aussi l'hiver 2058.
 
 Étienne avait soixante-dix-huit ans. Il avait pris l'habitude de venir, le dimanche soir, jouer aux échecs avec Sacha, sur la table de la cuisine, sous la lampe. L'enfant avait huit ans. Il battait le vieux depuis un an, avec une aisance qui confinait à l'indécence. Étienne perdait avec une joie sans mélange.
 
-— Il joue comme quelqu'un qui connaît déjà la partie, disait-il.
+— Il joue comme quelqu'un qui connaît déjà la partie, disait-il. Moi, je joue comme quelqu'un qui connaît déjà sa défaite. On s'entend.
 
 — Il a un bon maître, répondait Iris.
 
@@ -82,7 +82,7 @@ Elle se rappelait aussi l'hiver 2058.
 
 — Je ne sais pas. Quelqu'un qui n'a pas besoin de réfléchir.
 
-Il ne s'en tenait pas là. Il lui arrivait de rester longtemps, après la partie, à regarder Sacha dormir sur le canapé, la joue dans la main. Il le recouvrait d'une couverture. Il remettait en place une mèche. Il se retirait, en ayant l'air de s'excuser. Un soir, Iris le trouva debout devant la porte du jardin, dans le noir, le visage tourné vers les étoiles. Il dit, sans se retourner :
+Il ne s'en tenait pas là. Il lui arrivait de rester, après la partie, à regarder Sacha dormir sur le canapé, la joue dans la main. Il le recouvrait d'une couverture. Il remettait en place une mèche. Il se retirait, en ayant l'air de s'excuser. Un soir, Iris le trouva debout devant la porte du jardin, dans le noir, le visage tourné vers les étoiles. Il dit, sans se retourner :
 
 — Je n'ai pas eu de petit-fils.
 
@@ -98,7 +98,7 @@ Il se tut. Il ajouta, à voix presque inaudible :
 
 — C'est étrange. J'ai le sentiment d'en avoir un.
 
-Elle ne répondit pas. Elle posa sa main sur son bras. Il la regarda. Il y avait, dans ses yeux gris, derrière les lunettes, quelque chose qui ressemblait à une question, et qu'il ne posa pas.
+Elle ne répondit pas. Elle posa sa main sur son bras. Il la regarda. Il y avait, dans ses yeux gris, derrière les lunettes, une question qu'il ne posa pas.
 
 ---
 
@@ -120,7 +120,7 @@ Il le disait avec un étonnement sincère, comme quelqu'un qui vient de découvr
 
 — Avant quoi ?
 
-Il resta silencieux. Elle sentit son souffle contre sa peau, très léger, très chaud. Elle sentit que quelque chose, dans son corps, venait de se crisper.
+Il resta silencieux. Elle sentit son souffle contre sa peau, très léger, très chaud. Elle sentit son corps se crisper.
 
 — Avant toi, dit-il.
 

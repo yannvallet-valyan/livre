@@ -6,7 +6,7 @@
 
 Il l'apprit à l'aube, dans le couloir d'une maternité de Lyon, pieds nus, en pyjama de coton, avec du goudron noir collé entre les orteils et un nouveau-né dans les bras. Il ne le crut pas. Il resta un long moment immobile, les yeux sur les petits poings fermés, sur les paupières qui battaient, sur la bouche minuscule qui cherchait le sein d'un homme. Il pensa : *je rêve.* Puis il sentit la fraîcheur du carrelage sous ses plantes, et il comprit que non.
 
-Il y avait quelqu'un d'autre dans sa tête. Pas une voix. Une présence qui s'éloignait, doucement, avec la dignité de quelqu'un qui vient d'accomplir ce pour quoi il était venu. Étienne le sentit partir, comme on sent le dernier wagon d'un train s'éloigner du quai. Il voulut le retenir. Il ne savait pas qui.
+Il y avait quelqu'un d'autre dans sa tête. Pas une voix. Une présence qui s'éloignait, doucement, avec la dignité de quelqu'un qui vient d'accomplir ce pour quoi il était venu. Étienne le sentit partir. Il voulut le retenir. Il ne savait pas qui.
 
 Il avait la route en morceaux, comme un film qu'on a vu à moitié endormi. Une portière qui claque. Un volant froid, sous des mains qu'il ne guidait pas. Des phares sur du goudron mouillé, des bornes blanches qui défilaient, un virage où le corps s'inclinait de lui-même avant que l'œil n'ait vu la courbe. Une aire d'autoroute, avec une pompe, un homme en gilet jaune qui lui avait demandé : « Ça va, monsieur ? » Il avait répondu, d'une voix qu'il ne reconnaissait pas, très calme : « J'ai quelqu'un à voir. » L'homme avait haussé les épaules. Il lui avait rendu sa monnaie.
 
@@ -38,7 +38,7 @@ Cela lui fit un mal presque physique. Elle avait vieilli de neuf mois. Elle avai
 
 — Sophia, dit-il.
 
-Elle ne répondit pas tout de suite. Elle le regardait avec une expression qu'il n'avait jamais vue chez personne : un mélange de tendresse et d'horreur, comme on regarde un ami qui vous a sauvé la vie et dont on ne veut plus jamais entendre le nom.
+Elle ne répondit pas tout de suite. Elle le regardait avec une expression qu'il n'avait jamais vue chez personne : un mélange de tendresse et d'horreur.
 
 — Je t'ai cherchée, dit-il. J'ai appelé quarante fois. Je ne sais pas pourquoi je suis là. Je ne sais même pas comment…
 
@@ -48,11 +48,11 @@ Elle ne répondit pas tout de suite. Elle le regardait avec une expression qu'il
 
 — Je ne me rappelle pas.
 
-Elle mentait, et ils le savaient tous les deux. Il vit qu'elle tenait, de sa main droite, le drap, à pleine poigne, comme on tient une rambarde au-dessus du vide.
+Elle mentait, et ils le savaient tous les deux. Il vit qu'elle tenait, de sa main droite, le drap, à pleine poigne.
 
 — Elle est à toi, dit-elle. Je ne sais pas comment, mais elle est à toi. Je le sais depuis le début. Tu vois ses yeux ?
 
-Il les vit. Elle venait de les ouvrir : gris, très pâles, déjà trop attentifs. Elle le regardait comme on regarde un visage qu'on cherche depuis longtemps.
+Il les vit. Elle venait de les ouvrir : gris, très pâles, déjà trop attentifs. Elle le regardait.
 
 — Elle s'appelle Iris, dit Sophia.
 
@@ -68,7 +68,7 @@ Il voulut s'asseoir au bord du lit. Elle leva la main : un geste sec, sans colè
 
 — Je ne te reproche rien. Je ne sais pas ce qu'on a fait. Mais je ne peux pas te voir. Tu comprends ? Chaque fois que je te regarde, je me rappelle que je n'ai pas décidé. Pars. Je t'en prie. Reprends-la une fois, et pars.
 
-Il reprit l'enfant. Il la serra contre lui, très fort, une seconde, comme on serre un secret qu'on va devoir rendre. Elle sentait le lait et la cire. Elle s'était endormie. Il la déposa dans le berceau transparent, au pied du lit, sans un mot.
+Il reprit l'enfant. Il la serra contre lui, très fort, une seconde. Elle sentait le lait et la cire. Elle s'était endormie. Il la déposa dans le berceau transparent, au pied du lit, sans un mot.
 
 Dans le couloir, la sage-femme lui tendit un gilet d'hôpital et des chaussons de papier. Il les enfila. Dehors, il faisait jour. Il ne savait pas où il avait laissé sa voiture : il n'en avait pas. Il marcha jusqu'à la gare, et prit un billet avec l'argent d'un porte-monnaie qu'il ne se souvenait pas d'avoir emporté.
 

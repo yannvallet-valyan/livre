@@ -65,7 +65,7 @@
 
 Il relut la lettre trois fois, à la lueur de la lampe.
 
-Il la plia en quatre. Il la glissa dans une enveloppe, écrivit l'adresse — *Mme Margrit Brunner, Bahnhofstrasse 14, Zürich* —, y colla un timbre. Il la posa sur le coin du bureau. Il resta longtemps à la regarder.
+Il la plia en quatre. Il la glissa dans une enveloppe, écrivit l'adresse — *Mme Margrit Brunner, Bahnhofstrasse 14, Zürich* —, y colla un timbre. Il la posa sur le coin du bureau. Il resta à la regarder.
 
 Le lendemain matin, il la reprit, sans l'ouvrir. Il la rangea dans le tiroir du bas, sous les plans, avec le portefeuille de son père, un canif, une photographie d'enfants sur une plage.
 
@@ -73,4 +73,4 @@ Il ne la posta jamais.
 
 Elle fut retrouvée en 2026, par un homme poli, au fond d'un carton de la Fondation Léthé, à Genève. Il la lut debout, sans la sortir de son enveloppe, à la lumière d'une fenêtre. Il la remit à sa place. Il resta ainsi un moment, la main à plat sur le dossier.
 
-Puis il referma le carton, très doucement, comme on ferme les yeux d'un mort.
+Puis il referma le carton, très doucement.

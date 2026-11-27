@@ -22,23 +22,23 @@ Elle alla à la fenêtre. Elle ouvrit le volet.
 
 La vallée s'étendait sous ses yeux, nue, rousse, couverte de brume. Les camions, au loin, avaient commencé leur ronde. Un homme remontait le sentier avec une pelle. Sur le seuil d'en face, une vieille secouait un tapis.
 
-Elle pensa : *je peux sortir.* Elle pensa : *je peux aller au chef-lieu, à Grenoble, à Lyon. Je peux écrire au préfet de ma main. Je peux aller trouver l'ingénieur au grand jour, lui dire que le barrage va céder. Je peux empêcher que le lac vienne.*
+*Je peux sortir.* Elle pensa : *je peux aller au chef-lieu, à Grenoble, à Lyon. Je peux écrire au préfet de ma main. Je peux aller trouver l'ingénieur au grand jour, lui dire que le barrage va céder. Je peux empêcher que le lac vienne.*
 
-Elle pensa : *tout ce temps, je n'ai pas eu à attendre la nuit.*
+*Tout ce temps, je n'ai pas eu à attendre la nuit.*
 
-Elle serra le rebord de la fenêtre, jusqu'à faire blanchir les doigts de Rose. Quelque chose lui revint, avec une netteté glacée. Une voix d'homme, à Vallorce, dans une cuisine où l'on veillait un enfant. *Je ne vis que la nuit dans mon corps. Comme toi. On ne peut pas faire autrement. C'est la règle.*
+Elle serra le rebord de la fenêtre, jusqu'à faire blanchir les doigts de Rose. Une voix lui revint, avec une netteté glacée. Une voix d'homme, à Vallorce, dans une cuisine où l'on veillait un enfant. *Je ne vis que la nuit dans mon corps. Comme toi. On ne peut pas faire autrement. C'est la règle.*
 
 C'était Théo. C'était sa voix, tendre, appliquée. Il le lui avait dit cent fois, avec ce sourire un peu triste de ceux qui n'ont jamais menti de leur vie. Il lui avait enseigné la règle comme on apprend à marcher à un enfant : par la main.
 
 Il avait menti.
 
-Elle ne le comprit pas d'un seul coup. Elle le comprit en trois temps, comme on descend un escalier. *La règle est fausse.* *Il le savait.* *Il m'a laissée la croire.* Le dernier temps fut le plus long. Elle ne sentit pas la colère. Elle sentit quelque chose de plus froid, de plus lent, un effondrement très calme, comme celui d'un mur dont on découvre qu'il n'a jamais eu de fondations.
+Elle ne le comprit pas d'un seul coup. Elle le comprit en trois temps,. *La règle est fausse.* *Il le savait.* *Il m'a laissée la croire.* Le dernier temps fut le plus long. Elle ne sentit pas la colère. Elle sentit un effondrement, plus froid, plus lent, très calme : un mur dont on découvre qu'il n'a jamais eu de fondations.
 
 *Il a vécu toutes nos journées. Il était là quand je dormais. Il m'a regardée dormir.*
 
 Elle se demanda ce qu'il avait fait pendant tous ces jours où elle n'était pas là. Elle se demanda s'il l'avait aimée dans ses deux états, la nuit où elle se savait, et le jour où elle ne se savait pas.
 
-Elle ne trouva pas de réponse. Elle comprit qu'il n'y en avait pas qu'elle aurait voulu entendre.
+Elle ne trouva pas de réponse. Il n'y en avait pas qu'elle aurait voulu entendre.
 
 ---
 
@@ -46,7 +46,7 @@ Elle s'attarda à la fenêtre, plus longtemps qu'elle ne l'aurait dû, pour la s
 
 Elle regarda les choses, une à une, avec l'avidité d'une convalescente. Le toit d'en face, dont une tuile manquait. La cheminée de la boulangerie, qui fumait. La chienne rousse, couchée au pied du mur, la tête sur les pattes. Un papillon blanc, un seul, très tard dans la saison, qui tournait autour d'un pot de géranium. Elle découvrit qu'on pouvait sentir l'air sur son visage et savoir que c'était l'air du matin : une fraîcheur de pierre mouillée, mêlée à l'odeur du pain, du bois, d'une lessive qu'on faisait bouillir quelque part. Elle ne l'avait jamais senti ainsi. Elle avait vécu, pendant des mois, dans une nuit où les odeurs n'avaient pas de lumière.
 
-Elle toucha le rebord de la fenêtre, le cadre de bois, le petit crochet de fer. Elle les toucha avec la paume, lentement, comme on apprend à lire un objet dans le noir. Elle pensa : *je n'ai pas de corps.* Elle pensa : *j'en ai un.* Elle sut qu'elle ne le possédait pas, qu'elle l'empruntait. Elle sut aussi qu'elle n'avait jamais, de sa vie, éprouvé d'aussi près ce que c'est que d'exister.
+Elle toucha le rebord de la fenêtre, le cadre de bois, le petit crochet de fer. Elle les toucha avec la paume, lentement, comme on apprend à lire un objet dans le noir. Elle pensa : *je n'ai pas de corps.* Elle pensa : *j'en ai un.* Elle sut qu'elle ne le possédait pas, qu'elle l'empruntait. Jamais, de sa vie, elle n'avait éprouvé d'aussi près ce que c'est que d'exister.
 
 — Rose ?
 

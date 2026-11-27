@@ -1,4 +1,4 @@
-# Chapitre 64 — Le départ
+# Chapitre 60 — Le départ
 
 *(premier jet)*
 
@@ -10,7 +10,7 @@ Elle l'apprit par cœur en trois nuits.
 
 Elle recopia la phrase, à l'encre, trois fois, pour la tenir : *À soixante, le corps comprend que tu restes.* Elle ne savait plus de qui était l'écriture. Elle dessina, au dos d'une enveloppe, un schéma : un éclat, un front, une chaîne de noms. *Iris → Sophia → Anselme → Rose.* Elle compta les générations sur ses doigts. Sa mère était déjà habitée, en 2026, elle le sentait, par quelqu'un qui n'était pas elle. On ne rentre pas dans un corps où l'on est déjà attendue. Il restait Anselme, trop proche du cristal, trop saturé. Il restait Rose.
 
-Elle regarda longtemps le mot. Elle y vit un prénom de fleur, un visage rond, des mains rouges. Elle ne savait rien de cette femme. Elle ne savait pas si elle avait été heureuse. Elle sut seulement que c'était la dernière porte qui ne fût pas fermée, et qu'on ne la rouvrirait pas.
+Elle regarda le mot. Elle y vit un prénom de fleur, un visage rond, des mains rouges. Elle ne savait rien de cette femme. Elle ne savait pas si elle avait été heureuse. C'était la dernière porte qui ne fût pas fermée, et on ne la rouvrirait pas.
 
 ---
 
@@ -20,7 +20,7 @@ Elle ouvrit les placards, les tiroirs, les boîtes. Elle retrouva des choses de 
 
 Elle trouva, sur l'étagère, la collection de fioles. Quarante-trois, alignées par date, étiquetées d'une main nette, bleue. Elle les regarda une à une. Elle prit la dernière. *Chartreuse, 12/11/2038.* L'eau y était claire. Elle la déboucha. Elle y trempa le doigt, le porta à ses lèvres. Elle y reconnut un goût d'enfance, de métal, de pierre froide.
 
-Elle sut qu'elle ne la reverrait plus.
+Elle ne la reverrait plus.
 
 Elle alla s'asseoir dans la cuisine, devant la lampe. Elle posa devant elle la lettre jaunie qu'elle avait gardée, celle qui l'avait menée à Vallorce. *Pardon de ne pas t'avoir attendu.* Elle la relut. Elle sentit, pour la première fois, la voix de sa mère à travers la page : sèche, retenue, embarrassée, toute en pudeur.
 
@@ -122,7 +122,7 @@ Elle ferma les yeux. Elle compta.
 
 — Qui ?
 
-Elle ne répondit pas. Elle ne savait plus de qui elle parlait. Elle parlait, peut-être, de ceux qu'elle ne rencontrerait jamais, de ceux qui viendraient après elle, des deux voix qu'elle avait entendues toute sa vie, une grave, une rauque, qui s'étaient tues pour qu'elle les entende. Elle sentit, dans sa gorge, quelque chose se lever, comme une marée.
+Elle ne répondit pas. Elle ne savait plus de qui elle parlait. Elle parlait, peut-être, de ceux qu'elle ne rencontrerait jamais, de ceux qui viendraient après elle, des deux voix qu'elle avait entendues toute sa vie, une grave, une rauque, qui s'étaient tues pour qu'elle les entende. Dans sa gorge, une marée se leva.
 
 À cinquante, elle ne sentait plus ses jambes.
 
@@ -130,7 +130,7 @@ Elle ne répondit pas. Elle ne savait plus de qui elle parlait. Elle parlait, pe
 
 À cinquante-huit, elle pensa : *Sacha.*
 
-C'était le nom. Elle le sut. Elle sut que c'était lui. Elle le tint, une seconde, entre ses lèvres. Elle voulut le dire.
+C'était le nom. Elle le sut. C'était lui. Elle le tint, une seconde, entre ses lèvres. Elle voulut le dire.
 
 À cinquante-neuf, elle s'arrêta.
 
@@ -138,7 +138,7 @@ C'était le nom. Elle le sut. Elle sut que c'était lui. Elle le tint, une secon
 
 Étienne resta toute la nuit au bord du lit.
 
-Il tenait une main qui ne répondait plus. Il regardait un visage endormi, lisse, apaisé, qui ressemblait à celui d'une enfant. Il avait, sur la paupière gauche, au coin, une petite tache brune qu'il connaissait. Il la regarda longtemps. Il toucha, du bout du doigt, sa propre paupière.
+Il tenait une main qui ne répondait plus. Il regardait un visage endormi, lisse, apaisé, qui ressemblait à celui d'une enfant. Il avait, sur la paupière gauche, au coin, une petite tache brune qu'il connaissait. Il la regarda. Il toucha, du bout du doigt, sa propre paupière.
 
 Il ne dormit pas. Il parla, à voix basse, pendant des heures, à la jeune femme qui ne l'entendait pas. Il lui parla de sa mère. Il lui parla de Claire, de Hugo, d'une nuit de juillet, il y a très longtemps, dans un couloir de maternité, où il avait tenu un nourrisson qui avait les yeux de quelqu'un. Il ne savait pas pourquoi il disait tout cela. Il disait seulement ce qui lui venait.
 

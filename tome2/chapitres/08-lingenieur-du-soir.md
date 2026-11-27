@@ -6,7 +6,7 @@ En août, elle cessa de dormir.
 
 Elle n'en tirait aucune gloire. C'était une nécessité de comptable : il y avait trois mois avant la vanne, soixante-dix nuits à peu près, et chacune comptait. Elle ne pouvait pas se permettre de les passer à rêver. Elle se couchait à neuf heures, la main d'Anselme dans la sienne, pendant que Jean prenait son poste de nuit au chantier. Elle fermait les yeux, comptait jusqu'à cinquante-neuf. Elle sentait Rose glisser, avec ce soupir d'enfant qui se rend. Puis elle se relevait, sans bruit, et allait voir ce qu'on faisait de la vallée.
 
-On la vidait. Il n'y avait pas d'autre mot. On avait détourné la rivière dans un tunnel de béton, et ce qui restait du fond, la glaise grasse des jardins, des prés, de la place de l'église, on le décapait à la pelle mécanique, par bandes, comme on pèle un fruit. La nuit, les camions roulaient avec leurs projecteurs, et la vallée était pleine de lumière jaune, de poussière et de cris de contremaîtres. Les maisons restaient debout, avec leurs volets, leurs numéros peints à la chaux, qu'on abattrait en septembre.
+On la vidait. Il n'y avait pas d'autre mot. On avait détourné la rivière dans un tunnel de béton, et ce qui restait du fond, la glaise grasse des jardins, des prés, de la place de l'église, on le décapait à la pelle mécanique, par bandes,. La nuit, les camions roulaient avec leurs projecteurs, et la vallée était pleine de lumière jaune, de poussière et de cris de contremaîtres. Les maisons restaient debout, avec leurs volets, leurs numéros peints à la chaux, qu'on abattrait en septembre.
 
 Au bas du chantier, contre le mur, il y avait un homme.
 
@@ -52,7 +52,7 @@ Elle apprit le chantier comme elle avait appris la maison.
 
 Elle apprit les horaires : les équipes de nuit qui prenaient à dix heures, les gardes à minuit, les camions de ravitaillement à trois. Elle apprit les noms, qu'on criait d'un bout à l'autre des échafaudages : Orsini, le Piémontais de la pompe, qui chantait en travaillant, une chanson de montagne qu'elle avait presque reconnue ; Bastide, un grand roux qui jurait à chaque mot ; le petit Marcel, quinze ans, qu'on avait embauché pour porter les thermos et qui dormait, la nuit, sur un sac de ciment, la bouche ouverte. Elle apprit qu'on les payait à la semaine, trente-six francs de l'heure, et qu'on retenait sur la paie les outils perdus. Elle apprit qu'on mourait, parfois : un homme, en mai, écrasé par une benne, qu'on avait enterré dans le cimetière du Bas, au coin des étrangers. On n'en avait pas parlé.
 
-Elle comprit que ces gens n'étaient pas des ennemis. Ils étaient des pères. Ils avaient des enfants à Naples, à Chambéry, à Lisbonne. Ils attendaient la fin du chantier comme les gens du village attendaient la fin du monde : avec la même fatigue, la même hâte.
+Ces gens n'étaient pas des ennemis. Ils étaient des pères. Ils avaient des enfants à Naples, à Chambéry, à Lisbonne. Ils attendaient la fin du chantier comme les gens du village attendaient la fin du monde : avec la même fatigue, la même hâte.
 
 Elle ne voulait pas le comprendre. Cela l'empêchait de haïr.
 
@@ -66,7 +66,7 @@ Elle pensa à son fils. Elle ne sut pas pourquoi. Elle chercha son nom, et ne le
 
 La nuit suivante, elle suivit l'ingénieur jusqu'au bout.
 
-Il descendit, comme à son habitude, au pied du mur. Il posa la main sur le béton. Elle, derrière les traverses, retenait son souffle. Il resta ainsi un quart d'heure. Puis il parla. Il parla à voix basse, comme on parle à un animal qu'on veut apprivoiser, et elle ne comprit rien, d'abord, parce qu'il disait cela en allemand.
+Il descendit, comme à son habitude, au pied du mur. Il posa la main sur le béton. Elle, derrière les traverses, retenait son souffle. Il resta ainsi un quart d'heure. Puis il parla. Il parla à voix basse, et elle ne comprit rien, d'abord, parce qu'il disait cela en allemand.
 
 Elle entendit ensuite :
 
@@ -74,7 +74,7 @@ Elle entendit ensuite :
 
 Elle recula si vite qu'elle fit rouler une traverse.
 
-Il se retourna. Elle se jeta au sol, la joue contre la poussière, les mains sur la bouche. Il regarda dans sa direction, longtemps, avec cette expression de myope qui cherche une silhouette. Puis il haussa les épaules, et remonta.
+Il se retourna. Elle se jeta au sol, la joue contre la poussière, les mains sur la bouche. Il regarda dans sa direction, avec cette expression de myope qui cherche une silhouette. Puis il haussa les épaules, et remonta.
 
 Elle ne bougea pas pendant une heure.
 

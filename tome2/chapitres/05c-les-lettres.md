@@ -16,7 +16,7 @@ Les réponses arrivèrent en août.
 
 La première vint de la préfecture, sur papier à en-tête, dactylographiée, deux lignes : *Votre courrier a bien été reçu. Il a été transmis au service compétent.* La deuxième, de l'évêché, plus longue, plus douce : *Nous prions pour vous, ma sœur, dans cette épreuve. Remettez-vous-en à la Providence.* Il n'y en eut pas d'autres. Les autres lettres avaient dû s'égarer dans des tiroirs, entre un permis de construire et une demande de subvention.
 
-C'est le facteur qui les apporta, un matin, à la maison de Rose, par erreur : il n'avait pas compris que les lettres anonymes se renvoient à l'expéditeur. Rose les ouvrit, debout dans la cuisine, avec l'enfant sur la hanche. Elle les lut. Elle resta longtemps immobile. Elle regarda la deuxième, celle de l'évêque, qui lui disait qu'on priait pour elle. Elle dit à voix haute, à la pièce vide :
+C'est le facteur qui les apporta, un matin, à la maison de Rose, par erreur : il n'avait pas compris que les lettres anonymes se renvoient à l'expéditeur. Rose les ouvrit, debout dans la cuisine, avec l'enfant sur la hanche. Elle les lut. Elle resta immobile. Elle regarda la deuxième, celle de l'évêque, qui lui disait qu'on priait pour elle. Elle dit à voix haute, à la pièce vide :
 
 — Je n'ai écrit à personne.
 
@@ -34,7 +34,7 @@ Au fond d'elle, très bas, quelque chose se mit à rire, d'un rire très las. Il
 
 ---
 
-Iris n'écrivit plus. Elle comprit, ce soir-là, qu'on ne change pas ceux qui ont le pouvoir avec des mots qu'ils ne peuvent pas entendre. Elle comprit que le monde d'en haut, celui des préfectures, des ministères, des évêchés, était fait pour ne pas répondre. Elle comprit qu'elle avait perdu trois semaines.
+Iris n'écrivit plus. On ne change pas ceux qui ont le pouvoir avec des mots qu'ils ne peuvent pas entendre. Le monde d'en haut, celui des préfectures, des ministères, des évêchés, était fait pour ne pas répondre. Elle avait perdu trois semaines.
 
 Elle ne le regretta pas tout à fait. Elle avait aimé, pendant ces nuits-là, cette solitude d'écrivain, cette obstination de petite fille. Elle avait aimé sentir, dans sa main, le crayon que Rose ne tenait jamais. Elle avait aimé, en rentrant, l'odeur du pain, du chien, du matin. Elle avait aimé, à la fin, que quelqu'un, dans la maison, ait lu.
 

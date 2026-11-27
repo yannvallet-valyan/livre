@@ -6,7 +6,7 @@ Hélène Varenne mourut le 8 mars 2041, à quatre heures de l'après-midi, par u
 
 Elle avait refusé l'hôpital. Elle avait dit au médecin : « Je suis chez moi. » Il avait haussé les épaules, laissé une ordonnance, promis de repasser. Elle avait gardé ses lunettes, son tricot, sa théière sur la table de nuit. Elle respirait avec un bruit de papier froissé. Elle avait quatre-vingt-un ans. Elle n'avait jamais eu l'air si petite.
 
-Iris s'assit à son chevet à la sortie du collège. Elle avait treize ans. Elle posa son cartable. Elle prit la main de la vieille femme, qui était froide, sèche, tachée de brun. Elle la tint longtemps sans parler. Sophia, dans la cuisine, faisait chauffer de l'eau pour la quatrième fois. Elle ne savait plus que faire de ses mains.
+Iris s'assit à son chevet à la sortie du collège. Elle avait treize ans. Elle posa son cartable. Elle prit la main de la vieille femme, qui était froide, sèche, tachée de brun. Elle la tint sans parler. Sophia, dans la cuisine, faisait chauffer de l'eau pour la quatrième fois. Elle ne savait plus que faire de ses mains.
 
 — Il pleut ? demanda Hélène.
 
@@ -37,7 +37,7 @@ Iris hésita. Elle regarda le visage creusé, les paupières bleues, la bouche e
 
 Elle s'arrêta. Elle attendit. Elle n'avait pas la suite.
 
-Hélène avait rouvert les yeux. Elle regardait le plafond, très attentivement, comme on lit un texte fin.
+Hélène avait rouvert les yeux. Elle regardait le plafond, très attentivement.
 
 — C'est celle d'Anselme, dit-elle.
 
@@ -91,7 +91,7 @@ Il y eut un silence. Sophia fit un pas. Elle s'agenouilla à côté de sa fille,
 
 Iris comprit qu'elle ne savait pas de laquelle elle parlait.
 
-Hélène leva la main. Elle la posa sur les cheveux de Sophia, gris, ras, coupés court, d'une femme qui a travaillé toute sa vie. Elle caressa lentement cette tête, comme on caresse une petite fille.
+Hélène leva la main. Elle la posa sur les cheveux de Sophia, gris, ras, coupés court, d'une femme qui a travaillé toute sa vie. Elle caressa lentement cette tête.
 
 — Tu l'as tenue, dit-elle. Tu ne l'as jamais trahie. Tu m'as juste désobéi.
 
@@ -105,7 +105,7 @@ Elle ne dit plus rien. Elle ferma les yeux. Sa main resta sur la tête de sa fil
 
 Elle mourut une demi-heure plus tard, sans bruit.
 
-Iris le comprit en voyant Sophia lever la tête. Elle comprit en entendant, à l'extérieur, le grésil cesser de taper aux vitres, un silence brusque, très pur, comme celui qui suit une dernière note. Elle resta immobile. Elle regarda le visage de sa grand-mère, soudain lisse, très jeune, d'une paix d'enfant.
+Iris le comprit en voyant Sophia lever la tête. À l'extérieur, le grésil cessa de taper aux vitres : un silence brusque, très pur, comme celui qui suit une dernière note. Elle resta immobile. Elle regarda le visage de sa grand-mère, soudain lisse, très jeune, d'une paix d'enfant.
 
 Elle n'avait pas peur. Elle avait connu des mots plus durs. Elle posa ses lèvres sur le front de la morte. Elle y sentit un goût de thé, de laine, de très vieux papier.
 

@@ -26,7 +26,7 @@ Elle eut le temps de coucher l'enfant. Elle eut le temps de regarder, par la luc
 
 Elle y resta tout le jour.
 
-Elle le comprit plus tard : elle n'y avait pas dormi, elle y avait écouté. Il y avait des bruits sourds, comme sous l'eau : un seau qu'on pose, une marmite qu'on frotte, un chant fredonné à voix basse, un patois qu'elle ne comprenait pas et qui venait de la gorge de quelqu'un d'attentif. Il y avait aussi une présence, immense, énergique, têtue : la vie de Rose, qui avançait sans elle. Elle l'écoutait passer comme on écoute, à travers un mur, la vie d'une maison voisine.
+Elle le comprit plus tard : elle n'y avait pas dormi, elle y avait écouté. Il y avait des bruits sourds, comme sous l'eau : un seau qu'on pose, une marmite qu'on frotte, un chant fredonné à voix basse, un patois qu'elle ne comprenait pas et qui venait de la gorge de quelqu'un d'attentif. Il y avait aussi une présence, immense, énergique, têtue : la vie de Rose, qui avançait sans elle. Elle l'écoutait passer, à travers un mur, la vie d'une maison voisine.
 
 *C'est elle qui existe,* pensa-t-elle. *Moi, je suis ce qui reste quand elle ferme les yeux.*
 
@@ -36,9 +36,9 @@ La deuxième nuit, elle fouilla.
 
 Elle n'en avait pas le droit. Elle le savait. Elle le fit quand même, avec la méthodicité d'une archiviste, dans l'ordre où l'on visite une maison inconnue : la cuisine d'abord, puis la chambre, puis la cave. Elle ouvrit le buffet. Elle trouva des assiettes dépareillées, une boîte de sucre, un bocal de haricots, un pot de saindoux, une huche à pain où dormait un demi-pain dur, couvert d'un linge propre. Elle trouva, dans le tiroir du haut, un livre de comptes à couverture de toile cirée : l'écriture de Rose, ronde, appliquée, de celles qu'on apprend à l'école des sœurs. *Beurre : 120 f. Pain : 40 f. Pour Jean, chaussures : 1 800 f (à crédit, M. Gauthier).* Les chiffres s'alignaient en colonnes, sans une rature. Au bas de la dernière page, Rose avait écrit en petits caractères : *On y arrivera.*
 
-Elle resta longtemps à regarder cette phrase.
+Elle resta à regarder cette phrase.
 
-Elle trouva, dans la chambre, une armoire à deux battants avec trois robes, un châle, un tablier, une paire de souliers du dimanche. Au fond, sous les draps, un coffret de bois peint contenant des lettres, une mèche de cheveux blonds liée d'un fil rouge, un chapelet de verre. Elle ne lut pas les lettres. Elle toucha seulement la mèche. Elle comprit, à la finesse, que c'étaient des cheveux d'enfant, d'un enfant qui n'avait pas vécu. Elle remit le coffret à sa place. Elle sut qu'elle venait de faire quelque chose qu'elle ne pourrait pas s'avouer.
+Elle trouva, dans la chambre, une armoire à deux battants avec trois robes, un châle, un tablier, une paire de souliers du dimanche. Au fond, sous les draps, un coffret de bois peint contenant des lettres, une mèche de cheveux blonds liée d'un fil rouge, un chapelet de verre. Elle ne lut pas les lettres. Elle toucha seulement la mèche. À leur finesse, c'étaient des cheveux d'enfant, d'un enfant qui n'avait pas vécu. Elle remit le coffret à sa place. Elle venait de faire ce qu'elle ne pourrait pas s'avouer.
 
 Elle trouva, sous le lit, une valise de carton, déjà à moitié pleine. Rose préparait le départ depuis des semaines, par petites touches, avec cette obstination des paysans à qui l'on demande de partir et qui ne veulent pas que cela se voie. Elle avait glissé dedans un dé à coudre, deux cuillères, une photographie de mariage. Elle avait plié par-dessus un drap brodé, au monogramme d'une grand-mère. Il y avait aussi, au bord, un petit pot de miel, qu'on avait dû garder pour une occasion.
 
@@ -90,4 +90,4 @@ Elle ne put pas s'empêcher de sourire. Elle prit le charbon. Elle hésita. Elle
 
 Elle n'avait pas dit : *c'est moi.* Elle n'avait pas dit : *je suis ici.* Elle avait dit la seule chose qu'elle était sûre d'avoir appris de cette maison.
 
-Elle posa le charbon. Elle regarda le mur. Elle sentit le cœur battre dans sa poitrine, très fort, comme on le sent quand on vient de frapper à une porte.
+Elle posa le charbon. Elle regarda le mur. Elle sentit le cœur battre dans sa poitrine, très fort,.

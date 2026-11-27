@@ -4,7 +4,7 @@
 
 À presque quinze ans, Iris était la plus grande de sa classe et la plus silencieuse.
 
-Elle s'asseyait au fond, près de la fenêtre, un cahier ouvert devant elle, et dessinait des visages dans les marges. Les professeurs, qui l'aimaient bien, ne la dérangeaient pas. Elle avait de bonnes notes, sans effort, comme on respire. Elle écrivait à la craie sur les tableaux quand on la lui demandait, d'une écriture ronde, ferme, qui avait quelque chose de très ancien. On disait qu'elle avait « de la tenue ». Elle ne savait pas ce que cela voulait dire.
+Elle s'asseyait au fond, près de la fenêtre, un cahier ouvert devant elle, et dessinait des visages dans les marges. Les professeurs, qui l'aimaient bien, ne la dérangeaient pas. Elle avait de bonnes notes, sans effort. Elle écrivait à la craie sur les tableaux quand on la lui demandait, d'une écriture ronde, ferme, qui avait quelque chose de très ancien. On disait qu'elle avait « de la tenue ». Elle ne savait pas ce que cela voulait dire.
 
 Elle n'avait qu'une amie.
 
@@ -58,7 +58,7 @@ Sophia ne répondit pas. Elle regardait sa fille, du haut en bas, avec cette fro
 
 — Je ne veux pas que tu dormes ailleurs. Je ne veux pas qu'on t'entende.
 
-Iris resta debout, une main sur le dossier d'une chaise. Elle sentit monter en elle quelque chose de très ancien, une colère de bête qu'on enferme.
+Iris resta debout, une main sur le dossier d'une chaise. Elle sentit monter une colère très ancienne, une colère de bête qu'on enferme.
 
 — Je ne choisis pas, dit-elle. Je ne l'ai pas demandé.
 
@@ -72,7 +72,7 @@ Elles se regardèrent.
 
 — Qui est mon père ?
 
-La question était venue toute seule. Elle ne l'avait jamais posée. Elle l'avait portée pendant des années, comme on porte un caillou dans une poche, en ne le sortant que pour le toucher. Sophia ne bougea pas. Elle resta immobile, la bouche entrouverte, comme quelqu'un qui cherche, sur une étagère haute, un objet qu'il sait avoir rangé.
+La question était venue toute seule. Elle ne l'avait jamais posée. Elle l'avait portée pendant des années, en ne le sortant que pour le toucher. Sophia ne bougea pas. Elle resta immobile, la bouche entrouverte, comme quelqu'un qui cherche, sur une étagère haute, un objet qu'il sait avoir rangé.
 
 — Je ne sais pas.
 
@@ -84,13 +84,13 @@ Elle s'interrompit. Elle porta la main à sa bouche.
 
 — Je ne me rappelle pas sa voix, dit-elle.
 
-Elle s'assit. Elle resta longtemps ainsi, le front dans la main. Iris ne lui prit pas l'épaule. Elle ne savait pas comment on faisait. Elle regarda le dos de sa mère, voûté, fragile, et sentit au fond d'elle deux voix qui se levaient, très bas, l'une grave, l'autre rauque, qui se taisaient pour ne pas déranger.
+Elle s'assit. Elle resta ainsi, le front dans la main. Iris ne lui prit pas l'épaule. Elle ne savait pas comment on faisait. Elle regarda le dos de sa mère, voûté, fragile, et sentit au fond d'elle deux voix qui se levaient, très bas, l'une grave, l'autre rauque, qui se taisaient pour ne pas déranger.
 
 Elle dit seulement :
 
 — Je vais me coucher.
 
-Elle monta dans sa chambre. Elle s'allongea sans se déshabiller. Elle écouta, longtemps, le bruit de la cuisine, où sa mère pleurait sans un son, à la manière des gens qui n'ont jamais appris.
+Elle monta dans sa chambre. Elle s'allongea sans se déshabiller. Elle écouta, le bruit de la cuisine, où sa mère pleurait sans un son, à la manière des gens qui n'ont jamais appris.
 
 ---
 
@@ -140,6 +140,6 @@ Elle détourna les yeux. Elle regarda le ciel, qui rougissait derrière Fourviè
 
 — Non.
 
-Elle prit un gâteau. Elle le mangea, le regard fixe. Iris la regarda. Elle comprit, au fond d'elle, qu'il y avait là un secret, aussi lourd que le sien, et qu'elles ne se le diraient jamais.
+Elle prit un gâteau. Elle le mangea, le regard fixe. Iris la regarda. Il y avait là un secret, aussi lourd que le sien, et elles ne se le diraient jamais.
 
 Elle ne chercha pas. Elle ne le sut que vingt-deux ans plus tard, un jeudi de mars, à six heures dix, devant la porte entrouverte d'une chambre d'enfant.

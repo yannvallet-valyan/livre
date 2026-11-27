@@ -4,7 +4,7 @@
 
 Le gendarme s'appelait Fabre. Il avait un cheval, un képi trop petit et le tact des hommes qui n'aiment pas leur métier. Il vint le mardi 9 septembre, vers dix heures, quand Rose pétrissait, les mains dans la pâte jusqu'aux poignets, et qu'elle ne pouvait pas essuyer ses larmes sans laisser de farine sur les joues.
 
-Elle ne pleurait pas pour une raison précise. Depuis la nuit de l'hôpital, quelque chose s'était déplacé dans sa maison : un poids, comme un meuble dont on a changé la place. Elle dormait mieux. Elle dormait trop bien. Elle se réveillait avec des heures dans la bouche, des heures qu'elle n'avait pas vécues, et au bas de ses jupes, parfois, de la boue grise qu'elle n'avait pas ramassée.
+Elle ne pleurait pas pour une raison précise. Depuis la nuit de l'hôpital, sa maison s'était déplacée : un poids, comme un meuble dont on a changé la place. Elle dormait mieux. Elle dormait trop bien. Elle se réveillait avec des heures dans la bouche, des heures qu'elle n'avait pas vécues, et au bas de ses jupes, parfois, de la boue grise qu'elle n'avait pas ramassée.
 
 — Madame Roch, dit le gendarme. Je peux entrer ?
 
@@ -36,11 +36,11 @@ Il leva les yeux. Il y avait dans son regard une compassion que Rose détesta au
 
 — Il y a un médecin à Grenoble. Une maison de repos. Rien de grave. Quelques semaines.
 
-Elle sentit ses mains se refermer, dans la pâte. Elle sentit quelque chose, tout au fond d'elle, de très ancien et de très calme, remuer sous la glaise, lever la tête, écouter.
+Elle sentit ses mains se refermer, dans la pâte. Tout au fond d'elle, quelqu'un de très ancien et de très calme remua sous la glaise, leva la tête, écouta.
 
 *Elle me met à l'abri*, pensa la chose. *Ou elle m'enferme.*
 
-Ce n'était pas une pensée de Rose. C'était une phrase à l'envers, étrangère, que Rose ne comprit pas, et qu'elle oublia aussitôt, comme on oublie un mot dans une langue qu'on n'a pas apprise.
+Ce n'était pas une pensée de Rose. C'était une phrase à l'envers, étrangère, que Rose ne comprit pas, et qu'elle oublia aussitôt,.
 
 ---
 
@@ -48,7 +48,7 @@ Elle aurait voulu pouvoir mentir.
 
 Elle ne l'avait jamais su. Elle avait grandi avec la certitude que les mensonges, comme les péchés, laissent des traces sur le visage, qu'on les lit dans les yeux, dans les doigts, dans une certaine façon de tenir ses mains. Elle regarda les siennes. Elles étaient blanches de farine. Elles ne tremblaient pas. Elle pensa : *je suis innocente.* Elle pensa : *non.* Elle avait déjà compris, sans le dire, que quelque chose en elle avait agi sans son aveu, qu'une part d'elle-même, qu'elle ne connaissait pas, avait dévissé des boulons, arpenté la vallée, regardé des hommes dormir.
 
-Elle se souvint des nuits. Elle se rappela des matins où elle s'éveillait avec des genoux écorchés, des chevilles boueuses, des muscles douloureux, des heures d'absence qu'elle n'avait pas voulu compter. Elle ne les avait pas niés. Elle les avait rangés, comme on range dans un tiroir ce qu'on ne sait pas encore nommer.
+Elle se souvint des nuits. Elle se rappela des matins où elle s'éveillait avec des genoux écorchés, des chevilles boueuses, des muscles douloureux, des heures d'absence qu'elle n'avait pas voulu compter. Elle ne les avait pas niés. Elle les avait rangés.
 
 *C'est toi,* pensa-t-elle, à l'adresse de personne.
 
@@ -64,7 +64,7 @@ Jean entra par la porte du fond, les mains sales de sciure, un sac sur l'épaule
 
 — Quelle affaire ?
 
-Il le savait. Il le savait depuis trois semaines. Rose le comprit en le regardant, avec une clarté de lavandière qui lit un drap à la lumière : il l'avait vue, une nuit, rentrer de la vallée avec ses souliers pleins de glaise. Il avait vu, un matin, une clé à molette dans le tiroir où l'on ne rangeait que les couteaux. Il n'avait rien dit. Il avait attendu, comme on attend que passe un orage.
+Il le savait. Il le savait depuis trois semaines. Rose le comprit en le regardant, avec une clarté de lavandière qui lit un drap à la lumière : il l'avait vue, une nuit, rentrer de la vallée avec ses souliers pleins de glaise. Il avait vu, un matin, une clé à molette dans le tiroir où l'on ne rangeait que les couteaux. Il n'avait rien dit. Il avait attendu.
 
 — C'est moi, dit-il.
 
@@ -80,7 +80,7 @@ Rose voulut parler. Elle ne put pas. Elle sentit ses lèvres s'ouvrir, et person
 
 — À ma sœur, alors.
 
-Fabre le regarda longtemps. Il avait compris, sans doute, qu'il mentait. Il avait compris aussi qu'un homme qui ment ainsi, avec cette gaucherie d'homme honnête, ne ment pas pour lui-même. Mais il avait un képi, un cheval, un rapport à rendre. Il sortit ses menottes d'un geste très lent, comme on sort un mouchoir devant une femme qui pleure.
+Fabre le regarda. Il avait compris, sans doute, qu'il mentait. Il avait compris aussi qu'un homme qui ment ainsi, avec cette gaucherie d'homme honnête, ne ment pas pour lui-même. Mais il avait un képi, un cheval, un rapport à rendre. Il sortit ses menottes d'un geste très lent.
 
 — Je suis désolé, dit-il.
 
@@ -110,4 +110,4 @@ Elle ne s'attendit pas à une réponse. Elle sortit chercher du bois. Quand elle
 
 *Oui. Pardon.*
 
-Elle resta longtemps à les regarder. Elle ne les effaça pas.
+Elle resta à les regarder. Elle ne les effaça pas.

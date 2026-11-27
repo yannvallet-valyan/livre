@@ -1,4 +1,4 @@
-# Chapitre 59 — L'homme en blanc
+# Chapitre 56 — L'homme en blanc
 
 *(premier jet)*
 
@@ -24,7 +24,7 @@ Elle avait embrassé Anselme. Elle avait respiré son odeur, de lait, de laine, 
 
 *Rose.*
 
-Elle n'avait pas osé l'appeler. Elle l'avait fait, pourtant, tout au fond d'elle, comme on murmure un nom dans le noir. Elle avait senti une présence, très proche, qui se levait, qui s'approchait, qui la regardait avec une attention grave, un peu moqueuse. La voix était venue du fond de ses os, brusque, sèche, sans tendresse.
+Elle n'avait pas osé l'appeler. Elle l'avait fait, pourtant, tout au fond d'elle,. Elle avait senti une présence, très proche, qui se levait, qui s'approchait, qui la regardait avec une attention grave, un peu moqueuse. La voix était venue du fond de ses os, brusque, sèche, sans tendresse.
 
 *Va. Je dors.*
 
@@ -36,15 +36,15 @@ Elle marcha donc, sur le chemin de halage, dans l'obscurité.
 
 Il y avait une lumière.
 
-Elle ne la vit pas tout de suite. C'était une lueur verte, très faible, très basse, au ras du béton, d'un vert de lichen, de braise de phosphore. Elle venait d'un petit boîtier posé sur une pierre, à côté d'un homme accroupi. Il lui tournait le dos. Il portait un pardessus sombre, ouvert sur une chemise très blanche, dont le col éclairait son cou. Il avait posé son chapeau près de lui. Dans la main droite, il tenait un crayon. Dans la gauche, un cahier noir.
+Elle ne la vit pas tout de suite. C'était une lueur verte, très faible, très basse, au ras du béton, d'un vert de lichen, de braise de phosphore. Elle venait d'un petit boîtier posé sur une pierre, à côté d'un homme accroupi. Il lui tournait le dos. Il portait une blouse blanche par-dessus un pardessus sombre, dont le col éclairait son cou. Il avait posé son chapeau près de lui. Dans la main droite, il tenait un crayon. Dans la gauche, un cahier noir.
 
 Elle s'immobilisa.
 
-Elle le reconnut à sa nuque. C'était l'ingénieur suisse, qu'elle avait épié tout l'été. Mais ce n'était pas lui. Il y avait dans la façon dont l'homme se tenait quelque chose de fixe, de patient, d'appliqué, qui n'était pas la maladresse polie de Walther Kerr. Il n'avait pas les épaules d'un amoureux. Il avait les épaules de quelqu'un qui travaille.
+Elle le reconnut à sa nuque. C'était l'ingénieur suisse, qu'elle avait épié tout l'été. Mais ce n'était pas lui. L'homme se tenait d'une façon fixe, patiente, appliquée, qui n'était pas la maladresse polie de Walther Kerr. Il n'avait pas les épaules d'un amoureux. Il avait les épaules de quelqu'un qui travaille.
 
 Il leva les yeux. Il avait perçu sa présence avant qu'elle ne fasse un bruit. Il se retourna, sans se lever, avec lenteur, avec ce souci très grand de ne pas effrayer qu'ont les gens qui ont déjà trop effrayé.
 
-Il porta la main à sa tête nue, par politesse, là où aurait dû se trouver un chapeau. Son geste resta suspendu dans l'air, puis retomba. Il dit :
+Il ôta son chapeau, qu'il tenait contre lui, et s'inclina légèrement, comme on salue une dame à la sortie de la messe. Il dit :
 
 — Pardon, madame. Je ne voulais pas vous effrayer.
 
@@ -56,7 +56,7 @@ Elle regardait ses mains. Il avait refermé le cahier, doucement, sur le crayon,
 
 Elle ne respira plus.
 
-Il se redressa. Il se tenait devant elle, à deux mètres, dans la lueur verte, les mains un peu écartées, pour montrer qu'elles étaient vides. Il avait le visage de Walther Kerr, rond, doux, un peu épais, avec la mâchoire carrée des gens du Nord. Mais dans l'expression il y avait autre chose, qu'elle n'avait jamais vu dans ce visage-là et qu'elle reconnut aussitôt : la gravité attentive d'un petit garçon de trois ans qui trace un soleil.
+Il se redressa. Il se tenait devant elle, à deux mètres, dans la lueur verte, les mains un peu écartées, pour montrer qu'elles étaient vides. La lumière verte l'éclairait par en dessous, et le visage restait dans l'ombre, comme si la lumière avait décidé de ne pas aller jusque-là. Elle n'en distingua que le menton, la mâchoire carrée des gens du Nord : celle de Walther Kerr. Mais dans la façon de se tenir il y avait autre chose, qu'elle n'avait jamais vu chez cet homme-là et qu'elle reconnut aussitôt : la gravité attentive d'un petit garçon de trois ans qui trace un soleil.
 
 — Vous êtes seule ? dit-il.
 
@@ -74,7 +74,7 @@ Il la regardait avec une douceur terrible.
 
 — Vous vous trompez, dit-il. Je ne vous veux aucun mal. Je mesure, c'est tout. Je ne touche à rien. Je n'interviens pas.
 
-Il avait dit cette phrase sans y penser, comme on récite une consigne. Elle sut, à l'entendre, qu'il l'avait dite cent fois, devant d'autres murs, dans d'autres nuits, à d'autres femmes. Elle sut qu'il ne se souvenait d'aucune.
+Il avait dit cette phrase sans y penser. À l'entendre, il l'avait dite cent fois, devant d'autres murs, dans d'autres nuits, à d'autres femmes. Il ne se souvenait d'aucune.
 
 — Qu'est-ce que vous mesurez ?
 
@@ -82,7 +82,9 @@ Il avait dit cette phrase sans y penser, comme on récite une consigne. Elle sut
 
 — Et qu'est-ce qu'il y a dessous ?
 
-— Je ne sais pas encore, dit-il. C'est ma première mesure.
+Il regarda le filament rouge dans la glaise.
+
+— Le temps qu'il reste, dit-il. Je ne sais pas encore. C'est ma première mesure.
 
 Il sourit. C'était un sourire d'excuse, qui ressemblait à celui de Théo, mais plus jeune, plus nu, d'une sorte d'innocence qu'elle ne comprit pas.
 
@@ -92,11 +94,11 @@ Elle aurait pu parler.
 
 Elle l'avait voulu pendant toute la nuit, pendant toute la route. Elle avait cherché les mots : *Je suis ta mère.* *Je suis venue pour toi.* *Je sais ce que tu deviens.* Elle les avait tous écartés, un à un, comme on écarte des vêtements trop étroits. Elle ne savait pas lequel il pouvait supporter.
 
-Il la regardait. Elle vit, dans ses yeux, qui étaient ceux de Walther, bruns, très doux, quelque chose de gris qui passait, une lueur de glaise, de lac, d'enfant. Elle voulut tendre la main. Elle sentit qu'elle ne le pouvait pas.
+Il la regardait. Elle vit, dans ses yeux, qui étaient ceux de Walther, bruns, très doux, un gris qui passait, une lueur de glaise, de lac, d'enfant. Elle voulut tendre la main. Elle sentit qu'elle ne le pouvait pas.
 
 *S'il sait, il ne mesurera plus.* La pensée vint d'elle-même, claire, atroce, avec la netteté d'un fait. *S'il sait qu'il a une mère qui l'attend, il ne sera pas K. Il ne partira pas dans la nuit. Il ne verra pas les tours. Il n'écrira pas le cahier. Il n'y aura pas de tour 47. Il n'y aura pas d'Élise qui reste. Il n'y aura pas eu de moi.*
 
-Elle comprit que si elle parlait, il y aurait un fils de plus, et plus rien de ce qui l'avait fait naître.
+Si elle parlait, il y aurait un fils de plus, et plus rien de ce qui l'avait fait naître.
 
 Elle ne dit rien.
 

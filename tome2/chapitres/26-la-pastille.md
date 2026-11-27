@@ -1,4 +1,4 @@
-# Chapitre 52 — La pastille
+# Chapitre 50 — La pastille
 
 *(premier jet)*
 
@@ -20,7 +20,7 @@ Il ne répondit pas. Elle s'approcha. Elle posa la main sur son épaule. Il éta
 
 — Cinquante-neuf.
 
-Il s'arrêta. Il resta immobile, la bouche entrouverte, comme un petit garçon au bord d'une marche manquante. Il tourna la tête, très lentement, vers elle. Ses yeux étaient d'un gris très clair. Il y avait dedans quelque chose de nouveau, qui n'était pas de la peur : une fatigue, un recul, une distance. Un enfant qui s'était éloigné de lui-même d'un pas.
+Il s'arrêta. Il resta immobile, la bouche entrouverte, comme un petit garçon au bord d'une marche manquante. Il tourna la tête, très lentement, vers elle. Ses yeux étaient d'un gris très clair. Il y avait dedans autre chose que de la peur : une fatigue, un recul, une distance. Un enfant qui s'était éloigné de lui-même d'un pas.
 
 — Maman, dit-il. Je ne retrouve pas le prénom de Bastien.
 
@@ -46,7 +46,7 @@ Elle comprit. Elle ne dit rien. Elle le prit dans ses bras, très fort, comme el
 
 — Sacha.
 
-Il baissa les yeux. Il hésita, longtemps, avec cette gravité de mauvais menteur qu'ont les enfants qui n'ont jamais menti.
+Il baissa les yeux. Il hésita, avec cette gravité de mauvais menteur qu'ont les enfants qui n'ont jamais menti.
 
 — C'est à l'école, dit-il. La directrice l'a distribué. Tout le monde en prend. C'est un complément. Pour le sommeil.
 
@@ -72,7 +72,7 @@ Il leva les yeux. Il avait, dans le regard, une espèce de supplication très ca
 
 Elle emmena Sacha chez Étienne, le jour même.
 
-Il l'ausculta longtemps. Il lui fit lever les bras, tourner la tête, fixer la lumière. Il lui demanda des choses simples : la date, le jour de la semaine, le nom du maire. L'enfant répondit avec précision, d'une voix claire. Il se trompa une seule fois, pour le nom d'une rue. Étienne le regarda, le front plissé, sans rien dire.
+Il l'ausculta. Il lui fit lever les bras, tourner la tête, fixer la lumière. Il lui demanda des choses simples : la date, le jour de la semaine, le nom du maire. L'enfant répondit avec précision, d'une voix claire. Il se trompa une seule fois, pour le nom d'une rue. Étienne le regarda, le front plissé, sans rien dire.
 
 Il lui demanda de dessiner. Il lui tendit un crayon et une feuille. Sacha prit le crayon entre le pouce et le majeur. Il traça un cercle, un carré. Il hésita, la mine du crayon contre le papier. Il leva la tête, puis le baissa. Il dessina une maison.
 

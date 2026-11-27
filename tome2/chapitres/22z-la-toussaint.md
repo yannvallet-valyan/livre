@@ -42,7 +42,7 @@ Il hocha la tête. Il resta debout, à côté d'elle, très droit. Il dit, aprè
 
 — On en refera un autre.
 
-Elle ne répondit pas. Elle ne le regarda pas. Elle posa la main sur son genou, un instant, comme on pose un caillou sur un tas.
+Elle ne répondit pas. Elle ne le regarda pas. Elle posa la main sur son genou, un instant.
 
 ---
 
@@ -64,4 +64,4 @@ Elle ne répondit pas. Elle redescendit vers la maison, l'enfant endormi sur son
 
 Elle ne passa pas par le chemin habituel. Elle prit celui du lavoir, qu'elle connaissait par cœur, avec ses murs de mousse et ses marches de schiste. Elle s'arrêta au bord du grand bassin. L'eau coulait, noire, sans bruit. Elle y trempa la main. Elle la retira, la porta à ses lèvres, goûta.
 
-Elle sut que c'était la dernière fois que cette eau aurait le goût de l'eau.
+C'était la dernière fois que cette eau aurait le goût de l'eau.

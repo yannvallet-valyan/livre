@@ -16,7 +16,7 @@ Elle crut avoir gagné.
 
 Le lendemain, à midi, la conduite lâcha. On entendit le bruit depuis les maisons : un grondement sec, puis un jet blanc, large comme une tour, qui retomba en pluie sur le chantier et fit courir les hommes. Le moteur s'emballa, hurla, et se tut. La rivière revint dans sa vieille vallée, une demi-heure, brune, énorme, qui lécha le seuil des premières maisons avant qu'on ne lui referme la porte à coups de sacs de sable.
 
-Rose, au lavoir, avait lâché son linge. Elle regardait la route d'un air stupide, comme on regarde l'enterrement d'un autre. Iris, au fond d'elle, se tint tranquille, de peur d'être trahie par le visage.
+Rose, au lavoir, avait lâché son linge. Elle regardait la route d'un air stupide,. Iris, au fond d'elle, se tint tranquille, de peur d'être trahie par le visage.
 
 Le chantier prit une semaine de retard. On le dit à la boulangerie, le soir : une semaine, peut-être dix jours. Un homme en redit le chiffre trois fois, avec ce plaisir mauvais qu'ont les pauvres devant les affaires des riches. Une femme dit : « Le bon Dieu les a punis. » Une autre dit : « Ce n'est pas le bon Dieu. »
 
@@ -34,7 +34,7 @@ Il ne la regardait pas. Il regardait la table, la nappe de toile cirée, les cin
 
 — C'est un gars de Chambéry, dit-il. Il a une femme et quatre petits.
 
-Rose, qui venait de se lever, tenait la main d'Anselme. Iris sentit le corps de Rose se raidir, comme une bête qui entend son nom. Elle ne dit rien. Il n'y avait rien à dire. Elle regarda l'enfant qui regardait son père, avec ce sérieux atroce des petits qui comprennent qu'il se passe quelque chose de grave sans savoir quoi.
+Rose, qui venait de se lever, tenait la main d'Anselme. Iris sentit le corps de Rose se raidir, comme une bête qui entend son nom. Elle ne dit rien. Il n'y avait rien à dire. Elle regarda l'enfant qui regardait son père, avec ce sérieux atroce des petits qui comprennent que c'est grave sans savoir pourquoi.
 
 — Ils disent que c'est un saboteur, dit Jean.
 
@@ -46,7 +46,7 @@ Elle répondit, avec la voix de Rose, avec ses voyelles et sa lassitude :
 
 — Il y en a beaucoup.
 
-Il hocha la tête. Il enleva ses bottes, enfin. Il s'assit. Elle posa devant lui une écuelle de lait chaud. Il la prit à deux mains, comme on prend la vie d'un autre.
+Il hocha la tête. Il enleva ses bottes, enfin. Il s'assit. Elle posa devant lui une écuelle de lait chaud. Il la prit à deux mains.
 
 ---
 
@@ -60,7 +60,7 @@ Elle chercha le nom sur les fiches, aux pieds des lits. Elle trouva *Gaétan Mor
 
 Elle n'était jamais entrée dans un hôpital de cette époque. Elle avait connu ceux de sa jeunesse, propres, froids, remplis de machines. Celui-ci ressemblait à une grange où l'on aurait recueilli des blessés après une bataille. Il y régnait une espèce de solidarité grossière, de pitié sans phrases. Une infirmière retournait un malade en chantonnant. Un interne, en blouse tachée, cherchait un dossier en jurant. Elle regardait, sans oser bouger, ce monde où l'on souffrait sans s'excuser.
 
-Elle comprit ce qu'elle avait fait. Elle avait cru déplacer une machine. Elle avait déplacé des hommes.
+Elle regarda ce qu'elle avait fait. Elle avait cru déplacer une machine. Elle avait déplacé des hommes.
 
 Elle posa les pommes sur le drap. Elle ne savait pas quoi dire. Elle s'entendit murmurer, dans la langue qu'elle avait apprise à Lyon :
 
@@ -76,10 +76,10 @@ Il ouvrit un œil. Il vit une femme en noir, les cheveux ras, penchée sur lui, 
 
 — Quelqu'un qui n'aurait pas dû.
 
-Il la regarda longtemps, avec cette bonté stupide des blessés. Il dit : « Ce n'est rien. » Il referma l'œil. Elle resta debout au pied du lit, jusqu'à ce que la porte s'entrouvre sur l'aube, et qu'une religieuse lui dise, avec douceur : « Madame, il faut partir. »
+Il la regarda, avec cette bonté stupide des blessés. Il dit : « Ce n'est rien. » Il referma l'œil. Elle resta debout au pied du lit, jusqu'à ce que la porte s'entrouvre sur l'aube, et qu'une religieuse lui dise, avec douceur : « Madame, il faut partir. »
 
 Elle rentra à pied. Elle s'arrêta, en chemin, à un virage d'où l'on voyait la vallée tout entière. Les camions étaient là. Les pelles aussi. Elle n'avait volé qu'une semaine. Elle avait cassé trois côtes et une jambe.
 
 *Si je le fais cent fois*, pensa-t-elle.
 
-Elle sut qu'elle ne le ferait pas cent fois. Elle sut aussi qu'elle le referait.
+Elle ne le ferait pas cent fois. Elle le referait.

@@ -14,7 +14,7 @@ Les contractions avaient commencé vers huit heures. Elles avaient la régularit
 
 La sage-femme s'appelait Madame Ferrand. C'était une grande femme brune, aux bras de boulangère, avec l'accent du Sud et une voix qui ne monte jamais. Elle venait, toutes les demi-heures, poser la main sur le ventre, écouter, noter. Elle disait : « Ça va, ma belle. » Elle disait : « On y est presque. » Elle disait : « Votre bébé est bien accroché. » Sophia la haïssait de toute son âme.
 
-Elle haïssait aussi le couloir, l'odeur de savon et de javel, les pas qui passaient, le chariot qui grinçait, les rires d'une infirmière, très loin, qu'elle entendait comme on entend, dans un train, des gens qui s'amusent dans un autre wagon. Elle se sentait seule. Elle n'avait jamais été aussi seule. Il n'y avait personne pour lui tenir la main, personne à qui dire *j'ai peur*, personne à qui reprocher quoi que ce soit.
+Elle haïssait aussi le couloir, l'odeur de savon et de javel, les pas qui passaient, le chariot qui grinçait, les rires d'une infirmière, très loin, qu'elle entendait, dans un train, des gens qui s'amusent dans un autre wagon. Elle se sentait seule. Elle n'avait jamais été aussi seule. Il n'y avait personne pour lui tenir la main, personne à qui dire *j'ai peur*, personne à qui reprocher quoi que ce soit.
 
 Elle pensa à l'homme. Elle chercha son visage. Elle le retrouva en morceaux : une cicatrice au-dessus du sourcil, une façon de se gratter la nuque, un rire un peu trop grave pour un médecin. Elle pensa : *je lui aurais dit.* Elle pensa : *non.* Elle ferma les yeux plus fort.
 
@@ -28,17 +28,17 @@ Elle crut qu'elle allait mourir. Elle ne le dit à personne. Elle regardait le p
 
 C'est alors qu'elle sentit quelqu'un.
 
-Pas dans la pièce. En elle. Quelqu'un qui n'avait pas bougé depuis des mois, qui dormait là, tassé au fond, comme un caillou dans une chaussure, et qui, maintenant, se dépliait. Elle voulut hurler. Elle n'en avait plus la force. Elle sentit quelque chose qui se posait sur ses lèvres, avec une douceur épouvantable, comme une main sur la bouche d'un enfant qui a peur du noir, et qui ne la fermait pas : qui attendait.
+Pas dans la pièce. En elle. Quelqu'un qui n'avait pas bougé depuis des mois, qui dormait là, tassé au fond, comme un caillou dans une chaussure, et qui, maintenant, se dépliait. Elle voulut hurler. Elle n'en avait plus la force. Elle sentit une main se poser sur ses lèvres, avec une douceur épouvantable, comme sur la bouche d'un enfant qui a peur du noir, et qui ne la fermait pas : qui attendait.
 
 Sa propre bouche, alors, s'ouvrit. Elle entendit sa voix, mais ce n'était pas elle qui parlait. C'était une voix plus basse, plus fatiguée, qu'elle aurait pu reconnaître si elle avait osé.
 
 — Je peux ?
 
-Elle comprit tout, d'un coup. La nuit d'octobre, la peur, le matin où elle s'était réveillée dans un lit qui n'était pas à elle, sans avoir rien demandé. Elle comprit qu'on l'avait prise sans lui poser la question, et que, pour la première fois, on la lui posait. À la dernière seconde. Trop tard. Il n'y avait plus rien à sauver.
+Tout lui revint, d'un coup. La nuit d'octobre, la peur, le matin où elle s'était réveillée dans un lit qui n'était pas à elle, sans avoir rien demandé. On l'avait prise sans lui poser la question, et pour la première fois on la lui posait. À la dernière seconde. Trop tard. Il n'y avait plus rien à sauver.
 
-Elle pensa : *je pourrais dire non.*
+*Je pourrais dire non.*
 
-Elle pensa : *et alors ?*
+*Et alors ?*
 
 Elle entendit sa propre voix, cette fois la sienne, une voix sèche, chiffrée, qu'elle reconnaissait à peine :
 

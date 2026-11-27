@@ -32,9 +32,9 @@ Elle consulta un neurologue, un homme sec, aux lunettes d'écaille, qui lui fit 
 
 Elle consulta un psychologue, une jeune femme en pull orange, qui lui demanda si elle avait été « un enfant désiré ». Elle dit : « Non. » La jeune femme prit des notes. Elle ne dit pas : « Elle non plus. »
 
-Elle alla, un dimanche de février, à Notre-Dame de Fourvière. Elle s'assit au fond. Elle regarda longtemps l'autel, les cierges, les ex-voto. Elle ne priait pas. Elle essayait de se rappeler comment on faisait. Une vieille dame à côté d'elle lui tendit un petit missel, avec un geste de gentillesse tranquille. Sophia le prit. Elle lut, dans la marge, une phrase imprimée en petits caractères : *Donne-nous aujourd'hui notre pain de ce jour.* Elle pensa qu'elle n'avait jamais demandé ça. Elle ne lui avait jamais demandé que de lui laisser la nuit.
+Elle alla, un dimanche de février, à Notre-Dame de Fourvière. Elle s'assit au fond. Elle regarda l'autel, les cierges, les ex-voto. Elle ne priait pas. Elle essayait de se rappeler comment on faisait. Une vieille dame à côté d'elle lui tendit un petit missel, avec un geste de gentillesse tranquille. Sophia le prit. Elle lut, dans la marge, une phrase imprimée en petits caractères : *Donne-nous aujourd'hui notre pain de ce jour.* Elle pensa qu'elle n'avait jamais demandé ça. Elle ne lui avait jamais demandé que de lui laisser la nuit.
 
-Elle sortit. Elle marcha dans les rues, sous la pluie, longtemps. Elle arriva devant le fleuve. Elle s'accouda au parapet. Elle regarda l'eau passer, lente, grise, chargée d'écume. Elle pensa à la cote du lac de Vallorce, qu'elle n'avait pas relevée depuis sept ans, et qu'elle connaissait pourtant, de mémoire, au centimètre.
+Elle sortit. Elle marcha dans les rues, sous la pluie. Elle arriva devant le fleuve. Elle s'accouda au parapet. Elle regarda l'eau passer, lente, grise, chargée d'écume. Elle pensa à la cote du lac de Vallorce, qu'elle n'avait pas relevée depuis sept ans, et qu'elle connaissait pourtant, de mémoire, au centimètre.
 
 *409,52.*
 
@@ -64,6 +64,6 @@ Sophia ne répondit pas. Elle continuait de couper l'ongle de son pouce. Le peti
 
 — Je te le promets.
 
-C'était une promesse d'enfant, faite avec cette gravité qu'ont les enfants pour dire des choses qu'ils ne savent pas. Sophia la reçut comme on reçoit un cadeau empoisonné. Elle le garda.
+C'était une promesse d'enfant, faite avec cette gravité qu'ont les enfants pour dire des choses qu'ils ne savent pas. Sophia la reçut. Elle le garda.
 
 Elle ne put jamais dire à sa fille que, cette nuit-là, de l'autre côté de la cloison, quelqu'un, avec une voix qui n'était pas celle de l'enfant, avait dit, très doucement : *Je te le promets, Sophia.*

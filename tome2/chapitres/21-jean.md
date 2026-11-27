@@ -1,4 +1,4 @@
-# Chapitre 41 — Jean
+# Chapitre 42 — Jean
 
 *(premier jet)*
 
@@ -38,7 +38,7 @@ Elle releva les yeux. Elle regarda cet homme de vingt-neuf ans qui en paraissait
 
 — Elle a embrassé l'ingénieur, dit-elle.
 
-Il ne bougea pas. Elle continua, très vite, comme on arrache un pansement :
+Il ne bougea pas. Elle continua, très vite,:
 
 — Le jour de l'enfant. Au canal. Je l'ai vu de ma fenêtre. Il lui avait sauvé le petit, et elle…
 
@@ -48,7 +48,7 @@ Il ne bougea pas. Elle continua, très vite, comme on arrache un pansement :
 
 — Je n'ai rien demandé.
 
-Elle se tut. Elle partit. Il resta longtemps debout, au milieu de la cuisine, les bras pendants, à regarder la pomme ridée sur le buffet. Il pensa qu'il aurait dû se mettre en colère. Il chercha la colère, comme on cherche son couteau dans un tiroir. Il ne la trouva pas.
+Elle se tut. Elle partit. Il resta debout, au milieu de la cuisine, les bras pendants, à regarder la pomme ridée sur le buffet. Il aurait dû se mettre en colère. Il chercha la colère, comme on cherche son couteau dans un tiroir. Il ne la trouva pas.
 
 ---
 
@@ -64,7 +64,7 @@ Le jour de sa libération, un gendarme lui avait rendu ses lacets, son béret, s
 
 ---
 
-Il comprit que Rose l'avait trompé. Il le comprit comme on comprend un décès : en deux temps, d'abord le mot, puis, beaucoup plus tard, le poids.
+Rose l'avait trompé. Il le comprit: en deux temps, d'abord le mot, puis, beaucoup plus tard, le poids.
 
 Il pensa : *elle l'a fait en plein jour. Elle l'a fait sans moi.*
 
@@ -76,13 +76,13 @@ Un soir de la fin octobre, il rentra plus tôt du chantier. Il la trouva à geno
 
 — Je ne vous pardonne pas, disait-elle. Mais je vous le dis, je les ai tous connus, ceux qui n'ont pas pu partir. Je sais ce que c'est. Vous resterez, puisque vous êtes là. Je ne veux pas que vous restiez dehors.
 
-Il comprit qu'elle parlait à l'autre. Qu'elle ne la chassait pas. Qu'elle lui offrait, avec une hospitalité de paysanne, de rester. Il se rendit compte qu'il pleurait.
+Elle parlait à l'autre. Qu'elle ne la chassait pas. Qu'elle lui offrait, avec une hospitalité de paysanne, de rester. Il se rendit compte qu'il pleurait.
 
 Il ouvrit la porte. Il entra.
 
 Rose se retourna, sans se lever. Il y eut entre eux un très long silence. Elle le regardait, les yeux rouges, et il ne savait pas laquelle des deux le regardait.
 
-— Je reste, dit-il.
+— Je reste.
 
 — Je sais, dit Rose.
 
