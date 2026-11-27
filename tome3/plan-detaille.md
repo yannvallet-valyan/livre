@@ -13,7 +13,7 @@
 | 9 bis `09b-ce-quelle-choisit` | 2153-2155 | Iris et Walther ; elle le choisit en connaissance de cause ; Kerr conçu ; nom « Kerr » voulu par elle ✅ |
 | 11 `11-le-registre-rouge` | 14 nov. 2159 | Ruben : 43 carnets cachés ; il sait que Sacha se trompe ✅ |
 | 11 bis `11b-le-cahier-partage` | 2159-2160 | Iris porte la page à Sacha ; Sacha et Walther s'écrivent dans les marges d'un même cahier ; « Il a un père. Je suis heureux de l'apprendre » ✅ |
-| à écrire | 2156 | Naissance de Kerr au dortoir B (Ruben tient l'enfant ; Sacha est dans la galerie) |
+| 12 `12-la-naissance` | 3 mai 2156 | Naissance de Kerr, coupure de lampes ; Ruben tient l'enfant ; Walther arrive à l'aube, pleure ; Sacha arrive le soir, croit être le père (« Père : moi ») ✅ |
 | à écrire | 2160 | Iris du présent à Vallorce (Odette) : **elle y croise Walther vivant, qui ne la connaît pas** ; elle ment à l'autre Iris (« je te dirai comment sauver ton fils ») ; plus tard, elle comprend « Quelqu'un doit être là » |
 | à écrire | 2164 | Iris part (Mathis). Elle laisse Kerr (8 ans) à Agathe. Walther et Sacha se partagent le corps de Tobie ; Walther s'efface (il ne veut pas voler une enfance) |
 | à écrire | 2165-2180 | Kerr grandit, croit que K. est son père (le cahier), apprend l'écriture fine ; Mael ; Agathe ; départ 2180 |
@@ -50,7 +50,7 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
 
 **5. S · sept.-oct. 2026.** Kerr lit les nuits que Bastien ne voit pas : le cahier de laboratoire, que **K.** remplit sans que Kerr sache qui. L'écriture est fine, typographique, **la sienne**, celle qu'il a apprise dans les carnets de son père. Il reconnaît que **quelqu'un d'autre est dans le corps la nuit**. Il ne comprend pas qui. *(maillon 23)*
 
-**6. R · 2152-2154.** Le rouillé, Iris et Ruben. Le rouillé dit : « Je suis Sacha. » Il dit à Iris qu'il est son neveu, son petit-fils par sa mère, son futur amant : **il lui dit tout**, sans pudeur, sans excuse. Elle recule. Elle ne part pas. *Coût :* ni elle ni lui ne savent comment s'aimer sans mensonge. *(maillon 19)*
+~~**6. R · 2152-2154.** Le rouillé, Iris et Ruben. Le rouillé dit : « Je suis Sacha. » Il dit à Iris qu'il est son neveu, son petit-fils par sa mère, son futur amant : **il lui dit tout**, sans pudeur, sans excuse. Elle recule. Elle ne part pas. *Coût :* ni elle ni lui ne savent comment s'aimer sans mensonge. *(maillon 19)*~~ *(remplacé par les chapitres 6, 6 bis, 9, 9 bis, 11, 11 bis ; voir tableau V3.46 en tête)*
 
 **7. S · 2026 · Le manuel.** Kerr écrit, dans le bureau de Bastien, le protocole de passage : l'éclat, le compte, la fausse règle (« on n'habite l'ancêtre que lorsqu'il dort »), la dernière ligne : **« Que la boucle tourne. »** Il écrit la règle pour une seule raison : parce qu'il vient de comprendre ce que son occupation coûte à Bastien, et qu'il ne veut pas que d'autres le fassent. **Il s'accorde l'exception.** *Coût :* sa première hypocrisie. *(maillon 1)*
 
@@ -60,7 +60,7 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
 
 **8. O · sept. 2026, tour 47.** Kerr, **quarante-six tours** plus tard, ouvre les yeux dans le corps de Bastien pour la quarante-septième fois. Il a les gestes d'un homme qui ne s'étonne plus. La politesse « comme une forme d'absence » est un masque. Il lit le cahier noir de la nuit : « *Il dort mieux. Bien.* » **Il sait que c'est de son fils.** Il le garde dans un tiroir. *Coût :* on le prend pour un monstre. *(maillon 23)*
 
-**9. R · 2155.** Iris et Sacha s'aiment. Ruben, qui aime Iris comme une fille, le sait, et se tait. Iris est enceinte. Sacha lui laisse lire un carnet, pas tous. *(maillon 19)*
+~~**9. R · 2155.** Iris et Sacha s'aiment. Ruben, qui aime Iris comme une fille, le sait, et se tait. Iris est enceinte. Sacha lui laisse lire un carnet, pas tous. *(maillon 19)*~~ *(remplacé par les chapitres 6, 6 bis, 9, 9 bis, 11, 11 bis ; voir tableau V3.46 en tête)*
 
 **10. S · oct. 2026.** Kerr observe Élise et Noé de l'extérieur. Il connaît l'histoire : il l'a lue dans les carnets de son père. Il sait que ces deux-là vont briser toutes leurs règles la nuit du 16, et qu'il leur doit sa famille. Il va les voir le jour de la galerie. *Coût :* il les aime, déjà, d'un amour qu'ils ne comprendraient pas. *(maillon 5)*
 
@@ -68,7 +68,7 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
 
 **12. R · 2156 · Kerr naît.** Dans le dortoir B, une nuit de coupure de lampes. Ruben tient l'enfant, parce que personne d'autre n'est là. Sacha n'est pas à la naissance : il est dans la galerie du refuge, à mesurer. *Coût :* le père n'était pas là. *(maillon 19)*
 
-**13. O · oct. 2026, tour 47.** Il est tard. Kerr retire à **Sophia** son badge. Il le fait avec une politesse d'assassin. Il sait qu'elle ira voir Étienne le soir même, qu'elle y passera la nuit, qu'elle s'y réveillera avec Élise. **Il veut que l'histoire arrive vite.** *Coût :* Sophia, qui n'a rien demandé. *(maillon 20)*
+**13. O · 6 nov. 2026, tour 47. ✅ (`13-le-badge`)** Il est tard. Kerr retire à **Sophia** son badge. Il le fait avec une politesse d'assassin. Il sait qu'elle ira voir Étienne le soir même, qu'elle y passera la nuit, qu'elle s'y réveillera avec Élise. **Il veut que l'histoire arrive vite.** *Coût :* Sophia, qui n'a rien demandé. *(maillon 20)*
 
 **14. S · 2026-2046.** Kerr, resté dans Bastien le jour, voit Bastien devenir le patron de Léthé. Il regarde le tour brisé s'écrire : Sophia fuit, Étienne l'appelle, le gisement est emporté à Genève, les pilules. Il ne peut rien arrêter : **s'il arrête, Iris du passé ne naît pas.** *Coût :* des milliers de rouillés, qu'il choisit de ne pas empêcher. *(maillon 7, 9)*
 
@@ -76,11 +76,11 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
 
 ## PARTIE III — Les enfants (2160-2165 / 2046-2065)
 
-**15. R · 2160-2163.** Iris découvre les carnets de Sacha, un par un. Elle lit : « *Faire naître Kerr.* » **Il ne l'aimait pas seulement. Il l'aimait pour que Kerr naisse.** Elle va le voir. Il ne nie rien. « J'ai fait ce qu'il fallait. » Elle demande : « T'ai-je aimé, moi ? » Il dit : « Oui. » Elle ne le croit plus. *Coût :* le seul amour du refuge. *(maillon 19)*
+~~**15. R · 2160-2163.** Iris découvre les carnets de Sacha, un par un. Elle lit : « *Faire naître Kerr.* » **Il ne l'aimait pas seulement. Il l'aimait pour que Kerr naisse.** Elle va le voir. Il ne nie rien. « J'ai fait ce qu'il fallait. » Elle demande : « T'ai-je aimé, moi ? » Il dit : « Oui. » Elle ne le croit plus. *Coût :* le seul amour du refuge. *(maillon 19)*~~ *(remplacé par les chapitres 6, 6 bis, 9, 9 bis, 11, 11 bis ; voir tableau V3.46 en tête)*
 
 **16. S · 2046-2047 · Théo.** Kerr abandonne le corps de Bastien, qui s'effondre un après-midi dans son bureau (un malaise cardiaque d'abord, puis une guérison inexplicable : Bastien se réveille, et ne se souviendra de rien). Il passe dans **Théo**, 17 ans, rouillé par les pilules de son père. Le garçon vide est une maison où l'on peut entrer sans forcer. **C'est le seul corps où Kerr n'a volé personne.** Mais le fils de Bastien, vidé, n'avait pas demandé à l'être, et c'est son père qui l'a fait. *Coût :* le vrai Théo, vidé avant lui, ne reviendra jamais ; Bastien, au réveil, ne sait pas ce qu'il a fait. *(maillon 9)*
 
-**16b. R · été 2160 · Odette.** ✅ **Point de vue d'Iris du présent**, 30 ans. Elle a lu les carnets de Sacha (Ruben est mort l'hiver précédent, `11`). À l'insu de Sacha, elle demande à Ruben (ou à son éclat caché) un **premier voyage, plus court**, dans son aïeule **Odette Girard** (28 ans), boulangère de Vallorce-le-Bas, 1958. Le cristal est encore intact : elle pourra rentrer. **Elle sait déjà qui elle va rencontrer :** une femme qui s'appelle Iris, comme elle, la mère de l'homme qu'elle aime. Elle la reconnaît à la cloison, la première nuit, à ce qu'elle chante deux couplets et s'arrête. *Elle l'attend au lavoir.* Elle lui décrit leur mère (« Comment elle est ? »). Puis, parce que le carnet dit que le lac doit se remplir pour qu'Élise existe, **elle lui ment** : « Si tu laisses le lac se remplir, je te dirai comment sauver ton fils. » Elle ne dit pas qu'elle est sa sœur. **Elle dénonce ensuite Rose au gendarme**, pour qu'on la surveille. Elle rentre en 2160 avec ce qu'elle a fait. *Coût :* elle a menti à sa sœur et lui a pris sa dernière chance. *(→ tome 2 ch. 5, 5b, 10b, 12, 27)*
+**16b. R · 1958 · Odette.** ✅ (`14-odette`) Point de vue d'Iris du présent (30 ans) dans Odette Girard : elle sert du pain à **Walther vivant**, comprend qu'elle doit le laisser mourir pour que Kerr naisse ; lavoir (leur mère), mensonge (« je te dirai comment sauver ton fils »), dénonciation de Rose, « Cinquante-neuf » ; de retour en janv. 2161, Walther comprend : « C'était vous. »
 
 **17. R · 2164.** Iris du présent, 34 ans, quitte le refuge. Elle laisse un fils de huit ans, Kerr, à **Agathe**. Elle dit à Sacha : « Tu as voulu un enfant, tu l'as. » Elle part dans Mathis, vers sa mère. Sacha repart mesurer. Kerr, à huit ans, regarde le dortoir se vider. *Coût :* un enfant abandonné par ses deux parents le même jour. *(maillon 24)*
 
@@ -111,7 +111,7 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
 ## PARTIE V — La nuit froide (oct. 2026, tour brisé)
 
 **26b. O · 14 novembre 2026, 9 h 40 · L'instant.** ✅ Le coulis monte. Toutes les dissolutions se produisent ensemble : Élise dans Sophia, Noé dans Étienne, Iris du présent dans Mathis, les Élise d'Anselme. Anselme est le fils de Rose, il porte le résidu d'**Iris du passé** : elle s'éteint avec lui. Dans le cristal, hors du temps, **les deux sœurs se retrouvent soixante secondes**, sans corps. Elles se reconnaissent à la voix : l'une est la voisine du lavoir, l'autre la dame du lac. **En trois mouvements :**
-1. **« Sacha ».** Iris du présent : « Il s'appelle Sacha. » Iris du passé comprend que K. n'est pas seulement son fils mort : il aimera sa sœur, qui a son visage. « Ne l'aime pas. — Il m'aime déjà. » Elle apprend aussi le marché : c'était un mensonge. Elle ne le pardonne pas ; elle ne le reproche pas.
+1. **« Sacha ».** Iris du présent : « Il s'appelle Sacha. » Iris du passé comprend que K. n'est pas seulement son fils mort : il a cru devoir être le père de Kerr ; l'autre Iris, qui a son visage, l'a refusé. « Ne l'aime pas. — Il m'aime déjà. » Elle apprend aussi le marché : c'était un mensonge. Elle ne le pardonne pas ; elle ne le reproche pas.
 2. **« Garde-le ».** Sophia, trente mètres plus bas, tient l'aiguille. Iris du passé : « Détruis-la. » Iris du présent : « Si elle la détruit, Sacha ne naît pas. — Il mourra à quinze ans. — Je préfère qu'il meure à quinze ans plutôt qu'il n'existe pas. » Iris du passé, qui l'a perdu : « Moi, je l'ai eu. **Garde-le.** » (→ `43` : Sophia garde l'aiguille.) *Coût :* une mère consent à ce que la mort de son fils recommence.
 3. **La troisième strophe.** Elles chantent ensemble, parce qu'il manque quelque chose à ce que chacune sait. Le troisième couplet n'existe que quand les deux filles de la chanson le chantent. **Soixante** : elles le disent ensemble. C'est la première fois pour Iris du passé. *Brouillon du couplet :*
    *Dors, mon enfant, dors sans bruit,*
@@ -166,7 +166,7 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
 ## Trahisons
 | Type | Qui | Comment |
 |---|---|---|
-| Amoureuse | Sacha → Iris du présent | L'aimer pour que Kerr naisse |
+| Amicale | Sacha → Iris du présent | Lui imposer, par erreur, un avenir écrit |
 | Amoureuse | Kerr → Iris du passé | Taire qu'il laisse Sacha prendre la pilule |
 | Amoureuse | Iris du présent → Sacha | Partir en laissant leur fils |
 | Amicale | Kerr → Mael | Prendre l'éclat sur son ami |

@@ -99,7 +99,7 @@ Jours de semaine vérifiés contre le calendrier réel. Lune 2026 : nuit 4-5 oct
 | 2146-2149 (B) | Fenêtres de la bibliothèque murées | 46 |
 | ~2150 🔒 | Sacha revient par la Rouille au refuge (A) | trilogie |
 | après 2065 🔒 | Iris du passé, après la mort de son fils, part dans Rose (1958) : tome 2 | trilogie |
-| ~2156 🔒 | Naissance de **Kerr** (fils de Sacha et d'Iris du présent) | trilogie |
+| ~2156 🔒 | Naissance de **Kerr** (3 mai 2156 ; fils d'Iris du présent et de Walther, dans le corps de Tobie) | trilogie |
 | 2159 | Mort de Ruben (Iris a 29 ans) | 41 |
 | été 2160 🔒 | Iris du présent (30 ans) fait un premier voyage court dans Odette (1958) ; dénonce Rose ; rentre | trilogie |
 | 2164 | Iris du présent (34 ans) part dans Mathis ; Sacha repart ; Kerr (8 ans) reste au refuge, confié aux éducatrices ; (B) Élise B part dans Sophia, écrit la page, brise, tombe en 1980 | 41, 46 |

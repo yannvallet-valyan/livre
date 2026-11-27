@@ -15,13 +15,16 @@
 ## 2. Chronologie des faits modifiés
 | Date | Fait |
 |---|---|
-| 14 nov. 1958, 6 h | Vanne fermée. Walther reste assis à la table de Rose, « Quelqu'un doit être là ». L'eau le prend. Sa lettre à Margrit n'a jamais été postée. |
+| 14 nov. 1958, 6 h | Vanne fermée. Walther remonte à la troisième maison à gauche et s'assoit à la table de Rose, « Quelqu'un doit être là ». L'eau entre à 8 h, monte pendant trente-six heures. |
+| 15 nov. 1958, soir | Walther meurt (poitrine, puis la lampe s'éteint). Sa conscience passe dans le cristal. Sa lettre à Margrit n'a jamais été postée. |
 | 2150 | K. s'installe dans Tobie (19 ans). |
 | 2152 | K. dit à Iris (22 ans) qu'il est le fils de « sa sœur », qu'elle aura un enfant avec lui. Elle refuse, avec violence. |
 | 2152-2154 | Silence, éloignement, puis une amitié très prudente. K. s'absente chaque nuit. |
 | été 2153 | Walther s'éveille dans Tobie, le jour. Il dit son nom, son siècle, ses fautes. |
-| 2154-2155 | Iris et Walther. |
-| 2156 | Naissance de Kerr, au dortoir B. Ruben tient l'enfant. |
+| nov. 2153 | Iris dit à Walther qu'elle l'aime (salle des pompes). |
+| 2154-2155 | Iris et Walther (vingt-deux mois). |
+| ≈ 9 août 2155 | Conception de Kerr (Iris l'apprend début sept.). |
+| 3 mai 2156 | Naissance de Kerr, au dortoir B (coupure de lampes). Ruben tient l'enfant. |
 | 2159 | Mort de Ruben ; 43 carnets cachés, dont un tour où Sacha n'est pas le père. |
 | 2159-2160 | Sacha lit, comprend, se tait. |
 | 2160 | Iris du présent à Vallorce, 1958 (Odette), lavoir. |
@@ -46,3 +49,9 @@
 - **La création du voyage.** Qui, avant le manuel de Kerr, a su remonter le sang ? La Compagnie de 1955 avait un registre de « sujets ».
 - **Les tours.** Qu'est-ce qui fait qu'une réalité est « réécrite » ? Les cahiers de K. ne contiennent pas la réponse.
 - **Les hôtes sans nom.** Tobie, Théo, Mael : qui était le garçon avant ? Y a-t-il moyen de les rendre ?
+
+## 6. Définition de la paternité (règle de lecture)
+- **Père génétique** : le corps de Tobie (descendant de Léa Kerr, de Bastien, de Walther). Il n'a pas de conscience : c'est un hôte vide, sans volonté.
+- **Père « de l'esprit »** : Walther Kerr, dont la conscience habite le corps de Tobie le jour et qui choisit, avec Iris, de concevoir l'enfant. C'est lui que le lecteur doit appeler « le père ».
+- **Sacha** : partage le même corps la nuit, sans y être présent aux mêmes heures. Il n'a donné ni chair, ni choix. Il se croit père à cause d'une lecture fausse de « Faire naître Kerr ».
+- **Conséquence pour le voyage** : le sang qui permet à Kerr d'entrer dans Bastien est celui du corps de Tobie (donc de la lignée de Walther), pas celui de Sacha.

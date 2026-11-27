@@ -80,7 +80,7 @@ Il but une gorgée. Il resta ainsi, immobile, le regard fixé sur l'eau grise. I
 
 Il rit, tout seul, d'un rire sans joie. Il ajouta :
 
-— Vous êtes la première que mon fils me présente. Je crois qu'il vous aime. Je crois qu'il fait bien. Il faut aimer quelqu'un. Il faut avoir quelqu'un qui vous attende, au bout. C'est tout ce qu'on sait faire.
+— Vous êtes la première que mon fils me présente. Je crois que vous êtes son amie. Je crois qu'il fait bien. Il faut avoir quelqu'un, à cet âge. Il faut avoir quelqu'un qui vous attende, au bout. C'est tout ce qu'on sait faire.
 
 Il ne dit rien d'autre. Au moment du départ, sur le perron, dans la fraîcheur du soir, il lui serra la main une seconde de trop. Il dit :
 
