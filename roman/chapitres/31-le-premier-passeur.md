@@ -68,7 +68,7 @@ Elle pensa : *c'est moi qui le lui ai appris.*
 
 Il hésita, puis baissa la voix :
 
-— Il y a un tour dont nous nous souvenons à peine. Comme d'un rêve qu'on aurait fait quelqu'un d'autre. Un tour où vous n'avez pas tenu, l'homme aux étoiles et toi. Une nuit d'octobre trop froide. Une cuisine. Les règles, toutes, l'une après l'autre. Au matin, elle s'est réveillée dans un lit qu'elle n'avait pas choisi. Elle a eu peur. Elle a quitté le docteur, la vallée, tout. Il n'y a pas eu d'Anne. Ce n'est pas d'avoir été aimée à sa place qui l'a fait fuir. C'est de ne pas avoir été consultée.
+— Il y a un tour dont nous nous souvenons à peine. Comme d'un rêve qu'on aurait fait quelqu'un d'autre. Un tour où vous n'avez pas tenu, l'homme aux étoiles et toi. Une nuit d'octobre trop froide. Une cuisine. Les règles, toutes, l'une après l'autre. Au matin, elle s'est réveillée dans un lit qu'elle n'avait pas choisi. Elle a eu peur. Elle a quitté le docteur, la vallée, tout. Il n'y a pas eu d'Anne. Ce n'est pas d'avoir été aimée à sa place qui l'a fait fuir. C'est de ne pas avoir été consultée. Elle est partie avec quelque chose. Nous ne savons pas quoi.
 
 Élise sentit le sol se dérober.
 

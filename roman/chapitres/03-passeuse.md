@@ -52,7 +52,7 @@ Oriane hésita, et c'était si rare de la voir hésiter qu'Élise ne l'oublia pa
 
 ---
 
-Pour apprendre à arriver, il fallait apprendre à dormir. Ruben lui montra une méthode qui venait d'un vieux manuel : compter. Pas des moutons, des secondes. Jusqu'à soixante. Puis recommencer. *Le corps de l'autre va te refuser*, dit Ruben. *Il va croire qu'il rêve et vouloir se réveiller. Compte. À soixante, il comprendra que tu restes.*
+Pour apprendre à arriver, il fallait apprendre à dormir. Ruben lui montra une méthode qui venait d'un vieux protocole sans auteur, sauvé d'une archive suisse : compter. Pas des moutons, des secondes. Jusqu'à soixante. Puis recommencer. *Le corps de l'autre va te refuser*, dit Ruben. *Il va croire qu'il rêve et vouloir se réveiller. Compte. À soixante, il comprendra que tu restes.*
 
 Élise compta. Elle compta dans son lit, dans le réfectoire, en marchant entre les rayonnages, jusqu'à ce que le chiffre soixante devienne une sorte de mur contre lequel elle pouvait s'adosser.
 
@@ -99,7 +99,7 @@ La salle de départ était une ancienne réserve, au troisième sous-sol. On y a
 
 Ruben ne répondit pas tout de suite.
 
-— D'un donneur, dit-il enfin.
+— D'un donneur, dit-il enfin. Il ne s'en servait plus.
 
 Elle comprit, et n'insista pas. On le lui posa sur le front, entre les sourcils, fixé par une bande de tissu. Il était froid, et le froid ne se réchauffait pas.
 

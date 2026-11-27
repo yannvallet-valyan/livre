@@ -6,6 +6,10 @@ Il s'appelait Sacha. C'est du moins ce qu'il dit la deuxième nuit.
 
 — Ce n'est pas mon vrai nom, ajouta-t-il aussitôt. Mais celui de mon hôte, je ne vais pas te le prendre aussi. J'en ai déjà pris assez.
 
+— Et celui-là, d'où il vient ?
+
+— Je ne sais pas. Il m'est venu la première nuit, comme si quelqu'un me l'avait prêté.
+
 Ils étaient assis sur le parapet, au milieu du barrage, à un mètre l'un de l'autre. Ils avaient tous les deux pris soin de ne pas s'asseoir plus près.
 
 Il lui raconta ce qu'elle s'attendait à entendre et redoutait d'entendre. Il venait de 2137 lui aussi, d'un autre refuge, au nord, une ancienne gare souterraine. Après le départ d'Élise, le Conseil avait pris contact avec eux par la seule machine qui marchait encore. On avait trouvé chez eux une autre lignée qui passait par Vallorce. On l'avait envoyé derrière elle, pour l'aider.

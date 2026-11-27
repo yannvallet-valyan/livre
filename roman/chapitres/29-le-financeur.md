@@ -64,7 +64,7 @@ Il eut un petit rire sans joie.
 
 Il se tut un moment.
 
-— Je dors ici, certaines nuits. Dans la salle du fond, à côté d'un bac. Je ne l'ai dit à personne. Et je perds des choses : mes clés, mon badge. Je le retrouve dans la boîte à gants, dans le frigo, sur le toit de ma voiture. Je me dis que c'est le prix.
+— Je dors ici, certaines nuits. Dans la salle du fond, à côté d'un bac. Je ne l'ai dit à personne. Et je perds des choses : mes clés, mon badge. Je le retrouve dans la boîte à gants, dans le frigo, sur le toit de ma voiture. Et je perds des heures. Des après-midi entiers, en plein jour, dont je ne me souviens pas. Je me dis que c'est le prix.
 
 Puis il lui retira son badge d'accès à la galerie, poliment, en s'excusant, et lui conseilla de prendre une semaine de congé.
 

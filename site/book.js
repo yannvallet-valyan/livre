@@ -387,7 +387,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "La Rouille ne faisait pas mal. C'était ce qu'il y avait de plus cruel. Elle prenait d'abord les visages, puis les mots, et les gestes simples pour finir : nouer un lacet, ouvrir une porte, porter une cuillère à sa bouche. À la fin, elle prenait la chose qui sait qu'on est quelqu'un. On disait de ceux-là qu'ils étaient « rouillés jusqu'au cœur ». Ils restaient assis, les yeux ouverts, paisibles, et il fallait les nourrir comme des oiseaux."
+     "s": "La Rouille ne faisait pas mal. C'était ce qu'il y avait de plus cruel. Elle prenait d'abord les visages, puis les mots, et les gestes simples pour finir : nouer un lacet, ouvrir une porte, porter une cuillère à sa bouche. À la fin, elle prenait la chose qui sait qu'on est quelqu'un. On disait de ceux-là qu'ils étaient « rouillés jusqu'au cœur ». Ils restaient assis, les yeux ouverts, paisibles, comme des maisons dont on aurait laissé la porte ouverte, et il fallait les nourrir comme des oiseaux."
     },
     {
      "t": "p",
@@ -608,7 +608,7 @@ window.BOOK = {
      "s": "— D'accord, dit-elle."
     }
    ],
-   "words": 1987
+   "words": 1997
   },
   {
    "id": "03-passeuse",
@@ -716,7 +716,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Pour apprendre à arriver, il fallait apprendre à dormir. Ruben lui montra une méthode qui venait d'un vieux manuel : compter. Pas des moutons, des secondes. Jusqu'à soixante. Puis recommencer. *Le corps de l'autre va te refuser*, dit Ruben. *Il va croire qu'il rêve et vouloir se réveiller. Compte. À soixante, il comprendra que tu restes.*"
+     "s": "Pour apprendre à arriver, il fallait apprendre à dormir. Ruben lui montra une méthode qui venait d'un vieux protocole sans auteur, sauvé d'une archive suisse : compter. Pas des moutons, des secondes. Jusqu'à soixante. Puis recommencer. *Le corps de l'autre va te refuser*, dit Ruben. *Il va croire qu'il rêve et vouloir se réveiller. Compte. À soixante, il comprendra que tu restes.*"
     },
     {
      "t": "p",
@@ -802,7 +802,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— D'un donneur, dit-il enfin."
+     "s": "— D'un donneur, dit-il enfin. Il ne s'en servait plus."
     },
     {
      "t": "p",
@@ -865,7 +865,7 @@ window.BOOK = {
      "s": "Le froid vint avant tout le reste."
     }
    ],
-   "words": 1443
+   "words": 1454
   },
   {
    "id": "04-interlude-oriane",
@@ -3007,6 +3007,14 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "— Et celui-là, d'où il vient ?"
+    },
+    {
+     "t": "p",
+     "s": "— Je ne sais pas. Il m'est venu la première nuit, comme si quelqu'un me l'avait prêté."
+    },
+    {
+     "t": "p",
      "s": "Ils étaient assis sur le parapet, au milieu du barrage, à un mètre l'un de l'autre. Ils avaient tous les deux pris soin de ne pas s'asseoir plus près."
     },
     {
@@ -3263,7 +3271,7 @@ window.BOOK = {
      "s": "Elle eut honte, et elle sortit quand même."
     }
    ],
-   "words": 1254
+   "words": 1278
   },
   {
    "id": "15-les-lentilles",
@@ -6648,7 +6656,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Je dors ici, certaines nuits. Dans la salle du fond, à côté d'un bac. Je ne l'ai dit à personne. Et je perds des choses : mes clés, mon badge. Je le retrouve dans la boîte à gants, dans le frigo, sur le toit de ma voiture. Je me dis que c'est le prix."
+     "s": "— Je dors ici, certaines nuits. Dans la salle du fond, à côté d'un bac. Je ne l'ai dit à personne. Et je perds des choses : mes clés, mon badge. Je le retrouve dans la boîte à gants, dans le frigo, sur le toit de ma voiture. Et je perds des heures. Des après-midi entiers, en plein jour, dont je ne me souviens pas. Je me dis que c'est le prix."
     },
     {
      "t": "p",
@@ -6777,7 +6785,7 @@ window.BOOK = {
      "s": "Elle eut le temps de penser, juste avant que le sommeil ne la prenne : *Dans une minute, ce ne sera plus moi.*"
     }
    ],
-   "words": 1495
+   "words": 1512
   },
   {
    "id": "30-le-cycle",
@@ -7268,7 +7276,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Il y a un tour dont nous nous souvenons à peine. Comme d'un rêve qu'on aurait fait quelqu'un d'autre. Un tour où vous n'avez pas tenu, l'homme aux étoiles et toi. Une nuit d'octobre trop froide. Une cuisine. Les règles, toutes, l'une après l'autre. Au matin, elle s'est réveillée dans un lit qu'elle n'avait pas choisi. Elle a eu peur. Elle a quitté le docteur, la vallée, tout. Il n'y a pas eu d'Anne. Ce n'est pas d'avoir été aimée à sa place qui l'a fait fuir. C'est de ne pas avoir été consultée."
+     "s": "— Il y a un tour dont nous nous souvenons à peine. Comme d'un rêve qu'on aurait fait quelqu'un d'autre. Un tour où vous n'avez pas tenu, l'homme aux étoiles et toi. Une nuit d'octobre trop froide. Une cuisine. Les règles, toutes, l'une après l'autre. Au matin, elle s'est réveillée dans un lit qu'elle n'avait pas choisi. Elle a eu peur. Elle a quitté le docteur, la vallée, tout. Il n'y a pas eu d'Anne. Ce n'est pas d'avoir été aimée à sa place qui l'a fait fuir. C'est de ne pas avoir été consultée. Elle est partie avec quelque chose. Nous ne savons pas quoi."
     },
     {
      "t": "p",
@@ -7504,7 +7512,7 @@ window.BOOK = {
      "s": "Elle rentra dormir."
     }
    ],
-   "words": 2394
+   "words": 2405
   },
   {
    "id": "32-interlude-rose",
@@ -8530,6 +8538,18 @@ window.BOOK = {
      "s": "— Nous ne savions pas, dit Élise. Ce n'est pas pareil que de ne pas vouloir."
     },
     {
+     "t": "p",
+     "s": "Noé resta longtemps silencieux."
+    },
+    {
+     "t": "p",
+     "s": "— Et si ce tour-là, on avait eu un enfant ? dit-il enfin. Il aurait été à qui ?"
+    },
+    {
+     "t": "p",
+     "s": "Élise ne répondit pas."
+    },
+    {
      "t": "hr"
     },
     {
@@ -8597,7 +8617,7 @@ window.BOOK = {
      "s": "À trente-sept, elle pensa que sa main aurait trouvé la sienne, autrefois, dans le noir. Elle garda les siennes sur ses cuisses."
     }
    ],
-   "words": 1549
+   "words": 1576
   },
   {
    "id": "37-trois-portes",
@@ -9476,6 +9496,14 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Il fit deux pas, puis se retourna."
+    },
+    {
+     "t": "p",
+     "s": "— Dormez bien, madame Varenne. Vraiment."
+    },
+    {
+     "t": "p",
      "s": "Il partit sans attendre de réponse. Sophia le regarda traverser le parking entre les toupies, très droit, très seul, et elle eut pour lui une pitié qui ressemblait à de la tendresse."
     },
     {
@@ -9718,7 +9746,7 @@ window.BOOK = {
      "s": "À vingt-neuf, elle dormait."
     }
    ],
-   "words": 2141
+   "words": 2154
   },
   {
    "id": "41-interlude-iris",
@@ -9755,7 +9783,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle avait passé quatorze ans à comprendre pourquoi. Le jour de ses trente-quatre ans, elle avait demandé un éclat."
+     "s": "Elle avait passé quatorze ans à comprendre pourquoi. Entre-temps, elle avait aimé un homme qui s'était réveillé un matin d'entre les rouillés, et qui était reparti comme il était venu. Elle laissait au refuge un fils de huit ans, qui avait les carnets de son père et ses yeux. Le jour de ses trente-quatre ans, elle avait demandé un éclat."
     },
     {
      "t": "hr"
@@ -9890,7 +9918,7 @@ window.BOOK = {
      "s": "*Il fait jour. Il n'a plus peur.*"
     }
    ],
-   "words": 1519
+   "words": 1560
   },
   {
    "id": "42-la-derniere-nuit",
@@ -10789,6 +10817,18 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Puis il la regarda, d'une façon qu'elle ne comprit pas."
+    },
+    {
+     "t": "p",
+     "s": "— Prenez soin de votre fille."
+    },
+    {
+     "t": "p",
+     "s": "Elle n'avait pas de fille. Il était déjà assis au volant."
+    },
+    {
+     "t": "p",
      "s": "Il partit. Sophia regarda la voiture s'engager dans le tunnel, ses feux arrière rouges avalés par la lumière orange du sodium, et elle pensa qu'elle aussi, elle gardait des choses, on ne savait jamais. Elle mit la main dans sa poche. Il y avait le vieux dessin d'Anselme, plié en quatre. Et, contre lui, une petite mouche de pêche couleur de rouille, avec un fil de cuivre enroulé en spirale."
     },
     {
@@ -10827,7 +10867,7 @@ window.BOOK = {
      "s": "Il leva la main. Pas pour appeler. Pas pour retenir. Lentement, paume ouverte, comme on salue quelqu'un qu'on reverra."
     }
    ],
-   "words": 3151
+   "words": 3178
   },
   {
    "id": "44-interlude-anne",
@@ -10927,7 +10967,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Le 14 novembre 2026, à neuf heures quarante, au fond d'une galerie pleine de béton, quelque chose s'était endormi en elle pour la dernière fois et lui avait tout laissé. Une bibliothèque sous une ville. Une recette de soupe. Une chanson dont elle connaissait désormais les trois couplets. Le visage d'une enfant aux mains pleines de craie. Elle avait reçu tout cela comme on reçoit un héritage, en vrac, sans inventaire. Elle avait passé des années à le ranger."
+     "s": "Le 14 novembre 2026, à neuf heures quarante, au fond d'une galerie pleine de béton, quelque chose s'était endormi en elle pour la dernière fois, croyait-elle, et lui avait tout laissé. Une bibliothèque sous une ville. Une recette de soupe. Une chanson dont elle connaissait désormais les trois couplets. Le visage d'une enfant aux mains pleines de craie. Elle avait reçu tout cela comme on reçoit un héritage, en vrac, sans inventaire. Elle avait passé des années à le ranger."
     },
     {
      "t": "p",
@@ -10985,7 +11025,7 @@ window.BOOK = {
      "s": "Elle n'oublia jamais la question."
     }
    ],
-   "words": 1087
+   "words": 1088
   },
   {
    "id": "45-epilogue-la-page-blanche",

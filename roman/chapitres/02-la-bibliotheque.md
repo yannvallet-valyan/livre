@@ -16,7 +16,7 @@ Marthe s'était éteinte en 2124, au milieu d'une recette de pain de lentilles. 
 
 — *Laisser frémir*, répéta Élise, et elle referma le livre.
 
-La Rouille ne faisait pas mal. C'était ce qu'il y avait de plus cruel. Elle prenait d'abord les visages, puis les mots, et les gestes simples pour finir : nouer un lacet, ouvrir une porte, porter une cuillère à sa bouche. À la fin, elle prenait la chose qui sait qu'on est quelqu'un. On disait de ceux-là qu'ils étaient « rouillés jusqu'au cœur ». Ils restaient assis, les yeux ouverts, paisibles, et il fallait les nourrir comme des oiseaux.
+La Rouille ne faisait pas mal. C'était ce qu'il y avait de plus cruel. Elle prenait d'abord les visages, puis les mots, et les gestes simples pour finir : nouer un lacet, ouvrir une porte, porter une cuillère à sa bouche. À la fin, elle prenait la chose qui sait qu'on est quelqu'un. On disait de ceux-là qu'ils étaient « rouillés jusqu'au cœur ». Ils restaient assis, les yeux ouverts, paisibles, comme des maisons dont on aurait laissé la porte ouverte, et il fallait les nourrir comme des oiseaux.
 
 On en connaissait la cause depuis vingt ans. Quand on ouvrait le crâne des morts, on y trouvait, logés dans les replis du cerveau comme du sel dans un tissu mouillé, des milliers de minuscules cristaux couleur rouille, d'où le nom. Le cristal poussait. Il se nourrissait de ce qu'il effaçait. Personne ne savait l'arrêter. Personne ne savait d'où il venait, sauf peut-être le dossier gris qui attendait Élise à l'étage, dans la salle du Conseil.
 

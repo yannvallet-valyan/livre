@@ -87,7 +87,11 @@ Le tome 1 raconte déjà ce tour, dans « Le premier Passeur » et « Huit ans �
 - **Ce que deviennent Élise et Noé :** ils restent (variante « rester »). Ils dorment au fond de leurs hôtes, comme Élise le matin du 14 dans le tour 47 (« Elle est pas partie. Elle est dedans. Elle dort. »). Ils se réveillent **une seule fois : la nuit de la naissance**.
 - **Comment les Élise d'Anselme s'en souviennent :** ce tour-là, Élise est descendue dans la galerie en octobre, et la paroi a gardé ce qu'elle portait.
 - **Le nom :** Sophia l'appelle Iris sans savoir pourquoi. Le prénom lui vient du fond, comme la berceuse.
-- ❓ **Le consentement de Sophia à l'accouchement.** 💡 Au milieu du travail, elle sent la présence et la laisse faire, à voix haute : « Vas-y. »
+- ✅ **Le consentement de Sophia à l'accouchement.** C'est la première conversation entre une hôte et sa voyageuse **éveillées en même temps** : la vraie règle le permet.
+  - Au milieu du travail, Sophia sent la présence et prend peur. Dans ce tour, elle a fui parce qu'on ne lui avait rien demandé.
+  - Cette fois, Élise lui parle avec sa propre bouche : « Je peux ? »
+  - Sophia répond : « Vas-y. »
+  - Ce qui avait brisé ce tour (« ne pas avoir été consultée ») est réparé au moment de la naissance.
 
 ### 3.2 Les deux naissances se répondent 💡
 Noé raconte, dans « Huit ans », la naissance de 2130 :
@@ -150,7 +154,11 @@ La naissance de 2027 doit reprendre ces trois détails, à l'identique. Le lecte
 - **Vers 2156 naît leur fils : Kerr.**
 - **Vers 2164, K. repart mesurer.** Iris, la même année, part dans Mathis (tome 1). Leur fils reste seul au refuge, à huit ans, avec les carnets de son père.
 - **Conséquence pour l'annexe du tome 1 :** la phrase « C'est de Léa que je descends » peut rester. Elle est vraie du corps qu'il habitera, et de son fils. Elle devient un indice.
-- ❓ **Le prénom de K.**
+- ✅ **Le prénom de K. : Sacha.**
+  - Dans le tour 47, Noé se fait appeler « Sacha » sur le barrage, et ne sait pas d'où lui vient ce nom (« Il m'est venu la première nuit, comme si quelqu'un me l'avait prêté »).
+  - C'est le prénom de son petit-fils. Comme le savoir du voyage, le prénom n'a pas d'origine : il tourne dans l'anneau.
+  - Quand Élise dit « Sacha » sur le parapet, elle appelle son petit-fils sans le savoir.
+  - Il signe « K. » pour Kerr, le nom de son père.
 
 ---
 
@@ -160,7 +168,9 @@ La naissance de 2027 doit reprendre ces trois détails, à l'identique. Le lecte
 - **Il naît vers 2156,** au refuge, de K. (dans le corps du jeune homme descendant de Léa) et de l'Iris du présent. Il descend donc de Bastien Kerr par son père, et de Sophia et d'Étienne par sa mère.
 - **Il grandit seul** à partir de 2164. Il apprend la vraie règle et les deux chemins dans les carnets de son père.
 - **Il part dans le passé, par le sang,** pendant l'ouverture de 2026, dans son ancêtre **Bastien Kerr**.
-- ❓ Il faut placer l'âge de son départ (vers 2180 ?) et préciser le monde où il vit alors.
+- ✅ **Il part en 2180, à 24 ans,** l'âge d'Anselme à la vidange de 1980.
+  - Le refuge de la ligne A s'éteint. Il ne reste qu'une poignée de lucides.
+  - Il part seul, sans Conseil, avec un éclat pris sur un donneur.
 
 ### 6.2 Comment il rejoint l'Iris du passé 💡
 1. Il passe le tour aux règles brisées dans Bastien.
@@ -191,36 +201,48 @@ Par ce Théo, K. descend de Bastien et de l'ingénieur suisse de 1958 : c'est ce
 
 ---
 
-## 7. La fin de la trilogie ✅
+## 7. La fin de la trilogie : une fin ouverte ✅
 
-### 7.1 La scène
-**Dans le tour aux règles brisées, la nuit d'octobre trop froide, dans la cuisine d'Étienne.** Avant que les règles soient brisées, et donc avant que l'Iris du passé soit conçue.
-- Élise et Noé sont dans leurs hôtes. Il gèle, et ils viennent de franchir le seuil de la maison.
-- **Kerr est là, dans Bastien,** éveillé la nuit : il connaît la vraie règle.
-- **Il leur dit tout :**
-  - leur fille à naître, qu'il aimera ;
-  - leur autre fille, celle de 2130 ;
-  - leurs deux petits-fils, lui et K. ;
-  - le manuel, la fausse règle ;
-  - l'anneau.
-- **Il leur donne la seule façon de tout arrêter :** ne pas concevoir l'Iris du passé, donc empêcher sa naissance.
-- **Il leur explique aussi pourquoi ça ne marchera pas** : la boucle est infermable (§2.1).
-- **Il leur laisse quand même le choix,** alors que ce choix peut l'effacer. C'est ce qui le sauve moralement.
-- **Le tome 1 raconte déjà la suite de cette nuit** sans en connaître la cause : les règles brisées, Sophia qui s'enfuit.
+> **Principe :** pas de vraie fin. Le tome 3 se termine sur un choix qu'on ne voit pas aboutir, et sur une boucle qui repart autrement. La porte reste ouverte à une suite ou à des variantes.
 
-### 7.2 Trois fins possibles ❓
-- **A. Ils brisent les règles malgré tout.** L'amour d'une fille à venir l'emporte. La boucle continue. Fin douce-amère.
-- **B. Ils refusent, et la boucle les efface.** On retombe dans un tour où Élise et Noé recommencent comme au début du tome 1. Fin vertigineuse.
-- **C. On ne le dit pas.** La trilogie s'arrête au moment du choix, dans la cuisine, la nuit.
+### 7.1 La nuit d'octobre (le climax)
+**Le lieu :** le tour aux règles brisées, la nuit d'octobre trop froide, la cuisine d'Étienne. C'est avant la conception.
 
-### 7.3 Épilogue possible 💡
-**La nuit de la naissance de l'Iris du passé, en 2027.**
-- Élise, dans Sophia, met l'enfant au monde.
-- Noé, dans Étienne, la tient le premier.
-- À la porte, un homme pleure, comme au départ d'Élise en 2137 et dans la coda en 2164.
-- Cet épilogue n'a de sens qu'avec les fins A ou C.
+1. **Élise et Noé** viennent d'entrer, transis. Il gèle. Ils savent qu'ils ne devraient pas être là.
+2. **Kerr est assis au bout de la table**, dans Bastien, éveillé la nuit. Il a fait les lentilles : trop salées, avec la recette de Noé.
+3. **Pour la première fois, deux consciences habitent Bastien en même temps,** parce que la nuit, K. est là aussi. Le père et le fils, chacun père de l'autre, se rencontrent enfin à l'intérieur du même corps. Ce dialogue intérieur est entendu par Élise et Noé à travers une seule bouche. C'est la scène centrale de la trilogie.
+4. **Kerr dit tout :**
+   - leur fille à naître, qu'il aimera ;
+   - leur autre fille, celle de 2130, que K. aimera ;
+   - leurs deux petits-fils ;
+   - le manuel, la fausse règle, l'anneau ;
+   - le seul moyen de tout arrêter : que cette nuit n'ait pas lieu. Et pourquoi ce moyen échoue.
+5. **Il leur laisse le choix,** alors que ce choix peut l'effacer, lui et son fils.
+6. **Sacha,** de l'intérieur, demande à son père de le leur laisser vraiment. C'est sa première intervention, celle qu'il s'était toujours interdite.
+7. **Kerr et Sacha sortent.** Élise et Noé restent seuls dans la cuisine, à un mètre l'un de l'autre.
 
----
+### 7.2 La dernière page du tome 3
+- Élise tend la main au-dessus du mètre, paume ouverte, comme sur le barrage.
+- Elle compte. Noé compte avec elle.
+- « Cinquante-sept. Cinquante-huit. Cinquante-neuf. »
+- On ne saura pas s'il y a un soixantième, ni si leurs mains se touchent.
+
+### 7.3 La coda du tome 3 : la boucle repart, mais pas pareil
+Une page du cahier noir, à une date indéterminée :
+
+> *Tour 48. J + 1.*
+> *Elle est arrivée. Elle a peur.*
+> *Cette fois, je descends la voir.*
+> *— S.*
+
+- La boucle continue, quel qu'ait été le choix : elle est infermable.
+- Mais **Sacha signe de son prénom** et non plus « K. ». Il cesse d'être l'observateur, et il va intervenir.
+- Le tour 48 ne ressemblera à aucun autre. C'est l'ouverture sur une suite ou sur des variantes.
+
+### 7.4 Pourquoi cette fin 💡
+- **Elle respecte l'anneau :** aucun choix ne peut le briser, donc on ne montre pas le choix.
+- **Elle reprend le motif du tome 1 :** le compte jusqu'à cinquante-neuf, et le soixantième qui ne vient pas.
+- **Elle déplace la question :** on ne se demande plus comment arrêter la boucle, mais ce qui se passe quand l'observateur entre dans le tour.
 
 ## 8. Les tomes 2 et 3
 
@@ -252,11 +274,22 @@ Par ce Théo, K. descend de Bastien et de l'ingénieur suisse de 1958 : c'est ce
 |---|---|---|
 | 1 | Élise est l'incident ; le premier Passeur ; Noé est le Veilleur ; la ligne B | Kerr est un voyageur ; K. est son fils ; la règle est fausse ; le tour aux règles brisées n'est qu'une anecdote |
 | 2 | La vie de l'Iris du passé, Kerr vu de l'extérieur, K. est son fils, la règle est peut-être fausse | Le futur de K., Kerr fils de K., le manuel, l'anneau, la fin |
-| 3 | Tout | — |
+| 3 | Tout, sauf le choix de la cuisine | Le tour 48 |
 
 ---
 
-## 10. Indices à ajouter dans le tome 1 (à valider un par un)
+## 9 bis. Les portes ouvertes vers d'autres histoires 💡
+
+1. **Le tour 48.** Sacha intervient : il descend voir Élise dès la première nuit. C'est une suite directe, ou une variante où tout se rejoue autrement.
+2. **Les autres lacs.** Sophia a quarante-trois fioles d'eau de lac sur son étagère. Théo, le fils noyé de Bastien, est mort dans le lac d'Annecy. Un autre gisement existe peut-être ailleurs. Un grain rouge au fond de la fiole « Lac d'Annecy, 2014 » suffit à ouvrir d'autres familles et d'autres boucles.
+3. **Genève.** Dans le tour aux règles brisées, le cristal a été extrait et transporté à Genève : la Rouille y est venue « par d'autres mains ». C'est une boucle urbaine, sans lac, avec la Fondation Léthé au centre.
+4. **Oriane.** Elle compte jusqu'à soixante sans savoir de qui elle tient cette habitude. Elle est « presque intacte », née d'une mère qui avait oublié son nom. Est-ce une voyageuse revenue par la Rouille dans un corps vide ? Qui ?
+5. **L'Iris de la ligne B** (née en 2103), qui ouvre la fiole en 2141. Ce peut être une histoire parallèle, du point de vue de la mère qui a relancé la Rouille par amour.
+6. **1958 avant 1958.** « Ce n'est pas encore l'heure. Ce n'est pas encore vous. » Pour qui était-ce l'heure ? La construction du barrage cache peut-être une ouverture plus ancienne.
+
+---
+
+## 10. Indices posés dans le tome 1 (V3.3) ✅
 
 | Où | Indice | Ce qu'il prépare |
 |---|---|---|
@@ -267,16 +300,17 @@ Par ce Théo, K. descend de Bastien et de l'ingénieur suisse de 1958 : c'est ce
 | Ch.27 « Le premier Passeur » | Anselme, sur le tour aux règles brisées : « Elle est partie avec quelque chose. Nous ne savons pas quoi. » | Sophia part enceinte de l'Iris du passé |
 | Ch.31 « Huit ans » | Noé, sur ce même tour : « Si on avait eu un enfant ce tour-là, il aurait été à qui ? » Élise ne répond pas. | les deux Iris |
 | Ch.35 « Le 13 novembre » | Kerr à Sophia, au moment de partir : « Dormez bien, madame Varenne. Vraiment. » | Kerr sait ce qu'est le sommeil |
-| Ch.37 « Le matin » | Kerr, en partant, regarde Sophia : « Prenez soin de votre fille. » Elle ne sait pas encore qu'elle est enceinte. | Kerr connaît l'avenir |
+| Ch.37 « Le matin » | Kerr, en partant, regarde Sophia : « Prenez soin de votre fille. » Elle n'a pas de fille, et ne sait pas encore qu'elle est enceinte. | Kerr connaît l'avenir |
 | Interlude « Iris » | Une phrase : un homme qui s'était réveillé d'entre les rouillés, et un fils de huit ans laissé au refuge | K., Kerr, l'anneau |
+| Ch.12 « L'homme aux étoiles » | Noé, sur le nom « Sacha » : « Il m'est venu la première nuit, comme si quelqu'un me l'avait prêté. » | Sacha, le prénom du petit-fils |
 | Interlude « Lyon, 2033 » | « …s'était endormi en elle pour la dernière fois » devient « …pour la dernière fois, croyait-elle » | Élise et Noé peuvent se réveiller |
 | Annexe | Inchangée. « C'est de Léa que je descends » devient un indice (§5.3). | le retour de K. dans le futur |
 
 ---
 
-## 11. Questions ouvertes
-1. **Le prénom de K.**
-2. **La fin :** A, B ou C (§7.2).
-3. **L'âge et le monde de Kerr** quand il part pour 2026 (§6.1).
-4. **Le consentement de Sophia** à la naissance de 2027 (§3.1).
-5. **L'Iris de la ligne B** (2103, la fiole de 2141) : quel rôle garde-t-elle dans les tomes 2 et 3 ?
+## 11. Décisions prises (V3.3)
+- **Le prénom de K. :** Sacha (§5.3).
+- **La fin :** ouverte (§7). Le choix de la cuisine n'est pas montré, et la coda annonce le tour 48.
+- **Le départ de Kerr :** en 2180, à 24 ans (§6.1).
+- **Le consentement de Sophia :** « Je peux ? » « Vas-y. » (§3.1)
+- **L'Iris de la ligne B :** une histoire parallèle possible (§9 bis).
