@@ -78,3 +78,15 @@
 - Rose † octobre 1999 à 67 ans ; épitaphe « Et la maison. » ; en nov. 2026 un visiteur inconnu écrit « Et lui. » à la craie, puis la gravure apparaît. Origine non fixée (candidats : Iris du présent, K., Kerr).
 - Hélène a rencontré Anselme vers 1985-86 (apparition devant la porte du Haut, « la mère d'Anselme »).
 - **Étienne** : grand-père de Sacha sans le savoir ; « Un donneur. Il ne s'en servait plus » ; « Si tu pars, je serai là ».
+
+## Tome 3 : faits fixés à l'écriture (V3.28)
+- **Kerr (tour 1)** reconnaît dès J+12 que l'écriture fine du cahier, la nuit, est celle de **son père** (K.) ; K. lui écrit « Je ne dois pas te parler. Pas encore » ; Kerr répond « Pas encore ». Kerr **ignore encore que K. est aussi son fils** (Sacha) : l'écriture que Sacha a apprise de Théo est celle de Kerr, qui l'a apprise d'Agathe en copiant le père. L'écriture elle-même est la boucle.
+- **Manuel** écrit le 4 oct. 2026 (tour 1), enveloppe « Ce qui efface », retrouvée à Genève 108 ans plus tard (2134). Kerr s'exempte de la fausse règle.
+- **Tour 47** : Kerr écoute Bastien crier depuis 46 tours, s'excuse (« Je vous dois beaucoup de choses »), dit « Bonjour, Bastien ». Il lit chaque matin « Il dort mieux. Bien. »
+- **Refuge** : Sacha dit son nom et tout à Iris en 2152 ; ils s'aiment en 2154 ; elle est enceinte au printemps 2155 (Kerr né 2156) ; Ruben a 37 ans en 2154 et tousse.
+
+## Étoffement tome 2 (V3.31) : ajouts de canon
+- Rose a perdu un enfant avant Anselme (une mèche blonde liée d'un fil rouge dans un coffret de bois peint, avec des lettres et un chapelet de verre). Elle tient un livre de comptes (« On y arrivera. ») et a déjà une valise de départ à moitié pleine, sous le lit.
+- La maison de Rose : table de noyer à trou de nœud et brûlure en virgule, cinq assiettes ébréchées au même endroit (la cinquième est tiède), calendrier des postes (Vierge), pompe qui goutte toutes les 4 s, petit miroir fêlé, crucifix au-dessus du mur au charbon. Une chienne rousse à l'oreille déchirée suit Iris jusqu'au talus (elle ne descend pas dans la glaise).
+- Premier mot au charbon (nuit 3-4) : Rose « Qui a fait ça ? » ; Iris « Pardon. Le lait a tourné. » (ch. 1 bis) ; puis « Je sais » (ch. 3).
+- (V3.32) Rose : fils mort-né à trois jours en 1954 (baptisé par l'abbé Perrin, enterré dans le coin des enfants) ; elle vend deux miches/jour en sous-main (« la boîte du départ », boîte de fer-blanc sous le drap brodé) ; prie au troisième banc à gauche à 16 h. Lavoir : Mme Pellissier (vieille), la Marie des Combes (cinq enfants, bavarde), Odette (« Tu dors trop, plutôt »). Odette Girard est la boulangère du hameau (fournées à 2 h) ; son mari est à la scierie.

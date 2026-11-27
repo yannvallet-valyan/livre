@@ -4,15 +4,23 @@
 
 Hélène Varenne avait soixante-six ans, un deux-pièces au quatrième étage d'un immeuble de la Croix-Rousse, et une théière qu'elle ne quittait pas.
 
-Elle ouvrit la porte à sa fille un mardi d'octobre, à onze heures du soir, sans qu'on ait téléphoné. Elle la regarda. Elle regarda le manteau mal boutonné, la valise qui n'était pas une valise mais un sac de sport, les cernes violets, et elle ne posa aucune question.
+Elle ouvrit la porte à sa fille un mardi d'octobre, à onze heures du soir, sans qu'on ait téléphoné. Elle regarda le manteau mal boutonné, la valise qui n'était pas une valise mais un sac de sport, les cernes violets, et elle ne posa aucune question. Elle s'effaça pour la laisser entrer. Elle dit :
 
-— Il y a du thé, dit-elle.
+— Il y a du thé.
 
-C'était un thé noir très fort, sans sucre, qu'elle buvait à toute heure du jour, comme elle l'avait toujours fait. Sophia en reprit trois tasses. Elle s'endormit assise, la tête contre le montant du canapé, et Hélène la couvrit avec le châle de laine qu'elle gardait pour les nuits où elle n'arrivait pas elle-même à dormir.
+C'était un thé noir très fort, sans sucre, qu'elle buvait à toute heure du jour, comme elle l'avait toujours fait. L'appartement en sentait la fumée, un parfum de tabac mouillé, de tanin, de papier ancien. Il y avait dans le couloir une rangée de manteaux d'hiver, que personne n'avait sortis depuis dix ans, et au bout, une cuisine étroite où deux chaises faisaient face à une fenêtre ouverte sur une cour. Sur le rebord, des géraniums rougeoyaient dans des pots de conserve. Il y avait une radio posée sur le frigo, éteinte. Il y avait un chat, gris, qui ne bougea pas.
+
+Sophia en reprit trois tasses. Elle s'endormit assise, la tête contre le montant du canapé, et Hélène la couvrit avec le châle de laine qu'elle gardait pour les nuits où elle n'arrivait pas elle-même à dormir.
 
 ---
 
 Elle ne dit rien pendant onze jours. Elle ne dit pas le nom de l'homme, ni celui de la vallée, ni la raison de son arrivée. Hélène ne le demanda pas. Elle avait appris, trente-cinq ans plus tôt, que les questions ne rendent pas ce qui est parti.
+
+Elles vécurent ainsi, côte à côte, en silence, avec des gestes qui se frôlaient sans se toucher. Hélène se levait à six heures, mettait l'eau à chauffer, faisait du thé. Sophia se levait à sept, s'asseyait en face d'elle, buvait. Hélène lisait le journal, à voix basse, par bribes. Elle disait : « Il y a eu une inondation dans le Gard. » Elle disait : « Ils ont retrouvé la fille. » Elle disait : « Tu veux du pain ? » Sophia répondait par un mot, puis par un autre, puis, le sixième jour, par une phrase entière. Elle dit : « Je n'ai plus de travail. » Hélène dit : « On verra. »
+
+Sophia téléphona à l'agence de l'eau, le huitième jour. Elle prétendit une urgence familiale. Une jeune femme lui répondit, avec une gentillesse sans mémoire, qu'on lui adresserait les papiers. Elle dit merci. Elle resta longtemps debout dans le couloir, le combiné à la main, devant le miroir où elle se voyait mal : un visage mince, aux pommettes marquées, aux cheveux déjà gris au-dessus des tempes. Elle trouva qu'elle ressemblait à sa mère. Elle trouva aussi, pour la première fois, que ce n'était pas une insulte.
+
+---
 
 Le onzième matin, Sophia se pencha au-dessus de l'évier et vomit, et Hélène, qui épluchait une carotte, posa son couteau.
 
@@ -34,7 +42,7 @@ Sophia hocha la tête.
 
 — Tu sais de qui ?
 
-Sophia ne répondit pas. Elle regardait le carrelage. Hélène attendit, longtemps, avec la patience de quelqu'un qui sait exactement ce qu'elle va entendre.
+Sophia ne répondit pas. Elle regardait le carrelage, un damier rouge et blanc, usé près de l'évier à l'endroit où l'on se tient debout pour laver. Hélène attendit, longtemps, avec la patience de quelqu'un qui sait exactement ce qu'elle va entendre.
 
 — Je ne sais pas, dit enfin Sophia.
 
@@ -65,6 +73,22 @@ Sophia sentit quelque chose se refermer, très doucement, au fond d'elle. Elle a
 — Je te le promets, dit-elle.
 
 Elle le dit sans y croire. Hélène la serra contre elle, plus fort qu'elle ne l'avait jamais fait, et Sophia ferma les yeux sur son épaule, qui sentait le thé et la laine, et elle pensa, avec une lucidité d'hydrologue, que les promesses sont des digues : elles ne tiennent que contre l'eau qu'on a prévue.
+
+---
+
+Il y eut ensuite les rendez-vous. Le médecin, d'abord, un grand type fatigué, qui lui demanda si elle avait « un projet ». Elle dit non. Il hocha la tête, nota quelque chose, lui tendit une ordonnance pour des vitamines. L'échographie, ensuite, dans un cabinet du sixième arrondissement, où une jeune femme lui passa sur le ventre une sonde froide, sans un mot, les yeux sur l'écran. Il y avait, dans la lumière grise, quelque chose de très petit, de très net, qui battait. Sophia le regarda longtemps.
+
+— Tout va bien, dit la jeune femme. Vous voulez entendre ?
+
+— Non.
+
+Elle l'entendit quand même. Un bruit rapide, régulier, comme un petit galop. Elle ferma les yeux. Elle pensa à la cote du lac, au niveau qui baissait, aux filaments rouges, à une voix prononçant un mot dans sa bouche. Elle pensa : *tu es à moi.* Elle ne sut pas à qui elle le disait.
+
+Le soir, elle dîna avec sa mère, en silence. Hélène avait fait une soupe de légumes, qu'elle servit dans les deux bols ébréchés de la cuisine. À la fin du repas, elle dit, sans lever les yeux :
+
+— Je lui ferai un bonnet. Il y a encore de la laine.
+
+Sophia ne répondit pas. Elle posa sa main à plat sur la table, à côté de celle de sa mère. Elles ne se touchèrent pas.
 
 ---
 
