@@ -48,3 +48,9 @@ Tour 48 ; autres lacs (Annecy) ; Genève ; Oriane ; Iris B ; 1958 avant 1958. �
 ## Rencontre des deux Iris : tranchée en V3.10 (B + A)
 Voir `predestination.md` §3 quater. Demandes de l'auteur en attente : 💡 **une Élise B dans le corps de l'Élise A** (voir réponse) — option retenue à valider : **les deux Élise dans le même corps (Sophia), au tour 48** (coda du tome 3).
 
+## Proposition en attente (V3.10) : les deux Iris dans le même corps (Rose, 1958)
+- Rose est l'ancêtre **des deux Iris** : Iris du passé (Rose → Anselme → Sophia → Iris) et Iris du présent (Rose → Anselme → Sophia → Anne → Jeanne → Paul → Élise → Iris).
+- Idée : le voyage court d'Iris du présent (2160) la mène dans **Rose**, pas dans Odette. Deux voyageuses dans un même hôte, comme les Élise dans Anselme (« nous »).
+- Elles se disputent le corps : Iris du passé veut empêcher le lac ; Iris du présent sait que le lac doit être rempli pour qu'Élise existe. Iris du présent repart avant la vanne (le cristal est intact).
+- À valider : remplace-t-elle la version « Odette » (voir `predestination.md` §3 quater) ou s'y ajoute-t-elle ?
+
