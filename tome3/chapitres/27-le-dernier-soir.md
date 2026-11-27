@@ -100,9 +100,9 @@ Il réfléchit. Il fronça les sourcils.
 
 Il ferma les yeux. Il serra ses poings sous son menton. Elle resta là, immobile, la main sur sa poitrine. Elle écouta sa respiration devenir régulière. Elle se pencha. Elle posa ses lèvres sur son front.
 
-— Soixante, murmura-t-elle.
+— Cinquante-neuf, murmura-t-elle.
 
-Il ne l'entendit pas. Elle n'avait jamais dit ce chiffre. Elle ne le dirait qu'une fois, dans un autre siècle, devant une autre qu'elle-même.
+Il ne l'entendit pas. Elle n'avait jamais dit le chiffre d'après. Elle ne le dirait qu'une fois, dans un autre siècle, devant une autre qu'elle-même.
 
 Elle sortit.
 
