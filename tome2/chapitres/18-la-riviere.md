@@ -58,6 +58,30 @@ Elle se leva, l'enfant dans les bras. Elle ne se retourna pas. Elle marcha jusqu
 
 ---
 
+Odette marchait derrière elle, à dix pas, sans oser s'approcher. Elle avait cessé de pleurer. Elle tenait dans ses mains le châle qu'elle avait pris pour courir, qu'elle tordait machinalement, comme un linge qu'on essore. Quand Rose se retourna, elle s'arrêta net.
+
+— Rose, dit-elle. Je ne l'ai pas entendu.
+
+— Je sais.
+
+— Je faisais le pain. Je n'ai pas…
+
+— Je sais.
+
+Elle ne leva pas la voix. Elle n'avait pas de colère. Elle n'avait que cette froideur très claire des gens qui viennent de frôler le pire, et qui n'ont plus rien à dire aux autres. Elle regarda Odette, longtemps, sans haine, sans pitié. Elle vit une femme pâle, les mains tremblantes, les yeux rougis. Elle vit aussi, à l'arrière-plan, comme à travers une vitre, une autre femme, plus vieille, plus fatiguée, qui la regardait avec une angoisse d'un autre âge.
+
+— Rentre chez toi, dit-elle.
+
+— Je…
+
+— Rentre.
+
+Odette ne bougea pas. Elle ouvrit la bouche, comme pour dire quelque chose, puis la referma. Elle fit un pas en arrière. Elle regarda l'enfant, qui dormait déjà, la joue contre l'épaule de sa mère, les cheveux collés, un peu bleu autour des lèvres. Elle dit seulement :
+
+— Réchauffe-le vite.
+
+Rose ne répondit pas. Elle se détourna. Elle entendit derrière elle, très faiblement, un sanglot qui ne ressemblait à aucun autre.
+
 Dans la cuisine, devant le poêle, elle sécha son fils. Elle le mit au lit. Elle resta longtemps assise à côté de lui, la main sur sa poitrine, à compter ses souffles.
 
 Jean rentra à la nuit. Il la trouva dans la même position, les yeux rouges, les mains tremblantes. Elle ne lui dit rien. Il ne demanda rien. Il alla poser son béret sur le clou, vint s'asseoir en face d'elle, et prit, dans la sienne, la main qu'elle ne retira pas.
