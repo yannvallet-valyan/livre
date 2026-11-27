@@ -26,7 +26,7 @@ Elle porta la main à sa bouche. Ce ne fut pas sa main. Courte, large, des ongle
 
 Quarante. Quarante et un.
 
-Elle voulut dire le nom de son fils, pour l'avoir à voix haute, pour s'accrocher. Elle le chercha. Il était là, juste derrière quelque chose, comme un objet tombé derrière un meuble : elle en voyait le contour, la première lettre, peut-être. Rien d'autre. Elle savait seulement qu'il avait quinze ans, qu'il avait tenu un crayon entre le pouce et le majeur, et qu'elle venait de le faire ouvrir, sur son ordre, par les mains d'un vieux médecin.
+Elle voulut dire le nom de son fils, pour l'avoir à voix haute, pour s'accrocher. Elle le chercha. Il était là, juste derrière quelque chose, comme un objet tombé derrière un meuble : elle en voyait le contour, la première lettre, peut-être. Rien d'autre. Elle savait seulement qu'il avait quinze ans, qu'il avait tenu un crayon entre le pouce et le majeur, et qu'elle venait de laisser un vieux médecin lui ouvrir le crâne, avec ses mains douces, parce qu'elle le lui avait demandé et qu'il ne savait pas pourquoi.
 
 *Non.* Elle ne pensa pas plus loin. Elle compta.
 

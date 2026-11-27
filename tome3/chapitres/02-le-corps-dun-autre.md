@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Premier tour de Kerr. Septembre 2026.*
+
 Il y avait quelqu'un dedans.
 
 C'est la première chose que Kerr comprit, avant la lumière, avant l'odeur de moquette et de café refroidi, avant même de savoir qu'il avait des mains. Il y avait quelqu'un, derrière ses yeux, qui hurlait. Pas un cri : une pression, une poussée de l'intérieur, comme si on avait enfermé un homme dans une boîte à sa mesure et qu'il en cognait les parois à coups de tête.

@@ -49,3 +49,11 @@
 - **Troisième couplet (🔒 tome 3, brouillon retenu)** : *Dors, mon enfant, dors sans bruit, / je compte pour toi jusqu'à minuit ; / au soixantième, si tu m'entends, / je serai là, comme avant.* Il n'existe que quand les deux Iris le chantent ensemble.
 - **Jean** (1958) : il s'accuse du sabotage, passe trois semaines en cellule, est libéré faute de pièces (Walther brûle le rapport). Jamais condamné.
 
+
+## Points de cohérence tranchés (V3.15)
+1. **Kerr, chapitre 2 du tome 3** = *Premier tour de Kerr* (sept. 2026). Les 46 tours suivants viennent après ; en tour 47 il est vieux de 46 tours.
+2. **Départ d'Iris (2066)** : après la mort de Sacha et la disparition de Théo, Iris quitte Vallorce et s'installe à Lyon, dans l'appartement de Sophia (morte en 2045). Elle y trouve la méthode, y compte, y part. Chapitre 32 du tome 2 : « cuisine de Lyon ».
+3. **Cuisine jaune** (souvenir d'Iris à 4 ans, `tome2/09`) : c'est la cuisine de Rose en 1958, et la femme aux cheveux courts qui chante et pleure, c'est **Iris elle-même**, qui tient Anselme. Le souvenir descend par le sang (Anselme → Sophia → Iris). Elle cherche sa mère dans un souvenir où elle est la mère. Le lecteur le comprend à la scène de la dernière nuit (ch. 30 du plan). Boucle sans origine : elle se coupe les cheveux à cause de l'image, et l'image existe parce qu'elle s'est coupé les cheveux.
+4. **Chapitre 3 du tome 3** : 2150, trois jours après le chapitre 1 (Iris du présent a 20 ans).
+5. **Éclat de Sacha** : Iris le demande à Étienne (≈ 86 ans), qui ne sait pas pourquoi il obéit : « un donneur » (écho de `03-passeuse.md`).
+6. **Étienne en 2027** : retour à Grenoble en train (Hugo). Il ne se souvient de rien, sinon d'un enfant dans les bras. Il revoit Iris à Vallorce vers 2047 sans la reconnaître.

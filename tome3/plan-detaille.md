@@ -19,7 +19,7 @@
 
 **2. S · sept. 2026 · Bastien.** Kerr, 24 ans, vient de s'éveiller dans le corps d'un homme de 35 ans qui hurle à l'intérieur de sa tête. Il ne le laisse pas s'exprimer. Il lit les papiers de Bastien, l'agenda, la plaquette Léthé, la photo retournée d'un enfant avec un caillou blanc. Il fait semblant d'être un directeur poli. *Coût :* il apprend que prendre un corps le jour, c'est enfermer quelqu'un. *(maillon 1)*
 
-**3. R · 2151 · Iris.** Iris du présent, 21 ans, archiviste, aide Ruben à soigner le rouillé qui parle. Il l'appelle « Iris » sans qu'on le lui ait dit. Il la regarde « comme celui qui connaît déjà la fin ». Elle a de la craie aux doigts. *(maillon 19)*
+**3. R · 2150 · Iris.** ✅ Iris du présent, 20 ans, archiviste, aide Ruben à soigner le rouillé qui parle. Il l'appelle « Iris » sans qu'on le lui ait dit. Il la regarde « comme celui qui connaît déjà la fin ». Elle a de la craie aux doigts. *(maillon 19)*
 
 **4. Interlude · Bastien, le vrai.** Rêve-t-il ? Il voit un homme qui a ses mains écrire dans son bureau. Il entend sa voix répondre à Sophia : il n'en est pas l'auteur. Il se souvient d'un fils noyé dans un lac. Il ne se souvient pas de lundi. *Coût :* le premier à payer, et le dernier à comprendre.
 

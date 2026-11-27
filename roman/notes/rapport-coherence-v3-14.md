@@ -22,10 +22,5 @@ Relecture de `tome2/chapitres/01-09`, `tome3/chapitres/01-03`, contrôlée contr
 - « Pardon » (`T2/02`) fait écho à `36` (« pardon, je me suis trompée de lit »).
 - Carnets « de la main fine de son père » (`T3/02`) = l'écriture de K. (`T3/03`).
 
-## Points ouverts (à trancher à l'écriture)
-1. **Tour de Kerr** : `T3/02` se lit comme sa première arrivée, mais le canon dit « vieux de 46 tours » en tour 47. À marquer : « Premier tour de Kerr ».
-2. **Lieu du départ d'Iris en 2066** : `T2/01` évoque « une cuisine de Lyon », mais Iris vit à Vallorce de 2047 à 2065. Elle serait retournée à Lyon après la mort de Sacha et la disparition de Théo (appartement de Sophia, morte en 2045). À écrire au chapitre 31.
-3. **Cuisine jaune** (`T2/09`, souvenir d'Iris à 4 ans : une femme aux cheveux courts, un poêle) : origine non fixée. Candidate : la cuisine de Rose, 1958, vue par Iris du passé. À payer au tome 2 ou 3.
-4. **T3 plan, ch. 3** daté de 2151 : le chapitre écrit suit `01` à trois jours (2150). Corriger le plan.
-5. **Éclat de Sacha** (`T2/01` : « sur son ordre, par les mains d'un vieux médecin ») : Étienne doit avoir ~86 ans en 2066 ; le plan dit qu'il prélève sans savoir. Garder « sur son ordre » pour Iris, qui ne comprend qu'après.
-6. **Étienne à Lyon, 2027** : il reprend le train pour Grenoble, où vit Hugo (cohérent). Il ignore tout ; à reprendre quand Iris naît dans Sophia.
+## Points ouverts : tranchés en V3.15
+Voir `memoire/canon.md`, section « Points de cohérence tranchés (V3.15) ».
