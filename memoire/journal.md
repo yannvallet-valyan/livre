@@ -19,3 +19,4 @@
 | V3.13 | 2026-11-27 | Tome 2 ch. 06 (Vas-y, Sophia), 07 (Étienne somnambule, Sophia: « Pars »), 08 (Walther au pied du mur, « Pardon, Rose »), 09 (enfance d'Iris : craie, deux voix, promesse à Hélène) |
 | V3.14 | 2026-11-27 | Passe de cohérence tomes 1-3 : 6 corrections (Marle, âge d'Hélène, « quatre mois », Jean de nuit, âge d'Iris du présent, aiguille) ; `roman/notes/rapport-coherence-v3-14.md` (6 points ouverts) |
 | V3.15 | 2026-11-27 | Six points de cohérence tranchés (premier tour de Kerr ; Iris retourne à Lyon en 2066 ; cuisine jaune = Iris elle-même dans Rose ; ch. 3 T3 en 2150 ; éclat demandé à Étienne ; retour d'Étienne à Grenoble) |
+| V3.16 | 2026-11-27 | Ch. 1 (T2) : pronom corrigé ; ch. 10 « La pompe » (20 août 1958 : joint dévissé, manœuvre de Chambéry blessé, visite d'Iris à l'hôpital) |

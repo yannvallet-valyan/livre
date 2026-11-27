@@ -40,7 +40,7 @@ Tour 48 ; autres lacs (Annecy) ; Genève ; Oriane ; Iris B ; 1958 avant 1958. �
 ## Avancement des tomes 2 et 3 (V3.12)
 | Tome | Plan | Chapitres écrits |
 |---|---|---|
-| 2 | `tome2/plan-detaille.md` (32 ch. + épilogue) | `tome2/chapitres/` : 01 à 09 (dont 05b) (≈ 8 000 mots) |
+| 2 | `tome2/plan-detaille.md` (32 ch. + épilogue) | `tome2/chapitres/` : 01 à 10 (dont 05b) (≈ 8 000 mots) |
 | 3 | `tome3/plan-detaille.md` (35 ch. + coda) | `tome3/chapitres/` : 01, 02, 03 (≈ 2 200 mots) |
 - Convention : fichiers `NN-titre.md`, même typographie que le tome 1, `*(premier jet)*` en tête. Non intégrés à l'EPUB du tome 1.
 - À valider : la rencontre des deux Élise (💡, `tome3/plan-detaille.md`).
