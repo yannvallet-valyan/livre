@@ -231,15 +231,20 @@ Par ce Théo, K. descend de Bastien et de l'ingénieur suisse de 1958 : c'est ce
 Une page du cahier noir, à une date indéterminée :
 
 > *Tour 48. J + 1.*
-> *Elle est arrivée. Elle a peur.*
+> *Elle est arrivée. Elle a peur.* (C'est Élise B, la coda du tome 1.)
 > *Cette fois, je descends la voir.*
 > *— S.*
 
 - La boucle continue, quel qu'ait été le choix : elle est infermable.
 - Mais **Sacha signe de son prénom** et non plus « K. ». Il cesse d'être l'observateur, et il va intervenir.
-- Le tour 48 ne ressemblera à aucun autre. C'est l'ouverture sur une suite ou sur des variantes.
+- Le tour 48 est celui de la coda du tome 1 (Élise B arrive en 2026). Il ne ressemblera à aucun autre. C'est l'ouverture sur une suite ou sur des variantes.
 
-### 7.4 Pourquoi cette fin 💡
+### 7.4 Ce que le lecteur sait déjà ✅ (passe de cohérence V3.4)
+- Le tome 1 raconte que ce tour a eu lieu : Élise et Noé n'ont « pas tenu », Sophia a fui. Le lecteur du tome 3 sait donc, au moment du choix, ce qu'ils vont faire, et eux ne le savent pas.
+- La dernière page reste muette (pas de soixantième, pas de mains qui se touchent). Mais elle se relit : la « faute » racontée par Anselme était **un choix fait en connaissance de cause**, par amour d'une fille à naître.
+- L'ouverture ne porte donc pas sur ce choix-là, mais sur **le tour 48** : la coda du tome 1 montre Élise B arriver en 2026 ; la coda du tome 3 reprend ce même instant, et Sacha décide d'y descendre. Ce qu'il fera est l'ouverture.
+
+### 7.5 Pourquoi cette fin 💡
 - **Elle respecte l'anneau :** aucun choix ne peut le briser, donc on ne montre pas le choix.
 - **Elle reprend le motif du tome 1 :** le compte jusqu'à cinquante-neuf, et le soixantième qui ne vient pas.
 - **Elle déplace la question :** on ne se demande plus comment arrêter la boucle, mais ce qui se passe quand l'observateur entre dans le tour.

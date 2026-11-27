@@ -18,6 +18,8 @@
 | Le noyer → le fil s'éteint doucement → la voyageuse **se dissout** dans l'hôte (variante « rester ») | Vrai, mais elle **dort** au fond de l'hôte et peut se réveiller une dernière fois (🔒 naissance de 2027, tour brisé) |
 - Compter jusqu'à 60 pour s'installer dans l'hôte. Les enfants de la lignée s'endorment à 59 (le 60e jamais entendu).
 - Chaque greffe laisse un **résidu** dans l'hôte, transmis aux descendants (berceuse, compter, « aubépine », Orion).
+- **Le cristal est hors du temps** : une conscience qui s'y réfugie (les Élise d'Anselme, Sacha après 2065) peut en ressortir **dans un autre tour**. C'est ainsi que K. observe 47 tours, et que Sacha, né dans le tour brisé, revient vers 2150 dans la ligne A.
+- **Si le gisement est extrait** (tour brisé : Léthé l'emporte à Genève le 14 nov.), le fil s'éteint doucement, comme quand on le noie : les voyageurs restent endormis dans leurs hôtes.
 
 ## La boucle (tome 1, révélée)
 1. Élise (2137) part briser le cristal → c'est **elle** l'incident du 14 → elle tombe dans Anselme (1980) → elle y vit ses nuits 46 ans. Anselme contient **les Élise de tous les tours** (couches de vase, « nous »), dont la plus ancienne : **Élise B** (cheveux longs, « maman »).
@@ -32,4 +34,4 @@
 - **L'anneau** : Kerr et K. sont chacun le père de l'autre ; chaque Iris est mère de l'un ; Élise et Noé sont grands-parents des deux. Le savoir du voyage n'a pas d'inventeur. **Personne n'a commencé.** La parenté est assumée sans pudeur.
 - **Kerr « sauvegarde la boucle »** : sa famille n'existe que si le tour brisé revient. Il n'est pas méchant (miroir de Noé : « La boucle doit tourner »), pas innocent non plus.
 - **Infermable** : empêcher la naissance d'Iris du passé efface K., Kerr, le manuel, donc les voyageurs, donc ceux qui l'empêchent.
-- **Fin du tome 3** : nuit d'octobre du tour brisé, cuisine d'Étienne, avant la conception. Kerr et Sacha (même corps, enfin ensemble) disent tout à Élise et Noé et leur laissent le choix. Dernière page : la main au-dessus du mètre, « Cinquante-neuf. » Coda : *Tour 48. J + 1. Elle est arrivée. Elle a peur. Cette fois, je descends la voir. — S.*
+- **Fin du tome 3** : nuit d'octobre du tour brisé (le 16 oct.), cuisine d'Étienne, avant la conception. Le lecteur sait, depuis le tome 1 (`31`, `36`), que ce tour a eu lieu : la scène révèle que la « faute » d'Élise et Noé était un **choix**, fait en connaissance de cause. Kerr et Sacha (même corps, enfin ensemble) disent tout à Élise et Noé et leur laissent le choix. Dernière page : la main au-dessus du mètre, « Cinquante-neuf. » Coda : *Tour 48. J + 1. Elle est arrivée. Elle a peur. Cette fois, je descends la voir. — S.*

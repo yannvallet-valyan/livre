@@ -12,7 +12,7 @@
 | **Fioles de Sophia** | 43 (une par lac, la 1re à Paladru en 2000) + « Vallorce, 14/11/2026 » (l'aiguille) | Étagère de Lyon → armoire de famille → 2141 ouverte par Iris B ; aiguille jetée au lac, **fiole gardée, un grain collé** → éclat d'Élise B (2164) |
 | **Aiguille de 1980** | Cassée par Anselme le 13 oct. 1980, boîte d'allumettes dans la boîte à mouches 43 ans | 2023 : bocal envoyé à Kerr (« Ce qui efface ») → Léthé |
 | **Cahier noir** | Cahier de labo de Kerr ; écriture fine, typographique (K.) ; « Tour 47 », variables É., N., I., A.R. | Kerr le garde → Archives cantonales de Genève, fonds Léthé, carton 14, pièce 3. 🔒 Le **manuel** de Kerr est dans le même fonds |
-| **Badges** | Sophia (retiré le 6 nov.) ; ROCH A. (exploitant) ; KERR B. (direction) : posé par K. sur l'appui de la fenêtre le 3 nov., utilisé par Élise le 7 ; un badge au congélateur le 14 (retard de Kerr) | — |
+| **Badges** | Sophia (retiré le 6 nov.) ; ROCH A. (exploitant) ; KERR B. (direction) : posé par K. sur l'appui de la fenêtre le 3 nov., utilisé par Élise le 7 ; au congélateur le 14, Kerr trouve son badge et le second, perdu début novembre (retard jusqu'à 8 h 50) | — |
 | **Lampes de K.** | Lampe torche sur la 1re marche (19 oct.) ; lampe de poche sur le paillasson de Rose (1958, pile inusable) | Signature de K. |
 | **Mouche rouge rouille** | Fil de cuivre en spirale, montée la nuit par les Élise | Offerte à Sophia le 13 nov. (anniversaire) ; dans sa poche avec le dessin |
 | **Cailloux** | Mathis (galet à veine blanche « pour l'autre dame ») ; Kerr (caillou blanc de Théo, déposé sur la vase) | Boîte de cailloux de Mathis → armoire de famille (2108) |

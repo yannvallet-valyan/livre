@@ -280,4 +280,4 @@ Voir le dossier `../../tome2/` (pitch, personnages, chronologie de 1958, **amorc
 - **Rose Roch, habitée en 1958 :** cheveux ras depuis l'été 1958, mains à plat, compte jusqu'à 59, « Comme ça, je me reconnais », la chanson de rivière qui « s'arrêtait toujours avant la fin ».
 - **K. en 1958 :** « Ce n'est pas encore vous. » Dans l'annexe, la femme aux cheveux ras « m'a regardé comme si elle me connaissait ».
 - **Jeanne, 7 ans, en 2059 :** elle frappe contre le mur jusqu'à 59, ce qui montre qu'Iris adulte, dissoute dans Mathis, est transmise à son arrière-grand-mère.
-- **La relecture de la coda :** Iris B, en 2164, est le corps vide d'une voyageuse partie en 2155 vers 1958.
+- **La relecture de la coda :** (obsolète en V3.4, voir `trilogie.md`) Iris B, en 2164, serait le corps vide d'une voyageuse ; ce n'est plus elle qui part dans Rose.

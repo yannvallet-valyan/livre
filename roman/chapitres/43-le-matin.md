@@ -57,7 +57,7 @@ Elle murmura *merci* à personne, et personne ne lui répondit.
 
 ---
 
-Bastien Kerr arriva à huit heures cinquante. Il aurait dû être là à sept heures : son badge avait disparu pendant la nuit, et il avait mis une heure et demie à le retrouver, dans le congélateur de la salle de pause, posé sur un bac à glaçons. Il arriva avec une équipe de quatre personnes et deux caisses de matériel de découpe. Il trouva l'escalier occupé par des tuyaux et la galerie pleine de béton jusqu'au plafond de la brèche. Ménard lui tendit l'arrêté d'urgence signé par la préfecture à cinq heures du matin. Kerr le lut deux fois, puis le rendit.
+Bastien Kerr arriva à huit heures cinquante. Il aurait dû être là à sept heures : son badge avait disparu pendant la nuit, et il avait mis une heure et demie à le retrouver, dans le congélateur de la salle de pause, posé sur un bac à glaçons, à côté d'un second badge à son nom : celui qu'il avait perdu au début du mois. Il arriva avec une équipe de quatre personnes et deux caisses de matériel de découpe. Il trouva l'escalier occupé par des tuyaux et la galerie pleine de béton jusqu'au plafond de la brèche. Ménard lui tendit l'arrêté d'urgence signé par la préfecture à cinq heures du matin. Kerr le lut deux fois, puis le rendit.
 
 Sophia le vit, plus tard, assis sur une marche de l'escalier de fer, son téléphone à la main, sans appeler personne. Il regardait le coulis gris qui débordait du coffrage. Il avait l'air, étrangement, soulagé.
 
@@ -179,6 +179,12 @@ Il y eut un silence très long au bout du fil. Puis la voix d'Hélène, plus bas
 
 Elle chanta le premier, à voix basse, au téléphone. À l'autre bout, à Lyon, sa mère se mit à pleurer, et ce n'était pas de peur.
 
+Le soir même, elle raconta à Étienne ce qu'elle avait promis de lui dire. Il y avait eu en lui, la nuit, un homme qui s'appelait Noé. Le père d'une petite fille de 2137, qui avait de la craie jusqu'aux poignets. Étienne écouta jusqu'au bout sans l'interrompre. Puis il dit seulement :
+
+— Il mettait trop de sel dans les lentilles.
+
+Et il pleura un peu, sans savoir pour qui.
+
 ---
 
 Le 16, elle remonta à la cabine avec Étienne.
@@ -253,7 +259,7 @@ Il partit. Sophia regarda la voiture s'engager dans le tunnel, ses feux arrière
 
 Elle quitta Vallorce le 20 décembre, avec Étienne, dans une voiture chargée jusqu'au toit. Ils allaient à Lyon, où Étienne avait trouvé un poste dans un centre de santé, à une heure de son fils. Elle avait démissionné du laboratoire, qui avait de toute façon fermé ses portes le 1er décembre. La Fondation Léthé avait cessé d'exister quelque part entre deux conseils d'administration, sans communiqué.
 
-Corinne n'oubliait plus le nom de son chien. Florian avait retrouvé du travail à la scierie. On avait enterré Martine Pradel le 29 octobre, au cimetière du haut, celui qu'on n'avait pas noyé.
+Corinne n'oubliait plus le nom de son chien. Florian avait retrouvé du travail à la scierie. En décembre, l'Agence régionale de santé avait fini par rappeler, pour annoncer qu'on ne trouvait plus rien dans les robinets du village. Sophia avait remercié et raccroché. Sur le tronc du tilleul, il restait un coin d'affiche, délavé, qu'on ne pouvait plus lire. On avait enterré Martine Pradel le 29 octobre, au cimetière du haut, celui qu'on n'avait pas noyé.
 
 Le test, Sophia l'avait fait la veille, dans la salle de bains de la maison vide, assise sur le rebord de la baignoire. Elle avait regardé les deux traits apparaître, l'un après l'autre. Elle n'avait pas été surprise. Par habitude, parce qu'elle comptait tout, elle avait commencé à compter les semaines sur ses doigts, depuis le début de novembre. Le six. Puis les jours d'après. Elle s'était arrêtée avant d'arriver au bout, avait refermé la main, et elle n'avait jamais rouvert ce calcul. Elle avait posé la main sur son ventre, et elle avait dit à voix haute, dans la maison vide, au plancher, au radiateur, au carnet rangé dans le carton :
 

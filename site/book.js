@@ -1299,7 +1299,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle le faisait chaque semaine depuis son arrivée, et chaque semaine elle se demandait pourquoi. La cabine du gardien était accrochée au flanc de la digue, accessible par un escalier de fer qui sonnait sous les pas. Anselme Roch y travaillait depuis quarante-six ans, et y vivait seul depuis trente-cinq. Il avait refusé de prendre sa retraite. L'exploitant avait fini par le garder, d'abord par commodité, puis parce que personne n'osait lui annoncer son départ."
+     "s": "Elle le faisait chaque semaine depuis son arrivée, et chaque semaine elle se demandait pourquoi. Elle portait le nom de sa mère depuis ses dix-huit ans ; au village, on disait quand même « la fille d'Anselme ». La cabine du gardien était accrochée au flanc de la digue, accessible par un escalier de fer qui sonnait sous les pas. Anselme Roch y travaillait depuis quarante-six ans, et y vivait seul depuis trente-cinq. Il avait refusé de prendre sa retraite. L'exploitant avait fini par le garder, d'abord par commodité, puis parce que personne n'osait lui annoncer son départ."
     },
     {
      "t": "p",
@@ -1412,7 +1412,7 @@ window.BOOK = {
      "s": "*Ne t'inquiète pas. Regarde sous le plancher, à gauche du radiateur.*"
     }
    ],
-   "words": 1409
+   "words": 1432
   },
   {
    "id": "07-le-carnet",
@@ -4653,6 +4653,10 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "— Madame Pradel, elle me croyait, dit-il plus bas. Maintenant, il reste que toi."
+    },
+    {
+     "t": "p",
      "s": "Il descendit de sa chaise et reprit sa boîte sous le bras. Puis il fouilla dans la poche de son anorak et posa sur la table un caillou. Un galet du lac, gris, parfaitement rond, traversé d'une veine blanche."
     },
     {
@@ -4857,7 +4861,7 @@ window.BOOK = {
      "s": "En rentrant, elle imprima la photo au format d'une page de carnet, sur la vieille imprimante du séjour. Elle la posa sur la table, à côté du carnet fermé, et n'osa pas la coller."
     }
    ],
-   "words": 1781
+   "words": 1795
   },
   {
    "id": "22-le-registre-de-l-ouvrage",
@@ -5581,7 +5585,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Bastien Kerr arriva à la fin, avec une gerbe de roses blanches trop grande, trop chère. Les conversations s'arrêtèrent sur son passage. Il posa la gerbe au pied de la croix, à côté des pantoufles, resta une minute immobile, les mains jointes, puis repartit. Personne ne lui parla. Sur le chemin du retour, Sophia entendit une vieille femme dire à une autre, à voix basse, *cent euros la nuit*, et l'autre répondre, *c'est le prix d'une âme, maintenant*."
+     "s": "Bastien Kerr arriva à la fin, avec une gerbe de roses blanches trop grande, trop chère. Les conversations s'arrêtèrent sur son passage. Il posa la gerbe au pied de la croix, à côté des pantoufles. Puis il sortit de sa poche un caillou blanc, rond, et le posa sur la terre fraîche. Il resta une minute immobile, les mains jointes, puis repartit. Sophia reconnut le caillou de la grève. Personne ne lui parla. Sur le chemin du retour, Sophia entendit une vieille femme dire à une autre, à voix basse, *cent euros la nuit*, et l'autre répondre, *c'est le prix d'une âme, maintenant*."
     },
     {
      "t": "hr"
@@ -5717,7 +5721,7 @@ window.BOOK = {
      "s": "Anselme ne répondit pas. Sophia vit ses mains, le long de son corps, se poser à plat sur ses cuisses, comme pour se tenir."
     }
    ],
-   "words": 1205
+   "words": 1230
   },
   {
    "id": "26-le-veilleur",
@@ -10454,7 +10458,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Bastien Kerr arriva à huit heures cinquante. Il aurait dû être là à sept heures : son badge avait disparu pendant la nuit, et il avait mis une heure et demie à le retrouver, dans le congélateur de la salle de pause, posé sur un bac à glaçons. Il arriva avec une équipe de quatre personnes et deux caisses de matériel de découpe. Il trouva l'escalier occupé par des tuyaux et la galerie pleine de béton jusqu'au plafond de la brèche. Ménard lui tendit l'arrêté d'urgence signé par la préfecture à cinq heures du matin. Kerr le lut deux fois, puis le rendit."
+     "s": "Bastien Kerr arriva à huit heures cinquante. Il aurait dû être là à sept heures : son badge avait disparu pendant la nuit, et il avait mis une heure et demie à le retrouver, dans le congélateur de la salle de pause, posé sur un bac à glaçons, à côté d'un second badge à son nom : celui qu'il avait perdu au début du mois. Il arriva avec une équipe de quatre personnes et deux caisses de matériel de découpe. Il trouva l'escalier occupé par des tuyaux et la galerie pleine de béton jusqu'au plafond de la brèche. Ménard lui tendit l'arrêté d'urgence signé par la préfecture à cinq heures du matin. Kerr le lut deux fois, puis le rendit."
     },
     {
      "t": "p",
@@ -10692,6 +10696,18 @@ window.BOOK = {
      "s": "Elle chanta le premier, à voix basse, au téléphone. À l'autre bout, à Lyon, sa mère se mit à pleurer, et ce n'était pas de peur."
     },
     {
+     "t": "p",
+     "s": "Le soir même, elle raconta à Étienne ce qu'elle avait promis de lui dire. Il y avait eu en lui, la nuit, un homme qui s'appelait Noé. Le père d'une petite fille de 2137, qui avait de la craie jusqu'aux poignets. Étienne écouta jusqu'au bout sans l'interrompre. Puis il dit seulement :"
+    },
+    {
+     "t": "p",
+     "s": "— Il mettait trop de sel dans les lentilles."
+    },
+    {
+     "t": "p",
+     "s": "Et il pleura un peu, sans savoir pour qui."
+    },
+    {
      "t": "hr"
     },
     {
@@ -10837,7 +10853,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Corinne n'oubliait plus le nom de son chien. Florian avait retrouvé du travail à la scierie. On avait enterré Martine Pradel le 29 octobre, au cimetière du haut, celui qu'on n'avait pas noyé."
+     "s": "Corinne n'oubliait plus le nom de son chien. Florian avait retrouvé du travail à la scierie. En décembre, l'Agence régionale de santé avait fini par rappeler, pour annoncer qu'on ne trouvait plus rien dans les robinets du village. Sophia avait remercié et raccroché. Sur le tronc du tilleul, il restait un coin d'affiche, délavé, qu'on ne pouvait plus lire. On avait enterré Martine Pradel le 29 octobre, au cimetière du haut, celui qu'on n'avait pas noyé."
     },
     {
      "t": "p",
@@ -10864,7 +10880,7 @@ window.BOOK = {
      "s": "Il leva la main. Pas pour appeler. Pas pour retenir. Lentement, paume ouverte, comme on salue quelqu'un qu'on reverra."
     }
    ],
-   "words": 3172
+   "words": 3302
   },
   {
    "id": "44-interlude-anne",
@@ -10882,7 +10898,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Ce soir-là, Anne avait obtenu, à force de négociations, le droit de regarder la neige depuis le balcon, emmitouflée dans la parka de sa mère, trop grande, qui lui tombait jusqu'aux chevilles. Étienne était sorti avec elle, en pantoufles, une tasse de thé à la main. Sophia les regardait depuis la porte-fenêtre, les bras croisés, avec ce mélange de tendresse et d'agacement qu'on a pour les gens qu'on aime et qui vont attraper froid."
+     "s": "Ce soir-là, Anne avait obtenu, à force de négociations, le droit de regarder la neige depuis le balcon, emmitouflée dans la parka de sa mère, trop grande, qui lui tombait jusqu'aux chevilles. Étienne était sorti avec elle, en pantoufles, une tasse de thé à la main. Hugo, monté de Grenoble pour les fêtes, avait porté sa petite sœur sur ses épaules tout l'après-midi dans la neige ; il dormait dans la chambre d'amis. Anselme viendrait à Pâques, comme chaque année. Il ne faisait plus chauffer l'eau que pour ceux qui étaient là. Sophia les regardait depuis la porte-fenêtre, les bras croisés, avec ce mélange de tendresse et d'agacement qu'on a pour les gens qu'on aime et qui vont attraper froid."
     },
     {
      "t": "p",
@@ -11022,7 +11038,7 @@ window.BOOK = {
      "s": "Elle n'oublia jamais la question."
     }
    ],
-   "words": 1088
+   "words": 1134
   },
   {
    "id": "45-epilogue-la-page-blanche",
@@ -11037,6 +11053,10 @@ window.BOOK = {
     {
      "t": "p",
      "s": "En 2137, la bibliothèque de Vallorce avait des fenêtres."
+    },
+    {
+     "t": "p",
+     "s": "Il n'y avait pas eu de guerre en 2090. On racontait, dans la famille, qu'une arrière-arrière-grand-mère avait passé les vingt dernières années de sa vie à écrire aux ministères, aux agences de l'eau et aux journaux, des lettres pleines de dates, de noms et de barrages que personne ne comprenait, et qu'un jour, quelqu'un les avait lues à temps."
     },
     {
      "t": "p",
@@ -11371,7 +11391,7 @@ window.BOOK = {
      "s": "Ceux qui oubliaient avaient pris l'habitude de sortir la nuit, et de descendre vers le lac."
     }
    ],
-   "words": 2735
+   "words": 2794
   },
   {
    "id": "46-coda",
