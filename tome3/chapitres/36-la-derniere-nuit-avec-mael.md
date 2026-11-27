@@ -1,4 +1,4 @@
-# Chapitre 47 — La dernière nuit avec Mael
+# Chapitre 48 — La dernière nuit avec Mael
 
 *(premier jet)*
 

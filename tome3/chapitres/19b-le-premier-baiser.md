@@ -1,4 +1,4 @@
-# Chapitre 26 — Le premier baiser
+# Chapitre 27 — Le premier baiser
 
 *(premier jet)*
 

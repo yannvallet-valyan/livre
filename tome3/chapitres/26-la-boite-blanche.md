@@ -1,4 +1,4 @@
-# Chapitre 35 — La boîte blanche
+# Chapitre 36 — La boîte blanche
 
 *(premier jet)*
 

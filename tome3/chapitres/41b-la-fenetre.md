@@ -1,4 +1,4 @@
-# Chapitre 59 — La fenêtre
+# Chapitre 60 — La fenêtre
 
 *(premier jet)*
 

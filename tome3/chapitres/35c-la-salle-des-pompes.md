@@ -1,4 +1,4 @@
-# Chapitre 46 — La salle des pompes
+# Chapitre 47 — La salle des pompes
 
 *(premier jet)*
 

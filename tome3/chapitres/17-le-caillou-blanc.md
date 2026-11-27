@@ -1,4 +1,4 @@
-# Chapitre 23 — Le caillou blanc
+# Chapitre 24 — Le caillou blanc
 
 *(premier jet)*
 

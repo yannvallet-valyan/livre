@@ -1,4 +1,4 @@
-# Chapitre 40 — Le registre d'Agathe
+# Chapitre 41 — Le registre d'Agathe
 
 *(premier jet)*
 
