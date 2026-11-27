@@ -1,4 +1,4 @@
-# Chapitre 20 bis — Le partage
+# Chapitre 39 — Le partage
 
 *(premier jet)*
 

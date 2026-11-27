@@ -1,4 +1,4 @@
-# Chapitre 3 bis — Rose, un jour de juin
+# Chapitre 5 — Rose, un jour de juin
 
 *(premier jet)*
 

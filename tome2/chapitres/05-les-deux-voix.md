@@ -1,4 +1,4 @@
-# Chapitre 5 — Les deux voix
+# Chapitre 9 — Les deux voix
 
 *(premier jet)*
 

@@ -1,4 +1,4 @@
-# Chapitre 27 — La table pour cinq
+# Chapitre 52 — La table pour cinq
 
 *(premier jet)*
 
@@ -31,6 +31,30 @@ Il s'assit. Il posa son béret sur ses genoux. Anselme dormait dans une couvertu
 Elle ne répondit pas tout de suite.
 
 — Pour ceux qui ne sont pas encore arrivés, dit-elle.
+
+---
+
+Ils parlèrent peu. Ils n'avaient plus rien à se dire. Il y avait entre eux ce silence plein, serré, des gens qui s'aiment et qui ne savent plus comment l'exprimer.
+
+Jean toucha le rebord de la table, du bout du doigt, pour sentir le grain du bois. Il le caressa. Il dit : « C'est ton père qui l'avait faite ? » Elle répondit : « Mon grand-père. » Il dit : « Elle est belle. » Elle dit : « Elle est lourde. » Il sourit. Il dit : « On ne la prendra pas. » Elle dit : « Non. »
+
+Ils laissèrent passer le temps. Il mit du bois dans le poêle, qu'on avait démonté mais qu'on pouvait encore faire tirer. Elle fit chauffer un peu de lait, pour Anselme. L'enfant se réveilla une minute, but, replongea. Elle le recoucha sur la caisse, avec la couverture. Jean le regarda faire. Il dit :
+
+— Tu es une bonne mère.
+
+— Je ne sais pas.
+
+— Moi, je sais.
+
+Elle ne répondit pas. Elle regarda ses mains, qui avaient lavé, pétri, cousu, bercé. Elle y vit une chose qu'elle n'y avait jamais vue : la trace d'une autre. Elle sut qu'elle ne pouvait pas le lui dire. Elle prit sa main à lui, ouverte, large, calleuse. Elle la mit contre sa joue, un instant, comme on pose un caillou sur un tas.
+
+— Je t'ai aimé, dit-elle.
+
+— Tu m'aimes.
+
+— Oui. Je t'ai aimé aussi pour elle.
+
+Il ne comprit pas. Il ne demanda pas. Il resta, la main contre sa joue, jusqu'à ce que la lampe commence à pâlir.
 
 ---
 

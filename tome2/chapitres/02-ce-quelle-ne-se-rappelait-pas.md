@@ -1,4 +1,4 @@
-# Chapitre 2 — Ce qu'elle ne se rappelait pas
+# Chapitre 3 — Ce qu'elle ne se rappelait pas
 
 *(premier jet)*
 

@@ -1,4 +1,4 @@
-# Chapitre 13 bis — La lettre de Walther
+# Chapitre 26 — La lettre de Walther
 
 *(premier jet)*
 

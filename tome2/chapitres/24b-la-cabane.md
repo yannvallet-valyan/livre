@@ -1,4 +1,4 @@
-# Chapitre 24 bis — La cabane
+# Chapitre 46 — La cabane
 
 *(premier jet)*
 

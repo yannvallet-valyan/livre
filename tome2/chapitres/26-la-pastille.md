@@ -1,4 +1,4 @@
-# Chapitre 26 — La pastille
+# Chapitre 49 — La pastille
 
 *(premier jet)*
 

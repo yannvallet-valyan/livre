@@ -1,4 +1,4 @@
-# Chapitre 3 — La main de Jean
+# Chapitre 4 — La main de Jean
 
 *(premier jet)*
 

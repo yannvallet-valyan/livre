@@ -1,4 +1,4 @@
-# Chapitre 32 — Le départ
+# Chapitre 59 — Le départ
 
 *(premier jet)*
 
@@ -51,6 +51,24 @@ Il avait pris le train de nuit, un vieil homme tout seul dans un wagon vide, ave
 Elle ne put pas refuser.
 
 Il resta dans la cuisine, pendant qu'elle préparait la chambre. Il lui apporta du thé. Il parlait peu. Une fois, il lui demanda si elle avait mangé. Elle ne répondit pas. Il fit cuire des œufs. Ils les mangèrent côte à côte, sans rien dire, avec le bruit de la pluie sur le zinc.
+
+Elle ne mangea presque rien. Elle regardait Étienne couper son pain en petits morceaux, avec cette précision de ceux qui ne veulent pas déranger. Elle sentit monter en elle une tendresse sans objet, qui n'avait rien à voir avec la peur. Elle dit :
+
+— Tu as été bon pour moi.
+
+— J'ai été un vieux monsieur qui prête une chambre.
+
+— Non.
+
+— Si.
+
+— Tu m'as appris à être quelqu'un.
+
+Il leva les yeux. Il avait, derrière ses lunettes, un regard très doux, très humide.
+
+— Tu l'étais déjà, dit-il.
+
+Il reprit son pain. Il y eut, dans la cuisine, un long silence, très paisible, où l'on n'entendit que la pluie. Elle pensa : *c'est ça, un père.* Elle ne savait pas d'où lui venait la pensée. Elle ne la lui dit pas. Elle la garda, comme on garde, dans une main fermée, une petite pierre chaude.
 
 À onze heures, elle alla se coucher.
 

@@ -11923,8 +11923,8 @@ window.BOOK = {
   },
   {
    "id": "t2-01b-les-gestes-de-rose",
-   "n": null,
-   "label": "Chapitre 1 bis",
+   "n": 2,
+   "label": "Chapitre 2",
    "title": "Les gestes de Rose",
    "blocks": [
     {
@@ -11991,7 +11991,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle n'en avait pas le droit. Elle le savait. Elle le fit quand même, avec la méthodicité d'une archiviste, dans l'ordre où l'on visite une maison inconnue : la cuisine d'abord, puis la chambre, puis la cave. Elle ouvrit le buffet. Elle trouva des assiettes dépareillées, une boîte de sucre, un bocal de haricots, un pot de saindoux, une huche à pain où dormait un demi-pain dur, couvert d'un linge propre. Elle trouva, dans le tiroir du haut, un livre de comptes à couverture de toile cirée : l'écriture de Rose, ronde, appliquée, de celles qu'on apprend à l'école des sœurs. *Beurre : 120 f. Pain : 40 f. Pour Jean, chaussures : 1 800 f (à crédit, M. Bonnet).* Les chiffres s'alignaient en colonnes, sans une rature. Au bas de la dernière page, Rose avait écrit en petits caractères : *On y arrivera.*"
+     "s": "Elle n'en avait pas le droit. Elle le savait. Elle le fit quand même, avec la méthodicité d'une archiviste, dans l'ordre où l'on visite une maison inconnue : la cuisine d'abord, puis la chambre, puis la cave. Elle ouvrit le buffet. Elle trouva des assiettes dépareillées, une boîte de sucre, un bocal de haricots, un pot de saindoux, une huche à pain où dormait un demi-pain dur, couvert d'un linge propre. Elle trouva, dans le tiroir du haut, un livre de comptes à couverture de toile cirée : l'écriture de Rose, ronde, appliquée, de celles qu'on apprend à l'école des sœurs. *Beurre : 120 f. Pain : 40 f. Pour Jean, chaussures : 1 800 f (à crédit, M. Gauthier).* Les chiffres s'alignaient en colonnes, sans une rature. Au bas de la dernière page, Rose avait écrit en petits caractères : *On y arrivera.*"
     },
     {
      "t": "p",
@@ -12109,8 +12109,8 @@ window.BOOK = {
   },
   {
    "id": "t2-02-ce-quelle-ne-se-rappelait-pas",
-   "n": 2,
-   "label": "Chapitre 2",
+   "n": 3,
+   "label": "Chapitre 3",
    "title": "Ce qu'elle ne se rappelait pas",
    "blocks": [
     {
@@ -12232,8 +12232,8 @@ window.BOOK = {
   },
   {
    "id": "t2-03-la-main-de-jean",
-   "n": 3,
-   "label": "Chapitre 3",
+   "n": 4,
+   "label": "Chapitre 4",
    "title": "La main de Jean",
    "blocks": [
     {
@@ -12416,8 +12416,8 @@ window.BOOK = {
   },
   {
    "id": "t2-03b-rose-un-jour-de-juin",
-   "n": null,
-   "label": "Chapitre 3 bis",
+   "n": 5,
+   "label": "Chapitre 5",
    "title": "Rose, un jour de juin",
    "blocks": [
     {
@@ -12626,8 +12626,8 @@ window.BOOK = {
   },
   {
    "id": "t2-03c-le-maire",
-   "n": null,
-   "label": "Chapitre 3 ter",
+   "n": 6,
+   "label": "Chapitre 6",
    "title": "La réunion",
    "blocks": [
     {
@@ -12888,8 +12888,8 @@ window.BOOK = {
   },
   {
    "id": "t2-04-lyon",
-   "n": 4,
-   "label": "Chapitre 4",
+   "n": 7,
+   "label": "Chapitre 7",
    "title": "Lyon",
    "blocks": [
     {
@@ -13086,8 +13086,8 @@ window.BOOK = {
   },
   {
    "id": "t2-04b-le-quatorze-juillet",
-   "n": null,
-   "label": "Chapitre 4 bis",
+   "n": 8,
+   "label": "Chapitre 8",
    "title": "Le quatorze juillet",
    "blocks": [
     {
@@ -13288,8 +13288,8 @@ window.BOOK = {
   },
   {
    "id": "t2-05-les-deux-voix",
-   "n": 5,
-   "label": "Chapitre 5",
+   "n": 9,
+   "label": "Chapitre 9",
    "title": "Les deux voix",
    "blocks": [
     {
@@ -13436,8 +13436,8 @@ window.BOOK = {
   },
   {
    "id": "t2-05b-le-lavoir",
-   "n": null,
-   "label": "Chapitre 5 bis",
+   "n": 10,
+   "label": "Chapitre 10",
    "title": "Le lavoir",
    "blocks": [
     {
@@ -13515,6 +13515,25 @@ window.BOOK = {
     {
      "t": "p",
      "s": "Iris s'assit. Elle trempa les pieds. L'eau était glacée. Ses orteils, ceux de Rose, qui avaient tant marché dans la boue, lui parurent à peine à elle."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Elle avait failli ne pas venir."
+    },
+    {
+     "t": "p",
+     "s": "Elle s'était arrêtée trois fois, sur le sentier, devant des ombres qui n'étaient que des buissons. Elle avait reculé à l'entrée du lavoir, quand une chouette avait traversé le toit. Elle se disait : *c'est un piège.* Elle se disait : *elle est comme moi.* Elle se disait que ces deux phrases pouvaient être vraies ensemble, et que c'était, au fond, la définition même de leur condition."
+    },
+    {
+     "t": "p",
+     "s": "Elle avait appris, dans les carnets de Théo, à se méfier de ceux qui disent la vérité trop tôt. Elle avait appris, par expérience, à se méfier de ceux qui mentent. Elle ne savait pas comment on se fiait à quelqu'un dont on ne connaissait ni l'âge, ni l'époque, ni les intentions. Elle pensa à Rose, qui se fiait à tout le monde, avec la naïveté têtue des gens qui n'ont pas le choix."
+    },
+    {
+     "t": "p",
+     "s": "Elle entra. Elle s'assit. Elle trempa ses pieds. Elle comprit qu'elle venait de faire, sans le décider, ce que Rose aurait fait."
     },
     {
      "t": "hr"
@@ -13623,13 +13642,13 @@ window.BOOK = {
      "s": "— Comme ça, je me reconnais."
     }
    ],
-   "words": 1010,
+   "words": 1179,
    "tome": 2
   },
   {
    "id": "t2-05c-les-lettres",
-   "n": null,
-   "label": "Chapitre 5 quater",
+   "n": 11,
+   "label": "Chapitre 11",
    "title": "Les lettres",
    "blocks": [
     {
@@ -13720,8 +13739,8 @@ window.BOOK = {
   },
   {
    "id": "t2-06-vas-y",
-   "n": 6,
-   "label": "Chapitre 6",
+   "n": 12,
+   "label": "Chapitre 12",
    "title": "Vas-y",
    "blocks": [
     {
@@ -13828,8 +13847,8 @@ window.BOOK = {
   },
   {
    "id": "t2-07-le-somnambule",
-   "n": 7,
-   "label": "Chapitre 7",
+   "n": 13,
+   "label": "Chapitre 13",
    "title": "Le somnambule",
    "blocks": [
     {
@@ -13989,8 +14008,8 @@ window.BOOK = {
   },
   {
    "id": "t2-08-lingenieur-du-soir",
-   "n": 8,
-   "label": "Chapitre 8",
+   "n": 14,
+   "label": "Chapitre 14",
    "title": "L'ingénieur du soir",
    "blocks": [
     {
@@ -14160,8 +14179,8 @@ window.BOOK = {
   },
   {
    "id": "t2-09-la-craie",
-   "n": 9,
-   "label": "Chapitre 9",
+   "n": 15,
+   "label": "Chapitre 15",
    "title": "La craie",
    "blocks": [
     {
@@ -14349,9 +14368,148 @@ window.BOOK = {
    "tome": 2
   },
   {
+   "id": "t2-09a-sophia-la-nuit",
+   "n": 16,
+   "label": "Chapitre 16",
+   "title": "Sophia, la nuit",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "Sophia Varenne ne s'était jamais pardonné d'avoir dit oui."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne le disait pas. Elle n'en parlait à personne, pas même à sa mère. Elle le gardait au fond d'elle, avec les cahiers de relevés et les fioles, dans la même case : celle des choses qu'on range pour ne plus avoir à les regarder. Elle avait quarante-cinq ans, en cet hiver de 2033. Elle travaillait à l'agence de l'eau, à la direction régionale de Lyon, dans un bureau du quatrième étage dont la fenêtre donnait sur un parking. Elle avait une fille de six ans, un deux-pièces à crédit, un chat qui n'était pas le sien et une migraine chronique que les médecins appelaient « de tension »."
+    },
+    {
+     "t": "p",
+     "s": "Elle se levait à cinq heures. Elle préparait le petit-déjeuner d'Iris : du pain grillé, du lait chaud, une cuillère de miel. Elle laissait la petite à sa grand-mère, qui venait l'habiller. Elle prenait le métro à sept heures dix. Elle revenait à sept heures du soir. Elle mangeait avec sa fille, en silence, en lui posant des questions courtes : « Tu as été sage ? Tu as fait tes devoirs ? » Elle ne s'attardait pas. Elle craignait, à rester trop longtemps, d'entendre ce que l'enfant ne disait pas."
+    },
+    {
+     "t": "p",
+     "s": "Elle craignait surtout les nuits."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Elle les connaissait par cœur. Il y avait la première, de neuf à minuit, longue, lourde, pleine d'un sommeil épais comme de la boue. Il y avait la seconde, de minuit à trois heures, entrecoupée, pleine de rêves. Et il y avait la troisième, celle qu'elle ne dormait pas : de trois heures à l'aube, quand, de l'autre côté de la cloison, une voix de femme se mettait à compter."
+    },
+    {
+     "t": "p",
+     "s": "Elle l'entendait distinctement. Une voix grave, un peu rauque, qui ne ressemblait pas à celle d'une enfant. Elle comptait posément, sans hâte, un, deux, trois, avec une patience d'institutrice. Elle allait jusqu'à cinquante-neuf. Elle s'arrêtait. Il y avait alors un silence, long, pendant lequel Sophia, assise dans son lit, les poings serrés sur le drap, retenait sa respiration. Puis une seconde voix, plus douce, plus lasse, disait : « Ça suffit. Dors. »"
+    },
+    {
+     "t": "p",
+     "s": "Elle n'avait jamais osé entrer. Elle s'était promis, la première fois, d'aller voir. Elle s'était levée, avait posé la main sur le loquet. Elle avait entendu, derrière la porte, un petit soupir très doux, comme celui d'un enfant qui rêve. Elle avait reculé."
+    },
+    {
+     "t": "p",
+     "s": "Elle avait peur de ce qu'elle trouverait. Elle avait peur, plus encore, de ne rien trouver."
+    },
+    {
+     "t": "p",
+     "s": "Elle se recouchait. Elle fermait les yeux. Elle se disait : *c'est son père.* Elle se disait : *c'est moi.* Elle se disait : *c'est l'homme de la montagne.* Elle ne savait plus. Elle se rappelait, dans les replis de sa mémoire, une nuit de juillet, une salle blanche, une voix qui disait : « Je peux ? » Elle se rappelait une réponse, qu'elle avait donnée."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne se rappelait pas avoir dit oui à l'homme. Elle se rappelait avoir dit oui à la voix."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Elle essaya de savoir."
+    },
+    {
+     "t": "p",
+     "s": "Elle consulta un neurologue, un homme sec, aux lunettes d'écaille, qui lui fit passer un électroencéphalogramme. Il examina les courbes. Il leva la tête. « C'est de la parasomnie, madame, dit-il. Cela se soigne. » Elle demanda : « Et les voix ? » Il haussa les épaules. « Les enfants ont une grande imagination. »"
+    },
+    {
+     "t": "p",
+     "s": "Elle consulta un psychologue, une jeune femme en pull orange, qui lui demanda si elle avait été « un enfant désiré ». Elle dit : « Non. » La jeune femme prit des notes. Elle ne dit pas : « Elle non plus. »"
+    },
+    {
+     "t": "p",
+     "s": "Elle alla, un dimanche de février, à Notre-Dame de Fourvière. Elle s'assit au fond. Elle regarda longtemps l'autel, les cierges, les ex-voto. Elle ne priait pas. Elle essayait de se rappeler comment on faisait. Une vieille dame à côté d'elle lui tendit un petit missel, avec un geste de gentillesse tranquille. Sophia le prit. Elle lut, dans la marge, une phrase imprimée en petits caractères : *Donne-nous aujourd'hui notre pain de ce jour.* Elle pensa qu'elle n'avait jamais demandé ça. Elle ne lui avait jamais demandé que de lui laisser la nuit."
+    },
+    {
+     "t": "p",
+     "s": "Elle sortit. Elle marcha dans les rues, sous la pluie, longtemps. Elle arriva devant le fleuve. Elle s'accouda au parapet. Elle regarda l'eau passer, lente, grise, chargée d'écume. Elle pensa à la cote du lac de Vallorce, qu'elle n'avait pas relevée depuis sept ans, et qu'elle connaissait pourtant, de mémoire, au centimètre."
+    },
+    {
+     "t": "p",
+     "s": "*409,52.*"
+    },
+    {
+     "t": "p",
+     "s": "Elle ne se demanda pas d'où lui venait ce chiffre."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Elle ne dit jamais à Iris ce qu'elle entendait la nuit."
+    },
+    {
+     "t": "p",
+     "s": "C'était une promesse, qu'elle s'était faite à elle-même. Elle voulait que sa fille grandisse en ignorant. Elle voulait lui laisser, au moins, cette illusion : celle d'avoir une mère qui ne savait pas. Elle lui apprit à lire, à compter, à se tenir droite. Elle lui apprit que les lacs ne mentent pas, que les chiffres sont des amis, que le silence est une politesse. Elle lui lisait des bulletins de crue avant de dormir."
+    },
+    {
+     "t": "p",
+     "s": "Elle l'aimait. Elle ne le lui disait pas. Elle le lui montrait comme elle pouvait : en repassant ses blouses, en lui rapportant des gommes de Paris, en lui coupant les ongles, le dimanche, à la lumière, avec une patience de chirurgien."
+    },
+    {
+     "t": "p",
+     "s": "Un soir de mars 2033, Iris lui demanda, assise sur le rebord de la baignoire :"
+    },
+    {
+     "t": "p",
+     "s": "— Maman, pourquoi tu me regardes toujours comme ça ?"
+    },
+    {
+     "t": "p",
+     "s": "— Comment ?"
+    },
+    {
+     "t": "p",
+     "s": "— Comme si j'allais disparaître."
+    },
+    {
+     "t": "p",
+     "s": "Sophia ne répondit pas. Elle continuait de couper l'ongle de son pouce. Le petit ciseau grinçait. Elle sentit la main de sa fille, minuscule, tiède, glisser dans la sienne."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne disparaîtrai pas, dit Iris."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "— Je te le promets."
+    },
+    {
+     "t": "p",
+     "s": "C'était une promesse d'enfant, faite avec cette gravité qu'ont les enfants pour dire des choses qu'ils ne savent pas. Sophia la reçut comme on reçoit un cadeau empoisonné. Elle le garda."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne put jamais dire à sa fille que, cette nuit-là, de l'autre côté de la cloison, quelqu'un, avec une voix qui n'était pas celle de l'enfant, avait dit, très doucement : *Je te le promets, Sophia.*"
+    }
+   ],
+   "words": 1036,
+   "tome": 2
+  },
+  {
    "id": "t2-09b-helene",
-   "n": null,
-   "label": "Chapitre 9 bis",
+   "n": 17,
+   "label": "Chapitre 17",
    "title": "Le quai",
    "blocks": [
     {
@@ -14574,8 +14732,8 @@ window.BOOK = {
   },
   {
    "id": "t2-09c-le-toit",
-   "n": null,
-   "label": "Chapitre 9 ter",
+   "n": 18,
+   "label": "Chapitre 18",
    "title": "Le toit",
    "blocks": [
     {
@@ -14865,9 +15023,236 @@ window.BOOK = {
    "tome": 2
   },
   {
+   "id": "t2-09y-la-mort-dhelene",
+   "n": 19,
+   "label": "Chapitre 19",
+   "title": "La mort d'Hélène",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "Hélène Varenne mourut le 8 mars 2041, à quatre heures de l'après-midi, par un jour de grésil, dans son lit de fer peint, sous le crucifix qu'elle n'avait jamais enlevé."
+    },
+    {
+     "t": "p",
+     "s": "Elle avait refusé l'hôpital. Elle avait dit au médecin : « Je suis chez moi. » Il avait haussé les épaules, laissé une ordonnance, promis de repasser. Elle avait gardé ses lunettes, son tricot, sa théière sur la table de nuit. Elle respirait avec un bruit de papier froissé. Elle avait quatre-vingt-un ans. Elle n'avait jamais eu l'air si petite."
+    },
+    {
+     "t": "p",
+     "s": "Iris s'assit à son chevet à la sortie du collège. Elle avait treize ans. Elle posa son cartable. Elle prit la main de la vieille femme, qui était froide, sèche, tachée de brun. Elle la tint longtemps sans parler. Sophia, dans la cuisine, faisait chauffer de l'eau pour la quatrième fois. Elle ne savait plus que faire de ses mains."
+    },
+    {
+     "t": "p",
+     "s": "— Il pleut ? demanda Hélène."
+    },
+    {
+     "t": "p",
+     "s": "— Du grésil."
+    },
+    {
+     "t": "p",
+     "s": "— Alors il fait froid dehors."
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "— J'aime bien le grésil. Ça tape aux vitres comme des petits doigts."
+    },
+    {
+     "t": "p",
+     "s": "Elle ferma les yeux. Elle avait un sourire un peu égaré, d'enfant qui écoute une histoire. Iris sentit un frisson lui traverser les bras. Elle avait envie de pleurer. Elle ne le faisait pas : elle avait appris, dans cet appartement, qu'on ne pleure pas devant les mourants."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "— Chante-moi quelque chose, dit Hélène."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne sais pas."
+    },
+    {
+     "t": "p",
+     "s": "— Tu sais."
+    },
+    {
+     "t": "p",
+     "s": "Iris hésita. Elle regarda le visage creusé, les paupières bleues, la bouche entrouverte. Elle avait toujours chanté pour elle seule, dans les nuits de la Croix-Rousse, quand les voix se taisaient. Elle ne l'avait jamais fait devant quelqu'un. Elle se pencha. Elle chanta, très bas, les deux couplets."
+    },
+    {
+     "t": "p",
+     "s": "*Dors, la rivière, dors sous le pont,* *la lune a mis ses bas de coton,* *les poissons rouges, les poissons blancs* *comptent les pierres en t'attendant.*"
+    },
+    {
+     "t": "p",
+     "s": "Elle s'arrêta. Elle attendit. Elle n'avait pas la suite."
+    },
+    {
+     "t": "p",
+     "s": "Hélène avait rouvert les yeux. Elle regardait le plafond, très attentivement, comme on lit un texte fin."
+    },
+    {
+     "t": "p",
+     "s": "— C'est celle d'Anselme, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Quoi ?"
+    },
+    {
+     "t": "p",
+     "s": "— La chanson. C'était la sienne. Il la chantait, la nuit. Il ne savait pas qu'il la chantait. Je l'ai entendue cinq ans."
+    },
+    {
+     "t": "p",
+     "s": "Iris retint son souffle."
+    },
+    {
+     "t": "p",
+     "s": "— Il y avait un troisième couplet ?"
+    },
+    {
+     "t": "p",
+     "s": "— Je ne l'ai jamais entendu, dit Hélène. Il s'arrêtait toujours au même endroit. Je me disais : il n'y en a pas. Puis un soir, il s'est arrêté, et j'ai eu l'impression que quelqu'un, derrière lui, attendait la suite. Quelqu'un qui n'était pas lui."
+    },
+    {
+     "t": "p",
+     "s": "Elle eut un petit rire, qui se termina en toux. Iris lui tendit un verre. Elle ne but pas."
+    },
+    {
+     "t": "p",
+     "s": "— Il faudra être deux, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Pour quoi ?"
+    },
+    {
+     "t": "p",
+     "s": "— Pour le troisième. Je ne sais pas pourquoi je dis ça. C'est ce que j'ai pensé, ce soir-là. Qu'une seule voix ne pouvait pas le chanter."
+    },
+    {
+     "t": "p",
+     "s": "Elle posa sa main sur celle de l'enfant. Elle dit, très bas, avec une douceur d'aveu :"
+    },
+    {
+     "t": "p",
+     "s": "— Je t'ai menti, tu sais. À propos de la vallée. Je t'ai fait promettre de n'y jamais aller. Je n'en avais pas le droit. On ne promet pas à ceux qu'on aime de ne pas rejoindre ceux qu'ils aiment."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne comprends pas."
+    },
+    {
+     "t": "p",
+     "s": "— Un jour, tu comprendras. Va. Quand il le faudra, va. Je te le permets. Même si c'est mal."
+    },
+    {
+     "t": "p",
+     "s": "Iris ne répondit pas. Elle serra la main de la vieille dame. Elle sentit sous ses doigts un pouls très lent, très léger, qui s'espaçait."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Sophia entra à trois heures et demie. Elle avait les yeux rouges. Elle se tint au pied du lit, les bras ballants. Elle regarda sa mère, longuement. Elle dit :"
+    },
+    {
+     "t": "p",
+     "s": "— Maman."
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "— Je voulais te dire…"
+    },
+    {
+     "t": "p",
+     "s": "— Je sais, dit Hélène."
+    },
+    {
+     "t": "p",
+     "s": "— Non. Tu ne sais pas."
+    },
+    {
+     "t": "p",
+     "s": "— Si."
+    },
+    {
+     "t": "p",
+     "s": "Il y eut un silence. Sophia fit un pas. Elle s'agenouilla à côté de sa fille, devant le lit. Elle posa son front sur le drap. Elle dit, d'une voix qu'Iris ne lui avait jamais connue, étranglée, d'enfant :"
+    },
+    {
+     "t": "p",
+     "s": "— Pardon de ne pas avoir tenu ma promesse."
+    },
+    {
+     "t": "p",
+     "s": "Iris comprit qu'elle ne savait pas de laquelle elle parlait."
+    },
+    {
+     "t": "p",
+     "s": "Hélène leva la main. Elle la posa sur les cheveux de Sophia, gris, ras, coupés court, d'une femme qui a travaillé toute sa vie. Elle caressa lentement cette tête, comme on caresse une petite fille."
+    },
+    {
+     "t": "p",
+     "s": "— Tu l'as tenue, dit-elle. Tu ne l'as jamais trahie. Tu m'as juste désobéi."
+    },
+    {
+     "t": "p",
+     "s": "— C'est la même chose."
+    },
+    {
+     "t": "p",
+     "s": "— Non, dit Hélène. C'est le contraire."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne dit plus rien. Elle ferma les yeux. Sa main resta sur la tête de sa fille."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Elle mourut une demi-heure plus tard, sans bruit."
+    },
+    {
+     "t": "p",
+     "s": "Iris le comprit en voyant Sophia lever la tête. Elle comprit en entendant, à l'extérieur, le grésil cesser de taper aux vitres, un silence brusque, très pur, comme celui qui suit une dernière note. Elle resta immobile. Elle regarda le visage de sa grand-mère, soudain lisse, très jeune, d'une paix d'enfant."
+    },
+    {
+     "t": "p",
+     "s": "Elle n'avait pas peur. Elle avait connu des mots plus durs. Elle posa ses lèvres sur le front de la morte. Elle y sentit un goût de thé, de laine, de très vieux papier."
+    },
+    {
+     "t": "p",
+     "s": "Elle dit à voix basse, pour que sa mère n'entende pas :"
+    },
+    {
+     "t": "p",
+     "s": "— Compte, ma fille. Compte autant que tu veux."
+    },
+    {
+     "t": "p",
+     "s": "C'était la phrase de la vieille femme, une nuit de 2036. Elle ne sut pas pourquoi elle l'avait dite. Mais elle la garda toute sa vie, comme la dernière chose qu'on lui eût donnée sans condition."
+    }
+   ],
+   "words": 931,
+   "tome": 2
+  },
+  {
    "id": "t2-09z-la-nuit-davant",
-   "n": null,
-   "label": "Chapitre 10 bis",
+   "n": 20,
+   "label": "Chapitre 20",
    "title": "La nuit d'avant",
    "blocks": [
     {
@@ -14986,8 +15371,8 @@ window.BOOK = {
   },
   {
    "id": "t2-10-la-pompe",
-   "n": 10,
-   "label": "Chapitre 10",
+   "n": 21,
+   "label": "Chapitre 21",
    "title": "La pompe",
    "blocks": [
     {
@@ -15093,6 +15478,22 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Elle monta l'escalier de l'hôpital sur la pointe des pieds, derrière une religieuse qui portait un plateau. Les couloirs sentaient l'éther, le lait chaud, la soupe aux poireaux. Des lits alignés dans une salle commune, séparés par des rideaux de cretonne, abritaient des hommes aux visages gris, qui toussaient, qui geignaient, qui jouaient aux cartes sur des couvertures. Un vieux pleurait doucement, face au mur. Un enfant, sur un brancard, les yeux grands ouverts, fixait le plafond."
+    },
+    {
+     "t": "p",
+     "s": "Elle chercha le nom sur les fiches, aux pieds des lits. Elle trouva *Gaétan Moretti, 31 ans, fracture de la jambe, côtes.* Elle s'arrêta."
+    },
+    {
+     "t": "p",
+     "s": "Elle n'était jamais entrée dans un hôpital de cette époque. Elle avait connu ceux de sa jeunesse, propres, froids, remplis de machines. Celui-ci ressemblait à une grange où l'on aurait recueilli des blessés après une bataille. Il y régnait une espèce de solidarité grossière, de pitié sans phrases. Une infirmière retournait un malade en chantonnant. Un interne, en blouse tachée, cherchait un dossier en jurant. Elle regardait, sans oser bouger, ce monde où l'on souffrait sans s'excuser."
+    },
+    {
+     "t": "p",
+     "s": "Elle comprit ce qu'elle avait fait. Elle avait cru déplacer une machine. Elle avait déplacé des hommes."
+    },
+    {
+     "t": "p",
      "s": "Elle posa les pommes sur le drap. Elle ne savait pas quoi dire. Elle s'entendit murmurer, dans la langue qu'elle avait apprise à Lyon :"
     },
     {
@@ -15136,13 +15537,13 @@ window.BOOK = {
      "s": "Elle sut qu'elle ne le ferait pas cent fois. Elle sut aussi qu'elle le referait."
     }
    ],
-   "words": 964,
+   "words": 1159,
    "tome": 2
   },
   {
    "id": "t2-10b-le-marche",
-   "n": null,
-   "label": "Chapitre 10 bis",
+   "n": 22,
+   "label": "Chapitre 22",
    "title": "Le marché",
    "blocks": [
     {
@@ -15448,8 +15849,8 @@ window.BOOK = {
   },
   {
    "id": "t2-11-lenregistrement",
-   "n": 11,
-   "label": "Chapitre 11",
+   "n": 23,
+   "label": "Chapitre 23",
    "title": "L'enregistrement",
    "blocks": [
     {
@@ -15626,8 +16027,8 @@ window.BOOK = {
   },
   {
    "id": "t2-12-la-voisine",
-   "n": 12,
-   "label": "Chapitre 12",
+   "n": 24,
+   "label": "Chapitre 24",
    "title": "La voisine",
    "blocks": [
     {
@@ -15852,8 +16253,8 @@ window.BOOK = {
   },
   {
    "id": "t2-13-le-poele",
-   "n": 13,
-   "label": "Chapitre 13",
+   "n": 25,
+   "label": "Chapitre 25",
    "title": "Le poêle",
    "blocks": [
     {
@@ -16009,8 +16410,8 @@ window.BOOK = {
   },
   {
    "id": "t2-13b-la-lettre-de-walther",
-   "n": null,
-   "label": "Chapitre 13 bis",
+   "n": 26,
+   "label": "Chapitre 26",
    "title": "La lettre de Walther",
    "blocks": [
     {
@@ -16158,9 +16559,225 @@ window.BOOK = {
    "tome": 2
   },
   {
+   "id": "t2-13c-le-notaire",
+   "n": 27,
+   "label": "Chapitre 27",
+   "title": "Le notaire",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "Maître Bonnet recevait les paysans le jeudi, dans une étude du chef-lieu qui sentait la poussière de dossiers et le cirage."
+    },
+    {
+     "t": "p",
+     "s": "C'était un petit homme chauve, aux joues roses, aux mains dodues, qui parlait avec l'onction des gens à qui l'on confie des secrets de famille. Il avait un faux col, un gilet à chaîne, un portrait du Maréchal dans son bureau, qu'il n'avait pas enlevé depuis quatorze ans. Il vous faisait asseoir devant un grand bureau en acajou, vous tendait une plume, vous parlait doucement, de ce ton consolateur qu'on a pour annoncer un décès. On le respectait. On le haïssait un peu."
+    },
+    {
+     "t": "p",
+     "s": "Rose y alla le jeudi 25 septembre, avec Jean, en robe noire, un panier d'œufs au bras en guise de cadeau. Ils avaient marché quatorze kilomètres, sans parler, par un chemin de ravine. Ils arrivèrent à dix heures. On les fit attendre dans une antichambre où se trouvaient déjà trois familles du Bas, assises en rang sur des bancs, qui se taisaient. On entendait, à travers la porte, la voix du notaire, qui lisait une liste."
+    },
+    {
+     "t": "p",
+     "s": "Madame Pellissier sortit la première, en sanglotant. Elle serrait contre elle un papier plié en huit. Elle passa devant Rose sans la voir."
+    },
+    {
+     "t": "p",
+     "s": "— Combien ? souffla Jean à l'oreille d'un voisin."
+    },
+    {
+     "t": "p",
+     "s": "— Cent quatre-vingt mille."
+    },
+    {
+     "t": "p",
+     "s": "— Pour la maison ?"
+    },
+    {
+     "t": "p",
+     "s": "— Pour tout."
+    },
+    {
+     "t": "p",
+     "s": "Rose ne répondit pas. Elle fixait la porte."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "— Madame Roch. Monsieur Roch. Entrez, je vous prie."
+    },
+    {
+     "t": "p",
+     "s": "Il les fit asseoir. Il ouvrit un dossier. Il y avait, sur son bureau, une pile de papiers à en-tête, un encrier, un buvard. Il y avait aussi, assis à l'angle de la pièce, très droit, sur une chaise d'osier, un homme qu'elle reconnut : l'ingénieur suisse, un cahier sur les genoux, la casquette à la main. Il la salua d'un signe de tête. Il détourna les yeux."
+    },
+    {
+     "t": "p",
+     "s": "— Monsieur Kerr assiste aux transactions, expliqua Maître Bonnet. Pour la Compagnie. Une simple formalité."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne signerai rien, dit Rose."
+    },
+    {
+     "t": "p",
+     "s": "— Voyons, madame…"
+    },
+    {
+     "t": "p",
+     "s": "— Je l'ai dit au village."
+    },
+    {
+     "t": "p",
+     "s": "— On le dit, au village, dit le notaire avec un sourire de grand-père. Puis on signe."
+    },
+    {
+     "t": "p",
+     "s": "Il lui exposa la situation, longuement, patiemment. Il parla de l'expropriation, de la commission, des barèmes. Il dit que la maison de Rose, en l'état, était évaluée à deux cent soixante mille francs, plus quarante pour les terres. Il dit que c'était une offre équitable. Il dit qu'en cas de refus, la Compagnie obtiendrait un arrêté d'expropriation d'office, et que la commission, dans ce cas, se montrerait moins généreuse. Il dit qu'elle recevrait, au mieux, cent vingt mille. Il dit qu'elle y perdrait."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne veux pas de l'argent, dit Rose."
+    },
+    {
+     "t": "p",
+     "s": "— Que voulez-vous, alors ?"
+    },
+    {
+     "t": "p",
+     "s": "— Ma maison."
+    },
+    {
+     "t": "p",
+     "s": "— On ne vous la rendra pas."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "— Alors à quoi bon ?"
+    },
+    {
+     "t": "p",
+     "s": "Elle le regarda droit dans les yeux. Elle avait les mains à plat sur ses genoux, les épaules raides, le menton levé. Elle dit, avec cette lenteur qu'elle mettait dans les choses graves :"
+    },
+    {
+     "t": "p",
+     "s": "— Je veux qu'on sache que je n'ai pas dit oui."
+    },
+    {
+     "t": "p",
+     "s": "Il y eut un silence. Le notaire ouvrit la bouche, la referma. Il regarda Jean, qui fixait le tapis. Il dit :"
+    },
+    {
+     "t": "p",
+     "s": "— Monsieur Roch, vous êtes le chef de famille."
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "— Vous signez ?"
+    },
+    {
+     "t": "p",
+     "s": "Jean leva les yeux. Il regarda sa femme. Il y avait entre eux, dans la pièce, une chose qu'on n'aurait pas pu nommer : un très long fil de patience, tendu."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne signe pas sans elle, dit-il."
+    },
+    {
+     "t": "p",
+     "s": "Le notaire eut un soupir, un seul. Il referma le dossier. Il écrivit quelque chose, sur une fiche, d'une plume qui grinçait. Il dit : « C'est noté. » Il ajouta, plus bas : « Vous le regretterez. » Rose répondit : « Peut-être. »"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Ils sortirent dans le couloir. L'ingénieur les suivit. Il les rattrapa sur le palier, essoufflé, le chapeau à la main."
+    },
+    {
+     "t": "p",
+     "s": "— Madame Roch."
+    },
+    {
+     "t": "p",
+     "s": "Elle s'arrêta."
+    },
+    {
+     "t": "p",
+     "s": "— Je voulais vous dire, commença Walther. Je ne… je ne suis pas d'accord avec ce que dit Maître Bonnet."
+    },
+    {
+     "t": "p",
+     "s": "— Il dit la vérité."
+    },
+    {
+     "t": "p",
+     "s": "— Il la dit mal."
+    },
+    {
+     "t": "p",
+     "s": "Elle le regarda. Elle regarda la casquette qu'il tordait dans ses mains, les yeux d'un brun très doux, le front moite. Elle vit aussi, derrière lui, par la porte ouverte du bureau, le portrait du Maréchal, qui souriait à un monde qui n'était plus."
+    },
+    {
+     "t": "p",
+     "s": "— Vous n'avez pas à vous excuser, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "— Alors pourquoi vous le faites ?"
+    },
+    {
+     "t": "p",
+     "s": "Il ne répondit pas. Il resta là, avec cette expression qu'on ne lui connaissait que dans les grandes occasions : le visage nu d'un homme qui cherche, dans les yeux de l'autre, un pardon qu'il n'a pas le droit de demander."
+    },
+    {
+     "t": "p",
+     "s": "— Parce que je serai là, dit-il enfin. Quand l'eau montera. Quelqu'un doit être là."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne dit rien. Jean, à côté d'elle, la main sur son bras, regardait par la fenêtre. Elle sentit contre sa manche le contact d'un petit panier d'œufs, que personne n'avait offert. Elle le tendit à l'ingénieur, d'un geste sec."
+    },
+    {
+     "t": "p",
+     "s": "— Tenez, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Madame…"
+    },
+    {
+     "t": "p",
+     "s": "— Ça se casse, les œufs. Vous irez plus doucement que moi."
+    },
+    {
+     "t": "p",
+     "s": "Il prit le panier. Il le serra contre lui, dans ses deux mains, avec un air d'extrême perplexité. Il baissa la tête. Il dit « merci » en allemand, très bas. Elle ne le comprit pas."
+    },
+    {
+     "t": "p",
+     "s": "Elle s'éloigna. Elle ne se retourna pas. Mais elle crut, tout au long du chemin du retour, sentir derrière elle, comme une chaleur dans le dos, le regard d'un homme qui tenait un panier d'œufs comme on tient un cierge."
+    }
+   ],
+   "words": 945,
+   "tome": 2
+  },
+  {
    "id": "t2-14-la-lettre",
-   "n": 14,
-   "label": "Chapitre 14",
+   "n": 28,
+   "label": "Chapitre 28",
    "title": "La lettre",
    "blocks": [
     {
@@ -16322,8 +16939,8 @@ window.BOOK = {
   },
   {
    "id": "t2-15-laube",
-   "n": 15,
-   "label": "Chapitre 15",
+   "n": 29,
+   "label": "Chapitre 29",
    "title": "L'aube",
    "blocks": [
     {
@@ -16502,8 +17119,8 @@ window.BOOK = {
   },
   {
    "id": "t2-16-le-garcon-qui-ne-dort-pas",
-   "n": 16,
-   "label": "Chapitre 16",
+   "n": 30,
+   "label": "Chapitre 30",
    "title": "Le garçon qui ne dort pas",
    "blocks": [
     {
@@ -16688,8 +17305,8 @@ window.BOOK = {
   },
   {
    "id": "t2-16b-les-kerr",
-   "n": null,
-   "label": "Chapitre 16 bis",
+   "n": 31,
+   "label": "Chapitre 31",
    "title": "Le dîner des Kerr",
    "blocks": [
     {
@@ -16923,8 +17540,8 @@ window.BOOK = {
   },
   {
    "id": "t2-16c-le-deuxieme-hiver",
-   "n": null,
-   "label": "Chapitre 16 ter",
+   "n": 32,
+   "label": "Chapitre 32",
    "title": "Le deuxième hiver",
    "blocks": [
     {
@@ -17115,8 +17732,8 @@ window.BOOK = {
   },
   {
    "id": "t2-17-la-prefecture",
-   "n": 17,
-   "label": "Chapitre 17",
+   "n": 33,
+   "label": "Chapitre 33",
    "title": "La préfecture",
    "blocks": [
     {
@@ -17315,8 +17932,8 @@ window.BOOK = {
   },
   {
    "id": "t2-18-la-riviere",
-   "n": 18,
-   "label": "Chapitre 18",
+   "n": 34,
+   "label": "Chapitre 34",
    "title": "La rivière",
    "blocks": [
     {
@@ -17514,8 +18131,8 @@ window.BOOK = {
   },
   {
    "id": "t2-19-le-grain-de-beaute",
-   "n": 19,
-   "label": "Chapitre 19",
+   "n": 35,
+   "label": "Chapitre 35",
    "title": "Le grain de beauté",
    "blocks": [
     {
@@ -17673,6 +18290,41 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Les douleurs avaient commencé à la tombée du jour, un dimanche, dans la cuisine, pendant qu'elle épluchait des pommes de terre. Elle avait posé le couteau. Elle s'était tenue à l'évier, les phalanges blanches, en respirant par le nez. Théo, qui lisait, avait levé la tête. Il n'avait rien dit. Il s'était levé, avait pris sa main, l'avait conduite jusqu'à la chambre du haut. Il avait allumé le poêle. Il avait préparé le lit, avec des draps propres, une alèse, des serviettes qu'il avait fait bouillir. Il avait travaillé en silence, avec une efficacité d'infirmier."
+    },
+    {
+     "t": "p",
+     "s": "— Tu sais faire, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— J'ai lu."
+    },
+    {
+     "t": "p",
+     "s": "— Tu as lu quoi ?"
+    },
+    {
+     "t": "p",
+     "s": "— Tout ce qu'il y avait."
+    },
+    {
+     "t": "p",
+     "s": "Il avait un sourire fragile. Elle le regarda. Elle comprit qu'il avait peur. Pas de l'accouchement : de quelque chose d'autre, qu'il portait depuis longtemps, comme un homme qui va retirer un sparadrap. Elle posa sa main sur sa joue. Elle dit : « Ça va bien se passer. » Il répondit : « Oui. » Il ferma les yeux contre sa paume. Il ajouta : « Je sais. »"
+    },
+    {
+     "t": "p",
+     "s": "Étienne était arrivé à minuit, en robe de chambre, avec sa mallette et une bouteille thermos. Il avait ausculté Iris, puis soupiré. Il s'était assis au pied du lit. Il avait dit : « On va attendre. » Il avait attendu. Il avait parlé de tout et de rien : de la neige qui tombait, du maire qui avait gagné une vache, de l'époque où l'on accouchait à la maison et où l'on ne s'en portait pas plus mal. Elle avait ri, entre deux contractions. Il lui avait tenu la main."
+    },
+    {
+     "t": "p",
+     "s": "Vers deux heures, le travail s'était accéléré."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
      "s": "Iris avait les eaux perdues depuis la veille. Elle n'avait pas voulu de l'hôpital. Elle avait peur des hôpitaux, des ascenseurs, des couloirs sans fenêtres : elle ne savait pas pourquoi. Étienne l'accoucha. Il était calme. Il dit : « Respire. » Il dit : « Compte, si ça t'aide. »"
     },
     {
@@ -17723,13 +18375,141 @@ window.BOOK = {
      "s": "Il ne mentait pas. Il ne disait pas tout."
     }
    ],
-   "words": 1244,
+   "words": 1527,
+   "tome": 2
+  },
+  {
+   "id": "t2-19a-etienne",
+   "n": 36,
+   "label": "Chapitre 36",
+   "title": "Étienne",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "Le docteur Marle avait soixante-dix ans le jour où il comprit qu'il ne mourrait pas seul."
+    },
+    {
+     "t": "p",
+     "s": "Il ne l'avait pas décidé. C'était venu d'une manière sourde, par petites touches, au fil des mois, comme une odeur qui s'installe dans une pièce. Il l'avait compris un matin d'avril 2050, en descendant à la cuisine, en robe de chambre, avec le journal sous le bras. Iris était assise à la table, un nourrisson contre elle, la tête penchée. Elle chantait. Il s'était arrêté sur le seuil, la main sur la rampe. Il avait senti, dans sa poitrine, une chose qu'il n'avait pas sentie depuis la mort de Claire : l'impression d'être attendu."
+    },
+    {
+     "t": "p",
+     "s": "Il se rappelait mal, ce matin-là, les années d'avant. Il avait vécu seul, vingt ans durant, dans cette grande maison de la place, au milieu de ses livres, de ses dossiers, de ses patients. Il avait élevé un fils, qu'il voyait deux fois l'an. Il avait enterré une femme. Il avait soigné, par métier, par habitude, par une sorte de pudeur de la tendresse, tout un village. On l'appelait le docteur. On ne l'appelait pas autrement. Il en avait eu de la fierté, puis de l'ennui, puis rien."
+    },
+    {
+     "t": "p",
+     "s": "Puis une jeune femme était arrivée, un matin de décembre, avec une lettre."
+    },
+    {
+     "t": "p",
+     "s": "Il l'avait lue sur le seuil, devant elle. *Pardon de ne pas t'avoir attendu. Je ne sais pas ce qui s'est passé. Ne me cherche pas.* Il avait reconnu d'emblée cette écriture bleue, penchée, qu'il aurait reconnue entre mille. Il avait senti, dans ses jambes, un vertige. Il avait regardé la jeune femme. Il avait vu un front trop grand, des sourcils droits, une façon d'être debout, sans bouger, comme quelqu'un qui retient une marée. Il avait vu, au coin de la paupière, un grain de beauté."
+    },
+    {
+     "t": "p",
+     "s": "Il n'avait pas fait le calcul. Il s'était interdit de le faire. Il avait senti quelque chose se déplacer au fond de lui, comme un meuble qu'on bouge dans une pièce qu'on croyait vide, et il avait détourné les yeux, avec ce vieux réflexe des hommes de science de ne pas regarder une hypothèse qui fait trop mal."
+    },
+    {
+     "t": "p",
+     "s": "Il avait dit : « Entrez. » Il avait préparé un chocolat chaud."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Il ne se rappelait pas, de cette époque, ce qui l'avait le plus frappé : sa propre lâcheté, ou sa propre joie."
+    },
+    {
+     "t": "p",
+     "s": "Il avait eu peur. Il avait eu peur qu'elle parte, qu'elle comprenne, qu'elle le haïsse. Il avait eu peur de la perdre avant de l'avoir eue. Il avait choisi, par pudeur, de rester le médecin, l'ami, le vieil homme qui prête une chambre. Il lui avait appris les gestes. Il lui avait donné des conseils. Il lui avait offert, un soir de décembre, une blouse blanche, avec un écusson brodé. Il avait attendu qu'elle le remarque. Elle l'avait remarqué. Elle avait dit : « Merci, docteur. » Il avait eu les larmes aux yeux."
+    },
+    {
+     "t": "p",
+     "s": "Il s'était demandé, souvent, ce qu'il y avait eu, cette nuit-là, quelque part dans l'octobre de 2026. Il se rappelait la femme. Il se rappelait la dernière fois où il l'avait vue, au labo, dans un couloir : un visage mince, fatigué, des yeux gris, un sourire hésitant. Il se rappelait avoir voulu lui parler. Il se rappelait ne l'avoir pas fait. Et puis des nuits de rêves absurdes, de conduite à travers la nuit, d'un enfant dans les bras. Il avait mis cela sur le compte de l'âge."
+    },
+    {
+     "t": "p",
+     "s": "Il ne s'était jamais rappelé, de ces nuits, qu'une seule chose précise : une voix, dans sa poitrine, qui disait *plus vite.*"
+    },
+    {
+     "t": "p",
+     "s": "Il y repensait, certains soirs, en regardant Sacha dormir."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Il avait aimé l'enfant dès la première seconde."
+    },
+    {
+     "t": "p",
+     "s": "Il se rappelait la naissance : la chambre du haut, le froid, la lampe de chevet. Il se rappelait la tête minuscule, mouillée, qui sortait dans ses mains. Il se rappelait avoir pensé : *c'est étrange, je connais ses épaules.* Il se rappelait la paupière, le grain de beauté, le geste de sa propre main, qu'il n'avait pu retenir. Il s'était assis dans l'escalier. Il y était resté très longtemps."
+    },
+    {
+     "t": "p",
+     "s": "Il avait découvert, à soixante-dix ans, qu'on pouvait avoir un petit-fils. Il l'avait découvert comme on découvre une langue étrangère qu'on parlait dans l'enfance. Il lui apprenait les échecs, les noms des étoiles, la manière de lacer ses souliers. Il lui racontait des histoires de montagne. Il le regardait grandir, avec un bonheur qui frôlait l'angoisse : il savait qu'il ne le verrait pas devenir un homme."
+    },
+    {
+     "t": "p",
+     "s": "Il en parlait à Claire, le soir, dans sa chambre. Il lui disait, devant la photographie : « Tu aurais aimé. » Il lui disait : « Il a ton nez. » Il savait que ce n'était pas vrai. Il le lui disait quand même."
+    },
+    {
+     "t": "p",
+     "s": "Il savait aussi, depuis longtemps, que Théo n'était pas ce qu'il paraissait."
+    },
+    {
+     "t": "p",
+     "s": "Il ne l'avait pas compris tout de suite. Il l'avait senti d'abord, comme on sent une présence derrière soi dans une pièce vide. Ce garçon qui ne dormait pas, ne mangeait presque pas, ne vieillissait pas. Il y avait dans son regard une patience qui n'avait rien d'humain, une douceur de vieille bête. Il y avait, dans sa façon de regarder Étienne, une espèce de tendresse, une reconnaissance, une dette. Un jour, en passant devant l'atelier, il l'avait vu, par la fenêtre, assis à sa table, un cahier noir devant lui, qui écrivait, d'une main si fine, si droite, qu'il avait cru à un graveur."
+    },
+    {
+     "t": "p",
+     "s": "Il n'avait rien dit. Il n'en avait pas eu le courage. Il se contentait de l'observer, de loin, avec cette prudence de ceux qui savent qu'on ne réveille pas un somnambule."
+    },
+    {
+     "t": "p",
+     "s": "Il lui avait dit, un soir, sur le perron :"
+    },
+    {
+     "t": "p",
+     "s": "— Prenez soin d'elle."
+    },
+    {
+     "t": "p",
+     "s": "— Je le ferai, avait dit Théo."
+    },
+    {
+     "t": "p",
+     "s": "— Vous ne ferez pas que cela, n'est-ce pas ?"
+    },
+    {
+     "t": "p",
+     "s": "Théo l'avait regardé. Il avait eu, pendant un instant, un visage de très vieil homme."
+    },
+    {
+     "t": "p",
+     "s": "— Non, avait-il dit. Je ne ferai pas que cela."
+    },
+    {
+     "t": "p",
+     "s": "Étienne n'avait pas posé d'autre question. Il avait seulement posé la main sur son épaule, un instant, très légèrement, et il avait dit :"
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "Il ne savait pas. Il avait cru qu'il savait. C'est la seule chose dont il se repentit jamais."
+    }
+   ],
+   "words": 1044,
    "tome": 2
   },
   {
    "id": "t2-19b-les-annees-douces",
-   "n": null,
-   "label": "Chapitre 19 bis",
+   "n": 37,
+   "label": "Chapitre 37",
    "title": "Les années douces",
    "blocks": [
     {
@@ -17991,8 +18771,8 @@ window.BOOK = {
   },
   {
    "id": "t2-20-ce-que-rose-sait",
-   "n": 20,
-   "label": "Chapitre 20",
+   "n": 38,
+   "label": "Chapitre 38",
    "title": "Ce que Rose sait",
    "blocks": [
     {
@@ -18328,8 +19108,8 @@ window.BOOK = {
   },
   {
    "id": "t2-20b-le-partage",
-   "n": null,
-   "label": "Chapitre 20 bis",
+   "n": 39,
+   "label": "Chapitre 39",
    "title": "Le partage",
    "blocks": [
     {
@@ -18461,8 +19241,8 @@ window.BOOK = {
   },
   {
    "id": "t2-21-jean",
-   "n": 21,
-   "label": "Chapitre 21",
+   "n": 40,
+   "label": "Chapitre 40",
    "title": "Jean",
    "blocks": [
     {
@@ -18652,8 +19432,8 @@ window.BOOK = {
   },
   {
    "id": "t2-22-le-crayon",
-   "n": 22,
-   "label": "Chapitre 22",
+   "n": 41,
+   "label": "Chapitre 41",
    "title": "Le crayon",
    "blocks": [
     {
@@ -18859,8 +19639,8 @@ window.BOOK = {
   },
   {
    "id": "t2-22b-douze-ans",
-   "n": null,
-   "label": "Chapitre 22 bis",
+   "n": 42,
+   "label": "Chapitre 42",
    "title": "Douze ans",
    "blocks": [
     {
@@ -19150,8 +19930,8 @@ window.BOOK = {
   },
   {
    "id": "t2-22z-la-toussaint",
-   "n": null,
-   "label": "Chapitre 23 bis",
+   "n": 43,
+   "label": "Chapitre 43",
    "title": "La Toussaint",
    "blocks": [
     {
@@ -19286,8 +20066,8 @@ window.BOOK = {
   },
   {
    "id": "t2-23-le-cure",
-   "n": 23,
-   "label": "Chapitre 23",
+   "n": 44,
+   "label": "Chapitre 44",
    "title": "Le curé",
    "blocks": [
     {
@@ -19457,8 +20237,8 @@ window.BOOK = {
   },
   {
    "id": "t2-24-programme-pilote",
-   "n": 24,
-   "label": "Chapitre 24",
+   "n": 45,
+   "label": "Chapitre 45",
    "title": "Programme pilote",
    "blocks": [
     {
@@ -19641,8 +20421,8 @@ window.BOOK = {
   },
   {
    "id": "t2-24b-la-cabane",
-   "n": null,
-   "label": "Chapitre 24 bis",
+   "n": 46,
+   "label": "Chapitre 46",
    "title": "La cabane",
    "blocks": [
     {
@@ -19753,9 +20533,186 @@ window.BOOK = {
    "tome": 2
   },
   {
+   "id": "t2-24z-la-saint-martin",
+   "n": 47,
+   "label": "Chapitre 47",
+   "title": "La Saint-Martin",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "Le onze novembre, il fit un temps de vieille fête."
+    },
+    {
+     "t": "p",
+     "s": "C'était un mardi, sec et clair, d'un gris très doux, avec dans l'air une odeur de feuilles brûlées et de pain chaud. On avait, comme chaque année, fait sonner les cloches à la volée, bien que la sonnerie ne fût plus pour personne. On avait mis des chrysanthèmes sur le monument aux morts. On avait fait, à midi, l'office des anciens combattants, que le maire Fortier, en brassard, avait conduit d'une voix d'ancêtre."
+    },
+    {
+     "t": "p",
+     "s": "Rose n'alla pas à l'église le matin. Elle y alla le soir, à cinq heures, comme tous les jours, quand il n'y avait plus personne. Elle poussa la porte. Elle s'avança dans la nef vide : les bancs étaient entassés au fond, les statues avaient été enlevées, la lampe du sanctuaire brûlait seule, au pied de l'autel nu. Elle s'agenouilla. Elle resta un long moment sans parler."
+    },
+    {
+     "t": "p",
+     "s": "Elle dit enfin, à voix basse :"
+    },
+    {
+     "t": "p",
+     "s": "— C'est aujourd'hui."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne s'adressa pas à Dieu."
+    },
+    {
+     "t": "p",
+     "s": "— À la Saint-Martin, on verra, vous avez lu. Je l'ai écrit. Je voulais voir."
+    },
+    {
+     "t": "p",
+     "s": "Il y eut, au fond de sa poitrine, un petit mouvement, très doux, comme celui d'un enfant qui se retourne dans son lit. Elle ferma les yeux. Elle attendit."
+    },
+    {
+     "t": "p",
+     "s": "*Je suis là.*"
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "*Qu'est-ce que vous voyez ?*"
+    },
+    {
+     "t": "p",
+     "s": "— Je vois une église. Je vois que je n'y reviendrai pas. Je vois que vous êtes avec moi."
+    },
+    {
+     "t": "p",
+     "s": "Elle se tut. Il y eut un long silence, plein de la rumeur du dehors."
+    },
+    {
+     "t": "p",
+     "s": "— Qu'est-ce que vous avez prévu ? dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "*Rien.*"
+    },
+    {
+     "t": "p",
+     "s": "— Vous mentez."
+    },
+    {
+     "t": "p",
+     "s": "*Je ne sais pas. Je… J'ai cru pouvoir arrêter tout ça. J'ai cru que si je faisais assez, que si je me battais assez, il y aurait un moyen. Il n'y en a pas. Je le sais, maintenant. Je ne l'ai pas dit.*"
+    },
+    {
+     "t": "p",
+     "s": "— Vous me le dites."
+    },
+    {
+     "t": "p",
+     "s": "*Oui.*"
+    },
+    {
+     "t": "p",
+     "s": "— Alors dites le reste."
+    },
+    {
+     "t": "p",
+     "s": "*Il n'y a pas de reste.*"
+    },
+    {
+     "t": "p",
+     "s": "Rose eut un petit rire, qui résonna dans la nef. Elle se leva. Elle alla, d'un pas lourd, jusqu'à l'autel. Elle posa la paume à plat sur la pierre nue."
+    },
+    {
+     "t": "p",
+     "s": "— Vous savez ce que c'est, la Saint-Martin ? dit-elle. Mon père me l'a dit. Martin, c'était un soldat. Il a vu un pauvre, dans la neige, qui n'avait pas de manteau. Il a coupé le sien en deux."
+    },
+    {
+     "t": "p",
+     "s": "*Je connais l'histoire.*"
+    },
+    {
+     "t": "p",
+     "s": "— Il a donné la moitié."
+    },
+    {
+     "t": "p",
+     "s": "*Oui.*"
+    },
+    {
+     "t": "p",
+     "s": "— Pas tout."
+    },
+    {
+     "t": "p",
+     "s": "Elle resta immobile, la main sur la pierre. Elle ajouta, plus bas :"
+    },
+    {
+     "t": "p",
+     "s": "— On ne donne jamais tout. On donne la moitié, et l'autre moitié, on la garde pour soi, parce qu'on a froid aussi."
+    },
+    {
+     "t": "p",
+     "s": "Elle se retourna. Elle regarda la nef, les piliers, les fenêtres sans vitraux, par où entrait un peu de lumière rose. Elle dit :"
+    },
+    {
+     "t": "p",
+     "s": "— Je voulais vous demander si vous aviez froid."
+    },
+    {
+     "t": "p",
+     "s": "*Oui.*"
+    },
+    {
+     "t": "p",
+     "s": "— Moi aussi."
+    },
+    {
+     "t": "p",
+     "s": "Elle quitta l'autel. Elle sortit."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Elle rentra par le chemin des écoliers. Dans la cuisine, Jean avait allumé le poêle, que les déménageurs n'avaient pas encore pris. Anselme jouait avec une cuillère de bois, assis par terre, entre les caisses. Elle prit l'enfant. Elle le serra. Elle sentit, contre sa joue, une petite main tiède qui lui tirait les cheveux."
+    },
+    {
+     "t": "p",
+     "s": "Elle fit la soupe. Elle servit. Ils mangèrent, tous les trois, à la lueur d'une lampe, dans le désordre des malles et des paquets. Il n'y eut pas de mots. Jean, à la fin, posa sa cuillère. Il dit :"
+    },
+    {
+     "t": "p",
+     "s": "— On a de la chance, quand même."
+    },
+    {
+     "t": "p",
+     "s": "— De quoi ?"
+    },
+    {
+     "t": "p",
+     "s": "— D'être ensemble."
+    },
+    {
+     "t": "p",
+     "s": "Elle le regarda. Elle sentit, tout au fond d'elle, quelqu'un sourire."
+    },
+    {
+     "t": "p",
+     "s": "Elle comprit qu'elle avait la moitié d'un manteau à donner, et qu'elle savait déjà à qui."
+    }
+   ],
+   "words": 624,
+   "tome": 2
+  },
+  {
    "id": "t2-25-les-cercueils",
-   "n": 25,
-   "label": "Chapitre 25",
+   "n": 48,
+   "label": "Chapitre 48",
    "title": "Les cercueils",
    "blocks": [
     {
@@ -19961,8 +20918,8 @@ window.BOOK = {
   },
   {
    "id": "t2-26-la-pastille",
-   "n": 26,
-   "label": "Chapitre 26",
+   "n": 49,
+   "label": "Chapitre 49",
    "title": "La pastille",
    "blocks": [
     {
@@ -20244,8 +21201,8 @@ window.BOOK = {
   },
   {
    "id": "t2-26b-lise-la-nuit",
-   "n": null,
-   "label": "Chapitre 26 bis",
+   "n": 50,
+   "label": "Chapitre 50",
    "title": "Lise, la nuit",
    "blocks": [
     {
@@ -20551,185 +21508,9 @@ window.BOOK = {
    "tome": 2
   },
   {
-   "id": "t2-27-la-table-pour-cinq",
-   "n": 27,
-   "label": "Chapitre 27",
-   "title": "La table pour cinq",
-   "blocks": [
-    {
-     "t": "p",
-     "s": "À onze heures du soir, le jeudi 13 novembre, la maison était vide de tout, sauf de la table."
-    },
-    {
-     "t": "p",
-     "s": "On avait emporté le buffet, la huche, les deux lits, la malle, le missel. Les voisins avaient prêté une charrette. Le chantier avait mis un camion à disposition, qui attendait, moteur éteint, devant la porte, sous le bruit de la pluie. On devait partir à l'aube pour l'appartement du Haut, trois pièces au-dessus de la boulangerie, avec un poêle qui fumait. Rose avait tout rangé. Elle n'avait laissé que la table, une grande table de noyer, noire de soixante ans de mains, qu'on n'avait pas eu la place de charger."
-    },
-    {
-     "t": "p",
-     "s": "Elle la mit."
-    },
-    {
-     "t": "p",
-     "s": "Elle sortit de la caisse cinq assiettes de faïence blanche, cinq verres, cinq cuillères, cinq couteaux. Elle les disposa avec soin, au cordeau, le long de la nappe de toile cirée. Elle alluma la lampe. Elle posa au milieu un pain, une soupière, une carafe d'eau. Elle regarda l'ensemble, un long moment, les mains jointes sous le menton."
-    },
-    {
-     "t": "p",
-     "s": "Jean la regardait de la porte. Il n'avait pas retiré son manteau. Il n'avait pas osé dire un mot."
-    },
-    {
-     "t": "p",
-     "s": "— Pourquoi cinq ? dit-il enfin."
-    },
-    {
-     "t": "p",
-     "s": "— On a toujours été cinq."
-    },
-    {
-     "t": "p",
-     "s": "— On est trois."
-    },
-    {
-     "t": "p",
-     "s": "— Mon père, ma mère, mes deux frères, moi, dit Rose. C'est comme ça qu'on mangeait. Ensuite, toi, le petit, la grand-mère."
-    },
-    {
-     "t": "p",
-     "s": "— Ta grand-mère est morte."
-    },
-    {
-     "t": "p",
-     "s": "— Je sais."
-    },
-    {
-     "t": "p",
-     "s": "Il s'assit. Il posa son béret sur ses genoux. Anselme dormait dans une couverture, sur une caisse de bois, au coin du poêle éteint. Il ne restait que le bruit de la pluie sur la tôle, et la lampe qui grésillait."
-    },
-    {
-     "t": "p",
-     "s": "— Pour qui ? demanda-t-il."
-    },
-    {
-     "t": "p",
-     "s": "Elle ne répondit pas tout de suite."
-    },
-    {
-     "t": "p",
-     "s": "— Pour ceux qui ne sont pas encore arrivés, dit-elle."
-    },
-    {
-     "t": "hr"
-    },
-    {
-     "t": "p",
-     "s": "On frappa à minuit moins le quart."
-    },
-    {
-     "t": "p",
-     "s": "Rose alla ouvrir. Elle vit Odette Girard sur le seuil, sans châle, sans lanterne, trempée jusqu'aux os, les cheveux collés au visage. Elle ne portait pas de panier. Elle tenait ses deux mains serrées contre sa poitrine, comme on tient un oiseau mort."
-    },
-    {
-     "t": "p",
-     "s": "— Je ne viens pas pour me justifier, dit-elle."
-    },
-    {
-     "t": "p",
-     "s": "Rose ne bougea pas."
-    },
-    {
-     "t": "p",
-     "s": "— Je viens dire pardon."
-    },
-    {
-     "t": "p",
-     "s": "Elle ne s'expliqua pas. Elle resta là, sous la pluie, les yeux fixés sur le visage de Rose, avec une expression qui n'était ni de la honte, ni du repentir : une sorte de stupeur, comme celle d'une très vieille personne qui revoit, pour la dernière fois, un endroit où elle a vécu."
-    },
-    {
-     "t": "p",
-     "s": "— C'est tout ? dit Rose."
-    },
-    {
-     "t": "p",
-     "s": "— Oui."
-    },
-    {
-     "t": "p",
-     "s": "— Alors va."
-    },
-    {
-     "t": "p",
-     "s": "Odette hocha la tête. Elle se détourna. Elle fit deux pas dans la boue. Puis elle s'arrêta, de dos, et prononça, de la voix la plus basse qu'elle eût jamais eue, une voix qui n'était pas celle d'une boulangère de vingt-huit ans, mais celle de quelqu'un qui avait appris à parler sous terre, pour ne pas être entendu :"
-    },
-    {
-     "t": "p",
-     "s": "— Cinquante-neuf."
-    },
-    {
-     "t": "p",
-     "s": "Rose resta immobile."
-    },
-    {
-     "t": "p",
-     "s": "Elle n'avait pas compris le mot. Elle avait compris la voix. Elle avait senti, au fond d'elle, tout contre ses côtes, quelqu'un qui se levait, qui se tendait vers la porte, qui voulait répondre, et qui se retenait de toutes ses forces."
-    },
-    {
-     "t": "p",
-     "s": "*Ne dis rien,* pensa Iris. *S'il te plaît. Ne dis rien. Je ne pourrais pas.*"
-    },
-    {
-     "t": "p",
-     "s": "Rose ne dit rien."
-    },
-    {
-     "t": "p",
-     "s": "Elle regarda Odette s'éloigner, sur le chemin, entre les haies, sous la pluie. Elle la regarda disparaître dans le noir. Elle referma la porte."
-    },
-    {
-     "t": "hr"
-    },
-    {
-     "t": "p",
-     "s": "Walther Kerr passa vers une heure du matin."
-    },
-    {
-     "t": "p",
-     "s": "Elle l'aperçut par la fenêtre sans rideau : un homme seul, en pardessus, qui remontait le chemin en direction du mur. Il s'arrêta devant la maison. Il leva les yeux. Il vit la lampe, la table mise, les trois silhouettes dans la cuisine : le mari, la femme, l'enfant endormi."
-    },
-    {
-     "t": "p",
-     "s": "Il resta là un long moment, tête nue sous la pluie, comme un homme qui regarde une église."
-    },
-    {
-     "t": "p",
-     "s": "Puis il repartit."
-    },
-    {
-     "t": "p",
-     "s": "Rose ne bougea pas. Jean ne bougea pas. Ni l'un ni l'autre ne dit à haute voix ce qu'ils avaient vu. Ils restèrent assis, face à face, de part et d'autre de la table pour cinq. Cinq assiettes, cinq verres. Trois vivants, deux absents. Et dans la femme, une autre femme, qui retenait sa respiration."
-    },
-    {
-     "t": "p",
-     "s": "Personne ne toucha à la soupe. Elle refroidit sur la table."
-    },
-    {
-     "t": "p",
-     "s": "À deux heures et demie, Iris se leva."
-    },
-    {
-     "t": "p",
-     "s": "Ce n'était pas elle, c'était Rose. Mais Rose, sans un mot, avec la lenteur d'une femme qui obéit à une prière, ouvrit la porte, mit son châle, descendit les marches. Jean ne tenta pas de la retenir. Il resta à sa place, la tête dans les mains, à regarder l'assiette vide en face de lui."
-    },
-    {
-     "t": "p",
-     "s": "Elle marcha vers le mur."
-    }
-   ],
-   "words": 792,
-   "tome": 2
-  },
-  {
-   "id": "t2-27b-la-nuit-des-demenagements",
-   "n": null,
-   "label": "Chapitre 27 bis",
+   "id": "t2-26z-les-camions",
+   "n": 51,
+   "label": "Chapitre 51",
    "title": "Les camions",
    "blocks": [
     {
@@ -20931,9 +21712,232 @@ window.BOOK = {
    "tome": 2
   },
   {
+   "id": "t2-27-la-table-pour-cinq",
+   "n": 52,
+   "label": "Chapitre 52",
+   "title": "La table pour cinq",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "À onze heures du soir, le jeudi 13 novembre, la maison était vide de tout, sauf de la table."
+    },
+    {
+     "t": "p",
+     "s": "On avait emporté le buffet, la huche, les deux lits, la malle, le missel. Les voisins avaient prêté une charrette. Le chantier avait mis un camion à disposition, qui attendait, moteur éteint, devant la porte, sous le bruit de la pluie. On devait partir à l'aube pour l'appartement du Haut, trois pièces au-dessus de la boulangerie, avec un poêle qui fumait. Rose avait tout rangé. Elle n'avait laissé que la table, une grande table de noyer, noire de soixante ans de mains, qu'on n'avait pas eu la place de charger."
+    },
+    {
+     "t": "p",
+     "s": "Elle la mit."
+    },
+    {
+     "t": "p",
+     "s": "Elle sortit de la caisse cinq assiettes de faïence blanche, cinq verres, cinq cuillères, cinq couteaux. Elle les disposa avec soin, au cordeau, le long de la nappe de toile cirée. Elle alluma la lampe. Elle posa au milieu un pain, une soupière, une carafe d'eau. Elle regarda l'ensemble, un long moment, les mains jointes sous le menton."
+    },
+    {
+     "t": "p",
+     "s": "Jean la regardait de la porte. Il n'avait pas retiré son manteau. Il n'avait pas osé dire un mot."
+    },
+    {
+     "t": "p",
+     "s": "— Pourquoi cinq ? dit-il enfin."
+    },
+    {
+     "t": "p",
+     "s": "— On a toujours été cinq."
+    },
+    {
+     "t": "p",
+     "s": "— On est trois."
+    },
+    {
+     "t": "p",
+     "s": "— Mon père, ma mère, mes deux frères, moi, dit Rose. C'est comme ça qu'on mangeait. Ensuite, toi, le petit, la grand-mère."
+    },
+    {
+     "t": "p",
+     "s": "— Ta grand-mère est morte."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "Il s'assit. Il posa son béret sur ses genoux. Anselme dormait dans une couverture, sur une caisse de bois, au coin du poêle éteint. Il ne restait que le bruit de la pluie sur la tôle, et la lampe qui grésillait."
+    },
+    {
+     "t": "p",
+     "s": "— Pour qui ? demanda-t-il."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne répondit pas tout de suite."
+    },
+    {
+     "t": "p",
+     "s": "— Pour ceux qui ne sont pas encore arrivés, dit-elle."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Ils parlèrent peu. Ils n'avaient plus rien à se dire. Il y avait entre eux ce silence plein, serré, des gens qui s'aiment et qui ne savent plus comment l'exprimer."
+    },
+    {
+     "t": "p",
+     "s": "Jean toucha le rebord de la table, du bout du doigt, pour sentir le grain du bois. Il le caressa. Il dit : « C'est ton père qui l'avait faite ? » Elle répondit : « Mon grand-père. » Il dit : « Elle est belle. » Elle dit : « Elle est lourde. » Il sourit. Il dit : « On ne la prendra pas. » Elle dit : « Non. »"
+    },
+    {
+     "t": "p",
+     "s": "Ils laissèrent passer le temps. Il mit du bois dans le poêle, qu'on avait démonté mais qu'on pouvait encore faire tirer. Elle fit chauffer un peu de lait, pour Anselme. L'enfant se réveilla une minute, but, replongea. Elle le recoucha sur la caisse, avec la couverture. Jean le regarda faire. Il dit :"
+    },
+    {
+     "t": "p",
+     "s": "— Tu es une bonne mère."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne sais pas."
+    },
+    {
+     "t": "p",
+     "s": "— Moi, je sais."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne répondit pas. Elle regarda ses mains, qui avaient lavé, pétri, cousu, bercé. Elle y vit une chose qu'elle n'y avait jamais vue : la trace d'une autre. Elle sut qu'elle ne pouvait pas le lui dire. Elle prit sa main à lui, ouverte, large, calleuse. Elle la mit contre sa joue, un instant, comme on pose un caillou sur un tas."
+    },
+    {
+     "t": "p",
+     "s": "— Je t'ai aimé, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Tu m'aimes."
+    },
+    {
+     "t": "p",
+     "s": "— Oui. Je t'ai aimé aussi pour elle."
+    },
+    {
+     "t": "p",
+     "s": "Il ne comprit pas. Il ne demanda pas. Il resta, la main contre sa joue, jusqu'à ce que la lampe commence à pâlir."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "On frappa à minuit moins le quart."
+    },
+    {
+     "t": "p",
+     "s": "Rose alla ouvrir. Elle vit Odette Girard sur le seuil, sans châle, sans lanterne, trempée jusqu'aux os, les cheveux collés au visage. Elle ne portait pas de panier. Elle tenait ses deux mains serrées contre sa poitrine, comme on tient un oiseau mort."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne viens pas pour me justifier, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "Rose ne bougea pas."
+    },
+    {
+     "t": "p",
+     "s": "— Je viens dire pardon."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne s'expliqua pas. Elle resta là, sous la pluie, les yeux fixés sur le visage de Rose, avec une expression qui n'était ni de la honte, ni du repentir : une sorte de stupeur, comme celle d'une très vieille personne qui revoit, pour la dernière fois, un endroit où elle a vécu."
+    },
+    {
+     "t": "p",
+     "s": "— C'est tout ? dit Rose."
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "— Alors va."
+    },
+    {
+     "t": "p",
+     "s": "Odette hocha la tête. Elle se détourna. Elle fit deux pas dans la boue. Puis elle s'arrêta, de dos, et prononça, de la voix la plus basse qu'elle eût jamais eue, une voix qui n'était pas celle d'une boulangère de vingt-huit ans, mais celle de quelqu'un qui avait appris à parler sous terre, pour ne pas être entendu :"
+    },
+    {
+     "t": "p",
+     "s": "— Cinquante-neuf."
+    },
+    {
+     "t": "p",
+     "s": "Rose resta immobile."
+    },
+    {
+     "t": "p",
+     "s": "Elle n'avait pas compris le mot. Elle avait compris la voix. Elle avait senti, au fond d'elle, tout contre ses côtes, quelqu'un qui se levait, qui se tendait vers la porte, qui voulait répondre, et qui se retenait de toutes ses forces."
+    },
+    {
+     "t": "p",
+     "s": "*Ne dis rien,* pensa Iris. *S'il te plaît. Ne dis rien. Je ne pourrais pas.*"
+    },
+    {
+     "t": "p",
+     "s": "Rose ne dit rien."
+    },
+    {
+     "t": "p",
+     "s": "Elle regarda Odette s'éloigner, sur le chemin, entre les haies, sous la pluie. Elle la regarda disparaître dans le noir. Elle referma la porte."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Walther Kerr passa vers une heure du matin."
+    },
+    {
+     "t": "p",
+     "s": "Elle l'aperçut par la fenêtre sans rideau : un homme seul, en pardessus, qui remontait le chemin en direction du mur. Il s'arrêta devant la maison. Il leva les yeux. Il vit la lampe, la table mise, les trois silhouettes dans la cuisine : le mari, la femme, l'enfant endormi."
+    },
+    {
+     "t": "p",
+     "s": "Il resta là un long moment, tête nue sous la pluie, comme un homme qui regarde une église."
+    },
+    {
+     "t": "p",
+     "s": "Puis il repartit."
+    },
+    {
+     "t": "p",
+     "s": "Rose ne bougea pas. Jean ne bougea pas. Ni l'un ni l'autre ne dit à haute voix ce qu'ils avaient vu. Ils restèrent assis, face à face, de part et d'autre de la table pour cinq. Cinq assiettes, cinq verres. Trois vivants, deux absents. Et dans la femme, une autre femme, qui retenait sa respiration."
+    },
+    {
+     "t": "p",
+     "s": "Personne ne toucha à la soupe. Elle refroidit sur la table."
+    },
+    {
+     "t": "p",
+     "s": "À deux heures et demie, Iris se leva."
+    },
+    {
+     "t": "p",
+     "s": "Ce n'était pas elle, c'était Rose. Mais Rose, sans un mot, avec la lenteur d'une femme qui obéit à une prière, ouvrit la porte, mit son châle, descendit les marches. Jean ne tenta pas de la retenir. Il resta à sa place, la tête dans les mains, à regarder l'assiette vide en face de lui."
+    },
+    {
+     "t": "p",
+     "s": "Elle marcha vers le mur."
+    }
+   ],
+   "words": 1065,
+   "tome": 2
+  },
+  {
    "id": "t2-28-la-derniere-nuit-de-sacha",
-   "n": 28,
-   "label": "Chapitre 28",
+   "n": 53,
+   "label": "Chapitre 53",
    "title": "La dernière nuit de Sacha",
    "blocks": [
     {
@@ -21115,8 +22119,8 @@ window.BOOK = {
   },
   {
    "id": "t2-29-lhomme-en-blanc",
-   "n": 29,
-   "label": "Chapitre 29",
+   "n": 54,
+   "label": "Chapitre 54",
    "title": "L'homme en blanc",
    "blocks": [
     {
@@ -21361,8 +22365,8 @@ window.BOOK = {
   },
   {
    "id": "t2-29b-la-premiere-mesure",
-   "n": null,
-   "label": "Chapitre 29 bis",
+   "n": 55,
+   "label": "Chapitre 55",
    "title": "La première mesure",
    "blocks": [
     {
@@ -21512,8 +22516,8 @@ window.BOOK = {
   },
   {
    "id": "t2-30-la-cache",
-   "n": 30,
-   "label": "Chapitre 30",
+   "n": 56,
+   "label": "Chapitre 56",
    "title": "La cache",
    "blocks": [
     {
@@ -21605,6 +22609,33 @@ window.BOOK = {
     {
      "t": "p",
      "s": "Elle la regarda longtemps. Elle comprit qu'elle ne la comprenait pas. Elle sut seulement que c'était une prière, ou une consigne, ou un ordre, et que l'homme qui l'avait écrite ne s'était jamais senti libre d'écrire autre chose."
+    },
+    {
+     "t": "p",
+     "s": "Elle en lut un autre, le soir même."
+    },
+    {
+     "t": "p",
+     "s": "Elle s'assit sur le lit de camp, à la lueur de la lampe à pétrole. Elle ouvrit le troisième cahier. Elle y trouva des listes de noms, de dates, de lieux, d'une écriture très serrée. *Élise V., 2137. Noé M., 2137. Iris, 2027. Anselme R., 1980.* Il y avait des flèches, des croix, des cercles. Il y avait, en marge, des phrases brèves : *À prévenir. À ne pas prévenir. Trop tôt. Trop tard.*"
+    },
+    {
+     "t": "p",
+     "s": "Elle lut une page qui disait : *Elle va dire non. Je le sais. Je ne dois pas le lui reprocher.* Elle ne comprit pas de quoi il parlait. Elle crut que c'était d'elle. Elle lut plus loin : *Il va prendre la pastille. Je ne peux pas l'en empêcher.* Elle s'arrêta de respirer. Elle relut. Elle sentit quelque chose se casser, en elle, de très ancien."
+    },
+    {
+     "t": "p",
+     "s": "*Je ne peux pas l'en empêcher.*"
+    },
+    {
+     "t": "p",
+     "s": "Elle le relut trois fois. Elle ferma le cahier. Elle resta longtemps assise, les mains posées sur la couverture noire, à regarder la flamme."
+    },
+    {
+     "t": "p",
+     "s": "Elle comprit qu'il n'y avait pas de coupable. Elle comprit que c'était pire."
+    },
+    {
+     "t": "hr"
     },
     {
      "t": "p",
@@ -21725,13 +22756,115 @@ window.BOOK = {
      "s": "— Je te regarderai jusqu'au bout."
     }
    ],
-   "words": 1452,
+   "words": 1644,
+   "tome": 2
+  },
+  {
+   "id": "t2-30z-jean-le-matin",
+   "n": 57,
+   "label": "Chapitre 57",
+   "title": "Jean, le matin",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "Jean Roch avait décidé, la veille, qu'il porterait sa femme s'il le fallait."
+    },
+    {
+     "t": "p",
+     "s": "Il ne l'avait dit à personne. Il l'avait décidé seul, dans la cuisine vide, devant la table mise pour cinq, au milieu de la nuit. Il avait compris, en regardant Rose se lever et sortir, sans un mot, sans le regarder, qu'elle n'irait pas de son plein gré dans le camion. Il savait qu'elle voulait mourir dans sa maison. Il savait qu'elle ne le dirait pas. Il savait qu'il ne pouvait pas la laisser."
+    },
+    {
+     "t": "p",
+     "s": "Il avait demandé à trois collègues de venir, vers cinq heures. Il leur avait dit : « C'est pour ma femme. » Ils n'avaient pas posé de questions. C'étaient des hommes comme lui, des bûcherons, des scieurs, qui avaient perdu des mères, des frères, des maisons. Ils avaient hoché la tête. Ils étaient venus. Ils se tenaient maintenant sur le seuil, en cirés mouillés, les mains vides."
+    },
+    {
+     "t": "p",
+     "s": "Elle revint à quatre heures, par le chemin de halage."
+    },
+    {
+     "t": "p",
+     "s": "Il la vit de loin, par la fenêtre. Elle marchait lentement, la tête droite, le châle serré sur les épaules, avec un petit cylindre gris dans la main. Elle avait l'air de quelqu'un qui sort d'une longue maladie. Elle entra. Elle s'arrêta sur le seuil. Elle le regarda."
+    },
+    {
+     "t": "p",
+     "s": "— Tu as des hommes, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "— Pour moi."
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne dit rien. Elle posa sur la table la petite lampe, qu'elle regarda comme un objet étranger. Elle y laissa tomber une larme. Il ne sut pas si c'était de Rose ou de l'autre. Il pensa qu'il n'avait jamais su."
+    },
+    {
+     "t": "p",
+     "s": "— Je t'aime, dit-il."
+    },
+    {
+     "t": "p",
+     "s": "Elle leva les yeux. Il lui parut qu'elle était très loin, de l'autre côté d'un très large fleuve. Elle dit, d'une voix qui n'était pas tout à fait la sienne :"
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne sais pas si tu m'entends."
+    },
+    {
+     "t": "p",
+     "s": "— J'entends."
+    },
+    {
+     "t": "p",
+     "s": "— Alors viens."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne bougea pas. Elle resta un long moment debout, au milieu de la cuisine, à regarder les murs nus. Elle toucha du bout du doigt le crucifix, qui était resté accroché. Elle le décrocha. Elle le glissa dans sa poche. Elle dit :"
+    },
+    {
+     "t": "p",
+     "s": "— Je ne veux pas qu'on me porte."
+    },
+    {
+     "t": "p",
+     "s": "— Alors marche."
+    },
+    {
+     "t": "p",
+     "s": "— Je marcherai."
+    },
+    {
+     "t": "p",
+     "s": "Elle sortit la première. Elle descendit les marches. Elle s'arrêta sur la dernière, face au fond de la vallée, où le mur se devinait à peine dans le gris. Elle n'alla pas plus loin. Il comprit qu'elle ne monterait pas dans le camion de son plein gré. Il vit l'un des hommes détourner la tête. Il vit Anselme, endormi dans les bras de la Marie des Combes, qui se réveillait à peine."
+    },
+    {
+     "t": "p",
+     "s": "Il resta un moment sur le seuil. Il regarda la maison, la table mise, la lampe allumée, les cinq assiettes. Il se rappela la nuit où il était rentré trois heures plus tôt que d'ordinaire. Il se rappela une voix qui ne ressemblait pas à celle de sa femme. Il se rappela qu'il avait eu peur, qu'il avait pris sa main, qu'il l'avait gardée."
+    },
+    {
+     "t": "p",
+     "s": "Il fit signe aux hommes."
+    }
+   ],
+   "words": 516,
    "tome": 2
   },
   {
    "id": "t2-31-la-vanne",
-   "n": 31,
-   "label": "Chapitre 31",
+   "n": 58,
+   "label": "Chapitre 58",
    "title": "La vanne",
    "blocks": [
     {
@@ -21949,111 +23082,9 @@ window.BOOK = {
    "tome": 2
   },
   {
-   "id": "t2-31b-jean",
-   "n": null,
-   "label": "Chapitre 31 bis",
-   "title": "Jean, le matin",
-   "blocks": [
-    {
-     "t": "p",
-     "s": "Jean Roch avait décidé, la veille, qu'il porterait sa femme s'il le fallait."
-    },
-    {
-     "t": "p",
-     "s": "Il ne l'avait dit à personne. Il l'avait décidé seul, dans la cuisine vide, devant la table mise pour cinq, au milieu de la nuit. Il avait compris, en regardant Rose se lever et sortir, sans un mot, sans le regarder, qu'elle n'irait pas de son plein gré dans le camion. Il savait qu'elle voulait mourir dans sa maison. Il savait qu'elle ne le dirait pas. Il savait qu'il ne pouvait pas la laisser."
-    },
-    {
-     "t": "p",
-     "s": "Il avait demandé à trois collègues de venir, vers cinq heures. Il leur avait dit : « C'est pour ma femme. » Ils n'avaient pas posé de questions. C'étaient des hommes comme lui, des bûcherons, des scieurs, qui avaient perdu des mères, des frères, des maisons. Ils avaient hoché la tête. Ils étaient venus. Ils se tenaient maintenant sur le seuil, en cirés mouillés, les mains vides."
-    },
-    {
-     "t": "p",
-     "s": "Elle revint à quatre heures, par le chemin de halage."
-    },
-    {
-     "t": "p",
-     "s": "Il la vit de loin, par la fenêtre. Elle marchait lentement, la tête droite, le châle serré sur les épaules, avec un petit cylindre gris dans la main. Elle avait l'air de quelqu'un qui sort d'une longue maladie. Elle entra. Elle s'arrêta sur le seuil. Elle le regarda."
-    },
-    {
-     "t": "p",
-     "s": "— Tu as des hommes, dit-elle."
-    },
-    {
-     "t": "p",
-     "s": "— Oui."
-    },
-    {
-     "t": "p",
-     "s": "— Pour moi."
-    },
-    {
-     "t": "p",
-     "s": "— Oui."
-    },
-    {
-     "t": "p",
-     "s": "Elle ne dit rien. Elle posa sur la table la petite lampe, qu'elle regarda comme un objet étranger. Elle y laissa tomber une larme. Il ne sut pas si c'était de Rose ou de l'autre. Il pensa qu'il n'avait jamais su."
-    },
-    {
-     "t": "p",
-     "s": "— Je t'aime, dit-il."
-    },
-    {
-     "t": "p",
-     "s": "Elle leva les yeux. Il lui parut qu'elle était très loin, de l'autre côté d'un très large fleuve. Elle dit, d'une voix qui n'était pas tout à fait la sienne :"
-    },
-    {
-     "t": "p",
-     "s": "— Je sais."
-    },
-    {
-     "t": "p",
-     "s": "— Je ne sais pas si tu m'entends."
-    },
-    {
-     "t": "p",
-     "s": "— J'entends."
-    },
-    {
-     "t": "p",
-     "s": "— Alors viens."
-    },
-    {
-     "t": "p",
-     "s": "Elle ne bougea pas. Elle resta un long moment debout, au milieu de la cuisine, à regarder les murs nus. Elle toucha du bout du doigt le crucifix, qui était resté accroché. Elle le décrocha. Elle le glissa dans sa poche. Elle dit :"
-    },
-    {
-     "t": "p",
-     "s": "— Je ne veux pas qu'on me porte."
-    },
-    {
-     "t": "p",
-     "s": "— Alors marche."
-    },
-    {
-     "t": "p",
-     "s": "— Je marcherai."
-    },
-    {
-     "t": "p",
-     "s": "Elle sortit la première. Elle descendit les marches. Elle s'arrêta sur la dernière, face au fond de la vallée, où le mur se devinait à peine dans le gris. Elle n'alla pas plus loin. Il comprit qu'elle ne monterait pas dans le camion de son plein gré. Il vit l'un des hommes détourner la tête. Il vit Anselme, endormi dans les bras de la Marie des Combes, qui se réveillait à peine."
-    },
-    {
-     "t": "p",
-     "s": "Il resta un moment sur le seuil. Il regarda la maison, la table mise, la lampe allumée, les cinq assiettes. Il se rappela la nuit où il était rentré trois heures plus tôt que d'ordinaire. Il se rappela une voix qui ne ressemblait pas à celle de sa femme. Il se rappela qu'il avait eu peur, qu'il avait pris sa main, qu'il l'avait gardée."
-    },
-    {
-     "t": "p",
-     "s": "Il fit signe aux hommes."
-    }
-   ],
-   "words": 516,
-   "tome": 2
-  },
-  {
    "id": "t2-32-le-depart",
-   "n": 32,
-   "label": "Chapitre 32",
+   "n": 59,
+   "label": "Chapitre 59",
    "title": "Le départ",
    "blocks": [
     {
@@ -22153,6 +23184,42 @@ window.BOOK = {
     {
      "t": "p",
      "s": "Il resta dans la cuisine, pendant qu'elle préparait la chambre. Il lui apporta du thé. Il parlait peu. Une fois, il lui demanda si elle avait mangé. Elle ne répondit pas. Il fit cuire des œufs. Ils les mangèrent côte à côte, sans rien dire, avec le bruit de la pluie sur le zinc."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne mangea presque rien. Elle regardait Étienne couper son pain en petits morceaux, avec cette précision de ceux qui ne veulent pas déranger. Elle sentit monter en elle une tendresse sans objet, qui n'avait rien à voir avec la peur. Elle dit :"
+    },
+    {
+     "t": "p",
+     "s": "— Tu as été bon pour moi."
+    },
+    {
+     "t": "p",
+     "s": "— J'ai été un vieux monsieur qui prête une chambre."
+    },
+    {
+     "t": "p",
+     "s": "— Non."
+    },
+    {
+     "t": "p",
+     "s": "— Si."
+    },
+    {
+     "t": "p",
+     "s": "— Tu m'as appris à être quelqu'un."
+    },
+    {
+     "t": "p",
+     "s": "Il leva les yeux. Il avait, derrière ses lunettes, un regard très doux, très humide."
+    },
+    {
+     "t": "p",
+     "s": "— Tu l'étais déjà, dit-il."
+    },
+    {
+     "t": "p",
+     "s": "Il reprit son pain. Il y eut, dans la cuisine, un long silence, très paisible, où l'on n'entendit que la pluie. Elle pensa : *c'est ça, un père.* Elle ne savait pas d'où lui venait la pensée. Elle ne la lui dit pas. Elle la garda, comme on garde, dans une main fermée, une petite pierre chaude."
     },
     {
      "t": "p",
@@ -22312,7 +23379,7 @@ window.BOOK = {
      "s": "Elle ne se réveilla pas."
     }
    ],
-   "words": 1368,
+   "words": 1517,
    "tome": 2
   },
   {

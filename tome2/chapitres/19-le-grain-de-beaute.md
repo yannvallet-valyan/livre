@@ -1,4 +1,4 @@
-# Chapitre 19 — Le grain de beauté
+# Chapitre 35 — Le grain de beauté
 
 *(premier jet)*
 
@@ -79,6 +79,24 @@ Il comptait, dans l'ombre. Elle l'entendait.
 ---
 
 Sacha naquit le 3 février 2050, à trois heures du matin, dans la chambre du haut, par grand froid.
+
+Les douleurs avaient commencé à la tombée du jour, un dimanche, dans la cuisine, pendant qu'elle épluchait des pommes de terre. Elle avait posé le couteau. Elle s'était tenue à l'évier, les phalanges blanches, en respirant par le nez. Théo, qui lisait, avait levé la tête. Il n'avait rien dit. Il s'était levé, avait pris sa main, l'avait conduite jusqu'à la chambre du haut. Il avait allumé le poêle. Il avait préparé le lit, avec des draps propres, une alèse, des serviettes qu'il avait fait bouillir. Il avait travaillé en silence, avec une efficacité d'infirmier.
+
+— Tu sais faire, dit-elle.
+
+— J'ai lu.
+
+— Tu as lu quoi ?
+
+— Tout ce qu'il y avait.
+
+Il avait un sourire fragile. Elle le regarda. Elle comprit qu'il avait peur. Pas de l'accouchement : de quelque chose d'autre, qu'il portait depuis longtemps, comme un homme qui va retirer un sparadrap. Elle posa sa main sur sa joue. Elle dit : « Ça va bien se passer. » Il répondit : « Oui. » Il ferma les yeux contre sa paume. Il ajouta : « Je sais. »
+
+Étienne était arrivé à minuit, en robe de chambre, avec sa mallette et une bouteille thermos. Il avait ausculté Iris, puis soupiré. Il s'était assis au pied du lit. Il avait dit : « On va attendre. » Il avait attendu. Il avait parlé de tout et de rien : de la neige qui tombait, du maire qui avait gagné une vache, de l'époque où l'on accouchait à la maison et où l'on ne s'en portait pas plus mal. Elle avait ri, entre deux contractions. Il lui avait tenu la main.
+
+Vers deux heures, le travail s'était accéléré.
+
+---
 
 Iris avait les eaux perdues depuis la veille. Elle n'avait pas voulu de l'hôpital. Elle avait peur des hôpitaux, des ascenseurs, des couloirs sans fenêtres : elle ne savait pas pourquoi. Étienne l'accoucha. Il était calme. Il dit : « Respire. » Il dit : « Compte, si ça t'aide. »
 

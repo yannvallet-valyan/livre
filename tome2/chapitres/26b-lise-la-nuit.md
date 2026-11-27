@@ -1,4 +1,4 @@
-# Chapitre 26 bis — Lise, la nuit
+# Chapitre 50 — Lise, la nuit
 
 *(premier jet)*
 

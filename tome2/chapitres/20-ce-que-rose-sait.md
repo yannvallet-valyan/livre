@@ -1,4 +1,4 @@
-# Chapitre 20 — Ce que Rose sait
+# Chapitre 38 — Ce que Rose sait
 
 *(premier jet)*
 

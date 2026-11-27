@@ -1,4 +1,4 @@
-# Chapitre 16 bis — Le dîner des Kerr
+# Chapitre 31 — Le dîner des Kerr
 
 *(premier jet)*
 

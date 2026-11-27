@@ -1,4 +1,4 @@
-# Chapitre 13 — Le poêle
+# Chapitre 25 — Le poêle
 
 *(premier jet)*
 

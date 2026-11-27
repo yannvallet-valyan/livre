@@ -1,4 +1,4 @@
-# Chapitre 29 — L'homme en blanc
+# Chapitre 54 — L'homme en blanc
 
 *(premier jet)*
 
