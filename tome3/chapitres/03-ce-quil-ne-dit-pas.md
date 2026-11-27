@@ -34,7 +34,7 @@ L'homme baissa les yeux. Dans ses mains, qu'il avait appris à contrôler en tro
 
 Iris vint le voir le lendemain.
 
-Elle avait vingt et un ans, des cheveux ras qu'elle coupait elle-même avec les ciseaux de la cuisine, de travers, et une façon de se tenir droite qui vous faisait penser qu'on la jugeait. Elle avait de la craie sur les doigts. Elle posa sur la table un bol de lentilles, trop salées, qu'elle avait apporté elle-même, et resta debout.
+Elle avait vingt ans, des cheveux ras qu'elle coupait elle-même avec les ciseaux de la cuisine, de travers, et une façon de se tenir droite qui vous faisait penser qu'on la jugeait. Elle avait de la craie sur les doigts. Elle posa sur la table un bol de lentilles, trop salées, qu'elle avait apporté elle-même, et resta debout.
 
 L'homme la regarda.
 

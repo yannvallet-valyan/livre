@@ -60,7 +60,7 @@ Hélène essuya ses mains sur un torchon. Elle avait les doigts tachés par la c
 
 — Ne retourne pas là-bas. Jamais. Promets-le-moi.
 
-Sophia sentit quelque chose se refermer, très doucement, au fond d'elle. Elle avait déjà entendu cette phrase. Elle l'avait lue dans une lettre de 2009, dans une boîte à chaussures qu'elle n'avait pas emportée. Elle n'y avait jamais répondu. Elle l'avait trahie quand même, cinq mois plus tôt, en signant un contrat de travail pour une vallée dont elle n'aurait jamais dû connaître le nom.
+Sophia sentit quelque chose se refermer, très doucement, au fond d'elle. Elle avait déjà entendu cette phrase. Elle l'avait lue dans une lettre de 2009, dans une boîte à chaussures qu'elle n'avait pas emportée. Elle n'y avait jamais répondu. Elle l'avait trahie quand même, quatre mois plus tôt, en signant un contrat de travail pour une vallée dont elle n'aurait jamais dû connaître le nom.
 
 — Je te le promets, dit-elle.
 

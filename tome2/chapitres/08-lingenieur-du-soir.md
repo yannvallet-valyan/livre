@@ -4,7 +4,7 @@
 
 En août, elle cessa de dormir.
 
-Elle n'en tirait aucune gloire. C'était une nécessité de comptable : il y avait trois mois avant la vanne, soixante-dix nuits à peu près, et chacune comptait. Elle ne pouvait pas se permettre de les passer à rêver. Elle se couchait à neuf heures, à côté de Jean, la main d'Anselme dans la sienne. Elle fermait les yeux, comptait jusqu'à cinquante-neuf. Elle sentait Rose glisser, avec ce soupir d'enfant qui se rend. Puis elle se relevait, sans bruit, et allait voir ce qu'on faisait de la vallée.
+Elle n'en tirait aucune gloire. C'était une nécessité de comptable : il y avait trois mois avant la vanne, soixante-dix nuits à peu près, et chacune comptait. Elle ne pouvait pas se permettre de les passer à rêver. Elle se couchait à neuf heures, la main d'Anselme dans la sienne, pendant que Jean prenait son poste de nuit au chantier. Elle fermait les yeux, comptait jusqu'à cinquante-neuf. Elle sentait Rose glisser, avec ce soupir d'enfant qui se rend. Puis elle se relevait, sans bruit, et allait voir ce qu'on faisait de la vallée.
 
 On la vidait. Il n'y avait pas d'autre mot. On avait détourné la rivière dans un tunnel de béton, et ce qui restait du fond, la glaise grasse des jardins, des prés, de la place de l'église, on le décapait à la pelle mécanique, par bandes, comme on pèle un fruit. La nuit, les camions roulaient avec leurs projecteurs, et la vallée était pleine de lumière jaune, de poussière et de cris de contremaîtres. Les maisons restaient debout, avec leurs volets, leurs numéros peints à la chaux, qu'on abattrait en septembre.
 
@@ -36,7 +36,7 @@ Le jour, quand elle revenait dans son corps pour de bon, elle avait les yeux br�
 
 — Si.
 
-— Tu parles, la nuit. Pas comme avant. Tu parles dans ta gorge.
+— Tu parles, quand je rentre à l'aube. Pas comme avant. Tu parles dans ta gorge.
 
 Elle ne répondit pas. Il sourit, tristement, comme un homme qui connaît d'avance ce qu'il n'obtiendra pas.
 

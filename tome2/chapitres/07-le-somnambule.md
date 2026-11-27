@@ -2,7 +2,7 @@
 
 *(premier jet)*
 
-Étienne Marchal avait parcouru deux cent soixante kilomètres sans le savoir.
+Étienne Marle avait parcouru deux cent soixante kilomètres sans le savoir.
 
 Il l'apprit à l'aube, dans le couloir d'une maternité de Lyon, pieds nus, en pyjama de coton, avec du goudron noir collé entre les orteils et un nouveau-né dans les bras. Il ne le crut pas. Il resta un long moment immobile, les yeux sur les petits poings fermés, sur les paupières qui battaient, sur la bouche minuscule qui cherchait le sein d'un homme. Il pensa : *je rêve.* Puis il sentit la fraîcheur du carrelage sous ses plantes, et il comprit que non.
 

@@ -52,7 +52,7 @@ Il sortit sur le parking à minuit. Le barrage grondait. Au flanc du mur, une pe
 
 *Anselme.*
 
-Il ne pouvait pas l'avoir connu. Il l'avait lu. Il savait que cet homme contenait, au fond, des dizaines de femmes qui avaient brisé le cristal, l'une après l'autre. Il savait qu'il tenait, dans une poche de sa salopette, il y a quarante-six ans, l'aiguille qui avait tout commencé.
+Il ne pouvait pas l'avoir connu. Il l'avait lu. Il savait que cet homme contenait, au fond, des dizaines de femmes qui avaient brisé le cristal, l'une après l'autre. Il savait qu'il tenait, dans une poche de sa salopette, il y a quarante-six ans, l'aiguille de 1980.
 
 Il savait aussi que cet homme n'avait pas de premier tour. Que ses carnets le disaient. Que la boucle n'a pas de début. Qu'on y entre par n'importe quelle porte, et qu'on n'en sort pas.
 
