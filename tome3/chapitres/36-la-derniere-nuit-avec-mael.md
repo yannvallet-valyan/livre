@@ -1,4 +1,4 @@
-# Chapitre 45 — La dernière nuit avec Mael
+# Chapitre 47 — La dernière nuit avec Mael
 
 *(premier jet)*
 

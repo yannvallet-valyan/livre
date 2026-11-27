@@ -1,4 +1,4 @@
-# Chapitre 32 — Ce que dit Mathis
+# Chapitre 33 — Ce que dit Mathis
 
 *(premier jet)*
 

@@ -1,4 +1,4 @@
-# Chapitre 47 — Walther reste
+# Chapitre 49 — Walther reste
 
 *(premier jet)*
 
@@ -42,9 +42,9 @@ Il n'avait pas d'adresse. Il savait seulement que le tampon de la poste portait 
 
 *Tu me demandes de ne pas te pardonner. Je ne te pardonnerai pas. Je n'ai rien à te pardonner. Tu es partie, parce qu'il le fallait. Moi, je suis resté, parce qu'il le fallait aussi. Nous avons fait chacun ce qui nous revenait. C'est cela, la vérité. Ce n'est pas du courage. C'est de la loyauté.*
 
-*Kerr est parti le 9 avril. Il a laissé un caillou à Mael. Il n'a rien laissé à personne d'autre. Il m'a seulement dit, la veille, dans la salle des pompes, une phrase que je ne comprends toujours pas : « Si je pouvais choisir, je te choisirais aussi. » Je ne sais pas ce qu'il voulait dire. Je crois qu'il me répondait.*
+*Kerr est parti le 10 avril. Il a laissé un caillou à Mael. Il n'a rien laissé à personne d'autre. Il m'a seulement dit, deux jours avant, dans la salle des pompes, une phrase que je ne comprends toujours pas : « Si je pouvais choisir, je te choisirais aussi. » Je ne sais pas ce qu'il voulait dire. Je crois qu'il me répondait.*
 
-*Je ne t'ai pas encore dit une chose. Il m'a appelé « papa », un jour de décembre 2162, devant une pompe. Il avait six ans. Il l'a dit sans y penser, comme on dit « merci ». J'ai fait semblant de ne pas avoir entendu. J'ai passé trois nuits à m'en vouloir. J'avais peur que tu l'apprennes et que tu me reproches de l'avoir laissé faire.*
+*Je ne t'ai pas encore dit une chose. Il m'a appelé « papa », un jour de décembre 2162, devant une pompe. Il avait six ans. Il l'a dit sans y penser, comme on dit « merci ». Il l'a redit le 8 avril, exprès, une seule fois, et cette fois je n'ai pas fait semblant de ne pas l'entendre ; je n'ai pas répondu non plus. La première fois, j'ai fait semblant de ne pas avoir entendu. J'ai passé trois nuits à m'en vouloir. J'avais peur que tu l'apprennes et que tu me reproches de l'avoir laissé faire.*
 
 *Tu ne me le reprocheras pas. Je le sais, maintenant. Tu aurais fait pareil.*
 

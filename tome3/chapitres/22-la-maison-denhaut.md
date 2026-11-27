@@ -1,4 +1,4 @@
-# Chapitre 28 — La maison d'en haut
+# Chapitre 29 — La maison d'en haut
 
 *(premier jet)*
 

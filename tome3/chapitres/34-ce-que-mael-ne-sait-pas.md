@@ -1,4 +1,4 @@
-# Chapitre 42 — Ce que Mael ne sait pas
+# Chapitre 43 — Ce que Mael ne sait pas
 
 *(premier jet)*
 
