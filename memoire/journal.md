@@ -22,3 +22,4 @@
 | V3.16 | 2026-11-27 | Ch. 1 (T2) : pronom corrigé ; ch. 10 « La pompe » (20 août 1958 : joint dévissé, manœuvre de Chambéry blessé, visite d'Iris à l'hôpital) |
 | V3.17 | 2026-11-27 | Tome 2 ch. 10b « Le marché » (Odette-Iris du présent : « Je peux sauver votre fils », mensonge ; Iris cesse de saboter ; le pouls d'Odette s'arrête à 59, jamais 60 en 1958) |
 | V3.18 | 2026-11-27 | `memoire/resume.md` ; tome 2 ch. 11 « L'enregistrement » (14 juil. 2040 : Lise enregistre Iris, 13 ans ; son père Antoine Marchand, de Léthé, transmet ; dossier « Phénomène L.-I. », 24 ans) |
+| V3.19 | 2026-11-27 | Tome 2 ch. 12 « La voisine » (9 sept. 1958 : Odette dénonce Rose comme somnambule, Jean s'accuse du sabotage et est arrêté ; Rose écrit « C'EST TOI », Iris répond « Oui. Pardon. ») |
