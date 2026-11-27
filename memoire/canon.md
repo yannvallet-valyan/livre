@@ -78,3 +78,9 @@
 - Rose † octobre 1999 à 67 ans ; épitaphe « Et la maison. » ; en nov. 2026 un visiteur inconnu écrit « Et lui. » à la craie, puis la gravure apparaît. Origine non fixée (candidats : Iris du présent, K., Kerr).
 - Hélène a rencontré Anselme vers 1985-86 (apparition devant la porte du Haut, « la mère d'Anselme »).
 - **Étienne** : grand-père de Sacha sans le savoir ; « Un donneur. Il ne s'en servait plus » ; « Si tu pars, je serai là ».
+
+## Tome 3 : faits fixés à l'écriture (V3.28)
+- **Kerr (tour 1)** reconnaît dès J+12 que l'écriture fine du cahier, la nuit, est celle de **son père** (K.) ; K. lui écrit « Je ne dois pas te parler. Pas encore » ; Kerr répond « Pas encore ». Kerr **ignore encore que K. est aussi son fils** (Sacha) : l'écriture que Sacha a apprise de Théo est celle de Kerr, qui l'a apprise d'Agathe en copiant le père. L'écriture elle-même est la boucle.
+- **Manuel** écrit le 4 oct. 2026 (tour 1), enveloppe « Ce qui efface », retrouvée à Genève 108 ans plus tard (2134). Kerr s'exempte de la fausse règle.
+- **Tour 47** : Kerr écoute Bastien crier depuis 46 tours, s'excuse (« Je vous dois beaucoup de choses »), dit « Bonjour, Bastien ». Il lit chaque matin « Il dort mieux. Bien. »
+- **Refuge** : Sacha dit son nom et tout à Iris en 2152 ; ils s'aiment en 2154 ; elle est enceinte au printemps 2155 (Kerr né 2156) ; Ruben a 37 ans en 2154 et tousse.
