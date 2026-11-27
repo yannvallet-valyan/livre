@@ -1,25 +1,7 @@
 # Fils ouverts et chantiers
 
-## Tome 1 : incohérences relevées, non encore corrigées (relecture V3.2)
-| # | Fichier | Problème | Correction proposée |
-|---|---|---|---|
-| 1 | 39 | « Papa dit que tu étais la seule à l'avoir vu » : Iris a grandi sans son père | « Ruben dit… Tu le lui as dit, le matin, avant de partir. Tu pleurais. » |
-| 2 | 39 | « Elle n'écrivit rien » ; or `40` cite la page de la nuit (piézomètres, anniversaire) | « Elle écrivit seulement, pour Sophia, ce que Ménard devait voir le lendemain : le P7, l'heure, le chiffre. » |
-| 3 | 43 | Eau qui chauffe « pour la première fois en 46 ans pour quelqu'un qui était là » (faux : `31`, `40`) | « …la première fois que son père, lui, demandait. » |
-| 4 | 24 | Étienne « les pieds en sang » fin octobre (il se blesse le 8 nov.) | « les paumes écorchées » |
-| 5 | 20 | Élodie Matras, maîtresse, « 19 oct. » (vacances) | « 16 oct. » |
-| 6 | 21 | « Elle perd ses clés, maman » | Remettre « Elle oublie des trucs, maman, en ce moment » |
-| 7 | 18 | « J + 32 » + lampe « le soir même » (descente la nuit du 18 au 19) | « J + 33 » |
-| 8 | 12 | « sans lune » (nuit du 4 oct., dernier quartier) | « La lune, à son dernier quartier, n'avait pas encore passé la crête » |
-| 9 | 29 | Le bocal révélé par le narrateur avant Kerr | « après l'analyse d'un échantillon que Kerr avait apporté lui-même, sans dire d'où il venait » |
-| 10 | 20 | Avis de décès collé le soir même | « Deux jours plus tard » |
-| 11 | 20 | Élise : « cet après-midi » (baiser au coucher du soleil) | « ce soir » |
-| 12 | 09 | « Le quatrième soir » (sans repère) | « Le vendredi soir » |
-| 13 | 00 | « Sans savoir pourquoi non plus » | « Sans savoir pourquoi » |
-| 14 | 03 | Séparateur `---` en double | Supprimer |
-| 15 | 06 | « celle d'un enfant qui recopie » | « d'une enfant » |
-| 16 | 13 | Kerr à Lyon toute la journée, vu le soir sur la grève | « rentré de Lyon » |
-| 17 | bible | `chronologie.md` §3 « Le refuge date de 2137 » | Corriger (le refuge existe depuis au moins 2057) |
+## Tome 1 : incohérences
+Les 17 incohérences de la relecture V3.2 sont **corrigées en V3.4** (voir `journal.md`). Aucune connue à ce jour.
 
 ## Tome 1 : fils non noués (améliorations proposées)
 - Étienne n'apprend jamais qui est Noé (`33` : « Elle le lui dirait plus tard ») → une phrase dans `43` ou `44`.

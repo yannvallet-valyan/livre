@@ -83,8 +83,6 @@ Puis elle se leva, et ne se retourna pas, parce qu'elle avait peur qu'un second 
 
 ---
 
----
-
 Le dernier matin, elle ouvrit le registre rouge.
 
 C'était un cahier d'écolier à la couverture fanée, dont son père avait recopié les premières pages d'une écriture de réparateur de lampes, carrée, sans fioritures. Des noms, des dates, des flèches. *Sophia VARENNE, née en 1988. Anne VARENNE, née le 3 août 2027 à Lyon, de Sophia Varenne et de père non dénommé. Jeanne…* Plus bas, la main changeait : c'était celle de Paul, puis celle d'Élise, à dix ans, qui avait recopié tout le cahier pour apprendre.

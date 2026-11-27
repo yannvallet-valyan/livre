@@ -26,7 +26,7 @@ Sophia ne savait pas quoi faire de ses mains. Elle les posa à plat sur ses cuis
 
 — Mathis, est-ce que tu as parlé de ça à quelqu'un ?
 
-— À maman. Elle a dit que j'avais trop d'imagination. Elle perd ses clés, maman, en ce moment.
+— À maman. Elle a dit que j'avais trop d'imagination. Elle oublie des trucs, maman, en ce moment.
 
 — Je sais.
 

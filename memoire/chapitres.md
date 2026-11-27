@@ -22,7 +22,7 @@
 | 15 Les lentilles (13) | 1401 | nuit 16 oct. | Élise | 1re règle brisée (la maison), lentilles trop salées, larmes, registre révélé, danger pour Anne, règles d'archivistes, recette |
 | 16 Interlude Ruben | 865 | 2137 | Ruben | S'assoit près d'Iris, compte jusqu'à 59, écrit *Noé.* et *Pas encore revenue.* |
 | 17 La galerie (14) | 1378 | 19 oct., 2 h | Élise | Lampe sur la marche, brèche, veines, la paroi vide Élise (perd un détail), Sacha la tient (« ses mains pleines de craie »), Anselme : « Tu es en avance, cette fois » / « Toujours toi » |
-| 18 Interlude Kerr | 857 | mi-oct. | Kerr | Bac 7, Théo, objets perdus, cahier noir (*Tour 47. J+32*, « Chaque tour recouvre le précédent »), « Dormez », K. pose la lampe |
+| 18 Interlude Kerr | 857 | mi-oct. | Kerr | Bac 7, Théo, objets perdus, cahier noir (*Tour 47. J+33*, « Chaque tour recouvre le précédent »), « Dormez », K. pose la lampe |
 | 19 Le cahier noir (15) | 1372 | ~22 oct. | Élise | Volontaires (Martine), aiguilles qui s'inclinent vers le dormeur, J+37, « la pomme », K. (« Le temps qu'il reste », « Je n'interviens pas ») |
 | 20 Le nom du chien (16) | 1486 | 24-25 oct. | Sophia | Biscotte, « Janvier 2027 / on était le 24 octobre », liste d'Étienne, le baiser, « Moi aussi, je » barré, Martine morte (poudre rouge) |
 | 21 Mathis (17) | 1733 | 26-27 oct. | Sophia | Mathis (vacances) : deux dames, craie, caillou ; « dans ton papa il y en a plein » ; grève, carte de Marseille ; le soir la cabine : dessins, « Élise », photo non collée |
@@ -43,7 +43,7 @@
 | 36 Huit ans (31) | 1533 | nuit 9-10 nov. | Élise/Noé | « 34 nuits de mensonge », la rencontre (erreur de date), la naissance d'Iris (coupure), l'oubli, le tour brisé (« il aurait été à qui ? »), le visage d'Élise, « Leur laisser la place » |
 | 37 Trois portes (32) | 1688 | 8-12 nov. | Élise/Sophia | Cimetière (« c'est moi »), trois portes (briser / rentrer / rester), « Est-ce que tu veux bien de moi ? », « Oui. Et Noé ? Et Iris ? », mots de Noé et d'Étienne, Noé reste |
 | 38 Ce que je ne pouvais pas te dire (33) | 1484 | 10-12 nov. | Sophia | « Tu auras une fille », Étienne pleure, Sophia offre la dernière nuit, « Oui » d'Élise |
-| 39 Le mur (34) | 1091 | nuit 12-13 nov. | Élise | Le 60e coup, Iris dans Mathis, « Papa dit que tu étais la seule » (⚠ à corriger, voir `fils-ouverts.md`), le grain de beauté rendu |
+| 39 Le mur (34) | 1091 | nuit 12-13 nov. | Élise | Le 60e coup, Iris dans Mathis, « Ruben dit que tu étais la seule à l'avoir vu », le grain de beauté rendu |
 | 40 Le 13 novembre (35) | 2077 | 12-13 nov. | Sophia | 38 ans, mouche rouge, P7 3,2 bars, Kerr (« Dormez bien… Vraiment »), « la visite » du soleil, lettre d'Étienne, plans de 1958, thé d'Hélène, dernière soirée, compte |
 | 41 Interlude Iris | 1531 | 2026 (vient de 2164) | Iris | Sa vie (Ruben, l'homme revenu d'entre les rouillés, fils de 8 ans), le mur, la fenêtre, le 60e |
 | 42 La dernière nuit (36) | 2228 | nuit 13-14 nov. | Élise | Lettres, consignes (« Pas un grain »), 32 pages, page blanche, lentilles, Orion, « Ni l'un ni l'autre ne compta les jours », étoiles nommées, « Ils franchirent le mètre », 59 |

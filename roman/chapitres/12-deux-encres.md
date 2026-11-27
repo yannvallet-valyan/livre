@@ -124,7 +124,7 @@ D'un côté, le vide : cent mètres de mur courbe, la rivière tout en bas qui b
 
 Au-dessus, le ciel. Élise s'arrêta au milieu du barrage et leva la tête.
 
-Elle ne s'y habituait pas. Elle ne s'y habituerait jamais. Le ciel de Vallorce, sans lune, était si chargé d'étoiles qu'il en paraissait sale, comme une vitre poussiéreuse traversée par un soleil. Elle chercha Orion sur le papier découpé de Sophia, qu'elle avait glissé dans sa poche. Elle le trouva, ce chasseur aux trois étoiles alignées sur la ceinture, et elle eut envie de pleurer pour la centième fois depuis qu'elle était arrivée.
+Elle ne s'y habituait pas. Elle ne s'y habituerait jamais. Le ciel de Vallorce, où la lune à son dernier quartier n'avait pas encore passé la crête, était si chargé d'étoiles qu'il en paraissait sale, comme une vitre poussiéreuse traversée par un soleil. Elle chercha Orion sur le papier découpé de Sophia, qu'elle avait glissé dans sa poche. Elle le trouva, ce chasseur aux trois étoiles alignées sur la ceinture, et elle eut envie de pleurer pour la centième fois depuis qu'elle était arrivée.
 
 Elle ne remarqua l'homme qu'en baissant les yeux.
 

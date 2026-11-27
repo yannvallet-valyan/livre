@@ -6,7 +6,7 @@ La veille de la dernière nuit, Élise ne sortit pas.
 
 Noé ne l'attendait pas sur le barrage : ils en étaient convenus, pour une fois. Il voulait passer cette nuit-là dans la chambre d'amis d'Étienne, assis à côté d'un lit vide, à regarder la place où Hugo avait dormi avant qu'on le renvoie à Grenoble. Elle voulait passer la sienne dans la maison de Sophia, à faire l'inventaire de ce qu'elle allait écrire.
 
-Elle n'écrivit rien. Elle s'allongea sur le lit, dans le noir, et attendit les coups.
+Elle écrivit seulement, pour Sophia, ce que Ménard devait voir le lendemain : le P7, l'heure, le chiffre. Puis elle s'allongea sur le lit, dans le noir, et attendit les coups.
 
 Ils vinrent à trois heures, comme toujours.
 
@@ -104,7 +104,7 @@ Il y eut un long silence. Dehors, le ciel commençait à grisailler. On entendai
 
 — Quoi ?
 
-— Au coin de la paupière gauche. Minuscule. Il faut regarder de très près, très longtemps. Papa dit que tu étais la seule à l'avoir vu. Tu l'avais vu la dernière nuit, en me regardant dormir. Tu l'as raconté à papa, le matin, avant de partir. Tu pleurais.
+— Au coin de la paupière gauche. Minuscule. Il faut regarder de très près, très longtemps. Ruben dit que tu étais la seule à l'avoir vu. Tu l'avais vu la dernière nuit, en me regardant dormir. Tu le lui as raconté, le matin, avant de partir. Tu pleurais.
 
 Le visage revint d'un coup. Pas morceau par morceau : d'un seul coup, entier, comme une lampe qu'on allume. Le front trop grand, les sourcils droits, le creux au menton, la tache de craie sur la narine. Et, au coin de l'œil gauche, le point minuscule que le cristal lui avait pris. Élise le tint. Elle le serra contre elle comme on serre un enfant qui tombe.
 

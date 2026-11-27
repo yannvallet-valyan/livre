@@ -197,7 +197,7 @@ Il mit de l'eau à chauffer. Cette fois, il demanda :
 
 — Thé ou café ?
 
-Sophia faillit pleurer, pour une raison si bête qu'elle ne la dit jamais à personne : c'était la première fois, en quarante-six ans, que l'eau de cette cabine chauffait pour quelqu'un qui était là.
+Sophia faillit pleurer, pour une raison si bête qu'elle ne la dit jamais à personne : c'était la première fois, en quarante-six ans, que son père, lui, demandait.
 
 ---
 

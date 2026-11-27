@@ -47,7 +47,7 @@ Jours de semaine vérifiés contre le calendrier réel. Lune 2026 : nuit 4-5 oct
 | mer. 7 / jeu. 8 | Sophia entre dans la salle de culture (code 1411) ; café avec Étienne | 13 |
 | 11 / 15 / 16 oct. | Oublis : Martine Pradel ; J.-L. Ferrand ; Élodie Matras | 20 |
 | ven. 16 oct. | Nuit froide : cuisine d'Étienne, lentilles, règles d'archivistes | 15 |
-| 17-18 oct. | Kerr trouve le cahier noir (J+32) ; K. pose la lampe | 18 |
+| dim. 18 oct. | Kerr trouve le cahier noir (J+33) ; la nuit suivante, K. pose la lampe | 18 |
 | **lun. 19 oct., 2 h** | Galerie : Élise perd un détail d'Iris ; Anselme « en avance, cette fois » | 17, 29 |
 | ~jeu. 22 oct. | Élise rencontre K. au labo (J+37) ; Martine vivante | 19 |
 | **sam. 24 oct.** | Corinne oublie Biscotte ; liste d'Étienne ; **le baiser** | 20 |

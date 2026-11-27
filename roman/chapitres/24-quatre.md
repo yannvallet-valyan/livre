@@ -64,7 +64,7 @@ Il se tut. Sophia ne bougeait plus.
 
 Ils se disputèrent. Ce fut leur première dispute, et elle fut laide, à voix basse, dans un café où tout le monde les connaissait.
 
-Elle lui demanda s'il l'aimait, elle, ou s'il aimait ce qu'il restait de l'autre dans son corps à elle, le matin. Il lui demanda si elle était jalouse de quelqu'un qui n'existait pas encore. Elle lui dit que l'autre existait plus que lui, puisqu'elle écrivait, puisqu'elle pleurait, puisqu'elle mangeait des lentilles dans sa cuisine à lui pendant qu'il dormait. Il lui dit que lui non plus n'avait rien demandé. Qu'on lui volait ses nuits depuis deux mois, à lui aussi. Qu'il se réveillait avec les pieds en sang et des recettes dans les poches de quelqu'un d'autre.
+Elle lui demanda s'il l'aimait, elle, ou s'il aimait ce qu'il restait de l'autre dans son corps à elle, le matin. Il lui demanda si elle était jalouse de quelqu'un qui n'existait pas encore. Elle lui dit que l'autre existait plus que lui, puisqu'elle écrivait, puisqu'elle pleurait, puisqu'elle mangeait des lentilles dans sa cuisine à lui pendant qu'il dormait. Il lui dit que lui non plus n'avait rien demandé. Qu'on lui volait ses nuits depuis deux mois, à lui aussi. Qu'il se réveillait avec les paumes écorchées et des recettes dans les poches de quelqu'un d'autre.
 
 Elle se leva. Elle laissa un billet de dix euros sur la table, trop, beaucoup trop, et sortit sans son écharpe.
 
