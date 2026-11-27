@@ -14,7 +14,7 @@ Il tourna le feuillet.
 
 *Déposition de Mme GIRARD, Odette, boulangère. Déclare avoir vu, à plusieurs reprises, depuis juillet, la voisine, ROCH, Rose, 26 ans, épouse du précédent, sortir de son domicile entre trois et cinq heures du matin, pieds nus, les yeux ouverts, sans répondre quand on l'interpelle. Pense à un état de somnambulisme. Craint pour sa sécurité.*
 
-Il resta longtemps immobile.
+Il resta immobile.
 
 ---
 
@@ -36,7 +36,7 @@ Il n'avait pas pensé autre chose. Il n'avait pas osé. Il était protestant, fi
 
 *Pardon, Rose.*
 
-Il savait que le lac recouvrirait sa maison. Il savait qu'il avait dessiné lui-même la courbe qui la noierait. Il savait aussi qu'il n'y changerait rien, que personne n'y changerait rien, qu'on n'arrête pas un barrage comme on arrête un cheval. Il y avait, entre ces deux évidences, un espace où un homme honnête peut vivre longtemps, s'il apprend à ne pas y regarder.
+Il savait que le lac recouvrirait sa maison. Il savait qu'il avait dessiné lui-même la courbe qui la noierait. Il savait aussi qu'il n'y changerait rien, que personne n'y changerait rien, qu'on n'arrête pas un barrage comme on arrête un cheval. Il y avait, entre ces deux évidences, un espace où un homme honnête peut vivre, s'il apprend à ne pas y regarder.
 
 Il regarda.
 
@@ -52,7 +52,7 @@ Il y avait dans la fonte un reste de braises, d'un orange mourant. Il y glissa l
 
 Il regarda brûler la phrase *Craint pour sa sécurité.* Elle brûla la dernière.
 
-Il pensa : *je viens de commettre un délit.*
+*Je viens de commettre un délit.*
 
 Il pensa aussi, avec une honnêteté qui le surprit lui-même, qu'il n'en éprouvait aucune honte. Il y avait même dans sa poitrine, très bas, un petit contentement, un peu sale, qu'il connaissait pour l'avoir ressenti enfant, le jour où il avait volé des cerises : le plaisir d'avoir sauvé quelqu'un sans que personne ne le sache.
 

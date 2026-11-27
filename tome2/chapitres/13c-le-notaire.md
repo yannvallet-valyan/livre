@@ -104,4 +104,4 @@ Elle ne dit rien. Jean, à côté d'elle, la main sur son bras, regardait par la
 
 Il prit le panier. Il le serra contre lui, dans ses deux mains, avec un air d'extrême perplexité. Il baissa la tête. Il dit « merci » en allemand, très bas. Elle ne le comprit pas.
 
-Elle s'éloigna. Elle ne se retourna pas. Mais elle crut, tout au long du chemin du retour, sentir derrière elle, comme une chaleur dans le dos, le regard d'un homme qui tenait un panier d'œufs comme on tient un cierge.
+Elle s'éloigna. Elle ne se retourna pas. Mais elle crut, tout au long du chemin du retour, sentir derrière elle, comme une chaleur dans le dos, le regard d'un homme qui tenait un panier d'œufs.

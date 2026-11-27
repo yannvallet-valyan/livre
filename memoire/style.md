@@ -45,3 +45,8 @@ Commande de recomptage : voir `../CLAUDE.md`.
 - Le mètre entre Élise et Noé ; « deux battements de cœur ».
 - « Très près, très longtemps » (grain de beauté).
 - L'homme qui pleure à la porte.
+
+## Passe de style tome 2 (V3.44)
+- Compteurs (tome 1 / tome 2 après passe) : « elle comprit » 12 / 12 ; « elle sut » 10 / 9 ; « longtemps » 39 / 28 ; « comme on » 58 / 42 ; « quelque chose » 57 / 72 ; « il y avait » 94 / ~140 ; « elle resta » 25 / ~60 (à retravailler).
+- Règles pour la suite : au plus un « elle comprit / sut » par chapitre ; montrer l'émotion par un geste, pas par une phrase explicative ; pas de comparaison « comme on… » en fin de phrase si elle n'ajoute rien ; garder les motifs (59, mains à plat, compte, lampe, table pour cinq, craie, caillou).
+- Voix : Rose sèche, concrète, phrases courtes, proverbes de ménage ; Jean presque muet ; Étienne ironique et pudique ; Iris âpre, directe.

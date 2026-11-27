@@ -80,7 +80,7 @@ Elle dit « plus tard » comme on dit « ici ». Iris la regarda. Elle ne voyait
 
 — Pourquoi vous ?
 
-Odette tourna enfin la tête. Elle avait, dans la lueur de la lune, une expression qu'Iris ne sut pas lire. Ni triomphe, ni pitié : une fatigue très ancienne, une patience de bête qui a longtemps attendu.
+Odette tourna enfin la tête. Elle avait, dans la lueur de la lune, une expression qu'Iris ne sut pas lire. Ni triomphe, ni pitié : une fatigue très ancienne, une patience de bête qui a attendu.
 
 — Parce que je suis la seule qui sache quoi faire, dit-elle. Et parce que vous n'avez personne d'autre.
 
@@ -106,7 +106,7 @@ Odette ne répondit pas tout de suite. Elle retira sa main de l'eau, la secoua, 
 
 — Revenir.
 
-Iris attendit. Elle attendit longtemps. L'autre regardait l'eau.
+Iris attendit. Elle attendit. L'autre regardait l'eau.
 
 — Je ne peux pas vous en dire plus. Si je vous le dis, ça n'arrive pas. Si ça n'arrive pas, vous ne l'aurez pas. Je suis désolée. C'est une chose qu'on apprend : on ne peut pas tout dire à ceux qu'on veut sauver.
 
@@ -120,7 +120,7 @@ Iris attendit. Elle attendit longtemps. L'autre regardait l'eau.
 
 Iris la regarda. Elle voulut chercher dans ce visage un signe, un mensonge, un tic. Elle n'y trouva rien. Elle y trouva, au contraire, une profondeur terrible, de fatigue et de tendresse mêlées, qu'elle n'avait pas vue chez une femme de vingt-huit ans.
 
-Elle comprit qu'elle voulait la croire. Elle comprit qu'il n'y avait rien de plus dangereux.
+Elle voulait la croire. Il n'y avait rien de plus dangereux.
 
 ---
 
@@ -150,4 +150,4 @@ Elle se leva. Elle remit ses chaussures. Elle ne dit pas à quelle heure on se r
 
 — Dors, maintenant.
 
-Iris resta longtemps assise. Puis elle rentra. Elle se coucha. Pour la première fois depuis juin, elle s'endormit avant les cinquante-neuf.
+Iris resta assise. Puis elle rentra. Elle se coucha. Pour la première fois depuis juin, elle s'endormit avant les cinquante-neuf.

@@ -66,13 +66,13 @@ Iris enterra sa mère au cimetière de la Croix-Rousse, sous une petite dalle sa
 
 Le soir, dans l'appartement vide, Iris ouvrit le tiroir de la cuisine. La lettre était là, sous un paquet de ficelle. Une enveloppe blanche, jaunie, fermée à la colle. Une adresse, de l'encre bleue de sa mère : *Docteur Étienne Marle, place de l'église, Vallorce.*
 
-Elle la tint longtemps sans l'ouvrir. Elle connaissait ce nom, sans savoir pourquoi : il lui venait comme les mots qu'on sait avant de les avoir appris. Elle déchira l'enveloppe.
+Elle la tint sans l'ouvrir. Elle connaissait ce nom, sans savoir pourquoi : il lui venait comme les mots qu'on sait avant de les avoir appris. Elle déchira l'enveloppe.
 
 *Pardon de ne pas t'avoir attendu. Je ne sais pas ce qui s'est passé. Ne me cherche pas.*
 
 Une seule page. Une écriture serrée, penchée, qui s'arrêtait là. En bas, une date, dix-neuf ans plus tôt : *novembre 2026.*
 
-Elle comprit qu'il y avait eu un homme. Elle comprit que cet homme existait peut-être encore, qu'il avait peut-être cherché, qu'il n'avait jamais reçu la page. Elle comprit aussi, avec cette lucidité des orphelines, qu'elle n'avait plus aucune raison de ne pas tenir sa vieille promesse, ni de la trahir.
+Il y avait eu un homme. Cet homme existait peut-être encore, il avait peut-être cherché, il n'avait jamais reçu la page. Elle n'avait plus aucune raison de ne pas tenir sa vieille promesse, ni de la trahir.
 
 Elle fit sa valise le lendemain. Elle emporta la lettre, le dessin de la femme aux cheveux courts, une fiole vide, et un morceau de craie.
 

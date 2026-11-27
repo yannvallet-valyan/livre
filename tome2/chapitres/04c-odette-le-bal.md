@@ -10,7 +10,7 @@ Elle le savait depuis qu'elle était arrivée, au printemps, dans le corps de ce
 
 Elle regarda la place. Les frères Peyret jouaient une valse. Le père Combe et Madame Pellissier tournaient lentement, comme deux vieux arbres, dans la lumière jaune. Les enfants couraient entre les tables. Un petit garçon de deux ans, en chemise blanche, dormait sur un banc, contre le mur de l'église, la tête sur une veste d'homme.
 
-Elle le regarda longtemps. Elle ne bougea pas.
+Elle le regarda. Elle ne bougea pas.
 
 ---
 
@@ -22,7 +22,7 @@ Elle n'avait pas prévu cela : la joie de Rose.
 
 Elle la voyait, de loin, danser avec son mari, les joues rouges, les tresses enroulées en couronne, ses boucles d'oreilles de verre qui tremblaient à ses lobes. Elle riait. Elle riait vraiment, de tout son corps, d'un rire qui lui venait du ventre. Elle avait, pour la première fois depuis juin, l'air d'une femme de vingt-six ans.
 
-Odette sentit quelque chose lui serrer la gorge. Elle but une gorgée de vin. Elle pensa : *elle ne sait pas.* Elle pensa : *celle qui est dedans ne l'empêche pas.* Elle pensa que ce bonheur, ce soir, était le seul qu'on lui eût jamais donné sans condition, et que l'autre, celle qui veillait au fond de cette femme, le sentait aussi. Elle sentit qu'elle les enviait toutes les deux.
+Odette eut la gorge serrée. Elle but une gorgée de vin. Elle pensa : *elle ne sait pas.* Elle pensa : *celle qui est dedans ne l'empêche pas.* Elle pensa que ce bonheur, ce soir, était le seul qu'on lui eût jamais donné sans condition, et que l'autre, celle qui veillait au fond de cette femme, le sentait aussi. Elle sentit qu'elle les enviait toutes les deux.
 
 Elle ne le dirait jamais.
 
@@ -52,7 +52,7 @@ Elle tendit la main. Elle passa un doigt, très légèrement, sur le front de l'
 
 — Parce que c'est le dernier.
 
-Odette resta sans voix. Elle regarda Rose, qui avait dit cela d'un ton léger, sans y penser. Elle sentit quelque chose se fendre en elle, une glace très fine. Elle eut envie de lui prendre les mains, de lui dire : *oui, c'est le dernier, mais il y en aura d'autres, pas ici, pas pour toi, mais pour ceux qui viendront.* Elle n'en fit rien. Elle dit : « Je sais. »
+Odette resta sans voix. Elle regarda Rose, qui avait dit cela d'un ton léger, sans y penser. Quelque chose en elle craqua, comme une glace très fine. Elle eut envie de lui prendre les mains, de lui dire : *oui, c'est le dernier, mais il y en aura d'autres, pas ici, pas pour toi, mais pour ceux qui viendront.* Elle n'en fit rien. Elle dit : « Je sais. »
 
 Elle partit. Elle ne se retourna pas.
 

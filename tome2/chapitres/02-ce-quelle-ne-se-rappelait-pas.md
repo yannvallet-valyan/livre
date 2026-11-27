@@ -16,13 +16,13 @@ C'était tout. Elle n'avait rien de plus. Elle avait cherché, trois jours, avec
 
 Elle ne reprochait rien à Étienne. C'était cela, le pire. Il avait dormi à côté d'elle, le visage tourné, un bras sous la nuque, avec ce léger sifflement qu'il avait en dormant, et elle avait compris, à le regarder, qu'il ne savait pas non plus. Qu'il s'était réveillé en même temps qu'elle, avec la même stupeur, la même honte de ne pas savoir de quoi. Ils s'étaient regardés une seconde, comme deux inconnus dans un train. Il avait dit : « Sophia. » Elle avait dit : « Je ne… » Il avait dit : « Moi non plus. »
 
-Elle s'habilla sans allumer. Dans l'entrée, le téléphone clignotait. Étienne l'avait appelée quarante et une fois depuis le dimanche. Elle avait écouté les trois premiers messages. Elle n'avait pas pu écouter le quatrième : il disait seulement son prénom, et un silence derrière, comme on laisse une porte ouverte.
+Elle s'habilla sans allumer. Dans l'entrée, le téléphone clignotait. Étienne l'avait appelée quarante et une fois depuis le dimanche. Elle avait écouté les trois premiers messages. Elle n'avait pas pu écouter le quatrième : il disait seulement son prénom, et un silence derrière.
 
 ---
 
 Elle avait passé le week-end à se convaincre qu'elle n'était pas malade.
 
-Le samedi, elle était allée au labo comme à l'habitude. Elle avait relevé la jauge, vérifié les piézomètres, rempli le formulaire. Elle avait salué Kerr dans le couloir, et il lui avait répondu avec la politesse de toujours, ce sourire lisse qu'elle trouvait si commode. Elle avait senti, en passant devant lui, quelque chose de très ancien se contracter dans sa poitrine, comme un réflexe d'animal.
+Le samedi, elle était allée au labo comme à l'habitude. Elle avait relevé la jauge, vérifié les piézomètres, rempli le formulaire. Elle avait salué Kerr dans le couloir, et il lui avait répondu avec la politesse de toujours, ce sourire lisse qu'elle trouvait si commode. Elle avait senti, en passant devant lui, sa poitrine se contracter, d'un réflexe d'animal.
 
 Elle avait déjeuné seule, au café de la place. Elle avait mal à la tête. Elle avait mangé la moitié d'une omelette, et laissé le reste, ce qui ne lui arrivait jamais. Le serveur lui avait demandé si tout allait bien. Elle avait répondu : « Oui, très bien. » C'était la phrase qu'elle disait le plus. Elle l'avait dite à dix-huit ans, devant le cercueil d'une tante ; à trente ans, à la sortie d'un tribunal ; à trente-sept ans, devant un homme qui l'embrassait pour la première fois et qui lui demandait si elle voulait bien.
 
@@ -46,13 +46,13 @@ Le soir, elle avait compris qu'elle partirait.
 
 ---
 
-Elle laissa sur la table le carnet gris, les deux stylos, sa carte de lecteur de la bibliothèque municipale. Elle laissa la clé sous le paillasson, comme on le fait pour quelqu'un qui doit revenir, puis la reprit, la remit dans sa poche, et la jeta dans le caniveau au bout de la rue des Fontaines.
+Elle laissa sur la table le carnet gris, les deux stylos, sa carte de lecteur de la bibliothèque municipale. Elle laissa la clé sous le paillasson,, puis la reprit, la remit dans sa poche, et la jeta dans le caniveau au bout de la rue des Fontaines.
 
 La voiture démarra du premier coup. Elle prit la route du tunnel sans regarder le barrage. Dans le rétroviseur, la petite cabine était allumée, comme chaque matin, et dans la fenêtre une silhouette immobile, droite, qui la regardait partir. Elle ne leva pas la main.
 
 À la sortie de la vallée, elle croisa une camionnette de la poste qui montait. Le conducteur la salua. Elle ne rendit pas le salut. Elle roulait trop vite, les mains crispées sur le volant, les yeux sur la ligne, avec ce calme exagéré des gens qui se disent qu'il suffit de ne pas penser. Elle écoutait la radio, sans l'entendre. Une voix parlait de météo, d'un front froid sur les Alpes, d'une première neige attendue au-dessus de mille huit cents mètres. Elle pensa à la cote du lac. Elle pensa : *409,52.* Elle pensa que, dans six jours, on aurait baissé le niveau de trente centimètres de plus, et qu'elle ne serait pas là pour le noter.
 
-À quarante kilomètres, sur une aire d'autoroute déserte, elle s'arrêta, ouvrit la portière, et vomit dans l'herbe humide, longtemps, jusqu'à ce que son corps cesse de lui demander des comptes. Elle s'essuya la bouche. Elle resta penchée un moment, une main sur le ventre. Elle la retira très vite, comme on retire la main d'une plaque chauffante, sans savoir pourquoi.
+À quarante kilomètres, sur une aire d'autoroute déserte, elle s'arrêta, ouvrit la portière, et vomit dans l'herbe humide, jusqu'à ce que son corps cesse de lui demander des comptes. Elle s'essuya la bouche. Elle resta penchée un moment, une main sur le ventre. Elle la retira très vite, sans savoir pourquoi.
 
 Elle se redressa. Elle se dit que c'était la fatigue, la peur, le café du matin, tout ce qu'une hydrologue peut se dire pour ne pas lire la courbe.
 

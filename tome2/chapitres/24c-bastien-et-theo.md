@@ -1,4 +1,4 @@
-# Chapitre 49 — Bastien et Théo
+# Chapitre 48 — Bastien et Théo
 
 *(premier jet)*
 
@@ -12,7 +12,7 @@ Il frappa trois coups à la porte de la cabane. Théo ouvrit. Il ne montra aucun
 
 — Bien sûr.
 
-Il s'effaça. Le vieil homme s'avança lentement, sans lâcher sa canne. Il s'arrêta au milieu de la pièce. Il regarda les étagères, les cahiers noirs alignés, le poêle, la lampe à pétrole, le lit de camp. Il regarda longtemps le calendrier, sur lequel aucune date n'était barrée. Il dit :
+Il s'effaça. Le vieil homme s'avança lentement, sans lâcher sa canne. Il s'arrêta au milieu de la pièce. Il regarda les étagères, les cahiers noirs alignés, le poêle, la lampe à pétrole, le lit de camp. Il regarda le calendrier, sur lequel aucune date n'était barrée. Il dit :
 
 — C'est propre.
 
@@ -34,7 +34,7 @@ Bastien eut un petit rire, qui se termina en toux.
 
 — C'est ce que je disais à mon fils, quand il avait cinq ans. « Dis-le comme ça vient. » Il me répondait toujours : « Je ne sais pas, papa. »
 
-Il leva les yeux. Il regarda Théo, longtemps, avec cette attention fixe qu'ont les très vieux, qui ne se soucient plus de politesse.
+Il leva les yeux. Il regarda Théo, avec cette attention fixe qu'ont les très vieux, qui ne se soucient plus de politesse.
 
 — Tu n'es pas mon fils, dit-il.
 
@@ -62,7 +62,7 @@ Il fit un geste vague de la main.
 
 Il se tut. Il avait les larmes aux yeux. Il les laissa couler, sans honte, le long de ses joues creuses.
 
-— Je ne sais pas qui tu es, dit-il. Je sais que tu m'appelles « père » avec une tendresse que ni l'un ni l'autre n'avons méritée. Je sais que tu as gardé mon fils vivant, d'une certaine façon. Je sais que tu es gentil avec Madame Aubert. Je sais que tu m'as visité, il y a longtemps, la nuit, et que tu m'as laissé dormir. Je ne sais pas si je dois te remercier ou te maudire.
+— Je ne sais pas qui tu es, dit-il. Je sais que tu m'appelles « père » avec une tendresse que ni l'un ni l'autre n'avons méritée. Je sais que tu as gardé mon fils vivant, d'une certaine façon. Je sais que tu es gentil avec Madame Aubert. Je sais que tu m'as visité, il y a, la nuit, et que tu m'as laissé dormir. Je ne sais pas si je dois te remercier ou te maudire.
 
 ---
 

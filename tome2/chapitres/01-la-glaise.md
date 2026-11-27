@@ -6,7 +6,7 @@ L'odeur vint avant tout le reste. De la lessive à la cendre, un fond de lait to
 
 Elle ne bougea pas. *Compte.*
 
-Elle avait traversé quelque chose. Elle ne savait pas quoi. Elle se rappelait une cuisine, une lampe, une main d'homme âgé sur la sienne, un front brûlant sous un petit éclat rouge. Elle se rappelait être descendue, comme on descend dans un puits sans échelle, à travers des couches de sommeil de plus en plus épaisses, des voix de femmes qu'elle n'avait jamais entendues et qui l'appelaient par son nom, des nuits qui se superposaient comme des draps étendus, jusqu'à ce que plus rien ne lui appartienne, sinon une phrase, apprise par cœur, recopiée trois fois à l'encre pour la tenir. *À soixante, le corps comprend que tu restes.*
+Elle avait traversé quelque chose. Elle ne savait pas quoi. Elle se rappelait une cuisine, une lampe, une main d'homme âgé sur la sienne, un front brûlant sous un petit éclat rouge. Elle se rappelait être descendue,, à travers des couches de sommeil de plus en plus épaisses, des voix de femmes qu'elle n'avait jamais entendues et qui l'appelaient par son nom, des nuits qui se superposaient comme des draps étendus, jusqu'à ce que plus rien ne lui appartienne, sinon une phrase, apprise par cœur, recopiée trois fois à l'encre pour la tenir. *À soixante, le corps comprend que tu restes.*
 
 Elle ne se rappelait plus de qui était l'écriture.
 
@@ -34,13 +34,13 @@ Elle voulut dire le nom de son fils, pour l'avoir à voix haute, pour s'accroche
 
 Cinquante-huit. Cinquante-neuf.
 
-Elle s'arrêta là. Elle ne savait pas pourquoi : ce chiffre-là, elle ne pouvait pas le dire. Le corps ne se débattit pas. Elle ne sut jamais si elle avait gagné ou si on l'avait laissée faire. Quelque chose, au fond d'elle, très bas, se détendit, comme une porte qui cesse de résister parce qu'on a poussé juste ce qu'il fallait.
+Elle s'arrêta là. Elle ne savait pas pourquoi : ce chiffre-là, elle ne pouvait pas le dire. Le corps ne se débattit pas. Elle ne sut jamais si elle avait gagné ou si on l'avait laissée faire. Au fond d'elle, très bas, une porte cessa de résister, parce qu'on avait poussé juste ce qu'il fallait.
 
 Elle resta un long moment sans bouger. La maison respirait autour d'elle, à petits bruits : une poutre qui travaille, une souris dans le mur, la goutte de la pompe qui tombait dans l'évier toutes les quatre secondes. Elle les compta aussi.
 
 ---
 
-Elle se leva à la fin de la nuit, pieds nus sur le plancher froid, avec une jupe de laine qu'on lui avait vêtue à l'envers. Elle ne savait pas comment on l'avait habillée. Elle comprit en tâtonnant que c'était Rose qui l'avait fait, la veille, avant de s'effondrer dans le lit, et que les gestes d'un corps fatigué ne se reconnaissent pas toujours d'une soirée à l'autre.
+Elle se leva à la fin de la nuit, pieds nus sur le plancher froid, avec une jupe de laine qu'on lui avait vêtue à l'envers. Elle ne savait pas comment on l'avait habillée. C'était Rose qui l'avait fait, la veille, avant de s'effondrer dans le lit : les gestes d'un corps fatigué ne se reconnaissent pas toujours d'une soirée à l'autre.
 
 La cuisine donnait sur la cour. Une grande pièce basse, au plafond enfumé, avec un évier de pierre, un poêle de fonte éteint dont la porte pendait sur une charnière, des casseroles de cuivre accrochées au mur, noircies. Des oignons en tresse sous la poutre. Un calendrier des postes, ouvert à juin 1958, avec une image de la Vierge. Dans un coin, un berceau sans fond, qui servait de caisse à bois.
 
@@ -84,7 +84,7 @@ Elle ferma les yeux.
 
 Elle chanta.
 
-Elle chanta la seule chanson qu'elle sût, la seule que lui eût jamais chantée une femme dont elle avait perdu le visage. Elle chanta les deux couplets. Au troisième, il n'y eut rien : un trou, un blanc, une marche manquante dans l'escalier. Elle s'arrêta, la bouche entrouverte, et sentit quelque chose lui descendre le long de la joue.
+Elle chanta la seule chanson qu'elle sût, la seule que lui eût jamais chantée une femme dont elle avait perdu le visage. Elle chanta les deux couplets. Au troisième, il n'y eut rien : un trou, un blanc, une marche manquante dans l'escalier. Elle s'arrêta, la bouche entrouverte, et sentit une larme lui descendre le long de la joue.
 
 *Dors, la rivière, dors sous le pont,*
 *la lune a mis ses bas de coton,*

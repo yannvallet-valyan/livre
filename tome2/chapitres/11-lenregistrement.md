@@ -2,7 +2,7 @@
 
 *(premier jet)*
 
-Lise Marchand avait des dents trop blanches et un rire qu'elle avait appris à régler, comme on règle le volume d'un poste. Elle était la première amie d'Iris, et la seule, et elle le savait.
+Lise Marchand avait des dents trop blanches et un rire qu'elle avait appris à régler. Elle était la première amie d'Iris, et la seule, et elle le savait.
 
 Elles se connaissaient depuis l'école primaire de la Croix-Rousse. Elles avaient partagé un bureau, un secret (la cachette des craies, derrière le radiateur de la salle de dessin), puis une manière de s'entendre qui n'avait pas besoin de mots. Lise parlait pour deux. Iris écoutait pour deux. À douze ans, au collège, une fille de quatrième avait traité Iris de « folle » parce qu'elle parlait toute seule dans la cour, et Lise l'avait giflée, puis avait dit à Iris : « Ne le refais pas devant les autres. » C'était sa façon d'aimer : protéger, et corriger.
 
@@ -74,7 +74,7 @@ Lise ne dormit pas cette nuit-là.
 
 Elle resta dans son lit, les yeux ouverts, à regarder le plafond. Elle avait la gorge sèche. Elle se répétait que ce n'était rien : un enregistrement, une blague, un jeu d'enfant. Elle se disait que son père avait raison, que cela pourrait aider. Elle se disait que son amie avait besoin de soins, qu'on ne lui voulait que du bien. Elle le crut presque. Elle se leva à trois heures, descendit à la cuisine, but un verre d'eau.
 
-Dans la pénombre, elle vit la lumière du bureau de son père, sous la porte. Elle s'approcha. Elle l'entendit parler, à voix basse, au téléphone. Il disait : « Oui. Je l'ai. Elle est mineure. Mais la mère ne sait pas. » Il disait : « Non, je ne peux pas vous donner d'adresse. Je vous enverrai le fichier. » Il disait : « Trois mille ? Cinq mille. Pour le protocole. » Elle comprit, d'un coup, sans comprendre, qu'il vendait quelque chose.
+Dans la pénombre, elle vit la lumière du bureau de son père, sous la porte. Elle s'approcha. Elle l'entendit parler, à voix basse, au téléphone. Il disait : « Oui. Je l'ai. Elle est mineure. Mais la mère ne sait pas. » Il disait : « Non, je ne peux pas vous donner d'adresse. Je vous enverrai le fichier. » Il disait : « Trois mille ? Cinq mille. Pour le protocole. » D'un coup, sans comprendre, elle sut qu'il vendait quelque chose.
 
 Elle remonta. Elle se mit au lit, tremblante. Elle se fit le serment de ne plus jamais rien enregistrer, de ne plus jamais rien dire, de ne plus jamais être celle par qui.
 

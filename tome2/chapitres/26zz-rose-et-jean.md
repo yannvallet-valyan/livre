@@ -1,4 +1,4 @@
-# Chapitre 55 — Rose et Jean
+# Chapitre 53 — Rose et Jean
 
 *(premier jet)*
 
@@ -26,7 +26,7 @@ Il y eut un silence. Le carré de lumière glissa lentement sur le mur.
 
 — Elle disait ça de tout.
 
-Il rit, très doucement. Elle sentit contre son flanc le tressaillement de son épaule. Elle tourna la tête. Dans le noir, elle distinguait la ligne de son profil, le nez fort, le menton un peu fuyant, la mèche qui lui tombait sur le front. Elle pensa qu'elle ne l'avait jamais regardé ainsi, de tout près, sans qu'il le sache.
+Il rit, très doucement. Elle sentit contre son flanc le tressaillement de son épaule. Elle tourna la tête. Dans le noir, elle distinguait la ligne de son profil, le nez fort, le menton un peu fuyant, la mèche qui lui tombait sur le front. Elle ne l'avait jamais regardé ainsi, de tout près, sans qu'il le sache.
 
 — Tu avais peur, dit-elle.
 
@@ -50,7 +50,7 @@ Elle ne dit rien. Elle chercha sa main sous la couverture, la trouva, la prit. E
 
 Ils s'aimèrent doucement, dans le froid.
 
-Ce fut sans hâte, presque sans geste, comme on se parle à voix très basse dans une pièce où dort un enfant. Ils ne se déshabillèrent pas tout à fait. Il y eut des mains qui cherchaient, des souffles qui se mêlaient, des étoffes qu'on écartait sous la couverture. Il y eut un petit rire, étouffé, quand le lit grinça. Il y eut, à un moment, une larme qui tomba, qu'il ne sut pas à qui attribuer.
+Ce fut sans hâte, presque sans geste. Ils ne se déshabillèrent pas tout à fait. Il y eut des mains qui cherchaient, des souffles qui se mêlaient, des étoffes qu'on écartait sous la couverture. Il y eut un petit rire, étouffé, quand le lit grinça. Il y eut, à un moment, une larme qui tomba, qu'il ne sut pas à qui attribuer.
 
 Il l'appela par son nom, très bas, à l'oreille.
 
@@ -58,11 +58,11 @@ Il l'appela par son nom, très bas, à l'oreille.
 
 Elle ne dit rien. Elle l'étreignit plus fort. Elle sentit, tout au fond d'elle, très loin, quelqu'un qui détournait les yeux avec une délicatesse infinie, qui se tenait dans un coin de l'ombre, les mains sur la bouche, comme une enfant qui a eu le malheur de pousser une porte. Elle sentit qu'on lui rendait cette nuit tout entière.
 
-Elle pensa : *merci.*
+*Merci.*
 
 Elle ne dit pas à qui.
 
-Quand ce fut fini, ils restèrent longtemps enlacés, sans parler. Il lui caressait les cheveux, qu'elle avait courts, hérissés, rugueux comme un chaume. Il dit :
+Quand ce fut fini, ils restèrent enlacés, sans parler. Il lui caressait les cheveux, qu'elle avait courts, hérissés, rugueux comme un chaume. Il dit :
 
 — J'aime bien comme ça.
 
@@ -90,12 +90,12 @@ Dans la chambre, il resta un moment devant le mur, à la place du lit. Il y avai
 
 — Elle y sera avec nous, dit Rose.
 
-Il la regarda. Il y avait dans ses yeux quelque chose de trouble, de très doux. Il dit, après un moment :
+Il la regarda. Ses yeux étaient troubles, très doux. Il dit, après un moment :
 
 — Tu es une drôle de femme.
 
 — Je sais.
 
-— Je ne te changerais pas.
+— Je ne te changerais pas, dit-il, c'est tout.
 
 Elle lui prit la main. Elle l'entraîna vers la porte. Elle ne se retourna pas.

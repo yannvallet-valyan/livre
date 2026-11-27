@@ -1,4 +1,4 @@
-# Chapitre 42 — Le crayon
+# Chapitre 43 — Le crayon
 
 *(premier jet)*
 
@@ -8,7 +8,7 @@ Il avait trois ans quand Iris le remarqua. Elle était assise à la table de la 
 
 Ce n'était pas la façon dont on tient un crayon. C'était la façon dont elle le tenait, elle, depuis toujours, depuis la craie de l'enfance, et que Hélène, jadis, avait cherché en vain à lui corriger.
 
-Elle ne dit rien. Elle regarda Théo, qui, de l'autre côté de la table, taillait un morceau de bois pour le feu. Il avait suspendu son geste. Il regardait le garçon. Il y avait sur son visage quelque chose de très vieux et de très triste, qu'elle n'avait jamais vu, et qui disparut aussitôt.
+Elle ne dit rien. Elle regarda Théo, qui, de l'autre côté de la table, taillait un morceau de bois pour le feu. Il avait suspendu son geste. Il regardait le garçon. Il y eut sur son visage une tristesse très vieille, qu'elle n'avait jamais vue, et qui disparut aussitôt.
 
 — Il fait comme toi, dit-il.
 
@@ -34,7 +34,7 @@ Elle crut à une plaisanterie. Elle rit. Il ne rit pas.
 
 Le soir, quand elle couchait l'enfant, elle lui chantait la berceuse, les deux couplets, dont elle ne savait toujours pas le troisième. Sacha l'écoutait, les yeux ouverts. Quand elle s'arrêtait, il disait : « Encore. » Il ne lui demandait jamais pourquoi elle s'arrêtait là. Il attendait, avec la patience d'un petit garçon qui sait qu'il y a une marche manquante, qu'on ne peut pas la lui montrer, mais qu'on peut passer dessus.
 
-Étienne l'aimait comme on aime un petit-fils, c'est-à-dire d'une manière pleine, sans réserve. Il lui apprit les échecs, à sept ans. Il lui racontait des histoires de montagnes. Il le regardait parfois s'endormir, sur le canapé, une main sous la joue, et sortait de la pièce sans bruit, les yeux fermés, comme on sort d'une église.
+Étienne l'aimait comme on aime un petit-fils, c'est-à-dire d'une manière pleine, sans réserve. Il lui apprit les échecs, à sept ans. Il lui racontait des histoires de montagnes. Il le regardait parfois s'endormir, sur le canapé, une main sous la joue, et sortait de la pièce sans bruit, les yeux fermés.
 
 ---
 
@@ -72,7 +72,7 @@ Léon mourut à onze ans, d'une infection foudroyante qu'Étienne ne put pas soi
 
 Mathis passa à la maison un dimanche de 2057, avec un panier de champignons. Il avait quarante ans. Il travaillait à la mairie, sous les ordres d'un maire qui n'avait pas de mémoire, et il tenait, depuis l'enfance, un cahier où il notait les choses qu'on ne voulait pas qu'il écrive.
 
-Il resta à dîner. Il parla de choses sans importance. Il regarda longtemps Théo, qui découpait le rôti en face de lui, avec la précision d'un chirurgien, sans lever les yeux.
+Il resta à dîner. Il parla de choses sans importance. Il regarda Théo, qui découpait le rôti en face de lui, avec la précision d'un chirurgien, sans lever les yeux.
 
 Quand Iris vint ranger la vaisselle, il la rejoignit dans la cuisine. Il avait dans les mains un torchon qu'il ne séchait rien avec.
 

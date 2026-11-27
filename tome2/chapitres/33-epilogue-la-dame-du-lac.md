@@ -4,7 +4,7 @@
 
 Le 14 novembre au soir, quand le camion eut déposé les derniers meubles au Haut, Rose revint seule.
 
-Elle remonta la vallée à pied, sous la pluie fine, par le chemin des crêtes, un châle sur la tête. Elle marcha deux heures. Elle arriva au belvédère, au-dessus de l'ancien village, à la tombée de la nuit, et resta debout dans le vent. Il n'y avait plus de hameau. Il y avait un grand miroir gris, très calme, qui avait commencé de monter par le fond. On devinait, par transparence, le toit d'une maison, la pointe d'un clocher. Elle regarda longtemps. Elle ne pleura pas.
+Elle remonta la vallée à pied, sous la pluie fine, par le chemin des crêtes, un châle sur la tête. Elle marcha deux heures. Elle arriva au belvédère, au-dessus de l'ancien village, à la tombée de la nuit, et resta debout dans le vent. Il n'y avait plus de hameau. Il y avait un grand miroir gris, très calme, qui avait commencé de monter par le fond. On devinait, par transparence, le toit d'une maison, la pointe d'un clocher. Elle regarda. Elle ne pleura pas.
 
 Elle redescendit à la nuit. En arrivant à l'appartement au-dessus de la boulangerie, elle trouva sur le paillasson, posée là, allumée, tournée vers le bas, une petite lampe de poche qui n'appartenait à personne. Elle la reconnut sans savoir d'où : un cylindre gris, lisse, tiède. Un cône de lumière blanche tombait sur le seuil. La pile était neuve.
 
@@ -14,11 +14,11 @@ Elle la garda quarante et un ans, dans un tiroir de bois, entre les cuillères e
 
 ---
 
-Elle mit la table pour cinq, ce soir-là, dans l'appartement du Haut, trois pièces au-dessus de la boulangerie, avec un poêle qui fumait. Jean ne dit rien. Il s'assit à sa place. Anselme, sur sa chaise haute, tapait avec sa cuillère contre le rebord de l'assiette, avec cette gravité d'enfant qui comprend qu'il se passe quelque chose de plus grand que lui.
+Elle mit la table pour cinq, ce soir-là, dans l'appartement du Haut, trois pièces au-dessus de la boulangerie, avec un poêle qui fumait. Jean ne dit rien. Il s'assit à sa place. Anselme, sur sa chaise haute, tapait avec sa cuillère contre le rebord de l'assiette, avec cette gravité d'enfant qui comprend que c'est plus grand que lui.
 
 Elle servit la soupe à trois. Les deux autres assiettes restèrent vides. Elle ne les débarrassa pas. Elle ne les débarrassa jamais.
 
-Elle avait, tout au fond d'elle, comme un petit poids, très doux, très chaud, qui ne bougeait plus. Elle l'avait senti à l'instant où l'eau avait couvert la première maison. Elle ne savait pas son nom. Elle ne chercha pas à le savoir. Elle sut seulement que quelque chose dormait là, qui ne s'éveillerait plus, et qu'elle serait, jusqu'au bout, la gardienne de cette chose-là.
+Elle avait, tout au fond d'elle, comme un petit poids, très doux, très chaud, qui ne bougeait plus. Elle l'avait senti à l'instant où l'eau avait couvert la première maison. Elle ne savait pas son nom. Elle ne chercha pas à le savoir. Elle sut seulement que quelqu'un dormait là, qui ne s'éveillerait plus, et qu'elle serait, jusqu'au bout, la gardienne de cette chose-là.
 
 Elle chantait pour son fils, le soir. Elle chantait deux couplets. Elle ne savait pas pourquoi elle s'arrêtait. Elle ouvrait la bouche, le souffle venait, et le mot manquait.
 
@@ -62,7 +62,7 @@ Il y eut, en 1980, un lundi d'octobre où l'on vida le lac.
 
 Elle monta sur le barrage avec les autres. Elle se tint sur le parapet, les mains à plat sur la pierre, les cheveux blancs coupés ras, et regarda l'eau descendre. Elle ne dit rien. Elle regarda apparaître, au bout de douze jours, la troisième maison à gauche. Elle pleura. Son fils, à côté d'elle, bottes aux pieds, pelle à la main, ne la consola pas. Il regardait ailleurs.
 
-Elle ne lui dit pas que, sous la glaise, quelque chose attendait. Elle n'osa pas. Elle avait senti, depuis vingt-deux ans, dans le fond d'elle, quelqu'un dormir. Elle avait senti, ce matin-là, au moment où il toucherait la veine, ce quelqu'un tressaillir, comme une bête qu'on caresse. Elle ouvrit la bouche. Elle voulut crier : *Anselme, ne touche pas.* Elle ne le fit pas. Elle savait qu'on ne crie pas à un fils ce qu'il faut qu'il fasse.
+Elle ne lui dit pas que, sous la glaise, quelqu'un attendait. Elle n'osa pas. Elle avait senti, depuis vingt-deux ans, dans le fond d'elle, quelqu'un dormir. Elle avait senti, ce matin-là, au moment où il toucherait la veine, ce quelqu'un tressaillir, comme une bête qu'on caresse. Elle ouvrit la bouche. Elle voulut crier : *Anselme, ne touche pas.* Elle ne le fit pas. Elle savait qu'on ne crie pas à un fils ce qu'il faut qu'il fasse.
 
 Elle serra le parapet. Elle ferma les yeux.
 
@@ -72,7 +72,9 @@ Elle compta jusqu'à cinquante-neuf. Elle s'arrêta.
 
 Elle mourut en 1999, à soixante-sept ans, dans son lit, une nuit d'octobre.
 
-Elle avait les cheveux blancs, coupés ras, qu'elle n'avait jamais laissé repousser. Elle avait vu le lac se vider, en 1980, de ses deux yeux ouverts, le matin où son fils avait trouvé la veine. Elle avait vu, un jour de 1985, une silhouette de femme apparaître devant la porte du Haut, jeune, perdue, aux yeux gris, qui lui avait demandé en tremblant si elle était bien « la mère d'Anselme ». Elle avait dit oui. Elle n'avait jamais su qui était cette fille. Elle avait vu partir Jean, en 1971, sans bruit, dans un lit d'hôpital, avec ces mots d'adieu qu'il avait toujours eus pour les bêtes malades : *Ferme à clé, si tu as peur la nuit.*
+Elle avait les cheveux blancs, coupés ras, qu'elle n'avait jamais laissé repousser. Elle avait vu le lac se vider, en 1980, de ses deux yeux ouverts, le matin où son fils avait trouvé la veine. Elle avait vu, un jour de 1985, une jeune femme perdue, aux yeux gris, apparaître devant la porte du Haut et lui demander en tremblant si elle était bien « la mère d'Anselme ». Elle avait dit oui. Un an plus tard, elle l'avait revue à l'église, en robe blanche, au bras de son fils, et elle ne lui avait jamais rappelé leur première rencontre. Elle l'avait seulement regardée, longuement, avec l'attention d'une femme qui a une dette envers une inconnue.
+
+Elle avait vu partir Jean, en 1971, sans bruit, dans un lit d'hôpital, avec ces mots d'adieu qu'il avait toujours eus pour les bêtes malades : *Ferme à clé, si tu as peur la nuit.*
 
 On l'enterra dans le nouveau cimetière, sous un if, entre son mari et son père. Anselme y fit graver, de sa main, une épitaphe qu'elle avait elle-même choisie, dans un papier trouvé sous son oreiller :
 

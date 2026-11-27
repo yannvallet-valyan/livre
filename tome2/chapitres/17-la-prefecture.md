@@ -6,11 +6,11 @@ Elle prit le lundi 13 octobre.
 
 Dix jours plus tôt, elle avait rendu à Rose sa maison. Elle avait tenu dix jours.
 
-Elle ne l'avait pas décidé comme une autre aurait décidé de partir en voyage. Elle l'avait décidé comme on boit après trop de soif : en se disant, à chaque gorgée, qu'on s'arrêterait à la suivante. Le matin de la porte, Rose dormait encore, et Iris se leva, s'habilla, trouva dans l'armoire la robe du dimanche, une toile bleue à petits boutons, qu'elle brossa du plat de la main. Elle se coiffa : les cheveux ras n'avaient pas besoin de peigne. Elle regarda dans le miroir fêlé le visage de Rose, et le trouva plus grave qu'il ne devait l'être.
+Elle ne l'avait pas décidé comme une autre aurait décidé de partir en voyage. Elle l'avait décidé: en se disant, à chaque gorgée, qu'on s'arrêterait à la suivante. Le matin de la porte, Rose dormait encore, et Iris se leva, s'habilla, trouva dans l'armoire la robe du dimanche, une toile bleue à petits boutons, qu'elle brossa du plat de la main. Elle se coiffa : les cheveux ras n'avaient pas besoin de peigne. Elle regarda dans le miroir fêlé le visage de Rose, et le trouva plus grave qu'il ne devait l'être.
 
 Elle prit Anselme dans ses bras. Il dormait encore, le front contre son épaule, les poings serrés sous le menton.
 
-Elle pensa : *je le rendrai ce soir.*
+*Je le rendrai ce soir.*
 
 Elle n'eut pas la force de le garder avec elle. Elle l'aurait voulu. Un enfant dans un bureau, c'est un argument. Mais un enfant, c'est aussi une difficulté, une toux, une faim. Elle frappa à la porte d'à côté. Odette ouvrit, pâle, la farine jusqu'aux coudes. Elles se regardèrent. Aucune ne dit un mot de la déposition.
 
@@ -54,7 +54,7 @@ Elle resta debout. Elle essaya de faire entendre ce qu'elle savait : que la roch
 
 — Madame, dit-il enfin. Vous êtes fatiguée.
 
-On la fit asseoir dans une antichambre. On lui apporta un verre d'eau. On lui dit que le secrétaire général pourrait la recevoir. Elle attendit une heure. Elle attendit deux. Un jeune homme en costume vint la chercher, l'emmena dans un bureau étroit, la fit asseoir devant un buvard. Il avait un stylo à plume. Il prit des notes. Il lui posa des questions sur son âge, sa profession, son mari, ses opinions politiques. Elle comprit qu'on l'inscrivait.
+On la fit asseoir dans une antichambre. On lui apporta un verre d'eau. On lui dit que le secrétaire général pourrait la recevoir. Elle attendit une heure. Elle attendit deux. Un jeune homme en costume vint la chercher, l'emmena dans un bureau étroit, la fit asseoir devant un buvard. Il avait un stylo à plume. Il prit des notes. Il lui posa des questions sur son âge, sa profession, son mari, ses opinions politiques. On l'inscrivait.
 
 Elle se leva, d'un coup. Il leva les yeux.
 
@@ -74,7 +74,7 @@ Elle sortit sur le perron, aveuglée. Il faisait grand jour, un jour d'octobre v
 
 Elle descendit. Elle marcha sans but dans les rues, avec la robe bleue qui lui serrait les épaules, les souliers du dimanche qui lui faisaient mal. Elle passa devant une boulangerie, une mercerie, un café dont la porte vitrée laissait échapper une odeur de chicorée. Elle s'arrêta devant une vitrine de librairie. Il y avait là, exposés, des livres à couverture jaune, un atlas, un missel, une revue qui annonçait en gros caractères *LE BARRAGE DE VALLORCE, TRIOMPHE DU GÉNIE FRANÇAIS.*
 
-Elle resta longtemps à regarder la photographie du mur. Un cliché en noir et blanc, pris du haut d'un hélicoptère. On y voyait la courbe, le canal, les camions minuscules, la vallée nue. On ne voyait pas le village. Il avait été effacé, par une retouche, d'un coup de pinceau sur le négatif.
+Elle resta à regarder la photographie du mur. Un cliché en noir et blanc, pris du haut d'un hélicoptère. On y voyait la courbe, le canal, les camions minuscules, la vallée nue. On ne voyait pas le village. Il avait été effacé, par une retouche, d'un coup de pinceau sur le négatif.
 
 Elle entra dans le café. Elle commanda un verre d'eau. Elle but, à petites gorgées, au comptoir, sous le regard indifférent d'un patron qui essuyait des verres. Elle sentit, dans sa poche, les quelques pièces de Rose. Elle les posa sur le zinc. Le patron les compta, en remua deux du bout du doigt, lui rendit un franc.
 
@@ -92,7 +92,7 @@ Elle sourit. Elle ne répondit pas. Elle pensa qu'il avait raison, et qu'elle é
 
 Elle courut jusqu'à l'arrêt. Elle manqua le car de deux heures. Elle prit le suivant, qui roulait mal, qui s'arrêtait dans tous les hameaux, qui sentait la sueur et le tabac. Elle regardait par la vitre le jour qui baissait. Elle comptait les bornes. Elle ne savait pas pourquoi elle avait peur.
 
-Quelque chose, en elle, s'était mis à battre. Une main qui tapait contre une vitre. Rose, tout au fond, s'agitait, ouvrait les yeux, cherchait l'enfant.
+Son cœur s'était mis à battre. Une main qui tapait contre une vitre. Rose, tout au fond, s'agitait, ouvrait les yeux, cherchait l'enfant.
 
 Au dernier kilomètre, la bête sut avant elle. Elle sentit sa poitrine se serrer, avec cette force absurde, instinctive, qu'ont les mères pour les petits qu'elles n'ont plus sous la main. Elle descendit du car en marche, au bas de la côte, et se mit à courir.
 

@@ -12,7 +12,7 @@ Elle apprit à prendre une tension, à désinfecter une plaie, à poser une perf
 
 Il lui apprit aussi à ne pas parler. C'était, disait-il, l'essentiel. Un malade qui voit un visage inquiet est déjà plus malade. Elle apprit à tenir le sien, à le rendre vide, à y mettre un peu de douceur sans y mettre de peur. Elle y parvint mieux que lui.
 
-— Tu as un don, dit-il un soir de décembre 2046, en rangeant ses instruments.
+— Tu as un don, dit-il un soir de décembre 2046, en rangeant ses instruments. Chez nous, ça s'appelle une qualité. À la préfecture, un défaut.
 
 — Non.
 
@@ -34,7 +34,7 @@ Elle ne l'avait pas prémédité. Elle se mit à compter, à voix basse, au ryth
 
 À cinquante-neuf, le souffle de l'enfant se détendit. Elle ne le remarqua pas tout de suite. Elle s'aperçut seulement, une minute plus tard, que la mère pleurait, debout contre le mur, les mains sur la bouche.
 
-Quand Étienne revint, une heure plus tard, la fièvre était tombée à trente-neuf. Il examina l'enfant, longtemps, en silence. Il leva les yeux vers Iris. Il ne dit rien.
+Quand Étienne revint, une heure plus tard, la fièvre était tombée à trente-neuf. Il examina l'enfant, en silence. Il leva les yeux vers Iris. Il ne dit rien.
 
 — Je n'ai rien fait, dit-elle.
 
@@ -58,7 +58,7 @@ Elle rencontra Théo presque tous les jours, cet hiver-là.
 
 Il venait la chercher à la sortie du cabinet, à six heures, quand la nuit tombait déjà, comme il le faisait depuis le printemps. Il l'attendait sur le perron, les mains dans les poches de son manteau, la tête nue, avec de petites gouttes de neige dans les cheveux. Il ne disait rien. Il se plaçait à côté d'elle, au rythme de son pas, et ils marchaient. Ils suivaient le chemin de halage, qui longeait le lac glacé. Ils s'arrêtaient au bout du ponton, là où l'eau commençait. Ils regardaient les étoiles, qui étaient immenses.
 
-Il lui parlait de choses sans importance. Il lui parlait de son père, de sa mère qu'il n'avait pas connue, d'une gouvernante qui lui lisait des contes. Il lui parlait de mathématiques, de musique, des couleurs de l'eau. Il parlait avec précision, sans emphase, d'une voix un peu trop grave pour son âge. Elle l'écoutait. Elle apprit à reconnaître, dans ses silences, quelque chose de plus profond que de la timidité : une espèce de piété.
+Il lui parlait de choses sans importance. Il lui parlait de son père, de sa mère qu'il n'avait pas connue, d'une gouvernante qui lui lisait des contes. Il lui parlait de mathématiques, de musique, des couleurs de l'eau. Il parlait avec précision, sans emphase, d'une voix un peu trop grave pour son âge. Elle l'écoutait. Elle apprit à reconnaître, dans ses silences, plus que de la timidité : une espèce de piété.
 
 Un soir de février, il s'arrêta au milieu du chemin.
 
@@ -84,7 +84,7 @@ Quand ils se séparèrent, il avait les yeux fermés. Il dit, d'une voix qu'elle
 
 — Rien.
 
-Il ouvrit les yeux. Ils étaient gris, très clairs, très humides. Il y avait dedans quelque chose de si vieux, de si fatigué, qu'elle eut envie de le serrer contre elle, comme on serre un enfant qui vient de parler d'un cauchemar.
+Il ouvrit les yeux. Ils étaient gris, très clairs, très humides. Ils étaient si vieux, si fatigués, qu'elle eut envie de le serrer contre elle.
 
 — Je t'aime, dit-il.
 

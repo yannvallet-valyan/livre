@@ -1,10 +1,10 @@
-# Chapitre 61 — La cache
+# Chapitre 58 — La cache
 
 *(premier jet)*
 
 Théo disparut la nuit de l'enterrement.
 
-Elle ne l'entendit pas partir. Elle s'était couchée tard, en robe noire, sans se déchausser, et elle avait dormi d'un sommeil de pierre, comme on dort après un jour où l'on n'a pas pleuré. Le matin, la place à côté d'elle était froide. Il n'y avait pas d'empreinte dans le drap. Sur la table de la cuisine, posé sur la nappe au milieu des tasses sales, il y avait un mot. Une écriture fine, régulière, presque typographique.
+Elle ne l'entendit pas partir. Elle s'était couchée tard, en robe noire, sans se déchausser, et elle avait dormi d'un sommeil de pierre. Le matin, la place à côté d'elle était froide. Il n'y avait pas d'empreinte dans le drap. Sur la table de la cuisine, posé sur la nappe au milieu des tasses sales, il y avait un mot. Une écriture fine, régulière, presque typographique.
 
 *Pardon. Je ne pouvais pas faire autrement. Compte. — T.*
 
@@ -30,7 +30,7 @@ Elle referma le cahier. Elle l'ouvrit de nouveau, à une autre page.
 
 *Tour* : ce mot-là revenait partout. Elle le chercha dans sa mémoire. Il y avait quelque chose, dans l'enfance, dans une pièce de la Croix-Rousse : une voix de femme qui comptait, une voix d'homme qui répondait. Elle ne put pas le saisir.
 
-Elle tourna les pages, longtemps, avec une lenteur de lectrice qui a peur d'arriver au bout. Elle tomba sur son prénom. Il n'était pas seul. Il était écrit en haut d'une page, entre guillemets, comme un titre :
+Elle tourna les pages, avec une lenteur de lectrice qui a peur d'arriver au bout. Elle tomba sur son prénom. Il n'était pas seul. Il était écrit en haut d'une page, entre guillemets, comme un titre :
 
 *« Iris. »*
 
@@ -38,7 +38,7 @@ Et dessous :
 
 *Elle m'aimera parce que c'est écrit. Je l'aimerai parce que c'est écrit. Ce n'est pas la même chose. Je ne sais pas laquelle des deux est la plus vraie.*
 
-Elle resta debout, le cahier ouvert dans les mains, les yeux fixés sur une ligne. Elle sentit quelque chose se vider en elle, doucement, comme l'eau d'un bassin dont on retire la bonde.
+Elle resta debout, le cahier ouvert dans les mains, les yeux fixés sur une ligne. Elle se vida, doucement, comme l'eau d'un bassin dont on retire la bonde.
 
 ---
 
@@ -46,19 +46,19 @@ Elle resta debout, le cahier ouvert dans les mains, les yeux fixés sur une lign
 
 *Que la boucle tourne.*
 
-Elle la regarda longtemps. Elle comprit qu'elle ne la comprenait pas. Elle sut seulement que c'était une prière, ou une consigne, ou un ordre, et que l'homme qui l'avait écrite ne s'était jamais senti libre d'écrire autre chose.
+Elle la regarda. Elle ne la comprenait pas. C'était une prière, ou une consigne, ou un ordre, et l'homme qui l'avait écrite ne s'était jamais senti libre d'écrire autre chose.
 
 Elle en lut un autre, le soir même.
 
 Elle s'assit sur le lit de camp, à la lueur de la lampe à pétrole. Elle ouvrit le troisième cahier. Elle y trouva des listes de noms, de dates, de lieux, d'une écriture très serrée. *Élise V., 2137. Noé M., 2137. Iris, 2027. Anselme R., 1980.* Il y avait des flèches, des croix, des cercles. Il y avait, en marge, des phrases brèves : *À prévenir. À ne pas prévenir. Trop tôt. Trop tard.*
 
-Elle lut une page qui disait : *Elle va dire non. Je le sais. Je ne dois pas le lui reprocher.* Elle ne comprit pas de quoi il parlait. Elle crut que c'était d'elle. Elle lut plus loin : *Il va prendre la pastille. Je ne peux pas l'en empêcher.* Elle s'arrêta de respirer. Elle relut. Elle sentit quelque chose se casser, en elle, de très ancien.
+Elle lut une page qui disait : *Elle va dire non. Je le sais. Je ne dois pas le lui reprocher.* Elle ne comprit pas de quoi il parlait. Elle crut que c'était d'elle. Elle lut plus loin : *Il va prendre la pastille. Je ne peux pas l'en empêcher.* Elle s'arrêta de respirer. Elle relut. Elle se cassa, en elle, de très ancien.
 
 *Je ne peux pas l'en empêcher.*
 
-Elle le relut trois fois. Elle ferma le cahier. Elle resta longtemps assise, les mains posées sur la couverture noire, à regarder la flamme.
+Elle le relut trois fois. Elle ferma le cahier. Elle resta assise, les mains posées sur la couverture noire, à regarder la flamme.
 
-Elle comprit qu'il n'y avait pas de coupable. Elle comprit que c'était pire.
+Il n'y avait pas de coupable. C'était pire.
 
 ---
 
@@ -66,7 +66,7 @@ Elle prit les cahiers, un à un, les mit dans un sac. Elle ne les lut pas tous. 
 
 Elle ne gardait que la méthode. Dans le deuxième cahier, une page, une seule, encadrée de deux traits : *Pour partir : un éclat, le sang, un compte. Pour rester : un éclat, le sang, un compte, et quelqu'un qui consent.* Au bas de la page, d'une autre encre, plus ancienne, une main plus large avait écrit : *Le sang mène au passé.*
 
-Elle comprit que son fils n'était pas parti pour rien. Il était parti *devant.* Il avait pris une porte. Elle voulait la suivre.
+Son fils n'était pas parti pour rien. Il était parti *devant.* Il avait pris une porte. Elle voulait la suivre.
 
 ---
 
@@ -74,7 +74,7 @@ Elle ne pleura pas à l'enterrement. Elle ne pleura pas non plus après.
 
 Elle tint. Elle tint comme on tient une porte contre le vent, par une sorte de raideur qui n'a plus rien à voir avec le courage. Elle remercia les gens qui venaient lui serrer la main : le maire, qui avait des larmes, le pharmacien, qui portait un chapeau trop grand, deux institutrices, la mère de Lise, les gens du village, qui défilaient dans la cuisine en baissant la voix. Elle servit du café. Elle découpa du gâteau. Elle dit : « Merci d'être venu. » Elle le dit quatre-vingts fois.
 
-Mathis resta le dernier. Il lava les tasses, sans rien dire. Il s'essuya les mains. Il lui dit, sur le seuil : « Si tu as besoin de quelque chose, je suis à la mairie. » Elle ne répondit pas. Il ajouta : « Je suis désolé pour Théo. » Elle comprit, à ce moment, qu'elle n'y avait pas encore pensé.
+Mathis resta le dernier. Il lava les tasses, sans rien dire. Il s'essuya les mains. Il lui dit, sur le seuil : « Si tu as besoin de quelque chose, je suis à la mairie. » Elle ne répondit pas. Il ajouta : « Je suis désolé pour Théo. » À ce moment, elle s'aperçut qu'elle n'y avait pas encore pensé.
 
 La maison était vide. Il n'y avait plus ni cris d'enfant, ni bruit de pas, ni chaise qui grince. Elle fit le tour des pièces, avec la lenteur d'une inspection. Elle ouvrit la chambre de Sacha. Le lit était fait. Les draps sentaient la lavande. Sur la table de nuit, il y avait un verre d'eau à moitié plein, qu'elle n'avait pas vidé. Elle le but. Elle le but d'un trait, pour ne pas le jeter.
 
@@ -88,7 +88,7 @@ Elle le garda contre elle toute la nuit.
 
 C'était dans le cabinet, à la nuit, sous la lampe du bureau. Il était assis, très droit, les mains à plat sur le buvard. Il avait quatre-vingt-cinq ans, des joues creuses, une cicatrice blanche au sourcil, et il écoutait Iris parler de sa voix la plus calme, sans le regarder. Elle lui disait tout ce qu'elle pouvait dire : la porte, l'éclat, le compte. Elle ne lui dit pas où elle voulait aller. Elle lui demanda seulement s'il y avait, dans le crâne de son fils, une chose qu'on pouvait lui retirer.
 
-Il resta longtemps silencieux. Puis il dit :
+Il resta silencieux. Puis il dit :
 
 — Je ne comprends pas.
 
@@ -114,7 +114,7 @@ Quand il eut fini, il tenait dans la paume un petit éclat rouge, de la taille d
 
 Il ne savait pas pourquoi il avait dit cela. Il ne savait plus du tout où il avait entendu ces mots.
 
-Ils refermèrent la tombe avant l'aube. Ils ne dirent pas une parole. Étienne, en rentrant, s'arrêta devant sa porte. Il se tourna vers elle, dans la neige. Il posa la main sur sa joue, très légèrement, comme on touche une chose qu'on n'a pas le droit de garder.
+Ils refermèrent la tombe avant l'aube. Ils ne dirent pas une parole. Étienne, en rentrant, s'arrêta devant sa porte. Il se tourna vers elle, dans la neige. Il posa la main sur sa joue, très légèrement.
 
 — Si tu pars, dit-il, je serai là.
 

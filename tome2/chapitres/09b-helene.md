@@ -56,6 +56,8 @@ Iris ne bougeait pas. Elle serrait son cornet, dont la glace fondait sur ses doi
 
 — Et puis, une nuit, dit Hélène, il s'est tourné vers moi. Il m'a regardée. Il m'a dit : « Madame, pardon. Je crois que je me suis trompée de lit. » Avec la voix d'une autre. Je n'ai jamais pu le chasser de mes oreilles. Je suis partie le lendemain. J'avais une petite fille de deux ans. Je l'ai prise sous le bras. J'ai pris le train.
 
+— Avant de l'épouser, dit-elle, je suis allée voir sa mère. À Vallorce-le-Haut, au printemps de 1985. Une vieille femme aux cheveux blancs coupés ras, dans un trois-pièces au-dessus d'une boulangerie. Je lui ai demandé si elle était bien la mère d'Anselme. Elle m'a regardée comme si elle me connaissait. Elle m'a dit : « Il chante, la nuit ? » Je n'ai pas compris. Je l'ai épousé quand même.
+
 Elle posa son cornet sur le banc, à côté d'elle, sans l'avoir entamé. Elle se mit à essuyer ses doigts, un à un, avec un mouchoir de batiste brodé d'un H.
 
 — Je n'ai jamais su ce que c'était. Je ne l'ai jamais demandé. J'avais peur de la réponse. Je me suis dit : si je ne sais pas, ce ne sera pas à moi. C'est une pensée de lâche. Mais on ne choisit pas toujours entre la lâcheté et le malheur.

@@ -44,7 +44,7 @@ Il ne répondit pas.
 
 ---
 
-Il resta longtemps dans le confessionnal, après qu'elle fut partie.
+Il resta dans le confessionnal, après qu'elle fut partie.
 
 Il avait l'habitude des aveux. Il avait entendu, pendant quarante ans, les péchés des autres comme une longue pluie, sans se mouiller. Il y avait eu la jalousie, la colère, la gourmandise, la paresse. Il y avait eu, de temps à autre, quelque chose de plus grave : un enfant que l'on n'avait pas voulu, un père que l'on avait laissé mourir. Il avait absous. Il avait toujours absous. C'était son métier.
 
@@ -70,9 +70,9 @@ Rose s'agenouilla devant l'autel. Elle récita, à voix haute, avec cette simpli
 
 Au fond d'elle, Iris sentit la prière la traverser comme un fer chaud.
 
-Ce n'était pas une douleur. Ce n'était pas non plus une purification. C'était quelque chose de plus simple, de plus terrible. Elle sentit qu'on lui donnait le droit de rester, et que ce droit lui était donné par pitié.
+Ce n'était pas une douleur. Ce n'était pas non plus une purification. C'était plus simple, et plus terrible. Elle sentit qu'on lui donnait le droit de rester, et que ce droit lui était donné par pitié.
 
-Elle avait toujours cru qu'on ne s'installe pas dans un corps sans y avoir été invitée. Elle avait voulu sauver cette femme. Elle s'était imaginée en sentinelle, en gardienne, en sœur. Elle comprit, à genoux dans une église qu'on allait détruire, qu'elle n'avait pas été invitée. On l'avait accueillie. C'est une chose différente. On accueille un hôte comme on recueille un chien perdu : par bonté, par faiblesse, et par l'impossibilité de mettre dehors quelqu'un qui a froid.
+Elle avait toujours cru qu'on ne s'installe pas dans un corps sans y avoir été invitée. Elle avait voulu sauver cette femme. Elle s'était imaginée en sentinelle, en gardienne, en sœur. À genoux dans une église qu'on allait détruire, elle vit qu'elle n'avait pas été invitée. On l'avait accueillie. C'est une chose différente. On accueille un hôte comme on recueille un chien perdu : par bonté, par faiblesse, et par l'impossibilité de mettre dehors quelqu'un qui a froid.
 
 Elle ne répondit pas à la phrase. Elle ne le put pas. Elle sentit les larmes de Rose couler, sur un visage qui n'était pas le sien, et elle comprit enfin ce qu'elle volait.
 

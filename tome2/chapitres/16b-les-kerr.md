@@ -30,7 +30,7 @@ Bastien Kerr les reçut dans un salon blanc, aux murs nus, avec deux canapés de
 
 — Théo m'a beaucoup parlé de vous.
 
-Théo n'avait jamais parlé de lui. Iris le savait. Elle sut aussi, à la façon dont il prononça la phrase, qu'il l'avait dite cent fois, à cent autres personnes, sans plus y croire qu'à une formule de cuisine.
+Théo n'avait jamais parlé de lui. Iris le savait. À la façon dont il prononça la phrase, il l'avait dite cent fois, à cent autres personnes, sans plus y croire qu'à une formule de cuisine.
 
 Ils dînèrent à huit heures dans une salle à manger aussi blanche que le salon, autour d'une table de verre trop grande pour trois. Une domestique silencieuse, qu'on appelait Madame Aubert, servit une soupe froide, un poisson, des légumes vapeur. Il y avait une carafe d'eau, pas de vin. Bastien mangeait avec une lenteur de métronome. Il posait sa fourchette entre chaque bouchée, s'essuyait les lèvres, reprenait. Il parlait peu. Il posait des questions courtoises : d'où elle venait, ce qu'elle faisait, si elle se plaisait. Il n'écoutait pas les réponses.
 
@@ -50,7 +50,7 @@ Il dit cela sans une inflexion. Il tourna les yeux vers l'homme assis à côté 
 
 — Non. Bien sûr.
 
-Il y eut un silence. Le métronome reprit, la fourchette, la bouchée, la serviette. Iris sentit quelque chose se resserrer dans sa poitrine. Elle regarda le profil de Bastien, sa nuque grise, ses mains blanches, la façon dont elles tremblaient, très légèrement, à chaque fois qu'il soulevait son verre.
+Il y eut un silence. Le métronome reprit, la fourchette, la bouchée, la serviette. Iris eut la poitrine serrée. Elle regarda le profil de Bastien, sa nuque grise, ses mains blanches, la façon dont elles tremblaient, très légèrement, à chaque fois qu'il soulevait son verre.
 
 — Il y a des jours, dit-il, où je ne sais pas lequel des deux est à table.
 
@@ -58,7 +58,7 @@ Il y eut un silence. Le métronome reprit, la fourchette, la bouchée, la servie
 
 — Ne te fâche pas, mon petit. Je le dis gentiment.
 
-Il avait dit *mon petit*. Il le dit comme on le dit à un enfant de cinq ans. Iris vit Théo fermer les yeux, une seconde, comme quelqu'un qui reçoit un coup qu'il attendait. Elle ne sut pas qui, de lui ou du père, souffrait le plus.
+Il avait dit *mon petit*. Il le dit. Iris vit Théo fermer les yeux, une seconde, comme quelqu'un qui reçoit un coup qu'il attendait. Elle ne sut pas qui, de lui ou du père, souffrait le plus.
 
 ---
 
@@ -94,7 +94,7 @@ Il resta un moment sur le seuil, à les regarder descendre les marches. Puis il 
 
 ---
 
-Sur la place, Théo marchait sans parler. Il avait enlevé sa cravate, qu'il portait roulée dans sa poche. Il avait les mains dans le dos, comme un vieillard. Iris marchait à côté de lui. Elle attendit longtemps avant de dire :
+Sur la place, Théo marchait sans parler. Il avait enlevé sa cravate, qu'il portait roulée dans sa poche. Il avait les mains dans le dos, comme un vieillard. Iris marchait à côté de lui. Elle attendit avant de dire :
 
 — Il t'aime.
 

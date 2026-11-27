@@ -14,7 +14,7 @@ Elle s'était assise devant les deux mots. Elle n'avait pas osé sourire.
 
 Il y en eut d'autres. *Il reste de la soupe sous le linge.* *Le fer est froid.* *Ne touche pas au levain.* *Je ne touche pas.* *Tu as touché.* *Pardon.* Chaque matin, la phrase de la veille était effacée d'un coup de torchon humide. Chaque soir, sur le mur nu, une phrase neuve était apparue. Elles ne se dirent jamais *vous*, ni *toi*. Elles ne se dirent jamais *qui es-tu*. Elles écrivaient comme deux voisines qui laissent des messages sur une porte, avec des mots usuels, des précautions de pudeur, et un respect un peu froid pour la place de l'autre.
 
-Rose savait. Sans savoir. Ainsi se faisait la maison : deux femmes dans un corps, qui se parlaient sur un mur comme on se parle à travers une cloison.
+Rose savait. Sans savoir. Ainsi se faisait la maison : deux femmes dans un corps, qui se parlaient sur un mur.
 
 ---
 
@@ -24,7 +24,7 @@ Elle ne s'éloignait pas. Elle restait sur le seuil, dans le châle de laine, et
 
 Il y avait un silence particulier, qu'elle avait mis des jours à nommer. C'était celui d'un lieu dont tout le monde sait qu'il va finir. On ne chuchotait pas, mais on ne parlait pas fort. On ne s'était pas habitué à la mort du village : on l'attendait chaque soir, au tournant, avec l'air gêné de gens qui ont rendez-vous.
 
-Elle pensa : *je pourrais crier. Je pourrais leur dire.* Elle ne savait pas quoi. Elle les aurait pris par les épaules, un par un, elle leur aurait dit : *dessous, il y a quelque chose, ne le noyez pas.* Ils l'auraient regardée comme on regarde une folle. Rose avait déjà une réputation de têtue, de dévote, de femme qu'on ne contrarie pas : on lui pardonnerait peut-être de perdre la tête.
+*Je pourrais crier. Je pourrais leur dire.* Elle ne savait pas quoi. Elle les aurait pris par les épaules, un par un, elle leur aurait dit : *dessous, il y a quelque chose, ne le noyez pas.* Ils l'auraient regardée comme on regarde une folle. Rose avait déjà une réputation de têtue, de dévote, de femme qu'on ne contrarie pas : on lui pardonnerait peut-être de perdre la tête.
 
 Elle ne cria pas. Elle rentra. Elle écrivit sur le mur : *Il y a de la braise dans le poêle.* Et, plus bas, d'une écriture plus petite : *J'ai peur.*
 
@@ -52,7 +52,7 @@ Elle avait voulu le dire avec l'accent de Rose, les voyelles de Vallorce, un peu
 
 — Il fait vingt degrés.
 
-Il n'insista pas. Il alla à l'évier, se lava les mains longuement, comme on retarde une question. Elle regarda son dos : large, un peu voûté, la chemise plaquée par la transpiration. Elle remarqua une déchirure à l'épaule, qu'on avait recousue, à gros points, d'un fil trop clair. C'était la main de Rose. Elle ne se rappelait pas l'avoir su.
+Il n'insista pas. Il alla à l'évier, se lava les mains longuement. Elle regarda son dos : large, un peu voûté, la chemise plaquée par la transpiration. Elle remarqua une déchirure à l'épaule, qu'on avait recousue, à gros points, d'un fil trop clair. C'était la main de Rose. Elle ne se rappelait pas l'avoir su.
 
 Il revint s'asseoir en face d'elle. Il prit, sans y penser, un quignon de pain sur la table, le tourna entre ses doigts, le posa. Il dit, très bas, sans la regarder :
 
@@ -72,7 +72,7 @@ Il sourit. C'était un sourire fatigué, sans reproche, le sourire d'un homme qu
 
 — Mange, dit-elle.
 
-Elle ne savait pas pourquoi elle avait dit cela. Elle se leva, trouva la marmite, souleva le linge, versa une louche de soupe froide dans une assiette ébréchée. Elle la posa devant lui. Il la regarda, puis la regarda elle. Il prit sa cuillère. Il mangea, lentement, en silence, avec cette dignité sans appétit des hommes fatigués, et à chaque bouchée, quelque chose, sur son visage, se desserrait.
+Elle ne savait pas pourquoi elle avait dit cela. Elle se leva, trouva la marmite, souleva le linge, versa une louche de soupe froide dans une assiette ébréchée. Elle la posa devant lui. Il la regarda, puis la regarda elle. Il prit sa cuillère. Il mangea, lentement, en silence, avec cette dignité sans appétit des hommes fatigués, et à chaque bouchée, son visage se desserrait.
 
 — Elle est bonne, dit-il.
 
@@ -82,10 +82,10 @@ Elle ne savait pas pourquoi elle avait dit cela. Elle se leva, trouva la marmite
 
 Il finit l'assiette. Il racla le fond avec un morceau de pain. Il dit :
 
-— Je ne sais pas ce qui nous arrive, Rose. Mais je suis là. Même s'ils nous prennent la maison. Même si on doit partir. Je suis là.
+— Je suis là, dit-il. Même s'ils nous prennent la maison.
 
 Il lui prit la main.
 
-Elle ne put pas la lui retirer. C'était la main de Rose, et il la tenait comme on tient un objet précieux : paume contre paume, le pouce sur le dos, sans rien demander de plus. Elle compta, parce qu'il fallait bien faire quelque chose. Un. Deux. Elle comptait les battements de son pouce contre sa peau. À vingt, il pencha la tête sur la table. À trente, il dormait.
+Elle ne put pas la lui retirer. C'était la main de Rose, et il la tenait: paume contre paume, le pouce sur le dos, sans rien demander de plus. Elle compta, parce qu'il fallait bien faire quelque chose. Un. Deux. Elle comptait les battements de son pouce contre sa peau. À vingt, il pencha la tête sur la table. À trente, il dormait.
 
 Elle resta immobile jusqu'à l'aube, les doigts d'un autre dans les siens, à regarder la bougie se consumer, en pensant à la femme qui allait se réveiller dans ce lit, dans cette maison, avec le goût de cette nuit dans la bouche. Elle pensa qu'elle devait quelque chose à cette femme. Elle ne savait pas quoi. Elle sut seulement, à la dernière seconde, avant que le sommeil la reprenne, qu'elle le paierait.

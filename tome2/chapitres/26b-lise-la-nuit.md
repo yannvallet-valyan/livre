@@ -1,4 +1,4 @@
-# Chapitre 53 — Lise, la nuit
+# Chapitre 51 — Lise, la nuit
 
 *(premier jet)*
 
@@ -46,7 +46,7 @@ Iris ne répondit pas. Elle versa de l'eau dans la bouilloire. Elle la posa sur 
 
 Lise ne répondit pas tout de suite.
 
-Elle se tenait voûtée, les coudes sur la table, la tête dans les mains. Quand elle releva les yeux, elle avait changé. Il y avait dans son visage quelque chose de nu, de défait, que le sourire de commande ne recouvrait plus.
+Elle se tenait voûtée, les coudes sur la table, la tête dans les mains. Quand elle releva les yeux, elle avait changé. Son visage était nu, défait, et le sourire de commande ne le recouvrait plus.
 
 — Je voulais te dire quelque chose. Je l'avais préparé. Je l'ai répété dans le train. Je n'en ai plus de souvenir.
 
@@ -88,7 +88,7 @@ Iris se retourna.
 
 Elles se regardèrent. Le sifflet de la bouilloire se mit à monter, aigu. Iris éteignit le feu. Elle posa deux tasses sur la table. Elle s'assit en face de son amie. Elle attendit.
 
-Il se passa quelque chose, dans le silence, que ni l'une ni l'autre n'aurait su nommer. Lise ouvrit la bouche. Elle regarda Iris. Elle vit, sur le visage de son amie, une confiance simple, entière, qui ne soupçonnait rien. Elle sentit son courage fondre, comme une sucrerie dans un verre d'eau chaude.
+Il se passa, dans le silence, ce que ni l'une ni l'autre n'aurait su nommer. Lise ouvrit la bouche. Elle regarda Iris. Elle vit, sur le visage de son amie, une confiance simple, entière, qui ne soupçonnait rien. Elle sentit son courage fondre, comme une sucrerie dans un verre d'eau chaude.
 
 — Je ne t'ai jamais dit à quel point tu comptais pour moi.
 
@@ -120,7 +120,7 @@ Elle s'arrêta au coin de la rue.
 
 Une silhouette l'attendait, sous le réverbère. Un homme, debout, les mains dans les poches, la tête nue. Il avait un manteau sombre, une démarche de pasteur, une façon de se tenir très droit. Iris reconnut Théo.
 
-Il s'avança d'un pas. Il dit quelque chose. Iris ne l'entendit pas. Lise se figea. Il y eut un silence. Puis Théo tendit la main, très lentement, comme on tend la main à quelqu'un qui va tomber, et lui posa, sur l'épaule, quelque chose de léger, que la nuit empêcha de voir.
+Il s'avança d'un pas. Il dit quelque chose. Iris ne l'entendit pas. Lise se figea. Il y eut un silence. Puis Théo tendit la main, très lentement, et lui posa sur l'épaule un objet léger, que la nuit empêcha de voir.
 
 Lise tourna la tête. Elle regarda Iris, de loin. Elle leva la main, un geste très las, qui ressemblait à un adieu. Puis elle suivit Théo, sans résister, vers la rue du lac.
 
