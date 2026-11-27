@@ -197,7 +197,7 @@ Il mit de l'eau à chauffer. Cette fois, il demanda :
 
 — Thé ou café ?
 
-Sophia faillit pleurer, pour une raison si bête qu'elle ne la dit jamais à personne : c'était la première fois, en quarante-six ans, que l'eau de cette cabine chauffait pour quelqu'un qui était là.
+Sophia faillit pleurer, pour une raison si bête qu'elle ne la dit jamais à personne : c'était la première fois, en quarante-six ans, que son père, lui, demandait.
 
 ---
 
@@ -240,6 +240,12 @@ Il sourit. C'était un vrai sourire, maladroit, sans publicité.
 Il retourna à sa voiture. Avant de monter, il se retourna une dernière fois.
 
 — J'ai retrouvé un cahier, dans mon tiroir, dit-il. Mon cahier de laboratoire. Il y a des pages dedans, à la fin, d'une écriture que je ne connais pas. Des chiffres, des initiales. Des *tours*. Je n'y comprends rien. Je vais le garder quand même. On ne sait jamais.
+
+Puis il la regarda, d'une façon qu'elle ne comprit pas.
+
+— Prenez soin de votre fille.
+
+Elle n'avait pas de fille. Il était déjà assis au volant.
 
 Il partit. Sophia regarda la voiture s'engager dans le tunnel, ses feux arrière rouges avalés par la lumière orange du sodium, et elle pensa qu'elle aussi, elle gardait des choses, on ne savait jamais. Elle mit la main dans sa poche. Il y avait le vieux dessin d'Anselme, plié en quatre. Et, contre lui, une petite mouche de pêche couleur de rouille, avec un fil de cuivre enroulé en spirale.
 

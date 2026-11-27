@@ -30,7 +30,7 @@ Il le trouva un matin de la mi-octobre, sur la paillasse, à côté du bac sept.
 
 Sur la page de droite, quelqu'un avait écrit, à l'encre, d'une écriture qu'il ne reconnut pas. Une écriture fine, régulière, presque typographique, comme celle d'un ingénieur qui a appris à écrire sur des plans.
 
-*Tour 47. J + 32.*
+*Tour 47. J + 33.*
 *Variable É. : greffe stable (hôte S.V.). Mémoire en érosion lente. Contact établi avec variable N. (hôte E.M.), conforme.*
 *Anomalie : variable I. (hôte M.D.). Non observée lors des tours précédents. À surveiller.*
 *Écart de la poussière : – 94 jours (attendu : – 91). La spirale se resserre.*

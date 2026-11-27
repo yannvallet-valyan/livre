@@ -118,7 +118,7 @@ Anselme ROCH (1956)  x  Hélène VARENNE (1960)    Étienne MARLE (1980)  x (1) 
 | déc. 2026 | Sophia quitte Vallorce avec Étienne | 23 |
 | 3 août 2027 | Naissance d'Anne | 23 |
 
-**Ligne d'origine (avec la Rouille) :** les premiers cas « officiels » datent de janvier 2027. En 2090, une guerre s'éteint parce que les belligérants oublient pourquoi ils se battent. Élise naît en 2103, Noé en 2101, Iris en 2130. Le refuge date de 2137.
+**Ligne d'origine (avec la Rouille) :** les premiers cas « officiels » datent de janvier 2027. En 2090, une guerre s'éteint parce que les belligérants oublient pourquoi ils se battent. Élise naît en 2103, Noé en 2101, Iris en 2130. Le refuge existe depuis au moins les années 2050 (Oriane y est née vers 2057) ; Élise en part en 2137.
 
 **Ligne nouvelle (épilogue) :** le carnet se transmet dans la famille, et l'on donne aux filles les noms qu'on y lit. **Iris Varenne naît en 2103**, à la place même qu'occupait Élise dans la lignée. **Élise naît en 2130**, à celle d'Iris. Les rôles se sont inversés : la mère est devenue la fille.
 

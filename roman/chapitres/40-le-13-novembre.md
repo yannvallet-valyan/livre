@@ -64,6 +64,10 @@ Il ne répondit pas tout de suite. Il regarda le lac, la vase, le clocher noir q
 
 — Moi aussi, dit-il. Je retrouverai le sommeil. Il y a des nuits où je me réveille dans le laboratoire, debout, en blouse, avec une lampe à la main. Je ne sais pas ce que j'y fais. Je veux que ça s'arrête.
 
+Il fit deux pas, puis se retourna.
+
+— Dormez bien, madame Varenne. Vraiment.
+
 Il partit sans attendre de réponse. Sophia le regarda traverser le parking entre les toupies, très droit, très seul, et elle eut pour lui une pitié qui ressemblait à de la tendresse.
 
 ---

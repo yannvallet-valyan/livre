@@ -1,0 +1,35 @@
+# Canon (à jour V3.3)
+
+## Le monde
+- **Le cristal** : gisement rouge sous le lac de Vallorce (barrage 1955-1958, vallée noyée en 1958). Il absorbe la mémoire des dormeurs proches, pousse près d'eux, se brise « comme du sucre ». Sa poussière dans l'eau = **la Rouille** (cristaux dans le cerveau, efface visages, puis mots, puis gestes, puis le soi : « rouillé jusqu'au cœur »).
+- **Ouvertures** (cristal franchissable seulement quand le gisement affleure) : **été-nov. 1958** (construction), **oct. 1980** (vidange), **mi-sept.-14 nov. 2026** (abaissement pour injection de coulis). Hors ouverture : sous 90 m d'eau.
+- **Une seule réalité, réécrite à chaque tour** (palimpseste). Ne survit d'un tour à l'autre que ce qui sort de la fenêtre (le sang, les objets transmis) et ce que garde le cristal (hors du temps).
+- **Ligne A** : la Rouille (cristal brisé le 14 nov. 2026 à 3 h 12 par Élise). Refuge souterrain en 2137.
+- **Ligne B** : cristal noyé intact dans le béton le 14 nov. 2026 à 9 h 40 → monde lumineux, jusqu'à ce que la fiole gardée par Sophia soit ouverte en 2141 → la Rouille repart.
+
+## Règles du voyage
+| Règle enseignée (manuel du refuge) | Vérité 🔒 tome 3 |
+|---|---|
+| On remonte **par le sang** dans un ancêtre proche du gisement pendant une ouverture | Vrai. **« Le sang mène au passé. »** |
+| On n'habite l'hôte **que lorsqu'il dort** | **Faux.** On peut l'habiter le jour comme la nuit. Règle inventée par Kerr pour protéger les hôtes. Le sommeil de l'aube est une habitude apprise. |
+| (inconnu) | **« La Rouille mène à l'avenir. »** Une conscience réfugiée dans le cristal suit le réseau des grains de Rouille et se pose dans un **rouillé jusqu'au cœur** (corps vide), qu'elle habite jour et nuit. |
+| Rien de matériel ne voyage ; le par-cœur tient ; le courant use d'abord l'identité (visages) ; garder **une ancre** | Vrai |
+| Briser le cristal → le fil casse → **chute** dans le dernier point d'ouverture (Anselme, oct. 1980) | Vrai |
+| Le noyer → le fil s'éteint doucement → la voyageuse **se dissout** dans l'hôte (variante « rester ») | Vrai, mais elle **dort** au fond de l'hôte et peut se réveiller une dernière fois (🔒 naissance de 2027, tour brisé) |
+- Compter jusqu'à 60 pour s'installer dans l'hôte. Les enfants de la lignée s'endorment à 59 (le 60e jamais entendu).
+- Chaque greffe laisse un **résidu** dans l'hôte, transmis aux descendants (berceuse, compter, « aubépine », Orion).
+
+## La boucle (tome 1, révélée)
+1. Élise (2137) part briser le cristal → c'est **elle** l'incident du 14 → elle tombe dans Anselme (1980) → elle y vit ses nuits 46 ans. Anselme contient **les Élise de tous les tours** (couches de vase, « nous »), dont la plus ancienne : **Élise B** (cheveux longs, « maman »).
+2. **Tour 47** (le roman) : Élise voit sa chute dans le cristal avant le 14 (« en avance, cette fois »), choisit la **3e porte : rester**. Coulis le 14 à 6 h ; dissolution à 9 h 40 ; Anselme se réveille seul.
+3. Il n'y a pas de premier tour. Chaque solution fabrique le problème suivant : briser → Rouille A ; noyer → quelqu'un garde un grain (Sophia) → fiole ouverte (Iris B, 2141) → Rouille B → Élise B part (2164), écrit la page « Le no[yer] ne suffit pas », brise → tombe en 1980 → la page arrive au Conseil de A → envoie Élise A.
+4. **Tour aux règles brisées** (raconté dans `31` et `36`) : Élise et Noé franchissent toutes les règles une nuit d'octobre ; Sophia fuit la vallée ; pas d'Anne ; au tour suivant, personne ne vient de 2137.
+
+## La trilogie 🔒 (→ `../roman/bible/trilogie.md`)
+- **Deux Iris**, filles d'Élise et Noé : **Iris du passé** (conçue dans Sophia/Étienne pendant le tour brisé, née une nuit de 2027 ; Élise et Noé vivent la naissance) et **Iris du présent** (née 2130 au refuge).
+- **Kerr** : voyageur né vers 2156 au refuge (fils de K. et d'Iris du présent), part en 2180 (24 ans) dans son ancêtre **Bastien Kerr** (2026). Il connaît la vraie règle, écrit en 2026 le **manuel** (archives Léthé, Genève → retrouvé par le refuge en 2134) et la fausse règle. Il suit la Rouille jusqu'en 2045 (tour brisé), dans Théo, fils de Bastien, et vit avec **Iris du passé**.
+- **K. = Sacha**, fils de Kerr et d'Iris du passé (né ~2050). Rouillé à 15 ans (~2065), son père lui apprend à partir : « mort » pour tous, il erre dans le cristal, mesure les tours (cahier noir, « Tour 47 »). Vers 2150 il revient par la Rouille dans un rouillé du refuge (descendant de Léa Kerr) et aime **Iris du présent** → père de Kerr.
+- **L'anneau** : Kerr et K. sont chacun le père de l'autre ; chaque Iris est mère de l'un ; Élise et Noé sont grands-parents des deux. Le savoir du voyage n'a pas d'inventeur. **Personne n'a commencé.** La parenté est assumée sans pudeur.
+- **Kerr « sauvegarde la boucle »** : sa famille n'existe que si le tour brisé revient. Il n'est pas méchant (miroir de Noé : « La boucle doit tourner »), pas innocent non plus.
+- **Infermable** : empêcher la naissance d'Iris du passé efface K., Kerr, le manuel, donc les voyageurs, donc ceux qui l'empêchent.
+- **Fin du tome 3** : nuit d'octobre du tour brisé, cuisine d'Étienne, avant la conception. Kerr et Sacha (même corps, enfin ensemble) disent tout à Élise et Noé et leur laissent le choix. Dernière page : la main au-dessus du mètre, « Cinquante-neuf. » Coda : *Tour 48. J + 1. Elle est arrivée. Elle a peur. Cette fois, je descends la voir. — S.*

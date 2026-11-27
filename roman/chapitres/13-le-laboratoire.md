@@ -66,7 +66,7 @@ Sophia regarda la date. 1-4-1-1. Le code de la porte.
 
 ---
 
-Ce soir-là, en quittant le laboratoire, elle vit Kerr sur la grève.
+Ce soir-là, en quittant le laboratoire, elle vit Kerr, rentré de Lyon, sur la grève.
 
 Il ne l'avait pas vue. Il était descendu par le chemin des pêcheurs, en chemise blanche malgré le froid, les mains dans les poches, et il marchait lentement le long de l'eau, à l'endroit où la vase rejoignait le gravier. Il s'arrêta. Il se baissa. Il ramassa un galet, l'examina, le reposa. Il en ramassa un autre, blanc, rond, presque lumineux dans le crépuscule, et il le garda dans la main un moment.
 

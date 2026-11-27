@@ -96,7 +96,7 @@ Le jeudi matin, sur la table de la cuisine, il y avait une feuille de papier.
 
 Elle la vit de loin, en entrant. Elle sut avant même de la lire que ce n'était pas elle qui l'avait posée là. Elle s'en approcha à pas lents, prudents, comme d'un animal qui pourrait mordre.
 
-C'était son écriture. Les mêmes boucles, la même pente, la même façon de barrer les *t*. Mais elle était plus lente, plus appliquée, comme celle d'un enfant qui recopie un modèle. Et l'encre était noire.
+C'était son écriture. Les mêmes boucles, la même pente, la même façon de barrer les *t*. Mais elle était plus lente, plus appliquée, comme celle d'une enfant qui recopie un modèle. Et l'encre était noire.
 
 Sophia n'avait pas d'encre noire. Elle n'en avait jamais eu.
 

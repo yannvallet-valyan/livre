@@ -98,6 +98,12 @@ Il se prit la tête entre les mains, celles d'Étienne.
 
 — Nous ne savions pas, dit Élise. Ce n'est pas pareil que de ne pas vouloir.
 
+Noé resta longtemps silencieux.
+
+— Et si ce tour-là, on avait eu un enfant ? dit-il enfin. Il aurait été à qui ?
+
+Élise ne répondit pas.
+
 ---
 
 Ils restèrent assis jusqu'à quatre heures, à un mètre l'un de l'autre. Entre deux silences, elle lui dit ce qu'elle avait écrit la veille à Sophia : la troisième porte. Il ne répondit rien. Puis Élise parla de nouveau, et sa voix était très calme.

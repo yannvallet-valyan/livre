@@ -43,7 +43,7 @@ On était le 24 octobre.
 *Florian Besson, 22 ans : oubli du prénom de sa sœur, ~1 h. 6 oct.*
 *Martine Pradel, 71 ans : oubli du trajet pour rentrer chez elle (40 ans au même endroit). 11 oct.*
 *Jean-Luc Ferrand, boulanger : oubli du code de sa carte bancaire. 15 oct.*
-*Élodie Matras, 9 ans : ne reconnaît plus sa maîtresse pendant une matinée. 19 oct.*
+*Élodie Matras, 9 ans : ne reconnaît plus sa maîtresse pendant une matinée. 16 oct.*
 *Corinne Delorme : nom du chien. 24 oct.*
 
 — Ça revient à chaque fois, dit Étienne. Une heure, une matinée. Mais ça revient de moins en moins vite.
@@ -106,7 +106,7 @@ Elle écrivit le soir, d'une écriture qui partait dans tous les sens.
 
 *Corinne a oublié le nom de Biscotte. Ça commence. Tu avais trois mois de retard.*
 
-Élise lut la page à une heure du matin. Elle la lut plusieurs fois, la première ligne surtout. Elle pensa à Anne, au 3 août, au registre rouge : *de père non dénommé*. Elle pensa à la cicatrice au-dessus d'un sourcil, à des lèvres qu'elle n'embrasserait jamais et qui, cet après-midi, avaient embrassé la bouche qu'elle habitait.
+Élise lut la page à une heure du matin. Elle la lut plusieurs fois, la première ligne surtout. Elle pensa à Anne, au 3 août, au registre rouge : *de père non dénommé*. Elle pensa à la cicatrice au-dessus d'un sourcil, à des lèvres qu'elle n'embrasserait jamais et qui, ce soir, avaient embrassé la bouche qu'elle habitait.
 
 Elle prit le stylo noir.
 
@@ -134,4 +134,4 @@ Elle avait creusé. Les ongles étaient cassés jusqu'à la chair. Et dessous, d
 
 Sur le certificat, Étienne écrivit : *noyade accidentelle au cours d'un épisode de somnambulisme*. La Fondation Léthé prit les obsèques à sa charge. Kerr envoya une couronne. Le protocole de sommeil fut suspendu deux jours, puis reprit avec une nouvelle volontaire.
 
-Le soir, Sophia ne put rien écrire dans le carnet. Elle colla seulement, sur la page de droite, l'avis de décès découpé dans le journal, et elle laissa la page blanche autour.
+Deux jours plus tard, Sophia ne put toujours rien écrire dans le carnet. Elle colla seulement, sur la page de droite, l'avis de décès découpé dans le journal, et elle laissa la page blanche autour.

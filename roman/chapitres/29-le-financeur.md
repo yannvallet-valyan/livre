@@ -20,7 +20,7 @@ Elle s'assit.
 
 Il lui parla pendant une heure, et elle eut l'horrible impression qu'il était sincère.
 
-La Fondation Léthé appartenait à un groupe pharmaceutique suisse qui avait perdu une fortune sur les antidépresseurs. Elle avait été créée trois ans plus tôt, après que Kerr, lui-même, avait fait analyser le contenu d'un bocal reçu par la poste. On y avait trouvé une structure cristalline inconnue, et une propriété qui avait fait trembler les mains de tout le monde : placée à proximité d'un rat endormi, la substance effaçait, sélectivement, ce que le rat avait appris dans la journée.
+La Fondation Léthé appartenait à un groupe pharmaceutique suisse qui avait perdu une fortune sur les antidépresseurs. Elle avait été créée trois ans plus tôt, après l'analyse d'un échantillon que Kerr avait apporté lui-même, sans dire d'où il venait. On y avait trouvé une structure cristalline inconnue, et une propriété qui avait fait trembler les mains de tout le monde : placée à proximité d'un rat endormi, la substance effaçait, sélectivement, ce que le rat avait appris dans la journée.
 
 — Vous imaginez ? dit Kerr. Vous imaginez ce que ça veut dire ? Les soldats qui reviennent de guerre et qui revoient chaque nuit le visage du gamin qu'ils ont tué. Les femmes violées qui sursautent quand un homme lève la main. Les parents qui ont trouvé leur enfant mort dans son lit et qui le retrouvent mort chaque matin en se réveillant. On pourrait leur enlever ça. Juste ça. Leur rendre une vie.
 
@@ -64,7 +64,7 @@ Il eut un petit rire sans joie.
 
 Il se tut un moment.
 
-— Je dors ici, certaines nuits. Dans la salle du fond, à côté d'un bac. Je ne l'ai dit à personne. Et je perds des choses : mes clés, mon badge. Je le retrouve dans la boîte à gants, dans le frigo, sur le toit de ma voiture. Je me dis que c'est le prix.
+— Je dors ici, certaines nuits. Dans la salle du fond, à côté d'un bac. Je ne l'ai dit à personne. Et je perds des choses : mes clés, mon badge. Je le retrouve dans la boîte à gants, dans le frigo, sur le toit de ma voiture. Et je perds des heures. Des après-midi entiers, en plein jour, dont je ne me souviens pas. Je me dis que c'est le prix.
 
 Puis il lui retira son badge d'accès à la galerie, poliment, en s'excusant, et lui conseilla de prendre une semaine de congé.
 

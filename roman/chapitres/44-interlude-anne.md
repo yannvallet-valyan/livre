@@ -48,7 +48,7 @@ Elle connaissait ces noms. Elle les connaissait parce qu'elle avait lu, dans le 
 
 Personne ne les avait donnés à des étoiles. Personne qu'elle connaisse.
 
-Le 14 novembre 2026, à neuf heures quarante, au fond d'une galerie pleine de béton, quelque chose s'était endormi en elle pour la dernière fois et lui avait tout laissé. Une bibliothèque sous une ville. Une recette de soupe. Une chanson dont elle connaissait désormais les trois couplets. Le visage d'une enfant aux mains pleines de craie. Elle avait reçu tout cela comme on reçoit un héritage, en vrac, sans inventaire. Elle avait passé des années à le ranger.
+Le 14 novembre 2026, à neuf heures quarante, au fond d'une galerie pleine de béton, quelque chose s'était endormi en elle pour la dernière fois, croyait-elle, et lui avait tout laissé. Une bibliothèque sous une ville. Une recette de soupe. Une chanson dont elle connaissait désormais les trois couplets. Le visage d'une enfant aux mains pleines de craie. Elle avait reçu tout cela comme on reçoit un héritage, en vrac, sans inventaire. Elle avait passé des années à le ranger.
 
 Elle avait reçu tout, sauf une nuit.
 

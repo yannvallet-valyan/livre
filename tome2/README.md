@@ -2,6 +2,8 @@
 
 > ⚠️ Ce dossier contient toutes les révélations du tome 1 et des pistes pour le tome 2. Il s'appuie sur les règles canoniques de `../roman/bible/chronologie.md` (§0).
 
+> 🔄 **Révision en cours :** l'architecture en trois tomes, les deux Iris et le rôle de Kerr sont dans `../roman/bible/trilogie.md`. Ce document prime sur le présent fichier là où ils divergent (en particulier sur l'héroïne du tome 2).
+
 ## Titre de travail
 **La Dame du lac**. Autres possibilités : *La Vase*, *Vallorce-le-Bas*.
 
