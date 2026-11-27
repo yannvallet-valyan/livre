@@ -2,7 +2,7 @@
 
 *(premier jet)*
 
-À quinze ans, Iris était la plus grande de sa classe et la plus silencieuse.
+À presque quinze ans, Iris était la plus grande de sa classe et la plus silencieuse.
 
 Elle s'asseyait au fond, près de la fenêtre, un cahier ouvert devant elle, et dessinait des visages dans les marges. Les professeurs, qui l'aimaient bien, ne la dérangeaient pas. Elle avait de bonnes notes, sans effort, comme on respire. Elle écrivait à la craie sur les tableaux quand on la lui demandait, d'une écriture ronde, ferme, qui avait quelque chose de très ancien. On disait qu'elle avait « de la tenue ». Elle ne savait pas ce que cela voulait dire.
 
@@ -142,4 +142,4 @@ Elle détourna les yeux. Elle regarda le ciel, qui rougissait derrière Fourviè
 
 Elle prit un gâteau. Elle le mangea, le regard fixe. Iris la regarda. Elle comprit, au fond d'elle, qu'il y avait là un secret, aussi lourd que le sien, et qu'elles ne se le diraient jamais.
 
-Elle ne chercha pas. Elle ne le sut que vingt ans plus tard, un jeudi de mars, à six heures dix, devant la porte entrouverte d'une chambre d'enfant.
+Elle ne chercha pas. Elle ne le sut que vingt-deux ans plus tard, un jeudi de mars, à six heures dix, devant la porte entrouverte d'une chambre d'enfant.

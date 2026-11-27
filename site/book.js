@@ -13642,6 +13642,33 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Elle était arrivée à la maternité à sept heures du soir, avec un sac de sport et une valise de layette que sa mère avait remplie sans rien dire. Hélène l'avait accompagnée jusqu'à la porte, en taxi, la main serrée sur la sienne, et n'avait pas voulu monter. « Je n'aime pas les hôpitaux », avait-elle dit. C'était la seule fois que Sophia l'avait entendue mentir."
+    },
+    {
+     "t": "p",
+     "s": "On l'avait installée dans une chambre à deux lits, dont l'autre était vide, avec une fenêtre sur une cour et un crucifix de plastique au-dessus de la porte. Une aide-soignante lui avait demandé son nom, son âge, son groupe sanguin. Elle avait répondu mécaniquement. À la rubrique *père*, elle avait dit : « Non dénommé. » La femme avait levé les yeux. Elle avait écrit, d'une main sans jugement."
+    },
+    {
+     "t": "p",
+     "s": "Les contractions avaient commencé vers huit heures. Elles avaient la régularité d'une pompe : toutes les neuf minutes, puis toutes les sept, puis toutes les cinq. Sophia les comptait. Elle se tenait à la barre du lit, le dos cambré, les yeux fermés, avec la même concentration que devant un relevé. *Dix-huit secondes. Vingt-deux. Vingt-cinq.* La douleur n'était pas ce qu'elle avait imaginé. Elle n'était pas violente. Elle était exacte. Elle prenait son corps comme une main prend un objet, et le tordait, avec soin, jusqu'au point précis où il cédait."
+    },
+    {
+     "t": "p",
+     "s": "La sage-femme s'appelait Madame Ferrand. C'était une grande femme brune, aux bras de boulangère, avec l'accent du Sud et une voix qui ne monte jamais. Elle venait, toutes les demi-heures, poser la main sur le ventre, écouter, noter. Elle disait : « Ça va, ma belle. » Elle disait : « On y est presque. » Elle disait : « Votre bébé est bien accroché. » Sophia la haïssait de toute son âme."
+    },
+    {
+     "t": "p",
+     "s": "Elle haïssait aussi le couloir, l'odeur de savon et de javel, les pas qui passaient, le chariot qui grinçait, les rires d'une infirmière, très loin, qu'elle entendait comme on entend, dans un train, des gens qui s'amusent dans un autre wagon. Elle se sentait seule. Elle n'avait jamais été aussi seule. Il n'y avait personne pour lui tenir la main, personne à qui dire *j'ai peur*, personne à qui reprocher quoi que ce soit."
+    },
+    {
+     "t": "p",
+     "s": "Elle pensa à l'homme. Elle chercha son visage. Elle le retrouva en morceaux : une cicatrice au-dessus du sourcil, une façon de se gratter la nuque, un rire un peu trop grave pour un médecin. Elle pensa : *je lui aurais dit.* Elle pensa : *non.* Elle ferma les yeux plus fort."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
      "s": "Vers deux heures, les lampes s'éteignirent."
     },
     {
@@ -13704,7 +13731,7 @@ window.BOOK = {
      "s": "Elle se rappelait seulement ces deux mots, qui resteraient toute sa vie dans sa bouche comme une pierre qu'on ne crache pas. *Vas-y.* Elle les avait dits. Elle les avait voulus. Elle ne saurait jamais à qui."
     }
    ],
-   "words": 537,
+   "words": 962,
    "tome": 2
   },
   {
@@ -13724,6 +13751,29 @@ window.BOOK = {
     {
      "t": "p",
      "s": "Il y avait quelqu'un d'autre dans sa tête. Pas une voix. Une présence qui s'éloignait, doucement, avec la dignité de quelqu'un qui vient d'accomplir ce pour quoi il était venu. Étienne le sentit partir, comme on sent le dernier wagon d'un train s'éloigner du quai. Il voulut le retenir. Il ne savait pas qui."
+    },
+    {
+     "t": "p",
+     "s": "Il avait la route en morceaux, comme un film qu'on a vu à moitié endormi. Une portière qui claque. Un volant froid, sous des mains qu'il ne guidait pas. Des phares sur du goudron mouillé, des bornes blanches qui défilaient, un virage où le corps s'inclinait de lui-même avant que l'œil n'ait vu la courbe. Une aire d'autoroute, avec une pompe, un homme en gilet jaune qui lui avait demandé : « Ça va, monsieur ? » Il avait répondu, d'une voix qu'il ne reconnaissait pas, très calme : « J'ai quelqu'un à voir. » L'homme avait haussé les épaules. Il lui avait rendu sa monnaie."
+    },
+    {
+     "t": "p",
+     "s": "Il se rappelait aussi une voix. Pas dans l'oreille : dans la poitrine, derrière les côtes, un timbre un peu rauque, un peu las, qui répétait la même phrase avec une patience d'instituteur. *Plus vite. On y est presque. Plus vite.* Il se rappelait avoir répondu *oui*, comme on répond à une mère, et avoir senti, dans ses jambes, un empressement qui n'était pas à lui."
+    },
+    {
+     "t": "p",
+     "s": "Il se rappelait enfin un escalier, un couloir blanc, un nom sur une porte, et cette certitude absurde, terrible, d'être attendu."
+    },
+    {
+     "t": "p",
+     "s": "Il s'était arrêté sur le seuil. Il avait entendu un cri. C'était un cri de femme, sans paroles, long, qui montait d'une cave d'elle-même. Il avait compris que c'était pour lui. Il avait compris qu'il arrivait trop tard et juste à temps. Quelqu'un lui avait mis les mains en coupe, et avait posé dedans quelque chose de chaud, de mouillé, de vivant, qui criait aussi."
+    },
+    {
+     "t": "p",
+     "s": "Il n'avait pas pleuré. Il avait seulement pensé, très nettement, avec les mots de quelqu'un d'autre : *Nous voilà.*"
+    },
+    {
+     "t": "hr"
     },
     {
      "t": "p",
@@ -13842,7 +13892,7 @@ window.BOOK = {
      "s": "Il se réveilla à Grenoble, avec les joues mouillées, sans savoir de quoi."
     }
    ],
-   "words": 746,
+   "words": 1023,
    "tome": 2
   },
   {
@@ -14169,6 +14219,522 @@ window.BOOK = {
     }
    ],
    "words": 968,
+   "tome": 2
+  },
+  {
+   "id": "t2-09b-helene",
+   "n": null,
+   "label": "Chapitre 9 bis",
+   "title": "Le quai",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "Hélène l'emmena voir le fleuve le jour de ses neuf ans."
+    },
+    {
+     "t": "p",
+     "s": "C'était un dimanche de juillet 2036, un de ces dimanches de Lyon où la chaleur monte des pavés comme d'un four. Elles avaient pris le funiculaire jusqu'à Saint-Paul, puis longé la Saône, puis traversé la Presqu'île, en suivant des rues que la vieille femme connaissait par cœur et qu'elle ne nommait jamais. Hélène avait soixante-seize ans. Elle marchait lentement, s'arrêtant à chaque coin de rue pour reprendre son souffle, un cabas de toile à la main, avec la dignité de ceux qui ne se plaignent pas. Elle avait mis sa robe grise, celle des grandes occasions, et un chapeau de paille qu'elle n'avait pas porté depuis la mort de son mari. Elle n'avait pas eu de mari. Elle disait cela : « mon mari », pour parler de l'homme qu'elle avait quitté."
+    },
+    {
+     "t": "p",
+     "s": "Elles s'assirent sur un banc des quais du Rhône, à l'ombre d'un platane. Le fleuve passait en dessous, large, lent, couleur de bronze, avec des péniches qui glissaient comme des bêtes endormies. Des enfants criaient plus loin, sur une plage de galets. Des couples marchaient, bras dessus, bras dessous, en parlant bas. Hélène sortit de son cabas deux cornets de glace, qu'elle avait gardés dans un linge humide, et en tendit un à Iris."
+    },
+    {
+     "t": "p",
+     "s": "— Vanille et pistache, dit-elle. C'est ce que prenait ta mère."
+    },
+    {
+     "t": "p",
+     "s": "— Maman n'aime pas la glace."
+    },
+    {
+     "t": "p",
+     "s": "— Elle n'aime pas qu'on le sache."
+    },
+    {
+     "t": "p",
+     "s": "Iris mangea. Elle regarda l'eau. Elle avait les genoux écorchés, les cheveux dans le cou, et au coin de l'œil gauche, minuscule, ce grain de beauté qu'on lui avait toujours dit de ne pas toucher. Elle sentait le soleil sur ses épaules. Elle se sentait, pour la première fois depuis longtemps, tranquille. Elle ne s'était pas aperçue que sa grand-mère ne mangeait pas."
+    },
+    {
+     "t": "p",
+     "s": "— Tu comptes, la nuit, dit Hélène."
+    },
+    {
+     "t": "p",
+     "s": "Iris leva les yeux. Hélène ne la regardait pas. Elle regardait la péniche, qui passait lentement sous le pont, avec son chargement de sable."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne sais pas."
+    },
+    {
+     "t": "p",
+     "s": "— Si, tu sais. Je t'ai entendue. Je dors à côté de toi depuis des années. Ne crois pas que je ne le sais pas."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne le fais pas exprès."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "Il y eut un silence. Un pigeon vint se poser près du banc, picorer une miette de gaufrette. Hélène le regarda, sans bouger. Elle dit :"
+    },
+    {
+     "t": "p",
+     "s": "— Jusqu'où ?"
+    },
+    {
+     "t": "p",
+     "s": "— Cinquante-neuf."
+    },
+    {
+     "t": "p",
+     "s": "Hélène ferma les yeux."
+    },
+    {
+     "t": "p",
+     "s": "— Il manque le dernier, dit Iris."
+    },
+    {
+     "t": "p",
+     "s": "— Il manque toujours le dernier, murmura la vieille."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Elle parla pendant une heure."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne s'adressait pas vraiment à l'enfant. Elle parlait au fleuve, aux péniches, à l'ombre du platane, avec la voix basse, un peu cassée, de ceux qui s'entraînent depuis longtemps à dire une chose et qui la disent enfin, sans y croire, parce que le moment est venu. Elle disait « il » sans le nommer. Elle disait « là-bas » sans préciser. Elle dit qu'elle avait eu vingt-cinq ans, une fois. Qu'elle avait connu un homme dans une vallée de montagne. Qu'il était gardien d'un barrage. Qu'il était doux, un peu absent, d'une patience infinie, et qu'on l'aimait à cause de cela."
+    },
+    {
+     "t": "p",
+     "s": "— Il chantait la nuit, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Quoi ?"
+    },
+    {
+     "t": "p",
+     "s": "— Il chantait. Sans le savoir. Je me réveillais, il était assis sur le bord du lit, les mains sur les cuisses, et il chantait, très bas, une chanson que je ne comprenais pas. Et puis il comptait. Et puis il se rallongeait. Et le matin, il ne se rappelait rien."
+    },
+    {
+     "t": "p",
+     "s": "Iris ne bougeait pas. Elle serrait son cornet, dont la glace fondait sur ses doigts."
+    },
+    {
+     "t": "p",
+     "s": "— Et puis, une nuit, dit Hélène, il s'est tourné vers moi. Il m'a regardée. Il m'a dit : « Madame, pardon. Je crois que je me suis trompée de lit. » Avec la voix d'une autre. Je n'ai jamais pu le chasser de mes oreilles. Je suis partie le lendemain. J'avais une petite fille de deux ans. Je l'ai prise sous le bras. J'ai pris le train."
+    },
+    {
+     "t": "p",
+     "s": "Elle posa son cornet sur le banc, à côté d'elle, sans l'avoir entamé. Elle se mit à essuyer ses doigts, un à un, avec un mouchoir de batiste brodé d'un H."
+    },
+    {
+     "t": "p",
+     "s": "— Je n'ai jamais su ce que c'était. Je ne l'ai jamais demandé. J'avais peur de la réponse. Je me suis dit : si je ne sais pas, ce ne sera pas à moi. C'est une pensée de lâche. Mais on ne choisit pas toujours entre la lâcheté et le malheur."
+    },
+    {
+     "t": "p",
+     "s": "— Maman le sait ?"
+    },
+    {
+     "t": "p",
+     "s": "— Ta mère sait qu'elle n'a pas de père."
+    },
+    {
+     "t": "p",
+     "s": "— Elle ne sait pas pourquoi."
+    },
+    {
+     "t": "p",
+     "s": "— Non."
+    },
+    {
+     "t": "p",
+     "s": "— Et moi ?"
+    },
+    {
+     "t": "p",
+     "s": "Hélène tourna enfin la tête. Elle regarda l'enfant, avec cette expression qu'Iris ne lui avait jamais vue : une tendresse affolée, un amour de vieille bête qui tremble pour son petit. Elle prit sa main, collante de glace, entre les siennes, sèches comme du papier."
+    },
+    {
+     "t": "p",
+     "s": "— Toi, tu as le front de ton grand-père, dit-elle. Et les mains. Et la voix. Et ta façon de te taire, quand on te demande ce que tu penses."
+    },
+    {
+     "t": "p",
+     "s": "— Je n'ai rien fait."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais, ma chérie. Je te le dis pour que tu saches de qui tu viens."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Elles rentrèrent à pied, sans parler. Il faisait plus frais. Le soleil descendait derrière la colline de la Croix-Rousse, en jetant sur les façades des reflets de miel. Hélène s'arrêta devant une boutique de bonbons, dont la vitrine exposait de grands bocaux de verre pleins de couleurs. Elle acheta une poignée de réglisse, qu'elle mit dans un petit sac de papier. Elle le tendit à Iris."
+    },
+    {
+     "t": "p",
+     "s": "— Tu ne diras pas à ta mère ce que je t'ai raconté."
+    },
+    {
+     "t": "p",
+     "s": "— Non."
+    },
+    {
+     "t": "p",
+     "s": "— Tu ne diras à personne ce que tu entends, la nuit. Jamais. Même à tes amies. Même à tes amoureux, plus tard. Il y a des choses qu'on garde parce qu'on les donne mal."
+    },
+    {
+     "t": "p",
+     "s": "— D'accord."
+    },
+    {
+     "t": "p",
+     "s": "— Promets-le."
+    },
+    {
+     "t": "p",
+     "s": "Iris regarda sa grand-mère. Elle avait neuf ans, un cornet vide à la main, un sac de réglisse dans l'autre. Elle fit cette promesse avec toute la gravité qu'on a à neuf ans, devant une vieille dame en chapeau de paille qui a peur, et elle la tint onze ans."
+    },
+    {
+     "t": "p",
+     "s": "Ce soir-là, elle se coucha dans son lit de la Croix-Rousse, la tête pleine du fleuve. Hélène vint s'allonger sur le matelas, par terre, à côté d'elle. Elle ne dit rien. Elle resta les yeux ouverts, très longtemps, dans le noir. Elle écouta."
+    },
+    {
+     "t": "p",
+     "s": "À trois heures, la petite se redressa, les yeux grands ouverts, et dit d'une voix de femme, grave, fatiguée :"
+    },
+    {
+     "t": "p",
+     "s": "— Ne bouge pas. Je compte."
+    },
+    {
+     "t": "p",
+     "s": "Hélène posa la main sur le front de l'enfant. Elle ne dit pas : *dors.* Elle dit, tout bas, à la femme qui parlait par cette bouche :"
+    },
+    {
+     "t": "p",
+     "s": "— Compte, ma fille. Compte autant que tu veux."
+    },
+    {
+     "t": "p",
+     "s": "Elle n'attendait aucune réponse. La voix compta jusqu'à cinquante-neuf. Puis, très doucement, une autre voix, plus rauque, plus douce, répondit :"
+    },
+    {
+     "t": "p",
+     "s": "— Ça suffit. Dors."
+    },
+    {
+     "t": "p",
+     "s": "Hélène resta là jusqu'au matin, la main à plat sur ce petit front brûlant, à regarder dormir un enfant qui ressemblait à son père."
+    }
+   ],
+   "words": 1207,
+   "tome": 2
+  },
+  {
+   "id": "t2-09c-le-toit",
+   "n": null,
+   "label": "Chapitre 9 ter",
+   "title": "Le toit",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "À presque quinze ans, Iris était la plus grande de sa classe et la plus silencieuse."
+    },
+    {
+     "t": "p",
+     "s": "Elle s'asseyait au fond, près de la fenêtre, un cahier ouvert devant elle, et dessinait des visages dans les marges. Les professeurs, qui l'aimaient bien, ne la dérangeaient pas. Elle avait de bonnes notes, sans effort, comme on respire. Elle écrivait à la craie sur les tableaux quand on la lui demandait, d'une écriture ronde, ferme, qui avait quelque chose de très ancien. On disait qu'elle avait « de la tenue ». Elle ne savait pas ce que cela voulait dire."
+    },
+    {
+     "t": "p",
+     "s": "Elle n'avait qu'une amie."
+    },
+    {
+     "t": "p",
+     "s": "Lise Marchand avait changé de ville, de lycée, de coiffure, et n'avait jamais changé d'Iris. Elles se retrouvaient le mercredi après-midi sur le toit de l'immeuble d'Hélène, une terrasse de zinc qu'on atteignait par une échelle de service, d'où l'on voyait toute la ville : les toits d'ardoise de la Croix-Rousse, les clochers de Fourvière, la ligne de brume bleue des Alpes, très loin, les jours de grand vent. Elles y apportaient des bonbons, des cigarettes qu'elles ne fumaient pas, un transistor qui grésillait. Elles y parlaient pendant des heures."
+    },
+    {
+     "t": "p",
+     "s": "— Tu veux vivre où, plus tard ? demandait Lise."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne sais pas."
+    },
+    {
+     "t": "p",
+     "s": "— Moi, à Paris. Ou à Genève. Un truc avec des vitres."
+    },
+    {
+     "t": "p",
+     "s": "— Pourquoi ?"
+    },
+    {
+     "t": "p",
+     "s": "— Pour qu'on me voie, dit Lise. Pour qu'on se dise : *elle a réussi.* Toi, tu t'en fiches."
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "— Tu es bizarre."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "Lise riait. Elle avait une façon de rire qui se coupait net, comme si on avait tiré un rideau. Elle se tournait alors vers Iris, avec ce regard rapide, scrutateur, de quelqu'un qui compare une image à un souvenir. Il lui arrivait de se taire un long moment, le menton sur les genoux, avec une expression que son amie prenait pour de la rêverie et qui n'en était pas."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Un mercredi de juin, il y eut une dispute."
+    },
+    {
+     "t": "p",
+     "s": "Ce fut Sophia qui la provoqua. Iris était rentrée tard, après la nuit blanche de la fête de la musique, les yeux rougis, les cheveux défaits, une odeur de fumée sur les vêtements. Sa mère l'attendait dans la cuisine, assise très droite sous la lampe, une tasse refroidie devant elle. Elle avait cinquante-trois ans. Elle avait travaillé dix heures. Elle en paraissait soixante."
+    },
+    {
+     "t": "p",
+     "s": "— Tu étais où ?"
+    },
+    {
+     "t": "p",
+     "s": "— Sur le toit."
+    },
+    {
+     "t": "p",
+     "s": "— Avec qui ?"
+    },
+    {
+     "t": "p",
+     "s": "— Lise."
+    },
+    {
+     "t": "p",
+     "s": "— Jusqu'à quatre heures ?"
+    },
+    {
+     "t": "p",
+     "s": "— On a regardé les feux d'artifice."
+    },
+    {
+     "t": "p",
+     "s": "Sophia ne répondit pas. Elle regardait sa fille, du haut en bas, avec cette froideur sèche des mères qui ont peur et ne savent pas le dire autrement. Elle dit :"
+    },
+    {
+     "t": "p",
+     "s": "— Tu parles dans ton sommeil."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "— Je t'ai entendue. Deux voix. Toujours deux voix."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais, maman."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne veux pas que tu dormes ailleurs. Je ne veux pas qu'on t'entende."
+    },
+    {
+     "t": "p",
+     "s": "Iris resta debout, une main sur le dossier d'une chaise. Elle sentit monter en elle quelque chose de très ancien, une colère de bête qu'on enferme."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne choisis pas, dit-elle. Je ne l'ai pas demandé."
+    },
+    {
+     "t": "p",
+     "s": "— Moi non plus, dit Sophia."
+    },
+    {
+     "t": "p",
+     "s": "Elle s'était levée, d'un bond. Elle se tenait là, très pâle, les mains serrées sur la table. Elle avait les yeux agrandis, et dans le fond de ses yeux, que sa fille connaissait par cœur, il y avait une chose qu'Iris n'y avait jamais vue : de la peur, nue, sans excuse."
+    },
+    {
+     "t": "p",
+     "s": "— Moi non plus, répéta-t-elle plus bas. Je ne l'ai pas demandé."
+    },
+    {
+     "t": "p",
+     "s": "Elles se regardèrent."
+    },
+    {
+     "t": "p",
+     "s": "— Qui est mon père ?"
+    },
+    {
+     "t": "p",
+     "s": "La question était venue toute seule. Elle ne l'avait jamais posée. Elle l'avait portée pendant des années, comme on porte un caillou dans une poche, en ne le sortant que pour le toucher. Sophia ne bougea pas. Elle resta immobile, la bouche entrouverte, comme quelqu'un qui cherche, sur une étagère haute, un objet qu'il sait avoir rangé."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne sais pas."
+    },
+    {
+     "t": "p",
+     "s": "— Maman."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne sais pas, dit-elle. Je te le jure. Il y a eu un homme. Il était doux. Il avait une cicatrice. Il…"
+    },
+    {
+     "t": "p",
+     "s": "Elle s'interrompit. Elle porta la main à sa bouche."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne me rappelle pas sa voix, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "Elle s'assit. Elle resta longtemps ainsi, le front dans la main. Iris ne lui prit pas l'épaule. Elle ne savait pas comment on faisait. Elle regarda le dos de sa mère, voûté, fragile, et sentit au fond d'elle deux voix qui se levaient, très bas, l'une grave, l'autre rauque, qui se taisaient pour ne pas déranger."
+    },
+    {
+     "t": "p",
+     "s": "Elle dit seulement :"
+    },
+    {
+     "t": "p",
+     "s": "— Je vais me coucher."
+    },
+    {
+     "t": "p",
+     "s": "Elle monta dans sa chambre. Elle s'allongea sans se déshabiller. Elle écouta, longtemps, le bruit de la cuisine, où sa mère pleurait sans un son, à la manière des gens qui n'ont jamais appris."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Le mercredi suivant, elle chanta sur le toit."
+    },
+    {
+     "t": "p",
+     "s": "Elle n'avait pas voulu. Lise lui avait demandé : « Qu'est-ce que tu fredonnes ? » Elle avait dit : « Rien. » Lise avait insisté. Elles étaient assises sur le zinc, dos au tuyau, les jambes tendues, devant un paquet de gâteaux secs. La lumière tombait en grandes plaques d'ambre sur les toits."
+    },
+    {
+     "t": "p",
+     "s": "— C'est joli. Chante-le."
+    },
+    {
+     "t": "p",
+     "s": "— Non."
+    },
+    {
+     "t": "p",
+     "s": "— Je suis ta seule amie. Chante."
+    },
+    {
+     "t": "p",
+     "s": "Iris chanta."
+    },
+    {
+     "t": "p",
+     "s": "Elle chanta les deux couplets, la voix basse, un peu rauque. Lise l'écouta sans bouger, les yeux fixés sur l'horizon. À la fin du deuxième, Iris s'arrêta. Elle resta la bouche entrouverte, le souffle suspendu."
+    },
+    {
+     "t": "p",
+     "s": "— Et le troisième ? demanda Lise."
+    },
+    {
+     "t": "p",
+     "s": "— Il n'existe pas."
+    },
+    {
+     "t": "p",
+     "s": "— Tout a un troisième."
+    },
+    {
+     "t": "p",
+     "s": "— Pas celui-là."
+    },
+    {
+     "t": "p",
+     "s": "Lise ne dit rien. Elle regarda son amie, avec cette attention rapide, scrutatrice. Elle ouvrit la bouche. Elle la referma. Iris vit un pli se creuser, entre ses sourcils, comme quand on hésite devant une porte."
+    },
+    {
+     "t": "p",
+     "s": "— Tu me dirais, dit Lise, si tu avais un problème ?"
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "— Tu me dirais tout ?"
+    },
+    {
+     "t": "p",
+     "s": "— Presque."
+    },
+    {
+     "t": "p",
+     "s": "— Presque, répéta Lise, avec un sourire tordu. C'est déjà beaucoup."
+    },
+    {
+     "t": "p",
+     "s": "Elle détourna les yeux. Elle regarda le ciel, qui rougissait derrière Fourvière. Elle dit, très vite, à voix basse, comme on lâche un aveu à un mur :"
+    },
+    {
+     "t": "p",
+     "s": "— J'ai fait quelque chose, une fois."
+    },
+    {
+     "t": "p",
+     "s": "— Quoi ?"
+    },
+    {
+     "t": "p",
+     "s": "— Rien. Je ne sais plus. Je suis fatiguée."
+    },
+    {
+     "t": "p",
+     "s": "— Dis-le."
+    },
+    {
+     "t": "p",
+     "s": "— Non."
+    },
+    {
+     "t": "p",
+     "s": "Elle prit un gâteau. Elle le mangea, le regard fixe. Iris la regarda. Elle comprit, au fond d'elle, qu'il y avait là un secret, aussi lourd que le sien, et qu'elles ne se le diraient jamais."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne chercha pas. Elle ne le sut que vingt-deux ans plus tard, un jeudi de mars, à six heures dix, devant la porte entrouverte d'une chambre d'enfant."
+    }
+   ],
+   "words": 1121,
    "tome": 2
   },
   {
