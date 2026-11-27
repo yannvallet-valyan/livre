@@ -81,6 +81,12 @@ Elle n'avait rien promis. Elle n'avait pas eu le temps de répondre : Élise s'�
 
 Elle était hydrologue. Elle avait passé sa vie à garder un témoin de chaque eau qu'elle avait étudiée. On ne détruit pas la seule preuve d'une chose que personne ne croira jamais. On la garde. On la garde au cas où. Elle se dit tout cela très vite, et elle sut, en se le disant, qu'elle se mentait.
 
+Ce n'était pas toute la vérité, et elle le savait. Le matin même, en se réveillant, elle avait cherché dans sa tête, comme on cherche à tâtons une marche, la voix qui avait été là depuis septembre : le compte à voix basse, la présence qui s'asseyait au fond d'elle, le petit remue-ménage des nuits. Il n'y avait plus rien. Il y avait un silence immense, propre, un silence de maison vidée, et elle s'était surprise à y tendre l'oreille, comme on écoute encore, des semaines après, l'escalier d'une personne partie.
+
+Elle avait retrouvé son corps. Elle l'avait voulu, ce corps, et elle l'avait. Elle découvrait que ce qu'elle regrettait n'était pas Élise : c'était la possibilité qu'on l'ait aimée assez pour l'habiter.
+
+Elle garda l'aiguille comme on garde un cheveu, un ticket de cinéma, une page de carnet. Une preuve minuscule, indéfendable, qu'une femme avait existé qui l'avait choisie.
+
 Elle fit glisser l'aiguille dans une fiole vide, la boucha, et écrivit sur l'étiquette, à l'encre bleue : *Vallorce, 14/11/2026.* Le soir, elle la rangea sur l'étagère du séjour, entre le lac d'Annecy et le lac du Bourget, à l'endroit exact où personne ne la remarquerait jamais.
 
 ---

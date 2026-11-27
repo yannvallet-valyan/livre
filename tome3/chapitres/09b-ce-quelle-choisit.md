@@ -70,6 +70,14 @@ Elle ne répondit pas par des mots.
 
 ---
 
+Ce ne fut pas toujours doux. Elle eut des matins où elle ne le supporta pas. Elle se réveillait avec la certitude que ce qu'elle faisait était une trahison, qu'elle bâtissait une vie dans le dos d'un homme qui lui avait demandé pardon, qu'elle avait pris un deuxième amour dans le corps d'un garçon mort, qu'elle recommençait, avec plus de soin, ce qu'elle avait reproché à Sacha : décider pour les autres. Elle le dit un jour à Walther, sèchement, en lui reprochant de ne pas se défendre. Il répondit, avec une maladresse qui la fit sourire malgré elle, qu'il n'avait jamais su se défendre qu'en calculant des poutres.
+
+Elle avait peur. Pas de lui : de la perdre. Elle avait perdu une mère, à sept ans ; Ruben vieillissait ; Sacha, qu'elle avait cru pouvoir aimer comme un frère, lui avait montré à quoi ressemble un homme qui sait trop. Elle craignait de s'attacher à un homme qui n'avait qu'un jour et pas de siècle, et qui pouvait s'éteindre un matin comme il était venu. Elle se mettait en colère sans raison. Elle lui disait : « Tu es trop poli. » Il disait : « Je sais. » Elle disait : « Ça m'énerve. » Il disait : « Je vous demande pardon. » Elle claquait la porte, et revenait une heure plus tard, avec des lentilles.
+
+Il eut ses maladresses aussi. Il fut jaloux, un après-midi de février, sans oser le dire, en découvrant sur la table de la salle des pompes un carnet qu'il savait être celui de l'autre. Il ne l'ouvrit pas. Il resta devant, les mains derrière le dos, avec une honte qu'il n'osa pas nommer. Il pensa : *il a le droit de l'aimer. Il l'a connue avant moi. Il la connaîtra après.* Il se dit qu'il habitait une chambre qui ne lui appartenait pas, qu'il s'y était fait un lit, qu'il y recevait une femme qui n'était pas la sienne et qu'il commençait, malgré lui, à croire que si.
+
+Il ne lui en parla jamais. Elle le devina. Elle posa, un soir, sa tête contre son épaule, sans rien dire. Il fut si heureux qu'il en eut peur.
+
 Ils eurent vingt-deux mois.
 
 Elle ne les raconta à personne, ensuite, pas même à l'enfant qui en naîtrait. Elle les garda comme on garde un objet qu'on a trop aimé pour l'exposer : dans un tiroir, sans y toucher, en sachant qu'il est là. Ils furent simples. Ils se retrouvaient à huit heures, à midi, à six heures, dans les endroits où personne ne venait : la salle des pompes, le dépôt des lampes, l'ancienne galerie nord. Ils parlaient. Ils riaient parfois, bêtement, d'un détail. Ils se tenaient la main, longtemps, sans rien dire. Elle avait vingt-trois ans. Il en avait trente et un, dans le corps d'un garçon de vingt-quatre qui n'avait jamais vécu. Ils ne savaient pas ce qu'ils faisaient. Ils le firent.

@@ -60,6 +60,72 @@ Il se tut. Élise ne dit rien. Elle avait les mains sur les cuisses, et elle ser
 
 ---
 
+— Est-ce que je la prenais dans mes bras ? dit Élise. Quand elle pleurait.
+
+— Oui.
+
+— Toujours ?
+
+Noé ne répondit pas tout de suite.
+
+— Pas toujours, dit-il. Tu étais fatiguée. Il y a eu des nuits où tu comptais à voix haute à côté du berceau, parce que tu n'avais plus la force de la prendre. Tu comptais jusqu'à soixante, et à soixante tu la prenais.
+
+— Elle me cherchait ? Quand je quittais la pièce ?
+
+— Elle te cherchait. Elle te suivait des yeux jusqu'à la porte. Elle ne pleurait pas. Elle regardait la porte.
+
+— Elle m'appelait maman ?
+
+— Elle t'a appelée *ma* pendant un an. Puis *mama*. Puis *maman*, un matin, en pleine cuisine, sans prévenir. Tu as lâché la louche.
+
+Élise rit, et ce n'était pas un rire. Elle se pencha en avant, les mains sur les genoux, comme quelqu'un qui a reçu un coup et qui attend de savoir où.
+
+— Et après ? dit-elle. Quand j'ai commencé à oublier.
+
+— Après, dit Noé.
+
+— Dis-le.
+
+— Il y a eu un soir. Elle avait six ans. Tu l'as appelée par un autre prénom.
+
+— Lequel ?
+
+— Je ne sais pas. Tu ne l'as dit qu'une fois. Tu l'as regardée, et tu as dit un nom que personne ne connaissait. Elle a répondu : *c'est moi, maman, c'est Iris.* Tu as dit : *oui, bien sûr, pardon.* Tu as fait la vaisselle jusqu'à minuit.
+
+Il se frotta le visage.
+
+— Je n'ai rien dit. J'aurais dû te prendre dans mes bras. J'ai séché les assiettes.
+
+Elle ne répondit pas. Les ongles de Sophia lui entraient dans les paumes. Elle chercha, sur le visage d'Iris, quelque chose qu'elle avait cru garder : le front, la ride, la manière de tenir son crayon. Elle trouva un front trop grand, des sourcils droits, un grain de beauté. Elle ne sut pas si elle les avait vus ou si Noé les lui avait donnés. Elle ne sut plus.
+
+— Est-ce que j'étais une bonne mère ? dit-elle enfin.
+
+— Je ne sais pas.
+
+— Tu ne sais pas ?
+
+— Je ne sais pas ce que c'est, dit Noé, avec une brusquerie qui les surprit tous les deux. Je n'ai jamais été un père. Je n'ai été que le tien. Je ne sais pas ce que c'est qu'une bonne mère. Je sais que tu l'as nourrie, lavée, bercée. Je sais que tu es restée huit ans. Je sais que tu es partie quand même.
+
+Il s'arrêta. Il avait dit la dernière phrase malgré lui. Il la regretta aussitôt.
+
+— Pardon.
+
+— Non, dit Élise. C'est vrai.
+
+Ils restèrent un moment sans parler. Il y eut un chien, loin, dans la vallée. Elle dit, très bas :
+
+— Est-ce qu'elle savait que je l'aimais ?
+
+Il ne répondit pas. Il regarda le ciel, la crête, ses mains. Il aurait voulu dire oui. Il aurait voulu pouvoir le jurer. Il dit, enfin, avec la seule honnêteté qui lui restât :
+
+— Elle te regardait comme on regarde quelqu'un qui est déjà en train de partir. Je ne sais pas ce qu'elle savait. Je sais qu'elle ne t'a jamais reproché quoi que ce soit. Elle a fini par ne plus rien te demander.
+
+Élise ferma les yeux.
+
+Elle ne pleura pas. Elle resta ainsi un très long moment, assise sur le béton froid, avec sur les genoux deux mains qui ne lui appartenaient pas, et dans la tête un vide en forme d'enfant.
+
+---
+
 Puis il raconta l'oubli. Il le raconta autrement que la première fois, sur le barrage, quand il parlait d'*une femme*. Cette fois, il disait *tu*.
 
 — Ça a commencé par mon nom. Tu cherchais mon nom en me regardant. Tu disais *attends, attends*, et tu le trouvais, et tu riais. Puis tu ne le trouvais plus, et tu ne riais plus. Puis un matin, tu t'es réveillée, tu m'as vu à côté de toi, et tu as eu peur.

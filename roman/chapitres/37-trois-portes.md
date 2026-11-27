@@ -60,7 +60,15 @@ Elle s'arrêta. Elle relut la phrase. Elle ne la finit pas.
 
 Sophia lut la page le matin du 9 novembre, assise sur le bord de son lit, en pyjama, avec le jour qui se levait.
 
-Elle la relut. Elle se leva, marcha jusqu'à la fenêtre, regarda le barrage, revint. Elle prit le stylo bleu. Elle écrivit, effaça, recommença. Elle mit une heure à écrire trois lignes, elle qui écrivait d'habitude si vite.
+Elle la relut. Elle se leva, marcha jusqu'à la fenêtre, regarda le barrage, revint. Elle eut d'abord de la colère. Elle ne s'y attendait pas : elle l'avait crue éteinte depuis l'automne, depuis la nuit du lac, depuis les lentilles. Elle monta d'un coup, par les doigts, par la nuque, comme un mauvais vin. *Tu t'es installée chez moi. Tu as lu mon carnet. Tu as touché mon homme avec ma main, tu as regardé mes étoiles avec mes yeux, tu m'as laissé une page en travers de la gorge.* Elle prit le stylo. Elle écrivit : *Et si je ne voulais pas ?* Elle regarda la phrase. Elle la raya.
+
+Elle se demanda, cette fois, sans pouvoir s'en empêcher, ce qui lui appartenait encore. Elle se rappela un baiser, sur le chemin du lac : était-ce elle qui l'avait voulu, ou l'autre, qui connaissait cet homme depuis une autre vie ? Elle se rappela un matin où elle avait ri en lisant les étoiles : était-ce son rire ? Elle se demanda si elle aurait aimé Étienne sans Élise. Elle se demanda si elle aurait aimé quelqu'un, un jour, sans elle.
+
+Elle ne trouva pas la réponse. Elle se dit qu'on ne la trouve jamais, avec personne. Elle se dit qu'on n'est jamais sûr que ses goûts sont les siens : on les tient d'une mère, d'un maître, d'une rencontre. Elle se dit que la différence, c'était qu'elle le savait.
+
+Elle n'en fut pas consolée. Elle en fut plus lucide, et ce n'est pas la même chose.
+
+Elle prit le stylo bleu. Elle écrivit, effaça, recommença. Elle mit une heure à écrire trois lignes, elle qui écrivait d'habitude si vite.
 
 *Tu m'as appris le nom des étoiles que je ne regardais pas. Tu m'as rendu mon père. Tu m'as poussée vers un homme que je n'aurais pas osé aimer.*
 
@@ -113,6 +121,20 @@ Il était déjà sur le parapet quand elle arriva, à sa place, la tête renvers
 Il s'arrêta. Il tourna enfin la tête vers elle, et elle vit qu'il pleurait, comme dans l'encadrement de la porte de la réserve, sans bruit, comme on pleure une chose que les mains se rappellent.
 
 — Comment tu peux accepter ça ?
+
+— Tu décides, dit-il, avant qu'elle ait pu répondre. Tu as toujours décidé. Tu as décidé seule de monter au Conseil, seule de dire oui à Oriane, seule de prendre l'éclat sans me prévenir. Tu as laissé la petite à un homme qui lavait les bols et tu es partie sauver le monde. Tu avais le droit d'oublier, Élise. Moi, je n'ai pas eu le droit. Je suis resté, je me suis souvenu pour deux.
+
+Il s'arrêta. Il avait dit cela d'une voix si dure qu'il ne la reconnut pas elle-même.
+
+— Pardon, dit-il aussitôt. Je ne voulais pas.
+
+— Si, dit Élise. Tu voulais. Continue.
+
+— Je ne peux pas.
+
+— Alors je le dirai pour toi. Tu as raison.
+
+Il la regarda, bouche ouverte, démuni de sa colère, comme un homme dont on vient de prendre l'arme avant qu'il ait tiré.
 
 Élise regarda ses mains, celles de Sophia, posées sur le béton.
 

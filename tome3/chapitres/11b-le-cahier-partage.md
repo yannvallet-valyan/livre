@@ -136,6 +136,8 @@ Il ne ressentit pas ce qu'il avait cru ressentir. Il avait imaginé, pendant des
 
 Il pensa à un enfant de trois ans, aux poings serrés sous le menton. Il pensa : *il n'a pas mon front.* Il pensa : *il a le sien.*
 
+Il fut jaloux. Il le fut avec une netteté qui le surprit, comme on est surpris par un goût d'enfance. Il eut honte : il se dit qu'un homme qui a vécu un siècle n'a pas le droit de jalouser un garçon sorti d'une cuisine. Il l'était pourtant, de la tête aux pieds. Il pensa : *il l'a eue. Il a été là. Il a eu le jour.* Il pensa qu'on lui avait volé quelque chose qu'il n'avait jamais possédé, et qu'il n'avait pas même le droit de le réclamer. Il se leva, renversa la lampe, la rattrapa de justesse. Il resta debout, les poings serrés, au milieu de la salle, à respirer comme un homme qui vient de courir. Il se dit, tout bas : *c'est bien. C'est très bien.* Il ne le crut pas. Il le répéta quand même, trois fois, comme on répète un nom pour s'en souvenir.
+
 Il prit le crayon. Il écrivit, sans se presser, d'une écriture fine, droite, qui ne tremblait pas :
 
 *Il a un père. Je suis heureux de l'apprendre.*
@@ -155,3 +157,5 @@ Il posa, sur la table de nuit, un crayon. Un simple crayon de bois, taillé de s
 Il le posa parallèlement au bord. Il sortit.
 
 Au matin, l'enfant le prit, sans savoir d'où il venait. Il le tint entre le pouce et le majeur. Il dessina un soleil.
+
+Il y eut ensuite des jours où il ne souffrit presque plus. Il se rendit au dortoir B chaque soir, à l'heure où l'on couchait les petits. Il restait sur le seuil. L'enfant le regardait avec sérieux, très poliment, comme on regarde un monsieur qui passe. Il ne l'appelait pas papa. Il l'appelait « le monsieur au crayon ». Sacha le sut par Agathe, un soir. Il sourit. Il remonta dans la salle du fond. Il resta assis, longtemps, devant la table, les mains à plat. Il pensa que c'était une chose bête, une douleur ridicule, qu'il aurait dû être au-dessus de cela. Il ne l'était pas. Il apprit, ces nuits-là, la seule chose qui lui parut jamais valoir d'être apprise : qu'on peut souffrir sans faire payer sa souffrance à personne.

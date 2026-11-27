@@ -50,3 +50,6 @@ Commande de recomptage : voir `../CLAUDE.md`.
 - Compteurs (tome 1 / tome 2 après passe) : « elle comprit » 12 / 12 ; « elle sut » 10 / 9 ; « longtemps » 39 / 28 ; « comme on » 58 / 42 ; « quelque chose » 57 / 72 ; « il y avait » 94 / ~140 ; « elle resta » 25 / ~60 (à retravailler).
 - Règles pour la suite : au plus un « elle comprit / sut » par chapitre ; montrer l'émotion par un geste, pas par une phrase explicative ; pas de comparaison « comme on… » en fin de phrase si elle n'ajoute rien ; garder les motifs (59, mains à plat, compte, lampe, table pour cinq, craie, caillou).
 - Voix : Rose sèche, concrète, phrases courtes, proverbes de ménage ; Jean presque muet ; Étienne ironique et pudique ; Iris âpre, directe.
+
+## Règle de la mémoire affective (V3.51)
+Chaque personnage garde la trace de ce qu'il a appris : Sacha n'oublie pas qu'Iris l'a rejeté et reste jaloux de Walther ; Iris n'oublie pas qu'elle a menti à Sacha ; Walther se sent locataire du corps de Tobie ; Kerr ne supporte plus la photographie d'un enfant de seize ans ; Sophia garde la colère d'avoir été habitée ; Noé reproche à Élise d'avoir « le droit d'oublier » ; Élise ne retrouve plus le visage d'Iris. Les réactions ne sont pas toujours de belles phrases : on peut répondre à côté, s'énerver pour un détail, faire la vaisselle.

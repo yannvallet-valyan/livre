@@ -79,3 +79,11 @@ Quand les pilules eurent fait leur travail, quand le garçon, un matin de janvie
 Il le dit à Théo, à Bastien, à l'enfant qu'il avait élevé, à celui qu'il avait trahi. Il le dit à tous ceux qu'il avait vidés et qu'il vidait encore. Il ferma les yeux.
 
 Il compta.
+
+Il ne put plus jamais regarder une photographie d'enfant de cet âge.
+
+Il le découvrit un matin, dans un couloir de Léthé, devant le portrait d'une stagiaire qui avait une dent de lait en moins sur une vieille photo de classe. Il s'arrêta net. Il eut la gorge serrée. Il se mit à compter. Il y eut ensuite des mois où il ne supporta plus d'entendre le prénom : une secrétaire disait « Théo, tu viens ? » à un collègue, et il lui fallait sortir, aller se laver le visage, s'appuyer à un mur de faïence, en se disant qu'on peut être un homme poli et se tenir debout.
+
+Il se mit à guetter, sur les trottoirs, les garçons de seize ans qui rentraient de l'école. Il les suivait des yeux, avec une avidité honteuse. Il se disait : *je ne les ai pas tous.* Il se disait : *j'en ai pris un.*
+
+Il ne l'écrivit nulle part. Il garda cela pour lui, comme un caillou dans une poche qu'on ne sort que la nuit.

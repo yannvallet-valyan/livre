@@ -34,6 +34,10 @@ Il avait compris enfin qu'il y avait, parmi les carnets, ceux qui concernaient I
 
 Il les avait cachés. Il l'avait fait pour la protéger, au début. Il s'était dit qu'elle n'était pas prête. Il s'était dit : *pas maintenant.* Il s'était dit : *pas avant l'enfant.* Puis il avait attendu qu'elle ait l'enfant. Puis qu'elle l'élève. Puis qu'il soit sevré. Il avait trouvé des raisons, une à une, avec ce talent des vieux amoureux pour les raisons. Il savait qu'il mentait. Il se mentait de moins en moins bien.
 
+Il avait failli parler cent fois. Il avait posé la main sur la poignée de la porte de la salle des archives, le matin, avec la phrase prête. *Iris, il y a une page.* Il l'avait répétée à voix basse, dans le couloir, en comptant. Il s'était arrêté à cinquante-neuf. À chaque fois, quelque chose, au fond de lui, avait dit : *plus tard.* Il avait compris, en vieillissant, que la lâcheté ne ressemble pas à de la peur. Elle ressemble à de la prudence, à de la bonté, à un grand souci de ne pas faire de mal. Elle lui avait pris quatre ans.
+
+Il ne se pardonnait pas Sacha non plus. Il le regardait sortir le soir, avec ses carnets sous le bras, et il savait qu'il laissait un homme bâtir sa vie sur une erreur de copie. Il se disait que c'était mieux ainsi. Il se disait qu'un homme qui croit être nécessaire marche plus droit. Il se disait des phrases de ce genre, qui sonnaient très bien, et dont il avait honte la nuit.
+
 Il lui devait la vérité. Il la lui devrait demain.
 
 ---

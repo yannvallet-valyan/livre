@@ -8471,6 +8471,137 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "— Est-ce que je la prenais dans mes bras ? dit Élise. Quand elle pleurait."
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "— Toujours ?"
+    },
+    {
+     "t": "p",
+     "s": "Noé ne répondit pas tout de suite."
+    },
+    {
+     "t": "p",
+     "s": "— Pas toujours, dit-il. Tu étais fatiguée. Il y a eu des nuits où tu comptais à voix haute à côté du berceau, parce que tu n'avais plus la force de la prendre. Tu comptais jusqu'à soixante, et à soixante tu la prenais."
+    },
+    {
+     "t": "p",
+     "s": "— Elle me cherchait ? Quand je quittais la pièce ?"
+    },
+    {
+     "t": "p",
+     "s": "— Elle te cherchait. Elle te suivait des yeux jusqu'à la porte. Elle ne pleurait pas. Elle regardait la porte."
+    },
+    {
+     "t": "p",
+     "s": "— Elle m'appelait maman ?"
+    },
+    {
+     "t": "p",
+     "s": "— Elle t'a appelée *ma* pendant un an. Puis *mama*. Puis *maman*, un matin, en pleine cuisine, sans prévenir. Tu as lâché la louche."
+    },
+    {
+     "t": "p",
+     "s": "Élise rit, et ce n'était pas un rire. Elle se pencha en avant, les mains sur les genoux, comme quelqu'un qui a reçu un coup et qui attend de savoir où."
+    },
+    {
+     "t": "p",
+     "s": "— Et après ? dit-elle. Quand j'ai commencé à oublier."
+    },
+    {
+     "t": "p",
+     "s": "— Après, dit Noé."
+    },
+    {
+     "t": "p",
+     "s": "— Dis-le."
+    },
+    {
+     "t": "p",
+     "s": "— Il y a eu un soir. Elle avait six ans. Tu l'as appelée par un autre prénom."
+    },
+    {
+     "t": "p",
+     "s": "— Lequel ?"
+    },
+    {
+     "t": "p",
+     "s": "— Je ne sais pas. Tu ne l'as dit qu'une fois. Tu l'as regardée, et tu as dit un nom que personne ne connaissait. Elle a répondu : *c'est moi, maman, c'est Iris.* Tu as dit : *oui, bien sûr, pardon.* Tu as fait la vaisselle jusqu'à minuit."
+    },
+    {
+     "t": "p",
+     "s": "Il se frotta le visage."
+    },
+    {
+     "t": "p",
+     "s": "— Je n'ai rien dit. J'aurais dû te prendre dans mes bras. J'ai séché les assiettes."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne répondit pas. Les ongles de Sophia lui entraient dans les paumes. Elle chercha, sur le visage d'Iris, quelque chose qu'elle avait cru garder : le front, la ride, la manière de tenir son crayon. Elle trouva un front trop grand, des sourcils droits, un grain de beauté. Elle ne sut pas si elle les avait vus ou si Noé les lui avait donnés. Elle ne sut plus."
+    },
+    {
+     "t": "p",
+     "s": "— Est-ce que j'étais une bonne mère ? dit-elle enfin."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne sais pas."
+    },
+    {
+     "t": "p",
+     "s": "— Tu ne sais pas ?"
+    },
+    {
+     "t": "p",
+     "s": "— Je ne sais pas ce que c'est, dit Noé, avec une brusquerie qui les surprit tous les deux. Je n'ai jamais été un père. Je n'ai été que le tien. Je ne sais pas ce que c'est qu'une bonne mère. Je sais que tu l'as nourrie, lavée, bercée. Je sais que tu es restée huit ans. Je sais que tu es partie quand même."
+    },
+    {
+     "t": "p",
+     "s": "Il s'arrêta. Il avait dit la dernière phrase malgré lui. Il la regretta aussitôt."
+    },
+    {
+     "t": "p",
+     "s": "— Pardon."
+    },
+    {
+     "t": "p",
+     "s": "— Non, dit Élise. C'est vrai."
+    },
+    {
+     "t": "p",
+     "s": "Ils restèrent un moment sans parler. Il y eut un chien, loin, dans la vallée. Elle dit, très bas :"
+    },
+    {
+     "t": "p",
+     "s": "— Est-ce qu'elle savait que je l'aimais ?"
+    },
+    {
+     "t": "p",
+     "s": "Il ne répondit pas. Il regarda le ciel, la crête, ses mains. Il aurait voulu dire oui. Il aurait voulu pouvoir le jurer. Il dit, enfin, avec la seule honnêteté qui lui restât :"
+    },
+    {
+     "t": "p",
+     "s": "— Elle te regardait comme on regarde quelqu'un qui est déjà en train de partir. Je ne sais pas ce qu'elle savait. Je sais qu'elle ne t'a jamais reproché quoi que ce soit. Elle a fini par ne plus rien te demander."
+    },
+    {
+     "t": "p",
+     "s": "Élise ferma les yeux."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne pleura pas. Elle resta ainsi un très long moment, assise sur le béton froid, avec sur les genoux deux mains qui ne lui appartenaient pas, et dans la tête un vide en forme d'enfant."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
      "s": "Puis il raconta l'oubli. Il le raconta autrement que la première fois, sur le barrage, quand il parlait d'*une femme*. Cette fois, il disait *tu*."
     },
     {
@@ -8624,7 +8755,7 @@ window.BOOK = {
      "s": "À trente-sept, elle pensa que sa main aurait trouvé la sienne, autrefois, dans le noir. Elle garda les siennes sur ses cuisses."
     }
    ],
-   "words": 1576
+   "words": 2164
   },
   {
    "id": "37-trois-portes",
@@ -8744,7 +8875,23 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle la relut. Elle se leva, marcha jusqu'à la fenêtre, regarda le barrage, revint. Elle prit le stylo bleu. Elle écrivit, effaça, recommença. Elle mit une heure à écrire trois lignes, elle qui écrivait d'habitude si vite."
+     "s": "Elle la relut. Elle se leva, marcha jusqu'à la fenêtre, regarda le barrage, revint. Elle eut d'abord de la colère. Elle ne s'y attendait pas : elle l'avait crue éteinte depuis l'automne, depuis la nuit du lac, depuis les lentilles. Elle monta d'un coup, par les doigts, par la nuque, comme un mauvais vin. *Tu t'es installée chez moi. Tu as lu mon carnet. Tu as touché mon homme avec ma main, tu as regardé mes étoiles avec mes yeux, tu m'as laissé une page en travers de la gorge.* Elle prit le stylo. Elle écrivit : *Et si je ne voulais pas ?* Elle regarda la phrase. Elle la raya."
+    },
+    {
+     "t": "p",
+     "s": "Elle se demanda, cette fois, sans pouvoir s'en empêcher, ce qui lui appartenait encore. Elle se rappela un baiser, sur le chemin du lac : était-ce elle qui l'avait voulu, ou l'autre, qui connaissait cet homme depuis une autre vie ? Elle se rappela un matin où elle avait ri en lisant les étoiles : était-ce son rire ? Elle se demanda si elle aurait aimé Étienne sans Élise. Elle se demanda si elle aurait aimé quelqu'un, un jour, sans elle."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne trouva pas la réponse. Elle se dit qu'on ne la trouve jamais, avec personne. Elle se dit qu'on n'est jamais sûr que ses goûts sont les siens : on les tient d'une mère, d'un maître, d'une rencontre. Elle se dit que la différence, c'était qu'elle le savait."
+    },
+    {
+     "t": "p",
+     "s": "Elle n'en fut pas consolée. Elle en fut plus lucide, et ce n'est pas la même chose."
+    },
+    {
+     "t": "p",
+     "s": "Elle prit le stylo bleu. Elle écrivit, effaça, recommença. Elle mit une heure à écrire trois lignes, elle qui écrivait d'habitude si vite."
     },
     {
      "t": "p",
@@ -8850,6 +8997,34 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "— Tu décides, dit-il, avant qu'elle ait pu répondre. Tu as toujours décidé. Tu as décidé seule de monter au Conseil, seule de dire oui à Oriane, seule de prendre l'éclat sans me prévenir. Tu as laissé la petite à un homme qui lavait les bols et tu es partie sauver le monde. Tu avais le droit d'oublier, Élise. Moi, je n'ai pas eu le droit. Je suis resté, je me suis souvenu pour deux."
+    },
+    {
+     "t": "p",
+     "s": "Il s'arrêta. Il avait dit cela d'une voix si dure qu'il ne la reconnut pas elle-même."
+    },
+    {
+     "t": "p",
+     "s": "— Pardon, dit-il aussitôt. Je ne voulais pas."
+    },
+    {
+     "t": "p",
+     "s": "— Si, dit Élise. Tu voulais. Continue."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne peux pas."
+    },
+    {
+     "t": "p",
+     "s": "— Alors je le dirai pour toi. Tu as raison."
+    },
+    {
+     "t": "p",
+     "s": "Il la regarda, bouche ouverte, démuni de sa colère, comme un homme dont on vient de prendre l'arme avant qu'il ait tiré."
+    },
+    {
+     "t": "p",
      "s": "Élise regarda ses mains, celles de Sophia, posées sur le béton."
     },
     {
@@ -8913,7 +9088,7 @@ window.BOOK = {
      "s": "— Personne, dit-il. C'est ça, rester. Je reste aussi, Élise. Je ne rentrerai pas dans un monde où tu n'es pas."
     }
    ],
-   "words": 1728
+   "words": 2115
   },
   {
    "id": "38-ce-que-je-ne-pouvais-pas-te-dire",
@@ -9040,6 +9215,77 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Élise, elle, ne dormit pas."
+    },
+    {
+     "t": "p",
+     "s": "Elle se réveillait au fond de Sophia vers trois heures, comme chaque nuit depuis septembre, quand le corps lâchait prise. Cette nuit-là, elle ne se leva pas. Elle resta allongée, les yeux ouverts dans le noir, avec une main qui n'était pas la sienne posée à plat sur un ventre encore plat. Elle savait ce qu'il y avait dessous, ou ce qu'il y aurait. Elle le savait par une ligne d'un registre rouge, à la deuxième place, sous un nom."
+    },
+    {
+     "t": "p",
+     "s": "*Anne.*"
+    },
+    {
+     "t": "p",
+     "s": "Elle essaya de se la représenter. C'était ridicule, et elle essaya quand même. Elle chercha un front, un menton, une façon de froncer les sourcils. Elle inventa une enfant de trois ans, brune, un peu sérieuse, qui comptait en marchant. Elle lui donna des mains. Elle lui donna un rire. Elle la regarda courir, dans une cuisine jaune, jusqu'à la porte."
+    },
+    {
+     "t": "p",
+     "s": "Puis elle chercha Iris, pour comparer."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne la trouva pas."
+    },
+    {
+     "t": "p",
+     "s": "Elle trouva un mot, *Iris*, qu'elle connaissait par cœur. Elle trouva un front trop grand, des sourcils droits, un grain de beauté au coin de la paupière gauche : tout ce que Noé lui avait donné, dans la nuit du barrage, et qu'elle avait appris par cœur à son tour, comme on apprend la description d'un suspect. Elle ne trouva pas le visage. Elle ne trouva pas la manière de bouger. Elle ne trouva pas ce que sentait la nuque de sa fille quand elle dormait."
+    },
+    {
+     "t": "p",
+     "s": "Elle comprit qu'elle était capable d'imaginer une enfant qui n'était pas née, et qu'elle ne parvenait plus à voir celle qu'elle avait mise au monde."
+    },
+    {
+     "t": "p",
+     "s": "Elle se retourna sur le côté, la joue contre l'oreiller de Sophia. Elle mordit le drap."
+    },
+    {
+     "t": "p",
+     "s": "Elle eut honte de la jalousie. Elle l'eut quand même. Sophia verrait grandir Anne. Sophia lui lirait des histoires, lui couperait les ongles, l'accompagnerait à l'école, la gronderait, la consolerait d'un chagrin d'amour. Sophia aurait tout ce que la Rouille avait pris à Élise, sans l'avoir demandé. Elle aurait ce qu'Élise n'avait plus, dans un corps qu'Élise lui avait prêté."
+    },
+    {
+     "t": "p",
+     "s": "Elle eut honte de la joie. Elle l'eut aussi. Une enfant allait exister. Quelque chose de vivant, de têtu, de brun, allait naître d'un geste qu'elle n'avait pas encore fait, d'une nuit, d'un ventre, d'une main dans le noir. Elle y avait contribué. Elle n'y serait pas."
+    },
+    {
+     "t": "p",
+     "s": "Elle eut peur, enfin. Pas pour elle. Pour l'enfant. Elle pensa à ce qu'elle lui transmettrait sans le vouloir : une chanson, un compte, un mot qu'on ne retient pas, une manière de s'arrêter à cinquante-neuf. Elle pensa à la Rouille. Elle pensa : *je lui donne ce que j'ai, et je ne sais pas ce que j'ai.*"
+    },
+    {
+     "t": "p",
+     "s": "Et elle pensa, tout à coup, quelque chose qu'elle n'avait pas encore pensé."
+    },
+    {
+     "t": "p",
+     "s": "Anne n'était pas sa fille. Anne était son ancêtre. De cette enfant descendrait la fille de sa fille de sa fille, puis une autre, puis elle-même, un siècle plus tard, dans un refuge souterrain, une petite fille de sept ans qui disait : *C'est qui ?* Elle ne mettait pas au monde une seconde enfant. Elle mettait au monde, par un détour absurde, sa propre origine."
+    },
+    {
+     "t": "p",
+     "s": "Elle porterait donc, quelques mois, sans le savoir, dans le corps d'une autre, la mère de sa mère de sa mère. Et elle serait là pour la regarder naître, avant de disparaître."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne put pas rire. Elle ne put pas pleurer. Elle resta immobile dans le noir, à écouter respirer Sophia, qui dormait et qui ne savait pas qu'elle était, cette nuit-là, la plus belle chose que quelqu'un d'autre eût jamais portée."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne l'écrivit pas dans le carnet. C'était la seule chose qu'elle garda pour elle."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
      "s": "Elle mit longtemps à s'endormir, cette nuit-là, et la suivante. Elle restait allongée sur le dos, dans son lit, contre le mur mitoyen, à regarder le plafond. Elle pensait."
     },
     {
@@ -9137,7 +9383,7 @@ window.BOOK = {
      "s": "Sophia referma le carnet. Elle le posa sur la table, contre le caillou de Mathis, à côté des deux stylos croisés. Puis elle alla sous la douche, et resta sous l'eau chaude jusqu'à ce qu'il n'y en ait plus."
     }
    ],
-   "words": 1501
+   "words": 2118
   },
   {
    "id": "39-le-mur",
@@ -10511,6 +10757,18 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Ce n'était pas toute la vérité, et elle le savait. Le matin même, en se réveillant, elle avait cherché dans sa tête, comme on cherche à tâtons une marche, la voix qui avait été là depuis septembre : le compte à voix basse, la présence qui s'asseyait au fond d'elle, le petit remue-ménage des nuits. Il n'y avait plus rien. Il y avait un silence immense, propre, un silence de maison vidée, et elle s'était surprise à y tendre l'oreille, comme on écoute encore, des semaines après, l'escalier d'une personne partie."
+    },
+    {
+     "t": "p",
+     "s": "Elle avait retrouvé son corps. Elle l'avait voulu, ce corps, et elle l'avait. Elle découvrait que ce qu'elle regrettait n'était pas Élise : c'était la possibilité qu'on l'ait aimée assez pour l'habiter."
+    },
+    {
+     "t": "p",
+     "s": "Elle garda l'aiguille comme on garde un cheveu, un ticket de cinéma, une page de carnet. Une preuve minuscule, indéfendable, qu'une femme avait existé qui l'avait choisie."
+    },
+    {
+     "t": "p",
      "s": "Elle fit glisser l'aiguille dans une fiole vide, la boucha, et écrivit sur l'étiquette, à l'encre bleue : *Vallorce, 14/11/2026.* Le soir, elle la rangea sur l'étagère du séjour, entre le lac d'Annecy et le lac du Bourget, à l'endroit exact où personne ne la remarquerait jamais."
     },
     {
@@ -10886,7 +11144,7 @@ window.BOOK = {
      "s": "Il leva la main. Pas pour appeler. Pas pour retenir. Lentement, paume ouverte, comme on salue quelqu'un qu'on reverra."
     }
    ],
-   "words": 3302
+   "words": 3452
   },
   {
    "id": "44-interlude-anne",
