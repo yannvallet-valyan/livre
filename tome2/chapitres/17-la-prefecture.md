@@ -70,6 +70,26 @@ Il la regarda sortir, très calme, avec ce sourire un peu pitoyable des fonction
 
 ---
 
+Elle sortit sur le perron, aveuglée. Il faisait grand jour, un jour d'octobre vif, froid, sans nuage. Les marronniers de la place laissaient tomber leurs feuilles sur les trottoirs. Elle resta immobile, en haut des marches, la main au-dessus des yeux. Elle regarda les gens passer : un facteur à vélo, une femme avec un cabas, deux écoliers qui se poursuivaient. Elle pensa : *ils ne savent rien.*
+
+Elle descendit. Elle marcha sans but dans les rues, avec la robe bleue qui lui serrait les épaules, les souliers du dimanche qui lui faisaient mal. Elle passa devant une boulangerie, une mercerie, un café dont la porte vitrée laissait échapper une odeur de chicorée. Elle s'arrêta devant une vitrine de librairie. Il y avait là, exposés, des livres à couverture jaune, un atlas, un missel, une revue qui annonçait en gros caractères *LE BARRAGE DE VALLORCE, TRIOMPHE DU GÉNIE FRANÇAIS.*
+
+Elle resta longtemps à regarder la photographie du mur. Un cliché en noir et blanc, pris du haut d'un hélicoptère. On y voyait la courbe, le canal, les camions minuscules, la vallée nue. On ne voyait pas le village. Il avait été effacé, par une retouche, d'un coup de pinceau sur le négatif.
+
+Elle entra dans le café. Elle commanda un verre d'eau. Elle but, à petites gorgées, au comptoir, sous le regard indifférent d'un patron qui essuyait des verres. Elle sentit, dans sa poche, les quelques pièces de Rose. Elle les posa sur le zinc. Le patron les compta, en remua deux du bout du doigt, lui rendit un franc.
+
+— Vous êtes d'ici ? dit-il.
+
+— Non.
+
+— Ça se voit.
+
+— D'où ?
+
+— Vous avez l'air de quelqu'un qui n'a pas dormi.
+
+Elle sourit. Elle ne répondit pas. Elle pensa qu'il avait raison, et qu'elle était, de tous les êtres vivants de cette ville, la seule qui ne dormait pas depuis cent ans.
+
 Elle courut jusqu'à l'arrêt. Elle manqua le car de deux heures. Elle prit le suivant, qui roulait mal, qui s'arrêtait dans tous les hameaux, qui sentait la sueur et le tabac. Elle regardait par la vitre le jour qui baissait. Elle comptait les bornes. Elle ne savait pas pourquoi elle avait peur.
 
 Quelque chose, en elle, s'était mis à battre. Une main qui tapait contre une vitre. Rose, tout au fond, s'agitait, ouvrait les yeux, cherchait l'enfant.

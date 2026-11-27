@@ -42,6 +42,12 @@ Elle ne trouva pas de réponse. Elle comprit qu'il n'y en avait pas qu'elle aura
 
 ---
 
+Elle s'attarda à la fenêtre, plus longtemps qu'elle ne l'aurait dû, pour la simple joie d'être debout.
+
+Elle regarda les choses, une à une, avec l'avidité d'une convalescente. Le toit d'en face, dont une tuile manquait. La cheminée de la boulangerie, qui fumait. La chienne rousse, couchée au pied du mur, la tête sur les pattes. Un papillon blanc, un seul, très tard dans la saison, qui tournait autour d'un pot de géranium. Elle découvrit qu'on pouvait sentir l'air sur son visage et savoir que c'était l'air du matin : une fraîcheur de pierre mouillée, mêlée à l'odeur du pain, du bois, d'une lessive qu'on faisait bouillir quelque part. Elle ne l'avait jamais senti ainsi. Elle avait vécu, pendant des mois, dans une nuit où les odeurs n'avaient pas de lumière.
+
+Elle toucha le rebord de la fenêtre, le cadre de bois, le petit crochet de fer. Elle les toucha avec la paume, lentement, comme on apprend à lire un objet dans le noir. Elle pensa : *je n'ai pas de corps.* Elle pensa : *j'en ai un.* Elle sut qu'elle ne le possédait pas, qu'elle l'empruntait. Elle sut aussi qu'elle n'avait jamais, de sa vie, éprouvé d'aussi près ce que c'est que d'exister.
+
 — Rose ?
 
 Jean venait de s'éveiller. Il s'était levé sur un coude, les cheveux dressés, les yeux collés par le sommeil. Il la regardait, debout dans la lumière, nue sous sa chemise, une main sur le volet.

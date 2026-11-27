@@ -16116,6 +16116,18 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Elle s'attarda à la fenêtre, plus longtemps qu'elle ne l'aurait dû, pour la simple joie d'être debout."
+    },
+    {
+     "t": "p",
+     "s": "Elle regarda les choses, une à une, avec l'avidité d'une convalescente. Le toit d'en face, dont une tuile manquait. La cheminée de la boulangerie, qui fumait. La chienne rousse, couchée au pied du mur, la tête sur les pattes. Un papillon blanc, un seul, très tard dans la saison, qui tournait autour d'un pot de géranium. Elle découvrit qu'on pouvait sentir l'air sur son visage et savoir que c'était l'air du matin : une fraîcheur de pierre mouillée, mêlée à l'odeur du pain, du bois, d'une lessive qu'on faisait bouillir quelque part. Elle ne l'avait jamais senti ainsi. Elle avait vécu, pendant des mois, dans une nuit où les odeurs n'avaient pas de lumière."
+    },
+    {
+     "t": "p",
+     "s": "Elle toucha le rebord de la fenêtre, le cadre de bois, le petit crochet de fer. Elle les toucha avec la paume, lentement, comme on apprend à lire un objet dans le noir. Elle pensa : *je n'ai pas de corps.* Elle pensa : *j'en ai un.* Elle sut qu'elle ne le possédait pas, qu'elle l'empruntait. Elle sut aussi qu'elle n'avait jamais, de sa vie, éprouvé d'aussi près ce que c'est que d'exister."
+    },
+    {
+     "t": "p",
      "s": "— Rose ?"
     },
     {
@@ -16195,7 +16207,7 @@ window.BOOK = {
      "s": "Elle ne dit pas soixante. Elle n'en avait plus besoin."
     }
    ],
-   "words": 871,
+   "words": 1075,
    "tome": 2
   },
   {
@@ -16934,6 +16946,46 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Elle sortit sur le perron, aveuglée. Il faisait grand jour, un jour d'octobre vif, froid, sans nuage. Les marronniers de la place laissaient tomber leurs feuilles sur les trottoirs. Elle resta immobile, en haut des marches, la main au-dessus des yeux. Elle regarda les gens passer : un facteur à vélo, une femme avec un cabas, deux écoliers qui se poursuivaient. Elle pensa : *ils ne savent rien.*"
+    },
+    {
+     "t": "p",
+     "s": "Elle descendit. Elle marcha sans but dans les rues, avec la robe bleue qui lui serrait les épaules, les souliers du dimanche qui lui faisaient mal. Elle passa devant une boulangerie, une mercerie, un café dont la porte vitrée laissait échapper une odeur de chicorée. Elle s'arrêta devant une vitrine de librairie. Il y avait là, exposés, des livres à couverture jaune, un atlas, un missel, une revue qui annonçait en gros caractères *LE BARRAGE DE VALLORCE, TRIOMPHE DU GÉNIE FRANÇAIS.*"
+    },
+    {
+     "t": "p",
+     "s": "Elle resta longtemps à regarder la photographie du mur. Un cliché en noir et blanc, pris du haut d'un hélicoptère. On y voyait la courbe, le canal, les camions minuscules, la vallée nue. On ne voyait pas le village. Il avait été effacé, par une retouche, d'un coup de pinceau sur le négatif."
+    },
+    {
+     "t": "p",
+     "s": "Elle entra dans le café. Elle commanda un verre d'eau. Elle but, à petites gorgées, au comptoir, sous le regard indifférent d'un patron qui essuyait des verres. Elle sentit, dans sa poche, les quelques pièces de Rose. Elle les posa sur le zinc. Le patron les compta, en remua deux du bout du doigt, lui rendit un franc."
+    },
+    {
+     "t": "p",
+     "s": "— Vous êtes d'ici ? dit-il."
+    },
+    {
+     "t": "p",
+     "s": "— Non."
+    },
+    {
+     "t": "p",
+     "s": "— Ça se voit."
+    },
+    {
+     "t": "p",
+     "s": "— D'où ?"
+    },
+    {
+     "t": "p",
+     "s": "— Vous avez l'air de quelqu'un qui n'a pas dormi."
+    },
+    {
+     "t": "p",
+     "s": "Elle sourit. Elle ne répondit pas. Elle pensa qu'il avait raison, et qu'elle était, de tous les êtres vivants de cette ville, la seule qui ne dormait pas depuis cent ans."
+    },
+    {
+     "t": "p",
      "s": "Elle courut jusqu'à l'arrêt. Elle manqua le car de deux heures. Elle prit le suivant, qui roulait mal, qui s'arrêtait dans tous les hameaux, qui sentait la sueur et le tabac. Elle regardait par la vitre le jour qui baissait. Elle comptait les bornes. Elle ne savait pas pourquoi elle avait peur."
     },
     {
@@ -16949,7 +17001,7 @@ window.BOOK = {
      "s": "Elle revint trois heures trop tard."
     }
    ],
-   "words": 802,
+   "words": 1118,
    "tome": 2
   },
   {
@@ -17069,6 +17121,54 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Odette marchait derrière elle, à dix pas, sans oser s'approcher. Elle avait cessé de pleurer. Elle tenait dans ses mains le châle qu'elle avait pris pour courir, qu'elle tordait machinalement, comme un linge qu'on essore. Quand Rose se retourna, elle s'arrêta net."
+    },
+    {
+     "t": "p",
+     "s": "— Rose, dit-elle. Je ne l'ai pas entendu."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "— Je faisais le pain. Je n'ai pas…"
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne leva pas la voix. Elle n'avait pas de colère. Elle n'avait que cette froideur très claire des gens qui viennent de frôler le pire, et qui n'ont plus rien à dire aux autres. Elle regarda Odette, longtemps, sans haine, sans pitié. Elle vit une femme pâle, les mains tremblantes, les yeux rougis. Elle vit aussi, à l'arrière-plan, comme à travers une vitre, une autre femme, plus vieille, plus fatiguée, qui la regardait avec une angoisse d'un autre âge."
+    },
+    {
+     "t": "p",
+     "s": "— Rentre chez toi, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Je…"
+    },
+    {
+     "t": "p",
+     "s": "— Rentre."
+    },
+    {
+     "t": "p",
+     "s": "Odette ne bougea pas. Elle ouvrit la bouche, comme pour dire quelque chose, puis la referma. Elle fit un pas en arrière. Elle regarda l'enfant, qui dormait déjà, la joue contre l'épaule de sa mère, les cheveux collés, un peu bleu autour des lèvres. Elle dit seulement :"
+    },
+    {
+     "t": "p",
+     "s": "— Réchauffe-le vite."
+    },
+    {
+     "t": "p",
+     "s": "Rose ne répondit pas. Elle se détourna. Elle entendit derrière elle, très faiblement, un sanglot qui ne ressemblait à aucun autre."
+    },
+    {
+     "t": "p",
      "s": "Dans la cuisine, devant le poêle, elle sécha son fils. Elle le mit au lit. Elle resta longtemps assise à côté de lui, la main sur sa poitrine, à compter ses souffles."
     },
     {
@@ -17100,7 +17200,7 @@ window.BOOK = {
      "s": "Elle en prendrait un autre. Elle le savait déjà."
     }
    ],
-   "words": 991,
+   "words": 1216,
    "tome": 2
   },
   {
@@ -19695,6 +19795,210 @@ window.BOOK = {
     }
    ],
    "words": 792,
+   "tome": 2
+  },
+  {
+   "id": "t2-27b-la-nuit-des-demenagements",
+   "n": null,
+   "label": "Chapitre 27 bis",
+   "title": "Les camions",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "On déménagea le village en trois jours, du mardi au jeudi."
+    },
+    {
+     "t": "p",
+     "s": "Les camions arrivèrent à l'aube, des GMC kaki que la Compagnie avait loués à l'armée, avec des bâches trouées et des ridelles rouillées. Ils s'alignèrent sur la place de l'église, moteurs au ralenti, en soufflant des nuages de gasoil dans le brouillard. Les chauffeurs sautaient des cabines, les mains dans les poches, et attendaient, sans savoir où poser leur regard. Ils étaient dix. Ils venaient de Grenoble, de Chambéry, de Turin. Ils parlaient à voix basse, comme des croque-morts."
+    },
+    {
+     "t": "p",
+     "s": "Il y eut des cris, des appels, des pleurs. Les familles sortaient de leurs maisons, chargées de ballots, de caisses, de matelas roulés, d'armoires qu'il fallait descendre à six. On entassait sur les plateaux ce qu'on avait : des lits de fer, des bahuts, des horloges de comtoise, des chaises de paille, des cages à poules. Les enfants couraient entre les roues. Les chiens aboyaient, attachés aux ridelles. Les vieux restaient debout, au bord des seuils, les mains dans les poches de leur tablier, à regarder partir leurs meubles comme on regarde partir un convoi funèbre."
+    },
+    {
+     "t": "p",
+     "s": "Madame Pellissier refusa de monter."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne bouge pas, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Madame, on ferme vendredi à six heures."
+    },
+    {
+     "t": "p",
+     "s": "— Je suis née ici."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais, madame."
+    },
+    {
+     "t": "p",
+     "s": "— J'y mourrai."
+    },
+    {
+     "t": "p",
+     "s": "Le gendarme Fabre se tenait devant elle, le képi à la main, l'air d'un homme qui préférerait être ailleurs. Il s'accroupit à sa hauteur. Il lui parla doucement, longtemps. Elle ne répondit pas. Elle regardait la rue, la fontaine, la façade de sa maison, dont elle avait lavé le seuil tous les matins depuis soixante ans. Elle dit enfin, sans tourner la tête :"
+    },
+    {
+     "t": "p",
+     "s": "— Vous me porterez ?"
+    },
+    {
+     "t": "p",
+     "s": "— Oui, madame."
+    },
+    {
+     "t": "p",
+     "s": "— Alors, portez-moi."
+    },
+    {
+     "t": "p",
+     "s": "Il la prit dans ses bras. Elle ne pesait rien. Elle tenait son chapelet entre ses doigts, une petite chaîne de bois noir, et pleurait sans une plainte, la joue contre l'uniforme. Il la déposa dans la cabine du premier camion, sur la banquette, avec un coussin dans le dos. Il lui mit une couverture sur les genoux. Il resta un moment debout, à la portière, sans savoir quoi dire."
+    },
+    {
+     "t": "p",
+     "s": "— Merci, monsieur le gendarme, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "Il détourna la tête. Il s'essuya les yeux d'un revers de manche, discrètement, avant de retourner à ses papiers."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Rose emballa la maison la veille."
+    },
+    {
+     "t": "p",
+     "s": "Elle le fit seule, méthodiquement, avec cette énergie de désespoir qu'ont les femmes de sa condition quand le malheur est inévitable. Elle ôta les rideaux, qu'elle plia. Elle décrocha les casseroles de cuivre, qu'elle enveloppa de journaux. Elle descendit les assiettes, les verres, les couverts, qu'elle rangea dans des caisses de bois, entre des couches de paille. Elle laissa seulement ceux de la table."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne pleura pas. Elle avait fait son deuil au printemps, sans le savoir. Elle regardait les murs nus, les clous, les marques claires des cadres. Elle découvrait des choses qu'elle avait cessé de voir : un trou dans le plâtre, où Jean avait enfoncé un clou trop gros ; une tache de suie au-dessus du poêle, en forme de main ; une date, gravée dans l'encadrement de la porte, d'une main d'enfant : *1941.* C'était la sienne. Elle avait neuf ans."
+    },
+    {
+     "t": "p",
+     "s": "Elle s'assit sur la marche du seuil, au soir. Elle laissa passer le temps. Elle regarda le soleil descendre derrière la crête. Elle regarda le village se vider, maison après maison, comme un grand corps qu'on vide de son sang."
+    },
+    {
+     "t": "p",
+     "s": "Odette passa. Elle ne dit rien. Elle portait un panier de pains. Elle le posa sur la marche, à côté de Rose, et s'assit à côté d'elle. Elles restèrent ainsi, côte à côte, dans le silence du soir, sans se regarder, avec les ombres qui s'allongeaient dans la rue."
+    },
+    {
+     "t": "p",
+     "s": "— Tu pars demain ? demanda Rose."
+    },
+    {
+     "t": "p",
+     "s": "— Je pars demain, avant l'aube. Mon mari a trouvé une place à Chambéry."
+    },
+    {
+     "t": "p",
+     "s": "— À la scierie ?"
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "— C'est loin."
+    },
+    {
+     "t": "p",
+     "s": "— Pas assez, dit Odette."
+    },
+    {
+     "t": "p",
+     "s": "Rose tourna la tête. Odette regardait droit devant elle, les mains jointes sur ses genoux, avec ce visage de statue que Rose avait fini par ne plus remarquer."
+    },
+    {
+     "t": "p",
+     "s": "— Je suis désolée, dit Odette. Pour ce que j'ai fait."
+    },
+    {
+     "t": "p",
+     "s": "— Tu l'as dit."
+    },
+    {
+     "t": "p",
+     "s": "— Je le répète."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne te pardonne pas."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "Elle se leva. Elle prit son panier vide. Elle regarda longuement la façade de la maison de Rose, la porte, la fenêtre, le petit autel que l'on devinait à l'intérieur. Elle dit, très bas :"
+    },
+    {
+     "t": "p",
+     "s": "— Elle est jolie, ta maison."
+    },
+    {
+     "t": "p",
+     "s": "— Elle n'est plus à moi."
+    },
+    {
+     "t": "p",
+     "s": "— Elle l'a été, dit Odette."
+    },
+    {
+     "t": "p",
+     "s": "Elle s'éloigna. Rose la regarda partir, d'un pas raide, droit, qui ne ressemblait à aucun autre. Elle pensa que la voisine, pour la première fois, lui avait paru jeune."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Le dernier camion du jeudi partit à neuf heures du soir."
+    },
+    {
+     "t": "p",
+     "s": "Il s'ébranla lentement, dans le brouillard, avec un bruit de ferraille et de moteur forcé. Il emmenait la famille Combe, un buffet, deux matelas et une vache qui meuglait. On entendit longtemps sa plainte, sur la route, qui se perdait en montant."
+    },
+    {
+     "t": "p",
+     "s": "Le village était vide, à trois maisons près. On n'entendait plus que le vent, la fontaine, l'horloge de l'église, qui sonnait encore les heures, parce que personne n'avait pensé à l'arrêter."
+    },
+    {
+     "t": "p",
+     "s": "Walther Kerr fit sa dernière ronde à dix heures. Il marcha seul dans les rues désertes, le pardessus boutonné, une lampe à la main. Il regardait les portes ouvertes, les volets battants, les cours encombrées de débris. Il s'arrêta devant chaque maison, à tour de rôle, comme on salue les morts. Il mit une craie à sa poche, qu'il ne sortit pas."
+    },
+    {
+     "t": "p",
+     "s": "Il s'arrêta, enfin, devant la troisième à gauche."
+    },
+    {
+     "t": "p",
+     "s": "La porte était fermée. Une lumière brillait derrière la fenêtre. Il distingua, à travers le carreau, une table, une lampe, des assiettes. Il y avait cinq couverts. Il y avait une silhouette de femme, assise, immobile, dos à la fenêtre, qui ne bougeait pas."
+    },
+    {
+     "t": "p",
+     "s": "Il resta là un très long moment. Il ne frappa pas."
+    },
+    {
+     "t": "p",
+     "s": "Il pensa : *elle m'a embrassé.* Il ne le dit à personne. Il le pensa si fort, dans le silence de la rue, que le mot sembla se matérialiser, flotter dans l'air entre les maisons mortes. Il s'en alla. Il ne se retourna pas."
+    },
+    {
+     "t": "p",
+     "s": "C'est ainsi que se termina la vie d'un village. Sans cri. Sans fanfare. Avec une lampe allumée, dans une cuisine, pour personne."
+    }
+   ],
+   "words": 1077,
    "tome": 2
   },
   {
