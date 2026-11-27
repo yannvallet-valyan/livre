@@ -16,3 +16,4 @@
 | V3.11 | 2026-11-27 | Les deux Iris : sujets de discussion intégrés (lavoir 1958 : leur mère et le marché ; 9 h 40 : Sacha, « Garde-le », le troisième couplet) ; chapitres 5b, 10b (tome 2), 16b, 26b (tome 3) réécrits |
 
 | V3.12 | 2026-11-27 | Trois dettes du tome 1 soldées (`predestination.md` §3 quinquies) ; tome 2 ch. 02–05b rédigés ; tome 3 ch. 02–03 rédigés ; K. n'apparaît qu'en novembre 1958 (cohérence annexe) |
+| V3.13 | 2026-11-27 | Tome 2 ch. 06 (Vas-y, Sophia), 07 (Étienne somnambule, Sophia: « Pars »), 08 (Walther au pied du mur, « Pardon, Rose »), 09 (enfance d'Iris : craie, deux voix, promesse à Hélène) |
