@@ -6,6 +6,8 @@
 
 En 2137, la bibliothèque de Vallorce avait des fenêtres.
 
+Il n'y avait pas eu de guerre en 2090. On racontait, dans la famille, qu'une arrière-arrière-grand-mère avait passé les vingt dernières années de sa vie à écrire aux ministères, aux agences de l'eau et aux journaux, des lettres pleines de dates, de noms et de barrages que personne ne comprenait, et qu'un jour, quelqu'un les avait lues à temps.
+
 Elle occupait l'ancien laboratoire, au pied du barrage, qu'on avait agrandi trois fois en cent ans et qui ne ressemblait plus à rien de ce qu'il avait été : du verre, du bois clair, des rayonnages bas où les enfants pouvaient attraper les livres sans demander. Par les grandes baies, on voyait le lac, haut, plein, d'un vert presque noir sous le ciel d'avril, et le vieux mur courbe du barrage, qu'on n'utilisait plus pour l'électricité depuis longtemps mais qu'on gardait, parce qu'il faisait partie du paysage et qu'on aimait, ici, garder les choses.
 
 Personne ne se rappelait pourquoi on avait condamné la galerie. Il y avait une plaque, au sous-sol, devant un mur de béton plus lisse que les autres : *Galerie technique, niveau –3. Obturée le 14 novembre 2026 pour raisons de sûreté. Ne pas rouvrir.* On la montrait aux enfants pendant les visites, entre la salle des cartes et la cafétéria. Ils posaient la main sur le béton. Certains disaient qu'il était tiède. On leur répondait que c'était le chauffage.

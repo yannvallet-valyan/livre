@@ -1,31 +1,38 @@
-# Tome 2 : chronologie de 1958 et règles
+# Tome 2 : chronologie et règles
 
-## Règles appliquées (cohérentes avec le §0 du tome 1)
-- **1958 est une fenêtre d'ouverture.** De juin à novembre, le fond de la vallée est décapé et la rivière déviée : le gisement affleure dans la glaise. Il se referme quand la vanne se ferme et que l'eau monte, à partir du **14 novembre 1958** (date à confirmer, et à garder en écho du 14 novembre 2026).
-- **Iris voyage dans Rose,** son ancêtre : Rose est la mère d'Anselme, lui-même père de Sophia. Elle n'habite Rose que la nuit.
-- **Le fil se coupe doucement** quand l'eau recouvre le gisement intact, comme le coulis en 2026. Il n'y a donc pas de chute : **Iris se dissout dans Rose.** C'est pour cela que Rose « attend » toute sa vie, met la table pour cinq et devient la dame du lac.
-- **Ce qui sort de la fenêtre** : la chanson (Rose la chantera à Anselme jusqu'à ses huit ou dix ans), le compte jusqu'à 59, les mains à plat, et peut-être un objet caché dans la maison noyée.
+## Règles appliquées (→ `../memoire/canon.md`)
+- **1958 est une ouverture** : de juin à la mi-novembre, le fond de la vallée est décapé, la rivière déviée, le gisement affleure dans la glaise.
+- **Iris voyage par le sang** dans Rose (Iris → Sophia → Anselme → Rose). Elle ne peut pas aller dans Sophia en 2026 : sa mère y est déjà habitée par Élise.
+- **Elle croit n'habiter Rose que la nuit.** En août, elle découvre qu'elle peut rester éveillée le jour (la règle est fausse). Elle refuse.
+- **La vanne se ferme le vendredi 14 novembre 1958 à 6 h** (écho du 14 novembre 2026). L'eau recouvre le gisement intact : pas de chute, **Iris se dissout dans Rose**.
+- **Ce qui sort de la fenêtre :** la berceuse (que Rose chantera à Anselme), le compte jusqu'à 59, les mains à plat, les cheveux ras, la table pour cinq, la lampe de K.
 
-## Calendrier provisoire
+## Calendrier
 | Date | Événement |
 |---|---|
 | 1955 | Début des travaux du barrage |
-| 1956 | Naissance d'Anselme Roch, dans la troisième maison à gauche |
-| juin 1958 | Décapage du fond de la vallée. **Iris arrive dans Rose** |
-| juillet 1958 | Rose se coupe les cheveux : « Comme ça, je me reconnais » |
-| été 1958 | Les nuits de Rose : la berceuse, le compte, les mains à plat |
-| sept.-oct. 1958 | Expulsions, déplacement des morts, tentatives d'Iris contre le chantier |
-| nov. 1958 | La dernière nuit : la table pour cinq. Rose rencontre l'homme en blanc (« Ce n'est pas encore l'heure. Ce n'est pas encore vous ») |
-| 14 nov. 1958 (?) | Fermeture de la vanne. L'eau monte. Iris se dissout dans Rose. Une lampe allumée est déposée sur le paillasson |
-| 1958-1999 | Rose met la table pour cinq. La légende de la dame du lac naît |
+| 1956 | Naissance d'Anselme, troisième maison à gauche |
+| oct. 2026 | Tour aux règles brisées : conception d'Iris ; Sophia quitte la vallée |
+| 14 nov. 2026 | (ce tour) Léthé extrait le gisement et l'emporte à Genève ; le fil s'éteint : Élise et Noé restent endormis au fond des hôtes |
+| août 2027 | Naissance d'Iris à Lyon, une nuit de coupure de courant ; Élise et Noé se réveillent une dernière fois |
+| 2029 | Naissance de Théo Kerr (fils de Bastien) |
+| ~2040 | Les comprimés Léthé (cristal extrait à Genève) ; premiers oublis |
+| ~2047 | Iris revient à Vallorce, rencontre Théo |
+| 2050 | Naissance de Sacha |
+| 2065 | Sacha rouillé ; « mort » ; Théo disparaît |
+| 2066 | Iris part pour 1958 |
+| juin 1958 | Décapage ; Iris arrive dans Rose |
+| juillet 1958 | Cheveux coupés |
+| août 1958 | Iris découvre qu'elle peut rester le jour ; refuse |
+| sept.-oct. 1958 | Expulsions, cercueils, tentatives contre le chantier, alliance avec l'homme en blanc |
+| nuit 13-14 nov. 1958 | Dernière nuit : la table pour cinq ; Iris reconnaît Sacha ; « Ce n'est pas encore vous » |
+| 14 nov. 1958, 6 h | Vanne fermée ; Iris se dissout dans Rose ; lampe sur le paillasson |
+| 1958-1999 | Rose, dame du lac ; table pour cinq |
 | 1971 | Mort de Jean |
-| oct. 1980 | Vidange. Rose pleure sur le parapet, les cheveux ras, les mains à plat. Anselme touche la veine (tome 1) |
-| 1999 | Mort de Rose. On grave sur la tombe : *Et la maison.* |
-| 2051-2060 | Le fil Anne, Mathis et Jeanne (les coups dans le mur) |
-| 2155 | Iris B part de la bibliothèque murée de Vallorce |
+| oct. 1980 | Vidange ; Rose pleure (tome 1, prologue) |
+| 1999 | Mort de Rose : *Et la maison.* |
 
-## Questions à trancher
-- Iris rencontre-t-elle K. avant la dernière nuit ? (Je propose : oui, à l'Acte II, sans savoir qui il est.)
-- **Qui sont les « cinq » de la table ?** Je propose Rose, Jean et Anselme, plus deux absents que Rose ne sait pas nommer : Élise et Iris. Ou bien Noé.
-- Le tome 2 révèle-t-il le « tour 1 », ou confirme-t-il qu'il n'y en a pas ?
-- Que trouve-t-on dans la maison noyée lors de la vidange de 1980 ? Un objet caché par Iris en 1958 pour Anselme pourrait faire le lien avec le prologue du tome 1.
+## Questions encore ouvertes
+- Le nom de l'ingénieur suisse (Walter Kerr ?) et son lien exact avec Bastien.
+- Iris cache-t-elle un objet dans la troisième maison, retrouvé en 1980 ? (Lien possible avec le prologue du tome 1.)
+- Étienne vient-il à Lyon pour la naissance de 2027 ?

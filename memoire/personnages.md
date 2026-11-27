@@ -17,7 +17,7 @@ Format : **Nom** (naissance) — rôle · liens · hôte/voyageur · secret 🔒
 - **Élise B** (2130, ligne B) — fille d'Iris B, cheveux longs, terreurs nocturnes, compte. Part en 2164 dans Sophia, écrit la page arrachée, brise, tombe en 1980 : **la plus ancienne** d'Anselme (« maman »).
 
 ## Famille Marle
-- **Étienne Marle** (1980) — médecin, 46 ans, cicatrice au-dessus du sourcil gauche, veuf de Claire († 2019), stylo plume encre bleue, chocolat chaud, échiquier, gants de jardinage. Hôte de Noé. Choisit Sophia ; consent par écrit à la dernière nuit. Père d'Hugo ; d'Anne (officiellement non dénommé).
+- **Étienne Marle** (1980) — médecin, 46 ans, cicatrice au-dessus du sourcil gauche, veuf de Claire († 2019), stylo plume encre bleue, chocolat chaud, échiquier, gants de jardinage. Hôte de Noé. Choisit Sophia ; consent par écrit à la dernière nuit ; apprend de Sophia, le 15 nov., qui était Noé. Père d'Hugo ; d'Anne (officiellement non dénommé).
 - **Hugo Marle** (2007) — géographie à Grenoble, escalade, yeux de Claire. Somnambule vers le lac (nuit 8-9 nov.), sauvé par Noé. Ancêtre de Noé (grand-père de son grand-père).
 - **Noé Marle** (2101) — historien (Guerre du Partage), compagnon d'Élise 8 ans, père d'Iris. A refusé la mission puis suivi Élise (17 sept. 2137). Se fait appeler **Sacha** (« comme si quelqu'un me l'avait prêté » : 🔒 prénom de son petit-fils). Lentilles au cumin trop salées. Tient les objets entre pouce et majeur. Le Veilleur : envoyé pour que la boucle tourne ; ment 34 nuits. Reste. Voix : réfléchie, pudique.
 

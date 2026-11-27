@@ -1,55 +1,63 @@
-# La Rouille, tome 2 : bible de travail
+# La Rouille, tome 2 : *La Dame du lac*
 
-> ⚠️ Ce dossier contient toutes les révélations du tome 1 et des pistes pour le tome 2. Il s'appuie sur les règles canoniques de `../roman/bible/chronologie.md` (§0).
-
-> 🔄 **Révision en cours :** l'architecture en trois tomes, les deux Iris et le rôle de Kerr sont dans `../roman/bible/trilogie.md`. Ce document prime sur le présent fichier là où ils divergent (en particulier sur l'héroïne du tome 2).
-
-## Titre de travail
-**La Dame du lac**. Autres possibilités : *La Vase*, *Vallorce-le-Bas*.
+> ⚠️ Contient les révélations des tomes 1 et 2. Référence générale : `../roman/bible/trilogie.md`. Faits compacts : `../memoire/`.
+> Version V3.4 : ce plan **remplace** l'ancien (héroïne Iris B partant en 2155).
 
 ## Pitch
-> En 1958, on noie un village pour construire un barrage. Pendant tout l'été, la vallée est à nu, et le cristal aussi. Rose Roch, une jeune mère, se coupe les cheveux un matin de juillet sans savoir pourquoi, et se met à compter la nuit jusqu'à cinquante-neuf. Dans son corps, il y a une femme venue de 2155 : **Iris Varenne**, celle qui, en 2141, a ouvert la fiole pour guérir sa fille et a relancé la Rouille. Elle est venue réparer. Elle est venue empêcher le barrage d'être rempli, pour que rien de tout cela ne commence. Mais l'enfant qui dort à côté d'elle, celui qu'elle berce chaque nuit, s'appelle **Anselme**. Elle sait ce qu'il deviendra. Elle sait qui vivra en lui. Et elle sait que si elle le sauve du lac, elle n'existera jamais.
+> En 2027, une enfant naît la nuit, dans une maternité de Lyon. Sa mère, Sophia, a fui la vallée de Vallorce enceinte, sans savoir de qui. Au moment de la naissance, une voix lui demande, avec sa propre bouche : « Je peux ? » Elle répond : « Vas-y. » L'enfant s'appelle **Iris**.
+> Trente-huit ans plus tard, Iris a perdu son fils, Sacha, emporté par la Rouille à quinze ans, et l'homme qu'elle aimait a disparu le même hiver. Elle apprend qu'on peut remonter le sang. Elle part en **1958**, dans **Rose Roch**, son ancêtre, l'été où l'on vide une vallée pour la noyer. Elle veut empêcher le lac d'exister. Sur le chantier, un homme en blanc mesure la nuit. C'est son fils, et il ne la reconnaît pas.
 
-## La question centrale
-Le tome 1 demandait : *comment empêcher la Rouille ?*
+## La question du tome
+« Qui sont les absents de la table ? » Rose met cinq couverts pour des gens « qui ne sont pas encore arrivés ».
 
-Le tome 2 demande : **« qui, de nous tous, a commencé ? »**, la question de K. à la fin du tome 1.
+## Ce que le tome révèle / garde
+| Révélé | Gardé pour le tome 3 |
+|---|---|
+| Le tour aux règles brisées, vu de l'intérieur : Sophia enceinte, la fuite | Kerr est un voyageur venu du futur |
+| Les **deux Iris** : l'Iris du passé est la fille d'Élise et de Noé | L'anneau (Kerr fils de Sacha) |
+| La naissance de 2027, vécue par Élise et Noé | Le manuel et la fausse règle écrits par Kerr |
+| **K. est Sacha, le fils d'Iris** | « La Rouille mène à l'avenir » |
+| La règle du sommeil est peut-être fausse (Iris le découvre) | La fin (la cuisine d'octobre) |
+| Rose devient la dame du lac (Iris se dissout en elle) | |
 
-## Les trois époques entrelacées
-1. **1958, Vallorce-le-Bas.** Les derniers mois du village avant l'inondation. Iris vit dans Rose, la nuit. Le jour, Rose, son mari Jean et le petit Anselme, deux ans, vivent l'expulsion, le déplacement des morts et les ingénieurs suisses. K. est déjà là.
-2. **2051-2060, Lyon et Vallorce.** Anne Varenne, la fille de Sophia (qui porte peut-être Élise et Noé), épouse Mathis Delorme, qui porte Iris adulte, dissoute en 2026. Leur fille Jeanne frappe contre les murs et s'arrête à 59. C'est la génération qui transmet sans savoir.
-3. **Le futur de K.** Indéterminé, et à révéler progressivement. D'où vient-il ? Pourquoi mesure-t-il ? Quel est son « tour 1 » ?
+## Deux fils entrelacés
 
-## Protagoniste
-**Iris Varenne (ligne B), née en 2103.**
-- C'est l'archiviste aux taches d'encre de l'épilogue, celle qui a ouvert la fiole, jeté le cristal dans le lac et vu sa fille lui demander « C'est qui ? ».
-- En 2155, à 52 ans, elle est encore lucide, alors que la Rouille gagne. Dans le carnet de famille (les pages noires), elle trouve la méthode du voyage, et apprend que la vallée a été ouverte en 1958.
-- Rose Roch est son ancêtre : c'est la mère d'Anselme, lui-même père de Sophia. Iris part dans Rose pour **empêcher le remplissage du lac**, c'est-à-dire empêcher le monde du tome 1.
-- **Son conflit :**
-  - **sa culpabilité**, puisque c'est elle qui a rouvert la fiole ;
-  - **sa fille**, Élise B, qui partira en 2164 et deviendra la plus ancienne dans Anselme ;
-  - **l'enfant qu'elle berce**, Anselme, futur père de son aïeule. Si elle change sa vie, la lignée s'efface.
+### Fil A : 1958, Vallorce-le-Bas (le présent du tome)
+- **Juin 1958 :** Iris (38 ans d'esprit) se réveille la nuit dans Rose (26 ans), sur la glaise du fond de la vallée décapée. Le petit Anselme (2 ans) dort à côté. Elle sait ce qu'il deviendra : le père de sa mère, l'hôte de toutes les Élise.
+- **Juillet :** elle se coupe les cheveux aux ciseaux de cuisine (« Comme ça, je me reconnais »). Elle berce Anselme avec *Dors, la rivière*, et s'arrête toujours avant la fin.
+- **Été :** elle tente d'empêcher le remplissage : lettres anonymes à la préfecture, sabotage d'une pompe, la recherche d'un ingénieur à convaincre. Chaque tentative échoue ou se retourne.
+- **Elle rencontre l'homme en blanc** (K., dans l'ingénieur suisse) : boîtier à écran vert, cahier noir, « Le temps qu'il reste ». Ils deviennent des alliés de nuit, sans savoir qui ils sont l'un pour l'autre.
+- **Le dilemme :** une nuit, l'aube vient et Iris ne s'endort pas. Elle reste éveillée dans Rose en plein jour, une heure. La règle était fausse. Elle pourrait prendre les journées de Rose et arrêter le chantier. **Elle refuse :** c'est la vie de Rose.
+- **Novembre :** expulsions, cercueils déplacés, la dernière nuit, la table pour cinq.
+- **Fin :** Iris reconnaît son fils à un geste (il tient le crayon entre le pouce et le majeur, comme Noé, comme elle). Lui ne la reconnaît pas : « Ce n'est pas encore l'heure. Ce n'est pas encore vous. » Elle ne lui dit rien. Elle le laisse mesurer. La vanne se ferme le 14 novembre 1958 à 6 h ; l'eau recouvre le gisement intact ; Iris se dissout dans Rose. Sur le paillasson, une lampe allumée, tournée vers le bas.
 
-> Variante possible : une **autre Iris**, celle de la ligne A, venue d'un tour plus tardif. Je recommande Iris B, pour la culpabilité.
+### Fil B : 2026-2065, la vie de l'Iris du passé (le passé du tome)
+Chapitres en alternance, en remontant le fil de sa vie.
+1. **Octobre 2026, le tour aux règles brisées.** La nuit froide, la cuisine d'Étienne, les règles franchies. Sophia se réveille dans le lit d'Étienne sans l'avoir choisi, a peur, quitte la vallée. Elle est enceinte. (On ne montre **pas** la cuisine de l'intérieur : elle est réservée au tome 3.)
+2. **Nuit d'août 2027, Lyon.** Coupure de courant à la maternité. Élise et Noé, endormis au fond de Sophia et d'Étienne depuis novembre, se réveillent une dernière fois. Étienne a retrouvé Sophia pour la naissance. « Je peux ? » « Vas-y. » Élise s'évanouit ; la sage-femme met l'enfant dans les bras d'Étienne, c'est-à-dire de Noé. Les trois détails de la naissance de 2130, à l'identique.
+3. **L'enfance d'Iris** à Lyon, avec Sophia seule : un front trop grand, la craie, des nuits où elle parle en dormant à deux voix, le grain de beauté. Sophia l'appelle Iris sans savoir pourquoi.
+4. **Vers 2047 : le retour à Vallorce.** Iris (20 ans) revient dans la vallée, comme sa mère avant elle. Elle rencontre **Théo Kerr** (18 ans), le fils de Bastien, qui « ne dort jamais » et sait des choses qu'il ne devrait pas savoir. 🔒 C'est Kerr, dans Théo.
+5. **2050 : Sacha.** Leur fils. Il tient le crayon entre le pouce et le majeur.
+6. **La Rouille, « venue plus tard, autrement, par d'autres mains » :** dans ce tour, le cristal a été extrait et porté à Genève ; les comprimés Léthé se répandent.
+7. **2065 : Sacha rouillé, quinze ans.** Une nuit, Théo s'assoit au bord du lit de son fils, un éclat à la main, et lui parle longtemps à voix basse. Au matin, Sacha est vide. Il meurt peu après. Théo disparaît le même hiver.
+8. **2066 : le départ.** Iris trouve dans les affaires de Théo la méthode (compter, l'éclat, le sang). Elle choisit 1958, parce que sa mère, en 2026, est déjà habitée.
 
-## L'ossature, en trois actes
-- **Acte I. La vallée nue (été 1958).**
-  - Iris se réveille dans Rose, sur la glaise. Elle apprend un corps de 1958, une langue d'avant, et la vie d'un village condamné.
-  - Elle se coupe les cheveux (« Comme ça, je me reconnais »).
-  - Elle berce le petit Anselme avec *Dors, la rivière*, et s'arrête toujours avant la fin.
-  - Elle rencontre **l'homme en blanc**, et comprend qu'un autre voyageur mesure.
-- **Acte II. Le village qu'on noie (septembre et octobre 1958).**
-  - Iris tente de faire échouer le chantier : un sabotage, des lettres anonymes à la préfecture, la recherche d'un ingénieur à convaincre.
-  - En parallèle, en **2051**, Jeanne naît, et les premiers coups dans un mur se font entendre à Lyon.
-  - On découvre que K. habite le corps d'un ingénieur suisse du chantier, son ancêtre et ancêtre de Kerr.
-  - K. et Iris s'affrontent, puis s'allient. Il lui dit : « Ce n'est pas encore l'heure. Ce n'est pas encore vous. »
-- **Acte III. La vanne (novembre 1958).**
-  - La dernière nuit : Rose refuse de quitter sa maison, et met la table pour cinq.
-  - Iris comprend qui sont les absents : elle, Élise, Noé, Ruben… Elle comprend aussi qu'**il n'y a pas de premier tour**. La première conscience à avoir touché le cristal était peut-être une Varenne de la toute fin de la boucle.
-  - Choix final : laisser la vanne se fermer. L'eau monte, Iris se dissout dans Rose, et la « dame du lac » naît de cette dissolution.
-- **Épilogue : une révélation sur K.,** à garder secrète pour l'instant.
+## Ossature en trois actes (≈ 30 chapitres)
+- **Acte I. La vallée nue (juin-juillet 1958 / 2026-2047).** Arrivée dans Rose ; cheveux ; berceuse ; premières nuits. En alternance : la fuite de Sophia, la naissance, l'enfance.
+- **Acte II. L'homme en blanc (août-octobre 1958 / 2047-2065).** Alliance avec K. ; tentatives contre le chantier ; découverte de la règle fausse ; refus. En alternance : Théo, Sacha, la Rouille, la mort de Sacha.
+- **Acte III. La vanne (novembre 1958 / 2066).** La dernière nuit, la table pour cinq, la reconnaissance muette, la dissolution. En alternance : le départ d'Iris.
+- **Épilogue (1980).** La vidange : Rose, cheveux blancs ras, mains à plat sur le parapet, regarde la troisième maison à gauche réapparaître. Elle pleure. Le lendemain, son fils touche la veine. (Rejoint le prologue du tome 1.)
+
+## Interludes possibles
+- **Sophia, 2027** : la nuit de la naissance de son point de vue (elle ne garde que « Vas-y »).
+- **Jean, 1958** : le mari qui ne comprend pas.
+- **K., 1958** : une page du cahier noir (« Variable inconnue, hôte R.R. »).
+- **Mathis, 2059** : le cahier où il note les coups de Jeanne contre le mur (fil du tour 47).
+
+## Les cinq couverts 💡
+Rose, Jean, Anselme, et deux absents que Rose ne sait pas nommer : **Iris et Sacha**, la mère et le fils, qui sont là la même nuit sans se reconnaître.
 
 ## Fichiers
-- **`personnages.md`** : les personnages nouveaux et ceux qui reviennent.
-- **`chronologie-1958.md`** : le calendrier de 1958 et les règles appliquées.
-- **`amorces.md`** : les indices déjà posés dans le tome 1, avec leurs emplacements.
+- `personnages.md` : personnages du tome.
+- `chronologie-1958.md` : calendrier et règles appliquées.
+- `amorces.md` : indices déjà posés dans le tome 1.

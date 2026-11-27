@@ -42,6 +42,8 @@ Il releva la tête et la regarda, sans peur, avec une sorte de curiosité tranqu
 
 Sophia sentit le froid lui monter dans le dos.
 
+— Madame Pradel, elle me croyait, dit-il plus bas. Maintenant, il reste que toi.
+
 Il descendit de sa chaise et reprit sa boîte sous le bras. Puis il fouilla dans la poche de son anorak et posa sur la table un caillou. Un galet du lac, gris, parfaitement rond, traversé d'une veine blanche.
 
 — C'est pour elle, dit-il. L'autre dame. Je ramasse des cailloux sur la grève. Chacun a une histoire, il faut juste attendre qu'il la raconte. Celui-là, il attend depuis longtemps.

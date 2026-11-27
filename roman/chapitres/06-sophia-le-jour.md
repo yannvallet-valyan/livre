@@ -44,7 +44,7 @@ Elle hocha la tête et retourna à ses courbes. À 7 h 12, la jauge du barrage a
 
 Le dimanche, elle alla voir son père.
 
-Elle le faisait chaque semaine depuis son arrivée, et chaque semaine elle se demandait pourquoi. La cabine du gardien était accrochée au flanc de la digue, accessible par un escalier de fer qui sonnait sous les pas. Anselme Roch y travaillait depuis quarante-six ans, et y vivait seul depuis trente-cinq. Il avait refusé de prendre sa retraite. L'exploitant avait fini par le garder, d'abord par commodité, puis parce que personne n'osait lui annoncer son départ.
+Elle le faisait chaque semaine depuis son arrivée, et chaque semaine elle se demandait pourquoi. Elle portait le nom de sa mère depuis ses dix-huit ans ; au village, on disait quand même « la fille d'Anselme ». La cabine du gardien était accrochée au flanc de la digue, accessible par un escalier de fer qui sonnait sous les pas. Anselme Roch y travaillait depuis quarante-six ans, et y vivait seul depuis trente-cinq. Il avait refusé de prendre sa retraite. L'exploitant avait fini par le garder, d'abord par commodité, puis parce que personne n'osait lui annoncer son départ.
 
 Il ouvrit avant qu'elle ne frappe. Il le faisait toujours, comme s'il l'entendait venir depuis le bas de la vallée.
 
