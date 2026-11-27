@@ -100,41 +100,37 @@ Le silence dura très longtemps.
 
 Sacha ne cria pas. Il ne pleura pas. Il posa la tasse, avec un soin infini, sur le bras du fauteuil. Il regarda ses mains. Il les retourna, paume en l'air, comme pour lire une ligne.
 
-— Quarante-sept fois, dit-il.
+— Je le sais, dit-il.
 
-— Je sais.
+— Quoi ?
 
-— Quarante-sept fois, je me suis dit que j'avais un fils.
+— Que je ne suis pas ton père. Je l'ai su en 2159, dans un carnet de Ruben, un matin. J'ai lu une page. J'ai lu : « Père : W. » Je ne savais pas qui était W. J'ai fermé le cahier. Je me suis dit que j'avais passé ma vie à me tromper de fils.
 
-— Je sais.
+— Tu ne m'as rien dit.
 
-— J'ai écrit pour lui. J'ai vécu pour lui. J'ai donné ma vie à un enfant qui…
+— Qu'est-ce que j'aurais dit ? « Mon fils, je ne suis pas ton père » ? À huit ans ?
 
-Il s'arrêta. Sa voix s'étrangla. Il se plia en deux, lentement, les coudes sur les genoux, le visage dans les paumes. Un son sortit de lui, très bas, rauque, qui n'avait rien d'un sanglot, plus proche d'un râle. Kerr ne bougea pas. Il savait ce qu'on doit faire, devant cela : rien. Attendre.
+Il se plia en deux, lentement, les coudes sur les genoux, le visage dans les paumes. Un son sortit de lui, très bas, rauque, qui n'avait rien d'un sanglot, plus proche d'un râle.
 
-— Je n'ai pas de fils, dit Sacha.
-
-— Si.
-
-— Non.
-
-— Si, dit Kerr. Tu as un fils. Il est là.
-
-— Tu viens de me dire…
-
-— Je t'ai dit que tu n'es pas mon père de naissance. Je ne t'ai pas dit que tu n'es pas celui que j'ai choisi.
-
-Sacha releva la tête. Il avait le visage défait, rouge, gonflé. Il le regarda sans comprendre.
-
-— Je t'ai lu pendant dix ans, dit Kerr. Quand j'avais dix ans, une femme m'a lu un registre. Elle m'a dit : « Il y a un homme qui t'attend. » J'ai répondu : « C'est mon père. » J'ai décidé que c'était toi. Parce que tu écris comme moi. Parce que tu ne ratures pas. Parce que tu étais seul, et moi aussi. Je ne me suis pas trompé. Je me suis arrangé.
-
-— Tu t'es arrangé.
-
-— Oui.
+— J'ai continué à écrire pour toi, dit-il. À te laisser des politesses. À mettre des badges dans des congélateurs. Je me disais : « Il m'a choisi. Je lui dois d'être celui qu'il croit. » C'est la plus grande lâcheté de ma vie.
 
 — C'est faux.
 
-— C'est vrai, dit Kerr. C'est ce que font les enfants. Ils choisissent quelqu'un.
+— Si.
+
+— Non, dit Kerr. C'est ce que font les pères. Ils tiennent le rôle.
+
+Sacha releva la tête. Il avait le visage défait, rouge, gonflé. Il le regarda sans comprendre.
+
+— Je savais, dit Kerr. Je l'ai su à dix-huit ans, en lisant ce que tu avais lu. Je n'ai rien dit non plus. J'ai attendu que tu me le dises. C'était un jeu stupide. Nous avons joué vingt ans à nous protéger l'un l'autre d'une chose que nous savions tous les deux.
+
+— Tu savais.
+
+— Oui.
+
+— Et tu m'as laissé…
+
+— Je t'ai laissé être mon père. Parce que j'en avais besoin. Parce que tu écris comme moi. Parce que tu étais seul, et moi aussi. Je n'ai pas fait d'erreur. Je me suis arrangé.
 
 Sacha se leva. Il fit un pas vers le feu, un autre. Il resta debout, de dos, les mains sur le manteau de la cheminée. Ses épaules tremblaient. Il dit, dans le silence :
 
@@ -150,7 +146,7 @@ Sacha se leva. Il fit un pas vers le feu, un autre. Il resta debout, de dos, les
 
 — Parce que tu as aimé quelqu'un qui n'était pas ce que tu croyais, dit Kerr, et que tu l'aimes encore.
 
-Sacha se retourna. Il le regarda. Il eut un sourire horrible, déchiré, comme une plaie qui s'ouvre. Il dit :
+Sacha se retourna. Il eut un sourire horrible, déchiré, comme une plaie qui s'ouvre. Il dit :
 
 — C'est ça, ma punition ?
 
