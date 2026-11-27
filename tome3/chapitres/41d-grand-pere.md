@@ -60,7 +60,7 @@ Il le regarda comme on regarde, après une longue absence, la silhouette qu'on a
 
 — Sacha, dit-il.
 
-Il le dit une seconde fois, comme on goûte un mot. Il le dit d'une voix de plus en plus basse, de plus en plus pleine. Puis son visage se plissa, d'un coup, de la façon dont un papier se froisse. Il porta les deux mains à sa bouche. Il pleura.
+Il le dit une seconde fois, ainsi qu'on goûte un mot. Il le dit d'une voix de plus en plus basse, de plus en plus pleine. Puis son visage se plissa, d'un coup, de la façon dont un papier se froisse. Il porta les deux mains à sa bouche. Il pleura.
 
 Il pleura debout, comme un homme qui n'a pas appris à le faire. Il pleura avec de grands sanglots hachés, qui lui secouaient les épaules. Sacha s'avança. Il ne savait pas quoi faire de ses bras. Il les leva, les laissa retomber, les leva encore. Noé tendit les siens. Ils s'étreignirent maladroitement, deux hommes de tailles voisines, de visages que rien ne rapprochait, sinon le front.
 

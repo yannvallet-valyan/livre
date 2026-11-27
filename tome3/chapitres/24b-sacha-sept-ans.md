@@ -44,7 +44,7 @@ Sacha avait compris, très tôt, qu'il ne fallait pas poser de questions. Qu'il 
 
 Un soir, il se réveilla en pleine nuit.
 
-Il fit ce qu'il faisait toujours : il resta immobile, les yeux ouverts, à écouter la maison. Il entendit, derrière la cloison, des voix basses. Sa mère. Son père. Il ne comprit pas tout. Il comprit : « … trop jeune. » Il comprit : « … il ne faut pas lui dire. » Il comprit : « … quand il saura compter jusqu'au bout. »
+Il fit ce qu'il faisait toujours : il ne bougea plus, les yeux ouverts, à écouter la maison. Il entendit, derrière la cloison, des voix basses. Sa mère. Son père. Il ne comprit pas tout. Il comprit : « … trop jeune. » Il comprit : « … il ne faut pas lui dire. » Il comprit : « … quand il saura compter jusqu'au bout. »
 
 Il se glissa hors du lit. Il marcha pieds nus, sur le parquet froid. Il s'arrêta devant la porte entrouverte. Par la fente, il vit une lampe, deux silhouettes assises côte à côte sur le bord du lit. Sa mère, en chemise de nuit, les épaules voûtées. Son père, en pull gris, la tête dans les mains.
 

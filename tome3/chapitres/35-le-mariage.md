@@ -50,7 +50,7 @@ Il retint le moment où il tendit la bague. Il la sentit glisser au doigt de Luc
 
 Il retint que personne, à ce moment-là, ne le regardait. Il était le témoin. Il se tenait derrière, un peu de côté, dans l'ombre d'un tilleul. Il pouvait pleurer, sans qu'on le voie. Il pleura.
 
-Il pleura sans bruit, comme on respire. Il sentit une main se poser sur la sienne. Il se retourna. C'était Walther.
+Il pleura sans bruit, ainsi qu'on respire. Il sentit une main se poser sur la sienne. Il se retourna. C'était Walther.
 
 — Je suis venu, dit l'homme du jour.
 

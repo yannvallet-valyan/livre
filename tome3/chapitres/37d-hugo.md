@@ -4,7 +4,7 @@
 
 Hugo avait dix-neuf ans, et il savait qu'il y avait un monsieur.
 
-Il ne l'aurait pas dit comme ça. Il aurait dit : « Il y a quelqu'un. » Il l'avait compris depuis qu'il était arrivé à Vallorce, le samedi 7 novembre, pour voir son père, sans savoir pourquoi il avait pris le train : une présence, à la lisière des choses, qui ne faisait pas de bruit. Un homme, quelque part dans la maison, dans la rue, au bord du lac, qui regardait. Pas méchant. Il en avait la certitude, comme on a celle d'un chien qui ne mord pas. Seulement très triste.
+Il ne l'aurait pas dit comme ça. Il aurait dit : « Il y a quelqu'un. » Il l'avait compris depuis qu'il était arrivé à Vallorce, le samedi 7 novembre, pour voir son père, sans savoir pourquoi il avait pris le train : une présence, à la lisière des choses, qui ne faisait pas de bruit. Un homme, quelque part dans la maison, dans la rue, au bord du lac, qui regardait. Pas méchant. Il en avait la certitude, à la façon dont on a celle d'un chien qui ne mord pas. Seulement très triste.
 
 Il n'en parlait à personne. Son père n'avait plus de sourire, depuis la mort de sa mère ; il parlait de plus en plus bas, par phrases courtes. Sophia, l'hydrologue, l'évitait. Il se sentait de trop. Il avait fait, en dix jours, une nuit de somnambulisme jusqu'au lac, et il avait failli s'y noyer ; un ami de son père, un historien, l'avait retenu. Il l'avait remercié. L'autre avait dit : « Ce n'est rien », avec un drôle d'air, comme s'il rattrapait quelqu'un d'autre.
 

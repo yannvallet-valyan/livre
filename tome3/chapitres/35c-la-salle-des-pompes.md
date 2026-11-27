@@ -150,8 +150,8 @@ Walther se leva le premier. Il remit la clé dans sa poche. Il reprit son tourne
 
 — Parfait.
 
-Il lui tapota l'épaule, comme on le fait à un apprenti. Il remonta l'escalier, de son pas lourd, en sifflotant faux une chanson de 1958. Kerr le regarda s'éloigner. Il resta seul, au milieu des pompes. Il prit la clé de douze. Il s'accroupit devant la quatrième.
+Il lui tapota l'épaule, ainsi qu'on le fait à un apprenti. Il remonta l'escalier, de son pas lourd, en sifflotant faux une chanson de 1958. Kerr le regarda s'éloigner. Il resta seul, au milieu des pompes. Il prit la clé de douze. Il s'accroupit devant la quatrième.
 
 Il serra le joint, à la demi-clé, avec un soin infini.
 
-Il le fit comme on fait une dernière chose : en prenant tout son temps, pour que la machine tienne cent ans.
+Il le fit à la façon dont on fait une dernière chose : en prenant tout son temps, pour que la machine tienne cent ans.

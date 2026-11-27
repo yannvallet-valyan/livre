@@ -118,7 +118,7 @@ Il regarda le cachet. Il regarda son père. Il y eut un long silence. Dans la cu
 
 — Alors je le prends.
 
-Il l'avala. Il but une gorgée d'eau. Il reposa le verre. Il resta immobile, droit sur sa chaise, les mains sur la table, les yeux fixés sur Kerr, qui n'osait pas le regarder.
+Il l'avala. Il but une gorgée d'eau. Il reposa le verre. Il ne bougea plus, droit sur sa chaise, les mains sur la table, les yeux fixés sur Kerr, qui n'osait pas le regarder.
 
 — Tu pleures, dit-il.
 
@@ -146,7 +146,7 @@ Il la tint pendant une heure, assis à la table, dans la cuisine éclairée, dev
 
 Il le sentit partir.
 
-Il resta là, jusqu'au matin, sans bouger, à regarder le corps de celui qui avait été son fils. Puis il se leva. Il alla à la fenêtre. Il regarda le jour se lever sur le lac. Il se dit : *je ne mérite pas de vivre.* Il se dit : *je vivrai.*
+Il se tint là, jusqu'au matin, sans bouger, à regarder le corps de celui qui avait été son fils. Puis il se leva. Il alla à la fenêtre. Il regarda le jour se lever sur le lac. Il se dit : *je ne mérite pas de vivre.* Il se dit : *je vivrai.*
 
 Il savait qu'il lui restait un an à attendre, que le garçon se remplisse d'un autre, que la boucle tourne. Il savait qu'il porterait cette nuit jusqu'à sa mort.
 

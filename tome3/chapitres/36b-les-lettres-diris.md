@@ -4,7 +4,7 @@
 
 Elle lui écrivit pendant seize ans, et ne lui envoya rien.
 
-C'étaient des feuillets pliés en quatre, des pages arrachées à des cahiers, des bouts de papier d'emballage, des tickets de caisse retournés. Elle écrivait n'importe où : sur un banc, dans un train, sur le bord d'un lit. Elle écrivait d'une écriture ronde, un peu penchée, sans ratures, comme on parle à quelqu'un qui écoute. Elle commençait toujours par la même phrase :
+C'étaient des feuillets pliés en quatre, des pages arrachées à des cahiers, des bouts de papier d'emballage, des tickets de caisse retournés. Elle écrivait n'importe où : sur un banc, dans un train, sur le bord d'un lit. Elle écrivait d'une écriture ronde, un peu penchée, sans ratures, ainsi qu'on parle à quelqu'un qui écoute. Elle commençait toujours par la même phrase :
 
 *Mon Kerr,*
 
@@ -12,7 +12,7 @@ C'étaient des feuillets pliés en quatre, des pages arrachées à des cahiers, 
 
 *Aujourd'hui, tu as dix ans.*
 
-Elle comptait les années comme on compte des marches. Elle ne manquait aucune date. Elle les rangeait dans une boîte de fer, qu'elle gardait sous le lit, dans une chambre de pension, à trois cents kilomètres du refuge. Elle avait changé de ville quatre fois. Elle avait pris des noms d'emprunt. Elle travaillait dans des cuisines, des blanchisseries, des imprimeries, selon les saisons. Elle ne disait jamais d'où elle venait. On la prenait pour une veuve.
+Elle comptait les années à la façon dont on compte des marches. Elle ne manquait aucune date. Elle les rangeait dans une boîte de fer, qu'elle gardait sous le lit, dans une chambre de pension, à trois cents kilomètres du refuge. Elle avait changé de ville quatre fois. Elle avait pris des noms d'emprunt. Elle travaillait dans des cuisines, des blanchisseries, des imprimeries, selon les saisons. Elle ne disait jamais d'où elle venait. On la prenait pour une veuve.
 
 Elle ne l'était pas. Elle ne savait pas ce qu'elle était.
 

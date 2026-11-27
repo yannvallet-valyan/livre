@@ -10,7 +10,7 @@ Théo naquit le 14 janvier 2029, à Genève, d'une femme que Bastien avait à pe
 
 Il l'éleva.
 
-Il le fit comme on remplit un contrat : avec soin, avec méthode. Il lui apprit à marcher, à parler, à lire. Il lui apprit la politesse : un sourire ajusté, un salut précis, un « merci » à chaque porte. Il l'emmenait au bord du lac, le dimanche, lui montrait comment faire rebondir un caillou. Il lui racontait des histoires de poissons qui parlent. Il restait des soirs entiers assis au bord de son lit, la main sur sa poitrine, à compter ses souffles. L'enfant s'endormait en l'appelant « papa ».
+Il le fit à la façon dont on remplit un contrat : avec soin, avec méthode. Il lui apprit à marcher, à parler, à lire. Il lui apprit la politesse : un sourire ajusté, un salut précis, un « merci » à chaque porte. Il l'emmenait au bord du lac, le dimanche, lui montrait comment faire rebondir un caillou. Il lui racontait des histoires de poissons qui parlent. Il restait des soirs entiers assis au bord de son lit, la main sur sa poitrine, à compter ses souffles. L'enfant s'endormait en l'appelant « papa ».
 
 Il ne répondait pas « mon fils ». Il répondait « mon petit ». C'était la seule concession qu'il se permettait.
 
@@ -68,7 +68,7 @@ Le garçon la prit. Il l'avala, avec un peu d'eau. Il leva les yeux. Il sourit, 
 
 — Merci, papa, dit-il.
 
-Kerr sortit dans le couloir. Il s'adossa au mur. Il resta longtemps immobile, le front contre la pierre, à écouter, très loin dans sa poitrine, un petit cri étouffé. Bastien hurlait. Il ne savait pas pourquoi. Il savait seulement que quelque chose d'irréparable venait d'être commis, et qu'il n'avait pas le droit de l'arrêter.
+Kerr sortit dans le couloir. Il s'adossa au mur. Il demeura immobile, le front contre la pierre, à écouter, très loin dans sa poitrine, un petit cri étouffé. Bastien hurlait. Il ne savait pas pourquoi. Il savait seulement que quelque chose d'irréparable venait d'être commis, et qu'il n'avait pas le droit de l'arrêter.
 
 Il ne se pardonna jamais ce soir-là. Il le fit pourtant, cent fois, pendant un an.
 

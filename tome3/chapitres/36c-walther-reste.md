@@ -34,7 +34,7 @@ Il lisait.
 
 Il écrivit sa réponse au petit matin.
 
-Il n'avait pas d'adresse. Il savait seulement que le tampon de la poste portait le nom de *Maurville*. Il prit une feuille, un crayon. Il resta un long moment, la mine au-dessus du papier. Il n'avait jamais su écrire à quelqu'un qu'il aimait. Il savait écrire des rapports, des notes d'ingénieur, des listes de pièces. Il écrivit :
+Il n'avait pas d'adresse. Il savait seulement que le tampon de la poste portait le nom de *Maurville*. Il prit une feuille, un crayon. Il se tint un long moment, la mine au-dessus du papier. Il n'avait jamais su écrire à quelqu'un qu'il aimait. Il savait écrire des rapports, des notes d'ingénieur, des listes de pièces. Il écrivit :
 
 *Iris,*
 
@@ -44,7 +44,7 @@ Il n'avait pas d'adresse. Il savait seulement que le tampon de la poste portait 
 
 *Kerr est parti le 10 avril. Il a laissé un caillou à Tanguy. Il n'a rien laissé à personne d'autre. Il m'a seulement dit, deux jours avant, dans la salle des pompes, une phrase que je ne comprends toujours pas : « Si je pouvais choisir, je te choisirais aussi. » Je ne sais pas ce qu'il voulait dire. Je crois qu'il me répondait.*
 
-*Je ne t'ai pas encore dit une chose. Il m'a appelé « papa », un jour de décembre 2162, devant une pompe. Il avait six ans. Il l'a dit sans y penser, comme on dit « merci ». Il l'a redit le 8 avril, exprès, une seule fois, et cette fois je n'ai pas fait semblant de ne pas l'entendre ; je n'ai pas répondu non plus. La première fois, j'ai fait semblant de ne pas avoir entendu. J'ai passé trois nuits à m'en vouloir. J'avais peur que tu l'apprennes et que tu me reproches de l'avoir laissé faire.*
+*Je ne t'ai pas encore dit une chose. Il m'a appelé « papa », un jour de décembre 2162, devant une pompe. Il avait six ans. Il l'a dit sans y penser, ainsi qu'on dit « merci ». Il l'a redit le 8 avril, exprès, une seule fois, et cette fois je n'ai pas fait semblant de ne pas l'entendre ; je n'ai pas répondu non plus. La première fois, j'ai fait semblant de ne pas avoir entendu. J'ai passé trois nuits à m'en vouloir. J'avais peur que tu l'apprennes et que tu me reproches de l'avoir laissé faire.*
 
 *Tu ne me le reprocheras pas. Je le sais, maintenant. Tu aurais fait pareil.*
 
@@ -52,7 +52,7 @@ Il n'avait pas d'adresse. Il savait seulement que le tampon de la poste portait 
 
 *Walther.*
 
-Il la relut. Il la plia en quatre. Il la glissa dans l'enveloppe qu'Iris avait envoyée. Il l'adressa, d'une main sûre : *À Iris. Maurville.* Il resta un instant. Il ajouta, au dos, en lettres plus petites : *Si vous la connaissez, dites-lui que la porte est ouverte.*
+Il la relut. Il la plia en quatre. Il la glissa dans l'enveloppe qu'Iris avait envoyée. Il l'adressa, d'une main sûre : *À Iris. Maurville.* Il demeura un instant. Il ajouta, au dos, en lettres plus petites : *Si vous la connaissez, dites-lui que la porte est ouverte.*
 
 Il alla la poster lui-même, dans la boîte du hameau, à cinq kilomètres.
 
@@ -88,7 +88,7 @@ Il dit :
 
 Elle entra. Il referma la porte.
 
-Il ne dit rien d'autre. Il lui retira son manteau, très doucement. Il le suspendit au clou. Il lui prit la boîte des mains, la posa sur la table. Il la regarda. Il la regarda longtemps, comme on regarde un lieu qu'on a gardé, et qu'on retrouve intact.
+Il ne dit rien d'autre. Il lui retira son manteau, très doucement. Il le suspendit au clou. Il lui prit la boîte des mains, la posa sur la table. Il la regarda. Il la regarda longuement, à la façon dont on regarde un lieu qu'on a gardé, et qu'on retrouve intact.
 
 Elle dit :
 

@@ -8,7 +8,7 @@ Le lundi 19 octobre 2026, à deux heures sept du matin, une femme de trente-huit
 
 Il ne l'avait pas comprise à six ans. Il ne la comprenait pas mieux à vingt-quatre.
 
-Il descendit avant elle. Il avait la clé de Bastien. Il avait aussi, dans la poche de son manteau, une petite lampe à pile, un cylindre de métal gris qu'il avait retrouvé dans le bureau le deuxième jour. Il ne savait pas à qui elle avait appartenu. Il la gardait comme on garde un caillou ramassé sans raison.
+Il descendit avant elle. Il avait la clé de Bastien. Il avait aussi, dans la poche de son manteau, une petite lampe à pile, un cylindre de métal gris qu'il avait retrouvé dans le bureau le deuxième jour. Il ne savait pas à qui elle avait appartenu. Il la gardait à la façon dont on garde un caillou ramassé sans raison.
 
 La galerie était longue, étroite, blanche de salpêtre. Elle sentait la vase et le fer. À mi-chemin, une ouverture avait été percée dans le mur, une niche carrée, qui donnait sur la paroi : une masse de glaise grise, luisante, couverte de filaments rouges qui couraient comme des veines. Il y avait de la chaleur. Il y avait un très faible bourdonnement, qu'on ne percevait qu'au bout de quelques minutes, comme on perçoit le bruit de sa propre circulation.
 
@@ -18,7 +18,7 @@ Il s'adossa à la paroi opposée, dans l'ombre, éteignit sa lampe, et attendit.
 
 Il ne l'avait jamais vue.
 
-Il l'avait imaginée. Il l'avait vue à travers les mots d'un autre, depuis l'enfance, dans les marges, dans les lignes en travers, dans des phrases qui tenaient en trois mots. *Élise, lucide.* *Élise, épuisée.* *É. rit, parfois.* Il avait vécu avec elle toute sa vie comme on vit avec une photographie qu'on n'ose pas retourner. Il savait qu'elle était la mère de sa mère, qu'elle avait cédé, fui, tout perdu. Il savait qu'elle avait donné naissance à deux filles qui ne se rencontreraient pas. Il savait qu'elle portait en elle, en ce moment même, sans le savoir, la première des deux.
+Il l'avait imaginée. Il l'avait vue à travers les mots d'un autre, depuis l'enfance, dans les marges, dans les lignes en travers, dans des phrases qui tenaient en trois mots. *Élise, lucide.* *Élise, épuisée.* *É. rit, parfois.* Il avait vécu avec elle toute sa vie ainsi qu'on vit avec une photographie qu'on n'ose pas retourner. Il savait qu'elle était la mère de sa mère, qu'elle avait cédé, fui, tout perdu. Il savait qu'elle avait donné naissance à deux filles qui ne se rencontreraient pas. Il savait qu'elle portait en elle, en ce moment même, sans le savoir, la première des deux.
 
 À deux heures cinq, il entendit des pas.
 
@@ -36,7 +36,7 @@ Il comprit qu'il avait attendu ce visage depuis quarante ans.
 
 Elle resta là une heure.
 
-Il ne bougea pas. Il la regarda poser les paumes à plat contre la paroi, comme on ausculte. Il la regarda fermer les yeux. Il l'entendit compter, à voix basse. Il l'entendit s'arrêter. Il vit les filaments rouges s'incliner vers elle, tous ensemble, comme des herbes sous le vent, et la glaise devenir lumineuse sous ses mains.
+Il ne bougea pas. Il la regarda poser les paumes à plat contre la paroi, à la façon dont on ausculte. Il la regarda fermer les yeux. Il l'entendit compter, à voix basse. Il l'entendit s'arrêter. Il vit les filaments rouges s'incliner vers elle, tous ensemble, comme des herbes sous le vent, et la glaise devenir lumineuse sous ses mains.
 
 Vers trois heures, elle se mit à parler.
 
@@ -54,7 +54,7 @@ Elle regarda droit devant elle, dans l'obscurité, vers l'endroit où il se tena
 
 Il ne répondit pas.
 
-Elle resta longtemps immobile. Puis elle haussa les épaules, très légèrement, se tourna vers la porte, et partit. Il entendit ses pas s'éloigner, monter, se perdre dans l'escalier. Il resta là, adossé au mur, à écouter le barrage.
+Elle demeura immobile. Puis elle haussa les épaules, très légèrement, se tourna vers la porte, et partit. Il entendit ses pas s'éloigner, monter, se perdre dans l'escalier. Il se tint là, adossé au mur, à écouter le barrage.
 
 ---
 

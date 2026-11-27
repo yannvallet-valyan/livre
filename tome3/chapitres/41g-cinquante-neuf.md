@@ -6,7 +6,7 @@ Elle regarda Noé.
 
 Elle le regarda longuement, de l'autre côté de la cuisine, dans la lumière grise de l'aube. Elle ne parla pas. Elle n'en avait pas besoin. Il comprit qu'elle lui posait la question.
 
-Il se leva. Il fit un pas vers elle, puis s'arrêta, à un mètre, comme on s'arrête au bord d'une rivière. C'était la règle. Ils l'avaient posée, un soir de septembre, devant un lavoir, dans une ivresse de précaution : *un mètre*. Pas plus près. Pas plus loin. La distance exacte qui permettait de se regarder sans se brûler. Ils l'avaient franchie, une nuit, sans en parler. Ils avaient franchi toutes les autres.
+Il se leva. Il fit un pas vers elle, puis s'arrêta, à un mètre, ainsi qu'on s'arrête au bord d'une rivière. C'était la règle. Ils l'avaient posée, un soir de septembre, devant un lavoir, dans une ivresse de précaution : *un mètre*. Pas plus près. Pas plus loin. La distance exacte qui permettait de se regarder sans se brûler. Ils l'avaient franchie, une nuit, sans en parler. Ils avaient franchi toutes les autres.
 
 Ils se tenaient là, face à face, à une longueur de bras, l'un devant l'autre.
 
@@ -68,7 +68,7 @@ Il comprit. Il dit :
 
 — Trois.
 
-Ils comptaient. Ils comptaient l'un après l'autre, d'une voix très basse, sans se quitter des yeux. Ils comptaient comme on prie, comme on respire, comme on tient une porte contre le vent. Kerr, à la table, avait fermé les yeux. Sacha, dans le fond, comptait aussi, sans bruit, avec eux.
+Ils comptaient. Ils comptaient l'un après l'autre, d'une voix très basse, sans se quitter des yeux. Ils comptaient à la façon dont on prie, comme on respire, ainsi qu'on tient une porte contre le vent. Kerr, à la table, avait fermé les yeux. Sacha, dans le fond, comptait aussi, sans bruit, avec eux.
 
 — Dix, dit Élise.
 

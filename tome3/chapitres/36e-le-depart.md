@@ -4,7 +4,7 @@
 
 Il partit à cinq heures du matin, le 10 avril 2180, par la porte de service du dortoir B, en laissant une lampe allumée.
 
-Il avait dormi deux heures, assis sur le banc de la cour, la tête contre la pierre. Il s'était réveillé avec le froid. Il avait marché, une dernière fois, à travers le refuge, comme on parcourt une maison qu'on va vendre. Il avait traversé le réfectoire, la bibliothèque, la salle des archives. Il avait passé la main sur les dossiers des chaises, sur les tables, sur les rampes d'escalier. Il avait touché le mur du fond, là où, un soir de décembre, une vieille femme lui avait dit : « Pas encore. »
+Il avait dormi deux heures, assis sur le banc de la cour, la tête contre la pierre. Il s'était réveillé avec le froid. Il avait marché, une dernière fois, à travers le refuge, ainsi qu'on parcourt une maison qu'on va vendre. Il avait traversé le réfectoire, la bibliothèque, la salle des archives. Il avait passé la main sur les dossiers des chaises, sur les tables, sur les rampes d'escalier. Il avait touché le mur du fond, là où, un soir de décembre, une vieille femme lui avait dit : « Pas encore. »
 
 Il n'avait pris qu'un sac : un carnet de toile, un crayon, un caillou blanc, un morceau de craie. Il avait laissé, sur sa table de chevet, un mot pour personne.
 

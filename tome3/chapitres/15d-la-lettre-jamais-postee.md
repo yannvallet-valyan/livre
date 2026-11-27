@@ -58,7 +58,7 @@ C'était une chose qu'elle ne savait pas encore faire, de ne pas choisir entre l
 
 Elle porta la main à sa bouche.
 
-Elle comprit qu'elle pleurait. Elle pleurait, depuis le début de la lecture, sans bruit, sans effort, comme on perd de l'eau par une fissure. Elle ne pleurait pas pour sa mère. Elle pleurait pour la jeune femme de 2026 qui avait écrit cela, seule, un soir de novembre, à une table de cuisine, avec un stylo à encre bleue.
+Elle comprit qu'elle pleurait. Elle pleurait, depuis le début de la lecture, sans bruit, sans effort, ainsi qu'on perd de l'eau par une fissure. Elle ne pleurait pas pour sa mère. Elle pleurait pour la jeune femme de 2026 qui avait écrit cela, seule, un soir de novembre, à une table de cuisine, avec un stylo à encre bleue.
 
 *Elle avait trente-huit ans,* pensa-t-elle. *Elle avait peur. Elle a gardé.*
 
@@ -74,7 +74,7 @@ Elle descendit à Vallorce à quinze heures. Le village était blanc de brume. E
 
 La porte s'ouvrit.
 
-Un vieil homme apparut, en blouse, une sacoche à la main. Il avait soixante-cinq ans, des cheveux gris, une cicatrice au-dessus du sourcil. Il s'arrêta net. Il regarda la jeune fille, immobile sur le seuil. Il ne dit rien. Il resta là, la bouche entrouverte, le visage soudain très pâle.
+Un vieil homme apparut, en blouse, une sacoche à la main. Il avait soixante-cinq ans, des cheveux gris, une cicatrice au-dessus du sourcil. Il s'arrêta net. Il regarda la jeune fille, immobile sur le seuil. Il ne dit rien. Il se tint là, la bouche entrouverte, le visage soudain très pâle.
 
 — Je suis… commença-t-elle.
 
@@ -110,7 +110,7 @@ Il la lut debout, devant la fenêtre, le dos tourné. Elle ne vit pas son visage
 
 — C'est pareil, dit Étienne, avec un petit rire. Quand on est vieux, c'est pareil.
 
-Il vint se rasseoir. Il prit sa main, dans la sienne, sans façon, comme on le fait à une patiente. Il la garda, un instant. Il dit :
+Il vint se rasseoir. Il prit sa main, dans la sienne, sans façon, à la façon dont on le fait à une patiente. Il la garda, un instant. Il dit :
 
 — Je ne sais pas ce que je suis pour toi.
 

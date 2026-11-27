@@ -67,3 +67,4 @@
 | V3.63 | 2026-11-27 | Tome 3 : `15d-la-lettre-jamais-postee` (5 déc. 2045 : Iris trouve la lettre de Sophia à Étienne, datée 16 nov. 2026, écrite de Lyon ; arrive à Vallorce ; Étienne : « Alors tu restes »). **T3 ≈ 69 500 mots**. |
 | V3.64 | 2026-11-27 | Tome 3 : `36f-mael-vieux` (juin 2229) ; `canon.md` (origine de « Et lui. » fixée, récapitulatif V3.54-63) et `tome3/README.md` mis à jour. **T3 ≈ 70 300 mots : objectif atteint.** |
 | V3.65 | 2026-11-27 | Renommage de l'ami de Kerr : **Mael → Tanguy** (T3, plan, canon, anneau-v2, journal ; fichiers `32-tanguy`, `34-ce-que-tanguy-ne-sait-pas`, `36-la-derniere-nuit-avec-tanguy`, `36f-tanguy-vieux`). |
+| V3.66 | 2026-11-27 | Vérification générale : T3 renuméroté, tics réduits par passe automatique (« comme on », « il resta/comprit »), erreur d'âge corrigée (`41c`), EPUB T1/T2 et livre du site régénérés, `check-story` OK ; `chapitres.md` (table T3), `resume.md`, `style.md`, `fils-ouverts.md` mis à jour. |

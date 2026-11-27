@@ -82,7 +82,7 @@ Il ferma les yeux.
 
 Il rit. C'était un petit rire étouffé, surpris de lui-même, un rire qu'il ne s'était pas entendu faire depuis un siècle. Il la regarda, et Ruben, qui n'était pas un homme habile aux choses du cœur, comprit en un seul coup d'œil ce qu'il y avait à comprendre, et ne le dit à personne.
 
-Il se leva, discrètement, laissa la porte entrouverte, et alla s'asseoir sur le banc du couloir. Il écouta, sans le vouloir, leurs voix qui montaient, qui baissaient, qui s'arrêtaient. Il ne comprit pas les mots. Il comprit seulement qu'ils étaient deux inconnus qui se parlaient comme on parle à quelqu'un qu'on a déjà perdu.
+Il se leva, discrètement, laissa la porte entrouverte, et alla s'asseoir sur le banc du couloir. Il écouta, sans le vouloir, leurs voix qui montaient, qui baissaient, qui s'arrêtaient. Il ne comprit pas les mots. Il comprit seulement qu'ils étaient deux inconnus qui se parlaient à la façon dont on parle à quelqu'un qu'on a déjà perdu.
 
 Elle ressortit une heure plus tard. Elle avait les yeux rouges. Elle passa devant lui sans le voir, et s'arrêta au bout du couloir, et dit, sans se retourner :
 

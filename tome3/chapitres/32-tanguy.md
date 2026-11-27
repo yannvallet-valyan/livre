@@ -6,7 +6,7 @@ Tanguy riait avec tout son corps.
 
 C'était la première chose qu'on remarquait. Il riait des épaules, du ventre, des genoux, des pieds qu'il tapait par terre. Il riait si fort qu'on en oubliait la cause. À huit ans, il riait quand on lui disait qu'il allait tomber ; à douze ans, quand on lui disait qu'il avait tort ; à seize, quand on lui disait qu'il avait raison. Il avait un visage rond, des taches de rousseur jusque dans les oreilles, des cheveux couleur de rouille, qui se dressaient sur son crâne comme des flammes mal éteintes. Il parlait trop. Il mangeait trop. Il aimait trop.
 
-Kerr l'aimait comme on aime un poêle.
+Kerr l'aimait ainsi qu'on aime un poêle.
 
 C'était une chose qu'il n'aurait pas su dire. Il savait seulement que, quand Tanguy était dans la pièce, il faisait moins froid. Il se réveillait le matin avec une tranquillité inconnue, quand il savait qu'à huit heures il y aurait, devant lui, au réfectoire, une grosse main tendue avec un morceau de pain, et une voix qui disait : « Prends, tu es maigre. » Il disait merci. Tanguy répondait : « Arrête avec ça. » Il disait pardon. Tanguy répondait : « Arrête avec ça aussi. »
 
@@ -38,7 +38,7 @@ Il aimait cela. Il le cachait. Il se tenait un peu à l'écart, dans le coin de 
 
 — Voilà. C'est mieux.
 
-Il riait. Il frottait la tête de Kerr, du plat de la main, comme on frotte la tête d'un chien. Kerr se laissait faire. Il avait une honte immense, et il aurait donné toute sa vie pour que cela dure.
+Il riait. Il frottait la tête de Kerr, du plat de la main, à la façon dont on frotte la tête d'un chien. Kerr se laissait faire. Il avait une honte immense, et il aurait donné toute sa vie pour que cela dure.
 
 ---
 

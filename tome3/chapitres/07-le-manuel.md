@@ -32,13 +32,13 @@ Il l'écrivit comme une loi. Il l'écrivit avec la tranquillité d'un homme qui 
 
 *Ils ne feront pas ce que je fais,* répéta-t-il à voix haute, dans la pièce vide.
 
-Il se rendit compte, alors, de ce qu'il venait de dire. Il comprit qu'il venait d'écrire une loi pour tout le monde, sauf pour lui. Il comprit qu'il avait inventé, en une phrase, le premier mensonge de sa vie d'adulte, et que ce mensonge le protégeait. Il ne se sentit pas coupable. Il se sentit seulement très seul.
+Il se rendit compte, alors, de ce qu'il venait de dire. Il comprit qu'il venait d'écrire une loi pour tout le monde, sauf pour lui. Il saisit qu'il avait inventé, en une phrase, le premier mensonge de sa vie d'adulte, et que ce mensonge le protégeait. Il ne se sentit pas coupable. Il se sentit seulement très seul.
 
 ---
 
 Il écrivit la dernière ligne vers cinq heures, quand la baie commençait à pâlir.
 
-Il la savait déjà. Il l'avait lue, enfant, au bas d'un manuel. Il l'avait copiée, à six ans, de la main d'Agathe, sur une ardoise, sans comprendre. Il la connaissait comme on connaît une berceuse. Il hésita pourtant, une seconde, le stylo contre le papier, avec le sentiment étrange d'avoir déjà vécu ce moment. Il se dit qu'il pouvait écrire autre chose. Il se dit qu'il pouvait ne rien écrire.
+Il la savait déjà. Il l'avait lue, enfant, au bas d'un manuel. Il l'avait copiée, à six ans, de la main d'Agathe, sur une ardoise, sans comprendre. Il la connaissait ainsi qu'on connaît une berceuse. Il hésita pourtant, une seconde, le stylo contre le papier, avec le sentiment étrange d'avoir déjà vécu ce moment. Il se dit qu'il pouvait écrire autre chose. Il se dit qu'il pouvait ne rien écrire.
 
 Il pensa à son père. Il pensa à sa mère. Il pensa à ceux qui, dans le refuge, un siècle plus tard, ouvriraient ces pages, les apprendraient par cœur, partiraient. Il pensa à une femme qui le regarderait, un matin, dans une pièce où l'on compte, avec des yeux qu'il ne connaissait pas encore.
 
@@ -46,7 +46,7 @@ Il écrivit :
 
 *Que la boucle tourne.*
 
-Il reposa le stylo. Il resta immobile. Il comprit que s'il n'avait pas écrit cette phrase, il n'aurait pas existé. Il comprit que s'il l'avait écrite parce qu'il l'avait lue, c'était parce que quelqu'un l'avait écrite avant lui, et que ce quelqu'un, c'était lui. Il ne sentit pas la vertigineuse sensation qu'on attendrait. Il sentit une fatigue très ancienne, très douce, celle d'un enfant qu'on couche.
+Il reposa le stylo. Il ne bougea plus. Il comprit que s'il n'avait pas écrit cette phrase, il n'aurait pas existé. Il se rendit compte que s'il l'avait écrite parce qu'il l'avait lue, c'était parce que quelqu'un l'avait écrite avant lui, et que ce quelqu'un, c'était lui. Il ne sentit pas la vertigineuse sensation qu'on attendrait. Il sentit une fatigue très ancienne, très douce, celle d'un enfant qu'on couche.
 
 Il glissa les feuillets dans une enveloppe. Il y inscrivit, d'une écriture fine : *Ce qui efface.* Il la déposa dans le tiroir du bureau, sous une plaquette Léthé, entre un agenda et une photographie retournée.
 

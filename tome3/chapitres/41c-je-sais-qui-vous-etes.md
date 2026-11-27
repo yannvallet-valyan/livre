@@ -2,7 +2,7 @@
 
 *(premier jet)*
 
-Ils descendirent ensemble, côte à côte, en silence, la main dans la main, comme on descend chercher un bruit.
+Ils descendirent ensemble, côte à côte, en silence, la main dans la main, à la façon dont on descend chercher un bruit.
 
 Il les entendit venir. Il entendit le parquet de l'étage, puis la rampe, puis les trois marches du bas, qui craquaient. Il se tenait assis à la table, droit, les mains jointes. Il avait l'air d'un homme qui attend une sentence. Il eut le temps de penser : *ils ont froid.* Il avait l'oreille fine, pour ces choses-là.
 
@@ -22,7 +22,7 @@ Elle ne cria pas. Elle ne bougea pas. Elle dit, d'une voix très égale, qui n'�
 
 — Je vois bien, dit Noé.
 
-Il fit un pas. Il se plaça légèrement devant elle, d'un geste que ni l'un ni l'autre ne remarqua. Il regarda l'homme assis. Il le regarda longtemps, d'un regard calme, attentif, sans peur, comme on regarde une carte.
+Il fit un pas. Il se plaça légèrement devant elle, d'un geste que ni l'un ni l'autre ne remarqua. Il regarda l'homme assis. Il le regarda longtemps, d'un regard calme, attentif, sans peur, ainsi qu'on regarde une carte.
 
 — Vous êtes entré par la fenêtre, dit-il.
 
@@ -60,7 +60,7 @@ Elle ne bougea pas. Mais quelque chose, dans son visage, se déroba, comme un vo
 
 — Non, dit Kerr. Ce sont les vôtres. Vous êtes Élise, archiviste de 2137, Lucide, née en 2103. Et vous, Noé, historien, né en 2101, qui avez refusé la mission, et qui l'avez suivie. Vous êtes arrivés le 17 septembre, dans les corps de Sophia et d'Étienne, par le cristal. Vous avez pris la voiture jusqu'à la galerie. Vous avez cherché une brèche. Vous ne l'avez pas encore trouvée.
 
-Il parlait vite, d'une voix égale, comme on récite. Il sentait son cœur battre aux tempes. Il ajouta :
+Il parlait vite, d'une voix égale, à la façon dont on récite. Il sentait son cœur battre aux tempes. Il ajouta :
 
 — Vous vous êtes aimés pour la première fois il y a trois nuits. C'est ce que les hôtes n'ont pas su.
 
@@ -82,7 +82,7 @@ Il rouvrit les yeux.
 
 Élise s'assit.
 
-Elle ne s'en rendit pas compte. Ses jambes plièrent, simplement, comme celles d'une enfant qui apprend à tomber. Elle atteignit la chaise du bout des doigts, s'y laissa glisser. Elle resta là, droite, les mains sur les genoux, les yeux écarquillés. Elle dit :
+Elle ne s'en rendit pas compte. Ses jambes plièrent, simplement, comme celles d'une enfant qui apprend à tomber. Elle atteignit la chaise du bout des doigts, s'y laissa glisser. Elle se tint là, droite, les mains sur les genoux, les yeux écarquillés. Elle dit :
 
 — Iris est…
 
@@ -98,7 +98,7 @@ Elle s'arrêta. Elle porta les mains à sa bouche. Noé, derrière elle, posa se
 
 — Elle est vivante ?
 
-— Elle a été vivante, dit Kerr. Elle l'est encore, dans un temps où je l'ai laissée. Elle a quarante-sept ans. Elle a les cheveux gris. Elle compte tous les soirs, avant de dormir, jusqu'à cinquante-neuf. Elle s'arrête. Elle n'ose pas dire soixante.
+— Elle a été vivante, dit Kerr. Elle l'est encore, dans un temps où je l'ai laissée. Elle a cinquante ans. Elle a les cheveux qui grisonnent. Elle compte tous les soirs, avant de dormir, jusqu'à cinquante-neuf. Elle s'arrête. Elle n'ose pas dire soixante.
 
 Élise pleurait. Elle ne faisait aucun bruit. Les larmes coulaient sur ses joues, rapides, abondantes, comme l'eau d'une écluse qui cède. Noé la tenait. Noé avait la mâchoire serrée, les yeux secs, le visage de pierre. Il dit, d'une voix dure :
 

@@ -62,7 +62,7 @@ Il le dit sans élever la voix. Il le dit comme on dit un nom. Elle ferma les ye
 
 — Je t'aime. Je t'ai aimée avant de te connaître. Je t'ai aimée dans un livre. Je t'ai aimée par cœur.
 
-Elle rouvrit les yeux. Elle sourit. Elle tendit la main, lentement, très lentement, comme on s'approche d'une bête. Elle la posa sur sa joue froide. Elle sentit sa chaleur, sous la neige. Elle sentit la barbe naissante, très douce. Elle dit :
+Elle rouvrit les yeux. Elle sourit. Elle tendit la main, lentement, très lentement, ainsi qu'on s'approche d'une bête. Elle la posa sur sa joue froide. Elle sentit sa chaleur, sous la neige. Elle sentit la barbe naissante, très douce. Elle dit :
 
 — Tu trembles.
 

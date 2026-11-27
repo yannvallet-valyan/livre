@@ -14,9 +14,9 @@ Elle était d'une encre plus pâle. Elle ne portait pas de numéro. Elle n'avait
 
 *Cette page est une erreur de copie.*
 
-Elle l'avait relue. Elle avait compris, d'un seul coup, comme on comprend qu'on a perdu quelqu'un, que Sacha avait écrit lui-même la vérité, et qu'il avait choisi de ne pas la croire.
+Elle l'avait relue. Elle avait compris, d'un seul coup, ainsi qu'on comprend qu'on a perdu quelqu'un, que Sacha avait écrit lui-même la vérité, et qu'il avait choisi de ne pas la croire.
 
-Elle resta immobile, la page entre les doigts, jusqu'à l'aube.
+Elle ne bougea plus, la page entre les doigts, jusqu'à l'aube.
 
 Elle avait deux choix, et elle le savait. Elle pouvait brûler la page. Elle pouvait la lui apporter.
 
@@ -74,7 +74,7 @@ Elle partit. Elle le laissa seul. C'était la première fois qu'elle quittait un
 
 Il passa la nuit à lire.
 
-Il déplia les quarante-trois carnets, un à un, sur le plancher. Il les relut, de la première page à la dernière, à la lueur d'une lampe à huile, avec une application de comptable. Il cherchait ce qu'il n'avait pas vu. Il le trouva, partout. Une phrase qui commençait par *Je crois que…* Une autre qui finissait par *à vérifier.* Des mots qu'il avait effacés. Des tours où le même chiffre revenait, mal recopié. Il comprit qu'il avait passé un siècle à bâtir une cathédrale sur une faute de frappe.
+Il déplia les quarante-trois carnets, un à un, sur le plancher. Il les relut, de la première page à la dernière, à la lueur d'une lampe à huile, avec une application de comptable. Il cherchait ce qu'il n'avait pas vu. Il le trouva, partout. Une phrase qui commençait par *Je crois que…* Une autre qui finissait par *à vérifier.* Des mots qu'il avait effacés. Des tours où le même chiffre revenait, mal recopié. Il saisit qu'il avait passé un siècle à bâtir une cathédrale sur une faute de frappe.
 
 Il ne cria pas. Il n'en avait pas la force.
 
@@ -86,7 +86,7 @@ Elle était plus ronde. Plus large. Un peu inclinée vers la droite, avec des *r
 
 *W.*
 
-Il resta longtemps immobile.
+Il demeura immobile.
 
 Il se rappela le matin où il avait quitté le corps de Tobie pour respecter une demande qu'on ne lui avait pas faite. *Entendu.* Il avait pensé : *il est vide, le jour.* Il avait pensé : *quelqu'un doit veiller.* Il n'avait jamais pensé que quelqu'un d'autre, de l'autre côté du jour, ait pu y entrer.
 
@@ -132,11 +132,11 @@ Il ne reçut pas de réponse le lendemain. Ni le surlendemain. Le troisième jou
 
 Sacha lut la ligne. Il la lut trois fois. Il ne bougea pas.
 
-Il ne ressentit pas ce qu'il avait cru ressentir. Il avait imaginé, pendant des semaines, que ce serait de la jalousie, de la colère, de la douleur. Il y eut cela, d'abord, très vite, comme une lame. Puis cela passa. Il resta un long moment les mains sur les genoux, dans le noir, à regarder un petit rond de lumière que la lampe faisait sur la table.
+Il ne ressentit pas ce qu'il avait cru ressentir. Il avait imaginé, pendant des semaines, que ce serait de la jalousie, de la colère, de la douleur. Il y eut cela, d'abord, très vite, comme une lame. Puis cela passa. Il se tint un long moment les mains sur les genoux, dans le noir, à regarder un petit rond de lumière que la lampe faisait sur la table.
 
 Il pensa à un enfant de trois ans, aux poings serrés sous le menton. Il pensa : *il n'a pas mon front.* Il pensa : *il a le sien.*
 
-Il fut jaloux. Il le fut avec une netteté qui le surprit, comme on est surpris par un goût d'enfance. Il eut honte : il se dit qu'un homme qui a vécu un siècle n'a pas le droit de jalouser un garçon sorti d'une cuisine. Il l'était pourtant, de la tête aux pieds. Il pensa : *il l'a eue. Il a été là. Il a eu le jour.* Il pensa qu'on lui avait volé quelque chose qu'il n'avait jamais possédé, et qu'il n'avait pas même le droit de le réclamer. Il se leva, renversa la lampe, la rattrapa de justesse. Il resta debout, les poings serrés, au milieu de la salle, à respirer comme un homme qui vient de courir. Il se dit, tout bas : *c'est bien. C'est très bien.* Il ne le crut pas. Il le répéta quand même, trois fois, comme on répète un nom pour s'en souvenir.
+Il fut jaloux. Il le fut avec une netteté qui le surprit, à la façon dont on est surpris par un goût d'enfance. Il eut honte : il se dit qu'un homme qui a vécu un siècle n'a pas le droit de jalouser un garçon sorti d'une cuisine. Il l'était pourtant, de la tête aux pieds. Il pensa : *il l'a eue. Il a été là. Il a eu le jour.* Il pensa qu'on lui avait volé quelque chose qu'il n'avait jamais possédé, et qu'il n'avait pas même le droit de le réclamer. Il se leva, renversa la lampe, la rattrapa de justesse. Il se tint debout, les poings serrés, au milieu de la salle, à respirer comme un homme qui vient de courir. Il se dit, tout bas : *c'est bien. C'est très bien.* Il ne le crut pas. Il le répéta quand même, trois fois, comme on répète un nom pour s'en souvenir.
 
 Il prit le crayon. Il écrivit, sans se presser, d'une écriture fine, droite, qui ne tremblait pas :
 
@@ -158,4 +158,4 @@ Il le posa parallèlement au bord. Il sortit.
 
 Au matin, l'enfant le prit, sans savoir d'où il venait. Il le tint entre le pouce et le majeur. Il dessina un soleil.
 
-Il y eut ensuite des jours où il ne souffrit presque plus. Il se rendit au dortoir B chaque soir, à l'heure où l'on couchait les petits. Il restait sur le seuil. L'enfant le regardait avec sérieux, très poliment, comme on regarde un monsieur qui passe. Il ne l'appelait pas papa. Il l'appelait « le monsieur au crayon ». Sacha le sut par Agathe, un soir. Il sourit. Il remonta dans la salle du fond. Il resta assis, longtemps, devant la table, les mains à plat. Il pensa que c'était une chose bête, une douleur ridicule, qu'il aurait dû être au-dessus de cela. Il ne l'était pas. Il apprit, ces nuits-là, la seule chose qui lui parut jamais valoir d'être apprise : qu'on peut souffrir sans faire payer sa souffrance à personne.
+Il y eut ensuite des jours où il ne souffrit presque plus. Il se rendit au dortoir B chaque soir, à l'heure où l'on couchait les petits. Il restait sur le seuil. L'enfant le regardait avec sérieux, très poliment, ainsi qu'on regarde un monsieur qui passe. Il ne l'appelait pas papa. Il l'appelait « le monsieur au crayon ». Sacha le sut par Agathe, un soir. Il sourit. Il remonta dans la salle du fond. Il resta assis, longtemps, devant la table, les mains à plat. Il pensa que c'était une chose bête, une douleur ridicule, qu'il aurait dû être au-dessus de cela. Il ne l'était pas. Il apprit, ces nuits-là, la seule chose qui lui parut jamais valoir d'être apprise : qu'on peut souffrir sans faire payer sa souffrance à personne.

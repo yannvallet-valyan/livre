@@ -4,7 +4,7 @@
 
 Dans la nuit du 13 au 14 novembre 2026, à trois heures, il posa l'aiguille dans le douzième bac.
 
-C'était un geste de rien, de ceux que l'on fait sans y penser, avec deux doigts, sous une lumière violette. Il y avait, dans la salle de culture, au fond de la galerie, une rangée de douze bacs, numérotés au feutre, où la vase rouge avait poussé ses mains. Le douzième était le plus petit. Il y restait un fond de boue grise, abandonné, que personne ne regardait plus. Il se tenait devant, dans le costume du directeur, les mains gantées. Il tenait entre le pouce et le majeur une aiguille rouge, pas plus longue qu'un ongle, qu'il avait prélevée la veille dans le nœud central, avec une pince, comme on cueille une fleur.
+C'était un geste de rien, de ceux que l'on fait sans y penser, avec deux doigts, sous une lumière violette. Il y avait, dans la salle de culture, au fond de la galerie, une rangée de douze bacs, numérotés au feutre, où la vase rouge avait poussé ses mains. Le douzième était le plus petit. Il y restait un fond de boue grise, abandonné, que personne ne regardait plus. Il se tenait devant, dans le costume du directeur, les mains gantées. Il tenait entre le pouce et le majeur une aiguille rouge, pas plus longue qu'un ongle, qu'il avait prélevée la veille dans le nœud central, avec une pince, ainsi qu'on cueille une fleur.
 
 Il n'avait pas dormi. K. dormait, dans le fond de ce même corps : c'était la seule nuit où il le laissait, d'ordinaire, prendre la main. Kerr avait attendu trois heures, sur un lit de camp, dans la salle voisine, à écouter les pompes. Il avait repassé dans sa tête tout ce que disaient les carnets. Le douzième bac. L'aiguille. Un geste qu'il avait vu faire à un autre, dans un autre corps, un matin de novembre, à une autre heure : un homme que tout le monde appelait K., dans un tour plus ancien, qui avait posé le fragment dans la vase, puis reculé de trois pas, comme devant un autel.
 
@@ -20,7 +20,7 @@ Il resta dix minutes immobile.
 
 Il pensa à Sophia.
 
-C'était étrange : il y pensait peu, d'ordinaire. Elle appartenait à une catégorie de personnes qu'il tenait à distance, comme on tient à distance celles qu'on a trop lues. Mais, ce matin-là, devant les bacs, elle s'imposa, avec une netteté cruelle : une femme de trente-sept ans en blouse d'hydrologue, qui chantonnait faux en classant des fioles, qui écrivait à l'encre bleue, qui avait, à la lisière des cheveux, trois fils blancs qu'elle refusait de teindre. Elle lui avait parlé, une fois, une semaine plus tôt, dans son bureau, quand il lui avait retiré son badge. Elle lui avait dit, d'une voix sèche : « Vous avez l'air fatigué, monsieur Kerr. » Il avait répondu : « Je le suis. » Elle avait ajouté, après un temps : « Vous devriez dormir. » Il n'avait pas osé lui dire que ce n'était pas lui qui dormait.
+C'était étrange : il y pensait peu, d'ordinaire. Elle appartenait à une catégorie de personnes qu'il tenait à distance, à la façon dont on tient à distance celles qu'on a trop lues. Mais, ce matin-là, devant les bacs, elle s'imposa, avec une netteté cruelle : une femme de trente-sept ans en blouse d'hydrologue, qui chantonnait faux en classant des fioles, qui écrivait à l'encre bleue, qui avait, à la lisière des cheveux, trois fils blancs qu'elle refusait de teindre. Elle lui avait parlé, une fois, une semaine plus tôt, dans son bureau, quand il lui avait retiré son badge. Elle lui avait dit, d'une voix sèche : « Vous avez l'air fatigué, monsieur Kerr. » Il avait répondu : « Je le suis. » Elle avait ajouté, après un temps : « Vous devriez dormir. » Il n'avait pas osé lui dire que ce n'était pas lui qui dormait.
 
 Il se rappelait ses mains. Elles avaient tremblé en rendant le badge.
 
@@ -42,7 +42,7 @@ Il n'y eut pas de bruit. Pas de lueur. La vase grise s'ouvrit, comme une lèvre,
 
 Il retira les gants. Il les jeta. Il recula de trois pas, sans savoir pourquoi, comme on recule devant un autel.
 
-Il resta debout, les bras ballants, sous la lumière. Il se regarda les mains, avec curiosité, comme celles d'un autre. Elles ne tremblaient plus.
+Il se tint debout, les bras ballants, sous la lumière. Il se regarda les mains, avec curiosité, comme celles d'un autre. Elles ne tremblaient plus.
 
 Il pensa : *voilà. C'est fait.*
 

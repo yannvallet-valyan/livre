@@ -20,7 +20,7 @@ Il avait attendu ce soir pendant vingt ans.
 
 ---
 
-Il l'avait attendu comme on attend une greffe : avec peur, avec impatience, avec la certitude de n'être pas digne. Il se l'était promis sur le muret du lac, un dimanche de mars, en regardant une jeune femme aux sourcils droits traverser le chemin de halage. *Je ne lui demanderai rien avant que le corps soit majeur.* Il l'avait tenu. Il avait été pour elle, pendant dix mois, un ami. Un garçon silencieux, poli, un peu vieux pour son âge, qui l'attendait à la sortie du cabinet, marchait à côté d'elle sans parler, écoutait. Il lui avait donné un caillou. Il lui avait lu des poèmes. Il avait pris soin de ne jamais la toucher, sauf une fois, un soir de neige, pour l'empêcher de glisser.
+Il l'avait attendu à la façon dont on attend une greffe : avec peur, avec impatience, avec la certitude de n'être pas digne. Il se l'était promis sur le muret du lac, un dimanche de mars, en regardant une jeune femme aux sourcils droits traverser le chemin de halage. *Je ne lui demanderai rien avant que le corps soit majeur.* Il l'avait tenu. Il avait été pour elle, pendant dix mois, un ami. Un garçon silencieux, poli, un peu vieux pour son âge, qui l'attendait à la sortie du cabinet, marchait à côté d'elle sans parler, écoutait. Il lui avait donné un caillou. Il lui avait lu des poèmes. Il avait pris soin de ne jamais la toucher, sauf une fois, un soir de neige, pour l'empêcher de glisser.
 
 Elle ne s'était doutée de rien. Elle s'était attachée, doucement, à ce garçon qui ne demandait rien.
 
@@ -82,7 +82,7 @@ Il ne répondit pas.
 
 — Tu avais compté.
 
-Il resta immobile, le torchon à la main. Il pensa à la façon dont elle pouvait dire les choses sans y penser, et qu'elles fussent justes. Il eut envie de pleurer.
+Il ne bougea plus, le torchon à la main. Il pensa à la façon dont elle pouvait dire les choses sans y penser, et qu'elles fussent justes. Il eut envie de pleurer.
 
 — Je n'ai pas le droit de te demander quoi que ce soit, dit-il. Je ne suis pas…
 

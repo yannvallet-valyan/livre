@@ -51,3 +51,9 @@ Voir `predestination.md` §3 quater. Demandes de l'auteur en attente : 💡 **un
 ## Les deux Iris : « Rose partagée » refusée par l'auteur (V3.10)
 Reste intégré : voyage court d'Iris du présent dans **Odette** (1958) + 9 h 40 dans le cristal (`predestination.md` §3 quater). **Sujets tranchés en V3.11** : « Comment elle était », « Le marché » (1958) ; « Sacha », « Garde-le », la troisième strophe (9 h 40).
 
+
+## V3.65 — état du tome 3
+- ✅ Origine de « Et lui. » fixée (Kerr, craie de Hugo ; Anselme grave).
+- ⚠ À arbitrer : le plan prévoyait Tanguy (ex-Mael) rouillé avec éclat sur le front ; le texte le garde heureux et non rouillé.
+- ⚠ Restent à écrire (plan) : naissance de Kerr 2156 / Ruben 2159 déjà couverts ; Kerr/Iris du passé au lac 2047 (couvert par `16-theo`) ; chapitres d'ouverture 2150 à relire contre le plan.
+- À faire : passe de style manuelle T3 ; publication site + EPUB T3 (`build-epub.py` ne gère que les tomes 1-2).

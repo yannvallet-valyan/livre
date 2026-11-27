@@ -38,7 +38,7 @@ C'étaient des listes. Des noms, des dates, des lieux. Des tours, numérotés. *
 
 *Elle a dit : « Je ne suis pas un chiffre. » Je l'ai écrit. Je n'ai pas su où le mettre. Il n'y a pas de rubrique pour ça.*
 
-Elle resta debout, la feuille à la main, très longtemps. Elle se demanda ce qu'elle ressentait. Elle chercha la colère, qui était là, solide, fidèle. Elle chercha autre chose, derrière. Elle trouva une espèce de gêne, d'étonnement, de pitié. Elle dit à voix haute :
+Elle se tint debout, la feuille à la main, très longtemps. Elle se demanda ce qu'elle ressentait. Elle chercha la colère, qui était là, solide, fidèle. Elle chercha autre chose, derrière. Elle trouva une espèce de gêne, d'étonnement, de pitié. Elle dit à voix haute :
 
 — Il ne sait pas faire autrement.
 
@@ -68,7 +68,7 @@ Elle s'assit sur le bord du banc, à un mètre. Elle posa sa liste sur ses genou
 
 — Quand tu me regardes, est-ce que tu vois celle que je suis, ou celle que tu sais que je deviendrai ?
 
-Il ne répondit pas tout de suite. Il resta longtemps silencieux. Elle crut qu'il ne répondrait pas. Puis, très bas :
+Il ne répondit pas tout de suite. Il se tut. Elle crut qu'il ne répondrait pas. Puis, très bas :
 
 — Je ne sais plus faire la différence. C'est peut-être pour ça que j'ai fini par avoir peur de te regarder.
 

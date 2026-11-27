@@ -4,7 +4,7 @@
 
 Ce fut un soir de décembre 2163 que Iris du présent décida de partir.
 
-Elle ne le décida pas comme on décide d'un voyage. Elle le comprit, un peu comme on comprend qu'on a mal : par la répétition d'un détail. Elle était assise dans la salle des archives, devant un registre, une lampe, une tasse de lentilles refroidie. Elle lisait, sans le lire, une liste de noms. Elle tourna la page. Elle tomba sur une ligne. *Mathis Delorme, 9 ans, hôte probable de la voyageuse I.*
+Elle ne le décida pas ainsi qu'on décide d'un voyage. Elle le comprit, un peu à la façon dont on comprend qu'on a mal : par la répétition d'un détail. Elle était assise dans la salle des archives, devant un registre, une lampe, une tasse de lentilles refroidie. Elle lisait, sans le lire, une liste de noms. Elle tourna la page. Elle tomba sur une ligne. *Mathis Delorme, 9 ans, hôte probable de la voyageuse I.*
 
 Elle la regarda longtemps.
 
@@ -108,7 +108,7 @@ Elle ferma les yeux. Elle sentit sa gorge se serrer.
 
 — Je sais aussi, dit-il.
 
-Il la prit contre lui, très doucement, avec ces gestes d'homme timide qui ont attendu longtemps avant de se permettre. Il resta immobile. Il dit, contre ses cheveux, dans un souffle :
+Il la prit contre lui, très doucement, avec ces gestes d'homme timide qui ont attendu longtemps avant de se permettre. Il ne bougea plus. Il dit, contre ses cheveux, dans un souffle :
 
 — Quelqu'un doit être là.
 
@@ -116,7 +116,7 @@ Il la prit contre lui, très doucement, avec ces gestes d'homme timide qui ont a
 
 — Pour Kerr.
 
-Elle se raidit. Il sentit son corps tressaillir. Il comprit qu'il avait dit ce qu'il fallait ne pas dire.
+Elle se raidit. Il sentit son corps tressaillir. Il saisit qu'il avait dit ce qu'il fallait ne pas dire.
 
 — Je reste, dit-il. Je ne bouge pas. Je ne vais nulle part. Je suis le jour. Il saura toujours où me trouver.
 
@@ -130,7 +130,7 @@ Elle se dégagea. Elle le regarda en face. Elle avait les yeux pleins de larmes,
 
 — Jamais, dit Walther. Tant que vous ne me l'aurez pas permis.
 
-Elle hocha la tête. Elle l'embrassa, sur la bouche, longtemps, comme on embrasse quelqu'un qu'on ne reverra pas. Puis elle recula. Elle ramassa le chiffon, par terre, machinalement, et le posa sur la vanne.
+Elle hocha la tête. Elle l'embrassa, sur la bouche, longtemps, ainsi qu'on embrasse quelqu'un qu'on ne reverra pas. Puis elle recula. Elle ramassa le chiffon, par terre, machinalement, et le posa sur la vanne.
 
 — Il y a une fuite, dit-elle.
 

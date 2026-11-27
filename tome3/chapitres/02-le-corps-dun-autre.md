@@ -28,7 +28,7 @@ Il avait vingt-quatre ans. Il en avait toujours eu vingt-quatre. Dans ce corps d
 
 Il fouilla les tiroirs. Un agenda : *Bastien Kerr, directeur, Laboratoire d'études sédimentaires, Vallorce.* Des plaquettes : *LÉTHÉ — Pour un oubli choisi.* Un badge, avec sa photo souriante. Un cahier à couverture noire, vierge. Une enveloppe sans timbre : *Ce qui efface.*
 
-Il comprit qu'il était arrivé. Il comprit aussi qu'il était arrivé *chez quelqu'un*.
+Il saisit qu'il était arrivé. Il comprit aussi qu'il était arrivé *chez quelqu'un*.
 
 C'était la règle qu'on lui avait enseignée. Il l'avait lue cent fois, dans les carnets, de la main fine de son père : on remonte le sang, on habite l'ancêtre, on le garde endormi. On ne le blesse pas. Dans les carnets, c'était simple, une affaire de patience et de méthode. Il n'avait pas pensé qu'il pourrait entendre l'autre.
 
@@ -46,7 +46,7 @@ C'était faux. Il ne savait pas encore à quel point.
 
 Il apprit les gestes de Bastien en trois jours. Sa poignée de main, le sourire de publicité, la politesse un peu trop parfaite, comme un manteau qu'on ne boutonne pas. Il comprit qu'on ne se faisait pas aimer en étant sincère : on se faisait respecter en étant poli. Il garda cela.
 
-Il lut tout ce qu'il y avait à lire. Les rapports de culture, le plan des bacs, le cahier des volontaires. Il alla voir, une nuit, la salle du fond. Il regarda longtemps les aiguilles rouges, dans la vase, qui s'étaient inclinées vers lui, toutes ensemble, comme des herbes sous le vent.
+Il lut tout ce qu'il y avait à lire. Les rapports de culture, le plan des bacs, le cahier des volontaires. Il alla voir, une nuit, la salle du fond. Il regarda longuement les aiguilles rouges, dans la vase, qui s'étaient inclinées vers lui, toutes ensemble, comme des herbes sous le vent.
 
 Il se dit : *c'est elle.* Il se dit : *c'est d'ici que tout vient.*
 

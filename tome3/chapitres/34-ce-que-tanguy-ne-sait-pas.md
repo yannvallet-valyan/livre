@@ -8,7 +8,7 @@ Il savait que le refuge tiendrait encore six ans. Il savait que l'éclat de Roui
 
 Il ne savait pas comment vivre avec cela.
 
-On lui avait donné le poste de régisseur adjoint. Il tenait les clés, les registres, la liste des tours de garde. Il était poli, exact, silencieux. Les anciens disaient de lui : « Ce petit a l'air d'avoir cent ans. » Les jeunes disaient : « Il est bizarre. » Les filles disaient : « Il est beau. » Il n'entendait rien de tout cela. Il rentrait le soir dans sa chambre, s'asseyait à la table, et reprenait un des quarante-trois carnets, et lisait, comme on touche une dent qui fait mal.
+On lui avait donné le poste de régisseur adjoint. Il tenait les clés, les registres, la liste des tours de garde. Il était poli, exact, silencieux. Les anciens disaient de lui : « Ce petit a l'air d'avoir cent ans. » Les jeunes disaient : « Il est bizarre. » Les filles disaient : « Il est beau. » Il n'entendait rien de tout cela. Il rentrait le soir dans sa chambre, s'asseyait à la table, et reprenait un des quarante-trois carnets, et lisait, à la façon dont on touche une dent qui fait mal.
 
 Il n'y avait que Tanguy pour le faire sortir de là.
 

@@ -20,7 +20,7 @@ Il y avait la lampe de chevet, basse, jaune. Il y avait le lit, une couverture b
 
 Kerr s'assit au bord du lit. Il prit la main de l'enfant dans les siennes. Elle était froide.
 
-Il le regarda longtemps. Il vit un petit visage de quinze ans, très blanc, avec un grain de beauté au coin de la paupière gauche. Il vit des cils longs, une bouche entrouverte, un front trop grand. Il ne vit pas l'enfant qui lui avait demandé, un soir de février, s'il avait un crayon. Cet enfant n'était plus là. Il y avait, à sa place, un grand vide très calme, comme une pièce dont on a ôté les meubles.
+Il le regarda longuement. Il vit un petit visage de quinze ans, très blanc, avec un grain de beauté au coin de la paupière gauche. Il vit des cils longs, une bouche entrouverte, un front trop grand. Il ne vit pas l'enfant qui lui avait demandé, un soir de février, s'il avait un crayon. Cet enfant n'était plus là. Il y avait, à sa place, un grand vide très calme, comme une pièce dont on a ôté les meubles.
 
 Il avait su que ce serait ainsi. Il avait lu la scène cent fois. Il ne l'avait pas lue assez.
 
@@ -78,7 +78,7 @@ Dans la cuisine, la tasse de tisane était posée sur la table, vide. Il la prit
 
 Il se mit à pleurer.
 
-Il pleura longtemps, debout devant l'évier, les mains dans l'eau, sans bruit, comme on pleure quand on a trop attendu. Il pleura sur un enfant de quinze ans. Il pleura sur un autre, de seize. Il pleura sur un homme qu'il n'avait jamais vu. Il pleura sur la femme qui dormait, ou faisait semblant, au premier étage. Il pleura sur tous ceux qui avaient été, et seraient, à cause d'un mot qu'il avait écrit une nuit d'octobre : *Que la boucle tourne.*
+Il pleura longtemps, debout devant l'évier, les mains dans l'eau, sans bruit, ainsi qu'on pleure quand on a trop attendu. Il pleura sur un enfant de quinze ans. Il pleura sur un autre, de seize. Il pleura sur un homme qu'il n'avait jamais vu. Il pleura sur la femme qui dormait, ou faisait semblant, au premier étage. Il pleura sur tous ceux qui avaient été, et seraient, à cause d'un mot qu'il avait écrit une nuit d'octobre : *Que la boucle tourne.*
 
 Il pensa, très clairement, pour la première fois :
 

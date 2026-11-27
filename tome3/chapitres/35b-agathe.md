@@ -84,7 +84,7 @@ Elle ne parla plus de la nuit. Il resta, assis, sa main dans la sienne, à regar
 
 — Celui que tu sais.
 
-Il comprit. Il avait lu, dans un carnet, que la vieille femme prononcerait, à son dernier souffle, une certaine parole. Il l'avait lue comme on lit un horaire de train. Il avait cru qu'il la supporterait.
+Il comprit. Il avait lu, dans un carnet, que la vieille femme prononcerait, à son dernier souffle, une certaine parole. Il l'avait lue à la façon dont on lit un horaire de train. Il avait cru qu'il la supporterait.
 
 Il ne la supportait pas.
 
@@ -108,7 +108,7 @@ Ce fut tout.
 
 Il ne comprit pas, sur le coup. Il crut à un délire. Il se pencha, il demanda : « Qui ? » Elle ne répondit pas. Sa main se desserra dans la sienne. Son visage se relâcha, tout à coup, comme celui d'un enfant qui s'endort.
 
-Il resta immobile. Il écouta le silence. Il comprit, au bout d'un moment, que le mot n'avait rien de prophétique : c'était la phrase qu'une mère dit au soir, en refermant la porte d'une chambre d'enfant. *Il a bien mangé.* Elle l'avait dite pour lui. Il avait cinq ans, ce soir-là, un jour de décembre, et il n'avait pas voulu manger. Elle avait attendu. Il avait fini son assiette. Elle avait dit à la cuisinière : « Il a bien mangé. »
+Il ne bougea plus. Il écouta le silence. Il comprit, au bout d'un moment, que le mot n'avait rien de prophétique : c'était la phrase qu'une mère dit au soir, en refermant la porte d'une chambre d'enfant. *Il a bien mangé.* Elle l'avait dite pour lui. Il avait cinq ans, ce soir-là, un jour de décembre, et il n'avait pas voulu manger. Elle avait attendu. Il avait fini son assiette. Elle avait dit à la cuisinière : « Il a bien mangé. »
 
 Il pleura.
 
@@ -124,7 +124,7 @@ Il prit, sur la commode, la photographie de la mère d'Agathe. Il la regarda. Un
 
 Il la remit à sa place.
 
-Il sortit dans le couloir. Il referma la porte. Il resta là un instant, adossé au mur, les yeux fermés. Il se dit : *c'est donc cela, une mort douce.* Il se dit : *je n'en aurai pas de pareille.*
+Il sortit dans le couloir. Il referma la porte. Il se tint là un instant, adossé au mur, les yeux fermés. Il se dit : *c'est donc cela, une mort douce.* Il se dit : *je n'en aurai pas de pareille.*
 
 Il se dit, plus bas : *je voudrais bien me tromper.*
 

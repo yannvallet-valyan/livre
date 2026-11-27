@@ -8,7 +8,7 @@ Tobie avait dix-neuf ans. Il était rouillé depuis cinq. On l'asseyait au réfe
 
 Le quatrième jour, Tobie prit sa cuillère.
 
-Ruben, qui passait avec une caisse de lampes à huile, s'arrêta net. Ce n'était pas un geste de Tobie. Les rouillés ne prennent pas la cuillère : on la leur porte à la bouche, on attend que les lèvres s'ouvrent. Celui-ci la tenait d'une main sûre, entre le pouce et le majeur, comme on tient un crayon, et il la regardait.
+Ruben, qui passait avec une caisse de lampes à huile, s'arrêta net. Ce n'était pas un geste de Tobie. Les rouillés ne prennent pas la cuillère : on la leur porte à la bouche, on attend que les lèvres s'ouvrent. Celui-ci la tenait d'une main sûre, entre le pouce et le majeur, ainsi qu'on tient un crayon, et il la regardait.
 
 — Tobie ?
 

@@ -8,7 +8,7 @@ Il ne l'avait jamais su. Dans les dortoirs du refuge, les gens se croisent ; dan
 
 Elle s'installa chez lui en avril 2047, avec un sac de toile et une valise de cahiers. Elle avait quitté la chambre de Claire, au-dessus du cabinet, avec une gêne un peu raide, sous le regard d'Étienne qui avait dit : « Je comprends. » Il avait ajouté, en regardant ailleurs : « Il y a de la place en haut. » Il n'y avait pas de place. Il y avait deux pièces mansardées, une cuisine minuscule, un poêle qui fumait. Ils y vécurent sept ans.
 
-Il se souvint de ces années comme on se souvient d'un cadeau qu'on n'a pas mérité et qu'on a gardé quand même.
+Il se souvint de ces années à la façon dont on se souvient d'un cadeau qu'on n'a pas mérité et qu'on a gardé quand même.
 
 ---
 
@@ -98,7 +98,7 @@ Elle rit, un petit rire cassé.
 
 — Je sais.
 
-Elle posa sa tête sur son épaule. Il resta immobile. Il sentit son souffle contre son cou. Il pensa à une phrase, dans un carnet de son père : *Sacha naît le 3 février 2050, à trois heures du matin, dans la chambre du haut, par grand froid.* Il pensa que l'homme qui avait écrit cela l'avait écrit pour lui. Il pensa que le futur était déjà un souvenir, et qu'il en avait le droit d'être triste.
+Elle posa sa tête sur son épaule. Il ne bougea plus. Il sentit son souffle contre son cou. Il pensa à une phrase, dans un carnet de son père : *Sacha naît le 3 février 2050, à trois heures du matin, dans la chambre du haut, par grand froid.* Il pensa que l'homme qui avait écrit cela l'avait écrit pour lui. Il pensa que le futur était déjà un souvenir, et qu'il en avait le droit d'être triste.
 
 — Je serai là, dit-il.
 

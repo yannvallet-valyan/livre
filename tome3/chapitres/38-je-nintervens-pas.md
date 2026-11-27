@@ -44,7 +44,7 @@ Il resta jusqu'à six heures.
 
 La lumière jaune de la cabine s'éteignit une fois, puis une autre, puis une troisième, puis se ralluma. C'était le signal : celui que, dans quarante-six ans, une autre femme verrait de sa fenêtre sans comprendre. Il le connaissait. Il l'avait vu naître, ce signal, dans un tour qui n'était déjà plus le sien.
 
-Vers cinq heures et quart, une silhouette sortit de la cabine, par la porte basse. Elle descendait, d'un pas lent, les cent douze marches de l'escalier de fer, en tenant la rampe. Elle avait passé un manteau trop grand. Elle s'arrêta au bas de l'escalier, à vingt mètres de lui. Elle regarda la plaine de boue. Elle resta immobile.
+Vers cinq heures et quart, une silhouette sortit de la cabine, par la porte basse. Elle descendait, d'un pas lent, les cent douze marches de l'escalier de fer, en tenant la rampe. Elle avait passé un manteau trop grand. Elle s'arrêta au bas de l'escalier, à vingt mètres de lui. Elle regarda la plaine de boue. Elle ne bougea plus.
 
 Il se tint contre le pilier, sans bouger, sans respirer. Il crut qu'elle le voyait. Elle ne le voyait pas.
 

@@ -160,13 +160,13 @@ Il ne répondit pas tout de suite. Il baissa les yeux. Il dit, d'une voix qui tr
 
 — Alors il aura quelqu'un à chaque heure, dit-elle. C'est mieux que moi.
 
-Elle lui prit la main. Elle la serra, brièvement, comme on serre la main d'un collègue qu'on ne reverra pas. Elle la lâcha. Elle s'éloigna dans le couloir, sans se retourner.
+Elle lui prit la main. Elle la serra, brièvement, à la façon dont on serre la main d'un collègue qu'on ne reverra pas. Elle la lâcha. Elle s'éloigna dans le couloir, sans se retourner.
 
 Elle traversa la galerie nord, la salle des pompes, l'ancienne infirmerie. Elle trouva, dans la réserve, un lit de camp déplié, une lampe, un éclat posé sur une serviette. Quelqu'un avait préparé le lieu, avec soin, un homme poli, aux mains carrées, qui avait laissé à côté un bol de lentilles et un mot, d'une écriture ronde, un peu inclinée vers la droite :
 
 *Je n'ai pas osé venir. Je suis dans la pièce d'à côté. Je ne bougerai pas. W.*
 
-Elle lut. Elle s'assit sur le lit. Elle resta un long moment sans bouger. Elle prit l'éclat, tiède, minuscule, dans sa paume. Elle le posa sur son front. Elle ferma les yeux.
+Elle lut. Elle s'assit sur le lit. Elle se tint un long moment sans bouger. Elle prit l'éclat, tiède, minuscule, dans sa paume. Elle le posa sur son front. Elle ferma les yeux.
 
 Elle compta.
 

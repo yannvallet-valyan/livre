@@ -60,7 +60,7 @@ Elle leva les yeux. Il vit passer, au fond de son regard, un étonnement fatigu�
 
 — Qu'est-ce que tu en penses ?
 
-Il resta immobile. Il avait la gorge sèche.
+Il ne bougea plus. Il avait la gorge sèche.
 
 — De la pastille ?
 
@@ -82,7 +82,7 @@ Il avait dit cela sans hésiter, d'une voix claire, avec une sincérité qui lui
 
 — Non, dit-il.
 
-Elle se leva. Elle fit trois pas, jusqu'à la fenêtre. Elle resta là, de dos, à regarder la nuit.
+Elle se leva. Elle fit trois pas, jusqu'à la fenêtre. Elle se tint là, de dos, à regarder la nuit.
 
 — Tu me mens depuis le début, dit-elle.
 
@@ -106,9 +106,9 @@ Elle se retourna. Elle le regarda longuement. Elle eut un sourire, un petit sour
 
 — De me l'avoir dit.
 
-Elle vint vers lui. Elle posa sa main sur sa joue, froide, un peu moite. Elle l'embrassa sur le front, comme on embrasse un enfant malade. Elle sortit. Elle laissa la porte entrouverte.
+Elle vint vers lui. Elle posa sa main sur sa joue, froide, un peu moite. Elle l'embrassa sur le front, ainsi qu'on embrasse un enfant malade. Elle sortit. Elle laissa la porte entrouverte.
 
-Il resta debout au milieu de la cabane, longtemps, les yeux sur les cahiers noirs. Il pensa à ce qu'il venait de faire : il avait dit la vérité, une fois, par maladresse, et elle l'avait reçue comme un cadeau. Il pensa que c'était le plus cruel des cadeaux.
+Il se tint debout au milieu de la cabane, longtemps, les yeux sur les cahiers noirs. Il pensa à ce qu'il venait de faire : il avait dit la vérité, une fois, par maladresse, et elle l'avait reçue comme un cadeau. Il pensa que c'était le plus cruel des cadeaux.
 
 Il écrivit, cette nuit-là, dans un cahier :
 

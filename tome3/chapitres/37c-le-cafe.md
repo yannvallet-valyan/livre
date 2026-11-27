@@ -126,7 +126,7 @@ Elle posa sa main sur la sienne, doucement. Il ferma les yeux. Un sanglot silenc
 
 — Je suis un détour, dit-il.
 
-Elle sourit. Elle sentit des larmes monter, qu'elle laissa venir. Elle monta dans sa voiture. Elle mit le contact. Elle vit, dans le rétroviseur, un homme en costume sombre, debout sur le parking vide, qui levait la main, très lentement, comme on dit au revoir.
+Elle sourit. Elle sentit des larmes monter, qu'elle laissa venir. Elle monta dans sa voiture. Elle mit le contact. Elle vit, dans le rétroviseur, un homme en costume sombre, debout sur le parking vide, qui levait la main, très lentement, ainsi qu'on dit au revoir.
 
 Elle ne le revit jamais.
 

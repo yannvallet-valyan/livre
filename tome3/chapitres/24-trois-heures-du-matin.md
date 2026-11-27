@@ -20,17 +20,17 @@ C'était une chose qui l'étonnait toujours, chez ce vieil homme : sa manière d
 
 Il avait allumé le poêle, bouilli des linges, ouvert une bouteille thermos, préparé trois serviettes, une paire de ciseaux, une pince, un petit bac de fer. Il avait fait cela comme il faisait tout : sans un mot, avec précision. Il avait regardé Théo, à minuit, et dit : « Vous ne bougerez pas. » Théo avait dit : « Non. » Étienne avait dit : « Vous la tiendrez. » Théo avait dit : « Oui. » Étienne avait ajouté : « Et vous ne vous évanouirez pas. » Théo avait répondu, avec un petit sourire : « Je ne m'évanouis jamais. » Étienne avait dit : « Tout le monde dit ça. »
 
-Il ne s'évanouit pas. Il tint. Il tint comme on tient un mât dans un orage, sans savoir pourquoi, avec la seule conviction qu'il fallait que quelqu'un soit debout.
+Il ne s'évanouit pas. Il tint. Il tint ainsi qu'on tient un mât dans un orage, sans savoir pourquoi, avec la seule conviction qu'il fallait que quelqu'un soit debout.
 
 À quatre heures moins dix, il vit la tête.
 
-Il ne s'y attendait pas : on lui avait dit, dans les carnets, que ce serait un garçon aux cheveux noirs, un petit crâne fripé, des yeux fermés. Il n'avait pas pensé au reste. Aux épaules, minuscules, glissantes. Au cri. Au cri rauque, outragé, d'une bête qui découvre la lumière. Étienne reçut l'enfant dans ses mains. Il le tint un instant à bout de bras, très droit, comme on regarde un objet précieux dont on n'est pas sûr qu'il tienne. Il le regarda de près. Il s'immobilisa.
+Il ne s'y attendait pas : on lui avait dit, dans les carnets, que ce serait un garçon aux cheveux noirs, un petit crâne fripé, des yeux fermés. Il n'avait pas pensé au reste. Aux épaules, minuscules, glissantes. Au cri. Au cri rauque, outragé, d'une bête qui découvre la lumière. Étienne reçut l'enfant dans ses mains. Il le tint un instant à bout de bras, très droit, à la façon dont on regarde un objet précieux dont on n'est pas sûr qu'il tienne. Il le regarda de près. Il s'immobilisa.
 
 Théo vit sa main libre monter, très lentement, vers son propre visage, et toucher, du bout de l'index, la paupière gauche.
 
 Il comprit, d'un coup. Il comprit que le vieil homme avait vu le grain de beauté. Qu'il avait senti quelque chose se déplacer en lui, dans une pièce qu'il croyait vide. Qu'il savait. Qu'il ne saurait jamais.
 
-Il eut envie de lui dire : *oui.* Il eut envie de dire : *c'est votre petit-fils. C'est votre sang. C'est aussi, par un détour que vous ne comprendrez pas, le mien.* Il ne dit rien. Il resta debout derrière le lit, les mains sur les épaules de la femme qu'il aimait, et il regarda Étienne tenir l'enfant contre lui, longtemps, trop longtemps, avec un visage qu'il n'aurait jamais voulu voir : celui d'un homme qui reçoit ce qu'il n'attendait plus.
+Il eut envie de lui dire : *oui.* Il eut envie de dire : *c'est votre petit-fils. C'est votre sang. C'est aussi, par un détour que vous ne comprendrez pas, le mien.* Il ne dit rien. Il se tint debout derrière le lit, les mains sur les épaules de la femme qu'il aimait, et il regarda Étienne tenir l'enfant contre lui, longtemps, trop longtemps, avec un visage qu'il n'aurait jamais voulu voir : celui d'un homme qui reçoit ce qu'il n'attendait plus.
 
 ---
 
@@ -98,7 +98,7 @@ Il écrivit, au matin, dans le cahier noir :
 
 *Sacha, né le 3 février 2050, 3 h 52. Mère : Iris. Père : moi.*
 
-Il ne rayait rien. Il regarda longtemps les mots. Il pensa à un enfant de quatre ans qui avait demandé, un soir de juin, dans un dortoir : *Vous avez un crayon ?* Il pensa que les mots d'un livre pouvaient être faux et vrais à la fois.
+Il ne rayait rien. Il regarda longuement les mots. Il pensa à un enfant de quatre ans qui avait demandé, un soir de juin, dans un dortoir : *Vous avez un crayon ?* Il pensa que les mots d'un livre pouvaient être faux et vrais à la fois.
 
 Il écrivit, en dessous :
 

@@ -78,7 +78,7 @@ Il vit les deux femmes se tourner l'une vers l'autre, d'un même mouvement. Elle
 
 — Deux, dit l'autre.
 
-Elles comptaient. Elles ne se concertaient pas. Elles disaient les chiffres alternativement, sans élever la voix, comme on dit un chapelet.
+Elles comptaient. Elles ne se concertaient pas. Elles disaient les chiffres alternativement, sans élever la voix, ainsi qu'on dit un chapelet.
 
 Il pensa : *c'est le mot.* C'était le dernier mot de sa mère, qu'il n'avait jamais entendu de sa bouche. C'était le mot que lui avait laissé un homme, dans un carnet de toile. C'était le mot qu'il avait écrit sur un caillou blanc, pour une petite fille qui s'appellerait Anne.
 
@@ -119,7 +119,7 @@ Quand le goût de métal le quitta, il était toujours assis sur la marche de fe
 
 Il l'entendit murmurer, très bas : *merci.*
 
-Il resta là, les mains sur les genoux. Il se rendit compte qu'il pleurait, lui aussi. Quelqu'un lui toucha l'épaule. C'était Ménard, qui dit, d'un ton gêné :
+Il se tint là, les mains sur les genoux. Il se rendit compte qu'il pleurait, lui aussi. Quelqu'un lui toucha l'épaule. C'était Ménard, qui dit, d'un ton gêné :
 
 — Monsieur le directeur ? Ça va ?
 
@@ -137,6 +137,6 @@ C'était, mot pour mot, la phrase que Sophia entendrait plus tard, et qu'elle cr
 
 Il comprit, alors, une chose que ni les carnets ni la Rouille ne lui avaient apprise.
 
-Il comprit que ce n'était pas une fin.
+Il se rendit compte que ce n'était pas une fin.
 
 C'était un seuil.

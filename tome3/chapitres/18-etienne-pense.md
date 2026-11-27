@@ -104,7 +104,7 @@ Il la regarda. Il vit une jeune fille de dix-neuf ans, dans un manteau d'adulte,
 
 Elle ramassa sa tasse. Elle sortit, sans bruit. Il resta seul. Il regarda de nouveau par la fenêtre. Les deux silhouettes avaient disparu.
 
-Il resta debout, longtemps, devant la vitre, à se demander ce qui lui manquait. Il eut le sentiment étrange d'avoir été prévenu : qu'un jour, quelqu'un l'avait supplié d'avoir mal pour eux, et qu'il avait accepté.
+Il se tint debout, longtemps, devant la vitre, à se demander ce qui lui manquait. Il eut le sentiment étrange d'avoir été prévenu : qu'un jour, quelqu'un l'avait supplié d'avoir mal pour eux, et qu'il avait accepté.
 
 Il ne savait pas qui.
 

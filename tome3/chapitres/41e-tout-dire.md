@@ -4,7 +4,7 @@
 
 Il leur dit tout, et ce fut Kerr qui parla.
 
-Sacha s'était retiré, comme on se retire d'une pièce pour laisser les autres parler. Il resta derrière, dans le fond du corps, spectateur, attentif. Il laissa à son père le soin de dire ce qu'il avait appris. Ce fut Kerr, donc, qui reprit la parole, d'une voix un peu rauque, après avoir bu un verre d'eau.
+Sacha s'était retiré, à la façon dont on se retire d'une pièce pour laisser les autres parler. Il resta derrière, dans le fond du corps, spectateur, attentif. Il laissa à son père le soin de dire ce qu'il avait appris. Ce fut Kerr, donc, qui reprit la parole, d'une voix un peu rauque, après avoir bu un verre d'eau.
 
 Il commença par le refuge.
 

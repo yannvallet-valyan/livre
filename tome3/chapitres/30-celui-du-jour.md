@@ -30,7 +30,7 @@ Walther ne répondit pas. Il avait envie de s'asseoir. Il s'appuya à l'établi.
 
 — Je sais. Mais pas « demain » comme demain.
 
-Il avait dit cela d'une voix un peu étranglée, sans pleurer. Il resta debout, les mains le long du corps. Walther le regarda. Il vit un petit garçon aux joues creuses, au front trop grand, qui tenait dans la main un carnet de toile gris, aux coins roulés. Il sentit quelque chose se fendre en lui, à l'endroit où il n'avait pas le droit.
+Il avait dit cela d'une voix un peu étranglée, sans pleurer. Il se tint debout, les mains le long du corps. Walther le regarda. Il vit un petit garçon aux joues creuses, au front trop grand, qui tenait dans la main un carnet de toile gris, aux coins roulés. Il sentit quelque chose se fendre en lui, à l'endroit où il n'avait pas le droit.
 
 Il s'accroupit. Il se mit à la hauteur de l'enfant. Il ne le prit pas dans ses bras. Il dit :
 
@@ -96,11 +96,11 @@ Ils riaient encore quand Agathe ouvrit la porte. Elle les regarda, l'un et l'aut
 
 ---
 
-Il apprit à être un père comme on apprend à marcher sur la glace : en regardant ses pieds.
+Il apprit à être un père ainsi qu'on apprend à marcher sur la glace : en regardant ses pieds.
 
 Il n'avait jamais été un père. Il avait été un fils, un frère, un ingénieur. Il avait eu un père qui lui disait de lire avant de signer. Il se rappelait mal cet homme, sa barbe, sa voix, sa manière de lui poser la main sur l'épaule en disant « Walther ». Il aurait voulu pouvoir faire de même. Il n'osait pas.
 
-Il se mit à tenir un cahier, lui aussi. Il y notait ce qu'il savait de l'enfant. *Kerr mange les lentilles sans sel. Kerr compte en marchant. Kerr se tient les mains dans le dos quand il a peur. Kerr dit « pardon » aux portes.* Il le relut, un soir, à la lueur d'une lampe. Il comprit qu'il avait écrit son propre portrait.
+Il se mit à tenir un cahier, lui aussi. Il y notait ce qu'il savait de l'enfant. *Kerr mange les lentilles sans sel. Kerr compte en marchant. Kerr se tient les mains dans le dos quand il a peur. Kerr dit « pardon » aux portes.* Il le relut, un soir, à la lueur d'une lampe. Il saisit qu'il avait écrit son propre portrait.
 
 Il se sentit coupable. Il se sentit coupable de tout : d'être un voleur de corps, d'être un père sans nom, d'avoir pris à un autre une femme qui ne l'avait pas aimé. Il se sentit coupable de ne pas se sentir assez coupable. Il se dit qu'il y avait là un paradoxe qu'il laisserait à plus savant que lui.
 

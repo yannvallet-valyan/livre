@@ -18,7 +18,7 @@ L'enfant leva la tête. Il avait les yeux grands, d'un gris très clair, très s
 
 — Presque.
 
-L'homme se pencha. Il ne prit pas la main de l'enfant. Il posa la sienne à côté, sur le bord du cahier, et tint un crayon à son tour, entre le pouce et le majeur. Il le tint très haut, à l'extrémité, du bout des doigts, comme on tient une plume. Il dit :
+L'homme se pencha. Il ne prit pas la main de l'enfant. Il posa la sienne à côté, sur le bord du cahier, et tint un crayon à son tour, entre le pouce et le majeur. Il le tint très haut, à l'extrémité, du bout des doigts, ainsi qu'on tient une plume. Il dit :
 
 — Regarde.
 
@@ -84,7 +84,7 @@ Il se tourna. Il avait les yeux rouges, et il souriait. Il s'accroupit devant la
 
 Le jour, c'était un autre.
 
-Kerr ne le comprit pas tout de suite. Il avait remarqué que le monsieur au crayon, parfois, avait un autre visage. Pas un autre corps : le même. Un autre air. Un homme plus lent, plus rond, avec des yeux d'un brun très doux, qui disait « pardon » aux portes et qui riait de bon cœur quand on lui racontait une bêtise. Celui-là ne tenait pas de crayon. Il tenait une clé, un tournevis, un joint de caoutchouc. Il avait la manie de regarder les tuyaux en inclinant la tête, comme on écoute un malade.
+Kerr ne le comprit pas tout de suite. Il avait remarqué que le monsieur au crayon, parfois, avait un autre visage. Pas un autre corps : le même. Un autre air. Un homme plus lent, plus rond, avec des yeux d'un brun très doux, qui disait « pardon » aux portes et qui riait de bon cœur quand on lui racontait une bêtise. Celui-là ne tenait pas de crayon. Il tenait une clé, un tournevis, un joint de caoutchouc. Il avait la manie de regarder les tuyaux en inclinant la tête, à la façon dont on écoute un malade.
 
 — Tu viens voir ? disait-il.
 

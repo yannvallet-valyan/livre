@@ -10,7 +10,7 @@ Le 3 mai 2174, à neuf heures du soir, il ouvrit le tiroir.
 
 Il n'avait pas demandé la permission. Il n'en avait plus besoin : Agathe, à soixante ans, avait laissé la clé dans la porte, d'un geste qui voulait dire *je ne le vois pas.* Il alla dans la salle des archives. Il alluma la lampe. Il s'assit à la grande table, devant les quarante-trois carnets noirs qu'une femme avait lus en neuf nuits, quinze ans plus tôt.
 
-Il resta un long moment sans toucher à rien. Il regardait les dos, aux titres fins, droits, d'une écriture qui ne rature pas. Il reconnaissait chaque lettre. Il reconnaissait le *r* qui roule comme une pierre, le *e* aux boucles régulières. Il tendit la main. Il prit le premier. Il l'ouvrit.
+Il se tint un long moment sans toucher à rien. Il regardait les dos, aux titres fins, droits, d'une écriture qui ne rature pas. Il reconnaissait chaque lettre. Il reconnaissait le *r* qui roule comme une pierre, le *e* aux boucles régulières. Il tendit la main. Il prit le premier. Il l'ouvrit.
 
 *Tour 1. J + 0. Je suis dans un corps qui n'est pas le mien. Je mesure.*
 
@@ -120,7 +120,7 @@ Kerr s'approcha. Il fit un pas. Il tendit la main, très lentement, comme à un 
 
 Il sourit. Il ne savait pas pourquoi. Il se rendit compte qu'il avait dit cela pour consoler l'autre, et qu'il était le plus consolé des deux. Il laissa sa main sur son épaule. Il sentit sous la laine un cœur qui battait trop fort, comme celui d'un enfant surpris.
 
-Il y avait, entre eux, une vérité. Il ne la connaissait pas. Il la sentait, comme on sent, dans le noir, un meuble qu'on n'a pas encore heurté.
+Il y avait, entre eux, une vérité. Il ne la connaissait pas. Il la sentait, ainsi qu'on sent, dans le noir, un meuble qu'on n'a pas encore heurté.
 
 Il se promit de ne pas le chercher.
 

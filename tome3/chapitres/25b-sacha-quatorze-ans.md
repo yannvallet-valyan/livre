@@ -4,7 +4,7 @@
 
 Il prit la pilule un mardi, à dix-huit heures douze, dans sa chambre, avec un verre d'eau.
 
-Il ne l'avait dit à personne. Il avait quatorze ans, en mars 2064, et il savait depuis longtemps que ce qu'on voulait lui cacher était précisément ce qu'il devait connaître. Il avait trouvé la boîte blanche dans le tiroir de sa mère, sous des écharpes. Un petit logo en forme de feuille. Deux lignes de mentions légales. Une date de péremption. Il l'avait gardée une semaine dans sa poche, comme on garde un caillou.
+Il ne l'avait dit à personne. Il avait quatorze ans, en mars 2064, et il savait depuis longtemps que ce qu'on voulait lui cacher était précisément ce qu'il devait connaître. Il avait trouvé la boîte blanche dans le tiroir de sa mère, sous des écharpes. Un petit logo en forme de feuille. Deux lignes de mentions légales. Une date de péremption. Il l'avait gardée une semaine dans sa poche, à la façon dont on garde un caillou.
 
 Il avait vu Lise, six mois plus tôt. Elle était venue, un après-midi de septembre, dans la maison d'en haut, avec un chemisier sans pli et un sourire trop doux. Elle avait parlé avec sa mère, dans le salon, pendant une heure. Il avait fait semblant de lire. Il avait tout entendu. Il avait entendu : « Léthé 2 », « traitement doux », « apaisement », « mémoire ». Il avait entendu sa mère dire non, et son père, Théo, ne rien dire.
 

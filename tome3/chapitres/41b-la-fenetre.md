@@ -12,13 +12,13 @@ Il avait marché depuis le laboratoire, dans le corps du directeur, avec un sac 
 
 Il la leva d'une main, très lentement. Elle gémit. Il retint son souffle. Rien ne bougea dans la maison. Il se hissa, une jambe, puis l'autre, et se laissa glisser sur le carrelage, au milieu d'une odeur de café refroidi et de pommes.
 
-Il referma la fenêtre. Il resta immobile dans le noir.
+Il referma la fenêtre. Il ne bougea plus dans le noir.
 
 Il avait vingt-quatre ans d'âge, quarante-six tours de métier, et les mains qui tremblaient comme celles d'un enfant surpris à voler.
 
 ---
 
-Il alluma la petite lampe au-dessus de la cuisinière. Il posa le sac sur la table. Il en sortit les lentilles, un oignon, une carotte, une tête d'ail, du cumin. Il posa le tout, un à un, avec soin, comme on dispose les instruments d'une opération.
+Il alluma la petite lampe au-dessus de la cuisinière. Il posa le sac sur la table. Il en sortit les lentilles, un oignon, une carotte, une tête d'ail, du cumin. Il posa le tout, un à un, avec soin, ainsi qu'on dispose les instruments d'une opération.
 
 Il ne savait pas cuisiner. Il avait appris, une fois, dans le refuge, devant la vieille Agathe, qui disait : « On ne cuisine pas pour se nourrir. On cuisine pour que quelqu'un revienne. » Il avait cru à une phrase de vieille femme. Il comprenait, ce soir, qu'elle disait la seule vérité qu'il eût jamais reçue.
 

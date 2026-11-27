@@ -20,13 +20,13 @@ Elle ne répondit pas. Il se tourna enfin vers elle, avec une lenteur de myope. 
 
 — Je crois que je me suis trompé de siècle, dit-il.
 
-Il avait un accent. Elle ne put pas le situer : une façon de poser les consonnes à plat, comme on pose une assiette. Il parlait un français très correct, très lent, de personne qui l'a appris dans des livres.
+Il avait un accent. Elle ne put pas le situer : une façon de poser les consonnes à plat, ainsi qu'on pose une assiette. Il parlait un français très correct, très lent, de personne qui l'a appris dans des livres.
 
 — Qui êtes-vous ? dit-elle.
 
 — Je m'appelle Walther Kerr. Je suis ingénieur. Je suis mort, il me semble, le soir du quinze novembre 1958, dans une cuisine, sur une chaise. J'ai attendu l'eau.
 
-Il avait dit cela d'une voix égale, sans emphase, comme on donne son nom à la réception d'un hôtel. Iris sentit, dans ses doigts, le registre se mettre à peser. Elle le posa.
+Il avait dit cela d'une voix égale, sans emphase, à la façon dont on donne son nom à la réception d'un hôtel. Iris sentit, dans ses doigts, le registre se mettre à peser. Elle le posa.
 
 — Vous êtes… un voyageur.
 

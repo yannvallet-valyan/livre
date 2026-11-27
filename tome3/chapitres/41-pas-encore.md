@@ -64,7 +64,7 @@ Hugo réfléchit. Il tira de sa poche un morceau de craie, qu'il fit rouler entr
 
 — Non. Mais j'ai senti qu'il était triste. Pas méchant. Triste.
 
-Il tendit la craie à Kerr, d'un geste vif, comme on remet un objet précieux. Il dit : « Gardez-la. Ça porte bonheur. » Il s'éloigna d'un pas rapide, son écharpe rouge flottant derrière lui.
+Il tendit la craie à Kerr, d'un geste vif, à la façon dont on remet un objet précieux. Il dit : « Gardez-la. Ça porte bonheur. » Il s'éloigna d'un pas rapide, son écharpe rouge flottant derrière lui.
 
 Kerr regarda la craie. Elle était blanche, ébréchée, tiède. Il la serra dans son poing.
 
@@ -96,7 +96,7 @@ Il écrivit encore :
 
 *Pas encore.*
 
-Il referma le carnet. Il se leva. Il resta un moment debout, face au lac, les mains dans le dos, comme il l'avait vu faire à un homme dont il ne se souvenait plus qu'il l'avait aimé.
+Il referma le carnet. Il se leva. Il demeura un moment debout, face au lac, les mains dans le dos, comme il l'avait vu faire à un homme dont il ne se souvenait plus qu'il l'avait aimé.
 
 Il dit, tout haut, dans le silence :
 

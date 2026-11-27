@@ -70,7 +70,7 @@ La mère venait tous les soirs.
 
 Elle arrivait à l'heure du coucher, par le couloir sud, en blouse grise, avec ses mains tachées de craie. Elle s'asseyait au bord du lit de son fils. Elle lui chantait deux couplets. Elle s'arrêtait. Il disait : « Encore. » Elle chantait encore. Elle restait là jusqu'à ce qu'il s'endorme, la main posée sur sa poitrine, à compter ses souffles.
 
-Agathe la regardait faire, de loin, avec ce mélange de tendresse et de reproche qu'on a pour les jeunes mères. Elle voyait qu'Iris était heureuse. Elle voyait aussi, derrière ce bonheur, autre chose : une espèce de peur, de fatigue, de tension silencieuse. Elle voyait qu'Iris regardait l'enfant comme on regarde une chose qu'on sait ne pas pouvoir garder.
+Agathe la regardait faire, de loin, avec ce mélange de tendresse et de reproche qu'on a pour les jeunes mères. Elle voyait qu'Iris était heureuse. Elle voyait aussi, derrière ce bonheur, autre chose : une espèce de peur, de fatigue, de tension silencieuse. Elle voyait qu'Iris regardait l'enfant ainsi qu'on regarde une chose qu'on sait ne pas pouvoir garder.
 
 Un soir, elle la rejoignit dans le couloir, à la sortie.
 

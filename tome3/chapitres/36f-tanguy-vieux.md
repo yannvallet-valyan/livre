@@ -4,7 +4,7 @@
 
 Tanguy mourut à soixante-treize ans, un matin de juin 2229, sur un banc, devant une maison au toit rouge, avec un petit-fils sur les genoux.
 
-Il avait vieilli comme on s'attendait qu'il vieillisse : en riant. Il avait gardé le visage rond, les taches de rousseur, que le temps avait multipliées jusqu'à en faire une carte. Ses cheveux étaient devenus d'un blanc de lait. Il avait perdu quelques dents, un peu d'équilibre, la plupart de ses souvenirs. Il avait gardé le reste : la voix, trop forte ; les bras, trop larges ; ce besoin de toucher les gens quand il leur parlait.
+Il avait vieilli à la façon dont on s'attendait qu'il vieillisse : en riant. Il avait gardé le visage rond, les taches de rousseur, que le temps avait multipliées jusqu'à en faire une carte. Ses cheveux étaient devenus d'un blanc de lait. Il avait perdu quelques dents, un peu d'équilibre, la plupart de ses souvenirs. Il avait gardé le reste : la voix, trop forte ; les bras, trop larges ; ce besoin de toucher les gens quand il leur parlait.
 
 On disait de lui, au refuge, qu'il avait « un trou ». Quelque part, dans les années de sa jeunesse, il manquait un morceau. Il ne savait pas lequel. Il parlait de sa mère, de ses noces, de la naissance d'Anne. Il parlait d'un jardin, d'un pommier, d'une niche dans une galerie, avec une lampe et un jeu de dames sans pions. Il disait : « J'avais un ami. » On lui demandait : « Comment il s'appelait ? » Il répondait : « Je ne sais pas. Je ne sais plus. » Il souriait, un peu tristement, comme quelqu'un qui cherche ses lunettes sur son nez.
 

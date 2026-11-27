@@ -72,11 +72,11 @@ Il le savait parce qu'il connaissait cette voix. Il l'avait entendue dans un car
 
 *Oui. Comme toi.*
 
-Kerr voulut protester. Il ne trouva pas. Il comprit qu'il venait lui aussi de mentir, un quart d'heure plus tôt, en disant : « Je ne vous demande rien. » C'était la première fois de sa vie qu'il mentait à son fils en face, par la bouche même de son fils. Il comprit que cela ne le rendait pas différent de tous les parents qu'il avait lus.
+Kerr voulut protester. Il ne trouva pas. Il saisit qu'il venait lui aussi de mentir, un quart d'heure plus tôt, en disant : « Je ne vous demande rien. » C'était la première fois de sa vie qu'il mentait à son fils en face, par la bouche même de son fils. Il comprit que cela ne le rendait pas différent de tous les parents qu'il avait lus.
 
 Il comprit autre chose, plus étrange.
 
-Il comprit que Sacha n'avait pas dit : « Rien ne naît. » Il avait dit : « Il n'y a plus de père pour Kerr. » Qu'il l'avait dit, par habitude, par maladresse, par un reste d'orgueil, comme s'il était encore celui-là. Il comprit que, dans le fond de cet homme, il y avait toujours le fils d'une erreur, qui s'accrochait à son nom, parce que c'était tout ce qu'il avait.
+Il se rendit compte que Sacha n'avait pas dit : « Rien ne naît. » Il avait dit : « Il n'y a plus de père pour Kerr. » Qu'il l'avait dit, par habitude, par maladresse, par un reste d'orgueil, comme s'il était encore celui-là. Il comprit que, dans le fond de cet homme, il y avait toujours le fils d'une erreur, qui s'accrochait à son nom, parce que c'était tout ce qu'il avait.
 
 Il lui fit, dans leur silence, un geste intérieur, très simple : il posa sa main sur la sienne.
 

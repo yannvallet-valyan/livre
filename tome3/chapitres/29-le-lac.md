@@ -34,7 +34,7 @@ Il partit cette nuit-là.
 
 Il ne prit pas de valise. Il laissa sur la table de la cuisine un mot, d'une écriture fine, droite, qu'il avait recopié trois fois : *Pardon. Je ne pouvais pas faire autrement. Compte. — T.* Il le relut. Il le trouva trop court. Il le trouva trop long. Il le posa sur la nappe, entre deux tasses, à la place exacte où elle poserait ses mains en le lisant.
 
-Il resta un instant debout dans l'obscurité. Il regarda la pièce : le poêle éteint, la table, l'étagère. Il regarda l'escalier. Il pensa : *elle dort en haut.* Il ne monta pas. Il se dit qu'il n'en avait pas le droit. Il se dit aussi qu'il n'en avait pas la force.
+Il demeura un instant debout dans l'obscurité. Il regarda la pièce : le poêle éteint, la table, l'étagère. Il regarda l'escalier. Il pensa : *elle dort en haut.* Il ne monta pas. Il se dit qu'il n'en avait pas le droit. Il se dit aussi qu'il n'en avait pas la force.
 
 Il sortit.
 
@@ -52,7 +52,7 @@ Ils parlèrent une heure. Il lui dit ce qu'il pouvait dire. Il lui dit : *je sui
 
 — Vous le saurez.
 
-Il sortit. Il referma la porte avec douceur, comme on referme la porte d'un enfant qui dort.
+Il sortit. Il referma la porte avec douceur, à la façon dont on referme la porte d'un enfant qui dort.
 
 ---
 

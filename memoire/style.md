@@ -53,3 +53,6 @@ Commande de recomptage : voir `../CLAUDE.md`.
 
 ## Règle de la mémoire affective (V3.51)
 Chaque personnage garde la trace de ce qu'il a appris : Sacha n'oublie pas qu'Iris l'a rejeté et reste jaloux de Walther ; Iris n'oublie pas qu'elle a menti à Sacha ; Walther se sent locataire du corps de Tobie ; Kerr ne supporte plus la photographie d'un enfant de seize ans ; Sophia garde la colère d'avoir été habitée ; Noé reproche à Élise d'avoir « le droit d'oublier » ; Élise ne retrouve plus le visage d'Iris. Les réactions ne sont pas toujours de belles phrases : on peut répondre à côté, s'énerver pour un détail, faire la vaisselle.
+
+## Tome 3 — tics (V3.65, après passe automatique)
+≈ 70 k mots : « comme on » 43 (+ variantes « ainsi qu'on » 44, « à la façon dont on » 43), « il y avait » 110, « quelque chose » 82, « longtemps » 86, « il resta » 75, « il comprit » 41. Encore plus haut que T1/T2 : une vraie passe de style manuelle reste à faire (réduire « il resta/comprit », varier les débuts de scène, couper les récapitulatifs « Il pensa : »).
