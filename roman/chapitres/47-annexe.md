@@ -20,6 +20,8 @@
 
 *Les Élise de l'hôte A.R. : éteintes à 9 h 40. Cette nuit, par la fenêtre de la cabine, j'ai vu le vieil homme pleurer, seul. C'était lui, cette fois, plus elles.*
 
+*Hôte W. (1958) : n'est pas remonté avec les autres. Il est resté à la table. Je n'ai pas su quoi écrire en marge.*
+
 *S.V. a gardé un témoin. Fiole, étiquette bleue, « Vallorce, 14/11/2026 ». Je l'ai vue sur son étagère, par la fenêtre. J'aurais pu entrer. La lui prendre aurait été une intervention.*
 
 *Je ne l'ai pas fait. Je ne sais plus très bien pourquoi.*

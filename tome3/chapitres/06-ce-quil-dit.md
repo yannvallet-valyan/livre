@@ -18,7 +18,7 @@ Elle leva la tête. L'homme, en face d'elle, avait les yeux fermés. Il ne bouge
 
 — Parce que tu aurais voulu savoir le reste.
 
-Elle resta immobile. Elle sentit, tout autour d'elle, la pièce se resserrer, comme quand on entre dans une chambre où quelqu'un vient de mourir. Elle regarda Ruben. Il avait trente-cinq ans, des cheveux déjà gris, un tremblement léger de la main gauche. Il la regardait avec une tendresse fatiguée, de père, d'homme qui a tout fait pour la protéger et qui s'avoue vaincu.
+Elle resta immobile. Elle regarda Ruben. Il avait trente-cinq ans, des cheveux déjà gris, un tremblement léger de la main gauche. Il la regardait avec une tendresse fatiguée, de père, d'homme qui a tout fait pour la protéger et qui s'avoue vaincu.
 
 — Je le lui ai dit, murmura-t-il à l'homme. Elle sait que tu t'appelles Sacha. C'est à toi de lui dire le reste.
 
@@ -28,88 +28,106 @@ Il ouvrit les yeux.
 
 ---
 
-— Je suis le fils d'une femme qui s'appelle Iris, dit-il. Elle est morte il y a longtemps, ou elle ne l'est pas encore : je n'ai jamais su compter dans ce sens. Elle est née en 2027, à Lyon. Elle est la fille de ta mère.
+— Je suis le fils d'une femme qui s'appelle Iris, dit-il. Elle est née en 2027, à Lyon, dans un tour qui n'est pas le tien. Elle est la fille d'Élise et de Noé.
 
 Iris ne bougea pas.
 
 — De ma mère, dit-elle.
 
-— D'Élise. Et de Noé. Dans un autre corps, un autre tour. Elle a vécu quarante ans. Elle a été ma mère. Elle est ta sœur. Je suis son fils, donc le fils de ta sœur. Je suis ton neveu.
+— De la tienne. Pas dans le même corps, pas dans la même année, pas dans la même histoire. Dans un tour où elles ont tout brisé, une nuit d'octobre, et où elle a été conçue. Elle a ton front. Elle a ton grain de beauté, là, au coin de l'œil. Elle compte jusqu'à cinquante-neuf et elle s'arrête.
 
-Elle eut un petit rire, très bref, sans joie.
+— Alors c'est ma sœur.
 
-— Tu me dis ça comme une plaisanterie.
+— Je ne sais pas, dit Sacha.
 
-— Non. Je ne plaisante jamais. C'est la seule chose que je sache faire.
+Il le dit avec une honnêteté qui la désarma. Il regardait ses mains, celles de Tobie, carrées, un peu rouges.
 
-Il se tut. Il regardait ses mains, celles de Tobie, carrées, un peu rouges. Il parlait lentement, avec la précision de celui qui a répété cent fois une phrase devant un miroir, et qui, au moment de la dire, comprend qu'elle n'est pas la bonne.
+— Je ne crois pas. Les tours ne se comptent pas comme les familles. Elle est née d'autres corps que toi. Elle n'a pas connu les mêmes années. Vous êtes deux réponses au même appel. Je n'ai pas de mot pour ça.
 
-— Mon père est un homme que tu ne connais pas encore. Il s'appelle Kerr. Il est né dans ce refuge, quelque part entre 2150 et 2160, dans le dortoir B. Il est ton fils.
+— Moi non plus.
 
-Elle crut qu'elle avait mal entendu.
+— Je sais.
 
-— Mon fils.
+Il se tut. Elle comprit qu'il se tenait, comme chaque fois, à la lisière d'une phrase plus difficile que les autres. Elle comprit aussi qu'elle n'avait pas envie de l'entendre. Elle ne bougea pas.
 
-— Ton fils et le mien. Il viendra au monde dans quatre ans. C'est moi qui le ferai naître, avec toi. Je suis son père. Il est le mien. Je ne sais pas qui a commencé. Personne ne le sait.
-
-Elle se leva. Elle recula d'un pas, puis d'un autre, jusqu'à toucher le mur. Elle avait de la craie plein les doigts, qu'elle serra dans ses poings, comme pour y retenir quelque chose.
-
-— Tu es fou.
-
-— Je ne suis pas fou.
-
-— Tu es le neveu de ma… tu es le fils de ma sœur, tu veux que j'aie un enfant de toi, et tu me dis que cet enfant est ton père.
-
-— Oui.
-
-— Et tu me le dis comme ça.
-
-— Je ne sais pas comment le dire autrement, dit Sacha.
+— Il y a autre chose, dit-il.
 
 ---
 
-Ruben était sorti. Elle ne l'avait pas vu partir. Elle resta seule avec lui dans la salle, avec la lampe qui vacillait, avec l'odeur de mouchoir mouillé et de lentilles. Elle se sentait sale, sans savoir pourquoi. Elle se sentait aussi, à son grand effroi, curieuse.
+— J'ai des carnets, dit-il. Je les écris depuis plus d'un siècle, dans des corps qui ne sont pas les miens. Dans certains, il y a une phrase qui revient. Elle est de ma main. Elle dit : *Faire naître Kerr.*
 
-— Tu pourrais ne rien me dire, dit-elle. Tu pourrais me laisser croire que je t'ai choisi.
+— Qui est Kerr ?
+
+— Un enfant qui n'est pas né. Il naîtra ici, au refuge, dans quatre ans. Il est mon père. Il est celui qui me fera naître, dans un autre siècle, avec ma mère. Et c'est de moi, d'après mes carnets, qu'il naît.
+
+Elle eut un petit rire, très bref, sans joie.
+
+— Tu dis ça comme une plaisanterie.
+
+— Non. Je ne plaisante jamais. C'est la seule chose que je sache faire.
+
+— Et la phrase ?
+
+— *Faire naître Kerr*, dit Sacha. Je l'ai lue cent fois. Je l'ai comprise : je dois être son père. Il faut un enfant au refuge, en 2156. Il faut une mère. Il faut un corps. J'ai le corps.
+
+Il leva les yeux. Ils étaient gris, d'un gris de glaise, très calmes. Il avait la voix d'un homme qui récite, et qui sait exactement ce qu'il vient de dire.
+
+— Il faut que ce soit toi, dit-il.
+
+Le silence qui suivit fut de ceux qu'on entend dans les os. Iris recula d'un pas, puis d'un autre, jusqu'à toucher le mur. Elle avait de la craie plein les doigts, qu'elle serra dans ses poings, comme pour y retenir quelque chose.
+
+— Tu es fou, dit-elle.
+
+— Je ne suis pas fou.
+
+— Tu es un homme qui ne me connaît pas depuis deux ans, qui me dit qu'il est le fils d'une femme qui a mon front, et que j'ai un enfant à avoir avec lui, parce que c'est écrit. Tu me dis ça comme on annonce la pluie.
+
+— Je ne sais pas comment le dire autrement.
+
+— Tu pourrais ne pas le dire.
 
 — Oui.
 
-— Pourquoi tu ne l'as pas fait ?
+— Pourquoi tu le dis ?
 
-Il releva les yeux. Il avait, derrière le visage de Tobie, un regard qui n'était pas celui d'un garçon de dix-neuf ans : un regard très vieux, très attentif, qui avait vu passer beaucoup de choses, et qui n'avait appris, de toutes, que la patience.
+— Parce que j'ai déjà trop menti, dit-il. Mon père m'a laissé prendre la pastille. Il m'a regardé mourir. Il a dit que c'était écrit. Je ne veux pas être lui.
 
-— Parce que j'ai déjà trop menti, dit-il. Mon père a menti à ma mère pendant dix-neuf ans. Il m'a laissé prendre la pastille. Il m'a regardé mourir. Il a dit que c'était écrit.
+---
 
-Elle ne comprit pas tout. Elle comprit assez.
+Elle resta contre le mur. Elle respirait vite. Elle regardait cet homme qui avait vécu un siècle sans vieillir, qui portait le corps d'un garçon qu'on avait oublié, et qui venait de lui dire, avec la plus grande douceur du monde, qu'elle était un maillon.
 
-— Et toi ?
-
-— Moi, je ne veux pas être lui.
-
-— Tu es lui.
+— Je ne suis le moyen de personne, dit-elle.
 
 — Je sais.
 
-Il sourit, d'un sourire un peu tordu, honteux. Il tendit la main vers elle, à moitié, puis la retira.
-
-— Je voulais que tu saches ce que tu fais. Si tu me repousses, je partirai. Je retournerai mesurer. Il n'y aura pas de Kerr. Il n'y aura rien de ce qui a suivi. Tout s'arrêtera. Tu me dis non, et le monde s'arrête.
-
-— C'est du chantage.
-
-— C'est la vérité. Je ne sais pas faire la différence.
-
-Elle ne répondit pas. Elle resta contre le mur, les bras serrés contre elle, regardant cet homme qui avait vécu mille ans sans vieillir, qui portait le corps d'un garçon qu'on avait oublié, et qui lui demandait la permission d'exister.
-
-— Je ne sais pas, dit-elle.
+— Je ne suis pas ta mère. Je ne suis pas la sœur de ta mère. Je ne suis pas un chiffre dans ton cahier.
 
 — Je sais.
 
-— Je ne sais pas si je peux t'aimer.
+— Je ne te donnerai pas d'enfant.
 
-— Tu n'as pas à me répondre, dit-il. Je te le demande seulement. Je ne te le demande pas : je te le dis. C'est plus honnête.
+— Je ne te le demande pas, dit Sacha. Je te le dis. C'est différent. Je voulais que tu saches ce que je crois. Si tu refuses, je ne te poursuivrai pas.
 
-Elle partit. Elle ne dit pas qu'elle reviendrait. Elle monta jusqu'à la galerie de l'archive, ferma la porte, s'assit dans le noir, la craie entre les doigts. Elle resta là toute la nuit, sans bouger, à compter jusqu'à cinquante-neuf, et à recommencer.
+— Tu ne comprends pas.
 
-Elle se dit qu'elle ne retournerait pas. Elle sut, bien avant l'aube, qu'elle y retournerait.
+— Si.
 
-Elle y retourna le soir même.
+— Tu ne comprends pas, répéta-t-elle, d'une voix qui montait. Tu viens de me retirer quelque chose que je n'avais pas encore eu le temps de désirer. Tu viens de me dire que je tomberai peut-être amoureuse de toi, et que je n'aurai pas le choix. Je ne le saurai jamais, maintenant. Je ne saurai jamais si j'aurais pu.
+
+Il ne dit rien. Il resta assis, les mains sur les genoux, avec une expression qu'elle n'oublierait jamais : celle d'un homme qui vient de comprendre ce qu'il a fait, trop tard, et qui ne cherche pas à s'excuser.
+
+— Ne me suis pas, dit-elle.
+
+— Non.
+
+— Ne m'écris pas.
+
+— Non.
+
+— Ne cherche pas à savoir ce que je deviens.
+
+— Je ne le chercherai pas, dit Sacha. Mais je ne pourrai pas l'empêcher de me manquer.
+
+Elle sortit sans répondre. Elle passa devant Ruben, qui ne leva pas les yeux, dans le couloir. Elle monta à la salle des archives, ferma la porte, s'assit dans le noir, la craie entre les doigts. Elle compta, toute la nuit, jusqu'à cinquante-neuf, et elle recommença.
+
+Elle ne retourna pas dans la salle du fond. Pas ce soir-là. Pas le suivant. Pas pendant onze mois.

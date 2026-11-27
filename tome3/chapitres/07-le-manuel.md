@@ -1,4 +1,4 @@
-# Chapitre 7 — Le manuel
+# Chapitre 8 — Le manuel
 
 *(premier jet)*
 

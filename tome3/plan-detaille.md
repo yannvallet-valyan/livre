@@ -1,4 +1,29 @@
-# Tome 3 : *L'Homme du jour* — plan détaillé
+# Tome 3 : *L'Homme du jour*, plan détaillé
+
+> ⚠ **RÉVISION V3.46 (anneau v2, voir `roman/bible/anneau-v2.md`)** : les deux Iris ne sont pas sœurs ; **Sacha n'est pas le père de Kerr** (il se trompe) ; le père est **Walther Kerr**, l'ingénieur de 1958, dont la conscience revient dans Tobie, le **jour** (« l'homme du jour ») ; Iris du présent le choisit librement. Les chapitres du fil R ci-dessous sont à lire avec cette table de substitution. Les parties S et O (Kerr, tour 1 / tour 47) ne changent pas.
+
+## Fil R (refuge), version V3.46
+| N° (fichier) | Date | Contenu |
+|---|---|---|
+| 1 `01-tobie` | 2150 | Tobie parle ; Ruben ; « Je suis en avance » ✅ |
+| 3 `03-ce-quil-ne-dit-pas` | 2150 | Iris et Sacha ; grain de beauté ✅ |
+| 6 `06-ce-quil-dit` | hiver 2152 | Sacha dit son nom, parle de sa mère « qui a ton front », de *Faire naître Kerr* ; Iris refuse : « Je ne suis le moyen de personne » ✅ |
+| 6 bis `06b-le-silence` | 2152-2153 | Un an de silence ; les feuilles de Sacha ; retrouvailles prudentes ; « Je ne sais plus faire la différence » ✅ |
+| 9 `09-lhomme-du-jour` | juil. 2153 | Walther s'éveille dans Tobie, le jour ✅ |
+| 9 bis `09b-ce-quelle-choisit` | 2153-2155 | Iris et Walther ; elle le choisit en connaissance de cause ; Kerr conçu ; nom « Kerr » voulu par elle ✅ |
+| 11 `11-le-registre-rouge` | 14 nov. 2159 | Ruben : 43 carnets cachés ; il sait que Sacha se trompe ✅ |
+| 11 bis `11b-le-cahier-partage` | 2159-2160 | Iris porte la page à Sacha ; Sacha et Walther s'écrivent dans les marges d'un même cahier ; « Il a un père. Je suis heureux de l'apprendre » ✅ |
+| à écrire | 2156 | Naissance de Kerr au dortoir B (Ruben tient l'enfant ; Sacha est dans la galerie) |
+| à écrire | 2160 | Iris du présent à Vallorce (Odette) : **elle y croise Walther vivant, qui ne la connaît pas** ; elle ment à l'autre Iris (« je te dirai comment sauver ton fils ») ; plus tard, elle comprend « Quelqu'un doit être là » |
+| à écrire | 2164 | Iris part (Mathis). Elle laisse Kerr (8 ans) à Agathe. Walther et Sacha se partagent le corps de Tobie ; Walther s'efface (il ne veut pas voler une enfance) |
+| à écrire | 2165-2180 | Kerr grandit, croit que K. est son père (le cahier), apprend l'écriture fine ; Mael ; Agathe ; départ 2180 |
+| fin | oct. 2026 (cuisine) | Kerr apprend qui est son père ; Sacha, qui le sait, ne le dit pas ; les deux Iris |
+
+## Arc de Sacha (cf. conversation V3.46)
+Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« Je ne suis pas nécessaire. Je suis là quand même. »). Scènes obligées : la page de Ruben ✅ ; le cahier partagé ✅ ; la confrontation avec Iris (« Tu avais raison de dire non ») ; Kerr à huit ans (le crayon) ✅ ; la rencontre de face avec Walther (« Prenez soin de lui »).
+
+> Ci-dessous : plan antérieur à V3.46 (les chapitres 3, 6, 9, 11 du fil R sont **remplacés** par le tableau ci-dessus).
+
 
 > Sombre. Chaque chapitre : **fil · date · événements · coût · maillon** (→ `../memoire/predestination.md` §2). ≈ 36 chapitres, 100-120 k mots.
 > **Fils :** **R** = le refuge, ligne A (2150-2180) · **S** = le premier tour, tour brisé (sept. 2026 puis 2046-2065) · **O** = le tour 47, de l'intérieur de Kerr (sept.-nov. 2026).
