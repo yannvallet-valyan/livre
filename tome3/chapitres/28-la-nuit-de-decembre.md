@@ -1,4 +1,4 @@
-# Chapitre 29 — La nuit de décembre
+# Chapitre 32 — La nuit de décembre
 
 *(premier jet)*
 

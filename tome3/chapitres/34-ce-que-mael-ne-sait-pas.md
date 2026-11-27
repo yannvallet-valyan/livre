@@ -1,4 +1,4 @@
-# Chapitre 35 — Ce que Mael ne sait pas
+# Chapitre 38 — Ce que Mael ne sait pas
 
 *(premier jet)*
 

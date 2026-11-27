@@ -1,4 +1,4 @@
-# Chapitre 24 — Le monsieur au crayon
+# Chapitre 27 — Le monsieur au crayon
 
 *(premier jet)*
 

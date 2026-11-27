@@ -1,4 +1,4 @@
-# Chapitre 27 — La boîte blanche
+# Chapitre 30 — La boîte blanche
 
 *(premier jet)*
 

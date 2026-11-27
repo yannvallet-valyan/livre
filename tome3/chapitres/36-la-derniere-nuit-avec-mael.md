@@ -1,4 +1,4 @@
-# Chapitre 38 — La dernière nuit avec Mael
+# Chapitre 41 — La dernière nuit avec Mael
 
 *(premier jet)*
 

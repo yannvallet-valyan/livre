@@ -1,4 +1,4 @@
-# Chapitre 23 — La maison d'en haut
+# Chapitre 26 — La maison d'en haut
 
 *(premier jet)*
 
