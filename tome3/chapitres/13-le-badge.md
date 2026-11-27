@@ -1,4 +1,4 @@
-# Chapitre 16 — Le badge
+# Chapitre 17 — Le badge
 
 *(premier jet)*
 

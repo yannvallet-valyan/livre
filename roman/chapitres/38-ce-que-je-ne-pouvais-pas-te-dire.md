@@ -50,6 +50,40 @@ Elle n'osait pas se retourner. Elle l'entendit poser la cuillère sur le bord de
 
 Il s'essuya les yeux du dos de la main.
 
+Il ne dit pas tout de suite autre chose. Elle le regarda chercher, dans son visage, la place où poser la joie, et ne pas la trouver. Il ouvrit la bouche. Il la referma. Il dit, à voix basse, comme à quelqu'un d'autre :
+
+— Je n'ai pas le droit d'être content.
+
+— De quoi ?
+
+— De tout. De toi, de ça. Elle est morte il y a sept ans, et je me réveille un matin avec une femme dans ma maison et une enfant dans son ventre. Il y a des gens qui attendent des années une chose pareille. Moi, je l'ai eue sans l'avoir demandée.
+
+Il se frotta le front, là où la cicatrice remontait. Il ajouta, très vite, comme on se jette dans l'eau :
+
+— Et Hugo ? Qu'est-ce qu'il dira ? Il a trente ans, il a déjà enterré sa mère, il a mon âge dans la tête. Il va falloir lui dire qu'il a une sœur d'une femme qu'il connaît à peine. Je ne saurai pas.
+
+— Moi non plus, dit Sophia.
+
+— Tu as peur ?
+
+— J'ai l'impression qu'on m'a lu un jugement, dit-elle. Je ne sais pas si c'est un cadeau.
+
+Il rit, malgré lui, un petit rire cassé. Il tendit la main, la reposa, la tendit de nouveau. Il lui toucha l'épaule, gauchement, du bout des doigts, comme à une inconnue. Il dit :
+
+— Je suis maladroit.
+
+— Oui.
+
+— Je voulais te prendre dans mes bras.
+
+— Je sais.
+
+— Je n'ose pas.
+
+— Alors fais-le, dit Sophia, sans bouger.
+
+Il le fit. Les pâtes débordaient encore.
+
 — Non dénommé, répéta-t-il. Ça veut dire que tu ne diras jamais mon nom ?
 
 — Ça veut dire que je ne l'écrirai jamais sur un papier. Élise pense que j'aurai peur. Que quelqu'un vienne un jour chercher dans ta lignée ce qu'on est venu chercher dans la mienne.
