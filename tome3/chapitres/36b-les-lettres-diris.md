@@ -68,7 +68,7 @@ Elle ne l'était pas. Elle ne savait pas ce qu'elle était.
 
 Elle écrivit la dernière lettre le 3 mai 2180.
 
-C'était le jour de ses vingt-quatre ans à lui. Elle avait cent ans, ou presque, dans le désordre de son temps : elle avait traversé un siècle, elle en avait vécu un autre. Elle se sentait très vieille. Elle se tenait dans une chambre mansardée, devant une table bancale, sous une ampoule nue. Elle avait posé devant elle une feuille de papier à lettres, qu'elle avait payée trop cher.
+C'était le jour de ses vingt-quatre ans à lui. Elle avait cinquante ans, et deux époques dans les os. Elle se sentait très vieille. Elle se tenait dans une chambre mansardée, devant une table bancale, sous une ampoule nue. Elle avait posé devant elle une feuille de papier à lettres, qu'elle avait payée trop cher.
 
 Elle prit la plume. Elle écrivit :
 

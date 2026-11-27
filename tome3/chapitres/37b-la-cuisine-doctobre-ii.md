@@ -1,16 +1,16 @@
-# Chapitre 41 — La cuisine d'octobre (II)
+# Chapitre 43 — La cuisine d'octobre (II)
 
 *(premier jet)*
 
-Le lendemain soir, il revint, comme promis, et il y avait un second couvert sur la table.
+Il revint le lendemain soir, comme promis, et il y avait un second couvert sur la table.
 
-Ce n'était pas pour lui. Il le comprit en entrant. Élise avait mis quatre assiettes, quatre verres, et, au bout, devant la chaise du fond, un petit napperon de lin que l'on n'étalait jamais. Noé, debout contre l'évier, essuyait un plat qui n'en avait pas besoin. Il dit, sans se retourner :
+Ce n'était pas pour lui. Il le comprit en entrant. Élise, dans le corps de Sophia, avait mis quatre assiettes, quatre verres, et, au bout, devant la chaise du fond, un petit napperon de lin que l'on n'étalait jamais. Noé, dans le corps d'Étienne, debout contre l'évier, essuyait un plat qui n'en avait pas besoin. Il dit, sans se retourner :
 
 — On a quelqu'un d'autre.
 
 — Qui ?
 
-— Il vous ressemble, dit Élise.
+— Il vous ressemble, dit Élise. Il a votre façon de se taire.
 
 Kerr resta sur le seuil. Il avait apporté du pain, une bouteille, un petit bouquet de bruyère cueilli au bord de la route. Il ne savait plus où poser les mains. Il dit :
 
@@ -28,7 +28,7 @@ La porte du salon était entrouverte. Il la poussa.
 
 ---
 
-Il était assis dans le fauteuil de cuir, près de la cheminée, une tasse de thé froid sur le genou. Il portait un pull gris, usé aux coudes. Il avait trente ans de visage et des mains plus vieilles. Il regardait le feu. Il ne se retourna pas.
+Il était assis dans le fauteuil de cuir, près de la cheminée, une tasse de thé froid sur le genou. Il portait un pull gris, usé aux coudes, emprunté à quelqu'un. Il avait trente ans de visage et des mains plus vieilles : un hôte de passage, qu'on ne nommerait pas. Il regardait le feu. Il ne se retourna pas.
 
 Kerr l'avait vu mille fois, dans les carnets, dans les rêves, dans le miroir. Il le voyait pour la première fois.
 

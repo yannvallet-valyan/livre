@@ -1,62 +1,56 @@
-# Chapitre 40 — La cuisine d'octobre
+# Chapitre 42 — La cuisine d'octobre
 
 *(premier jet)*
 
-Il arriva dans la cuisine d'Étienne le 15 octobre 2026, à dix-neuf heures vingt, avec un sac de lentilles.
+Il arriva dans la cuisine d'Étienne le 16 octobre 2026, à dix-neuf heures vingt, avec un sac de lentilles, dans le corps du directeur du laboratoire.
 
-Il avait marché depuis la gare. Il avait traversé un village qui ne le reconnaissait pas, entre des maisons aux volets fermés, des jardins mouillés, des chats. Il tenait le sac contre sa poitrine, comme un enfant tient un cartable. Il avait cent soixante-dix ans de vie, dont vingt-trois dans le corps qu'il portait, et ses mains tremblaient.
+C'était le plus étrange des déguisements. Bastien Kerr avait trente-cinq ans, un sourire de publicité, un costume anthracite que Kerr n'aurait jamais choisi, et une politesse qui ressemblait à de l'absence. Tout le village le connaissait pour l'homme de Léthé, celui qui perdait ses clés, qui descendait la nuit près des bacs. Personne ne s'étonnerait de le voir marcher sous la pluie, le col relevé, un sac de papier brun serré contre la poitrine.
 
-La porte n'était pas fermée. Il savait qu'elle ne le serait pas. Il le savait des carnets, du sien, de ceux des autres, de la page où Sacha avait écrit, en 2026, d'une écriture si semblable à la sienne : *Il laisse la porte ouverte. Il dit qu'on n'a jamais volé chez lui.* Il poussa le battant.
+La porte n'était pas fermée. Il savait qu'elle ne le serait pas. Il le savait des carnets, de la page où Sacha avait écrit, d'une écriture si semblable à la sienne : *Il laisse la porte ouverte. Il dit qu'on n'a jamais volé chez lui.* Il poussa le battant.
 
-La cuisine était vide. Une lampe était allumée au-dessus de la table, un bol de pommes, un journal replié. Il posa le sac. Il enleva son manteau. Il le suspendit au clou, comme on le lui avait appris dans une autre vie. Il alla à l'évier. Il se lava les mains. Il prit la casserole.
+La cuisine était vide. Une lampe brûlait au-dessus de la table, un bol de pommes, un journal replié, un stylo plume capuchonné. Il posa le sac. Il ôta son manteau. Il le suspendit au clou, comme on le lui avait appris dans une autre vie. Il alla à l'évier, se lava les mains, prit la casserole.
 
-Il fit ce que fait un homme qui prépare un dîner pour des gens qu'il aime : il lava les lentilles, il coupa un oignon, il éplucha une carotte. Il le fit très lentement. Il s'appliquait. Il pensait : *je ne suis pas invité.* Il pensait : *ils vont rentrer.* Il pensait : *ils ne savent pas que je suis ici.* Il pensait : *c'est la dernière fois que je leur épargne.*
+Il fit ce que fait un homme qui prépare un dîner pour des gens qu'il aime : il lava les lentilles, coupa un oignon, éplucha une carotte. Il le fit très lentement. Il pensait : *je ne suis pas invité.* Il pensait : *ils vont rentrer.* Il pensait : *ils ne savent pas encore que c'est moi qu'ils vont trouver.*
 
-Le feu prit. L'eau frémit. Une odeur monta, d'ail, de thym, de laurier. Il resta debout, devant la casserole, la cuillère à la main, les yeux fermés.
-
-Il était heureux. Il ne se l'avouait pas.
+L'eau frémit. Une odeur monta, d'ail, de thym, de cumin. Il avait cherché pendant des semaines comment s'y prendre, et il n'avait trouvé que cela : des lentilles, au cumin, trop salées, comme il l'avait lu. Il leva la cuillère. Il goûta. Il rajouta du sel. Il sourit, malgré lui, de ce sourire de publicité qui n'était pas le sien, et qui, cette fois, allait à la bouche.
 
 ---
 
 Ils rentrèrent à vingt heures dix.
 
-Il entendit d'abord la voiture, sur le gravier. Une portière. Des voix : celle d'Élise, plus aiguë que sur les enregistrements ; celle de Noé, très calme, un peu rauque. Une phrase en passant : « Il a dit qu'il passerait. » « Qui ? » « Lui. » « Ah. » Un rire.
+Il entendit d'abord la voiture, sur le gravier. Une portière. Des voix : celle de Sophia, sèche, pressée ; celle d'Étienne, plus lente, un peu rauque. Ce n'étaient pas eux. Il le savait. C'étaient des corps qui portaient des visiteurs, et qui, depuis quelques jours, avaient appris à ne plus s'en défendre. La femme qui parlait avait trente-sept ans, la cicatrice en anneau au pouce gauche et une manière de croiser les bras. Mais c'était une archiviste de 2137 qui disait : « Il a dit qu'il passerait. » C'était un historien de 2137 qui répondait, d'un ton plat : « Alors on le laissera passer. »
 
 Ils entrèrent. Ils s'arrêtèrent sur le seuil.
 
-Élise portait un grand manteau rouge. Elle avait les cheveux défaits, une écharpe de laine, les joues rosies par le froid. Elle tenait un sac de courses. Elle regarda l'homme debout devant le fourneau, de dos, la cuillère à la main. Elle ne cria pas. Elle ne bougea pas. Elle dit, simplement :
+Élise ne cria pas. Elle regarda le costume anthracite, devant le fourneau, de dos, la cuillère à la main. Elle dit, simplement :
 
 — Il y a quelqu'un chez nous.
 
-Noé posa la main sur son épaule. Il regarda l'homme. Il le regarda longtemps, d'un regard sans peur, très attentif, comme on regarde une carte. Il dit :
+Noé posa la main sur son épaule. Il regarda l'homme. Il le regarda longtemps, d'un regard sans peur, comme on regarde une carte. Il dit :
 
-— Il fait la soupe.
+— C'est le directeur.
 
 — Je vois bien.
 
-— Il fait des lentilles, dit Noé.
+— Il fait des lentilles.
 
 Kerr se retourna.
 
-Il vit leurs visages. Il vit deux jeunes gens de vingt-quatre ans, dans leur cuisine, qui ne savaient rien. Il vit l'inquiétude d'Élise, la méfiance polie de Noé, la façon dont ils se tenaient serrés l'un contre l'autre, sur le seuil, comme deux enfants devant un grand chien. Il pensa à ce qu'il avait lu, à ce qu'il savait d'eux, à ce qu'ils deviendraient : une femme qui resterait, un homme qui comprendrait. Il pensa : *ce sont eux, mes parents.* Pas ceux de son corps, ni ceux de son sang. Les autres.
+Il vit leurs visages. Il vit deux étrangers dans des corps empruntés, qui ne savaient pas encore ce qu'ils étaient l'un pour l'autre ni pour lui. Il vit la méfiance polie de l'homme, l'inquiétude de la femme, la façon dont ils se tenaient serrés, sur le seuil, comme deux enfants devant un grand chien. Il pensa : *ce sont eux, mes parents.* Pas ceux de son corps, ni ceux de son sang. Les autres.
 
-Les mots lui manquèrent. Il dit, d'une voix qui ne ressemblait pas à la sienne :
+Les mots lui manquèrent. Il dit, d'une voix qui ne ressemblait pas à celle de Bastien :
 
 — Je ne voulais pas vous faire peur.
 
-— Qui êtes-vous ? dit Élise.
+— Qui êtes-vous ? dit Élise. Vraiment.
 
 — Je m'appelle Kerr.
 
-— Qu'est-ce que vous faites ici ?
+— On le sait, dit Noé. C'est écrit sur votre badge.
 
-— Je fais à dîner.
+— Pas ce Kerr-là, dit Kerr. L'autre.
 
-— Pourquoi ?
-
-— Parce que je n'ai jamais pu le faire pour vous, répondit Kerr.
-
-Il y eut un silence. Noé posa le sac de courses sur le sol, très lentement. Il avança d'un pas. Il dit :
+Il y eut un silence. Dehors, le vent arracha une poignée de feuilles au tilleul. Noé fit un pas. Il dit :
 
 — Je crois que vous devriez nous expliquer.
 
@@ -66,15 +60,15 @@ Il y eut un silence. Noé posa le sac de courses sur le sol, très lentement. Il
 
 — Oui.
 
-— Asseyez-vous, dit Noé.
+— Asseyez-vous, dit Noé. Pas près du feu. Près de moi.
 
 ---
 
 Il leur raconta.
 
-Il ne sut pas comment. Il commença par la fin, comme font les gens troublés : « Je vous dois la vie. » Puis il recula. Il parla du lac, du refuge, des cahiers. Il parla d'un homme appelé Sacha, qui s'était fait une fois passer pour le père d'un enfant qui n'était pas le sien. Il parla de la Rouille, du cristal, des tours. Il avoua qu'il en était à sa quarante-septième. Il avoua que, cette fois, il voulait faire autrement.
+Il ne sut pas comment. Il commença par la fin, comme font les gens troublés : « Je vous dois la vie. » Puis il recula. Il parla du lac, du refuge, des cahiers, d'un petit garçon qu'une femme avait quitté un soir de novembre. Il parla de la Rouille, du cristal, des tours. Il avoua qu'il en était à sa quarante-septième, et qu'il ne l'avait jamais dit à personne.
 
-Ils l'écoutèrent sans l'interrompre. Élise, le menton dans les mains, ne le quittait pas des yeux. Noé tenait une cuiller qu'il retournait entre ses doigts. Aucun des deux ne dit un mot, pendant trois quarts d'heure, sauf, une fois, Élise :
+Ils l'écoutèrent sans l'interrompre. Élise, le menton dans les mains, ne le quittait pas des yeux. Noé tenait une cuiller qu'il retournait entre le pouce et le majeur. Ni l'un ni l'autre ne dit un mot pendant trois quarts d'heure, sauf, une fois, Élise :
 
 — Vous dites que vous êtes notre fils.
 
@@ -82,7 +76,7 @@ Ils l'écoutèrent sans l'interrompre. Élise, le menton dans les mains, ne le q
 
 — Alors quoi ?
 
-— Je suis ce que vous avez fait de ceux qui sont venus après, dit Kerr. Je suis l'enfant d'une autre femme et d'un autre homme. Mais vous êtes ceux qui m'ont appris à ne pas partir sans dire au revoir.
+— Je suis ce qu'ont fait de vous ceux qui sont venus après. Je suis l'enfant d'une autre femme et d'un autre homme, que vous connaîtrez. Mais vous êtes ceux qui m'ont appris à ne pas partir sans dire au revoir.
 
 — Je ne comprends pas, dit Élise.
 
@@ -90,47 +84,39 @@ Ils l'écoutèrent sans l'interrompre. Élise, le menton dans les mains, ne le q
 
 — Je sais.
 
-— Alors pourquoi vous nous dites ça ?
+— Alors pourquoi nous le dire ?
 
 — Parce que vous allez devoir décider quelque chose, dit Kerr. Bientôt. Et je veux que vous le décidiez en le sachant.
 
 — Décider quoi ?
 
-Il ne répondit pas tout de suite. Il regarda la casserole, qui frémissait. Il regarda le feu. Il dit :
+Il regarda la casserole. Il regarda le feu. Il dit :
 
 — Si vous voulez que cela s'arrête.
 
-Noé reposa la cuiller. Il y eut un silence très long. Dans la cuisine, la vapeur montait, et l'on entendit, dehors, le vent sur les tuiles. Élise dit, d'une voix rauque :
+Noé reposa la cuiller. La vapeur montait. Élise dit, d'une voix rauque :
 
 — C'est possible ?
 
-— Je ne sais pas.
-
-— Vous ne savez pas ?
-
-— J'ai passé quarante-sept vies à essayer, dit Kerr. Je n'ai pas encore trouvé. Mais c'est la première fois que je vous le demande. C'est la première fois que je vous le dis.
+— Je ne sais pas. J'ai passé quarante-sept vies à essayer. Mais c'est la première fois que je vous le demande. Que je vous le dis.
 
 — Pourquoi maintenant ?
 
-— Parce que j'ai appris, dit Kerr. Quelque chose. Tout à l'heure, en faisant les lentilles.
-
-— Quoi ?
-
-— Qu'on ne peut pas sauver quelqu'un qui ne sait pas.
+— Parce que j'ai appris, dit Kerr, en faisant les lentilles, qu'on ne peut pas sauver quelqu'un qui ne sait pas.
 
 ---
 
 Ils dînèrent.
 
-Cela n'était pas prévu. Noé se leva, mit le couvert, trois assiettes, trois verres. Élise coupa le pain. Ils s'assirent sans se parler, comme des gens qui ont besoin de gestes. Kerr servit les lentilles. Elles étaient un peu trop salées. Il le sut dès la première bouchée. Il dit : « Pardon. » Élise le regarda. Elle dit : « Elles sont très bonnes. »
+Cela n'était pas prévu. Noé se leva, mit le couvert, trois assiettes, trois verres. Élise coupa le pain. Ils s'assirent sans se parler, comme des gens qui ont besoin de gestes. Kerr servit. Les lentilles étaient trop salées. Il le sut dès la première bouchée. Il dit : « Pardon. » Noé leva les yeux. Il eut un petit rire, très bref, presque effrayé. Il dit : « Elles sont très bonnes. »
 
 C'était faux. Ils les mangèrent toutes.
 
-Il y eut des silences. Il y eut des questions, par bribes. Noé demanda : « Est-ce que vous avez été heureux ? » Kerr répondit : « Par moments. » Noé demanda : « Quand ? » Kerr dit : « Au mariage d'un ami. Dans une cuisine. Sous la pluie. » Noé sourit. Il dit : « C'est déjà beaucoup. »
+Il y eut des silences. Noé demanda : « Est-ce que vous avez été heureux ? » Kerr dit : « Par moments. » — « Quand ? » — « Au mariage d'un ami. Sous la pluie. » Noé sourit. Il dit : « C'est déjà beaucoup. »
 
-Élise ne disait rien. Elle regardait Kerr. Elle finit par poser la fourchette. Elle dit :
+Élise ne disait rien. Elle regardait le front de l'homme, ses sourcils, la façon dont il tenait sa fourchette. Elle finit par poser la sienne.
 
-— Vous avez le front de quelqu'un que je connais.
+— Vous avez les yeux de quelqu'un que je connais.
 
 — Qui ?
 
@@ -140,7 +126,7 @@ Il y eut des silences. Il y eut des questions, par bribes. Noé demanda : « Est
 
 — Quand ?
 
-— Dans un mois, dit Kerr. À neuf heures quarante.
+— Quand elle naîtra, dit Kerr.
 
 Elle ne demanda pas ce que cela voulait dire. Elle posa sa main sur la table, à côté de la sienne, sans la toucher. Il sentit la chaleur.
 
@@ -148,13 +134,9 @@ Elle ne demanda pas ce que cela voulait dire. Elle posa sa main sur la table, à
 
 — Je ne sais pas.
 
-— Vous pourriez rester dîner demain.
+— Revenez demain.
 
-— Je ne peux pas.
-
-— Alors revenez après.
-
-Il la regarda. Il pensa à une vieille femme qui lui avait appris à lire. Il pensa à un homme qui pleurait devant un bac. Il pensa à tous ceux qu'il avait laissés. Il dit, d'une voix très douce :
+Il la regarda. Il pensa à une vieille femme qui lui avait appris à lire. Il pensa à tous ceux qu'il avait laissés. Il dit, très doucement :
 
 — Je reviendrai, si vous me le demandez.
 
@@ -162,12 +144,10 @@ Il la regarda. Il pensa à une vieille femme qui lui avait appris à lire. Il pe
 
 — Alors je reviendrai.
 
-C'était une promesse. Il le savait. Il savait aussi qu'il ne pourrait pas la tenir telle qu'elle était dite. Mais il savait, pour la première fois, qu'on peut tenir une promesse autrement qu'à la lettre : en changeant ce qui suit.
+C'était une promesse. Il savait qu'il ne pourrait pas la tenir à la lettre. Il savait aussi, pour la première fois, qu'on peut tenir une promesse autrement : en changeant ce qui suit.
 
-Il se leva. Il fit la vaisselle. Il ne les laissa pas l'aider.
+Il fit la vaisselle. Ils ne le laissèrent pas partir sans lui serrer la main.
 
-Quand il partit, à onze heures, Élise l'embrassa sur la joue, sans rien dire. Noé lui serra la main, longuement.
-
-Il marcha dans la nuit, vers la gare. Il pleurait. Il riait aussi. Il se disait, sans savoir à qui : *ils m'ont pris pour un fou.*
+Il marcha dans la nuit, sous la pluie, jusqu'à la voiture du directeur. Il pleurait. Il riait aussi. Il se disait, sans savoir à qui : *ils m'ont pris pour un fou.*
 
 Il se disait : *ils m'ont laissé revenir.*

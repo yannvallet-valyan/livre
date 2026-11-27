@@ -1,36 +1,34 @@
-# Chapitre 45 — Pas encore
+# Chapitre 49 — Pas encore
 
 *(premier jet)*
 
 Il y eut un dernier jour, que personne ne se rappela.
 
-C'était le 14 novembre 2026, à partir de dix heures. Après le cristal, après les deux Iris, après la rupture, il avait quitté la salle sans qu'on le remarque. Il avait marché dans les couloirs vides du lycée, passé devant les vitrines, les casiers, les affiches. Il était sorti par la porte de service. Il s'était assis sur un muret, dans la cour, devant un tilleul nu.
+C'était l'après-midi du 14 novembre 2026. Après le coulis, après le cristal, après les deux Iris, il avait quitté la galerie sans qu'on le remarque. Il avait remonté l'escalier de fer, traversé le hall, passé devant les vitrines, les casiers, les affiches du laboratoire. Il avait quitté la voiture du directeur, au parking, pour marcher. Il s'était assis sur un muret, devant la grille, sous un tilleul nu.
 
-Il avait quarante-quatre ans de vie dans un corps de vingt-trois. Il se sentait extraordinairement léger.
+Il avait trente-cinq ans dans un corps qui n'était pas le sien, et quarante-quatre dans sa tête. Il se sentait extraordinairement léger.
 
-Il resta là une heure, peut-être deux, à regarder les pigeons. Le temps avait changé : un soleil pâle, sans chaleur, filtrait entre les nuages. Les élèves sortaient de cours, par grappes, en riant, en criant, en se bousculant. Ils passaient devant lui sans le voir, comme on passe devant un banc. Il les regardait vivre. Il se disait : *ils sont si vivants.* Il se disait : *ils ne savent pas.* Il se disait : *c'est très bien.*
+Il resta là une heure, peut-être deux, à regarder les pigeons. Le temps avait changé : un soleil pâle, sans chaleur, filtrait entre les nuages. Les gens du village passaient, par grappes, en parlant du coulis, de l'arrêté, de la fin du labo. Ils le saluaient sans le voir vraiment : « Monsieur le directeur. » Il répondait d'un signe. Il les regardait vivre. Il se disait : *ils sont si vivants.* Il se disait : *ils ne savent pas.* Il se disait : *c'est très bien.*
 
 Une voix l'appela.
 
 — Monsieur ?
 
-Il leva la tête. C'était un garçon d'une dizaine d'années, mince, brun, les cheveux dans les yeux, une écharpe rouge. Il se tenait à deux pas, les mains derrière le dos. Il avait, sur le front, une petite cicatrice blanche. Kerr le reconnut avant qu'il parle.
+Il leva la tête. C'était un jeune homme d'une vingtaine d'années, grand, mince, brun, les cheveux dans les yeux, une écharpe rouge. Il se tenait à deux pas, les mains dans les poches de son blouson, avec cette gaucherie des garçons qui ont grandi trop vite. Il avait les yeux de quelqu'un qui a longtemps marché dans son sommeil.
 
-— Tu es perdu ?
+Kerr le reconnut avant qu'il parle.
 
-— Non. Je cherche ma sœur.
+— Vous êtes perdu ? dit le jeune homme.
 
-— Elle est où ?
+— Non.
 
-— Je ne sais pas. Elle est grande. Elle s'appelle Iris.
+— Je cherche mon père. Il est médecin. Étienne Marle.
 
-Kerr sentit son cœur se serrer. Il dit, d'une voix très égale :
+— Je l'ai vu tout à l'heure, dit Kerr. Il est avec… des collègues, près de la galerie.
 
-— Je l'ai vue tout à l'heure. Elle est avec ta mère.
+— Ah, dit Hugo. Merci.
 
-— Ah, dit le garçon. Merci.
-
-Il ne partit pas. Il resta debout, à regarder Kerr avec une attention intense, enfantine, un peu insolente. Il demanda :
+Il ne partit pas. Il regardait Kerr avec une attention intense, un peu insolente, que lui connaissaient tous ceux qui l'avaient pris pour un gamin. Il demanda :
 
 — Vous pleurez ?
 
@@ -42,7 +40,7 @@ Il ne partit pas. Il resta debout, à regarder Kerr avec une attention intense, 
 
 — Il n'y a pas de vent.
 
-Kerr sourit malgré lui. Il se pencha. Il dit :
+Kerr sourit malgré lui. Il dit :
 
 — Tu es observateur.
 
@@ -50,49 +48,37 @@ Kerr sourit malgré lui. Il se pencha. Il dit :
 
 — C'est une qualité.
 
-— Ma sœur dit que c'est un défaut.
+— Mon père dit que c'est un défaut. Que je vois trop.
 
-— Elle a peut-être raison. Mais c'est aussi une chance.
+— Il a peut-être raison. Mais c'est aussi une chance.
 
-Le garçon réfléchit. Il tira de sa poche un morceau de craie, qu'il fit rouler entre ses doigts. Il dit :
+Hugo réfléchit. Il tira de sa poche un morceau de craie, qu'il fit rouler entre ses doigts. Il dit :
 
-— Je peux vous dire un secret ?
+— Je dors mal depuis une semaine. Je me suis levé, une nuit, et j'ai marché jusqu'au lac. Un homme m'a retenu.
 
-— Si tu veux.
+— Un homme ?
 
-— J'ai vu un monsieur, tout à l'heure. Dans le couloir. Il avait un sac de lentilles.
+— Un ami de mon père. Il n'a pas voulu me dire pourquoi il était là. Après, je me suis demandé s'il n'y en avait pas un autre, derrière. Quelqu'un qui regardait.
 
-— Ah ?
+— Tu l'as vu ?
 
-— Il m'a souri. Il a dit : « Tu as de beaux yeux. » Je lui ai dit merci. Après, il a disparu.
+— Non. Mais j'ai senti qu'il était triste. Pas méchant. Triste.
 
-— Ce n'est pas poli de disparaître.
-
-— C'est ce que j'ai pensé.
-
-— Tu l'as trouvé comment ?
-
-— Triste, dit le garçon. Mais pas méchant.
-
-Il ne dit rien de plus. Il glissa la craie dans la main de Kerr, d'un geste vif, comme on remet un objet précieux. Il dit : « Gardez-la. Ça porte bonheur. » Il s'éloigna en courant, son écharpe rouge flottant derrière lui.
+Il tendit la craie à Kerr, d'un geste vif, comme on remet un objet précieux. Il dit : « Gardez-la. Ça porte bonheur. » Il s'éloigna d'un pas rapide, son écharpe rouge flottant derrière lui.
 
 Kerr regarda la craie. Elle était blanche, ébréchée, tiède. Il la serra dans son poing.
 
-C'était Hugo. Le petit frère d'Iris. Il avait dix ans. Il avait déjà, dans le regard, cette façon de poser la main sur l'épaule des gens qui lui servirait toute sa vie.
-
-*Je ne l'ai pas connu,* pensa Kerr. *Je ne le connaîtrai jamais. Et il m'a donné une craie.*
+C'était Hugo Marle, le fils d'Étienne. Il avait dix-neuf ans, des yeux de Claire, une façon de poser la main sur l'épaule des gens qui lui servirait toute sa vie. Il serait l'ancêtre d'un homme que Kerr connaissait par cœur. *Je ne l'ai pas connu,* pensa-t-il. *Je ne le connaîtrai jamais. Et il m'a donné une craie.*
 
 ---
 
 Il finit la journée devant le lac.
 
-Il y alla à pied, par la route de la forêt, en trois heures de marche lente. Il aimait cela, marcher, quand rien ne pressait. Il traversa des champs en jachère, des bois dépouillés, un hameau muet, une voie ferrée désaffectée. Il croisa un cheval, qui le regarda passer. Il croisa une vieille, qui lui dit : « Bonjour, jeune homme. » Il répondit : « Bonjour, madame. »
+Il y alla à pied, en trois heures de marche lente. Il aimait cela, marcher, quand rien ne pressait. Il traversa des champs en jachère, des bois dépouillés, un hameau muet, une voie ferrée désaffectée. Il croisa un cheval, qui le regarda passer. Il croisa une vieille, qui lui dit : « Bonjour, monsieur. » Il répondit : « Bonjour, madame. »
 
 Il arriva au bord de l'eau vers seize heures.
 
-Le lac était gris, immobile, sans une ride. Une brume légère flottait au ras de la surface. Sur la rive opposée, les arbres se confondaient avec le ciel. Il n'y avait pas un bruit.
-
-Il s'assit sur la berge, sur une pierre plate. Il sortit de sa poche son carnet de toile. Il l'ouvrit à la dernière page écrite. Il lut, de sa propre écriture : *Je me souviendrai de l'oiseau. Je ne me souviendrai pas du reste.* Il sourit. Il tourna la page.
+Le lac était gris, immobile, sans une ride. Une brume légère flottait au ras de la surface. Il s'assit sur la berge, sur une pierre plate. Il sortit de sa poche son carnet de toile. Il l'ouvrit à la dernière page écrite. Il lut, de sa propre écriture : *Je me souviendrai de l'oiseau. Je ne me souviendrai pas du reste.* Il sourit. Il tourna la page.
 
 Il écrivit, très lentement, avec son crayon, entre le pouce et le majeur :
 
@@ -102,7 +88,7 @@ Il écrivit, très lentement, avec son crayon, entre le pouce et le majeur :
 
 *Je n'ai rien à leur pardonner.*
 
-Il s'arrêta. Il regarda l'eau. Il pensa à Sacha, qui, dans trois semaines, entrerait dans ce même lac, avec une pierre dans la poche, pour s'effacer. Il pensa à une pierre blanche. Il pensa à une phrase écrite sur un bout de papier : *Pardon. Je ne pouvais pas faire autrement.*
+Il s'arrêta. Il regarda l'eau. Il pensa à Sacha, qui, quarante ans plus tard, entrerait dans un autre lac, avec une pierre dans la poche. Il pensa à un papier laissé sur une berge : *Pardon. Je ne pouvais pas faire autrement. Compte.*
 
 Il écrivit encore :
 
@@ -110,17 +96,15 @@ Il écrivit encore :
 
 *Pas encore.*
 
-Il referma le carnet. Il le glissa dans sa poche. Il se leva. Il resta un moment debout, face au lac, les mains dans le dos, comme il l'avait vu faire à un homme dont il ne se souvenait plus qu'il l'avait aimé.
+Il referma le carnet. Il se leva. Il resta un moment debout, face au lac, les mains dans le dos, comme il l'avait vu faire à un homme dont il ne se souvenait plus qu'il l'avait aimé.
 
 Il dit, tout haut, dans le silence :
 
 — À bientôt.
 
-Personne ne répondit. Le lac ne bougea pas. Mais il y eut, très loin, de l'autre côté de l'eau, un oiseau qui chanta trois notes, comme pour dire oui.
+Personne ne répondit. Mais il y eut, très loin, de l'autre côté de l'eau, un oiseau qui chanta trois notes, comme pour dire oui.
 
-Il repartit.
-
-Il savait où il allait. Il savait qu'il y avait, quelque part, une autre cuisine, un autre feu, une autre table. Il savait qu'il lui restait un dîner à tenir, des lentilles à saler, des visages à regarder en face. Il savait qu'il devrait, un jour, dire à un homme au crayon qu'il n'était pas son fils.
+Il repartit. Il savait où il allait. Il savait qu'il y avait, quelque part, une autre cuisine, un autre feu, une autre table. Il savait qu'il lui restait un dîner à tenir, des lentilles à saler, des visages à regarder en face. Il savait qu'il devrait, un jour, dire à un homme au crayon qu'il n'était pas son fils.
 
 Il se dit : *pas encore.*
 

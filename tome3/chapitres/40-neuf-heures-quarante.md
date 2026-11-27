@@ -1,46 +1,58 @@
-# Chapitre 44 — Neuf heures quarante
+# Chapitre 48 — Neuf heures quarante
 
 *(premier jet)*
 
-Ce matin-là, il y eut deux Iris dans la même pièce, et le monde ne s'arrêta pas.
+À neuf heures quarante, le 14 novembre 2026, il y eut deux Iris dans le même cristal, et un seul homme pour le voir.
 
-C'était le 14 novembre 2026, à neuf heures trente-huit. Le ciel, au-dessus de la salle du cristal, était d'un blanc de lait. On avait ouvert les volets. La lumière entrait, longue, plate, sans ombre. Le cristal dormait dans son socle, sous une cloche de verre, comme un cœur dans un bocal.
+Il était assis sur une marche de l'escalier de fer, dans le corps du directeur, un téléphone à la main, sans appeler personne. Le bruit des pompes était assourdissant. Les tuyaux serpentaient sur le béton comme des intestins. Le coulis gris, derrière le coffrage, montait centimètre par centimètre. Il regardait cela avec une espèce de soulagement : celui d'un homme qui voit s'effacer un lieu où il a mal rêvé. C'était ce que les gens verraient. C'était ce qu'il laisserait voir.
 
-Kerr se tenait près de la porte.
+Il s'était assis là à neuf heures trente-cinq. Il avait posé le téléphone sur son genou. Il avait fermé les yeux.
 
-Il n'avait pas le droit d'être là. Il y était. Il portait la veste grise des gardiens, empruntée à un casier. Il avait une clé, qu'il avait copiée un mois plus tôt sur celle de Bastien. Il se tenait contre le mur, à l'écart, les mains jointes derrière le dos, comme à l'église. Il n'avait pas été vu. Il n'avait pas voulu l'être.
+*Neuf heures quarante,* disait le carnet. *Elles sont deux. Elles se regardent.*
 
-Il regarda les autres entrer.
-
-Il y eut d'abord Sophia, très pâle, en manteau noir, un mouchoir à la main. Elle marchait la tête haute, mais ses lèvres tremblaient. Elle avait tant pleuré qu'il ne lui restait plus de larmes. Derrière elle, Étienne, qui lui tenait le bras, comme on tient celui d'une malade. Il avait vieilli de dix ans depuis septembre. Puis Élise, qui ne regardait personne. Puis Noé, qui regardait tout.
-
-Puis Iris.
-
-Elle entra la dernière. Elle était petite, brune, vêtue de gris, avec un grain de beauté au coin de l'œil. Elle avait les mains dans les poches. Elle s'arrêta sur le seuil. Elle regarda le cristal. Elle ne dit rien.
-
-Il avait attendu cela toute sa vie.
+Il l'avait lu cent fois. Il avait cru qu'il serait prêt.
 
 ---
 
-Il y avait deux Iris, et ce n'était pas une erreur.
+Ce fut d'abord un goût de métal, au fond de la bouche. Puis la sensation que l'escalier, sous lui, devenait plus lent. Les bruits s'étirèrent, se fondirent. Il vit les hommes en combinaison orange comme à travers de l'eau. Il vit, au pied de la brèche, Sophia, appuyée contre le mur, qui pâlissait.
 
-Il les vit l'une après l'autre, ou plutôt en même temps. Il vit l'Iris du passé, la fille de Sophia, la lycéenne de dix-sept ans, qui avait écrit sur un cahier : *Pardon.* Elle se tenait près de la fenêtre, appuyée au mur, très droite, très raide, une boule de tristesse au creux du ventre. Il vit l'Iris du présent, la femme qui était venue de 2130, qui avait renoncé à son temps, qui portait son secret comme une pierre dans la poche. Elle se tenait près du socle.
+Il ne la vit pas longtemps. Un autre lieu s'ouvrait en lui.
 
-Elles ne se ressemblaient pas, malgré le grain de beauté, malgré le front. L'une avait le regard d'une enfant ; l'autre, celui de quelqu'un qui a traversé quelque chose. Elles se regardèrent. Elles ne se parlèrent pas.
+C'était une salle sans murs, d'un blanc de lait. Il n'y avait ni sol ni plafond, seulement une lumière uniforme et, au centre, posé sur rien, un bloc de verre rouge, taillé en pointe. Le cristal. Il le connaissait. Il l'avait vu en rêve. Il l'avait vu sous la forme d'une voix. Il l'avait vu, une fois, à travers les yeux d'un autre.
 
-Kerr retint son souffle.
+Il y avait deux femmes devant le cristal.
 
-Il avait lu cette scène cent fois. Il l'avait lue dans le carnet de Sacha, d'une écriture tremblée : *Neuf heures quarante. Elles sont deux. Elles se regardent. Je comprends que je ne peux plus rien.* Il l'avait lue dans le sien, mot pour mot, à une autre date. Il savait ce qui allait venir. Il le connaissait comme on connaît un chemin qu'on a fait en rêve.
+La première était petite, brune, vêtue de gris, un grain de beauté au coin de la paupière gauche. Elle avait trente-quatre ans, et le visage de quelqu'un qui a traversé quelque chose. Elle tenait dans sa main une craie. Elle se tenait droite, calme, les yeux fixés sur l'autre.
 
-Il savait que l'Iris du passé allait dire : « Sacha. »
+L'autre lui ressemblait, et ne lui ressemblait pas. Elle avait le même front trop grand, la même courbe de bouche. Mais ses cheveux étaient longs, noirs, attachés d'un ruban. Elle paraissait plus jeune, plus fragile. Elle serrait ses bras contre elle, comme quelqu'un qui a froid. Elle regardait la première avec une expression stupéfaite, pleine d'une peur qu'elle ne comprenait pas.
 
-Il savait qu'elle ne le dirait pas à voix haute.
+Kerr s'arrêta. Il n'avait pas besoin de bouger : il était là, sans corps, spectateur invisible, appuyé à rien.
 
-— Sacha, murmura-t-elle.
+La plus âgée parla la première.
 
-Il n'y avait personne pour l'entendre. Seul Kerr, qui n'était pas là. Il entendit le nom, sur les lèvres de la jeune fille, dans le silence. Il sentit sous ses côtes une brûlure. Il pensa : *elle l'aimait.* Il pensa : *elle l'aimera.* Il pensa : *je suis ce qui vient de cela.*
+— Tu ne me connais pas.
 
-L'Iris du présent tourna la tête. Elle la regarda. Elle dit, de sa voix basse, calme :
+— Non, dit l'autre.
+
+— Moi, je te connais.
+
+— Vous êtes qui ?
+
+— Quelqu'un qui est passé avant toi.
+
+La plus jeune ne répondit pas. Elle regarda le cristal. Elle dit, très bas :
+
+— Il y a un nom.
+
+— Lequel ?
+
+— Je ne sais pas. Il me vient. Un nom d'homme. C'est…
+
+Elle s'arrêta. Elle porta les doigts à sa bouche, comme pour retenir un mot. Elle dit :
+
+— Sacha.
+
+Kerr sentit son cœur se serrer. Il ne put pas savoir si c'était le sien. L'Iris du présent hocha la tête, lentement. Elle dit :
 
 — Garde-le.
 
@@ -50,29 +62,25 @@ L'Iris du présent tourna la tête. Elle la regarda. Elle dit, de sa voix basse,
 
 — Je n'ai rien senti.
 
-— Si, dit l'Iris du présent. C'est écrit sur ton visage.
+— Si, dit l'Iris du présent. Il y a, dans ton visage, quelqu'un.
 
-La plus jeune baissa les yeux. Elle ne répondit pas. L'autre s'approcha, d'un pas. Elle prit sa main, dans la sienne, et la serra. Le geste ne dura qu'une seconde. Il suffit.
+Elle tendit la main. L'autre hésita. Elle la prit. Le geste ne dura qu'une seconde. Il suffit.
 
 ---
 
-Le cristal s'alluma à neuf heures quarante.
+Le cristal s'alluma d'un rouge sombre, comme un charbon qu'on souffle.
 
-Il commença par un point, au fond, très petit, d'un rouge sombre, comme un charbon qu'on souffle. Il grandit. Il pulsa. La lumière rougeâtre se répandit sur les murs, sur les visages. Quelqu'un poussa un cri. Quelqu'un ferma les yeux. Quelqu'un récita, tout bas, une prière.
+Il pulsait. Une lumière rougeâtre se répandit sur les deux visages. Kerr, de son poste d'invisible, sentit sous ses pieds, qu'il n'avait pas, un tremblement lent, venu des profondeurs. Une présence. Un grondement très ancien, qui n'était pas un bruit.
 
-Kerr sentit le sol bouger.
-
-Il connaissait la sensation, pour l'avoir éprouvée à Paris en 1958, dans un autre corps, derrière une porte. C'était un tremblement lent, venu des profondeurs. Une présence. Un grondement très ancien, qui n'était pas un bruit. Il sentit le temps se plier. Il vit les murs ondoyer comme du tissu.
-
-Il vit les deux Iris se tourner l'une vers l'autre, d'un même mouvement. Elles se prirent la main. Elles ne se regardèrent plus. Elles fixaient le cristal. Il les vit ouvrir la bouche, ensemble.
+Il vit les deux femmes se tourner l'une vers l'autre, d'un même mouvement. Elles ne se regardaient plus. Elles fixaient le cristal. Il les vit ouvrir la bouche, ensemble.
 
 — Un, dit l'une.
 
 — Deux, dit l'autre.
 
-Elles comptaient. Elles ne se concertaient pas. Elles disaient les chiffres alternativement, sans élever la voix, comme on dit un chapelet. Les autres, dans la salle, les regardaient avec stupeur. Kerr, contre le mur, serra les poings.
+Elles comptaient. Elles ne se concertaient pas. Elles disaient les chiffres alternativement, sans élever la voix, comme on dit un chapelet.
 
-*Compte.* C'était le mot. C'était le dernier mot de sa mère, qu'il n'avait jamais entendu de sa bouche. C'était le mot que lui avait laissé Sacha, dans un carnet de toile. C'était le mot qu'il avait écrit sur un caillou blanc, pour une petite fille qui s'appelait Anne.
+Il pensa : *c'est le mot.* C'était le dernier mot de sa mère, qu'il n'avait jamais entendu de sa bouche. C'était le mot que lui avait laissé un homme, dans un carnet de toile. C'était le mot qu'il avait écrit sur un caillou blanc, pour une petite fille qui s'appellerait Anne.
 
 — Cinquante-sept, dirent-elles. Cinquante-huit.
 
@@ -80,7 +88,12 @@ Il compta avec elles, en silence.
 
 — Cinquante-neuf.
 
-Il y eut un silence. Un très long silence, plein, tendu, vibrant. Les deux Iris se regardèrent, enfin. Elles se sourirent. Elles ouvrirent la bouche, ensemble.
+Il y eut un silence, très long, plein, vibrant. Les deux femmes se regardèrent, enfin. Elles se sourirent. Elles chantèrent, d'une seule voix, très doucement, un couplet que Kerr n'avait jamais entendu, et qui lui parut vieux comme lui :
+
+*Dors, mon enfant, dors sans bruit,*
+*je compte pour toi jusqu'à minuit ;*
+*au soixantième, si tu m'entends,*
+*je serai là, comme avant.*
 
 — Soixante, dirent-elles.
 
@@ -90,23 +103,39 @@ Kerr sentit quelque chose se rompre.
 
 Ce ne fut pas un bruit. Ce fut un relâchement, comme un nœud qui cède. Il lui sembla que toute sa vie, depuis l'enfance, il avait porté une charge sur le dos, un poids dont il ne savait pas le nom. Et que, tout à coup, on la lui retirait, par en haut, doucement, avec les doigts.
 
-Il tomba à genoux.
+Les deux femmes se tournèrent vers lui.
 
-Personne ne le vit. Tous les regards étaient fixés sur le cristal, qui s'éteignait, lentement, goutte à goutte, comme une braise qui retombe. Il vit les deux Iris, toujours debout, toujours main dans la main, se tourner vers lui. Elles le regardaient. Elles le voyaient. Elles savaient.
-
-L'une dit, sans bruit, du bout des lèvres :
+Elles le regardaient. Elles le voyaient. Il ne savait pas comment. L'une dit, sans bruit, du bout des lèvres :
 
 *Mon fils.*
 
-L'autre dit :
+L'autre, un instant plus tard, comme une ombre portée :
 
 *Pardonne-nous.*
 
-Il ne put pas répondre. Il leva la main. Il fit un geste très simple, de la paume, comme on dit au revoir. Il voulut dire quelque chose. Il ne trouva pas.
+Il ne put pas répondre. Il leva la main. Il voulut dire quelque chose. Il ne trouva pas.
 
-Il resta là, à genoux, contre le mur, la tête levée, le visage ruisselant. Il vit les deux femmes qui le regardaient. Il vit, derrière elles, une troisième ombre, une silhouette de lumière, qui n'avait pas de visage, mais dont il connaissait la main. Elle se tendait vers lui. Elle l'appelait.
+Quand le goût de métal le quitta, il était toujours assis sur la marche de fer, le téléphone sur son genou. Le bruit était revenu. Les hommes en combinaison s'agitaient. Sophia était assise par terre, au milieu des tuyaux, le visage tourné vers le mur, immobile, souriante, les yeux noyés de larmes.
 
-Il comprit alors une chose, que ni les carnets ni la Rouille ne lui avaient apprise.
+Il l'entendit murmurer, très bas : *merci.*
+
+Il resta là, les mains sur les genoux. Il se rendit compte qu'il pleurait, lui aussi. Quelqu'un lui toucha l'épaule. C'était Ménard, qui dit, d'un ton gêné :
+
+— Monsieur le directeur ? Ça va ?
+
+— Oui, dit Kerr.
+
+— Vous avez l'air…
+
+— Soulagé, dit Kerr. Je le suis.
+
+Il ajouta, après un silence, pour personne :
+
+— Je n'ai jamais aimé descendre ici. Je rêvais mal.
+
+C'était, mot pour mot, la phrase que Sophia entendrait plus tard, et qu'elle croirait n'adresser qu'à elle.
+
+Il comprit, alors, une chose que ni les carnets ni la Rouille ne lui avaient apprise.
 
 Il comprit que ce n'était pas une fin.
 

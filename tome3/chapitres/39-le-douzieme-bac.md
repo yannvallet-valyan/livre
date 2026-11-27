@@ -1,18 +1,18 @@
-# Chapitre 43 — Le douzième bac
+# Chapitre 47 — Le douzième bac
 
 *(premier jet)*
 
-Le 13 novembre 2026, à six heures du matin, il remit l'aiguille à sa place.
+Le 13 novembre 2026, à six heures du matin, il posa l'aiguille dans le douzième bac.
 
-C'était un geste de rien, de ceux que l'on fait sans y penser, avec deux doigts, sous une lampe. Il y avait, dans le laboratoire du lycée, une rangée de bacs de verre, numérotés au feutre, alignés sur un chariot. Le douzième contenait une préparation grise, presque blanche, une pâte de sels qui ne servait plus à personne depuis la fin du semestre. Il se tenait devant, en blouse, les gants aux mains. Il tenait entre le pouce et le majeur une aiguille de cuivre, fine comme un cheveu.
+C'était un geste de rien, de ceux que l'on fait sans y penser, avec deux doigts, sous une lumière violette. Il y avait, dans la salle de culture, au fond de la galerie, une rangée de douze bacs, numérotés au feutre, où la vase rouge avait poussé ses mains. Le douzième était le plus petit. Il y restait un fond de boue grise, abandonné, que personne ne regardait plus. Il se tenait devant, dans le costume du directeur, les mains gantées. Il tenait entre le pouce et le majeur une aiguille rouge, pas plus longue qu'un ongle, qu'il avait prélevée la veille dans le nœud central.
 
-Il n'avait pas dormi.
+Il n'avait pas dormi. Bastien Kerr dormait peu, de toute façon ; c'était l'un des signes qu'on lui connaissait. Il avait passé la nuit sur un lit de camp, dans la salle voisine, à écouter les pompes. Il avait repassé dans sa tête tout ce que disaient les carnets. Le douzième bac. L'aiguille. Un geste qu'il avait vu faire à un autre, dans un autre corps, un matin de novembre, à une autre heure : un homme que tout le monde appelait K., qui avait posé le fragment dans la vase, puis reculé de trois pas, comme devant un autel.
 
-Il avait passé la nuit dans le local des surveillants, sur un matelas de gymnastique, les yeux ouverts, à regarder la lumière d'un lampadaire glisser sur le plafond. Il avait repassé dans sa tête tout ce que disaient les carnets. Le douzième bac. L'aiguille. Un geste qu'il avait vu faire à un autre, dans un autre corps, un matin de novembre : un homme que tout le monde appelait K., qui avait posé le cuivre dans la pâte, puis reculé de trois pas, comme devant un autel.
+Il savait ce qui en découlerait. Il savait que, le lendemain, à neuf heures quarante, une femme de trente-huit ans viendrait vider les bacs avec des gants, en retenant son souffle, et qu'elle trouverait, au fond du plus petit, une aiguille, une seule, couchée dans la vase. Qu'elle la fixerait. Qu'elle la garderait. Qu'une fiole, étiquetée à l'encre bleue, *Vallorce, 14/11/2026*, dormirait quinze ans dans un tiroir, jusqu'à ce qu'une main l'ouvre.
 
-Il savait ce que cela faisait. Il savait ce qui commencerait, à l'instant où la pointe toucherait la préparation : une réaction lente, invisible, qui mettrait trente heures à monter et que rien, ensuite, ne pourrait arrêter. Il savait que c'était l'amorce. Il savait que, sans elle, il n'y aurait pas de neuf heures quarante, pas de cristal allumé, pas d'Iris du passé, pas d'Iris du présent, pas de Kerr.
+Il savait que, sans ce geste, il n'y aurait pas de Rouille B, pas de 2141, pas d'Élise qui part en 2164, pas de page qui arrive en 1980, pas de Conseil, pas de tour. Pas de Kerr.
 
-Il savait aussi que, s'il ne le faisait pas, rien ne se passerait.
+Il savait aussi que s'il ne le faisait pas, rien ne se passerait.
 
 Il resta dix minutes immobile.
 
@@ -20,70 +20,44 @@ Il resta dix minutes immobile.
 
 Il pensa à Sophia.
 
-C'était étrange : il y pensait peu, d'ordinaire. Elle appartenait à une catégorie de personnes qu'il tenait à distance, comme on tient à distance les gens trop aimés. Mais, ce matin-là, devant les bacs, elle s'imposa, avec une netteté cruelle : une femme de quarante-quatre ans en blouse de professeur, qui chantonnait faux en corrigeant des copies, qui laissait des post-it jaunes sur les portes, qui avait, à la lisière des cheveux, trois fils blancs qu'elle refusait de teindre. Elle lui avait parlé, une fois, en septembre, dans un couloir, sans savoir qui il était. Elle lui avait dit : « Vous avez l'air fatigué. Venez prendre un café. »
+C'était étrange : il y pensait peu, d'ordinaire. Elle appartenait à une catégorie de personnes qu'il tenait à distance, comme on tient à distance celles qu'on a trop lues. Mais, ce matin-là, devant les bacs, elle s'imposa, avec une netteté cruelle : une femme de trente-sept ans en blouse d'hydrologue, qui chantonnait faux en classant des fioles, qui écrivait à l'encre bleue, qui avait, à la lisière des cheveux, trois fils blancs qu'elle refusait de teindre. Elle lui avait parlé, une fois, une semaine plus tôt, dans son bureau, quand il lui avait retiré son badge. Elle lui avait dit, d'une voix sèche : « Vous avez l'air fatigué, monsieur Kerr. » Il avait répondu : « Je le suis. » Elle avait ajouté, après un temps : « Vous devriez dormir. » Il n'avait pas osé lui dire que ce n'était pas lui qui dormait.
 
-Il n'avait pas osé.
-
-Il en avait gardé un remords étrange, comme d'une porte qu'on a laissée fermer. Il se disait : *si j'avais accepté…* Il se disait que, peut-être, ce café aurait tout changé. Que, devant un gobelet fumant, il aurait pu lui dire : « Je m'appelle Kerr. Je suis le fils de votre fille, qui n'est pas encore morte, qui est pourtant déjà ici. » Elle aurait ri. Elle aurait cru à une plaisanterie. Elle aurait dit : « Vous avez un drôle d'humour. »
-
-Il aurait dit : « Je sais. »
+Il se rappelait ses mains. Elles avaient tremblé en rendant le badge.
 
 Il pensa : *elle ne saura jamais.* Il pensa : *c'est ce que les carnets appellent un coût.* Il serra l'aiguille.
 
-Puis il pensa à Iris, qui dormait, quelque part, à deux kilomètres, dans une chambre de lycéenne, sous une affiche de concert. Il pensa à ses dix-sept ans. À son cahier. À l'autre Iris, qui veillait, de l'autre côté de la ville, dans une chambre d'hôtel. Il pensa : *deux femmes qui vont m'attendre sans le savoir.*
+Puis il pensa à une femme qui comptait, quelque part, dans le corps de cette même Sophia, jusqu'à soixante, au pied d'un mur ; et à un homme qui frappait de l'autre côté. Il pensa à deux Iris qui, dans quelques heures, se rencontreraient sans se connaître. Il pensa : *deux femmes qui vont m'attendre sans le savoir.*
 
 Il pensa à Sacha.
 
-Il n'y pensait jamais, d'habitude, dans cette pièce. Il évitait. Mais il était là, cette fois, dans la lueur grise de l'aube : un homme de trente ans dans un corps trop jeune, qui se tenait à cette même place, dans une autre tour, devant ce même bac, et qui avait dit : *Je le fais pour elle.* Un homme qui avait cru faire naître un fils, et qui avait fait naître un ami. Un homme qui s'était trompé, et qui l'ignorait encore.
+Il n'y pensait jamais, d'habitude, dans cette pièce. Il évitait. Mais il était là, cette fois, dans la lueur violette : un homme qui, la nuit, occupait ce même corps, qui avait posé ses mains sur ces mêmes bacs, qui avait écrit dans un carnet : *Je le fais pour elle.* Un homme qui avait cru faire naître un fils, et qui avait fait naître un ami. Un homme qui se trompait, et qui l'ignorait encore.
 
 *Ce n'est pas moi qui t'aurai désabusé,* pensa Kerr. *Mais je ne te laisserai pas mourir sans que tu saches.*
 
-Il serra l'aiguille plus fort.
-
 ---
 
-Il la plongea à six heures vingt-deux.
+Il plongea l'aiguille à six heures vingt-deux.
 
-Il n'y eut pas de bruit. Pas de lueur. La pâte grise s'ouvrit, comme une lèvre, referma sur le cuivre. Une petite bulle monta à la surface, creva. C'était tout.
+Il n'y eut pas de bruit. Pas de lueur. La vase grise s'ouvrit, comme une lèvre, referma sur le cuivre rouge. Une petite bulle monta à la surface, creva. C'était tout.
 
 Il retira les gants. Il les jeta. Il recula de trois pas, sans savoir pourquoi, comme on recule devant un autel.
 
-Il resta debout, les bras ballants, dans la lumière naissante. Il avait les mains vides. Il se les regarda, une à une, avec curiosité, comme celles d'un autre. Elles ne tremblaient plus.
+Il resta debout, les bras ballants, sous la lumière. Il se regarda les mains, avec curiosité, comme celles d'un autre. Elles ne tremblaient plus.
 
 Il pensa : *voilà. C'est fait.*
 
 Il pensa, un instant plus tard, avec une honte aiguë : *j'ai tué quelqu'un.*
 
-Ce n'était pas vrai. Il le savait. Ce que la Rouille emporterait, dans trente heures, c'étaient des corps déjà promis, des hôtes consentants, des fragments de conscience qui reviendraient par une autre porte. Mais il y aurait Walther, qui mourrait un 15 novembre devant une table ; il y aurait Rose, qui pleurerait pendant des années ; il y aurait Jean, qui comprendrait trop tard. Il y aurait, dans trois semaines, un homme qui s'appelait Sacha, et qui se jetterait dans un lac.
+Ce n'était pas vrai. Il le savait. Mais il y aurait Walther, qui mourrait un 15 novembre devant une table ; il y aurait Rose, qui pleurerait pendant des années ; il y aurait Jean, qui comprendrait trop tard. Il y aurait, dans quarante ans, un adolescent qui s'appellerait Sacha, et qui se jetterait dans un lac.
 
 *Je les ai tous tués,* pensa-t-il. *Et ils m'ont tous donné la vie.*
 
 C'était la formule exacte de sa condition. Il la connaissait depuis l'enfance, sans l'avoir jamais dite.
 
-Il sortit du laboratoire. Il referma la porte à clé. Il glissa la clé dans la poche de sa veste.
+Il sortit de la salle de culture. Il referma la porte à clé. Dans la galerie, un jeune technicien le salua : « Bonjour, monsieur le directeur. » Il répondit : « Bonjour. » Il avait la voix de Bastien, un peu plus lente qu'à l'accoutumée.
 
-Dans le couloir, une silhouette attendait, adossée à la rampe, les mains dans les poches. C'était un lycéen, grand, brun, avec des cernes. Il regarda Kerr passer. Il dit :
+Il monta l'escalier de fer. Il sortit à l'air libre. Le ciel était gris, mouillé, immense. Il resta un moment sur le perron, à respirer, la main sur la rampe. Il pensa à un garçon qui irait à l'école, ce matin-là, à quelque cinquante kilomètres de là, et qui ne saurait jamais qu'il était, d'une certaine façon, l'enfant de ce geste.
 
-— Vous êtes nouveau ?
-
-— Oui.
-
-— Vous êtes là pour le bac ?
-
-— Non. Pour autre chose.
-
-— Ah, dit le garçon. Moi, je vais en cours.
-
-— Bonne journée.
-
-— Vous aussi.
-
-Il le regarda s'éloigner. Kerr ne se retourna pas. Mais il ressentit, dans son dos, une chaleur, comme si l'autre le suivait des yeux. Il pensa : *c'est lui.* Il pensa : *c'est mon père.*
-
-Il pensa : *non.*
-
-Il corrigea, dans sa tête, avec une douceur infinie :
-
-*C'est un garçon.*
+Il pensa : *C'est un garçon.*
 
 *Un garçon qui va à l'école.*
