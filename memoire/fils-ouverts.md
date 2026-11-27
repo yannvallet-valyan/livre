@@ -8,6 +8,15 @@ Tous noués en V3.5 : Étienne apprend qui était Noé (`43`) ; Hugo et Anselme 
 
 **État du tome 1 (passe V3.5) :** complet et cohérent avec la trilogie. Aucune incohérence connue.
 
+## Points à trancher en écrivant le tome 3 (relevés V3.6)
+1. **Kerr n'envoie pas Élise** : la boucle A→B→A (la page d'Élise B) suffit. Son rôle : il rend le voyage possible (le manuel) et empêche la roue de s'arrêter.
+2. **Deux « Sacha » dans la cuisine finale** : l'alias de Noé et le vrai nom de son petit-fils. Préparer le moment (Élise appelle « Sacha » l'homme qu'elle aime).
+3. **Mathis voit les occupants** : au cimetière (`25`), il dit de Kerr « Lui, il en a deux. Et la nuit, trois » (indice posé). Le tome 3 doit l'expliquer : Kerr voyageur + Bastien le jour ; + Sacha la nuit.
+4. **Ordre dans le tour brisé** : Sophia fuit le 17 oct. ; `31` dit qu'Élise y est « descendue dans la galerie en octobre » ; Léthé extrait le gisement le 14 nov. Fixer qui descend, quand, et pourquoi le cristal est quand même emporté.
+5. **Étienne à la naissance** : Sophia est à Lyon, Étienne à Vallorce. Comment Noé vit-il l'accouchement ?
+6. **Le trajet de Kerr à travers les tours** et le tour où il écrit le manuel (qui arrive au refuge en 2134, avant sa naissance : boucle voulue).
+7. **Des éducatrices élèvent Kerr enfant** (2164-2180), comme Ruben a élevé Iris : une figure à nommer.
+
 ## Tome 2 : *La Dame du lac* (à écrire)
 - Héroïne : **Iris du passé**. Bible réécrite en V3.5 : `../tome2/README.md`, `personnages.md`, `chronologie-1958.md`, `amorces.md`.
 - Fils : 1958 (Rose, K. dans l'ingénieur suisse, la vanne) + la vie d'Iris du passé (2026-2065 : fuite de Sophia, naissance, enfance, retour à Vallorce, Kerr dans Théo, fils, mort).

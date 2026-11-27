@@ -39,6 +39,7 @@ Colonne « Paie » : tome et fichier (ou chapitre futur) où l'indice prend son 
 | Rouillés « comme des maisons dont on aurait laissé la porte ouverte » | 02 | T3 : Sacha revient dans un rouillé |
 | Élise, à l'aube : « pour une fois, elle ne résista pas » | 31 | T2/T3 : la règle du sommeil est fausse |
 | Kerr perd « des après-midi entiers, en plein jour » | 29 | T3 : Kerr possède Bastien le jour |
+| Mathis, de Kerr : « Lui, il en a deux. Et la nuit, trois. » | 25 | T3 : Kerr voyageur + Bastien (jour) + Sacha (nuit) |
 | Kerr : « Dormez bien, madame Varenne. Vraiment. » | 40 | T3 |
 | Kerr : « Prenez soin de votre fille » (elle n'a pas de fille) | 43 | T3 : il connaît l'avenir |
 | « Sacha » : « comme si quelqu'un me l'avait prêté » | 14 | T3 : prénom du petit-fils |
@@ -47,7 +48,7 @@ Colonne « Paie » : tome et fichier (ou chapitre futur) où l'indice prend son 
 | « Elle est pas partie. Elle est dedans. Elle dort. » ; « pour la dernière fois, croyait-elle » | 43, 44 | T2/T3 : Élise et Noé se réveillent à la naissance de 2027 |
 | Iris : un homme revenu d'entre les rouillés, un fils de 8 ans | 41 | T3 : Sacha et Kerr |
 | Cahier noir : variable I. « anomalie, à surveiller » | 18, 19 | T3 : Sacha observe la femme qu'il aimera |
-| « C'est de Léa que je descends » | 47 | T3 : le corps où Sacha revient descend de Léa |
+| « Selon les tours, une fille ou un garçon. C'est de l'un d'eux que je descends » | 47 | T3 : Sacha descend de Théo (tour brisé) ; son corps d'accueil descend de Léa |
 | Femme aux cheveux ras « m'a regardé comme si elle me connaissait » | 47, 32 | T2 : sa mère (Iris du passé) dans Rose |
 | « Ce n'est pas encore l'heure. Ce n'est pas encore vous. » ; homme en blanc ; lumière verte | 25, 32 | T2 |
 | Rose : cheveux ras, mains à plat, 59, « Comme ça, je me reconnais », table pour cinq | 00, 32 | T2 |

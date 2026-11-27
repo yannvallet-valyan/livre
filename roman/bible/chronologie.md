@@ -23,7 +23,7 @@
 5. **Les Élise d'Anselme** ne sont pas des consciences indépendantes. Ce sont des **couches de mémoire**, comme la vase : celles du dessus se souviennent un peu, celles du dessous font corps avec le reste. Elles forment une seule entité, qui dit « nous ».
 6. **Les voyageurs.** Pour la mission de 2137, le Conseil n'a trouvé que **deux candidats adultes** lucides ayant une lignée compatible : Élise et Noé. Les autres voyageurs viennent d'ailleurs :
    - **Iris adulte** vient de 2164, d'un tour où sa mère n'est jamais revenue. Elle voyage dans Mathis, son ancêtre.
-   - **K.** vient d'un futur indéterminé. Il voyage dans Kerr, son ancêtre par Léa. Son rôle reste limité, et il amorce le tome 2.
+   - **K.** vient d'un futur indéterminé. Il voyage dans Kerr, son ancêtre (par Léa ou par un fils, selon les tours). Son rôle reste limité, et il amorce le tome 2.
    - **L'Élise B** vient de 2164, dans la ligne B.
 7. **Dès 2026,** les eaux de culture du laboratoire, filtrées mais pas assez, rejoignent la retenue, en amont du captage d'eau potable de la rue des Fontaines. Des micro-cristaux arrivent dans les robinets : c'est une des causes des oublis précoces (Corinne, Martine). Sophia les découvre au microscope (chapitre « L'eau »).
 8. **La contamination, de la fiole au monde.** Le cristal se nourrit des **dormeurs** à proximité : il pousse, s'ouvre en éventail et lâche une poussière fine comme du sucre. Les **résidus** passent de dormeur en dormeur et de génération en génération.
@@ -210,7 +210,7 @@ Personne n'est méchant.
 - Ch. « Le mur » : Élise frappe le soixantième. Iris lui rend le grain de beauté et lui dit qu'elle peut rester.
 - Quand le cristal est noyé, Iris se dissout dans Mathis. Mathis transmettra donc *deux* résidus à la lignée, ce qui explique en partie les nuits de la petite Élise B.
 
-**K., le protecteur invisible.** C'est un descendant de Bastien Kerr, par Léa, née en 2029 d'un second lit. Il vient d'un futur indéterminé et voyage dans Kerr les nuits où Kerr dort près du bac 7.
+**K., le protecteur invisible.** C'est un descendant de Bastien Kerr (par l'enfant de 2029 : Léa dans le tour 47, un garçon dans un autre tour). Il vient d'un futur indéterminé et voyage dans Kerr les nuits où Kerr dort près du bac 7.
 - Il observe la boucle (« Tour 47 ») et note tout dans le cahier noir de Kerr.
 - Sa règle : *ne pas intervenir sur la structure*. Il se permet des « politesses » : une lampe sur la marche, le badge de Kerr glissé à Élise, un caillou contre la vitre, le badge caché au congélateur le 14, ce qui retarde Kerr jusqu'à 8 h 50.
 - Il voit Sophia garder la fiole et ne fait rien.

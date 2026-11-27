@@ -152,8 +152,8 @@ La naissance de 2027 doit reprendre ces trois détails, à l'identique. Le lecte
 - **Au refuge, c'est un miracle :** un rouillé qui se réveille, qui parle, qui lit. Ruben est encore vivant ; il meurt en 2159.
 - **Il rencontre l'Iris du présent,** une archiviste d'une vingtaine d'années. Il sait qui elle est et l'aime.
 - **Vers 2156 naît leur fils : Kerr.**
-- **Vers 2164, K. repart mesurer.** Iris, la même année, part dans Mathis (tome 1). Leur fils reste seul au refuge, à huit ans, avec les carnets de son père.
-- **Conséquence pour l'annexe du tome 1 :** la phrase « C'est de Léa que je descends » peut rester. Elle est vraie du corps qu'il habitera, et de son fils. Elle devient un indice.
+- **Vers 2164, K. repart mesurer.** Iris, la même année, part dans Mathis (tome 1). Leur fils reste au refuge, à huit ans, confié aux éducatrices, avec les carnets de son père.
+- **Conséquence pour l'annexe du tome 1 :** la phrase de l'annexe est **réécrite** : « En 2029, il aura un enfant. Selon les tours, une fille ou un garçon. C'est de l'un d'eux que je descends. » Elle reste vraie : K. descend de Théo (tour brisé) par le sang, et son corps d'accueil descend de Léa (tour 47). Elle devient un indice.
 - ✅ **Le prénom de K. : Sacha.**
   - Dans le tour 47, Noé se fait appeler « Sacha » sur le barrage, et ne sait pas d'où lui vient ce nom (« Il m'est venu la première nuit, comme si quelqu'un me l'avait prêté »).
   - C'est le prénom de son petit-fils. Comme le savoir du voyage, le prénom n'a pas d'origine : il tourne dans l'anneau.
@@ -166,7 +166,7 @@ La naissance de 2027 doit reprendre ces trois détails, à l'identique. Le lecte
 
 ### 6.1 Sa naissance et son départ
 - **Il naît vers 2156,** au refuge, de K. (dans le corps du jeune homme descendant de Léa) et de l'Iris du présent. Il descend donc de Bastien Kerr par son père, et de Sophia et d'Étienne par sa mère.
-- **Il grandit seul** à partir de 2164. Il apprend la vraie règle et les deux chemins dans les carnets de son père.
+- **Il grandit au refuge, élevé par les éducatrices, comme sa mère par Ruben** (le dortoir B existe encore) à partir de 2164. Il apprend la vraie règle et les deux chemins dans les carnets de son père.
 - **Il part dans le passé, par le sang,** pendant l'ouverture de 2026, dans son ancêtre **Bastien Kerr**.
 - ✅ **Il part en 2180, à 24 ans,** l'âge d'Anselme à la vidange de 1980.
   - Le refuge de la ligne A s'éteint. Il ne reste qu'une poignée de lucides.
@@ -263,7 +263,7 @@ Une page du cahier noir, à une date indéterminée :
 - **Premier fil, le refuge vers 2150-2180 :**
   - K. se réveille dans un rouillé ;
   - il aime l'Iris du présent, en sachant qui elle est ;
-  - Kerr naît, puis grandit seul avec les carnets.
+  - Kerr naît, puis grandit au refuge (éducatrices, dortoir B) avec les carnets.
 - **Deuxième fil, 2026 revu de l'intérieur de Bastien :**
   - le jour, Kerr écrit le manuel et ment ;
   - le cahier noir est le seul lien entre le père et le fils ;
@@ -309,7 +309,7 @@ Une page du cahier noir, à une date indéterminée :
 | Interlude « Iris » | Une phrase : un homme qui s'était réveillé d'entre les rouillés, et un fils de huit ans laissé au refuge | K., Kerr, l'anneau |
 | Ch.12 « L'homme aux étoiles » | Noé, sur le nom « Sacha » : « Il m'est venu la première nuit, comme si quelqu'un me l'avait prêté. » | Sacha, le prénom du petit-fils |
 | Interlude « Lyon, 2033 » | « …s'était endormi en elle pour la dernière fois » devient « …pour la dernière fois, croyait-elle » | Élise et Noé peuvent se réveiller |
-| Annexe | Inchangée. « C'est de Léa que je descends » devient un indice (§5.3). | le retour de K. dans le futur |
+| Annexe | « Selon les tours, une fille ou un garçon. C'est de l'un d'eux que je descends » (§5.3). | le retour de K. dans le futur |
 
 ---
 

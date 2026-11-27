@@ -1,8 +1,8 @@
 # Tome 2 : personnages
 
 ## Héroïne
-**Iris du passé** (née une nuit d'août 2027 à Lyon) — fille d'Élise et de Noé, conçue dans les corps de Sophia et d'Étienne pendant le tour aux règles brisées.
-- **Apparence :** le front trop grand, les sourcils droits, le creux au menton, le grain de beauté au coin de la paupière gauche (la signature de toutes les Iris). Cheveux coupés ras après la mort de Sacha, comme tous ceux de 2066 (on ne se fie plus aux mains qui nouent) : c'est pour se reconnaître que, dans Rose, elle coupe les tresses.
+**Iris du passé** (née une nuit de juillet 2027 à Lyon) — fille d'Élise et de Noé, conçue dans les corps de Sophia et d'Étienne pendant le tour aux règles brisées.
+- **Apparence :** le front trop grand, les sourcils droits, le creux au menton, le grain de beauté au coin de la paupière gauche (la signature de toutes les Iris). Cheveux longs toute sa vie (Lyon, 2066). Dans Rose, elle coupe les tresses en juillet 1958 pour une raison qu'elle ne s'explique pas : « Comme ça, je me reconnais ». **Explication (révélée à la fin) :** la nuit de sa naissance, Élise et Noé, qui l'ont portée, lui ont transmis par le résidu une image qu'elle garde sans savoir : celle d'une femme aux cheveux courts qui la tient. Elle se coupe les cheveux pour ressembler à cette image, c'est-à-dire à sa mère.
 - **Vie :** enfance à Lyon avec Sophia ; retour à Vallorce vers 2047 ; compagne de Théo Kerr ; mère de Sacha (2050) ; perd son fils en 2065 et Théo le même hiver ; part en 2066.
 - **Dans Rose (1958) :** compte jusqu'à 59, pose les mains à plat, berce Anselme. Veut empêcher le lac. Découvre la vraie règle et refuse de prendre les jours de Rose.
 - **Gestes hérités :** tient le crayon entre le pouce et le majeur (de Noé) ; compte quand elle a peur (d'Élise).

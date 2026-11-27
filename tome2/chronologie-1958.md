@@ -14,7 +14,7 @@
 | 1956 | Naissance d'Anselme, troisième maison à gauche |
 | oct. 2026 | Tour aux règles brisées : conception d'Iris ; Sophia quitte la vallée |
 | 14 nov. 2026 | (ce tour) Léthé extrait le gisement et l'emporte à Genève ; le fil s'éteint : Élise et Noé restent endormis au fond des hôtes |
-| août 2027 | Naissance d'Iris à Lyon, une nuit de coupure de courant ; Élise et Noé se réveillent une dernière fois |
+| ≈ 9 juil. 2027 | Naissance d'Iris à Lyon (38 semaines après la conception du 16 oct. 2026), une nuit de coupure de courant ; Élise et Noé se réveillent une dernière fois |
 | 2029 | Naissance de Théo Kerr (fils de Bastien) |
 | ~2040 | Les comprimés Léthé (cristal extrait à Genève) ; premiers oublis |
 | ~2047 | Iris revient à Vallorce, rencontre Théo |
@@ -24,7 +24,7 @@
 | juin 1958 | Décapage ; Iris arrive dans Rose |
 | juillet 1958 | Cheveux coupés |
 | août 1958 | Iris découvre qu'elle peut rester le jour ; refuse |
-| sept.-oct. 1958 | Expulsions, cercueils, tentatives contre le chantier, alliance avec l'homme en blanc |
+| sept.-oct. 1958 | Expulsions, cercueils, tentatives contre le chantier ; Iris épie l'homme en blanc de loin |
 | nuit 13-14 nov. 1958 | Dernière nuit : la table pour cinq ; Iris reconnaît Sacha ; « Ce n'est pas encore vous » |
 | 14 nov. 1958, 6 h | Vanne fermée ; Iris se dissout dans Rose ; lampe sur le paillasson |
 | 1958-1999 | Rose, dame du lac ; table pour cinq |

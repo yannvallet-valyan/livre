@@ -26,7 +26,7 @@
 
 ---
 
-*B.K. dort mieux. Il oubliera Théo presque entièrement. En 2029, il aura une fille, Léa. C'est d'elle que je descends.*
+*B.K. dort mieux. Il oubliera Théo presque entièrement. En 2029, il aura un enfant. Selon les tours, une fille ou un garçon. C'est de l'un d'eux que je descends.*
 
 *J'ai cru que tout commençait en 1958, à ma première mesure, devant une femme en châle aux cheveux ras qui m'a regardé comme si elle me connaissait. Je n'en suis plus sûr.*
 
