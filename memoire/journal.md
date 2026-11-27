@@ -35,3 +35,4 @@
 | V3.29 | 2026-11-27 | Tome 3 ch. 10 « La galerie » (19 oct. 2026, 2 h 07 : Kerr, caché, regarde Élise-Sophia et ne l'arrête pas ; « Merci » à la paroi ; petite lampe grise trouvée dans le bureau), 11 « Le registre rouge » (14 nov. 2159 : Ruben avoue avoir caché 43 carnets, meurt le 15 à l'aube) |
 | V3.30 | 2026-11-27 | `tome2/plan-etoffement.md` : diagnostic et plan pour porter le tome 2 de ≈ 105 à ≈ 250 pages (14 chapitres ajoutés, tous les chapitres épaissis) |
 | V3.32 | 2026-11-27 | Étoffement : ch. 3 (1 370 mots), 3 bis « Rose, un jour de juin » (POV Rose, 1 330 mots) ; Rose a perdu un fils blond en 1954 ; la « boîte du départ » ; Odette boulangère du hameau |
+| V3.33 | 2026-11-27 | Étoffement : ch. 2 (1 380 mots) et 4 (1 480 mots) ; tome 2 à ≈ 34 900 mots (≈ 125 pages) ; EPUB et lecteur régénérés |
