@@ -17612,7 +17612,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Vous êtes la première que mon fils me présente. Je crois qu'il vous aime. Je crois qu'il fait bien. Il faut aimer quelqu'un. Il faut avoir quelqu'un qui vous attende, au bout. C'est tout ce qu'on sait faire."
+     "s": "— Vous êtes la première que mon fils me présente. Je crois que vous êtes son amie. Je crois qu'il fait bien. Il faut avoir quelqu'un, à cet âge. Il faut avoir quelqu'un qui vous attende, au bout. C'est tout ce qu'on sait faire."
     },
     {
      "t": "p",
@@ -17682,7 +17682,7 @@ window.BOOK = {
      "s": "Elle crut que c'était l'âge."
     }
    ],
-   "words": 1122,
+   "words": 1127,
    "tome": 2
   },
   {

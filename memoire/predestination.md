@@ -94,10 +94,10 @@ Voir `../tome3/plan-detaille.md` (chapitre inséré O · nuit du 10 au 11 nov.) 
   - **« Comment elle était »** : elle décrit leur mère (cheveux ras, encre noire, lentilles trop salées, le compte). → le lendemain, **Rose se coupe les cheveux** (`32`).
   - **« Le marché »** : elle ment : « laisse le lac se remplir, je te dirai comment sauver ton fils. » → Iris du passé cesse de saboter ; **la vanne se fermera** ; Odette dénonce ensuite Rose.
 - **14 nov. 2026, 9 h 40, dans le cristal (tome 3 ch. 26b).** Soixante secondes.
-  - **« Sacha »** : Iris du passé apprend que son fils aimera sa sœur ; et le mensonge.
+  - **« Sacha »** : Iris du passé apprend le nom de son fils et ce qu'il deviendra ; et le mensonge d'Odette.
   - **« Garde-le »** : l'aiguille. Iris du passé consent. → **Sophia garde l'aiguille** (`43`).
   - **« La troisième strophe »** : elles chantent le couplet manquant ensemble et disent **soixante**. → Sophia connaît les trois couplets (`43`).
-- **Maillons** : 27 Iris du présent ment et dénonce (1958) ; 28 les deux sœurs, 9 h 40 ; 29 le marché (conséquence : la vanne) ; 30 « Garde-le » (conséquence : la fiole).
+- **Maillons** : 27 Iris du présent ment et dénonce (1958) ; 28 les deux Iris, 9 h 40 ; 29 le marché (conséquence : la vanne) ; 30 « Garde-le » (conséquence : la fiole).
 - **Dettes payées** : « Comme ça, je me reconnais » (`32`) ; troisième couplet (`25`, `03`, `43`) ; Sophia garde l'aiguille (`43`) ; la mère de Corinne (`25`) ; « un voyage plus court » (`41`).
 
 ## 4. Charte du ton sombre (à respecter dans les tomes 2 et 3)

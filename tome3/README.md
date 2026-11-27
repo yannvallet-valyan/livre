@@ -22,7 +22,7 @@
 | Le tour brisé était un **choix** | `31`, `36` |
 
 ## Trois fils entrelacés
-- **R · Le refuge (2150-2180).** Sacha revient dans un rouillé et aime Iris du présent, qui a le visage de sa mère. Leur fils, Kerr, naît en 2156 et grandit parmi les éducatrices. Iris part en 2164. À 24 ans, Kerr prend l'éclat d'un ami (« un donneur ») et part.
+- **R · Le refuge (2150-2180).** Sacha revient dans Tobie (la nuit) et se trompe : il croit devoir être le père de Kerr ; Iris du présent refuse et choisit Walther, qui habite le même corps le jour. Kerr naît le 3 mai 2156 et grandit parmi les éducatrices. Iris part en 2164. À 24 ans, Kerr prend l'éclat d'un ami (« un donneur ») et part.
 - **S · Le premier tour (sept.-oct. 2026, tour brisé, puis 2046-2065).** Kerr arrive dans Bastien, écrit le manuel, observe Élise et Noé de l'extérieur, entre dans Théo, aime Iris du passé, perd son fils. C'est la même histoire que le tome 2, vue par celui qui ment.
 - **O · Le tour 47 (sept.-nov. 2026).** Kerr, vieux de quarante tours, joue l'antagoniste. Il lit chaque matin le cahier noir de son fils sans le savoir. Il rate son plan : Élise reste. Il laisse la fiole à Sophia pour relancer la boucle.
 

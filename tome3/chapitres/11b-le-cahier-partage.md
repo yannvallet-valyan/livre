@@ -98,7 +98,7 @@ Il prit le crayon. Il écrivit, sous la ligne :
 
 La réponse arriva le lendemain, d'une écriture ronde.
 
-*Walther Kerr. Ingénieur de la Compagnie. Mort le 16 novembre 1958, dans une cuisine, à Vallorce-le-Bas. Vous m'avez habité les nuits de septembre à novembre. Je vous ai senti. Je vous dois peut-être quelque chose. Je ne sais pas quoi.*
+*Walther Kerr. Ingénieur de la Compagnie. Mort le 15 novembre 1958, au soir, dans une cuisine, à Vallorce-le-Bas. Vous m'avez habité les nuits de septembre à novembre. Je vous ai senti. Je vous dois peut-être quelque chose. Je ne sais pas quoi.*
 
 Il relut. Il sentit ses jambes se dérober. Il se laissa glisser contre le mur. *Kerr.* Il se répéta le nom. Il l'avait lu cent fois, dans ses propres carnets, sans y penser : *Walther Kerr, ingénieur, ancêtre de Bastien.* Il l'avait occupé. Il lui avait donné une lampe à donner à une femme. Il lui avait écrit, un soir de novembre, dans la marge : *Il aime.*
 
