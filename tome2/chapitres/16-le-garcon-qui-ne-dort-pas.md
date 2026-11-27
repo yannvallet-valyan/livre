@@ -52,9 +52,9 @@ Ce n'était pas vrai. Elle ne le releva pas.
 
 ---
 
-Elle l'aima à la seconde où elle le vit.
+Elle se prit d'amitié pour lui à la seconde où elle le vit.
 
-Elle ne l'aurait pas formulé ainsi. Elle aurait dit : *il me plaît*, *il m'intrigue*, *il est étrange*. Elle ne se serait pas avoué qu'à l'instant où il avait fait rebondir son caillou, elle s'était détendue, comme un muscle qu'on lâche après trop longtemps. Elle le revit le lendemain, puis tous les jours. Il l'attendait, sur le muret, un livre à la main, ou dans la salle d'attente du docteur, sous prétexte d'un rhume. Il parlait peu. Il écoutait.
+Elle ne l'aurait pas formulé ainsi. Elle aurait dit : *il m'intrigue*, *il est étrange*, *il me repose*. Elle ne se serait pas avoué qu'à l'instant où il avait fait rebondir son caillou, elle s'était détendue, comme un muscle qu'on lâche après trop longtemps. Elle le revit le lendemain, puis tous les jours. Il l'attendait, sur le muret, un livre à la main, ou dans la salle d'attente du docteur, sous prétexte d'un rhume. Il parlait peu. Il écoutait.
 
 Il lui apprit qu'il était le fils de Bastien Kerr, directeur de Léthé, dont la grande maison blanche dominait la place. Qu'il avait eu un frère, avant lui, qu'on avait appelé Théo aussi et qui s'était noyé à cinq ans dans un lac d'Annecy. Qu'il portait le nom d'un mort. Qu'on ne l'aimait pas, chez lui, parce qu'il lui ressemblait trop.
 
