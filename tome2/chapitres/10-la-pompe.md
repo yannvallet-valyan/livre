@@ -50,7 +50,7 @@ Il hocha la tête. Il enleva ses bottes, enfin. Il s'assit. Elle posa devant lui
 
 ---
 
-La nuit suivante, elle alla à Grenoble. Elle n'en avait pas le droit. Les jambes de Rose firent quatorze kilomètres par les raccourcis, sous une lune qui revenait, et elle entra dans l'hôpital par la porte des cuisines, en robe noire, avec un panier de pommes. Une infirmière lui dit : « C'est la visite des familles seulement. » Elle dit : « Je suis sa cousine. »
+La nuit suivante, elle alla au chef-lieu. Elle n'en avait pas le droit. Les jambes de Rose firent quatorze kilomètres par les raccourcis, sous une lune qui revenait, et elle entra dans l'hôpital par la porte des cuisines, en robe noire, avec un panier de pommes. Une infirmière lui dit : « C'est la visite des familles seulement. » Elle dit : « Je suis sa cousine. »
 
 L'homme dormait, la jambe dans le plâtre, la bouche ouverte. Il avait une trentaine d'années. Une alliance à son doigt, usée. Sur la table de chevet, un dessin d'enfant : un soleil rond, quatre bonshommes en bâtons, une maison avec un toit pointu.
 
