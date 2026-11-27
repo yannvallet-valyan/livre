@@ -103,6 +103,16 @@
 
 ---
 
+## 💡 Chapitre proposé : la rencontre des deux Élise
+**O+ · nuit du 10 au 11 novembre, tour 47, vers 4 h 15.** Noé n'est pas venu (`37` : « Élise l'attendit jusqu'à quatre heures »). Élise A, qui n'a pas dormi, monte à la cabine au lieu de rentrer. Le jour approche ; les Élise d'Anselme dorment. **Une seule veille : la plus ancienne, Élise B**, 34 ans, cheveux longs, fille d'Iris B.
+- B la prend pour sa mère : « Maman ? » A, qui a perdu sa fille, répond : « Oui. » **Un mensonge d'amour entre deux femmes qui ont chacune perdu leur enfant ou leur mère.**
+- B lui dit ce qu'elle sait de l'avenir : « Il en reste toujours un grain. Quelqu'un le garde toujours. » A ne demande pas qui. Elle comprend. (→ `42` : « Pas un grain, Sophia. Promets-le-moi. »)
+- A lui donne en échange ce qu'elle a vu dans la galerie : « Il est cassant comme du sucre. » B le répète, le garde. (→ elle l'écrira dans la page, `02` : **la phrase n'a pas d'auteur**.)
+- Elles s'endorment ensemble au fond du même corps ; Anselme se réveille à six heures, seul. Élise A rentre chez Sophia. Elle ne dira rien à personne.
+- **Coût :** A sait désormais qu'elle laisse derrière elle une femme qui souffrira cent ans ; B ne sait pas que sa « mère » est une inconnue. **Aucune ne dira la vérité à l'autre.**
+- **Kerr (jour) n'est pas au courant ; K. (nuit)** observe de la grève et note : « Variable É. rencontre la plus ancienne. Je n'interviens pas. » Il aurait dû écrire « Je ne peux pas ».
+Cohérence tome 1 : `31` dit que la plus ancienne « ne parle presque plus » ; `37` laisse la nuit du 10 au 11 sans l'élucider ; `42` : « Pas un grain ». Aucune retouche nécessaire.
+
 ## Rebondissements (liste)
 1. **Le rouillé qui parle** : Sacha revient (R1).
 2. **Kerr n'est pas Bastien** : un homme de 24 ans, enfermé dans la tête d'un autre (S2).

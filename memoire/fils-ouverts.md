@@ -36,3 +36,12 @@ Tour 48 ; autres lacs (Annecy) ; Genève ; Oriane ; Iris B ; 1958 avant 1958. �
 - Nom de l'auteur dans l'EPUB (actuellement « L'auteur »).
 - Retirer `*(premier jet)*` à la version finale.
 - Le dossier `site/` (jeu interactif, `story.js`) n'est **pas** à jour avec le roman.
+
+## Avancement des tomes 2 et 3 (V3.8)
+| Tome | Plan | Chapitres écrits |
+|---|---|---|
+| 2 | `tome2/plan-detaille.md` (32 ch. + épilogue) | `tome2/chapitres/01-la-glaise.md` (≈ 950 mots) |
+| 3 | `tome3/plan-detaille.md` (35 ch. + coda) | `tome3/chapitres/01-tobie.md` (≈ 700 mots) |
+- Convention : fichiers `NN-titre.md`, même typographie que le tome 1, `*(premier jet)*` en tête. Non intégrés à l'EPUB du tome 1.
+- À valider : la rencontre des deux Élise (💡, `tome3/plan-detaille.md`).
+

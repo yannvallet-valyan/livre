@@ -67,6 +67,15 @@ Chaque ligne = un fait déjà écrit, et le chapitre du tome 2 ou 3 qui doit en 
 | Anselme sait que Sophia reviendra à 37 ans, louera la maison (`22`) | T2 : les Élise d'Anselme (déjà dans le tome 1) |
 | « Je n'ai pas observé la nuit du 13 » (annexe) | T3 : K. aurait dû, et ne l'a pas fait pour laisser Élise et Noé seuls |
 
+## 3 bis. Quatre choix sombres ✅ (validés par l'auteur)
+1. Élise et Noé **ne réveillent pas leurs hôtes** dans la cuisine : leur péché d'origine (tome 3).
+2. Kerr **laisse Sacha prendre la pilule**, parce qu'il doit devenir K. (tomes 2 et 3).
+3. **Étienne prélève l'éclat** sur le crâne de Sacha, sans savoir que c'est son petit-fils (tome 2).
+4. **Rose consent** (« Reste ») à la dissolution d'Iris (tome 2).
+
+## 3 ter. Proposition 💡 : la rencontre des deux Élise
+Voir `../tome3/plan-detaille.md` (chapitre inséré O · nuit du 10 au 11 nov.) et `histoires-annexes.md`. Maillon proposé : **26. Élise B, au fond d'Anselme, avertit Élise A : « Il en reste toujours un grain. Quelqu'un le garde toujours. »** → `42` : « Pas un grain, Sophia. Promets-le-moi. » ; et Élise A lui dit « cassant comme du sucre » → B l'écrira dans la page (`02`). La phrase n'a pas d'auteur.
+
 ## 4. Charte du ton sombre (à respecter dans les tomes 2 et 3)
 1. **Chaque victoire coûte quelque chose** à quelqu'un d'innocent : un hôte, un enfant, un ami.
 2. **L'amour est réel et trahi.** Personne n'est lâche sans raison, personne n'est sauvé.

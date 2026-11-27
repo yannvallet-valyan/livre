@@ -10,3 +10,5 @@
 | V3.5 | 2026-11-27 | Fils noués du tome 1 (Étienne, Hugo, Anselme à Lyon, ARS, badge, nom de Sophia, Mathis et Martine, caillou de Kerr, 2090 en ligne B) ; bible du tome 2 réécrite (Iris du passé, deux fils, trois actes) ; règles : cristal hors du temps entre les tours, gisement extrait = fil éteint ; fin du tome 3 relue (le tour brisé était un choix) |
 | V3.6 | 2026-11-27 | Compatibilité tome 1 ↔ tomes 2-3 : pas d'alliance Iris-K. avant la dernière nuit ; annexe « selon les tours, une fille ou un garçon » ; naissance d'Iris vers le 9 juillet 2027 ; cinq couverts = famille de Rose ; cheveux courts d'Iris (souvenir transmis) ; Kerr élevé par des éducatrices ; Mathis voit Kerr en double (`25`) |
 | V3.7 | 2026-11-27 | Plans détaillés des tomes 2 et 3 (sombres : amour, trahisons, rebondissements) ; `predestination.md` (chaîne causale sans origine) ; `histoires-annexes.md` ; points ouverts tranchés (Agathe, Walther, Odette, Lise, Mael…) |
+| V3.8 | 2026-11-27 | Les 4 choix sombres validés ; premiers chapitres des tomes 2 et 3 rédigés (`01-la-glaise`, `01-tobie`) ; proposition : rencontre des deux Élise (cabine, nuit du 10 au 11 nov., tour 47) |
+
