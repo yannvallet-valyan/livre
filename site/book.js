@@ -15426,6 +15426,706 @@ window.BOOK = {
    ],
    "words": 713,
    "tome": 2
+  },
+  {
+   "id": "t2-23-le-cure",
+   "n": 23,
+   "label": "Chapitre 23",
+   "title": "Le curé",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "L'abbé Perrin avait soixante et onze ans, une sciatique, et une église qu'on allait raser. Il avait reçu la veille, de la préfecture, une lettre de trois lignes qui lui accordait, « à titre gracieux », de déplacer le mobilier du culte avant le 12 novembre. Il l'avait lue deux fois, puis il l'avait glissée dans son bréviaire, à l'endroit des Vêpres, parce qu'il ne savait pas quoi en faire d'autre."
+    },
+    {
+     "t": "p",
+     "s": "Rose vint le voir le mardi 4 novembre, après la messe de sept heures. Elle attendit que l'église soit vide. Elle s'agenouilla devant le confessionnal, mais n'entra pas. Elle dit à travers la grille, à voix basse :"
+    },
+    {
+     "t": "p",
+     "s": "— Mon père, je ne suis pas seule."
+    },
+    {
+     "t": "p",
+     "s": "Il crut d'abord à une plaisanterie de paroissienne. Il avait entendu beaucoup de choses, dans ce réduit de bois, pendant quarante ans. Des hommes qui frappaient leurs femmes. Des femmes qui frappaient leurs enfants. Une fois, une vieille qui s'accusait d'avoir tué un oiseau. Il ne s'étonnait plus."
+    },
+    {
+     "t": "p",
+     "s": "— Que voulez-vous dire, ma fille ?"
+    },
+    {
+     "t": "p",
+     "s": "— Il y a quelqu'un en moi."
+    },
+    {
+     "t": "p",
+     "s": "Il se tut. Il avait lu des choses sur ces cas : des livres latins qu'on avait relégués à la sacristie, des rituels qu'on ne pratiquait plus qu'à Rome. Il dit, avec la prudence des vieux prêtres :"
+    },
+    {
+     "t": "p",
+     "s": "— C'est une voix ? Une impression ?"
+    },
+    {
+     "t": "p",
+     "s": "— C'est une femme. Elle me parle. Elle a pris mon corps, la nuit, pendant des mois. Elle dit qu'elle ne voulait pas. Elle dit qu'elle est de mon sang."
+    },
+    {
+     "t": "p",
+     "s": "— De votre sang."
+    },
+    {
+     "t": "p",
+     "s": "— De ma descendance."
+    },
+    {
+     "t": "p",
+     "s": "L'abbé ferma les yeux. Il eut un long soupir, chargé de tabac et de fatigue."
+    },
+    {
+     "t": "p",
+     "s": "— Rose, dit-il, vous avez beaucoup souffert cette année. Votre mari… cette affaire… la maison qu'on va vous prendre. Il arrive que le cœur invente des compagnies."
+    },
+    {
+     "t": "p",
+     "s": "— Elle sait des choses."
+    },
+    {
+     "t": "p",
+     "s": "— Quelles choses ?"
+    },
+    {
+     "t": "p",
+     "s": "— Que la vallée sera noyée. Que mon fils sera gardien du barrage. Que mon église ne sera pas là pour mon enterrement."
+    },
+    {
+     "t": "p",
+     "s": "Il leva les yeux. Il regarda, derrière la grille, ce visage rond, aux cheveux ras, qui ne cillait pas."
+    },
+    {
+     "t": "p",
+     "s": "— Cela, tout le monde le sait, dit-il doucement."
+    },
+    {
+     "t": "p",
+     "s": "— Pas pour le gardien."
+    },
+    {
+     "t": "p",
+     "s": "Il ne répondit pas."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Il lui donna une neuvaine. Il n'en avait pas d'autre à lui donner. Il dit : « Neuf jours de prière, le matin et le soir, devant le Saint-Sacrement. Si cette voix est du Malin, elle partira. Si elle ne part pas, il faudra voir un évêque. » Il ajouta, dans un souffle : « Je ne crois pas que ce soit nécessaire. »"
+    },
+    {
+     "t": "p",
+     "s": "Rose s'agenouilla devant l'autel. Elle récita, à voix haute, avec cette simplicité qui avait toujours désarmé les saints. Le *Pater*. L'*Ave*. Le *Gloria*. Puis, à la fin, au moment où l'on dit *Amen*, elle ajouta quelque chose qui n'était pas dans la neuvaine :"
+    },
+    {
+     "t": "p",
+     "s": "— Si tu es un démon, pars. Si tu es une mère, reste."
+    },
+    {
+     "t": "p",
+     "s": "Au fond d'elle, Iris sentit la prière la traverser comme un fer chaud."
+    },
+    {
+     "t": "p",
+     "s": "Ce n'était pas une douleur. Ce n'était pas non plus une purification. C'était quelque chose de plus simple, de plus terrible. Elle sentit qu'on lui donnait le droit de rester, et que ce droit lui était donné par pitié."
+    },
+    {
+     "t": "p",
+     "s": "Elle avait toujours cru qu'on ne s'installe pas dans un corps sans y avoir été invitée. Elle avait voulu sauver cette femme. Elle s'était imaginée en sentinelle, en gardienne, en sœur. Elle comprit, à genoux dans une église qu'on allait détruire, qu'elle n'avait pas été invitée. On l'avait accueillie. C'est une chose différente. On accueille un hôte comme on recueille un chien perdu : par bonté, par faiblesse, et par l'impossibilité de mettre dehors quelqu'un qui a froid."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne répondit pas à la phrase. Elle ne le put pas. Elle sentit les larmes de Rose couler, sur un visage qui n'était pas le sien, et elle comprit enfin ce qu'elle volait."
+    },
+    {
+     "t": "p",
+     "s": "*Je reste,* pensa-t-elle. *Mais je ne te demanderai plus jamais rien.*"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "L'abbé Perrin ne revit pas Rose avant le 14 novembre. Il fit enlever les statues le 10, les vitraux le 11, les bancs le 12. Il garda l'autel pour la fin. La veille, il y fit dire une messe de requiem à laquelle vinrent quarante personnes. Il en reconnut trente-neuf. La quarantième était l'ingénieur suisse, chapeau à la main, debout au fond, qui ne priait pas et ne partait pas. Il regardait la nuque d'une femme du premier rang, aux cheveux ras. Quand elle se retourna, il baissa les yeux."
+    },
+    {
+     "t": "p",
+     "s": "Il nota, dans son registre, à la date du 13 novembre : *Un luthérien à la messe. Je ne sais pas ce qu'il cherchait. Il avait l'air d'un homme qui demande pardon à quelqu'un qui ne l'a pas entendu.*"
+    }
+   ],
+   "words": 799,
+   "tome": 2
+  },
+  {
+   "id": "t2-24-programme-pilote",
+   "n": 24,
+   "label": "Chapitre 24",
+   "title": "Programme pilote",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "Lise Marchand vint à Vallorce un mardi de septembre 2063, en voiture de société, avec une mallette de cuir et un chemisier blanc qui n'avait pas un pli."
+    },
+    {
+     "t": "p",
+     "s": "Elle avait trente-six ans. Elle dirigeait désormais, chez Léthé, un département dont le nom changeait chaque année : *Développement pédiatrique*, puis *Santé du sommeil de l'enfant*, puis *Programmes de bien-être*. Elle avait gardé le sourire de l'enfance, trop blanc, trop réglé, qu'elle ajustait comme on ajuste un col. Elle serra Iris dans ses bras, longuement, sur le seuil de la petite maison de la rue des Fontaines, et l'odeur de son parfum, vanille et métal, remonta toute l'enfance à Iris d'un coup."
+    },
+    {
+     "t": "p",
+     "s": "Elles avaient perdu le contact après l'enterrement de Sophia. Elles s'écrivaient, de loin en loin, des mots polis, des cartes à Noël. Lise avait envoyé un faire-part quand elle s'était mariée, un autre quand elle avait divorcé. Elle ne disait jamais rien du reste."
+    },
+    {
+     "t": "p",
+     "s": "— Tu n'as pas changé, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Toi si."
+    },
+    {
+     "t": "p",
+     "s": "— C'est vrai. Je suis devenue sérieuse. Vilain défaut."
+    },
+    {
+     "t": "p",
+     "s": "Elle rit. Sacha, treize ans, assis au fond de la pièce avec un livre de géographie, leva à peine les yeux. Théo, debout près de la fenêtre, regardait le lac."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Elle expliqua, en buvant son thé. C'était un programme pilote. Léthé, après des années de recherche, avait mis au point un complément de sommeil pour les enfants : une petite pastille, à prendre le soir, qui calmait l'agitation nocturne, régularisait les rythmes, effaçait les mauvais rêves."
+    },
+    {
+     "t": "p",
+     "s": "— Rien de dangereux. Des extraits naturels. C'est testé sur trois mille enfants."
+    },
+    {
+     "t": "p",
+     "s": "— Pourquoi tu me parles de ça ? demanda Iris."
+    },
+    {
+     "t": "p",
+     "s": "— Parce que Sacha dort mal."
+    },
+    {
+     "t": "p",
+     "s": "Elle s'arrêta. Elle savait. Elle avait toujours su les choses qu'on ne lui avait pas dites."
+    },
+    {
+     "t": "p",
+     "s": "— Il y a un an qu'il dort mal. Étienne me l'a dit. Il se réveille à trois heures. Il compte à voix haute. Il dessine la même maison sur les murs."
+    },
+    {
+     "t": "p",
+     "s": "— Il est sensible."
+    },
+    {
+     "t": "p",
+     "s": "— Il est comme toi, dit Lise."
+    },
+    {
+     "t": "p",
+     "s": "Iris resta immobile. Elle se rappela soudain, avec une violence absurde, une pièce de la Croix-Rousse, un casque, un téléphone branché à côté d'un lit. Elle ne se le rappelait pas : elle ne l'avait jamais su. Elle sentait seulement, quelque part au fond du ventre, une très vieille méfiance qui ne se laissait pas nommer."
+    },
+    {
+     "t": "p",
+     "s": "— Non, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Je te demande de réfléchir."
+    },
+    {
+     "t": "p",
+     "s": "— Non."
+    },
+    {
+     "t": "p",
+     "s": "— Je te le demande comme une amie."
+    },
+    {
+     "t": "p",
+     "s": "— Alors réponds-moi comme une amie, dit Iris. C'est quoi, cette pastille ?"
+    },
+    {
+     "t": "p",
+     "s": "Lise soutint son regard. Pendant une seconde, très brève, il y eut dans ses yeux une chose qu'Iris reconnut mal : une honte ancienne, qui n'avait jamais cessé de travailler en dessous."
+    },
+    {
+     "t": "p",
+     "s": "— Un extrait de roche, dit-elle. Du calcium, de la silice. Un minéral du lac. Une petite quantité, très diluée. Il fixe le sommeil."
+    },
+    {
+     "t": "p",
+     "s": "— Du lac."
+    },
+    {
+     "t": "p",
+     "s": "— Du fond. On le prélève depuis les années quarante. Il est inoffensif."
+    },
+    {
+     "t": "p",
+     "s": "— Je dis non, répéta Iris."
+    },
+    {
+     "t": "p",
+     "s": "Lise ne sourit pas. Elle ouvrit sa mallette, en sortit une petite boîte blanche, qu'elle posa sur la table, entre les tasses."
+    },
+    {
+     "t": "p",
+     "s": "— Je te la laisse. Au cas où."
+    },
+    {
+     "t": "p",
+     "s": "— Reprends-la."
+    },
+    {
+     "t": "p",
+     "s": "— Garde-la. Tu n'es pas obligée."
+    },
+    {
+     "t": "p",
+     "s": "Elle se leva. Elle serra la main de Théo, qui ne la lui rendit qu'à moitié. Elle caressa les cheveux de Sacha, sans qu'il lève les yeux de son livre. Elle partit sans plus rien dire."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "La boîte resta sur la table."
+    },
+    {
+     "t": "p",
+     "s": "Iris la prit le soir même. Elle la regarda, la retourna, en lut l'étiquette : un petit logo en forme de feuille, deux lignes de mentions légales, une date de péremption. Elle la jeta dans le tiroir de la cuisine, sous les ficelles, à côté d'une enveloppe jaunie que sa mère n'avait jamais postée."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne dit rien à Théo. Elle le regarda à la dérobée, assis dans le fauteuil, les mains jointes, la tête penchée. Il avait suivi toute la scène sans bouger. Il n'avait pas proposé son avis. Il n'avait pas fait un geste."
+    },
+    {
+     "t": "p",
+     "s": "— Tu n'as rien dit, murmura-t-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Non."
+    },
+    {
+     "t": "p",
+     "s": "— Tu aurais pu."
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "Il releva les yeux. Il avait ce regard qu'elle n'avait jamais su déchiffrer : un regard sans reproche, sans demande, plein d'une tendresse atroce, comme celui d'un homme qui regarde passer un train qu'il n'a pas le droit d'arrêter."
+    },
+    {
+     "t": "p",
+     "s": "— Il fallait que tu dises non, dit-il. Je voulais t'entendre le dire."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne comprit pas ce qu'il entendait par là. Elle comprit seulement, bien plus tard, que ce non-là, elle l'avait dit pour rien : que Lise avait déjà tout prévu, que la boîte n'était qu'un rappel, un point de passage, une chose qu'on laisse pour qu'on s'en souvienne."
+    },
+    {
+     "t": "p",
+     "s": "Le lendemain, la boîte n'était plus dans le tiroir."
+    }
+   ],
+   "words": 801,
+   "tome": 2
+  },
+  {
+   "id": "t2-25-les-cercueils",
+   "n": 25,
+   "label": "Chapitre 25",
+   "title": "Les cercueils",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "Le fossoyeur s'appelait Marius Combe. Il avait une pelle à manche court, une brouette à roue pleine, et une règle de métier qu'il n'avait jamais transgressée : on ne dit pas aux familles ce qu'on trouve."
+    },
+    {
+     "t": "p",
+     "s": "On avait décidé, à la préfecture, que les morts seraient déplacés avant la mise en eau. Quatre cent douze tombes, en un siècle et demi. On les avait numérotées au pochoir. On les ouvrait par ordre, dans le froid, pendant que les familles regardaient depuis les haies, les chapeaux dans les mains. Les cercueils neufs attendaient sur une charrette : du sapin blanc, sans vernis, que le chantier avait fait venir de la scierie voisine. Marius y plaçait ce qu'il avait. Il refermait. Il cloutait. Il disait : « Voilà, madame. »"
+    },
+    {
+     "t": "p",
+     "s": "Il ne retrouvait pas tout."
+    },
+    {
+     "t": "p",
+     "s": "Cela commença le jeudi 6 novembre, à la sixième tombe : une vieille dame du nom de Pellissier, morte en 1911, dont il ne restait que le linceul et un chapelet de bois. Il remit le chapelet dans le cercueil neuf. Il dit à la famille : « Elle était partie plus vite que les autres. » Personne ne le contredit."
+    },
+    {
+     "t": "p",
+     "s": "Le vendredi, c'était un enfant de trois ans. Pas d'os. De la terre rouge, très fine, tassée en forme de petit corps. Il resta longtemps à genoux au bord de la fosse. Il toucha la terre. Elle était tiède. Il y avait, dedans, de minuscules aiguilles, que la pelle brisa comme du sucre."
+    },
+    {
+     "t": "p",
+     "s": "Il n'en parla à personne."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Rose assista à la dernière journée. C'était le jeudi 13, vers quatre heures de l'après-midi, par un ciel de plomb. Elle était venue pour sa grand-mère, enterrée au fond du vieux cimetière, sous un if. Elle avait pris Anselme par la main. Elle se tenait à l'écart, avec les femmes du village, immobile, les lèvres serrées."
+    },
+    {
+     "t": "p",
+     "s": "Marius ouvrit la tombe de l'aïeule, qui s'appelait Eugénie Peyret et qui était morte en 1938. La terre était noire, grasse, odorante. Il creusa. La pelle cogna sur le bois, qui avait cédé. Il écarta les planches. Il y eut un silence long. Il releva la tête, très lentement, et regarda Rose."
+    },
+    {
+     "t": "p",
+     "s": "Il n'y avait rien."
+    },
+    {
+     "t": "p",
+     "s": "Pas de squelette. Pas de cheveux, pas d'étoffe. Au fond de la fosse, dans la boue, il y avait un seul objet : un petit médaillon d'argent, qui brillait."
+    },
+    {
+     "t": "p",
+     "s": "Il le ramassa. Il le lui tendit sans un mot. Elle le prit, et il sentit, à la façon dont ses doigts se refermèrent, qu'elle savait."
+    },
+    {
+     "t": "p",
+     "s": "— Elle est partie, dit-il."
+    },
+    {
+     "t": "p",
+     "s": "— Non, dit Rose."
+    },
+    {
+     "t": "p",
+     "s": "— Je suis désolé."
+    },
+    {
+     "t": "p",
+     "s": "— Elle n'est pas partie, dit-elle. Elle est dessous."
+    },
+    {
+     "t": "p",
+     "s": "Elle regarda la fosse, la terre rouge sur les bords, les petites aiguilles qui luisaient. Elle regarda Anselme, qui tendait la main vers le médaillon, avec cette curiosité muette des enfants devant l'or. Elle le serra contre elle."
+    },
+    {
+     "t": "p",
+     "s": "Et au fond d'elle, très bas, quelqu'un murmura : *Rose.*"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Elle rentra à pied, les yeux secs. Elle fit le souper : une soupe de lard et de pommes de terre, du pain, une pomme cuite. Elle coucha Anselme. Elle attendit que Jean et l'enfant dorment. Puis elle s'assit à la table, seule, devant la lampe, et dit à voix haute, calmement, comme on parle à une voisine :"
+    },
+    {
+     "t": "p",
+     "s": "— Je sais ce que tu vas faire."
+    },
+    {
+     "t": "p",
+     "s": "Il n'y eut pas de réponse. Elle attendit."
+    },
+    {
+     "t": "p",
+     "s": "*Quoi ?*"
+    },
+    {
+     "t": "p",
+     "s": "— Tu vas rester jusqu'au bout. Tu vas rester jusqu'à ce qu'on ferme la vanne."
+    },
+    {
+     "t": "p",
+     "s": "*Oui.*"
+    },
+    {
+     "t": "p",
+     "s": "— Et après, tu mourras."
+    },
+    {
+     "t": "p",
+     "s": "*Je ne sais pas.*"
+    },
+    {
+     "t": "p",
+     "s": "— Si."
+    },
+    {
+     "t": "p",
+     "s": "Il y eut un silence. Dehors, très loin, les camions grondaient."
+    },
+    {
+     "t": "p",
+     "s": "*Je me dissoudrai. Vous resterez. C'est tout.*"
+    },
+    {
+     "t": "p",
+     "s": "Rose posa ses mains à plat sur la table. Elle regarda la photographie de mariage, sur le buffet. Elle regarda ce garçon maigre aux mains d'ouvrier, cette jeune femme obstinée. Elle sentit quelque chose de lourd et de doux se poser sur elle, qui n'était ni de la tristesse, ni de la peur."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne veux pas rester seule avec ma maison noyée, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "*Rose…*"
+    },
+    {
+     "t": "p",
+     "s": "— Je ne te pardonne pas. Je ne te pardonnerai jamais. Mais je ne veux pas que tu partes. Reste."
+    },
+    {
+     "t": "p",
+     "s": "Elle prononça le mot comme on dépose un objet sur une table. Elle ne le dit pas à Iris. Elle le dit à la maison, aux murs, à la lampe, à la photo, à tout ce qui allait disparaître sous quatre-vingt-dix mètres d'eau."
+    },
+    {
+     "t": "p",
+     "s": "— Reste après. Reste avec moi dans l'eau. Reste."
+    },
+    {
+     "t": "p",
+     "s": "Iris ne répondit pas. Elle ne le put pas. Elle sentait en elle quelque chose se défaire, qui n'était ni du soulagement, ni de la joie : l'effondrement d'un mur qu'elle n'avait pas su bâtir."
+    },
+    {
+     "t": "p",
+     "s": "Elle comprit qu'on venait de lui donner la seule chose qu'elle n'aurait jamais osé demander. Elle comprit ce qu'on lui avait donné : le droit de mourir ici."
+    },
+    {
+     "t": "p",
+     "s": "*Oui,* dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "C'était un mot de rien. Il fit, dans la cuisine, un très petit bruit, comme une pièce qu'on laisse tomber dans un puits."
+    }
+   ],
+   "words": 837,
+   "tome": 2
+  },
+  {
+   "id": "t2-26-la-pastille",
+   "n": 26,
+   "label": "Chapitre 26",
+   "title": "La pastille",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "Sacha avait quatorze ans le matin où elle le trouva assis sur son lit, les yeux ouverts, qui comptait."
+    },
+    {
+     "t": "p",
+     "s": "C'était un jeudi de mars 2064, à six heures dix. Il pleuvait. Elle venait de se lever, pieds nus, un châle sur les épaules, pour ouvrir le poêle et mettre la bouilloire à chauffer. En passant devant la chambre de son fils, elle avait entendu, à travers la porte entrouverte, un murmure régulier, comme un chapelet. Elle s'était arrêtée. Elle avait poussé la porte."
+    },
+    {
+     "t": "p",
+     "s": "Il était assis tout droit, les mains à plat sur les cuisses. Il fixait le mur. Il regardait quelque chose, au-delà de la cloison, qu'elle ne voyait pas. Ses lèvres bougeaient. Il disait, à voix très basse, d'une voix de somnambule :"
+    },
+    {
+     "t": "p",
+     "s": "— Quarante-huit. Quarante-neuf. Cinquante."
+    },
+    {
+     "t": "p",
+     "s": "— Sacha."
+    },
+    {
+     "t": "p",
+     "s": "Il ne répondit pas. Elle s'approcha. Elle posa la main sur son épaule. Il était glacé."
+    },
+    {
+     "t": "p",
+     "s": "— Cinquante-sept. Cinquante-huit."
+    },
+    {
+     "t": "p",
+     "s": "— Sacha, regarde-moi."
+    },
+    {
+     "t": "p",
+     "s": "— Cinquante-neuf."
+    },
+    {
+     "t": "p",
+     "s": "Il s'arrêta. Il resta immobile, la bouche entrouverte, comme un petit garçon au bord d'une marche manquante. Il tourna la tête, très lentement, vers elle. Ses yeux étaient d'un gris très clair. Il y avait dedans quelque chose de nouveau, qui n'était pas de la peur : une fatigue, un recul, une distance. Un enfant qui s'était éloigné de lui-même d'un pas."
+    },
+    {
+     "t": "p",
+     "s": "— Maman, dit-il. Je ne retrouve pas le prénom de Bastien."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "— Quel Bastien ? demanda-t-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Le monsieur de la grande maison. Le père de papa."
+    },
+    {
+     "t": "p",
+     "s": "— Tu l'as vu trois fois."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais. Je l'ai oublié."
+    },
+    {
+     "t": "p",
+     "s": "Elle comprit. Elle ne dit rien. Elle le prit dans ses bras, très fort, comme elle l'avait fait à sa naissance. Il se laissa faire. Il ne pleura pas."
+    },
+    {
+     "t": "p",
+     "s": "— Ça a commencé quand ?"
+    },
+    {
+     "t": "p",
+     "s": "— Il y a trois semaines."
+    },
+    {
+     "t": "p",
+     "s": "— Qu'est-ce que tu as pris ?"
+    },
+    {
+     "t": "p",
+     "s": "— Rien."
+    },
+    {
+     "t": "p",
+     "s": "— Sacha."
+    },
+    {
+     "t": "p",
+     "s": "Il baissa les yeux. Il hésita, longtemps, avec cette gravité de mauvais menteur qu'ont les enfants qui n'ont jamais menti."
+    },
+    {
+     "t": "p",
+     "s": "— C'est à l'école, dit-il. La directrice l'a distribué. Tout le monde en prend. C'est un complément. Pour le sommeil."
+    },
+    {
+     "t": "p",
+     "s": "— Une pastille ?"
+    },
+    {
+     "t": "p",
+     "s": "— Blanche. On la met sous la langue."
+    },
+    {
+     "t": "p",
+     "s": "— Tu l'as eue d'où ?"
+    },
+    {
+     "t": "p",
+     "s": "— À l'infirmerie. On nous les donne le soir, avant l'étude."
+    },
+    {
+     "t": "p",
+     "s": "Elle ferma les yeux. Elle eut, très nettement, la vision d'une petite boîte sur une table, de deux tasses de thé, d'un chemisier blanc. *Je te le demande comme une amie.* Elle n'avait pas dit oui. Elle n'avait pas eu à le faire. On avait attendu, simplement, que la porte soit ouverte d'un autre côté."
+    },
+    {
+     "t": "p",
+     "s": "— Pourquoi tu n'as rien dit ?"
+    },
+    {
+     "t": "p",
+     "s": "— Parce que je dormais, dit Sacha. Pour la première fois. Tu comprends ? Je dormais. Sans rêver. Sans compter."
+    },
+    {
+     "t": "p",
+     "s": "Il leva les yeux. Il avait, dans le regard, une espèce de supplication très calme, de celle des enfants qui demandent un cadeau qu'on ne devrait pas leur refuser."
+    },
+    {
+     "t": "p",
+     "s": "— Je n'avais plus peur, dit-il. J'avais peur depuis toujours, et je n'avais plus peur."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Elle alla trouver Théo dans l'atelier, au fond du jardin. Il y passait ses nuits à écrire, d'une main fine, dans des cahiers qu'il refermait dès qu'elle entrait. Elle poussa la porte sans frapper. Il leva la tête. Il ne cacha rien, cette fois. Il la regardait, sur le seuil, mouillée de pluie, les cheveux dans les yeux."
+    },
+    {
+     "t": "p",
+     "s": "— Tu savais, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "— Depuis quand ?"
+    },
+    {
+     "t": "p",
+     "s": "— Depuis le début."
+    },
+    {
+     "t": "p",
+     "s": "— Tu savais que la pastille…"
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "— Et tu n'as rien dit."
+    },
+    {
+     "t": "p",
+     "s": "Il reposa son crayon. Il le posa très exactement, parallèle au bord du cahier, comme on pose un objet qui ne doit plus servir."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne pouvais pas, dit-il. Il faut qu'il la prenne."
+    },
+    {
+     "t": "p",
+     "s": "Elle le regarda. Elle ne comprit pas. Elle ne voulut pas comprendre. Elle attendit qu'il dise autre chose. Qu'il dise : *c'est une erreur.* Qu'il dise : *je vais l'arrêter.* Qu'il dise : *je suis désolé.* Il dit :"
+    },
+    {
+     "t": "p",
+     "s": "— Je t'aime. Je t'ai toujours aimée. Je ne peux rien faire d'autre."
+    },
+    {
+     "t": "p",
+     "s": "— Tu n'es pas son père, alors."
+    },
+    {
+     "t": "p",
+     "s": "— Si, dit-il. C'est ça, le problème."
+    },
+    {
+     "t": "p",
+     "s": "Elle ne cria pas. Elle ne le frappa pas. Elle resta là, très droite, avec cette impression d'avoir vécu dix-huit ans dans une maison dont elle n'avait jamais vu le plan. Puis elle ressortit, sous la pluie, et alla chercher son fils."
+    },
+    {
+     "t": "p",
+     "s": "Il ne dormit plus jamais sans la pastille. Elle ne put pas la lui retirer. Elle essaya, deux fois, en cachant la boîte : il se mit à crier, dans son sommeil, des mots qu'elle ne reconnaissait pas, et ses jambes se mirent à courir sous le drap."
+    },
+    {
+     "t": "p",
+     "s": "Elle la lui rendit. Elle ne se le pardonna jamais."
+    }
+   ],
+   "words": 790,
+   "tome": 2
   }
  ]
 };
