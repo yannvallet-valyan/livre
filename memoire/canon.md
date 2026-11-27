@@ -65,3 +65,9 @@
 - Walther : protestant, fils de pasteur, 31 ans. Il brûle le dossier le 12 sept. 1958 ; Jean libéré le 30 sept.
 - 3 oct. 1958 : Iris découvre qu'elle peut rester le jour et le refuse ; **13 oct.** : elle prend un jour (préfecture de Grenoble), Anselme manque de se noyer (canal), Walther le sauve, **Rose l'embrasse**. Iris pense qu'elle reprendra un jour « plus tard ».
 - Le chef-lieu est à 14 km de Vallorce-le-Bas ; Grenoble est la préfecture (car de 6 h 40, 3 h 20).
+
+## Décisions d'écriture V3.25 (tome 2)
+- **Sacha** : rouillé en déc. 2064-févr. 2065 ; le 11→12 févr. 2065 Théo lui pose un éclat sur le front (« la porte ») ; mort déclarée une semaine plus tard ; **enterré** à Vallorce. Théo disparaît **la nuit de l'enterrement** (mot : « Pardon. Je ne pouvais pas faire autrement. Compte. — T. »).
+- **Ch. 30 (à écrire)** : Iris et Étienne **exhument** Sacha en hiver 2065-66 ; Étienne prélève l'éclat (« un donneur »), sans savoir pourquoi. Iris trouve la cache de Théo (« Que la boucle tourne »).
+- **K. (1958)** : première mesure la nuit du 13→14 nov., dans Walther ; cahier « Variable inconnue. Hôte R.R. » ; il donne sa **lampe de poche** à Rose-Iris, qui la pose sur le paillasson (épilogue). Iris se tait pour qu'il devienne K.
+- Odette dit « Cinquante-neuf » à la porte de Rose, sans « soixante ».
