@@ -13,4 +13,5 @@
 | V3.8 | 2026-11-27 | Les 4 choix sombres validés ; premiers chapitres des tomes 2 et 3 rédigés (`01-la-glaise`, `01-tobie`) ; proposition : rencontre des deux Élise (cabine, nuit du 10 au 11 nov., tour 47) |
 | V3.9 | 2026-11-27 | Rencontre des deux Élise intégrée au plan du tome 3 (cabine, 10→11 nov.) ; propositions de rencontre des deux Iris (A à D) en attente |
 | V3.10 | 2026-11-27 | Rencontre des deux Iris (B + A) intégrée : voyage d'Iris du présent dans Odette (1958), 9 h 40 dans le cristal ; `41` (premier voyage) et `25` (la mère de Corinne) retouchés |
+| V3.11 | 2026-11-27 | Les deux Iris : sujets de discussion intégrés (lavoir 1958 : leur mère et le marché ; 9 h 40 : Sacha, « Garde-le », le troisième couplet) ; chapitres 5b, 10b (tome 2), 16b, 26b (tome 3) réécrits |
 

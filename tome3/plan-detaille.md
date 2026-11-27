@@ -55,7 +55,7 @@
 
 **16. S · 2046-2047 · Théo.** Kerr abandonne le corps de Bastien, qui s'effondre un après-midi dans son bureau (un malaise cardiaque d'abord, puis une guérison inexplicable : Bastien se réveille, et ne se souviendra de rien). Il passe dans **Théo**, 17 ans, rouillé par les pilules de son père. Le garçon vide est une maison où l'on peut entrer sans forcer. **C'est le seul corps où Kerr n'a volé personne.** Mais le fils de Bastien, vidé, n'avait pas demandé à l'être, et c'est son père qui l'a fait. *Coût :* le vrai Théo, vidé avant lui, ne reviendra jamais ; Bastien, au réveil, ne sait pas ce qu'il a fait. *(maillon 9)*
 
-**16b. R · été 2160 · Odette.** ✅ Iris du présent, 30 ans, à l'insu de Sacha, demande à Ruben un éclat et fait un **premier voyage, plus court**, dans son aïeule **Odette Girard** (28 ans), boulangère de Vallorce-le-Bas, 1958. Le cristal est encore intact : elle pourra rentrer. La nuit, elle entend, à travers la cloison, une femme qui compte jusqu'à 59 et s'arrête. Elle comprend qu'elle n'est pas la seule : **elle a une sœur dans la maison d'à côté, et elle ne le sait pas.** Elle apprend, par les carnets de Sacha, qu'un sabotage effacerait leur mère. **Elle dénonce Rose au gendarme.** Elle rentre en 2160 avec ce qu'elle a fait. *Coût :* elle a livré sa sœur sans savoir qui elle est, et elle ne le dira jamais. *(→ tome 2 ch. 5, 12, 27)*
+**16b. R · été 2160 · Odette.** ✅ **Point de vue d'Iris du présent**, 30 ans. Elle a lu les carnets de Sacha (Ruben est mort l'hiver précédent, `11`). À l'insu de Sacha, elle demande à Ruben (ou à son éclat caché) un **premier voyage, plus court**, dans son aïeule **Odette Girard** (28 ans), boulangère de Vallorce-le-Bas, 1958. Le cristal est encore intact : elle pourra rentrer. **Elle sait déjà qui elle va rencontrer :** une femme qui s'appelle Iris, comme elle, la mère de l'homme qu'elle aime. Elle la reconnaît à la cloison, la première nuit, à ce qu'elle chante deux couplets et s'arrête. *Elle l'attend au lavoir.* Elle lui décrit leur mère (« Comment elle est ? »). Puis, parce que le carnet dit que le lac doit se remplir pour qu'Élise existe, **elle lui ment** : « Si tu laisses le lac se remplir, je te dirai comment sauver ton fils. » Elle ne dit pas qu'elle est sa sœur. **Elle dénonce ensuite Rose au gendarme**, pour qu'on la surveille. Elle rentre en 2160 avec ce qu'elle a fait. *Coût :* elle a menti à sa sœur et lui a pris sa dernière chance. *(→ tome 2 ch. 5, 5b, 10b, 12, 27)*
 
 **17. R · 2164.** Iris du présent, 34 ans, quitte le refuge. Elle laisse un fils de huit ans, Kerr, à **Agathe**. Elle dit à Sacha : « Tu as voulu un enfant, tu l'as. » Elle part dans Mathis, vers sa mère. Sacha repart mesurer. Kerr, à huit ans, regarde le dortoir se vider. *Coût :* un enfant abandonné par ses deux parents le même jour. *(maillon 24)*
 
@@ -85,7 +85,16 @@
 
 ## PARTIE V — La nuit froide (oct. 2026, tour brisé)
 
-**26b. O · 14 novembre 2026, 9 h 40 · L'instant.** ✅ Le coulis monte. Toutes les dissolutions se produisent ensemble : Élise dans Sophia, Noé dans Étienne, Iris du présent dans Mathis, les Élise d'Anselme. Anselme est le fils de Rose, il porte le résidu d'**Iris du passé** : elle s'éteint avec lui. Dans le cristal, hors du temps, **les deux sœurs se retrouvent soixante secondes**, sans corps. Elles se reconnaissent à la voix : l'une est celle de la cloison de 1958, l'autre celle de la dame du lac. La plus jeune dit : « C'était toi. » L'autre : « Je ne savais pas. » Elles comptent ensemble. Cinquante-neuf. **Soixante.** *Coût :* c'est la première fois qu'Iris du passé le dit, et c'est la dernière fois qu'elles se parlent. *(→ `43`, `32`, `41`)*
+**26b. O · 14 novembre 2026, 9 h 40 · L'instant.** ✅ Le coulis monte. Toutes les dissolutions se produisent ensemble : Élise dans Sophia, Noé dans Étienne, Iris du présent dans Mathis, les Élise d'Anselme. Anselme est le fils de Rose, il porte le résidu d'**Iris du passé** : elle s'éteint avec lui. Dans le cristal, hors du temps, **les deux sœurs se retrouvent soixante secondes**, sans corps. Elles se reconnaissent à la voix : l'une est la voisine du lavoir, l'autre la dame du lac. **En trois mouvements :**
+1. **« Sacha ».** Iris du présent : « Il s'appelle Sacha. » Iris du passé comprend que K. n'est pas seulement son fils mort : il aimera sa sœur, qui a son visage. « Ne l'aime pas. — Il m'aime déjà. » Elle apprend aussi le marché : c'était un mensonge. Elle ne le pardonne pas ; elle ne le reproche pas.
+2. **« Garde-le ».** Sophia, trente mètres plus bas, tient l'aiguille. Iris du passé : « Détruis-la. » Iris du présent : « Si elle la détruit, Sacha ne naît pas. — Il mourra à quinze ans. — Je préfère qu'il meure à quinze ans plutôt qu'il n'existe pas. » Iris du passé, qui l'a perdu : « Moi, je l'ai eu. **Garde-le.** » (→ `43` : Sophia garde l'aiguille.) *Coût :* une mère consent à ce que la mort de son fils recommence.
+3. **La troisième strophe.** Elles chantent ensemble, parce qu'il manque quelque chose à ce que chacune sait. Le troisième couplet n'existe que quand les deux filles de la chanson le chantent. **Soixante** : elles le disent ensemble. C'est la première fois pour Iris du passé. *Brouillon du couplet :*
+   *Dors, mon enfant, dors sans bruit,*
+   *je compte pour toi jusqu'à minuit ;*
+   *au soixantième, si tu m'entends,*
+   *je serai là, comme avant.*
+   (Rose s'arrêtait toujours avant, `25` ; Élise ne l'a jamais chanté à Iris, `03` ; Sophia le chante à son père, `43`. Le dernier vers promet la présence au soixantième : l'enfant s'endort avant, personne ne l'entend.)
+*(→ `43`, `32`, `41`)*
 
 **27. R · 2180 · Le départ.** Kerr, 24 ans, étend Mael sur le lit de l'infirmerie. Il lui pose l'éclat sur le front. Il compte. Il part. Le refuge s'éteint. **Agathe** referme la porte. Elle reste seule dans le dortoir B. *Coût :* tout. *(maillon 1)*
 
@@ -137,7 +146,7 @@
 | Amoureuse | Iris du présent → Sacha | Partir en laissant leur fils |
 | Amicale | Kerr → Mael | Prendre l'éclat sur son ami |
 | Amicale | Ruben → Iris | Cacher les carnets pendant quatre ans |
-| Sororale | Iris du présent → Iris du passé | La dénoncer en 1958 (par Odette), sans savoir qui elle est |
+| Sororale | Iris du présent → Iris du passé | Lui mentir (le marché), puis la dénoncer en 1958 (par Odette), en sachant qui elle est |
 | Familiale | Kerr → Sacha | Le laisser devenir K. |
 | Familiale | Kerr → Bastien (hôte) | Le posséder |
 | Familiale | Élise et Noé → Sophia et Étienne | Ne pas demander |

@@ -51,6 +51,9 @@ Chaque ligne = un fait déjà écrit, et le chapitre du tome 2 ou 3 qui doit en 
 | Rose compte jusqu'à 59 (`32`) | T2 : Iris compte comme Élise |
 | La lampe sur le paillasson, pile inusable (`32`) | T2/T3 : Sacha la pose à l'aube du 14 nov. 1958 |
 | « Ce n'est pas encore l'heure. Ce n'est pas encore vous. » (`32`) | T2 : Sacha parle à Iris sans la reconnaître |
+| « Comme ça, je me reconnais » (`32`) | T2 ch. 5b : la description d'Élise par Iris du présent |
+| Rose s'arrête toujours avant la fin de la chanson (`25`) ; Sophia connaît « toutes les paroles » (`43`) | T3 ch. 26b : le troisième couplet, chanté par les deux Iris |
+| Sophia garde l'aiguille (`43`) | T3 ch. 26b : « Garde-le » |
 | « Pas un grain, Sophia. Promets-le-moi » (`42`) ; « Il faudra qu'il n'en reste rien » (`37`) | T3 : Élise B l'a avertie dans la cabine (nuit du 10 au 11 nov.) |
 | « Cassant comme du sucre » (`02`, `03`, `30`) | T3 : Élise A le dit à Élise B, qui l'écrira dans la page (la phrase n'a pas d'auteur) |
 | « Le temps qu'il reste » (`19`, `32`) | T3 : la phrase de Kerr à son fils |
@@ -78,10 +81,17 @@ Chaque ligne = un fait déjà écrit, et le chapitre du tome 2 ou 3 qui doit en 
 ## 3 ter. ✅ La rencontre des deux Élise (intégrée en V3.9)
 Voir `../tome3/plan-detaille.md` (chapitre inséré O · nuit du 10 au 11 nov.) et `histoires-annexes.md`. Maillon **26** (ajouté) : Élise B, au fond d'Anselme, avertit Élise A : « Il en reste toujours un grain. Quelqu'un le garde toujours. »** → `42` : « Pas un grain, Sophia. Promets-le-moi. » ; et Élise A lui dit « cassant comme du sucre » → B l'écrira dans la page (`02`). La phrase n'a pas d'auteur.
 
-## 3 quater. ✅ La rencontre des deux Iris (B + A, intégrée en V3.10)
-- **B (1958, manquée) :** Iris du présent fait en 2160 un premier voyage dans **Odette**, voisine de Rose (Iris du passé). Elles se repèrent au compte : toutes deux s'arrêtent à 59. Odette dénonce Rose. Odette est l'aïeule d'Iris du présent par Corinne (sa petite fille de trois ans est la mère de Corinne, `25`, `27`).
-- **A (2026, reconnue) :** 14 nov., 9 h 40. Les deux Iris, sans corps, soixante secondes dans le cristal. **Elles disent ensemble le soixantième.**
-- Maillons : **27** Iris du présent dénonce Rose (1958) ; **28** les deux sœurs disent soixante (2026).
+## 3 quater. ✅ La rencontre des deux Iris (intégrée en V3.11)
+**Deux scènes, quatre sujets.** Iris du présent sait qui elle rencontre ; Iris du passé ne le sait pas. Asymétrie voulue.
+- **1958, au lavoir (tome 2 ch. 5b, 10b ; tome 3 ch. 16b).** Iris du présent est dans **Odette** (premier voyage, 2160).
+  - **« Comment elle était »** : elle décrit leur mère (cheveux ras, encre noire, lentilles trop salées, le compte). → le lendemain, **Rose se coupe les cheveux** (`32`).
+  - **« Le marché »** : elle ment : « laisse le lac se remplir, je te dirai comment sauver ton fils. » → Iris du passé cesse de saboter ; **la vanne se fermera** ; Odette dénonce ensuite Rose.
+- **14 nov. 2026, 9 h 40, dans le cristal (tome 3 ch. 26b).** Soixante secondes.
+  - **« Sacha »** : Iris du passé apprend que son fils aimera sa sœur ; et le mensonge.
+  - **« Garde-le »** : l'aiguille. Iris du passé consent. → **Sophia garde l'aiguille** (`43`).
+  - **« La troisième strophe »** : elles chantent le couplet manquant ensemble et disent **soixante**. → Sophia connaît les trois couplets (`43`).
+- **Maillons** : 27 Iris du présent ment et dénonce (1958) ; 28 les deux sœurs, 9 h 40 ; 29 le marché (conséquence : la vanne) ; 30 « Garde-le » (conséquence : la fiole).
+- **Dettes payées** : « Comme ça, je me reconnais » (`32`) ; troisième couplet (`25`, `03`, `43`) ; Sophia garde l'aiguille (`43`) ; la mère de Corinne (`25`) ; « un voyage plus court » (`41`).
 
 ## 4. Charte du ton sombre (à respecter dans les tomes 2 et 3)
 1. **Chaque victoire coûte quelque chose** à quelqu'un d'innocent : un hôte, un enfant, un ami.

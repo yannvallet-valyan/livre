@@ -49,5 +49,5 @@ Tour 48 ; autres lacs (Annecy) ; Genève ; Oriane ; Iris B ; 1958 avant 1958. �
 Voir `predestination.md` §3 quater. Demandes de l'auteur en attente : 💡 **une Élise B dans le corps de l'Élise A** (voir réponse) — option retenue à valider : **les deux Élise dans le même corps (Sophia), au tour 48** (coda du tome 3).
 
 ## Les deux Iris : « Rose partagée » refusée par l'auteur (V3.10)
-Reste intégré : voyage court d'Iris du présent dans **Odette** (1958) + 9 h 40 dans le cristal (`predestination.md` §3 quater). **À définir : le sujet de leurs discussions** (propositions de l'assistant : « Comment elle était », « Le marché », « Sacha », « Garde-le »).
+Reste intégré : voyage court d'Iris du présent dans **Odette** (1958) + 9 h 40 dans le cristal (`predestination.md` §3 quater). **Sujets tranchés en V3.11** : « Comment elle était », « Le marché » (1958) ; « Sacha », « Garde-le », la troisième strophe (9 h 40).
 

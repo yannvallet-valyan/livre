@@ -25,7 +25,9 @@
 
 **4. V · automne 2026-2027 · Lyon.** Hélène, la mère de Sophia, qui avait quitté Anselme en 1991, accueille sa fille sans poser de question. Sophia découvre la grossesse. Elle écrit à Étienne, ne poste pas. Hélène lui fait promettre de ne jamais retourner à Vallorce. **La même promesse, la même phrase** (`10`). *Coût :* l'enfant naîtra sans père. *(maillon 7)*
 
-**5. F · juillet 1958.** *(indice Odette : à travers la cloison mitoyenne, une voix de femme compte aussi jusqu'à 59 et s'arrête, comme elle. Iris croit à son propre écho.)* Première nuit de chant : elle berce Anselme avec *Dors, la rivière*. Elle ne connaît que deux couplets. **Le troisième ne vient pas.** Elle s'arrête. Jean, derrière la porte, écoute la voix de sa femme chanter dans une langue qu'il ne connaît pas. *Coût :* il pleure sans savoir. *(→ `25`)*
+**5. F · juillet 1958.** Première nuit de chant : elle berce Anselme avec *Dors, la rivière*. Elle ne connaît que deux couplets. **Le troisième ne vient pas.** Elle s'arrête. Jean, derrière la porte, écoute la voix de sa femme chanter dans une langue qu'il ne connaît pas. Et, de l'autre côté de la cloison mitoyenne, une voix de femme **reprend, très bas, les deux mêmes couplets**, et s'arrête au même endroit. *Coût :* il pleure sans savoir ; elle, elle n'a pas peur : elle reconnaît quelqu'un qui n'est pas d'ici. *(→ `25`)*
+
+**5b. F · fin juillet 1958 · Le lavoir (« Comment elle était »).** ✅ La nuit, au vieux lavoir. Elles se reconnaissent d'abord sans mot : deux femmes de la vallée qui ne dorment pas, à trois heures du matin, à quelques pas l'une de l'autre. L'autre est **Odette**, la voisine ; mais on voit, à la façon dont elle tient ses mains, que ce n'est pas elle. Elles savent les règles : l'hôte dort, la voyageuse veille. **Iris (du passé) comprend qu'elle n'est pas seule.** Elles parlent de ce qu'elles ont perdu. Iris dit qu'elle n'a jamais connu sa mère. L'autre dit : « Moi si. » Elle la décrit : les cheveux ras, l'encre noire, les lentilles trop salées, le compte jusqu'à soixante. Iris demande : « Comment elle est ? » (la question de Noé, `14`). *Le lendemain matin, Rose se coupe les cheveux : « Comme ça, je me reconnais. »* *Coût :* elle ne demande pas qui est cette femme. L'autre, elle, sait exactement qui est Iris. *(→ `32`)* 🔒 *Le lecteur ne sait pas encore que ce sont deux sœurs.*
 
 **6. Interlude · Sophia, une nuit de juillet 2027.** Le point de vue de Sophia pendant l'accouchement. Elle ne garde que deux mots : « Vas-y. » On a lu `36` : on connaît ce qui se passe. *Coût :* elle ne saura jamais qui elle a laissé entrer.
 
@@ -40,6 +42,8 @@
 **9. V · 2027-2039 · Lyon.** L'enfance d'Iris : la craie, les nuits à deux voix, Hélène qui vieillit, Sophia qui travaille trop. Le grain de beauté. Un souvenir sans origine : une femme aux cheveux courts qui la tient. À douze ans, elle jure à sa grand-mère de ne jamais retourner à Vallorce. *Coût :* elle ment dès la première minute. *(maillon 13)*
 
 **10. F · août 1958 · Le sabotage.** Le chantier veut vider la vallée en trois mois. La nuit du 20 août, Iris dévisse un joint de la pompe principale. Le chantier prend une semaine de retard. Elle croit avoir gagné. *Coût :* un ouvrier est blessé quand la conduite lâche. *(maillon 13)*
+
+**10b. F · fin août 1958 · Le marché.** ✅ Après le sabotage, un ouvrier blessé. Iris, rongée, veut recommencer. La voisine, la nuit, au lavoir, lui dit : « Arrête. Si tu laisses le lac se remplir, je te dirai comment sauver ton fils. » Elle sait que Sacha existe. Iris ne lui a jamais parlé de lui. **Elle l'accepte** : elle cesse de saboter. *Coût :* **c'est un mensonge.** Il n'y a aucun moyen de sauver Sacha. L'autre le sait. C'est ce qui explique que la vanne se fermera (`32`). *(→ maillon 29)*
 
 **11. V · 2040 · Lise.** À treize ans, Iris a une amie, **Lise**, qui l'enregistre sans le lui dire, une nuit de sommeil agité : on entend deux voix. Lise rit, puis se tait. Elle l'envoie à son père, qui travaille à Léthé. Léthé s'intéresse. *Coût :* la première trahison d'Iris, à treize ans, ne se verra que vingt-trois ans plus tard. *(maillon 10)*
 
@@ -107,6 +111,7 @@
 ---
 
 ## Rebondissements (liste)
+0. **Les deux voix de part et d'autre de la cloison** (ch. 5), puis **le lavoir** (ch. 5b) : Iris du passé n'est pas seule, et ne sait pas à qui elle parle. **Le marché** (ch. 10b) : une femme qu'elle croit alliée la manipule.
 1. **Étienne arrive en somnambule à la naissance** : le père porte l'enfant avant de savoir (V7).
 2. **La règle est fausse** (F15) : relit toute la partie V.
 3. **Anselme sauvé par Walther, par amour pour Rose** (F18) : la vie de Sophia tient à une trahison conjugale.
@@ -120,7 +125,7 @@
 |---|---|---|---|
 | Amoureuse | Théo → Iris | Il lui cache la moitié de lui ; il laisse Sacha prendre le mal | Iris part |
 | Amoureuse | Rose → Jean | Elle embrasse Walther | Jean reste quand même |
-| Amicale (🔒 sororale au tome 3) | Odette → Rose | Elle parle au gendarme | Jean emprisonné |
+| Amicale (🔒 sororale au tome 3) | « Odette » (Iris du présent) → Rose | Elle fait un marché (mensonge) puis dénonce Rose | Iris du passé arrête, Jean emprisonné |
 | Amicale | Lise → Iris | Enregistrement (2040), puis pilules (2064) | Sacha |
 | Familiale | Iris → Rose | Elle prend ses jours | Anselme presque noyé |
 | Familiale | Étienne → Sacha | Il prélève l'éclat, sans savoir | Le départ d'Iris |

@@ -44,6 +44,6 @@
 - **Le premier péché d'Élise et de Noé** : leurs hôtes n'auraient pas consenti ; ils ne les réveillent pas.
 - **Rose consent** (« Reste ») à la dissolution d'Iris ; Walther (le jour) sauve Anselme par amour pour Rose.
 - **« Que la boucle tourne »** : dernière ligne du manuel, recopiée par Noé (`26`).
-- **La rencontre des deux Iris** ✅ : 1958 (Odette / Rose, manquée) puis 14 nov. 2026, 9 h 40 (le cristal, reconnue ; elles disent soixante). Détail : `predestination.md` §3 quater.
+- **La rencontre des deux Iris** ✅ : 1958, au lavoir (Odette/Rose : « Comment elle était », « Le marché ») puis 14 nov. 2026, 9 h 40, dans le cristal (« Sacha », « Garde-le », la troisième strophe). Iris du présent sait qui elle rencontre, pas l'autre. Détail : `predestination.md` §3 quater.
 - **La rencontre des deux Élise** ✅ : nuit du 10 au 11 nov. (tour 47), cabine, vers 4 h 15. Élise B prend A pour sa mère (« Oui »), l'avertit du grain ; A lui donne « cassant comme du sucre ». Détail : `../tome3/plan-detaille.md`.
 
