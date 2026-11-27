@@ -36,3 +36,6 @@ Voir `plan-detaille.md` (partie V) et `../roman/bible/trilogie.md` §7.
 
 ## Fichiers
 - `plan-detaille.md` : le plan, partie par partie.
+
+
+> **État (V3.63)** : premier jet ≈ 70 000 mots, ~70 fichiers dans `chapitres/` (ordre = tri alphabétique des noms de fichiers ; titres renumérotés). Finale = `41b`–`41g`, coda = `42-tour-48`. Non publié sur le site.
