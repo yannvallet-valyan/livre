@@ -112,6 +112,6 @@ Il s'arrêta. Il regarda la façade blanche, les fenêtres éclairées, la silho
 
 — Rien, dit-il. Rien.
 
-Il lui prit la main. Elle ne lui demanda pas de poursuivre. Elle sentit sa paume, froide, un peu moite, qui tremblait. Elle sentit, pour la première fois, qu'il avait peur d'elle, d'une peur qui ressemblait à de l'amour, et d'un amour qui ressemblait à un remords.
+Il s'arrêta à côté d'elle. Elle ne lui demanda pas de poursuivre. Elle l'entendit respirer, très vite, dans le noir. Elle sentit, pour la première fois, qu'il avait peur d'elle, d'une peur qui ressemblait à de la gratitude, et d'une gratitude qui ressemblait à un remords.
 
 Elle crut que c'était l'âge.

@@ -70,7 +70,7 @@ Un soir de février, il s'arrêta au milieu du chemin.
 
 — Dis-le comme ça vient.
 
-Il ne dit rien. Il resta là, debout, dans la nuit, les yeux sur elle, avec une intensité qu'elle ne lui connaissait pas. Il avait les lèvres entrouvertes. Il respirait vite. Elle se rappela qu'il avait dix-sept ans.
+Il ne dit rien. Il resta là, debout, dans la nuit, les yeux sur elle, avec une intensité qu'elle ne lui connaissait pas. Il avait les lèvres entrouvertes. Il respirait vite. Il avait eu dix-huit ans trois semaines plus tôt. Elle avait attendu, sans se l'avouer.
 
 Elle fit le premier pas.
 

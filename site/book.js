@@ -17365,11 +17365,11 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle l'aima à la seconde où elle le vit."
+     "s": "Elle se prit d'amitié pour lui à la seconde où elle le vit."
     },
     {
      "t": "p",
-     "s": "Elle ne l'aurait pas formulé ainsi. Elle aurait dit : *il me plaît*, *il m'intrigue*, *il est étrange*. Elle ne se serait pas avoué qu'à l'instant où il avait fait rebondir son caillou, elle s'était détendue, comme un muscle qu'on lâche après trop longtemps. Elle le revit le lendemain, puis tous les jours. Il l'attendait, sur le muret, un livre à la main, ou dans la salle d'attente du docteur, sous prétexte d'un rhume. Il parlait peu. Il écoutait."
+     "s": "Elle ne l'aurait pas formulé ainsi. Elle aurait dit : *il m'intrigue*, *il est étrange*, *il me repose*. Elle ne se serait pas avoué qu'à l'instant où il avait fait rebondir son caillou, elle s'était détendue, comme un muscle qu'on lâche après trop longtemps. Elle le revit le lendemain, puis tous les jours. Il l'attendait, sur le muret, un livre à la main, ou dans la salle d'attente du docteur, sous prétexte d'un rhume. Il parlait peu. Il écoutait."
     },
     {
      "t": "p",
@@ -17443,7 +17443,7 @@ window.BOOK = {
      "s": "Elle n'aurait pas su dire qu'il l'avait attendue depuis un siècle."
     }
    ],
-   "words": 1103,
+   "words": 1107,
    "tome": 2
   },
   {
@@ -17671,14 +17671,14 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il lui prit la main. Elle ne lui demanda pas de poursuivre. Elle sentit sa paume, froide, un peu moite, qui tremblait. Elle sentit, pour la première fois, qu'il avait peur d'elle, d'une peur qui ressemblait à de l'amour, et d'un amour qui ressemblait à un remords."
+     "s": "Il s'arrêta à côté d'elle. Elle ne lui demanda pas de poursuivre. Elle l'entendit respirer, très vite, dans le noir. Elle sentit, pour la première fois, qu'il avait peur d'elle, d'une peur qui ressemblait à de la gratitude, et d'une gratitude qui ressemblait à un remords."
     },
     {
      "t": "p",
      "s": "Elle crut que c'était l'âge."
     }
    ],
-   "words": 1123,
+   "words": 1122,
    "tome": 2
   },
   {
@@ -17823,7 +17823,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il ne dit rien. Il resta là, debout, dans la nuit, les yeux sur elle, avec une intensité qu'elle ne lui connaissait pas. Il avait les lèvres entrouvertes. Il respirait vite. Elle se rappela qu'il avait dix-sept ans."
+     "s": "Il ne dit rien. Il resta là, debout, dans la nuit, les yeux sur elle, avec une intensité qu'elle ne lui connaissait pas. Il avait les lèvres entrouvertes. Il respirait vite. Il avait eu dix-huit ans trois semaines plus tôt. Elle avait attendu, sans se l'avouer."
     },
     {
      "t": "p",
@@ -17870,7 +17870,7 @@ window.BOOK = {
      "s": "Il ne lui dit pas qu'il avait attendu ce baiser pendant cent ans."
     }
    ],
-   "words": 1241,
+   "words": 1249,
    "tome": 2
   },
   {
