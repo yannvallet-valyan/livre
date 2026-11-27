@@ -8,6 +8,18 @@ Il l'apprit à l'aube, dans le couloir d'une maternité de Lyon, pieds nus, en p
 
 Il y avait quelqu'un d'autre dans sa tête. Pas une voix. Une présence qui s'éloignait, doucement, avec la dignité de quelqu'un qui vient d'accomplir ce pour quoi il était venu. Étienne le sentit partir, comme on sent le dernier wagon d'un train s'éloigner du quai. Il voulut le retenir. Il ne savait pas qui.
 
+Il avait la route en morceaux, comme un film qu'on a vu à moitié endormi. Une portière qui claque. Un volant froid, sous des mains qu'il ne guidait pas. Des phares sur du goudron mouillé, des bornes blanches qui défilaient, un virage où le corps s'inclinait de lui-même avant que l'œil n'ait vu la courbe. Une aire d'autoroute, avec une pompe, un homme en gilet jaune qui lui avait demandé : « Ça va, monsieur ? » Il avait répondu, d'une voix qu'il ne reconnaissait pas, très calme : « J'ai quelqu'un à voir. » L'homme avait haussé les épaules. Il lui avait rendu sa monnaie.
+
+Il se rappelait aussi une voix. Pas dans l'oreille : dans la poitrine, derrière les côtes, un timbre un peu rauque, un peu las, qui répétait la même phrase avec une patience d'instituteur. *Plus vite. On y est presque. Plus vite.* Il se rappelait avoir répondu *oui*, comme on répond à une mère, et avoir senti, dans ses jambes, un empressement qui n'était pas à lui.
+
+Il se rappelait enfin un escalier, un couloir blanc, un nom sur une porte, et cette certitude absurde, terrible, d'être attendu.
+
+Il s'était arrêté sur le seuil. Il avait entendu un cri. C'était un cri de femme, sans paroles, long, qui montait d'une cave d'elle-même. Il avait compris que c'était pour lui. Il avait compris qu'il arrivait trop tard et juste à temps. Quelqu'un lui avait mis les mains en coupe, et avait posé dedans quelque chose de chaud, de mouillé, de vivant, qui criait aussi.
+
+Il n'avait pas pleuré. Il avait seulement pensé, très nettement, avec les mots de quelqu'un d'autre : *Nous voilà.*
+
+---
+
 — Monsieur ? dit la sage-femme.
 
 Elle avait l'accent du Sud et des cernes de fatigue. Elle lui sourit, sans méfiance, avec cette bonté fatiguée qu'ont les gens qui voient arriver chaque nuit des choses qui n'ont pas de sens.
