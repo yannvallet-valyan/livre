@@ -2,9 +2,9 @@
 
 *(premier jet)*
 
-Elle choisit le jeudi 20 août, parce que c'était la nuit sans lune et que le contremaître de la pompe principale, un Piémontais qui s'appelait Orsini, buvait le jeudi.
+Elle remonta jusqu'au joint, à quatre pattes, derrière la conduite.
 
-Elle avait passé quatre nuits à regarder. Ce n'était pas une machine compliquée : un moteur diesel de la taille d'une armoire, une conduite de fonte large comme un homme, qui montait la rivière détournée par-dessus la crête et la renvoyait dans le tunnel. Elle avait vu les mécaniciens la démonter pour le graissage. Elle avait compris qu'à mi-parcours, à l'endroit où la conduite faisait un coude, un joint à brides tenait l'ensemble par douze boulons. Elle avait repéré la clé qu'on y laissait, suspendue à un clou, comme on laisse un pain à la porte.
+Ce n'était pas une machine compliquée : un moteur diesel de la taille d'une armoire, une conduite de fonte large comme un homme, qui montait la rivière détournée par-dessus la crête et la renvoyait dans le tunnel. À mi-parcours, à l'endroit où la conduite faisait un coude, un joint à brides tenait l'ensemble par douze boulons. Elle l'avait regardé si souvent qu'elle l'aurait dessiné les yeux fermés.
 
 Elle prit la clé. Elle dévissa six boulons sur douze. Les mains de Rose, qui avaient tordu tant de draps, y mettaient une force dont Iris n'aurait pas été capable seule, et elle sentit, avec une honte sourde, que le corps y prenait plaisir.
 

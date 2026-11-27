@@ -36,3 +36,4 @@
 | V3.30 | 2026-11-27 | `tome2/plan-etoffement.md` : diagnostic et plan pour porter le tome 2 de ≈ 105 à ≈ 250 pages (14 chapitres ajoutés, tous les chapitres épaissis) |
 | V3.32 | 2026-11-27 | Étoffement : ch. 3 (1 370 mots), 3 bis « Rose, un jour de juin » (POV Rose, 1 330 mots) ; Rose a perdu un fils blond en 1954 ; la « boîte du départ » ; Odette boulangère du hameau |
 | V3.33 | 2026-11-27 | Étoffement : ch. 2 (1 380 mots) et 4 (1 480 mots) ; tome 2 à ≈ 34 900 mots (≈ 125 pages) ; EPUB et lecteur régénérés |
+| V3.34 | 2026-11-27 | Étoffement phase A : 3 ter « La réunion » (mairie, mi-juin 1958 : Fortier, Walther « Je ferais comme vous », Rose : « Je ne signerai pas »), 4 bis « Le quatorze juillet » (bal, Odette, Walther), 5 et 8 épaissis (rythme des nuits, chantier : Orsini, Bastide, le petit Marcel), 9z/10 bis « La nuit d'avant » (jeudi 20 août : préparation, Orsini endormi, clé de Jean oubliée) |

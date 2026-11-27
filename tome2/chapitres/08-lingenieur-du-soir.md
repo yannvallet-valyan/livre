@@ -14,11 +14,11 @@ Elle le remarqua la quatrième nuit. Il descendait seul, à la tombée du jour, 
 
 Elle ne comprit pas ce qu'il faisait. Il écoutait, peut-être. Il se recueillait. Elle l'observa pendant cinq soirs, cachée derrière une pile de traverses, avec le cœur qui battait comme chaque fois qu'on épie quelqu'un, et elle sut, au sixième, comment il s'appelait. Un contremaître l'avait interpellé : « Monsieur Kerr ! Le niveau de la pompe, c'est bon pour demain ? »
 
-Elle se figea.
+Elle ne se figea pas : elle avait déjà entendu ce nom en juin, à la mairie, dans la bouche du maire, et l'avait gardé sans oser le regarder.
 
 *Kerr.*
 
-Elle connaissait ce nom. Elle le connaissait comme on connaît le nom d'une maladie, qui vous a pris quelqu'un. Un Kerr dirigeait le laboratoire de Vallorce, en 2026. Un Kerr avait fait fabriquer les comprimés. Un Kerr, peut-être, avait déposé dans le cahier de son compagnon, Théo, les premières lignes de la méthode. Elle essaya de se rappeler les prénoms. Elle n'y arriva pas. La mémoire de Rose lui coupait les ponts, par endroits, comme un pont qu'on a laissé brûler.
+Elle le connaissait de bien plus loin. Elle le connaissait comme on connaît le nom d'une maladie, qui vous a pris quelqu'un. Un Kerr dirigeait le laboratoire de Vallorce, en 2026. Un Kerr avait fait fabriquer les comprimés. Un Kerr, peut-être, avait déposé dans le cahier de son compagnon, Théo, les premières lignes de la méthode. Elle essaya de se rappeler les prénoms. Elle n'y arriva pas. La mémoire de Rose lui coupait les ponts, par endroits, comme un pont qu'on a laissé brûler.
 
 Elle le regarda mieux. Un homme de quarante ans, peut-être, au visage épais et doux, avec des mains de paysan. Il disait « merci » à tout le monde. Il avait salué un manœuvre qui avait fait tomber sa pelle. Quand il parlait aux gardes, il les appelait « messieurs ». Il n'avait pas l'air d'un homme qui commande.
 
@@ -45,6 +45,22 @@ Elle ne répondit pas. Il sourit, tristement, comme un homme qui connaît d'avan
 Elle voulut lui dire qu'elle l'aimait. Elle ne le put pas. Ce n'était pas à elle de le dire : c'était le corps de Rose qu'il aimait, et elle l'habitait comme une voleuse, une soirée de plus.
 
 Elle se détourna. Elle prit l'enfant. Elle chanta, très bas, les deux couplets qu'elle connaissait. Elle ne s'aperçut pas que Jean ne bougeait plus, derrière elle, qu'il écoutait, qu'il avait la main devant la bouche, comme un homme qui entend, à travers un mur, quelqu'un qu'il avait cru mort.
+
+---
+
+Elle apprit le chantier comme elle avait appris la maison.
+
+Elle apprit les horaires : les équipes de nuit qui prenaient à dix heures, les gardes à minuit, les camions de ravitaillement à trois. Elle apprit les noms, qu'on criait d'un bout à l'autre des échafaudages : Orsini, le Piémontais de la pompe, qui chantait en travaillant, une chanson de montagne qu'elle avait presque reconnue ; Bastide, un grand roux qui jurait à chaque mot ; le petit Marcel, quinze ans, qu'on avait embauché pour porter les thermos et qui dormait, la nuit, sur un sac de ciment, la bouche ouverte. Elle apprit qu'on les payait à la semaine, trente-six francs de l'heure, et qu'on retenait sur la paie les outils perdus. Elle apprit qu'on mourait, parfois : un homme, en mai, écrasé par une benne, qu'on avait enterré dans le cimetière du Bas, au coin des étrangers. On n'en avait pas parlé.
+
+Elle comprit que ces gens n'étaient pas des ennemis. Ils étaient des pères. Ils avaient des enfants à Naples, à Chambéry, à Lisbonne. Ils attendaient la fin du chantier comme les gens du village attendaient la fin du monde : avec la même fatigue, la même hâte.
+
+Elle ne voulait pas le comprendre. Cela l'empêchait de haïr.
+
+Elle apprit aussi la baraque des ingénieurs, un baraquement de planches, avec trois fenêtres, une lampe allumée toute la nuit et une cheminée de tôle. On y voyait, par les carreaux, des tables couvertes de plans, des règles, des tasses de café froid. Walther y travaillait jusqu'à tard, courbé, une cigarette éteinte aux lèvres. Il y avait, accroché au mur, un grand portrait de la reine d'Angleterre, découpé dans un magazine, que quelqu'un avait mis là par plaisanterie et que personne n'avait enlevé.
+
+Un soir, elle le vit sortir et se tenir sur le seuil, à contempler la vallée. Il resta ainsi un quart d'heure. Il ne bougeait pas. Il avait la tête levée vers les étoiles, avec une expression d'enfant. Il murmura quelque chose, qu'elle n'entendit pas. Un chant, peut-être. Un psaume.
+
+Elle pensa à son fils. Elle ne sut pas pourquoi. Elle chercha son nom, et ne le trouva pas. Elle éprouva une peur très brève, très pure, et elle se détourna.
 
 ---
 
