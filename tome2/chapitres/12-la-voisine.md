@@ -1,4 +1,4 @@
-# Chapitre 24 — La voisine
+# Chapitre 25 — La voisine
 
 *(premier jet)*
 

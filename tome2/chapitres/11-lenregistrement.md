@@ -1,4 +1,4 @@
-# Chapitre 23 — L'enregistrement
+# Chapitre 24 — L'enregistrement
 
 *(premier jet)*
 

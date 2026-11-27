@@ -1,4 +1,4 @@
-# Chapitre 39 — Le partage
+# Chapitre 40 — Le partage
 
 *(premier jet)*
 
@@ -34,7 +34,7 @@ Elles se parlèrent beaucoup, ensuite, dans les jours qui suivirent. Elles ne se
 
 Elle apprit des choses que nul ne lui avait dites.
 
-Elle apprit que Rose détestait les oignons, qu'elle en mangeait pourtant à chaque repas, par devoir. Que son père l'avait appelée « Rosette » jusqu'à sa mort, et qu'elle ne le supportait pas. Que sa plus grande peur n'était pas de perdre sa maison, mais de ne pas savoir où mourir. Qu'elle avait aimé un garçon, avant Jean, un berger du nom d'Émile, mort à la guerre d'Algérie, qui lui avait offert une bague de laiton. Qu'elle l'avait gardée sous le plancher, dans un mouchoir. Qu'elle ne l'avait jamais dit.
+Elle apprit que Rose détestait les oignons, qu'elle en mangeait pourtant à chaque repas, par devoir. Que son père l'avait appelée « Rosette » jusqu'à sa mort, et qu'elle ne le supportait pas. Que sa plus grande peur n'était pas de perdre sa maison, mais de ne pas savoir où mourir. Qu'elle avait aimé un garçon, avant Jean, un berger du nom d'Émile, mort en Indochine, qui lui avait offert une bague de laiton. Qu'elle l'avait gardée sous le plancher, dans un mouchoir. Qu'elle ne l'avait jamais dit.
 
 — Vous voulez la voir ? dit-elle un soir.
 

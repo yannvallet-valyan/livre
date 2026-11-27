@@ -1,4 +1,4 @@
-# Chapitre 31 — Le dîner des Kerr
+# Chapitre 32 — Le dîner des Kerr
 
 *(premier jet)*
 

@@ -1,4 +1,4 @@
-# Chapitre 25 — Le poêle
+# Chapitre 26 — Le poêle
 
 *(premier jet)*
 

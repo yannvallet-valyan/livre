@@ -1,4 +1,4 @@
-# Chapitre 49 — La pastille
+# Chapitre 52 — La pastille
 
 *(premier jet)*
 

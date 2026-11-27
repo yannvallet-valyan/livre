@@ -1,4 +1,4 @@
-# Chapitre 46 — La cabane
+# Chapitre 48 — La cabane
 
 *(premier jet)*
 
