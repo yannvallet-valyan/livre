@@ -1,4 +1,4 @@
-# Chapitre 22 — Ce qu'Étienne pense
+# Chapitre 24 — Ce qu'Étienne pense
 
 *(premier jet)*
 

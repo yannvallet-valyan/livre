@@ -1,4 +1,4 @@
-# Chapitre 21 — Le caillou blanc
+# Chapitre 23 — Le caillou blanc
 
 *(premier jet)*
 

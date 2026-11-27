@@ -1,4 +1,4 @@
-# Chapitre 24 — Dix-huit ans
+# Chapitre 26 — Dix-huit ans
 
 *(premier jet)*
 

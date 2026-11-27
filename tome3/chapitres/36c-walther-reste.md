@@ -1,4 +1,4 @@
-# Chapitre 43 — Walther reste
+# Chapitre 47 — Walther reste
 
 *(premier jet)*
 

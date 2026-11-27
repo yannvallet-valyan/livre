@@ -1,4 +1,4 @@
-# Chapitre 35 — Le registre d'Agathe
+# Chapitre 39 — Le registre d'Agathe
 
 *(premier jet)*
 

@@ -1,4 +1,4 @@
-# Chapitre 48 — Le douzième bac
+# Chapitre 52 — Le douzième bac
 
 *(premier jet)*
 
