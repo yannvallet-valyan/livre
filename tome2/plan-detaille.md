@@ -5,7 +5,7 @@
 
 ## Personnages nouveaux du tome
 - **Walther Kerr** (31 ans, Zurichois), ingénieur de la Compagnie. 🔒 Ancêtre de Bastien ; hôte de K. la nuit. Le jour : honnête, scrupuleux, amoureux de Rose.
-- **Odette Girard** (28 ans), voisine et amie de Rose, boulangère. Trahit par peur et par amour. C'est elle qui racontera « l'homme en blanc » à sa fille (`25`).
+- **Odette Girard** (28 ans), voisine et amie de Rose, boulangère. Mère d'une petite fille de trois ans (la future mère de Corinne). C'est elle qui racontera « l'homme en blanc » à sa fille (`25`). 🔒 **Le jour, une femme ordinaire ; la nuit, habitée par Iris du présent** (tome 3). Le tome 2 ne doit jamais le dire : il pose seulement des indices (voir ci-dessous).
 - **Lise Marchand** (2027), amie d'enfance d'Iris à Lyon. Plus tard cadre chez Léthé.
 - **Bastien Kerr** (vieux, 2047-2065), patron de Léthé. Père de Théo.
 - **Hélène Varenne**, grand-mère d'Iris par Sophia, revenue à Lyon.
@@ -25,7 +25,7 @@
 
 **4. V · automne 2026-2027 · Lyon.** Hélène, la mère de Sophia, qui avait quitté Anselme en 1991, accueille sa fille sans poser de question. Sophia découvre la grossesse. Elle écrit à Étienne, ne poste pas. Hélène lui fait promettre de ne jamais retourner à Vallorce. **La même promesse, la même phrase** (`10`). *Coût :* l'enfant naîtra sans père. *(maillon 7)*
 
-**5. F · juillet 1958.** Première nuit de chant : elle berce Anselme avec *Dors, la rivière*. Elle ne connaît que deux couplets. **Le troisième ne vient pas.** Elle s'arrête. Jean, derrière la porte, écoute la voix de sa femme chanter dans une langue qu'il ne connaît pas. *Coût :* il pleure sans savoir. *(→ `25`)*
+**5. F · juillet 1958.** *(indice Odette : à travers la cloison mitoyenne, une voix de femme compte aussi jusqu'à 59 et s'arrête, comme elle. Iris croit à son propre écho.)* Première nuit de chant : elle berce Anselme avec *Dors, la rivière*. Elle ne connaît que deux couplets. **Le troisième ne vient pas.** Elle s'arrête. Jean, derrière la porte, écoute la voix de sa femme chanter dans une langue qu'il ne connaît pas. *Coût :* il pleure sans savoir. *(→ `25`)*
 
 **6. Interlude · Sophia, une nuit de juillet 2027.** Le point de vue de Sophia pendant l'accouchement. Elle ne garde que deux mots : « Vas-y. » On a lu `36` : on connaît ce qui se passe. *Coût :* elle ne saura jamais qui elle a laissé entrer.
 
@@ -43,7 +43,7 @@
 
 **11. V · 2040 · Lise.** À treize ans, Iris a une amie, **Lise**, qui l'enregistre sans le lui dire, une nuit de sommeil agité : on entend deux voix. Lise rit, puis se tait. Elle l'envoie à son père, qui travaille à Léthé. Léthé s'intéresse. *Coût :* la première trahison d'Iris, à treize ans, ne se verra que vingt-trois ans plus tard. *(maillon 10)*
 
-**12. F · septembre 1958 · Odette.** On cherche le saboteur. **Odette**, la voisine, qui a vu Rose sortir la nuit, hésite, puis parle au gendarme. Pour la protéger, pense-t-elle : elle croit que Rose est somnambule et qu'on la soignera. **Jean** s'accuse à sa place. On l'emmène. Rose (le jour) apprend que son mari est en cellule pour un geste qu'elle a fait sans le savoir. *Coût :* Jean, trois semaines à Grenoble ; Rose, deux ennemis à la fois. *(maillon 13)*
+**12. F · septembre 1958 · Odette.** On cherche le saboteur. **Odette**, la voisine, qui a vu Rose sortir la nuit, hésite, puis parle au gendarme. Elle dit que c'est pour la protéger : Rose est somnambule, on la soignera. *(🔒 Tome 3 : c'est Iris du présent qui parle, par Odette. Elle croit que le sabotage effacerait leur mère. Elle a raison.)* **Jean** s'accuse à sa place. On l'emmène. Rose (le jour) apprend que son mari est en cellule pour un geste qu'elle a fait sans le savoir. *Coût :* Jean, trois semaines à Grenoble ; Rose, deux ennemis à la fois. *(maillon 13)*
 
 **13. F · septembre 1958 · Walther.** L'ingénieur reçoit le rapport. Il lit le nom de Rose. Il est amoureux d'elle depuis juin, sans qu'elle le sache. Il brûle le rapport dans son poêle. Jean est libéré faute de pièces. *Coût :* Walther se sait coupable, et le dira à K. sans le savoir : dans le cahier noir de la nuit, K. note « Hôte W. a détruit une pièce. Non conforme. » **Le cahier devient un journal de ce que Walther ne dit à personne.** *(maillon 14-15)*
 
@@ -83,7 +83,7 @@
 
 ## PARTIE IV — La vanne (novembre 1958 / 2065-2066)
 
-**27. F · nuit du 13 au 14 novembre 1958, minuit.** La table pour cinq. Rose met cinq couverts. Jean est là. Anselme dort. Odette frappe à la porte : elle vient demander pardon ; Rose ne répond pas. Walther passe devant la maison, s'arrête, repart. *Coût :* personne ne se parle. *(maillon 16)*
+**27. F · nuit du 13 au 14 novembre 1958, minuit.** La table pour cinq. Rose met cinq couverts. Jean est là. Anselme dort. Odette frappe à la porte, tard : elle dit « Pardon », et au moment de repartir, de la voix la plus basse, comme on parle à quelqu'un qu'on ne verra plus : « Cinquante-neuf. » Rose ne répond pas. *(🔒 Les deux sœurs, derrière la porte.)* Walther passe devant la maison, s'arrête, repart. *Coût :* personne ne se parle. *(maillon 16)*
 
 **28. V · 2065 · La dernière nuit de Sacha.** Théo s'assoit au bord du lit de son fils, avec un éclat à la main. Il parle longtemps, à voix basse. Iris, derrière la porte, entend : « Compte. Jusqu'à soixante. Il comprendra que tu restes. » Elle ne comprend pas. Le lendemain, Sacha est vide. Une semaine plus tard, il « meurt ». *Coût :* tout. *(maillon 10-11)*
 
@@ -120,7 +120,7 @@
 |---|---|---|---|
 | Amoureuse | Théo → Iris | Il lui cache la moitié de lui ; il laisse Sacha prendre le mal | Iris part |
 | Amoureuse | Rose → Jean | Elle embrasse Walther | Jean reste quand même |
-| Amicale | Odette → Rose | Elle parle au gendarme | Jean emprisonné |
+| Amicale (🔒 sororale au tome 3) | Odette → Rose | Elle parle au gendarme | Jean emprisonné |
 | Amicale | Lise → Iris | Enregistrement (2040), puis pilules (2064) | Sacha |
 | Familiale | Iris → Rose | Elle prend ses jours | Anselme presque noyé |
 | Familiale | Étienne → Sacha | Il prélève l'éclat, sans savoir | Le départ d'Iris |

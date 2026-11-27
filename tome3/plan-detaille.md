@@ -55,6 +55,8 @@
 
 **16. S · 2046-2047 · Théo.** Kerr abandonne le corps de Bastien, qui s'effondre un après-midi dans son bureau (un malaise cardiaque d'abord, puis une guérison inexplicable : Bastien se réveille, et ne se souviendra de rien). Il passe dans **Théo**, 17 ans, rouillé par les pilules de son père. Le garçon vide est une maison où l'on peut entrer sans forcer. **C'est le seul corps où Kerr n'a volé personne.** Mais le fils de Bastien, vidé, n'avait pas demandé à l'être, et c'est son père qui l'a fait. *Coût :* le vrai Théo, vidé avant lui, ne reviendra jamais ; Bastien, au réveil, ne sait pas ce qu'il a fait. *(maillon 9)*
 
+**16b. R · été 2160 · Odette.** ✅ Iris du présent, 30 ans, à l'insu de Sacha, demande à Ruben un éclat et fait un **premier voyage, plus court**, dans son aïeule **Odette Girard** (28 ans), boulangère de Vallorce-le-Bas, 1958. Le cristal est encore intact : elle pourra rentrer. La nuit, elle entend, à travers la cloison, une femme qui compte jusqu'à 59 et s'arrête. Elle comprend qu'elle n'est pas la seule : **elle a une sœur dans la maison d'à côté, et elle ne le sait pas.** Elle apprend, par les carnets de Sacha, qu'un sabotage effacerait leur mère. **Elle dénonce Rose au gendarme.** Elle rentre en 2160 avec ce qu'elle a fait. *Coût :* elle a livré sa sœur sans savoir qui elle est, et elle ne le dira jamais. *(→ tome 2 ch. 5, 12, 27)*
+
 **17. R · 2164.** Iris du présent, 34 ans, quitte le refuge. Elle laisse un fils de huit ans, Kerr, à **Agathe**. Elle dit à Sacha : « Tu as voulu un enfant, tu l'as. » Elle part dans Mathis, vers sa mère. Sacha repart mesurer. Kerr, à huit ans, regarde le dortoir se vider. *Coût :* un enfant abandonné par ses deux parents le même jour. *(maillon 24)*
 
 **18. S · 2047 · Iris du passé.** Kerr (dans Théo) rencontre Iris au bord du lac. **Il la reconnaît.** Il connaît son visage par ses carnets : celui de la mère de Sacha. Il ne dit rien. Il la regarde pendant trois minutes. *Coût :* il va lui mentir toute sa vie. *(maillon 9)*
@@ -82,6 +84,8 @@
 ---
 
 ## PARTIE V — La nuit froide (oct. 2026, tour brisé)
+
+**26b. O · 14 novembre 2026, 9 h 40 · L'instant.** ✅ Le coulis monte. Toutes les dissolutions se produisent ensemble : Élise dans Sophia, Noé dans Étienne, Iris du présent dans Mathis, les Élise d'Anselme. Anselme est le fils de Rose, il porte le résidu d'**Iris du passé** : elle s'éteint avec lui. Dans le cristal, hors du temps, **les deux sœurs se retrouvent soixante secondes**, sans corps. Elles se reconnaissent à la voix : l'une est celle de la cloison de 1958, l'autre celle de la dame du lac. La plus jeune dit : « C'était toi. » L'autre : « Je ne savais pas. » Elles comptent ensemble. Cinquante-neuf. **Soixante.** *Coût :* c'est la première fois qu'Iris du passé le dit, et c'est la dernière fois qu'elles se parlent. *(→ `43`, `32`, `41`)*
 
 **27. R · 2180 · Le départ.** Kerr, 24 ans, étend Mael sur le lit de l'infirmerie. Il lui pose l'éclat sur le front. Il compte. Il part. Le refuge s'éteint. **Agathe** referme la porte. Elle reste seule dans le dortoir B. *Coût :* tout. *(maillon 1)*
 
@@ -133,6 +137,7 @@
 | Amoureuse | Iris du présent → Sacha | Partir en laissant leur fils |
 | Amicale | Kerr → Mael | Prendre l'éclat sur son ami |
 | Amicale | Ruben → Iris | Cacher les carnets pendant quatre ans |
+| Sororale | Iris du présent → Iris du passé | La dénoncer en 1958 (par Odette), sans savoir qui elle est |
 | Familiale | Kerr → Sacha | Le laisser devenir K. |
 | Familiale | Kerr → Bastien (hôte) | Le posséder |
 | Familiale | Élise et Noé → Sophia et Étienne | Ne pas demander |

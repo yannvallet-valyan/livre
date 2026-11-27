@@ -77,7 +77,7 @@ Le lac était si bas, maintenant, qu'on voyait percer la surface, au milieu, une
 
 Derrière eux, au cimetière, les gens allumaient de petites bougies rouges dans des photophores, sur les tombes. On voyait leurs flammes trembler dans le crépuscule, une centaine, peut-être, sur la pente noire. Au-dessous, le lac. Au milieu du lac, le clocher. Et au fond, sur le mur, la petite fenêtre jaune de la cabine. Elle était allumée. Sophia la regarda, puis regarda son père, debout à côté d'elle, et se demanda qui avait allumé la lampe.
 
-Une vieille femme passa près d'eux, appuyée sur une canne, une de celles qui avaient chuchoté sur Kerr. Elle regarda le clocher, elle aussi. Elle fit un signe de croix rapide, à l'ancienne, et murmura sans s'adresser à personne :
+Une vieille femme passa près d'eux, appuyée sur une canne : la mère de Corinne, une de celles qui avaient chuchoté sur Kerr. Elle regarda le clocher, elle aussi. Elle fit un signe de croix rapide, à l'ancienne, et murmura sans s'adresser à personne :
 
 — Ma mère disait qu'en 58, la dernière nuit avant qu'ils lâchent l'eau, il y avait un homme en blanc sur le chantier. Avec une petite lumière verte. Il mesurait le fond. Il a salué ta mère, Anselme. Tu te souviens pas, tu étais trop petit.
 

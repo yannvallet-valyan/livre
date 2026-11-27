@@ -54,6 +54,8 @@ Colonne « Paie » : tome et fichier (ou chapitre futur) où l'indice prend son 
 | Rose : cheveux ras, mains à plat, 59, « Comme ça, je me reconnais », table pour cinq | 00, 32 | T2 |
 | Chanson de rivière qui « s'arrêtait toujours avant la fin » | 25 | T2 |
 | Jeanne frappe jusqu'à 59 (2059) | 45 | T2 |
+| Odette : la mère de Corinne, 71 ans en 2026 (fille d'Odette, 3 ans en 1958) | 25, 27 | T3 : Odette, aïeule d'Iris du présent |
+| Iris du présent : « un voyage plus court, dont elle était revenue sans un mot » | 41 | T3 : 1958, Odette |
 | Oriane compte jusqu'à 60 | 04 | ouverture (§9 bis de la trilogie) |
 | Théo noyé à Annecy ; fiole « Lac d'Annecy, 2014 » | 18, 05 | ouverture : autres lacs |
 | *Tour 48 : préparer l'entrée par la ligne B* | 47 | T3 coda |

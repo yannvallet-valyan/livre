@@ -5706,7 +5706,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Une vieille femme passa près d'eux, appuyée sur une canne, une de celles qui avaient chuchoté sur Kerr. Elle regarda le clocher, elle aussi. Elle fit un signe de croix rapide, à l'ancienne, et murmura sans s'adresser à personne :"
+     "s": "Une vieille femme passa près d'eux, appuyée sur une canne : la mère de Corinne, une de celles qui avaient chuchoté sur Kerr. Elle regarda le clocher, elle aussi. Elle fit un signe de croix rapide, à l'ancienne, et murmura sans s'adresser à personne :"
     },
     {
      "t": "p",
@@ -5721,7 +5721,7 @@ window.BOOK = {
      "s": "Anselme ne répondit pas. Sophia vit ses mains, le long de son corps, se poser à plat sur ses cuisses, comme pour se tenir."
     }
    ],
-   "words": 1259
+   "words": 1264
   },
   {
    "id": "26-le-veilleur",
@@ -9784,7 +9784,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle avait passé quatorze ans à comprendre pourquoi. Entre-temps, elle avait aimé un homme qui s'était réveillé un matin d'entre les rouillés, et qui était reparti comme il était venu. Elle laissait au refuge un fils de huit ans, qui avait les carnets de son père et ses yeux. Le jour de ses trente-quatre ans, elle avait demandé un éclat."
+     "s": "Elle avait passé quatorze ans à comprendre pourquoi. Entre-temps, elle avait aimé un homme qui s'était réveillé un matin d'entre les rouillés, et qui était reparti comme il était venu. Elle laissait au refuge un fils de huit ans, qui avait les carnets de son père et ses yeux. Quatre ans plus tôt, elle avait déjà demandé un éclat, pour un voyage plus court, dont elle était revenue sans un mot à personne. Le jour de ses trente-quatre ans, elle en avait demandé un autre."
     },
     {
      "t": "hr"
@@ -9919,7 +9919,7 @@ window.BOOK = {
      "s": "*Il fait jour. Il n'a plus peur.*"
     }
    ],
-   "words": 1560
+   "words": 1585
   },
   {
    "id": "42-la-derniere-nuit",
