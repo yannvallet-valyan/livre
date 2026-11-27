@@ -57,3 +57,11 @@
 4. **Chapitre 3 du tome 3** : 2150, trois jours après le chapitre 1 (Iris du présent a 20 ans).
 5. **Éclat de Sacha** : Iris le demande à Étienne (≈ 86 ans), qui ne sait pas pourquoi il obéit : « un donneur » (écho de `03-passeuse.md`).
 6. **Étienne en 2027** : retour à Grenoble en train (Hugo). Il ne se souvient de rien, sinon d'un enfant dans les bras. Il revoit Iris à Vallorce vers 2047 sans la reconnaître.
+
+## Décisions d'écriture V3.21 (tome 2)
+- Iris du passé arrive à Vallorce en **déc. 2045** (18 ans), pas en 2047 ; elle rencontre Théo en **mars 2046** (il a 17 ans) ; caillou blanc offert pour ses 19 ans (juil. 2046).
+- Hélène meurt en mars 2041 ; Sophia le 2 déc. 2045 (57 ans) ; la lettre à Étienne (nov. 2026, jamais postée) envoie Iris à Vallorce. Étienne l'engage comme infirmière.
+- Lise a le même âge qu'Iris (18 ans en 2045). Antoine Marchand, son père, travaille chez Léthé.
+- Walther : protestant, fils de pasteur, 31 ans. Il brûle le dossier le 12 sept. 1958 ; Jean libéré le 30 sept.
+- 3 oct. 1958 : Iris découvre qu'elle peut rester le jour et le refuse ; **13 oct.** : elle prend un jour (préfecture de Grenoble), Anselme manque de se noyer (canal), Walther le sauve, **Rose l'embrasse**. Iris pense qu'elle reprendra un jour « plus tard ».
+- Le chef-lieu est à 14 km de Vallorce-le-Bas ; Grenoble est la préfecture (car de 6 h 40, 3 h 20).
