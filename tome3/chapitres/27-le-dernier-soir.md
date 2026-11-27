@@ -10,7 +10,7 @@ Le soir du 13 novembre 2164, elle l'emmena à la cantine. Elle prit une table da
 
 — Tu es tombé ?
 
-— Mael m'a poussé.
+— Tanguy m'a poussé.
 
 — Il l'a fait exprès ?
 
@@ -32,7 +32,7 @@ Elle sourit. Elle prit une cuillerée de lentilles, qu'elle porta à ses lèvres
 
 — Tu me montres ?
 
-Il posa sa cuillère. Il sortit de sa poche un petit cahier de toile, tout gris, aux coins roulés. Il le lui tendit. Elle l'ouvrit. Il y avait, sur chaque page, dans une écriture ronde, appliquée, quelques lignes. *Lundi. J'ai mangé. J'ai joué avec Mael. J'ai appris à régler un joint. Maman est triste.* *Mardi. Maman est triste. Je ne sais pas pourquoi.* *Mercredi. J'ai demandé à maman pourquoi elle était triste. Elle a dit : « Je suis fatiguée. » Elle ment bien.*
+Il posa sa cuillère. Il sortit de sa poche un petit cahier de toile, tout gris, aux coins roulés. Il le lui tendit. Elle l'ouvrit. Il y avait, sur chaque page, dans une écriture ronde, appliquée, quelques lignes. *Lundi. J'ai mangé. J'ai joué avec Tanguy. J'ai appris à régler un joint. Maman est triste.* *Mardi. Maman est triste. Je ne sais pas pourquoi.* *Mercredi. J'ai demandé à maman pourquoi elle était triste. Elle a dit : « Je suis fatiguée. » Elle ment bien.*
 
 Elle leva les yeux. Il la regardait, d'un air sérieux, sans reproche.
 

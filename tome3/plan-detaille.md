@@ -16,7 +16,7 @@
 | 12 `12-la-naissance` | 3 mai 2156 | Naissance de Kerr, coupure de lampes ; Ruben tient l'enfant ; Walther arrive à l'aube, pleure ; Sacha arrive le soir, croit être le père (« Père : moi ») ✅ |
 | à écrire | 2160 | Iris du présent à Vallorce (Odette) : **elle y croise Walther vivant, qui ne la connaît pas** ; elle ment à l'autre Iris (« je te dirai comment sauver ton fils ») ; plus tard, elle comprend « Quelqu'un doit être là » |
 | à écrire | 2164 | Iris part (Mathis). Elle laisse Kerr (8 ans) à Agathe. Walther et Sacha se partagent le corps de Tobie ; Walther s'efface (il ne veut pas voler une enfance) |
-| à écrire | 2165-2180 | Kerr grandit, croit que K. est son père (le cahier), apprend l'écriture fine ; Mael ; Agathe ; départ 2180 |
+| à écrire | 2165-2180 | Kerr grandit, croit que K. est son père (le cahier), apprend l'écriture fine ; Tanguy ; Agathe ; départ 2180 |
 | fin | oct. 2026 (cuisine) | Kerr apprend qui est son père ; Sacha, qui le sait, ne le dit pas ; les deux Iris |
 
 ## Arc de Sacha (cf. conversation V3.46)
@@ -31,7 +31,7 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
 
 ## Personnages nouveaux
 - **Agathe**, éducatrice du dortoir B (2137-2180). Elle élève Kerr comme Ruben a élevé Iris. Elle sait des choses.
-- **Mael**, ami d'enfance de Kerr au refuge. Rouillé à 24 ans. Le « donneur ».
+- **Tanguy**, ami d'enfance de Kerr au refuge. Rouillé à 24 ans. Le « donneur ».
 - **Tobie**, 19 ans (2150), le rouillé que Sacha habite au refuge. Descendant de Léa Kerr.
 - **Bastien Kerr (le vrai)** : l'homme dont on voit les actes sans qu'il les ait voulus. Il rêve ce que Kerr fait de ses jours.
 - Reviennent : Iris du présent, Ruben, Sacha/K., Kerr, Élise, Noé, Sophia, Étienne, Mathis, Anselme, Rose (en fond), Oriane (en souvenir).
@@ -88,7 +88,7 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
 
 **19. O · nov. 2026, tour 47.** Kerr place l'aiguille dans le douzième bac. Il le fait la nuit du 13 au 14 : K. dort, personne ne regarde. **Il sait que Sophia la gardera.** Il sait que la fiole sera ouverte en 2141, que la Rouille repartira, qu'une Élise B tombera dans Anselme et écrira une page : **il garantit le prochain tour.** Il n'a pas le droit de laisser la boucle s'arrêter. *Coût :* il condamne une enfant de sept ans qui lit une recette en 2137. *(maillon 20)*
 
-**20. R · 2165-2175.** Kerr grandit chez les éducatrices. Il a un ami, **Mael**. Agathe lui lit un registre rouge, puis un carnet noir. Il comprend qui est son père. Il comprend qui est sa mère. Il comprend qu'il est né pour une raison. *Coût :* il n'a jamais été libre, il le sait, il ne s'en plaint pas. *(maillon 19)*
+**20. R · 2165-2175.** Kerr grandit chez les éducatrices. Il a un ami, **Tanguy**. Agathe lui lit un registre rouge, puis un carnet noir. Il comprend qui est son père. Il comprend qui est sa mère. Il comprend qu'il est né pour une raison. *Coût :* il n'a jamais été libre, il le sait, il ne s'en plaint pas. *(maillon 19)*
 
 ---
 
@@ -96,11 +96,11 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
 
 **21. S · 2050-2062.** Kerr et Iris, deux ans, puis dix. Sacha naît, dessine une maison avec un soleil. Kerr lui apprend à tenir le crayon entre le pouce et le majeur. Il lui apprend à compter. Il ne sait pas pourquoi il pleure le soir. *Coût :* il sait déjà la fin. *(maillon 11)*
 
-**22. R · 2178.** **Mael** commence à oublier : son nom, puis celui de Kerr. Kerr le veille. Les éducatrices le mettent au dortoir D. *Coût :* le seul ami. *(maillon 19)*
+**22. R · 2178.** **Tanguy** commence à oublier : son nom, puis celui de Kerr. Kerr le veille. Les éducatrices le mettent au dortoir D. *Coût :* le seul ami. *(maillon 19)*
 
 **23. S · 2063-2064 · Lise.** Kerr voit Lise Marchand revenir dans la vie d'Iris. **Il sait ce qu'elle va proposer.** Il sait que Sacha prendra la pilule. **Il ne dit rien.** Iris lui demande : « Qu'est-ce que tu en penses ? » Il dit : « Je pense que tu devrais refuser. » **Il ne fait rien pour que ça arrive. Il ne fait rien pour que ça n'arrive pas.** *Coût :* le contraire de ce qu'il a dit. *(maillon 10)*
 
-**24. R · 2179.** Mael est rouillé jusqu'au cœur. Kerr lui rend visite chaque soir. Il lui dit : « Je pars. » Mael, qui ne comprend plus, sourit. **Kerr prend l'éclat dans sa tête, la nuit.** Il le fait doucement. « *D'un donneur.* » Il pleure. *Coût :* **l'ami donne sans savoir, et le fait de ne pas savoir ne rachète rien.** *(maillon 3, `03`)*
+**24. R · 2179.** Tanguy est rouillé jusqu'au cœur. Kerr lui rend visite chaque soir. Il lui dit : « Je pars. » Tanguy, qui ne comprend plus, sourit. **Kerr prend l'éclat dans sa tête, la nuit.** Il le fait doucement. « *D'un donneur.* » Il pleure. *Coût :* **l'ami donne sans savoir, et le fait de ne pas savoir ne rachète rien.** *(maillon 3, `03`)*
 
 **25. S · 2065 · Sacha.** Kerr s'assoit au bord du lit de son fils, un éclat à la main. Il parle longtemps. Il lui apprend : « Le sang mène au passé. La Rouille mène à l'avenir. » Il lui dit de compter. « Il comprendra que tu restes. » **Il lui donne la phrase, le nom, le carnet.** Sacha comprend plus qu'un enfant ne devrait. Le lendemain, il est vide. *Coût :* un père qui regarde son fils le quitter pour l'éternité. *(maillon 11)*
 
@@ -121,7 +121,7 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
    (Rose s'arrêtait toujours avant, `25` ; Élise ne l'a jamais chanté à Iris, `03` ; Sophia le chante à son père, `43`. Le dernier vers promet la présence au soixantième : l'enfant s'endort avant, personne ne l'entend.)
 *(→ `43`, `32`, `41`)*
 
-**27. R · 2180 · Le départ.** Kerr, 24 ans, étend Mael sur le lit de l'infirmerie. Il lui pose l'éclat sur le front. Il compte. Il part. Le refuge s'éteint. **Agathe** referme la porte. Elle reste seule dans le dortoir B. *Coût :* tout. *(maillon 1)*
+**27. R · 2180 · Le départ.** Kerr, 24 ans, étend Tanguy sur le lit de l'infirmerie. Il lui pose l'éclat sur le front. Il compte. Il part. Le refuge s'éteint. **Agathe** referme la porte. Elle reste seule dans le dortoir B. *Coût :* tout. *(maillon 1)*
 
 **28. S · 15 oct. 2026.** Kerr, dans Bastien, apprend de K. (par le cahier) que ce sera cette nuit. Il va chez Étienne. Il entre par la fenêtre. **Il s'assoit à la table de la cuisine.** Il fait les lentilles. Trop salées. *(maillon 5)*
 
@@ -158,7 +158,7 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
 4. **Le cahier noir est une correspondance** (O8, O26).
 5. **Sacha aimait Iris pour faire naître Kerr** (R15).
 6. **L'aiguille placée dans le douzième bac** (O19).
-7. **Mael, « un donneur »** (R24).
+7. **Tanguy, « un donneur »** (R24).
 8. **Kerr laisse mourir son fils** (S23, S25).
 9. **Les deux hommes dans le même corps** (S30).
 10. **Les hôtes n'auraient pas consenti** (S31) : le tour brisé commence par un viol de consentement. C'est le péché originel d'Élise et de Noé.
@@ -169,7 +169,7 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
 | Amicale | Sacha → Iris du présent | Lui imposer, par erreur, un avenir écrit |
 | Amoureuse | Kerr → Iris du passé | Taire qu'il laisse Sacha prendre la pilule |
 | Amoureuse | Iris du présent → Sacha | Partir en laissant leur fils |
-| Amicale | Kerr → Mael | Prendre l'éclat sur son ami |
+| Amicale | Kerr → Tanguy | Prendre l'éclat sur son ami |
 | Amicale | Ruben → Iris | Cacher les carnets pendant quatre ans |
 | Sororale | Iris du présent → Iris du passé | Lui mentir (le marché), puis la dénoncer en 1958 (par Odette), en sachant qui elle est |
 | Familiale | Kerr → Sacha | Le laisser devenir K. |

@@ -4,7 +4,7 @@
 
 Anne eut dix-sept ans le jour où son père lui donna le caillou.
 
-C'était le 21 septembre 2197. Il pleuvait. Elle revenait de l'atelier de tissage, les doigts engourdis, une fatigue jaune dans les épaules. Elle avait les cheveux roux de Mael, noués en une tresse lourde, et les yeux gris de sa mère. Elle marchait vite, la tête rentrée, comme tous ceux qui ont trop à faire. Elle poussa la porte de la maison, jeta son châle sur une chaise.
+C'était le 21 septembre 2197. Il pleuvait. Elle revenait de l'atelier de tissage, les doigts engourdis, une fatigue jaune dans les épaules. Elle avait les cheveux roux de Tanguy, noués en une tresse lourde, et les yeux gris de sa mère. Elle marchait vite, la tête rentrée, comme tous ceux qui ont trop à faire. Elle poussa la porte de la maison, jeta son châle sur une chaise.
 
 Son père l'attendait dans la cuisine.
 
@@ -24,7 +24,7 @@ Elle s'assit. Il posa, devant elle, sur la table, un petit objet enveloppé dans
 
 — De qui ?
 
-— D'un ami, dit Mael. Il me l'a donné quand tu avais dix-huit mois. Il m'a dit : « Pour plus tard. » J'ai pensé que dix-sept ans, ça faisait « plus tard ».
+— D'un ami, dit Tanguy. Il me l'a donné quand tu avais dix-huit mois. Il m'a dit : « Pour plus tard. » J'ai pensé que dix-sept ans, ça faisait « plus tard ».
 
 — Quel ami ?
 
@@ -32,7 +32,7 @@ Elle s'assit. Il posa, devant elle, sur la table, un petit objet enveloppé dans
 
 — Il s'appelait comment ?
 
-Mael ne répondit pas tout de suite. Il tourna sa tasse, un quart de tour. Il dit :
+Tanguy ne répondit pas tout de suite. Il tourna sa tasse, un quart de tour. Il dit :
 
 — Kerr.
 
@@ -48,7 +48,7 @@ Le nom ne lui disait rien. Elle sentit pourtant, dans la poitrine, une petite se
 
 — Tu ne sais pas ?
 
-— Il m'a dit, ce soir-là, que je l'oublierais, dit Mael. Il avait raison. Je l'ai oublié. Presque. Il me reste son nom, et ce caillou. Et le sentiment qu'il y avait quelqu'un, près de moi, pendant des années, à côté de moi, qui comptait.
+— Il m'a dit, ce soir-là, que je l'oublierais, dit Tanguy. Il avait raison. Je l'ai oublié. Presque. Il me reste son nom, et ce caillou. Et le sentiment qu'il y avait quelqu'un, près de moi, pendant des années, à côté de moi, qui comptait.
 
 Il sourit, d'un sourire trop large, qui tremblait.
 
@@ -68,7 +68,7 @@ Anne prit le caillou dans sa paume. Il était tiède, lisse, un peu lourd. Elle 
 
 — Et ?
 
-— Je crois que c'est pour les nuits, dit Mael. Celles où l'on a peur. Où l'on n'arrive pas à dormir. On compte jusqu'à un nombre. On s'arrête avant le bout. C'est tout.
+— Je crois que c'est pour les nuits, dit Tanguy. Celles où l'on a peur. Où l'on n'arrive pas à dormir. On compte jusqu'à un nombre. On s'arrête avant le bout. C'est tout.
 
 — Jusqu'à quel nombre ?
 
@@ -108,7 +108,7 @@ Elle se leva. Elle contourna la table. Elle l'entoura de ses bras, d'un geste br
 
 — Pour quoi ?
 
-— Pour moi, dit Mael. Il comprendra.
+— Pour moi, dit Tanguy. Il comprendra.
 
 Elle ne demanda pas ce que cela voulait dire. Elle resta dans ses bras, contre lui, longtemps, comme quand elle était petite. Dehors, la pluie battait les vitres. Dans la cheminée, une bûche s'effondra, en gerbe d'étincelles.
 

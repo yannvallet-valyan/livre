@@ -20,7 +20,7 @@ Il y en avait seize autres, dans le paquet, noués d'un fil rouge.
 
 Kerr était parti depuis cinq semaines.
 
-On l'avait cherché. On avait fouillé les galeries, les puits, les citernes. On avait interrogé Mael, qui s'était contenté de dire : « Il m'a laissé un caillou. » On avait pensé à un accident, à une fugue, à un suicide. Walther n'avait rien dit. Il savait. Il savait depuis vingt ans, par les carnets, par le registre, par une conversation tenue dans un couloir : *le jour viendra.* Il avait seulement espéré qu'il n'aurait pas lieu de son vivant.
+On l'avait cherché. On avait fouillé les galeries, les puits, les citernes. On avait interrogé Tanguy, qui s'était contenté de dire : « Il m'a laissé un caillou. » On avait pensé à un accident, à une fugue, à un suicide. Walther n'avait rien dit. Il savait. Il savait depuis vingt ans, par les carnets, par le registre, par une conversation tenue dans un couloir : *le jour viendra.* Il avait seulement espéré qu'il n'aurait pas lieu de son vivant.
 
 Il s'était trompé.
 
@@ -42,7 +42,7 @@ Il n'avait pas d'adresse. Il savait seulement que le tampon de la poste portait 
 
 *Tu me demandes de ne pas te pardonner. Je ne te pardonnerai pas. Je n'ai rien à te pardonner. Tu es partie, parce qu'il le fallait. Moi, je suis resté, parce qu'il le fallait aussi. Nous avons fait chacun ce qui nous revenait. C'est cela, la vérité. Ce n'est pas du courage. C'est de la loyauté.*
 
-*Kerr est parti le 10 avril. Il a laissé un caillou à Mael. Il n'a rien laissé à personne d'autre. Il m'a seulement dit, deux jours avant, dans la salle des pompes, une phrase que je ne comprends toujours pas : « Si je pouvais choisir, je te choisirais aussi. » Je ne sais pas ce qu'il voulait dire. Je crois qu'il me répondait.*
+*Kerr est parti le 10 avril. Il a laissé un caillou à Tanguy. Il n'a rien laissé à personne d'autre. Il m'a seulement dit, deux jours avant, dans la salle des pompes, une phrase que je ne comprends toujours pas : « Si je pouvais choisir, je te choisirais aussi. » Je ne sais pas ce qu'il voulait dire. Je crois qu'il me répondait.*
 
 *Je ne t'ai pas encore dit une chose. Il m'a appelé « papa », un jour de décembre 2162, devant une pompe. Il avait six ans. Il l'a dit sans y penser, comme on dit « merci ». Il l'a redit le 8 avril, exprès, une seule fois, et cette fois je n'ai pas fait semblant de ne pas l'entendre ; je n'ai pas répondu non plus. La première fois, j'ai fait semblant de ne pas avoir entendu. J'ai passé trois nuits à m'en vouloir. J'avais peur que tu l'apprennes et que tu me reproches de l'avoir laissé faire.*
 
@@ -60,7 +60,7 @@ Il alla la poster lui-même, dans la boîte du hameau, à cinq kilomètres.
 
 Il ne reçut pas de réponse.
 
-Il ne s'y attendait pas. Il attendit quand même. Il attendit un mois, un an, dix ans. Il continuait son travail, ses rondes, ses ajustements de pression. Il aidait Mael avec la petite Anne, qui l'appelait « tonton Walt ». Il apprenait à une nouvelle génération de gamins à tenir une clé, à écouter une pompe, à ne pas avoir peur du noir. Il vieillissait doucement.
+Il ne s'y attendait pas. Il attendit quand même. Il attendit un mois, un an, dix ans. Il continuait son travail, ses rondes, ses ajustements de pression. Il aidait Tanguy avec la petite Anne, qui l'appelait « tonton Walt ». Il apprenait à une nouvelle génération de gamins à tenir une clé, à écouter une pompe, à ne pas avoir peur du noir. Il vieillissait doucement.
 
 Chaque soir, il allumait la lampe grise. Il s'asseyait au bord du lit. Il regardait la porte.
 

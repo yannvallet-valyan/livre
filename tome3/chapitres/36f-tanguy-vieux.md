@@ -1,8 +1,8 @@
-# Chapitre 53 — Mael, vieux
+# Chapitre 53 — Tanguy, vieux
 
 *(premier jet)*
 
-Mael mourut à soixante-treize ans, un matin de juin 2229, sur un banc, devant une maison au toit rouge, avec un petit-fils sur les genoux.
+Tanguy mourut à soixante-treize ans, un matin de juin 2229, sur un banc, devant une maison au toit rouge, avec un petit-fils sur les genoux.
 
 Il avait vieilli comme on s'attendait qu'il vieillisse : en riant. Il avait gardé le visage rond, les taches de rousseur, que le temps avait multipliées jusqu'à en faire une carte. Ses cheveux étaient devenus d'un blanc de lait. Il avait perdu quelques dents, un peu d'équilibre, la plupart de ses souvenirs. Il avait gardé le reste : la voix, trop forte ; les bras, trop larges ; ce besoin de toucher les gens quand il leur parlait.
 
@@ -26,7 +26,7 @@ Il s'appelait Léo. Il était blond, remuant, très curieux. Il avait des yeux g
 
 — Celui du caillou.
 
-Mael ferma les yeux. Il sourit.
+Tanguy ferma les yeux. Il sourit.
 
 — Je ne sais pas son histoire.
 
@@ -36,7 +36,7 @@ Mael ferma les yeux. Il sourit.
 
 — Et tu l'as oublié ?
 
-— Oui, dit Mael.
+— Oui, dit Tanguy.
 
 — Alors pourquoi tu as le caillou ?
 
@@ -60,7 +60,7 @@ Léo réfléchit. Il tourna le caillou entre ses doigts. Il dit :
 
 — « Compte. »
 
-— Oui, dit Mael. C'est ça. Il disait toujours ça.
+— Oui, dit Tanguy. C'est ça. Il disait toujours ça.
 
 — Je peux ?
 
@@ -70,7 +70,7 @@ Léo réfléchit. Il tourna le caillou entre ses doigts. Il dit :
 
 — Si tu veux.
 
-L'enfant ferma les yeux. Il compta, à voix haute, de sa petite voix pointue, avec des erreurs, des hésitations, des reprises. Il se trompa à douze, à trente, à quarante-quatre. Mael le reprenait en riant : « Non, quarante-cinq. » Ils recommençaient. Ils comptaient ensemble. Ils comptèrent, ce matin-là, jusqu'à cinquante-neuf.
+L'enfant ferma les yeux. Il compta, à voix haute, de sa petite voix pointue, avec des erreurs, des hésitations, des reprises. Il se trompa à douze, à trente, à quarante-quatre. Tanguy le reprenait en riant : « Non, quarante-cinq. » Ils recommençaient. Ils comptaient ensemble. Ils comptèrent, ce matin-là, jusqu'à cinquante-neuf.
 
 — Et après ? dit Léo.
 
@@ -82,7 +82,7 @@ L'enfant ferma les yeux. Il compta, à voix haute, de sa petite voix pointue, av
 
 — Qui ?
 
-Mael regarda le ciel. Il était très clair, d'un bleu sans nuage. Un oiseau passait, très haut. Il sentit, dans sa poitrine, quelque chose qui se déliait, doucement, comme un nœud qu'on défait.
+Tanguy regarda le ciel. Il était très clair, d'un bleu sans nuage. Un oiseau passait, très haut. Il sentit, dans sa poitrine, quelque chose qui se déliait, doucement, comme un nœud qu'on défait.
 
 — Je ne sais pas, dit-il. Mais je crois qu'il va venir.
 
@@ -100,7 +100,7 @@ Une voix lui répondit, qu'il aurait reconnue entre mille, une voix douce, un pe
 
 — Tu as bien vécu ?
 
-— Je crois, dit Mael. J'ai eu une fille. Un petit-fils. Je me suis marié sous la pluie.
+— Je crois, dit Tanguy. J'ai eu une fille. Un petit-fils. Je me suis marié sous la pluie.
 
 — Je sais. J'y étais.
 
@@ -126,7 +126,7 @@ Il y eut un silence. L'oiseau avait disparu. Le petit Léo, sur ses genoux, comp
 
 — De rester.
 
-Mael sourit. Il avait les yeux fermés, le visage tourné vers le soleil. Il ne dit rien. Il sentit une main chaude se poser sur la sienne, sur le banc. Il la serra.
+Tanguy sourit. Il avait les yeux fermés, le visage tourné vers le soleil. Il ne dit rien. Il sentit une main chaude se poser sur la sienne, sur le banc. Il la serra.
 
 Quand Anne vint chercher son fils, à midi, elle trouva son père assis, la tête penchée en arrière, les mains ouvertes, un sourire immense sur le visage. Le petit comptait toujours, à côté de lui, sans s'être aperçu de rien.
 

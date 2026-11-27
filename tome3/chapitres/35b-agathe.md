@@ -128,7 +128,7 @@ Il sortit dans le couloir. Il referma la porte. Il resta là un instant, adossé
 
 Il se dit, plus bas : *je voudrais bien me tromper.*
 
-Il descendit annoncer la nouvelle. Dans l'escalier, il croisa Mael, qui montait, les cheveux en désordre, l'air inquiet. Ils se regardèrent. Mael dit : « C'est fini ? » Kerr hocha la tête. Mael ouvrit les bras.
+Il descendit annoncer la nouvelle. Dans l'escalier, il croisa Tanguy, qui montait, les cheveux en désordre, l'air inquiet. Ils se regardèrent. Tanguy dit : « C'est fini ? » Kerr hocha la tête. Tanguy ouvrit les bras.
 
 Il y entra.
 

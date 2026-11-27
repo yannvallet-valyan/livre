@@ -10,7 +10,7 @@ Il n'avait pris qu'un sac : un carnet de toile, un crayon, un caillou blanc, un 
 
 *Ne cherchez pas. Compte.*
 
-Il descendit par l'escalier de service, jusqu'à la galerie basse, celle qu'on n'utilisait plus depuis la fermeture du puits d'aération. Il y avait là une porte de fer, rouillée, qui menait à une petite salle voûtée, humide, sans fenêtre. Il l'avait trouvée à douze ans, avec Mael, en cherchant un endroit où se cacher. C'était leur secret. C'était aussi, il le savait depuis longtemps, l'endroit où la Rouille affleurait.
+Il descendit par l'escalier de service, jusqu'à la galerie basse, celle qu'on n'utilisait plus depuis la fermeture du puits d'aération. Il y avait là une porte de fer, rouillée, qui menait à une petite salle voûtée, humide, sans fenêtre. Il l'avait trouvée à douze ans, avec Tanguy, en cherchant un endroit où se cacher. C'était leur secret. C'était aussi, il le savait depuis longtemps, l'endroit où la Rouille affleurait.
 
 Il poussa la porte.
 
@@ -20,7 +20,7 @@ Elle était là.
 
 Ce n'était pas une lumière, ni une forme. C'était une présence rouge, très basse, très douce, qui occupait le fond de la pièce comme une braise sous la cendre. Elle pulsait, lentement, au rythme d'un cœur. Il la regarda. Il sentit sa gorge se serrer. Il avait cru qu'il aurait peur. Il n'avait pas peur. Il se sentait, au contraire, très calme, avec cette paix des gens qui ont fini de se battre.
 
-Il posa son sac. Il s'assit par terre, en tailleur, face à la braise. Il sortit de sa poche un petit objet blanc, poli, de la taille d'une noix. Il le tint dans le creux de la main. Il le regarda. Un caillou, avec trois mots, au crayon : *Pour Anne. Compte.* Il y en avait un autre, identique, dans une autre poche, qu'il avait laissé à Mael. Il avait toujours su qu'il y en aurait un deuxième.
+Il posa son sac. Il s'assit par terre, en tailleur, face à la braise. Il sortit de sa poche un petit objet blanc, poli, de la taille d'une noix. Il le tint dans le creux de la main. Il le regarda. Un caillou, avec trois mots, au crayon : *Pour Anne. Compte.* Il y en avait un autre, identique, dans une autre poche, qu'il avait laissé à Tanguy. Il avait toujours su qu'il y en aurait un deuxième.
 
 Il murmura :
 

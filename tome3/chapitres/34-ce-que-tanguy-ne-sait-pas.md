@@ -1,4 +1,4 @@
-# Chapitre 44 — Ce que Mael ne sait pas
+# Chapitre 44 — Ce que Tanguy ne sait pas
 
 *(premier jet)*
 
@@ -10,11 +10,11 @@ Il ne savait pas comment vivre avec cela.
 
 On lui avait donné le poste de régisseur adjoint. Il tenait les clés, les registres, la liste des tours de garde. Il était poli, exact, silencieux. Les anciens disaient de lui : « Ce petit a l'air d'avoir cent ans. » Les jeunes disaient : « Il est bizarre. » Les filles disaient : « Il est beau. » Il n'entendait rien de tout cela. Il rentrait le soir dans sa chambre, s'asseyait à la table, et reprenait un des quarante-trois carnets, et lisait, comme on touche une dent qui fait mal.
 
-Il n'y avait que Mael pour le faire sortir de là.
+Il n'y avait que Tanguy pour le faire sortir de là.
 
 ---
 
-— Tu as une tête de cimetière, dit Mael.
+— Tu as une tête de cimetière, dit Tanguy.
 
 — Merci.
 
@@ -28,7 +28,7 @@ Il n'y avait que Mael pour le faire sortir de là.
 
 — Justement.
 
-C'était un soir de novembre 2176. Ils sortirent par la porte des citernes, qu'on ne surveillait plus depuis la mort du vieux Gaspard. L'air sentait la terre mouillée. Il pleuvait dru, une pluie fine et froide qui perlait aux cheveux. Mael tendit les bras, la bouche ouverte, et fit un tour sur lui-même, comme un enfant.
+C'était un soir de novembre 2176. Ils sortirent par la porte des citernes, qu'on ne surveillait plus depuis la mort du vieux Gaspard. L'air sentait la terre mouillée. Il pleuvait dru, une pluie fine et froide qui perlait aux cheveux. Tanguy tendit les bras, la bouche ouverte, et fit un tour sur lui-même, comme un enfant.
 
 — Tu vois ? C'est bon, non ?
 
@@ -36,11 +36,11 @@ C'était un soir de novembre 2176. Ils sortirent par la porte des citernes, qu'o
 
 — C'est vivant, imbécile.
 
-Il éclata de rire. Il avait grossi. Il avait pris les épaules d'un homme, la voix d'un homme, le même visage rond, les mêmes taches. Il portait un manteau de laine qui sentait le chien. Il attrapa Kerr par la manche, il l'entraîna sur le sentier, dans la nuit. Ils couraient. Kerr s'entendit rire, ce qu'il ne faisait presque jamais. Il glissa, il tomba, il se releva couvert de boue. Mael l'aida. Il lui nettoya la joue d'un geste maladroit, du pouce.
+Il éclata de rire. Il avait grossi. Il avait pris les épaules d'un homme, la voix d'un homme, le même visage rond, les mêmes taches. Il portait un manteau de laine qui sentait le chien. Il attrapa Kerr par la manche, il l'entraîna sur le sentier, dans la nuit. Ils couraient. Kerr s'entendit rire, ce qu'il ne faisait presque jamais. Il glissa, il tomba, il se releva couvert de boue. Tanguy l'aida. Il lui nettoya la joue d'un geste maladroit, du pouce.
 
 Ils s'arrêtèrent au bord de l'étang.
 
-— Je dois te dire quelque chose, dit Mael.
+— Je dois te dire quelque chose, dit Tanguy.
 
 — Oui ?
 
@@ -66,7 +66,7 @@ Kerr ne bougea pas. La pluie coulait sur son front, dans ses yeux. Il dit, d'une
 
 — Que tu seras heureux.
 
-Mael le regarda. Il y eut un moment très long, où l'eau tombait entre eux, sans bruit.
+Tanguy le regarda. Il y eut un moment très long, où l'eau tombait entre eux, sans bruit.
 
 — Tu ne veux pas dire autre chose ?
 
@@ -76,7 +76,7 @@ Mael le regarda. Il y eut un moment très long, où l'eau tombait entre eux, san
 
 — Je suis content pour toi.
 
-— Tu mens mal, dit Mael.
+— Tu mens mal, dit Tanguy.
 
 — Je suis très content pour toi, répéta Kerr, avec un sourire qu'il sentit se déchirer sur ses lèvres.
 
@@ -94,13 +94,13 @@ Il dit :
 
 — Je viendrai.
 
-C'était vrai. Il y serait. Il serait là, au fond de la salle, le 14 mai 2177, en veste neuve, une fleur à la boutonnière. Il porterait la bague. Il se tiendrait droit. Il verrait Mael pleurer, devant l'officiant, en riant, et il penserait : *c'est donc ça, un jour qu'on voudrait garder.*
+C'était vrai. Il y serait. Il serait là, au fond de la salle, le 14 mai 2177, en veste neuve, une fleur à la boutonnière. Il porterait la bague. Il se tiendrait droit. Il verrait Tanguy pleurer, devant l'officiant, en riant, et il penserait : *c'est donc ça, un jour qu'on voudrait garder.*
 
 Il le garderait.
 
 ---
 
-Il y eut un silence, près de l'étang. Mael ramassa une pierre plate, la lança. Elle fit trois bonds sur l'eau, puis coula.
+Il y eut un silence, près de l'étang. Tanguy ramassa une pierre plate, la lança. Elle fit trois bonds sur l'eau, puis coula.
 
 — Tu es amoureux ? demanda-t-il.
 
@@ -122,7 +122,7 @@ Il y eut un silence, près de l'étang. Mael ramassa une pierre plate, la lança
 
 — Elle n'est pas née, dit Kerr. Pas encore.
 
-Mael le regarda, très sérieusement. Puis il éclata de rire, et le rire sonna faux.
+Tanguy le regarda, très sérieusement. Puis il éclata de rire, et le rire sonna faux.
 
 — Tu parles par énigmes, aujourd'hui.
 
@@ -138,7 +138,7 @@ Kerr resta un moment sans répondre. La pluie s'était changée en bruine. Il re
 
 — De rester.
 
-Mael le regarda. Il ne rit pas. Il passa le bras autour de ses épaules, et ils restèrent côte à côte, trempés, devant l'étang, dans la nuit. Il dit, très bas :
+Tanguy le regarda. Il ne rit pas. Il passa le bras autour de ses épaules, et ils restèrent côte à côte, trempés, devant l'étang, dans la nuit. Il dit, très bas :
 
 — Alors reste.
 

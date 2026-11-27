@@ -30,7 +30,7 @@ Agathe avait senti un frisson lui monter dans le dos. Elle avait pensé à Iris,
 
 C'était un enfant étrange. Il ne jouait pas avec les autres : il les regardait jouer, assis par terre, le menton sur les genoux, avec cette gravité de vieux moine. Il avait une façon de se tenir, les pieds l'un contre l'autre, qui faisait rire les grands. Il disait « pardon » aux portes, aux chaises, aux chats du refuge. Il disait « merci » à tout le monde, même à ceux qui ne lui avaient rien donné. Les autres se moquaient. Il ne se défendait pas. Il disait : « Je sais. »
 
-Il avait un ami, pourtant. Un petit garçon de son âge, rond, roux, aux joues tachées de son, qu'on appelait Mael. Mael criait, riait, tombait, se relevait. Il avait des genoux couverts de croûtes. Il suivait Kerr partout. Il disait : « T'es bizarre, toi. » Kerr répondait : « Oui. » Mael disait : « J'aime bien. » Il lui avait pris la main, un jour, sans rien demander, pendant une promenade dans le couloir sud, et ne l'avait plus lâchée.
+Il avait un ami, pourtant. Un petit garçon de son âge, rond, roux, aux joues tachées de son, qu'on appelait Tanguy. Tanguy criait, riait, tombait, se relevait. Il avait des genoux couverts de croûtes. Il suivait Kerr partout. Il disait : « T'es bizarre, toi. » Kerr répondait : « Oui. » Tanguy disait : « J'aime bien. » Il lui avait pris la main, un jour, sans rien demander, pendant une promenade dans le couloir sud, et ne l'avait plus lâchée.
 
 ---
 

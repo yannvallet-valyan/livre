@@ -1,14 +1,14 @@
-# Chapitre 42 — Mael
+# Chapitre 42 — Tanguy
 
 *(premier jet)*
 
-Mael riait avec tout son corps.
+Tanguy riait avec tout son corps.
 
 C'était la première chose qu'on remarquait. Il riait des épaules, du ventre, des genoux, des pieds qu'il tapait par terre. Il riait si fort qu'on en oubliait la cause. À huit ans, il riait quand on lui disait qu'il allait tomber ; à douze ans, quand on lui disait qu'il avait tort ; à seize, quand on lui disait qu'il avait raison. Il avait un visage rond, des taches de rousseur jusque dans les oreilles, des cheveux couleur de rouille, qui se dressaient sur son crâne comme des flammes mal éteintes. Il parlait trop. Il mangeait trop. Il aimait trop.
 
 Kerr l'aimait comme on aime un poêle.
 
-C'était une chose qu'il n'aurait pas su dire. Il savait seulement que, quand Mael était dans la pièce, il faisait moins froid. Il se réveillait le matin avec une tranquillité inconnue, quand il savait qu'à huit heures il y aurait, devant lui, au réfectoire, une grosse main tendue avec un morceau de pain, et une voix qui disait : « Prends, tu es maigre. » Il disait merci. Mael répondait : « Arrête avec ça. » Il disait pardon. Mael répondait : « Arrête avec ça aussi. »
+C'était une chose qu'il n'aurait pas su dire. Il savait seulement que, quand Tanguy était dans la pièce, il faisait moins froid. Il se réveillait le matin avec une tranquillité inconnue, quand il savait qu'à huit heures il y aurait, devant lui, au réfectoire, une grosse main tendue avec un morceau de pain, et une voix qui disait : « Prends, tu es maigre. » Il disait merci. Tanguy répondait : « Arrête avec ça. » Il disait pardon. Tanguy répondait : « Arrête avec ça aussi. »
 
 Ils avaient quatorze ans, en 2170, et ils ne se quittaient plus.
 
@@ -16,11 +16,11 @@ Ils avaient quatorze ans, en 2170, et ils ne se quittaient plus.
 
 Ils eurent un territoire, comme font les enfants. C'était la galerie sud, un long couloir de pierre, abandonné depuis la fermeture d'un puits d'aération, que les adultes ne fréquentaient pas. Ils y avaient aménagé une niche, derrière un tas de caisses, avec deux couvertures, une lampe, un pot de pâte à tartiner dérobé aux cuisines, un jeu de dames dont il manquait quatre pions. Ils s'y retrouvaient le soir, après le couvre-feu, par un trou dans le mur.
 
-Ils parlaient pendant des heures. Mael parlait. Kerr écoutait. Il apprenait, par lui, des choses du refuge qu'il ne connaissait pas : qui couchait avec qui, qui volait des rations, qui avait peur d'être rouillé, qui avait pleuré à l'enterrement d'une vieille cuisinière. Il apprenait que le monde était fait de gens, qu'on pouvait aimer ou détester, et que c'était une chose plus compliquée que des cahiers.
+Ils parlaient pendant des heures. Tanguy parlait. Kerr écoutait. Il apprenait, par lui, des choses du refuge qu'il ne connaissait pas : qui couchait avec qui, qui volait des rations, qui avait peur d'être rouillé, qui avait pleuré à l'enterrement d'une vieille cuisinière. Il apprenait que le monde était fait de gens, qu'on pouvait aimer ou détester, et que c'était une chose plus compliquée que des cahiers.
 
-Il aimait cela. Il le cachait. Il se tenait un peu à l'écart, dans le coin de la niche, avec son petit carnet de toile, où il notait en secret ce que lui disait son ami. Il écrivait : *Mael dit que Lucie aime Samuel. Mael dit que la soupe est trop salée. Mael dit que j'ai de beaux yeux.* Il s'arrêtait. Il rayait la dernière ligne. Il la réécrivait en dessous : *Mael dit des bêtises.*
+Il aimait cela. Il le cachait. Il se tenait un peu à l'écart, dans le coin de la niche, avec son petit carnet de toile, où il notait en secret ce que lui disait son ami. Il écrivait : *Tanguy dit que Lucie aime Samuel. Tanguy dit que la soupe est trop salée. Tanguy dit que j'ai de beaux yeux.* Il s'arrêtait. Il rayait la dernière ligne. Il la réécrivait en dessous : *Tanguy dit des bêtises.*
 
-— Qu'est-ce que tu écris ? disait Mael.
+— Qu'est-ce que tu écris ? disait Tanguy.
 
 — Ce que tu dis.
 
@@ -32,7 +32,7 @@ Il aimait cela. Il le cachait. Il se tenait un peu à l'écart, dans le coin de 
 
 — Je sais.
 
-— Non, dit Mael. Pas « je sais ». Dis « merci ».
+— Non, dit Tanguy. Pas « je sais ». Dis « merci ».
 
 — Merci.
 
@@ -44,9 +44,9 @@ Il riait. Il frottait la tête de Kerr, du plat de la main, comme on frotte la t
 
 Un soir de printemps 2172, ils furent surpris par une coupure de lampes.
 
-Ils étaient dans la niche, assis par terre, adossés à un mur de pierre. Ils jouaient aux dames. Mael perdait. Il disait : « Tu triches. » Kerr disait : « Non. » Il disait : « Tu sais déjà ce que je vais faire. » Kerr se taisait. C'était vrai, et il ne pouvait pas le dire. Il avait lu, dans un carnet, que Mael prenait toujours le pion de gauche en premier.
+Ils étaient dans la niche, assis par terre, adossés à un mur de pierre. Ils jouaient aux dames. Tanguy perdait. Il disait : « Tu triches. » Kerr disait : « Non. » Il disait : « Tu sais déjà ce que je vais faire. » Kerr se taisait. C'était vrai, et il ne pouvait pas le dire. Il avait lu, dans un carnet, que Tanguy prenait toujours le pion de gauche en premier.
 
-La lampe vacilla. Elle s'éteignit. Il y eut un silence, très profond, où l'on n'entendit plus que le souffle de deux garçons. Mael dit, d'une petite voix :
+La lampe vacilla. Elle s'éteignit. Il y eut un silence, très profond, où l'on n'entendit plus que le souffle de deux garçons. Tanguy dit, d'une petite voix :
 
 — Je n'aime pas le noir.
 
@@ -60,7 +60,7 @@ La lampe vacilla. Elle s'éteignit. Il y eut un silence, très profond, où l'on
 
 Kerr ne répondit pas. Il y eut un frottement. Une main, dans le noir, chercha la sienne. La trouva. La serra.
 
-— Tu as peur ? dit Mael.
+— Tu as peur ? dit Tanguy.
 
 — Non.
 
@@ -68,9 +68,9 @@ Kerr ne répondit pas. Il y eut un frottement. Une main, dans le noir, chercha l
 
 — Si. Un peu.
 
-— Moi aussi, dit Mael. Mais je préfère avoir peur avec quelqu'un.
+— Moi aussi, dit Tanguy. Mais je préfère avoir peur avec quelqu'un.
 
-Ils restèrent ainsi, l'un contre l'autre, la main dans la main, jusqu'à ce que la lumière revienne. Ils ne se dirent rien. Quand elle revint, Mael lâcha, très vite. Il fit une grimace, il dit une bêtise, il éclata de rire. Kerr rit aussi. Il rit si fort que des larmes lui roulèrent sur les joues.
+Ils restèrent ainsi, l'un contre l'autre, la main dans la main, jusqu'à ce que la lumière revienne. Ils ne se dirent rien. Quand elle revint, Tanguy lâcha, très vite. Il fit une grimace, il dit une bêtise, il éclata de rire. Kerr rit aussi. Il rit si fort que des larmes lui roulèrent sur les joues.
 
 Il se dit, cette nuit-là, dans son lit, les yeux ouverts : *si je pars, je le perds.*
 
@@ -78,7 +78,7 @@ Il se le dit très clairement. Il le savait depuis longtemps. Il l'avait lu dans
 
 Il prit son carnet. Il écrivit :
 
-*Mael. Né le 9 août 2156. Rouge. Roux. Bête. Le seul.*
+*Tanguy. Né le 9 août 2156. Rouge. Roux. Bête. Le seul.*
 
 Il ajouta, dessous :
 
@@ -104,7 +104,7 @@ Ils restèrent assis, au bord du vide, les jambes pendantes, sans parler. Kerr a
 
 — Non.
 
-— Moi non plus, dit Mael.
+— Moi non plus, dit Tanguy.
 
 Il se mit à pleurer, lui aussi, sans bruit, en regardant le ciel, avec ce sérieux soudain des gens qui riaient trop. Il pleurait de tout son corps. Il dit, d'une voix cassée :
 
@@ -116,7 +116,7 @@ Il se mit à pleurer, lui aussi, sans bruit, en regardant le ciel, avec ce séri
 
 Kerr ne répondit pas. Il serra sa main. Il eut envie de lui dire : *ça s'arrêtera.* Il eut envie de lui dire : *je sais quand.* Il resta silencieux.
 
-Mael le regarda. Il essuya son visage d'un revers de manche.
+Tanguy le regarda. Il essuya son visage d'un revers de manche.
 
 — Tu as l'air de quelqu'un qui sait quelque chose, dit-il.
 
@@ -126,7 +126,7 @@ Mael le regarda. Il essuya son visage d'un revers de manche.
 
 — Oui.
 
-— Je préfère ne pas le savoir, dit Mael.
+— Je préfère ne pas le savoir, dit Tanguy.
 
 — D'accord.
 

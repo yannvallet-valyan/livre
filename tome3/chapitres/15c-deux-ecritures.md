@@ -52,7 +52,7 @@ Ils restèrent ainsi une heure, à s'écrire, sans se parler, à la lueur de la 
 
 Ce fut la plus longue conversation de leur vie. Ils y dirent tout ce qu'ils avaient tu depuis deux décennies : les peurs, les rancunes, les choses qu'on n'ose pas formuler. Kerr écrivit : *Je t'ai laissé mourir.* Sacha répondit : *Je t'ai laissé me laisser mourir.* Kerr écrivit : *Je voulais te sauver.* Sacha répondit : *Tu ne le pouvais pas.* Kerr écrivit : *Je le savais.* Sacha répondit : *Moi aussi.*
 
-Ils parlèrent de Mael, du caillou, de la table pour cinq. Ils parlèrent d'Iris, de l'une et de l'autre. Ils parlèrent d'un homme appelé Walther, dont Sacha écrivit le nom avec une sorte de crainte, comme on touche une cicatrice. Il écrivit : *Je l'ai détesté.* Il écrivit : *Je l'ai envié.* Il écrivit, plus bas : *Il t'aurait bien élevé.*
+Ils parlèrent de Tanguy, du caillou, de la table pour cinq. Ils parlèrent d'Iris, de l'une et de l'autre. Ils parlèrent d'un homme appelé Walther, dont Sacha écrivit le nom avec une sorte de crainte, comme on touche une cicatrice. Il écrivit : *Je l'ai détesté.* Il écrivit : *Je l'ai envié.* Il écrivit, plus bas : *Il t'aurait bien élevé.*
 
 Kerr répondit : *Il m'a élevé.*
 

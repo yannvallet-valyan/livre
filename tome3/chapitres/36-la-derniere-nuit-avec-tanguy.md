@@ -1,10 +1,10 @@
-# Chapitre 48 — La dernière nuit avec Mael
+# Chapitre 48 — La dernière nuit avec Tanguy
 
 *(premier jet)*
 
 Il leur restait une nuit, et personne ne le savait que lui.
 
-C'était le 9 avril 2180. Il avait vingt-quatre ans. Mael en avait vingt-trois ; il portait, depuis deux ans, une alliance en laiton qu'il tournait sans cesse autour de son doigt. Il avait une fille de dix-huit mois, qui s'appelait Anne, qui marchait déjà, qui disait « Ker » pour appeler son parrain. Il avait grossi encore. Il avait un petit ventre, un début de calvitie. Il était heureux. Cela se voyait de loin.
+C'était le 9 avril 2180. Il avait vingt-quatre ans. Tanguy en avait vingt-trois ; il portait, depuis deux ans, une alliance en laiton qu'il tournait sans cesse autour de son doigt. Il avait une fille de dix-huit mois, qui s'appelait Anne, qui marchait déjà, qui disait « Ker » pour appeler son parrain. Il avait grossi encore. Il avait un petit ventre, un début de calvitie. Il était heureux. Cela se voyait de loin.
 
 Kerr passa chez eux à neuf heures du soir.
 
@@ -14,13 +14,13 @@ Il traversa la maison. Elle sentait la soupe, le feu de bois, le linge propre. I
 
 Il pensa : *je te vois, Anne.* Il pensa : *tu ne te souviendras pas de moi.* Il pensa : *c'est bien.*
 
-Il rejoignit Mael sur la terrasse.
+Il rejoignit Tanguy sur la terrasse.
 
 ---
 
-Ils burent un vin chaud, assis sur le banc de pierre, dans l'air tiède d'avril. Les étoiles étaient sorties. Mael parlait de tout, de rien : de la récolte de pommes de terre, d'une querelle d'eau avec les voisins, d'une dent de lait d'Anne qu'il avait trouvée dans son assiette. Kerr écoutait. Il hochait la tête. Il avait mis, dans son manteau, un petit paquet.
+Ils burent un vin chaud, assis sur le banc de pierre, dans l'air tiède d'avril. Les étoiles étaient sorties. Tanguy parlait de tout, de rien : de la récolte de pommes de terre, d'une querelle d'eau avec les voisins, d'une dent de lait d'Anne qu'il avait trouvée dans son assiette. Kerr écoutait. Il hochait la tête. Il avait mis, dans son manteau, un petit paquet.
 
-Il ne le sortit pas tout de suite. Il attendit que Mael se taise. Il dit enfin :
+Il ne le sortit pas tout de suite. Il attendit que Tanguy se taise. Il dit enfin :
 
 — J'ai quelque chose pour toi.
 
@@ -28,7 +28,7 @@ Il ne le sortit pas tout de suite. Il attendit que Mael se taise. Il dit enfin :
 
 — Pour Anne. Pour plus tard.
 
-Il tendit le paquet : un morceau de toile, noué d'une ficelle. Mael le défit. Il y avait un caillou blanc, poli, de la taille d'une noix, avec, dessus, au crayon, trois mots : *Pour Anne. Compte.*
+Il tendit le paquet : un morceau de toile, noué d'une ficelle. Tanguy le défit. Il y avait un caillou blanc, poli, de la taille d'une noix, avec, dessus, au crayon, trois mots : *Pour Anne. Compte.*
 
 — C'est quoi ?
 
@@ -46,13 +46,13 @@ Il tendit le paquet : un morceau de toile, noué d'une ficelle. Mael le défit. 
 
 — Soi.
 
-Mael fronça les sourcils. Il retourna le caillou. Il le caressa du pouce. Il dit, après un silence :
+Tanguy fronça les sourcils. Il retourna le caillou. Il le caressa du pouce. Il dit, après un silence :
 
 — Tu pars.
 
 Kerr ne répondit pas.
 
-— Tu pars, répéta Mael. Je le sais depuis un mois. Tu ne manges plus. Tu ne dors plus. Tu viens à la maison, tu regardes tout, comme si tu allais passer un examen. Tu as dit au revoir à Agathe, hier, je t'ai vu. Elle est morte il y a deux ans, Kerr. Tu lui as parlé sur sa tombe.
+— Tu pars, répéta Tanguy. Je le sais depuis un mois. Tu ne manges plus. Tu ne dors plus. Tu viens à la maison, tu regardes tout, comme si tu allais passer un examen. Tu as dit au revoir à Agathe, hier, je t'ai vu. Elle est morte il y a deux ans, Kerr. Tu lui as parlé sur sa tombe.
 
 — Je sais.
 
@@ -70,7 +70,7 @@ Kerr regarda ses mains. Il dit, très bas :
 
 — Non.
 
-Mael se leva. Il fit deux pas, jusqu'à la balustrade. Il avait les épaules secouées. Il dit, sans se retourner :
+Tanguy se leva. Il fit deux pas, jusqu'à la balustrade. Il avait les épaules secouées. Il dit, sans se retourner :
 
 — Tu m'avais promis.
 
@@ -88,7 +88,7 @@ Mael se leva. Il fit deux pas, jusqu'à la balustrade. Il avait les épaules sec
 
 — Parce que si je te le dis, dit Kerr, tu essaieras de m'en empêcher. Et tu y arriveras. Et ce sera pire.
 
-Il y eut un long silence. Mael se retourna. Il avait le visage mouillé, enflammé, enfantin. Il dit, d'une voix cassée :
+Il y eut un long silence. Tanguy se retourna. Il avait le visage mouillé, enflammé, enfantin. Il dit, d'une voix cassée :
 
 — Je t'aime, tu sais.
 
@@ -102,7 +102,7 @@ Il y eut un long silence. Mael se retourna. Il avait le visage mouillé, enflamm
 
 — Oui.
 
-Il s'approchèrent, d'un même mouvement. Ils se prirent dans les bras, très fort, longuement, sans un mot. Mael sentait le feu de bois, le lait, la pomme. Il sanglotait, le front contre l'épaule de Kerr. Il disait, par saccades : « Ce n'est pas juste. Ce n'est pas juste. » Kerr, les yeux fermés, lui frottait le dos, d'un geste lent.
+Il s'approchèrent, d'un même mouvement. Ils se prirent dans les bras, très fort, longuement, sans un mot. Tanguy sentait le feu de bois, le lait, la pomme. Il sanglotait, le front contre l'épaule de Kerr. Il disait, par saccades : « Ce n'est pas juste. Ce n'est pas juste. » Kerr, les yeux fermés, lui frottait le dos, d'un geste lent.
 
 — Tu m'oublieras, dit-il.
 
@@ -120,11 +120,11 @@ Il avait compris cela, tout à coup, en le disant. Il avait parlé sans réfléc
 
 Il resta jusqu'à l'aube.
 
-Ils ne dormirent pas. Ils parlèrent, comme autrefois dans la niche de la galerie sud. Ils se rappelèrent le pot de pâte volé, les dames sans pions, la tour d'aération, le ciel. Ils rirent. Ils pleurèrent. Ils burent trois bouteilles. Mael s'endormit sur le banc, vers cinq heures, la tête sur l'épaule de Kerr, la bouche ouverte.
+Ils ne dormirent pas. Ils parlèrent, comme autrefois dans la niche de la galerie sud. Ils se rappelèrent le pot de pâte volé, les dames sans pions, la tour d'aération, le ciel. Ils rirent. Ils pleurèrent. Ils burent trois bouteilles. Tanguy s'endormit sur le banc, vers cinq heures, la tête sur l'épaule de Kerr, la bouche ouverte.
 
 Kerr ne bougea pas. Il regarda le ciel pâlir. Il compta les étoiles qui disparaissaient, une à une. Il compta jusqu'à cinquante-neuf. Il s'arrêta.
 
-Il dégagea doucement son épaule. Il posa la tête de Mael sur un coussin. Il le couvrit d'un plaid. Il se pencha. Il lui murmura à l'oreille, si bas que lui-même n'entendit pas :
+Il dégagea doucement son épaule. Il posa la tête de Tanguy sur un coussin. Il le couvrit d'un plaid. Il se pencha. Il lui murmura à l'oreille, si bas que lui-même n'entendit pas :
 
 — Merci.
 
@@ -132,7 +132,7 @@ Il se redressa. Il regarda la maison, la terrasse, les pommiers, le chemin. Il e
 
 Il sortit par la porte du jardin. Il referma sans bruit.
 
-Mael se réveilla à sept heures. Il chercha Kerr du regard. Il trouva le caillou, posé sur le banc, avec trois mots. Il resta longtemps à le regarder. Il ne savait pas pourquoi il avait pleuré dans son sommeil.
+Tanguy se réveilla à sept heures. Il chercha Kerr du regard. Il trouva le caillou, posé sur le banc, avec trois mots. Il resta longtemps à le regarder. Il ne savait pas pourquoi il avait pleuré dans son sommeil.
 
 Il le mit dans sa poche.
 
