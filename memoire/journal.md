@@ -23,3 +23,4 @@
 | V3.17 | 2026-11-27 | Tome 2 ch. 10b « Le marché » (Odette-Iris du présent : « Je peux sauver votre fils », mensonge ; Iris cesse de saboter ; le pouls d'Odette s'arrête à 59, jamais 60 en 1958) |
 | V3.18 | 2026-11-27 | `memoire/resume.md` ; tome 2 ch. 11 « L'enregistrement » (14 juil. 2040 : Lise enregistre Iris, 13 ans ; son père Antoine Marchand, de Léthé, transmet ; dossier « Phénomène L.-I. », 24 ans) |
 | V3.19 | 2026-11-27 | Tome 2 ch. 12 « La voisine » (9 sept. 1958 : Odette dénonce Rose comme somnambule, Jean s'accuse du sabotage et est arrêté ; Rose écrit « C'EST TOI », Iris répond « Oui. Pardon. ») |
+| V3.20 | 2026-11-27 | Tome 2 ch. 13 « Le poêle » (12 sept. 1958 : Walther brûle aveux et déposition ; Jean libéré le 30 sept. ; note de K. en novembre : « Il aime ») |
