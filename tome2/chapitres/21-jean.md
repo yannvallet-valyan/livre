@@ -52,6 +52,18 @@ Elle se tut. Elle partit. Il resta longtemps debout, au milieu de la cuisine, le
 
 ---
 
+Il avait passé vingt et un jours à la prison du chef-lieu.
+
+On ne lui avait jamais dit combien de temps cela durerait : on ne le dit pas à ceux qu'on enferme. C'était une cellule de deux mètres sur trois, au sous-sol de la gendarmerie, avec un lit de fer scellé au mur, un seau, une lucarne qui donnait sur un soupirail. Il y faisait froid. Il y régnait une odeur de chaux, de pisse, de vieux tabac. Les gendarmes étaient corrects. L'un d'eux, un petit brun du nom de Lopez, lui apportait chaque matin du café chaud, qu'il buvait à petites gorgées, sans rien demander.
+
+Il s'était mis à compter les pierres du mur. Il y en avait quarante-sept, d'un côté. Il les recomptait, à chaque réveil, pour s'assurer qu'aucune ne manquait. Il avait pensé à Rose. Il avait pensé à son fils. Il avait pensé à sa mère, qui lui disait, en 1936, qu'on ne perd jamais ce qu'on a donné.
+
+Il n'avait pas eu peur. Il avait seulement attendu, avec ce fatalisme des hommes de la forêt, qui savent qu'un arbre tombe quand il doit tomber.
+
+Le jour de sa libération, un gendarme lui avait rendu ses lacets, son béret, sa montre. Il lui avait dit : « Tu as eu de la chance. » Il avait répondu : « Je sais. » Il n'avait pas compris pourquoi.
+
+---
+
 Il comprit que Rose l'avait trompé. Il le comprit comme on comprend un décès : en deux temps, d'abord le mot, puis, beaucoup plus tard, le poids.
 
 Il pensa : *elle l'a fait en plein jour. Elle l'a fait sans moi.*

@@ -15933,6 +15933,29 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Elle avait appris la maladie en octobre 2042, dans le bureau d'un cancérologue qui avait un nœud papillon et un tic à l'œil. Il avait parlé de protocoles, de stades, de survie à cinq ans. Sophia avait écouté, les mains croisées, avec cette attention qu'elle mettait aux relevés de lacs. Elle avait demandé : « Combien ? » Il avait donné un chiffre. Elle l'avait noté dans la marge de son agenda, sans commentaire."
+    },
+    {
+     "t": "p",
+     "s": "Elle n'en avait rien dit à sa fille. Elle avait continué de travailler, de rentrer tard, de faire les courses le samedi. Elle avait seulement cessé de manger certains aliments, de monter l'escalier à pied, de s'asseoir au bord du lit. Iris, qui avait quinze ans et vivait dans son propre brouillard, ne s'était aperçue de rien. Elle s'en était voulu pour le reste de sa vie."
+    },
+    {
+     "t": "p",
+     "s": "Il y avait eu trois années de traitements, d'hôpitaux, de cheveux qui tombaient. Sophia avait refusé la perruque. Elle avait gardé son crâne nu, ses grands yeux creusés, son nez de rapace. Elle ressemblait à une statue de femme de marin. Elle disait : « Ça me va bien », avec un petit sourire, et personne n'osait la contredire."
+    },
+    {
+     "t": "p",
+     "s": "Elle avait passé les derniers mois dans la chambre du fond, sur le lit où elle dormait enfant, un lit de fer peint en blanc, aux montants ornés de petites pommes de pin. Elle regardait le plafond. Elle disait peu. Elle se faisait lire les relevés de lacs, les bulletins de crue, les rapports de l'agence, et corrigeait, d'une voix sèche, les erreurs de chiffre. Il lui arrivait de dire, au milieu d'une phrase : « Là. Quelqu'un a menti. » On vérifiait. Elle avait presque toujours raison."
+    },
+    {
+     "t": "p",
+     "s": "Elle avait gardé une fiole sur sa table de nuit. Une seule, dans toute la collection : la numéro quarante-deux, celle d'un petit lac de Chartreuse, qu'elle avait prélevée le jour de ses cinquante ans. L'eau y était limpide. Elle l'avait fait tenir, bouchon vissé, dans le creux de sa main, pendant des heures, sans rien dire, avec l'air de quelqu'un qui écoute un coquillage."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
      "s": "La dernière nuit, Sophia parla."
     },
     {
@@ -16027,7 +16050,7 @@ window.BOOK = {
      "s": "Le chant qu'elle attendait n'était plus là. Elle l'entendit quand même."
     }
    ],
-   "words": 755,
+   "words": 1108,
    "tome": 2
   },
   {
@@ -17728,6 +17751,70 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Elle ne savait pas par où commencer. Il y avait trop de choses, un trop-plein de reproches qui lui serraient la gorge comme un mors. Elle se tint un moment debout au milieu de la chambre, les mains sur les hanches, à regarder le plancher. Elle entendait, à travers la cloison, le souffle de Jean, qui dormait. Elle entendait l'enfant qui se retournait dans son lit. Elle entendait, au loin, le chantier, qui ne s'arrêtait jamais."
+    },
+    {
+     "t": "p",
+     "s": "Elle dit enfin, à voix basse :"
+    },
+    {
+     "t": "p",
+     "s": "— Vous avez touché à mes affaires."
+    },
+    {
+     "t": "p",
+     "s": "*Oui.*"
+    },
+    {
+     "t": "p",
+     "s": "— Au coffret."
+    },
+    {
+     "t": "p",
+     "s": "*Oui.*"
+    },
+    {
+     "t": "p",
+     "s": "— Vous avez vu la mèche."
+    },
+    {
+     "t": "p",
+     "s": "*Oui. Je l'ai remise.*"
+    },
+    {
+     "t": "p",
+     "s": "— Vous n'aviez pas le droit."
+    },
+    {
+     "t": "p",
+     "s": "*Non.*"
+    },
+    {
+     "t": "p",
+     "s": "Elle serra les poings. Elle sentit, dans sa gorge, un sanglot qui montait, qu'elle ravala. Elle n'avait jamais parlé de l'enfant à personne, sauf à Jean, une fois, la nuit, dans le noir. Et voilà que cette inconnue, cette intruse, en savait la couleur des cheveux."
+    },
+    {
+     "t": "p",
+     "s": "— Il s'appelait Paul, dit-elle. C'est tout ce que je vous dirai."
+    },
+    {
+     "t": "p",
+     "s": "*Merci.*"
+    },
+    {
+     "t": "p",
+     "s": "— Je ne vous le donne pas."
+    },
+    {
+     "t": "p",
+     "s": "*Je sais.*"
+    },
+    {
+     "t": "p",
+     "s": "Elle respira. Elle eut le sentiment étrange que l'autre n'avait pas bougé, qu'elle se tenait là, au fond d'elle, sans rien prendre, sans rien demander, comme on se tient dans un coin de pièce quand on a été grondé. Elle sut que cette retenue, elle aussi, était un cadeau."
+    },
+    {
+     "t": "p",
      "s": "— Pourquoi ? dit-elle."
     },
     {
@@ -17871,7 +17958,7 @@ window.BOOK = {
      "s": "*D'accord.*"
     }
    ],
-   "words": 883,
+   "words": 1112,
    "tome": 2
   },
   {
@@ -17980,6 +18067,29 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Il avait passé vingt et un jours à la prison du chef-lieu."
+    },
+    {
+     "t": "p",
+     "s": "On ne lui avait jamais dit combien de temps cela durerait : on ne le dit pas à ceux qu'on enferme. C'était une cellule de deux mètres sur trois, au sous-sol de la gendarmerie, avec un lit de fer scellé au mur, un seau, une lucarne qui donnait sur un soupirail. Il y faisait froid. Il y régnait une odeur de chaux, de pisse, de vieux tabac. Les gendarmes étaient corrects. L'un d'eux, un petit brun du nom de Lopez, lui apportait chaque matin du café chaud, qu'il buvait à petites gorgées, sans rien demander."
+    },
+    {
+     "t": "p",
+     "s": "Il s'était mis à compter les pierres du mur. Il y en avait quarante-sept, d'un côté. Il les recomptait, à chaque réveil, pour s'assurer qu'aucune ne manquait. Il avait pensé à Rose. Il avait pensé à son fils. Il avait pensé à sa mère, qui lui disait, en 1936, qu'on ne perd jamais ce qu'on a donné."
+    },
+    {
+     "t": "p",
+     "s": "Il n'avait pas eu peur. Il avait seulement attendu, avec ce fatalisme des hommes de la forêt, qui savent qu'un arbre tombe quand il doit tomber."
+    },
+    {
+     "t": "p",
+     "s": "Le jour de sa libération, un gendarme lui avait rendu ses lacets, son béret, sa montre. Il lui avait dit : « Tu as eu de la chance. » Il avait répondu : « Je sais. » Il n'avait pas compris pourquoi."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
      "s": "Il comprit que Rose l'avait trompé. Il le comprit comme on comprend un décès : en deux temps, d'abord le mot, puis, beaucoup plus tard, le poids."
     },
     {
@@ -18039,7 +18149,7 @@ window.BOOK = {
      "s": "Quelqu'un, au fond d'elle, murmura le dernier mot avec eux."
     }
    ],
-   "words": 881,
+   "words": 1113,
    "tome": 2
   },
   {
@@ -18968,6 +19078,45 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Le samedi suivant, le père Combe fit une découverte qu'il tut."
+    },
+    {
+     "t": "p",
+     "s": "C'était dans le coin des étrangers, au fond du vieux cimetière, là où l'on avait enterré les ouvriers morts en travaillant, sous des croix de bois sans noms. Il y en avait six. Il creusa la première. Il y trouva un homme entier, le visage noir, les mains jointes sur la poitrine, comme neuf, comme endormi, avec les yeux ouverts. Il resta immobile. Il fit un pas en arrière. Il se signa. Il remit la terre."
+    },
+    {
+     "t": "p",
+     "s": "Il alla voir l'abbé Perrin, le dimanche, à la sacristie. Il lui dit : « Monsieur le curé, il y en a qui ne pourrissent pas. » L'abbé le regarda longtemps, derrière ses lunettes, sans rien dire. Il alla se laver les mains. Il dit, d'une voix de cire :"
+    },
+    {
+     "t": "p",
+     "s": "— Vous n'en parlerez à personne."
+    },
+    {
+     "t": "p",
+     "s": "— Non."
+    },
+    {
+     "t": "p",
+     "s": "— Vous remettrez la terre."
+    },
+    {
+     "t": "p",
+     "s": "— Je l'ai remise."
+    },
+    {
+     "t": "p",
+     "s": "— Alors Dieu vous bénisse."
+    },
+    {
+     "t": "p",
+     "s": "Le père Combe resta debout dans la sacristie, les mains pendantes, longtemps après que le prêtre fut sorti. Il écouta le silence. Il entendit, très loin, sous ses pieds, quelque chose qui ressemblait à un battement."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
      "s": "Rose assista à la dernière journée. C'était le jeudi 13, vers quatre heures de l'après-midi, par un ciel de plomb. Elle était venue pour sa grand-mère, enterrée au fond du vieux cimetière, sous un if. Elle avait pris Anselme par la main. Elle se tenait à l'écart, avec les femmes du village, immobile, les lèvres serrées."
     },
     {
@@ -19098,7 +19247,7 @@ window.BOOK = {
      "s": "C'était un mot de rien. Il fit, dans la cuisine, un très petit bruit, comme une pièce qu'on laisse tomber dans un puits."
     }
    ],
-   "words": 837,
+   "words": 1032,
    "tome": 2
   },
   {
