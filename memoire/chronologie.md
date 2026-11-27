@@ -77,7 +77,8 @@ Jours de semaine vérifiés contre le calendrier réel. Lune 2026 : nuit 4-5 oct
 ## Après 2026
 | Date | Événement | Fichier |
 |---|---|---|
-| 3 août 2027 | Naissance d'Anne (Lyon) — 🔒 tour brisé : naissance d'**Iris du passé**, une nuit, vécue par Élise et Noé | 03, 43 |
+| 3 août 2027 | Naissance d'Anne (Lyon, tour 47) | 03, 43 |
+| ≈ 9 juil. 2027 🔒 | Tour brisé : naissance d'**Iris du passé** (conçue le 16 oct. 2026), une nuit de coupure de courant, vécue par Élise et Noé | trilogie |
 | 2029 | Bastien a une fille, **Léa** (tour 47) — 🔒 tour brisé : un garçon, **Théo** | 47 |
 | déc. 2033 | Anne (6 ans) nomme les étoiles de la dernière nuit | 44 |
 | ~2045-2065 🔒 | Tour brisé : Kerr dans Théo vit avec Iris du passé ; fils **Sacha (K.)** ~2050 ; rouillé et « mort » ~2065 | trilogie |
@@ -100,5 +101,6 @@ Jours de semaine vérifiés contre le calendrier réel. Lune 2026 : nuit 4-5 oct
 | après 2065 🔒 | Iris du passé, après la mort de son fils, part dans Rose (1958) : tome 2 | trilogie |
 | ~2156 🔒 | Naissance de **Kerr** (fils de Sacha et d'Iris du présent) | trilogie |
 | 2159 | Mort de Ruben (Iris a 29 ans) | 41 |
-| 2164 | Iris du présent (34 ans) part dans Mathis ; Sacha repart ; Kerr (8 ans) reste seul ; (B) Élise B part dans Sophia, écrit la page, brise, tombe en 1980 | 41, 46 |
+| été 2160 🔒 | Iris du présent (30 ans) fait un premier voyage court dans Odette (1958) ; dénonce Rose ; rentre | trilogie |
+| 2164 | Iris du présent (34 ans) part dans Mathis ; Sacha repart ; Kerr (8 ans) reste au refuge, confié aux éducatrices ; (B) Élise B part dans Sophia, écrit la page, brise, tombe en 1980 | 41, 46 |
 | 2180 🔒 | Kerr (24 ans) part dans Bastien | trilogie |

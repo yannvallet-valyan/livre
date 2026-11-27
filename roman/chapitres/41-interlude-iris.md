@@ -16,7 +16,7 @@ Elle avait trente-quatre ans. Elle avait grandi au refuge, dans le dortoir B, pu
 
 Elle avait cherché. Elle avait trouvé le dossier gris, la page arrachée, la cinquième feuille dans le tiroir d'Oriane, qui était morte depuis longtemps. Elle avait trouvé, dans les archives du Conseil, les registres de départ. Deux lignes. *Élise Varenne, 15 septembre 2137.* *Noé Marle, 17 septembre 2137, sans autorisation.* Et rien d'autre. Ni l'un ni l'autre n'était jamais revenu.
 
-Elle avait passé quatorze ans à comprendre pourquoi. Entre-temps, elle avait aimé un homme qui s'était réveillé un matin d'entre les rouillés, et qui était reparti comme il était venu. Elle laissait au refuge un fils de huit ans, qui avait les carnets de son père et ses yeux. Le jour de ses trente-quatre ans, elle avait demandé un éclat.
+Elle avait passé quatorze ans à comprendre pourquoi. Entre-temps, elle avait aimé un homme qui s'était réveillé un matin d'entre les rouillés, et qui était reparti comme il était venu. Elle laissait au refuge un fils de huit ans, qui avait les carnets de son père et ses yeux. Quatre ans plus tôt, elle avait déjà demandé un éclat, pour un voyage plus court, dont elle était revenue sans un mot à personne. Le jour de ses trente-quatre ans, elle en avait demandé un autre.
 
 ---
 

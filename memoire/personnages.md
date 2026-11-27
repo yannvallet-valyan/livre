@@ -23,7 +23,7 @@ Format : **Nom** (naissance) — rôle · liens · hôte/voyageur · secret 🔒
 
 ## Kerr et K.
 - **Bastien Kerr** (~1991) — directeur du labo Léthé, 35 ans, sourire de publicité, politesse « forme d'absence ». Fils Théo noyé (Annecy, 2022). Dort près du bac 7 pour oublier. Perd badge, clés, 🔒 des après-midi entiers. Antagoniste apparent du tome 1. Part le 16 nov. ; fille **Léa** (2029) ; 🔒 tour brisé : fils **Théo** (2029).
-- **Kerr** 🔒 (voyageur, ~2156-2180+) — fils de Sacha et d'Iris du présent. Part en 2180 dans Bastien (le jour). Auteur du manuel et de la fausse règle. Vit avec Iris du passé dans Théo (tour brisé). « Sauvegarde la boucle ». Titre du tome 3 : *L'Homme du jour*.
+- **Kerr** 🔒 (voyageur, ~2156-2180+, élevé au refuge par les éducatrices) — fils de Sacha et d'Iris du présent. Part en 2180 dans Bastien (le jour). Auteur du manuel et de la fausse règle. Vit avec Iris du passé dans Théo (tour brisé). « Sauvegarde la boucle ». Titre du tome 3 : *L'Homme du jour*.
 - **K. = Sacha** 🔒 (~2050) — fils de Kerr et d'Iris du passé. « Mort » à 15 ans. Habite Bastien la nuit (tour 47) et l'ingénieur suisse (1958). Écriture fine, typographique ; boîtier à écran vert ; cahier noir ; « Je n'interviens pas », « des politesses » (lampe, badges, caillou). Ne reconnaît pas sa mère dans Rose. Revient ~2150 dans un rouillé, aime Iris du présent. Signe « K. », puis « S. » (tour 48).
 
 ## Vallorce (2026)

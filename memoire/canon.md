@@ -35,3 +35,39 @@
 - **Kerr « sauvegarde la boucle »** : sa famille n'existe que si le tour brisé revient. Il n'est pas méchant (miroir de Noé : « La boucle doit tourner »), pas innocent non plus.
 - **Infermable** : empêcher la naissance d'Iris du passé efface K., Kerr, le manuel, donc les voyageurs, donc ceux qui l'empêchent.
 - **Fin du tome 3** : nuit d'octobre du tour brisé (le 16 oct.), cuisine d'Étienne, avant la conception. Le lecteur sait, depuis le tome 1 (`31`, `36`), que ce tour a eu lieu : la scène révèle que la « faute » d'Élise et Noé était un **choix**, fait en connaissance de cause. Kerr et Sacha (même corps, enfin ensemble) disent tout à Élise et Noé et leur laissent le choix. Dernière page : la main au-dessus du mètre, « Cinquante-neuf. » Coda : *Tour 48. J + 1. Elle est arrivée. Elle a peur. Cette fois, je descends la voir. — S.*
+
+## Décisions V3.7 (voir `predestination.md`)
+- **Le cercle n'a pas d'origine** : le manuel de Kerr (écrit en 2026, tour brisé) cause le voyage de 2137, qui cause Élise et Noé, donc Iris du passé, Sacha, Kerr, qui écrit le manuel.
+- **Tour brisé (T_b)** : nuit du 16 oct. (conception) ; le 19, Élise descend à la galerie (« la paroi garde ce qu'elle portait » = l'enfant) ; Sophia fuit vers le 20 ; Léthé emporte le gisement le 14 nov. ; naissance ≈ 9 juil. 2027 à Lyon (Étienne y arrive en somnambule, conduit par Noé).
+- **Théo Kerr** (2029) est vidé par les pilules Léthé de son père ; **Kerr y entre** vers 2046 (« Rouille → avenir »). Sacha naît en 2050 ; il prend la pilule en 2064 (Lise) ; Kerr le laisse faire (il doit devenir K.) ; Étienne prélève l'éclat (« un donneur ») ; Iris part pour 1958 en 2066.
+- **Tour 47** : Kerr, vieux de 46 tours, possède Bastien le jour ; il place l'aiguille dans le douzième bac, retire son badge à Sophia, lit chaque matin le cahier noir de son fils sans le savoir.
+- **Le premier péché d'Élise et de Noé** : leurs hôtes n'auraient pas consenti ; ils ne les réveillent pas.
+- **Rose consent** (« Reste ») à la dissolution d'Iris ; Walther (le jour) sauve Anselme par amour pour Rose.
+- **« Que la boucle tourne »** : dernière ligne du manuel, recopiée par Noé (`26`).
+- **La rencontre des deux Iris** ✅ : 1958, au lavoir (Odette/Rose : « Comment elle était », « Le marché ») puis 14 nov. 2026, 9 h 40, dans le cristal (« Sacha », « Garde-le », la troisième strophe). Iris du présent sait qui elle rencontre, pas l'autre. Détail : `predestination.md` §3 quater.
+- **La rencontre des deux Élise** ✅ : nuit du 10 au 11 nov. (tour 47), cabine, vers 4 h 15. Élise B prend A pour sa mère (« Oui »), l'avertit du grain ; A lui donne « cassant comme du sucre ». Détail : `../tome3/plan-detaille.md`.
+- **Troisième couplet (🔒 tome 3, brouillon retenu)** : *Dors, mon enfant, dors sans bruit, / je compte pour toi jusqu'à minuit ; / au soixantième, si tu m'entends, / je serai là, comme avant.* Il n'existe que quand les deux Iris le chantent ensemble.
+- **Jean** (1958) : il s'accuse du sabotage, passe trois semaines en cellule, est libéré faute de pièces (Walther brûle le rapport). Jamais condamné.
+
+
+## Points de cohérence tranchés (V3.15)
+1. **Kerr, chapitre 2 du tome 3** = *Premier tour de Kerr* (sept. 2026). Les 46 tours suivants viennent après ; en tour 47 il est vieux de 46 tours.
+2. **Départ d'Iris (2066)** : après la mort de Sacha et la disparition de Théo, Iris quitte Vallorce et s'installe à Lyon, dans l'appartement de Sophia (morte en 2045). Elle y trouve la méthode, y compte, y part. Chapitre 32 du tome 2 : « cuisine de Lyon ».
+3. **Cuisine jaune** (souvenir d'Iris à 4 ans, `tome2/09`) : c'est la cuisine de Rose en 1958, et la femme aux cheveux courts qui chante et pleure, c'est **Iris elle-même**, qui tient Anselme. Le souvenir descend par le sang (Anselme → Sophia → Iris). Elle cherche sa mère dans un souvenir où elle est la mère. Le lecteur le comprend à la scène de la dernière nuit (ch. 30 du plan). Boucle sans origine : elle se coupe les cheveux à cause de l'image, et l'image existe parce qu'elle s'est coupé les cheveux.
+4. **Chapitre 3 du tome 3** : 2150, trois jours après le chapitre 1 (Iris du présent a 20 ans).
+5. **Éclat de Sacha** : Iris le demande à Étienne (≈ 86 ans), qui ne sait pas pourquoi il obéit : « un donneur » (écho de `03-passeuse.md`).
+6. **Étienne en 2027** : retour à Grenoble en train (Hugo). Il ne se souvient de rien, sinon d'un enfant dans les bras. Il revoit Iris à Vallorce vers 2047 sans la reconnaître.
+
+## Décisions d'écriture V3.21 (tome 2)
+- Iris du passé arrive à Vallorce en **déc. 2045** (18 ans), pas en 2047 ; elle rencontre Théo en **mars 2046** (il a 17 ans) ; caillou blanc offert pour ses 19 ans (juil. 2046).
+- Hélène meurt en mars 2041 ; Sophia le 2 déc. 2045 (57 ans) ; la lettre à Étienne (nov. 2026, jamais postée) envoie Iris à Vallorce. Étienne l'engage comme infirmière.
+- Lise a le même âge qu'Iris (18 ans en 2045). Antoine Marchand, son père, travaille chez Léthé.
+- Walther : protestant, fils de pasteur, 31 ans. Il brûle le dossier le 12 sept. 1958 ; Jean libéré le 30 sept.
+- 3 oct. 1958 : Iris découvre qu'elle peut rester le jour et le refuse ; **13 oct.** : elle prend un jour (préfecture de Grenoble), Anselme manque de se noyer (canal), Walther le sauve, **Rose l'embrasse**. Iris pense qu'elle reprendra un jour « plus tard ».
+- Le chef-lieu est à 14 km de Vallorce-le-Bas ; Grenoble est la préfecture (car de 6 h 40, 3 h 20).
+
+## Décisions d'écriture V3.25 (tome 2)
+- **Sacha** : rouillé en déc. 2064-févr. 2065 ; le 11→12 févr. 2065 Théo lui pose un éclat sur le front (« la porte ») ; mort déclarée une semaine plus tard ; **enterré** à Vallorce. Théo disparaît **la nuit de l'enterrement** (mot : « Pardon. Je ne pouvais pas faire autrement. Compte. — T. »).
+- **Ch. 30 (à écrire)** : Iris et Étienne **exhument** Sacha en hiver 2065-66 ; Étienne prélève l'éclat (« un donneur »), sans savoir pourquoi. Iris trouve la cache de Théo (« Que la boucle tourne »).
+- **K. (1958)** : première mesure la nuit du 13→14 nov., dans Walther ; cahier « Variable inconnue. Hôte R.R. » ; il donne sa **lampe de poche** à Rose-Iris, qui la pose sur le paillasson (épilogue). Iris se tait pour qu'il devienne K.
+- Odette dit « Cinquante-neuf » à la porte de Rose, sans « soixante ».

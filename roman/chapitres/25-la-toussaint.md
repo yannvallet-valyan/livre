@@ -14,7 +14,7 @@ La tombe de Martine Pradel était la plus récente, et la seule sans pierre. Un 
 
 Sophia se tint en retrait. Elle n'était pas d'ici, pas vraiment : on la saluait d'un signe de tête, avec la politesse prudente qu'on réservait à la fille d'Anselme. Elle vit Étienne de loin, son écharpe rouge autour du cou, qui serrait des mains. On le remerciait d'avoir signé le certificat si vite, d'avoir épargné à la famille l'autopsie, les gendarmes, les questions. Il souriait à chacun. Sophia savait ce que lui coûtait ce sourire. Elle avait vu les ongles cassés, la poudre rouge.
 
-Bastien Kerr arriva à la fin, avec une gerbe de roses blanches trop grande, trop chère. Les conversations s'arrêtèrent sur son passage. Il posa la gerbe au pied de la croix, à côté des pantoufles. Puis il sortit de sa poche un caillou blanc, rond, et le posa sur la terre fraîche. Il resta une minute immobile, les mains jointes, puis repartit. Sophia reconnut le caillou de la grève. Personne ne lui parla. Sur le chemin du retour, Sophia entendit une vieille femme dire à une autre, à voix basse, *cent euros la nuit*, et l'autre répondre, *c'est le prix d'une âme, maintenant*.
+Bastien Kerr arriva à la fin, avec une gerbe de roses blanches trop grande, trop chère. Les conversations s'arrêtèrent sur son passage. Il posa la gerbe au pied de la croix, à côté des pantoufles. Puis il sortit de sa poche un caillou blanc, rond, et le posa sur la terre fraîche. Il resta une minute immobile, les mains jointes, puis repartit. Sophia reconnut le caillou de la grève. À quelques pas, Mathis le suivit des yeux. Elle l'entendit souffler à sa mère, qui n'écoutait pas : « Lui, il en a deux. Et la nuit, trois. » Personne ne lui parla. Sur le chemin du retour, Sophia entendit une vieille femme dire à une autre, à voix basse, *cent euros la nuit*, et l'autre répondre, *c'est le prix d'une âme, maintenant*.
 
 ---
 
@@ -77,7 +77,7 @@ Le lac était si bas, maintenant, qu'on voyait percer la surface, au milieu, une
 
 Derrière eux, au cimetière, les gens allumaient de petites bougies rouges dans des photophores, sur les tombes. On voyait leurs flammes trembler dans le crépuscule, une centaine, peut-être, sur la pente noire. Au-dessous, le lac. Au milieu du lac, le clocher. Et au fond, sur le mur, la petite fenêtre jaune de la cabine. Elle était allumée. Sophia la regarda, puis regarda son père, debout à côté d'elle, et se demanda qui avait allumé la lampe.
 
-Une vieille femme passa près d'eux, appuyée sur une canne, une de celles qui avaient chuchoté sur Kerr. Elle regarda le clocher, elle aussi. Elle fit un signe de croix rapide, à l'ancienne, et murmura sans s'adresser à personne :
+Une vieille femme passa près d'eux, appuyée sur une canne : la mère de Corinne, une de celles qui avaient chuchoté sur Kerr. Elle regarda le clocher, elle aussi. Elle fit un signe de croix rapide, à l'ancienne, et murmura sans s'adresser à personne :
 
 — Ma mère disait qu'en 58, la dernière nuit avant qu'ils lâchent l'eau, il y avait un homme en blanc sur le chantier. Avec une petite lumière verte. Il mesurait le fond. Il a salué ta mère, Anselme. Tu te souviens pas, tu étais trop petit.
 
