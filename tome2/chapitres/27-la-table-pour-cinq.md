@@ -4,7 +4,7 @@
 
 À onze heures du soir, le jeudi 13 novembre, la maison était vide de tout, sauf de la table.
 
-On avait emporté le buffet, la huche, les deux lits, la malle, le missel. Les voisins avaient prêté une charrette. Le chantier avait mis un camion à disposition, qui attendait, moteur éteint, devant la porte, sous le bruit de la pluie. On devait partir à l'aube pour le logement provisoire du Haut, quatre pièces de planches, avec un poêle qui fumait. Rose avait tout rangé. Elle n'avait laissé que la table, une grande table de noyer, noire de soixante ans de mains, qu'on n'avait pas eu la place de charger.
+On avait emporté le buffet, la huche, les deux lits, la malle, le missel. Les voisins avaient prêté une charrette. Le chantier avait mis un camion à disposition, qui attendait, moteur éteint, devant la porte, sous le bruit de la pluie. On devait partir à l'aube pour l'appartement du Haut, trois pièces au-dessus de la boulangerie, avec un poêle qui fumait. Rose avait tout rangé. Elle n'avait laissé que la table, une grande table de noyer, noire de soixante ans de mains, qu'on n'avait pas eu la place de charger.
 
 Elle la mit.
 

@@ -46,6 +46,8 @@ Elle dit à voix basse, pour personne :
 
 Elle monta dans le camion.
 
+Jean, derrière elle, se pencha sur le seuil. Il ramassa la petite lampe qui avait roulé. Elle brillait encore. Il l'éteignit, la glissa dans sa poche, sans un mot, et referma la porte sans la fermer à clé.
+
 ---
 
 Anselme se réveilla dans le camion.

@@ -6,7 +6,7 @@ Le 14 novembre au soir, quand le camion eut déposé les derniers meubles au Hau
 
 Elle remonta la vallée à pied, sous la pluie fine, par le chemin des crêtes, un châle sur la tête. Elle marcha deux heures. Elle arriva au belvédère, au-dessus de l'ancien village, à la tombée de la nuit, et resta debout dans le vent. Il n'y avait plus de hameau. Il y avait un grand miroir gris, très calme, qui avait commencé de monter par le fond. On devinait, par transparence, le toit d'une maison, la pointe d'un clocher. Elle regarda longtemps. Elle ne pleura pas.
 
-Quand elle se retourna, elle trouva sur une pierre une petite lampe de poche, un cylindre gris, qu'elle ne se rappelait pas avoir ramassée. Elle l'alluma. Un cône de lumière blanche tomba sur l'herbe. La pile était neuve.
+Elle redescendit à la nuit. En arrivant à l'appartement au-dessus de la boulangerie, elle trouva sur le paillasson, posée là, allumée, tournée vers le bas, une petite lampe de poche qui n'appartenait à personne. Elle la reconnut sans savoir d'où : un cylindre gris, lisse, tiède. Un cône de lumière blanche tombait sur le seuil. La pile était neuve.
 
 Elle la garda.
 
@@ -14,7 +14,7 @@ Elle la garda quarante et un ans, dans un tiroir de bois, entre les cuillères e
 
 ---
 
-Elle mit la table pour cinq, ce soir-là, dans le logement provisoire du Haut, quatre pièces de planches avec un poêle qui fumait. Jean ne dit rien. Il s'assit à sa place. Anselme, sur sa chaise haute, tapait avec sa cuillère contre le rebord de l'assiette, avec cette gravité d'enfant qui comprend qu'il se passe quelque chose de plus grand que lui.
+Elle mit la table pour cinq, ce soir-là, dans l'appartement du Haut, trois pièces au-dessus de la boulangerie, avec un poêle qui fumait. Jean ne dit rien. Il s'assit à sa place. Anselme, sur sa chaise haute, tapait avec sa cuillère contre le rebord de l'assiette, avec cette gravité d'enfant qui comprend qu'il se passe quelque chose de plus grand que lui.
 
 Elle servit la soupe à trois. Les deux autres assiettes restèrent vides. Elle ne les débarrassa pas. Elle ne les débarrassa jamais.
 
@@ -26,7 +26,7 @@ Elle chantait pour son fils, le soir. Elle chantait deux couplets. Elle ne savai
 
 Il y eut, entre-temps, des jours.
 
-Le premier hiver, au Haut, le poêle fuma. Les baraques de planches ne tenaient pas le froid. On y vécut serrés, pendant trois ans, en attendant que la Compagnie finisse les maisons neuves. Jean travailla à la scierie de Chambéry, puis dans une carrière, puis dans le bâtiment. Il rentrait tard, le dimanche, avec les mains qui saignaient. Il ne se plaignait pas. Il ne s'est jamais plaint. Il tenait ce qu'on lui avait appris : qu'un homme ne se plaint pas, qu'il se tait, qu'il fait.
+Le premier hiver, au Haut, le poêle fuma. L'appartement était mal isolé, humide, trop petit pour leurs meubles ; on y vécut serrés, vingt-deux ans, sans jamais dire que c'était provisoire. Jean travailla à la scierie de Chambéry, puis dans une carrière, puis dans le bâtiment. Il rentrait tard, le dimanche, avec les mains qui saignaient. Il ne se plaignait pas. Il ne s'est jamais plaint. Il tenait ce qu'on lui avait appris : qu'un homme ne se plaint pas, qu'il se tait, qu'il fait.
 
 Rose eut un second enfant en 1961, une fille, qui ne vécut pas. Elle ne le dit à personne, sauf à Jean. Elle ne pleura pas. Elle posa, le soir, sur la table, une sixième assiette, qu'elle débarrassa le lendemain sans y avoir touché. Elle ne le refit plus.
 
