@@ -1,3 +1,5 @@
+> ⚠ V3.46 : tout ce qui concerne la parenté Kerr / Sacha / les deux Iris est **remplacé** par `anneau-v2.md`.
+
 # La trilogie : architecture et secrets
 
 > ⚠️ Document de travail. Il contient les révélations des trois tomes.

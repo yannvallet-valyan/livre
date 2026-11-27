@@ -1,3 +1,5 @@
+> ⚠ V3.46 : **Walther Kerr** (1927-1958) est le père biologique (esprit) de Kerr ; il habite Tobie le jour (2153-) ; Sacha (K.) l'habite la nuit. Iris du présent n'est pas la sœur d'Iris du passé. Voir `roman/bible/anneau-v2.md`.
+
 # Personnages
 
 Format : **Nom** (naissance) — rôle · liens · hôte/voyageur · secret 🔒 · voix/traits.

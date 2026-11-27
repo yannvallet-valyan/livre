@@ -1,3 +1,5 @@
+> ⚠ **V3.46 : l'« anneau » est révisé** (`roman/bible/anneau-v2.md` fait foi). Les deux Iris ne sont **pas** sœurs ; Sacha n'est **pas** le père de Kerr (il se trompe) ; le père de Kerr est **Walther Kerr** (ingénieur de 1958, mort assis à la table de Rose le 15-16 nov. 1958, sa conscience revient dans Tobie « le jour », 2153) ; Iris du présent le choisit librement ; Théo n'a de relation avec Iris du passé qu'à 18 ans (janv. 2047). Les lignes ci-dessous qui parlent de « sœurs », de « neveu » ou de « père l'un de l'autre » sont **périmées**.
+
 # Canon (à jour V3.3)
 
 ## Le monde

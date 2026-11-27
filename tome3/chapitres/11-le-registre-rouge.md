@@ -1,4 +1,4 @@
-# Chapitre 11 — Le registre rouge
+# Chapitre 13 — Le registre rouge
 
 *(premier jet)*
 
@@ -10,7 +10,7 @@ Il était assis au bord d'un lit étroit, sous une lampe à huile, avec le grand
 
 Il y avait, à côté de lui, un enfant qui dormait.
 
-Un petit garçon de trois ans, les poings serrés sous le menton, un front trop grand pour sa figure, des sourcils droits. Il respirait avec un petit sifflement, au bout, comme celui d'un enfant qui rêve qu'il court. Il s'appelait Kerr. Ce n'était pas un prénom. On l'avait déclaré sous ce nom à la naissance, parce que Sacha, qui l'avait choisi, avait dit qu'il en comprendrait la raison, plus tard.
+Un petit garçon de trois ans, les poings serrés sous le menton, un front trop grand pour sa figure, des sourcils droits. Il respirait avec un petit sifflement, au bout, comme celui d'un enfant qui rêve qu'il court. Il s'appelait Kerr. Ce n'était pas un prénom. On l'avait déclaré sous ce nom à la naissance, parce que sa mère l'avait voulu, et qu'elle avait dit qu'il en comprendrait la raison, plus tard.
 
 Ruben ne la comprenait pas. Il l'aimait quand même.
 
@@ -23,6 +23,12 @@ Il ne les avait jamais ouverts. Pas tous. Il en avait lu trois, au début, par p
 Il avait refermé le carnet, très doucement. Il l'avait remis dans le tiroir, avec les autres. Il avait pris un quart d'heure, ce soir-là, à regarder le mur.
 
 Il avait compris plusieurs choses. D'abord qu'on ne l'avait pas trompé : Sacha n'avait jamais mentu. Il avait gardé le silence. Ensuite que l'homme dans le corps de Tobie savait tout ce qui arriverait à ceux qu'il aimait, et le subissait en témoin, sans pouvoir le défaire. Et que ce n'était pas de la cruauté, mais de la fidélité.
+
+Il avait compris enfin une chose qu'il ne disait à personne : l'homme de la nuit se trompait. Il l'avait vu dans un carnet, un soir, au détour d'une page. Un tour où Kerr naissait sans lui. Un tour où Sacha n'était qu'un témoin, un homme debout au bord d'une naissance. Il avait refermé le carnet. Il n'avait rien dit. Il savait que si Sacha l'apprenait, il ne supporterait pas de n'avoir servi à rien.
+
+Il savait aussi qui était le père. Il l'avait compris à la façon dont Iris regardait l'enfant : avec une tendresse qui n'était pas pour l'homme de la nuit. Il avait vu, un matin, un garçon vide se lever, aider une femme à porter un seau, s'excuser auprès d'un banc. Il n'avait pas posé de questions.
+
+Il avait compris que ce n'était pas à lui de réparer. Il était un technicien. Il laissait aux gens ce qu'ils s'étaient choisi.
 
 Il avait compris enfin qu'il y avait, parmi les carnets, ceux qui concernaient Iris, et qu'il ne devait pas les lui donner.
 

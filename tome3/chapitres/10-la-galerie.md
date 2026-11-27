@@ -1,4 +1,4 @@
-# Chapitre 10 — La galerie
+# Chapitre 12 — La galerie
 
 *(premier jet)*
 
