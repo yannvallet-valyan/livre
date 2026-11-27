@@ -1,4 +1,4 @@
-# Chapitre 47 — Le douzième bac
+# Chapitre 45 — Le douzième bac
 
 *(premier jet)*
 
