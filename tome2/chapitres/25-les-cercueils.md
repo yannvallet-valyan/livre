@@ -1,4 +1,4 @@
-# Chapitre 25 — Les cercueils
+# Chapitre 48 — Les cercueils
 
 *(premier jet)*
 

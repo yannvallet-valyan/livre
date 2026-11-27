@@ -1,4 +1,4 @@
-# Chapitre 1 bis — Les gestes de Rose
+# Chapitre 2 — Les gestes de Rose
 
 *(premier jet)*
 
@@ -34,7 +34,7 @@ Elle le comprit plus tard : elle n'y avait pas dormi, elle y avait écouté. Il 
 
 La deuxième nuit, elle fouilla.
 
-Elle n'en avait pas le droit. Elle le savait. Elle le fit quand même, avec la méthodicité d'une archiviste, dans l'ordre où l'on visite une maison inconnue : la cuisine d'abord, puis la chambre, puis la cave. Elle ouvrit le buffet. Elle trouva des assiettes dépareillées, une boîte de sucre, un bocal de haricots, un pot de saindoux, une huche à pain où dormait un demi-pain dur, couvert d'un linge propre. Elle trouva, dans le tiroir du haut, un livre de comptes à couverture de toile cirée : l'écriture de Rose, ronde, appliquée, de celles qu'on apprend à l'école des sœurs. *Beurre : 120 f. Pain : 40 f. Pour Jean, chaussures : 1 800 f (à crédit, M. Bonnet).* Les chiffres s'alignaient en colonnes, sans une rature. Au bas de la dernière page, Rose avait écrit en petits caractères : *On y arrivera.*
+Elle n'en avait pas le droit. Elle le savait. Elle le fit quand même, avec la méthodicité d'une archiviste, dans l'ordre où l'on visite une maison inconnue : la cuisine d'abord, puis la chambre, puis la cave. Elle ouvrit le buffet. Elle trouva des assiettes dépareillées, une boîte de sucre, un bocal de haricots, un pot de saindoux, une huche à pain où dormait un demi-pain dur, couvert d'un linge propre. Elle trouva, dans le tiroir du haut, un livre de comptes à couverture de toile cirée : l'écriture de Rose, ronde, appliquée, de celles qu'on apprend à l'école des sœurs. *Beurre : 120 f. Pain : 40 f. Pour Jean, chaussures : 1 800 f (à crédit, M. Gauthier).* Les chiffres s'alignaient en colonnes, sans une rature. Au bas de la dernière page, Rose avait écrit en petits caractères : *On y arrivera.*
 
 Elle resta longtemps à regarder cette phrase.
 

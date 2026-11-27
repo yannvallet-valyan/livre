@@ -68,7 +68,7 @@ Puis il remit son chapeau, ramassa son cahier noir, et ajouta, plus bas, presque
 
 ---
 
-À six heures du matin, Jean revint avec trois hommes et trouva la porte de la maison ouverte, la table mise pour cinq, la soupe froide dans les assiettes, et Rose assise sur le seuil, son châle sur les épaules, qui regardait le mur.
+Peu avant six heures du matin, Jean revint avec trois hommes et trouva la porte de la maison ouverte, la table mise pour cinq, la soupe froide dans les assiettes, et Rose assise sur le seuil, son châle sur les épaules, qui regardait le mur.
 
 Elle se laissa emmener sans résister.
 

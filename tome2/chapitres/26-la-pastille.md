@@ -1,4 +1,4 @@
-# Chapitre 26 — La pastille
+# Chapitre 49 — La pastille
 
 *(premier jet)*
 
@@ -67,6 +67,42 @@ Elle ferma les yeux. Elle eut, très nettement, la vision d'une petite boîte su
 Il leva les yeux. Il avait, dans le regard, une espèce de supplication très calme, de celle des enfants qui demandent un cadeau qu'on ne devrait pas leur refuser.
 
 — Je n'avais plus peur, dit-il. J'avais peur depuis toujours, et je n'avais plus peur.
+
+---
+
+Elle emmena Sacha chez Étienne, le jour même.
+
+Il l'ausculta longtemps. Il lui fit lever les bras, tourner la tête, fixer la lumière. Il lui demanda des choses simples : la date, le jour de la semaine, le nom du maire. L'enfant répondit avec précision, d'une voix claire. Il se trompa une seule fois, pour le nom d'une rue. Étienne le regarda, le front plissé, sans rien dire.
+
+Il lui demanda de dessiner. Il lui tendit un crayon et une feuille. Sacha prit le crayon entre le pouce et le majeur. Il traça un cercle, un carré. Il hésita, la mine du crayon contre le papier. Il leva la tête, puis le baissa. Il dessina une maison.
+
+Le trait n'était plus tout à fait net. Il tremblait, très légèrement, à la fin des lignes, comme la main d'un vieillard.
+
+Étienne reposa le crayon. Il se leva. Il alla à la fenêtre. Il resta là, de dos, les mains jointes derrière lui.
+
+— Qu'est-ce qu'il a ? demanda Iris.
+
+— Je ne sais pas.
+
+— Étienne.
+
+— Je ne sais pas, répéta-t-il. Je n'ai jamais vu ça. Si, une fois.
+
+— Où ?
+
+Il ne répondit pas. Il pensa, très vite, à une nuit de juillet, il y avait longtemps, à un couloir de maternité, à des mains qui n'étaient pas les siennes. Il pensa à un homme qu'il avait connu et qui, un matin, ne s'était plus souvenu de lui. Il se retourna. Il avait le visage gris.
+
+— C'est une atrophie, dit-il. Une perte de mémoire. Elle avance vite.
+
+— Qu'est-ce qu'on fait ?
+
+— On l'arrête.
+
+— Comment ?
+
+Il ne répondit pas. Il regarda l'enfant, qui dessinait, tranquille, un trait de plus à sa maison. Il dit, à voix très basse, pour lui seul :
+
+— Je ne peux pas.
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapitre 10 bis — Le marché
+# Chapitre 22 — Le marché
 
 *(premier jet)*
 
@@ -83,6 +83,44 @@ Elle dit « plus tard » comme on dit « ici ». Iris la regarda. Elle ne voyait
 Odette tourna enfin la tête. Elle avait, dans la lueur de la lune, une expression qu'Iris ne sut pas lire. Ni triomphe, ni pitié : une fatigue très ancienne, une patience de bête qui a longtemps attendu.
 
 — Parce que je suis la seule qui sache quoi faire, dit-elle. Et parce que vous n'avez personne d'autre.
+
+---
+
+Elle resta longtemps sans répondre. Elles s'assirent côte à côte sur le rebord du bassin. Aucune ne parla. Elles trempèrent leurs mains dans l'eau, l'une à côté de l'autre, pendant dix minutes. Iris regardait ses doigts blanchir, se rider, devenir ceux d'une vieille. Elle osa :
+
+— Comment vous savez ?
+
+— Quoi ?
+
+— Pour mon fils.
+
+— Je vous l'ai dit.
+
+— Vous m'avez dit comment vous saviez qu'il existait. Pas comment vous savez qu'on peut le sauver.
+
+Odette ne répondit pas tout de suite. Elle retira sa main de l'eau, la secoua, l'essuya sur son tablier.
+
+— Parce que je l'ai vu faire, dit-elle.
+
+— Faire quoi ?
+
+— Revenir.
+
+Iris attendit. Elle attendit longtemps. L'autre regardait l'eau.
+
+— Je ne peux pas vous en dire plus. Si je vous le dis, ça n'arrive pas. Si ça n'arrive pas, vous ne l'aurez pas. Je suis désolée. C'est une chose qu'on apprend : on ne peut pas tout dire à ceux qu'on veut sauver.
+
+— Je pourrais ne pas vous croire.
+
+— Vous pourriez.
+
+— Je pourrais continuer.
+
+— Vous pourriez. Je ne vous en empêcherai pas. Je ne suis pas là pour ça. Mais vous le sentez, n'est-ce pas ? Que je dis vrai.
+
+Iris la regarda. Elle voulut chercher dans ce visage un signe, un mensonge, un tic. Elle n'y trouva rien. Elle y trouva, au contraire, une profondeur terrible, de fatigue et de tendresse mêlées, qu'elle n'avait pas vue chez une femme de vingt-huit ans.
+
+Elle comprit qu'elle voulait la croire. Elle comprit qu'il n'y avait rien de plus dangereux.
 
 ---
 

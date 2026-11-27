@@ -1,4 +1,4 @@
-# Chapitre 9 — La craie
+# Chapitre 15 — La craie
 
 *(premier jet)*
 
@@ -29,6 +29,24 @@ Et la petite se rallongeait, calme, sans avoir ouvert les yeux.
 Hélène, la première fois, avait appelé le médecin. Il avait parlé de somnambulisme, de terreurs nocturnes, d'un phénomène sans gravité qu'on voyait chez les enfants sensibles. Il avait prescrit des tisanes. Les tisanes n'avaient rien changé. Hélène s'était alors mise à dormir par terre, sur un matelas, à côté du lit de sa petite-fille, et à écouter.
 
 Elle n'en avait jamais parlé à sa fille.
+
+---
+
+Elle entra à l'école à six ans, à la Croix-Rousse, dans une classe de vingt-sept élèves, sous la férule d'une institutrice que tout le monde appelait Madame Gras, bien qu'elle fût maigre. La première semaine, elle ne dit pas un mot. La deuxième, elle corrigea, d'une voix égale, une faute de la maîtresse au tableau. Madame Gras la regarda un long moment, par-dessus ses lunettes. Elle dit : « Merci, Iris. » Elle effaça. À la récréation, une petite fille aux nattes rousses lui demanda où elle avait appris à lire. Iris répondit : « Je ne sais pas. » C'était la vérité. On ne la crut pas.
+
+On la regardait comme on regarde les enfants qui savent trop. Les garçons ne jouaient pas avec elle. Les filles lui parlaient à demi-mot, d'une voix un peu craintive, comme à une cousine d'un autre milieu. Elle rentrait seule. Elle s'asseyait sur le seuil de l'immeuble, en attendant sa grand-mère, un morceau de craie à la main, et dessinait sur le trottoir. Elle dessinait des maisons. Elle dessinait aussi des cercles, de petits cercles réguliers, qu'elle alignait en rangées de cinquante-neuf.
+
+Un jour, un voisin s'arrêta devant. C'était un vieux monsieur, monsieur Grand, qui avait été comptable. Il les compta avec l'index, à voix basse. Il dit :
+
+— Tu t'es trompée, ma petite. Il en manque un.
+
+— Non, dit Iris.
+
+— Cinquante-neuf. Ça devrait être soixante.
+
+— Non, répéta-t-elle, avec la patience d'une enfant qui explique quelque chose d'évident. Soixante, ça n'existe pas encore.
+
+Il rit. Il lui donna un bonbon. Il ne comprit pas pourquoi Hélène, ce soir-là, quand il lui raconta l'histoire, devint si pâle.
 
 ---
 

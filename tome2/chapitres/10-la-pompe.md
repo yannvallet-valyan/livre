@@ -1,4 +1,4 @@
-# Chapitre 10 — La pompe
+# Chapitre 21 — La pompe
 
 *(premier jet)*
 
@@ -53,6 +53,14 @@ Il hocha la tête. Il enleva ses bottes, enfin. Il s'assit. Elle posa devant lui
 La nuit suivante, elle alla au chef-lieu. Elle n'en avait pas le droit. Les jambes de Rose firent quatorze kilomètres par les raccourcis, sous une lune qui revenait, et elle entra dans l'hôpital par la porte des cuisines, en robe noire, avec un panier de pommes. Une infirmière lui dit : « C'est la visite des familles seulement. » Elle dit : « Je suis sa cousine. »
 
 L'homme dormait, la jambe dans le plâtre, la bouche ouverte. Il avait une trentaine d'années. Une alliance à son doigt, usée. Sur la table de chevet, un dessin d'enfant : un soleil rond, quatre bonshommes en bâtons, une maison avec un toit pointu.
+
+Elle monta l'escalier de l'hôpital sur la pointe des pieds, derrière une religieuse qui portait un plateau. Les couloirs sentaient l'éther, le lait chaud, la soupe aux poireaux. Des lits alignés dans une salle commune, séparés par des rideaux de cretonne, abritaient des hommes aux visages gris, qui toussaient, qui geignaient, qui jouaient aux cartes sur des couvertures. Un vieux pleurait doucement, face au mur. Un enfant, sur un brancard, les yeux grands ouverts, fixait le plafond.
+
+Elle chercha le nom sur les fiches, aux pieds des lits. Elle trouva *Gaétan Moretti, 31 ans, fracture de la jambe, côtes.* Elle s'arrêta.
+
+Elle n'était jamais entrée dans un hôpital de cette époque. Elle avait connu ceux de sa jeunesse, propres, froids, remplis de machines. Celui-ci ressemblait à une grange où l'on aurait recueilli des blessés après une bataille. Il y régnait une espèce de solidarité grossière, de pitié sans phrases. Une infirmière retournait un malade en chantonnant. Un interne, en blouse tachée, cherchait un dossier en jurant. Elle regardait, sans oser bouger, ce monde où l'on souffrait sans s'excuser.
+
+Elle comprit ce qu'elle avait fait. Elle avait cru déplacer une machine. Elle avait déplacé des hommes.
 
 Elle posa les pommes sur le drap. Elle ne savait pas quoi dire. Elle s'entendit murmurer, dans la langue qu'elle avait apprise à Lyon :
 

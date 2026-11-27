@@ -1,4 +1,4 @@
-# Chapitre 31 — La vanne
+# Chapitre 58 — La vanne
 
 *(premier jet)*
 
@@ -45,6 +45,36 @@ Elle dit à voix basse, pour personne :
 — Je reviendrai.
 
 Elle monta dans le camion.
+
+Jean, derrière elle, se pencha sur le seuil. Il ramassa la petite lampe qui avait roulé. Elle brillait encore. Il l'éteignit, la glissa dans sa poche, sans un mot, et referma la porte sans la fermer à clé.
+
+---
+
+Anselme se réveilla dans le camion.
+
+Il se redressa sur les genoux de sa mère, les cheveux collés d'un côté. Il regarda autour de lui avec cette surprise dure des enfants arrachés au sommeil. Il vit les bâches, les meubles empilés, les visages des voisins, l'obscurité qui reculait. Il dit, d'une voix enrouée :
+
+— On va où ?
+
+— Au Haut, dit Jean.
+
+— Et maman ?
+
+— Je suis là, dit Rose.
+
+Il leva les yeux vers elle. Il la regarda longtemps, sérieusement, comme on regarde un visage dont on cherche la différence. Il tendit la main, la posa sur sa joue. Il dit :
+
+— Tu pleures pas.
+
+— Non.
+
+— Elle pleure, dit-il, et il montra de la main, avec une logique d'enfant, un point derrière elle, un peu plus bas que le cœur.
+
+Rose se figea. Elle ne répondit pas. Elle serra l'enfant contre elle, plus fort, pour qu'il ne voie pas ses yeux. Elle sentit contre sa poitrine un souffle tiède, régulier, et au fond de sa poitrine à elle un autre souffle, plus ténu, plus lent, qui s'éteignait.
+
+Elle pensa : *il l'a entendue.* Elle pensa : *il l'a toujours entendue.*
+
+Elle le berça. Elle chanta, très bas, sans pouvoir s'arrêter, les deux couplets qu'elle ne s'était jamais appris. Quand elle arriva au bout du deuxième, elle sentit quelque chose se détendre en elle, comme une main qui se relâche. Elle se tut. Elle n'essaya pas de chanter le troisième.
 
 ---
 

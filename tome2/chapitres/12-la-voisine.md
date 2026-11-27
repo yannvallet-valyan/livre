@@ -1,4 +1,4 @@
-# Chapitre 12 — La voisine
+# Chapitre 24 — La voisine
 
 *(premier jet)*
 
@@ -41,6 +41,18 @@ Elle sentit ses mains se refermer, dans la pâte. Elle sentit quelque chose, tou
 *Elle me met à l'abri*, pensa la chose. *Ou elle m'enferme.*
 
 Ce n'était pas une pensée de Rose. C'était une phrase à l'envers, étrangère, que Rose ne comprit pas, et qu'elle oublia aussitôt, comme on oublie un mot dans une langue qu'on n'a pas apprise.
+
+---
+
+Elle aurait voulu pouvoir mentir.
+
+Elle ne l'avait jamais su. Elle avait grandi avec la certitude que les mensonges, comme les péchés, laissent des traces sur le visage, qu'on les lit dans les yeux, dans les doigts, dans une certaine façon de tenir ses mains. Elle regarda les siennes. Elles étaient blanches de farine. Elles ne tremblaient pas. Elle pensa : *je suis innocente.* Elle pensa : *non.* Elle avait déjà compris, sans le dire, que quelque chose en elle avait agi sans son aveu, qu'une part d'elle-même, qu'elle ne connaissait pas, avait dévissé des boulons, arpenté la vallée, regardé des hommes dormir.
+
+Elle se souvint des nuits. Elle se rappela des matins où elle s'éveillait avec des genoux écorchés, des chevilles boueuses, des muscles douloureux, des heures d'absence qu'elle n'avait pas voulu compter. Elle ne les avait pas niés. Elle les avait rangés, comme on range dans un tiroir ce qu'on ne sait pas encore nommer.
+
+*C'est toi,* pensa-t-elle, à l'adresse de personne.
+
+Il n'y eut pas de réponse. Mais elle sentit, dans sa poitrine, une chaleur de honte qui n'était pas la sienne.
 
 ---
 

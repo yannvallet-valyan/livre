@@ -1,4 +1,4 @@
-# Chapitre 3 ter — La réunion
+# Chapitre 6 — La réunion
 
 *(premier jet)*
 

@@ -1,4 +1,4 @@
-# Chapitre 13 — Le poêle
+# Chapitre 25 — Le poêle
 
 *(premier jet)*
 
@@ -15,6 +15,16 @@ Il tourna le feuillet.
 *Déposition de Mme GIRARD, Odette, boulangère. Déclare avoir vu, à plusieurs reprises, depuis juillet, la voisine, ROCH, Rose, 26 ans, épouse du précédent, sortir de son domicile entre trois et cinq heures du matin, pieds nus, les yeux ouverts, sans répondre quand on l'interpelle. Pense à un état de somnambulisme. Craint pour sa sécurité.*
 
 Il resta longtemps immobile.
+
+---
+
+Il avait commencé la journée comme les autres, à cinq heures et demie, par un café noir et une toilette à l'eau froide.
+
+Il avait revêtu son pardessus, vérifié ses crayons, glissé dans sa poche le petit carnet où il notait les mesures. Il était sorti. Il avait fait la tournée des piézomètres, comme chaque matin : treize points de mesure, répartis le long du mur, qu'il relevait à la main, dans le froid, en soufflant dans ses doigts. Il avait salué Bastide, le contremaître roux, qui criait contre un tombereau. Il avait rendu son salut à Orsini, très pâle, qu'on avait presque renvoyé pour la pompe. Il avait croisé le petit Marcel, qui ramassait des clous, et lui avait donné une pièce. L'enfant l'avait regardé avec des yeux ronds, sans dire merci.
+
+Il aimait ces matins. Il aimait l'odeur du ciment humide, le bruit du camion qui démarre, la lumière grise qui se lève derrière la crête. Il avait ce sentiment très simple d'être utile. Il l'aimait plus que tout, et il savait que cela ne suffisait pas.
+
+C'est à dix heures qu'on lui avait remis le dossier.
 
 ---
 

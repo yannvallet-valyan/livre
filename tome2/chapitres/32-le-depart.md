@@ -1,4 +1,4 @@
-# Chapitre 32 — Le départ
+# Chapitre 59 — Le départ
 
 *(premier jet)*
 
@@ -11,6 +11,26 @@ Elle l'apprit par cœur en trois nuits.
 Elle recopia la phrase, à l'encre, trois fois, pour la tenir : *À soixante, le corps comprend que tu restes.* Elle ne savait plus de qui était l'écriture. Elle dessina, au dos d'une enveloppe, un schéma : un éclat, un front, une chaîne de noms. *Iris → Sophia → Anselme → Rose.* Elle compta les générations sur ses doigts. Sa mère était déjà habitée, en 2026, elle le sentait, par quelqu'un qui n'était pas elle. On ne rentre pas dans un corps où l'on est déjà attendue. Il restait Anselme, trop proche du cristal, trop saturé. Il restait Rose.
 
 Elle regarda longtemps le mot. Elle y vit un prénom de fleur, un visage rond, des mains rouges. Elle ne savait rien de cette femme. Elle ne savait pas si elle avait été heureuse. Elle sut seulement que c'était la dernière porte qui ne fût pas fermée, et qu'on ne la rouvrirait pas.
+
+---
+
+Elle parcourut l'appartement.
+
+Elle ouvrit les placards, les tiroirs, les boîtes. Elle retrouva des choses de sa mère : un chapeau de feutre, des gants usés, un agenda de 2026 dont les pages s'arrêtaient au 19 octobre. Elle retrouva une boîte à chaussures, pleine de lettres, qu'Hélène avait gardées dans une couche de papier de soie. Elle lut la première. Elle la remit. Elle trouva, dans le fond d'une armoire, un petit bonnet de laine tricoté à la main, jaune, aux points un peu lâches, de la taille d'une poire. Elle le tint contre elle un long moment.
+
+Elle trouva, sur l'étagère, la collection de fioles. Quarante-trois, alignées par date, étiquetées d'une main nette, bleue. Elle les regarda une à une. Elle prit la dernière. *Chartreuse, 12/11/2038.* L'eau y était claire. Elle la déboucha. Elle y trempa le doigt, le porta à ses lèvres. Elle y reconnut un goût d'enfance, de métal, de pierre froide.
+
+Elle sut qu'elle ne la reverrait plus.
+
+Elle alla s'asseoir dans la cuisine, devant la lampe. Elle posa devant elle la lettre jaunie qu'elle avait gardée, celle qui l'avait menée à Vallorce. *Pardon de ne pas t'avoir attendu.* Elle la relut. Elle sentit, pour la première fois, la voix de sa mère à travers la page : sèche, retenue, embarrassée, toute en pudeur.
+
+Elle dit à voix haute, à la pièce vide :
+
+— Je ne te l'ai pas apportée. Je suis désolée. Je n'ai pas osé.
+
+Elle ne sut pas à qui elle parlait. À sa mère, à un homme qu'elle ne connaîtrait jamais, à l'enfant qu'elle n'avait pas su garder.
+
+Elle prit le papier, le plia, le glissa dans sa poche. Elle l'emporterait. Elle savait déjà qu'on n'emporte rien. Mais elle voulait l'avoir sur elle, comme les anciens glissaient une pièce dans la main d'un mort pour payer le passeur.
 
 ---
 
@@ -31,6 +51,24 @@ Il avait pris le train de nuit, un vieil homme tout seul dans un wagon vide, ave
 Elle ne put pas refuser.
 
 Il resta dans la cuisine, pendant qu'elle préparait la chambre. Il lui apporta du thé. Il parlait peu. Une fois, il lui demanda si elle avait mangé. Elle ne répondit pas. Il fit cuire des œufs. Ils les mangèrent côte à côte, sans rien dire, avec le bruit de la pluie sur le zinc.
+
+Elle ne mangea presque rien. Elle regardait Étienne couper son pain en petits morceaux, avec cette précision de ceux qui ne veulent pas déranger. Elle sentit monter en elle une tendresse sans objet, qui n'avait rien à voir avec la peur. Elle dit :
+
+— Tu as été bon pour moi.
+
+— J'ai été un vieux monsieur qui prête une chambre.
+
+— Non.
+
+— Si.
+
+— Tu m'as appris à être quelqu'un.
+
+Il leva les yeux. Il avait, derrière ses lunettes, un regard très doux, très humide.
+
+— Tu l'étais déjà, dit-il.
+
+Il reprit son pain. Il y eut, dans la cuisine, un long silence, très paisible, où l'on n'entendit que la pluie. Elle pensa : *c'est ça, un père.* Elle ne savait pas d'où lui venait la pensée. Elle ne la lui dit pas. Elle la garda, comme on garde, dans une main fermée, une petite pierre chaude.
 
 À onze heures, elle alla se coucher.
 

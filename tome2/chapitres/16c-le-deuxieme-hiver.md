@@ -1,4 +1,4 @@
-# Chapitre 16 ter — Le deuxième hiver
+# Chapitre 32 — Le deuxième hiver
 
 *(premier jet)*
 

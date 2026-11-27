@@ -1,4 +1,4 @@
-# Chapitre 11 — L'enregistrement
+# Chapitre 23 — L'enregistrement
 
 *(premier jet)*
 
@@ -67,6 +67,18 @@ Il rit. C'était un rire un peu trop rond.
 Il avait raison, et il se trompait. Lise, qui n'avait que treize ans, comprit seulement la première moitié de la phrase. Elle envoya le fichier. Elle en reçut, le lendemain, un billet de vingt euros et un mot de son père sur le frigo : *Merci pour la bonne idée.*
 
 Elle n'en parla jamais à Iris. Elle continua à la protéger dans la cour, à la corriger, à rire pour deux. Elle fut sa meilleure amie pendant vingt-quatre ans.
+
+---
+
+Lise ne dormit pas cette nuit-là.
+
+Elle resta dans son lit, les yeux ouverts, à regarder le plafond. Elle avait la gorge sèche. Elle se répétait que ce n'était rien : un enregistrement, une blague, un jeu d'enfant. Elle se disait que son père avait raison, que cela pourrait aider. Elle se disait que son amie avait besoin de soins, qu'on ne lui voulait que du bien. Elle le crut presque. Elle se leva à trois heures, descendit à la cuisine, but un verre d'eau.
+
+Dans la pénombre, elle vit la lumière du bureau de son père, sous la porte. Elle s'approcha. Elle l'entendit parler, à voix basse, au téléphone. Il disait : « Oui. Je l'ai. Elle est mineure. Mais la mère ne sait pas. » Il disait : « Non, je ne peux pas vous donner d'adresse. Je vous enverrai le fichier. » Il disait : « Trois mille ? Cinq mille. Pour le protocole. » Elle comprit, d'un coup, sans comprendre, qu'il vendait quelque chose.
+
+Elle remonta. Elle se mit au lit, tremblante. Elle se fit le serment de ne plus jamais rien enregistrer, de ne plus jamais rien dire, de ne plus jamais être celle par qui.
+
+Elle ne tint pas son serment. Ce fut pire : elle le tint pour le reste, mais pas pour l'essentiel.
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapitre 30 — La cache
+# Chapitre 56 — La cache
 
 *(premier jet)*
 
@@ -48,11 +48,39 @@ Elle resta debout, le cahier ouvert dans les mains, les yeux fixés sur une lign
 
 Elle la regarda longtemps. Elle comprit qu'elle ne la comprenait pas. Elle sut seulement que c'était une prière, ou une consigne, ou un ordre, et que l'homme qui l'avait écrite ne s'était jamais senti libre d'écrire autre chose.
 
+Elle en lut un autre, le soir même.
+
+Elle s'assit sur le lit de camp, à la lueur de la lampe à pétrole. Elle ouvrit le troisième cahier. Elle y trouva des listes de noms, de dates, de lieux, d'une écriture très serrée. *Élise V., 2137. Noé M., 2137. Iris, 2027. Anselme R., 1980.* Il y avait des flèches, des croix, des cercles. Il y avait, en marge, des phrases brèves : *À prévenir. À ne pas prévenir. Trop tôt. Trop tard.*
+
+Elle lut une page qui disait : *Elle va dire non. Je le sais. Je ne dois pas le lui reprocher.* Elle ne comprit pas de quoi il parlait. Elle crut que c'était d'elle. Elle lut plus loin : *Il va prendre la pastille. Je ne peux pas l'en empêcher.* Elle s'arrêta de respirer. Elle relut. Elle sentit quelque chose se casser, en elle, de très ancien.
+
+*Je ne peux pas l'en empêcher.*
+
+Elle le relut trois fois. Elle ferma le cahier. Elle resta longtemps assise, les mains posées sur la couverture noire, à regarder la flamme.
+
+Elle comprit qu'il n'y avait pas de coupable. Elle comprit que c'était pire.
+
+---
+
 Elle prit les cahiers, un à un, les mit dans un sac. Elle ne les lut pas tous. Elle ne le put pas. Elle avait peur de ce qu'elle y trouverait : de savoir quand, de savoir comment, de savoir par qui. Elle ne voulait pas savoir si Théo l'avait aimée dans le temps où elle ne le savait pas. Elle ne voulait pas savoir s'il avait pleuré.
 
 Elle ne gardait que la méthode. Dans le deuxième cahier, une page, une seule, encadrée de deux traits : *Pour partir : un éclat, le sang, un compte. Pour rester : un éclat, le sang, un compte, et quelqu'un qui consent.* Au bas de la page, d'une autre encre, plus ancienne, une main plus large avait écrit : *Le sang mène au passé.*
 
 Elle comprit que son fils n'était pas parti pour rien. Il était parti *devant.* Il avait pris une porte. Elle voulait la suivre.
+
+---
+
+Elle ne pleura pas à l'enterrement. Elle ne pleura pas non plus après.
+
+Elle tint. Elle tint comme on tient une porte contre le vent, par une sorte de raideur qui n'a plus rien à voir avec le courage. Elle remercia les gens qui venaient lui serrer la main : le maire, qui avait des larmes, le pharmacien, qui portait un chapeau trop grand, deux institutrices, la mère de Lise, les gens du village, qui défilaient dans la cuisine en baissant la voix. Elle servit du café. Elle découpa du gâteau. Elle dit : « Merci d'être venu. » Elle le dit quatre-vingts fois.
+
+Mathis resta le dernier. Il lava les tasses, sans rien dire. Il s'essuya les mains. Il lui dit, sur le seuil : « Si tu as besoin de quelque chose, je suis à la mairie. » Elle ne répondit pas. Il ajouta : « Je suis désolé pour Théo. » Elle comprit, à ce moment, qu'elle n'y avait pas encore pensé.
+
+La maison était vide. Il n'y avait plus ni cris d'enfant, ni bruit de pas, ni chaise qui grince. Elle fit le tour des pièces, avec la lenteur d'une inspection. Elle ouvrit la chambre de Sacha. Le lit était fait. Les draps sentaient la lavande. Sur la table de nuit, il y avait un verre d'eau à moitié plein, qu'elle n'avait pas vidé. Elle le but. Elle le but d'un trait, pour ne pas le jeter.
+
+Elle s'assit sur le lit. Elle toucha l'oreiller. Elle y trouva, sous la taie, un petit dessin plié en quatre. Une maison basse, au toit de lauzes, entourée d'eau. Au verso, d'une écriture fine : *Pour que tu saches où.* Elle ne l'avait pas vu.
+
+Elle le garda contre elle toute la nuit.
 
 ---
 

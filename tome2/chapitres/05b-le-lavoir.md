@@ -1,4 +1,4 @@
-# Chapitre 5 bis — Le lavoir
+# Chapitre 10 — Le lavoir
 
 *(premier jet)*
 
@@ -39,6 +39,16 @@ Elles se regardèrent. Aucune des deux n'eut un geste. C'étaient deux inconnues
 — Rien. Asseyez-vous.
 
 Iris s'assit. Elle trempa les pieds. L'eau était glacée. Ses orteils, ceux de Rose, qui avaient tant marché dans la boue, lui parurent à peine à elle.
+
+---
+
+Elle avait failli ne pas venir.
+
+Elle s'était arrêtée trois fois, sur le sentier, devant des ombres qui n'étaient que des buissons. Elle avait reculé à l'entrée du lavoir, quand une chouette avait traversé le toit. Elle se disait : *c'est un piège.* Elle se disait : *elle est comme moi.* Elle se disait que ces deux phrases pouvaient être vraies ensemble, et que c'était, au fond, la définition même de leur condition.
+
+Elle avait appris, dans les carnets de Théo, à se méfier de ceux qui disent la vérité trop tôt. Elle avait appris, par expérience, à se méfier de ceux qui mentent. Elle ne savait pas comment on se fiait à quelqu'un dont on ne connaissait ni l'âge, ni l'époque, ni les intentions. Elle pensa à Rose, qui se fiait à tout le monde, avec la naïveté têtue des gens qui n'ont pas le choix.
+
+Elle entra. Elle s'assit. Elle trempa ses pieds. Elle comprit qu'elle venait de faire, sans le décider, ce que Rose aurait fait.
 
 ---
 

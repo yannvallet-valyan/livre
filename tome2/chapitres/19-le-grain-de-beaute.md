@@ -1,4 +1,4 @@
-# Chapitre 19 — Le grain de beauté
+# Chapitre 35 — Le grain de beauté
 
 *(premier jet)*
 
@@ -38,7 +38,65 @@ Il rentrait parfois dans la nuit d'un endroit qu'il ne nommait pas. Elle sentait
 
 ---
 
+Elle fut enceinte tout l'été 2049 sans le dire à personne.
+
+Elle le comprit à la fin de juin, un matin de chaleur, en se penchant sur un patient. Elle eut un vertige. Elle s'appuya à la table. Étienne la regarda, par-dessus ses lunettes. Il ne dit rien. Il lui apporta un verre d'eau. Il lui dit, avec cette douceur de vieux médecin qui sait lire les visages : « Assieds-toi. »
+
+Elle dit : « Je suis fatiguée. » Il répondit : « Oui. » Il alla chercher dans l'armoire un test, qu'il posa devant elle, sans un mot. Elle le regarda. Elle le prit. Elle comprit, en un quart d'heure, ce qu'elle savait déjà. Elle ne pleura pas. Elle resta longtemps assise sur le bord de la table d'examen, les mains sur le ventre, avec une expression d'étonnement très grande, un peu enfantine.
+
+— Tu veux le garder ? demanda Étienne.
+
+— Oui.
+
+— Tu es sûre ?
+
+— Je ne sais pas.
+
+— Alors tu le gardes, dit-il. Quand on ne sait pas, on garde.
+
+Elle le dit à Théo le soir, sur le chemin de halage. Il ne bougea pas. Il ne la prit pas dans ses bras. Il resta les mains dans les poches, le regard sur l'eau, avec un visage de pierre. Elle crut qu'il ne l'avait pas entendue. Elle répéta. Il dit, après un long silence :
+
+— Je sais.
+
+— Tu le savais ?
+
+— Oui.
+
+— Depuis quand ?
+
+— Depuis toujours, dit-il.
+
+Elle rit, nerveusement. Elle pensa qu'il plaisantait. Il ne plaisantait pas. Il se tourna enfin vers elle. Il avait les yeux humides, la bouche tremblante, l'air d'un enfant qu'on vient de réveiller en pleine nuit. Il la prit contre lui, enfin, avec une force qui lui coupa le souffle. Il lui murmura dans les cheveux, très bas, quelque chose qu'elle ne comprit pas.
+
+*Pardon.*
+
+Elle ne releva pas. Elle crut à de l'émotion.
+
+Il prit soin d'elle pendant les huit mois. Il lui apportait du thé, des fruits, des couvertures. Il lui massait les pieds, le soir, avec de l'huile d'amande, sans rien dire. Il lui lisait des poèmes. Il ne la quittait pas d'une semelle. Il avait une façon de la regarder, quand elle dormait, qui ressemblait à une prière. Elle se réveillait parfois, au milieu de la nuit, sentant sur elle une attention si grande qu'elle en avait presque peur.
+
+Il comptait, dans l'ombre. Elle l'entendait.
+
+---
+
 Sacha naquit le 3 février 2050, à trois heures du matin, dans la chambre du haut, par grand froid.
+
+Les douleurs avaient commencé à la tombée du jour, un dimanche, dans la cuisine, pendant qu'elle épluchait des pommes de terre. Elle avait posé le couteau. Elle s'était tenue à l'évier, les phalanges blanches, en respirant par le nez. Théo, qui lisait, avait levé la tête. Il n'avait rien dit. Il s'était levé, avait pris sa main, l'avait conduite jusqu'à la chambre du haut. Il avait allumé le poêle. Il avait préparé le lit, avec des draps propres, une alèse, des serviettes qu'il avait fait bouillir. Il avait travaillé en silence, avec une efficacité d'infirmier.
+
+— Tu sais faire, dit-elle.
+
+— J'ai lu.
+
+— Tu as lu quoi ?
+
+— Tout ce qu'il y avait.
+
+Il avait un sourire fragile. Elle le regarda. Elle comprit qu'il avait peur. Pas de l'accouchement : de quelque chose d'autre, qu'il portait depuis longtemps, comme un homme qui va retirer un sparadrap. Elle posa sa main sur sa joue. Elle dit : « Ça va bien se passer. » Il répondit : « Oui. » Il ferma les yeux contre sa paume. Il ajouta : « Je sais. »
+
+Étienne était arrivé à minuit, en robe de chambre, avec sa mallette et une bouteille thermos. Il avait ausculté Iris, puis soupiré. Il s'était assis au pied du lit. Il avait dit : « On va attendre. » Il avait attendu. Il avait parlé de tout et de rien : de la neige qui tombait, du maire qui avait gagné une vache, de l'époque où l'on accouchait à la maison et où l'on ne s'en portait pas plus mal. Elle avait ri, entre deux contractions. Il lui avait tenu la main.
+
+Vers deux heures, le travail s'était accéléré.
+
+---
 
 Iris avait les eaux perdues depuis la veille. Elle n'avait pas voulu de l'hôpital. Elle avait peur des hôpitaux, des ascenseurs, des couloirs sans fenêtres : elle ne savait pas pourquoi. Étienne l'accoucha. Il était calme. Il dit : « Respire. » Il dit : « Compte, si ça t'aide. »
 

@@ -1,4 +1,4 @@
-# Chapitre 4 bis — Le quatorze juillet
+# Chapitre 8 — Le quatorze juillet
 
 *(premier jet)*
 

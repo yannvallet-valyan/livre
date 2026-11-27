@@ -1,4 +1,4 @@
-# Chapitre 16 — Le garçon qui ne dort pas
+# Chapitre 30 — Le garçon qui ne dort pas
 
 *(premier jet)*
 
@@ -13,6 +13,16 @@ Iris y arriva avec une valise et une lettre. Elle ne trouva pas le médecin de l
 — Varenne.
 
 Il hocha la tête. Il y avait dans son regard quelque chose qu'elle ne sut pas nommer : une tendresse de vieillard, de celles qu'on réserve aux enfants qu'on n'a pas eus. Il dit : « Elle écrivait bien, votre mère. » Il dit : « Vous resterez ici. J'ai besoin d'une infirmière. » Il ne lui demanda rien d'autre. Elle le crut. Elle eut tort de le croire aussi vite, ou raison.
+
+---
+
+Les premières semaines, elle ne parla à personne.
+
+Elle occupait une chambre mansardée, au-dessus du cabinet, avec un lit de fer, une commode, une fenêtre qui donnait sur le clocher. Il y avait, accroché au mur, un portrait de femme au crayon, qui ressemblait à quelqu'un qu'elle ne parvenait pas à situer. Étienne lui avait dit : « C'était la chambre de Claire. » Elle n'avait pas osé demander qui était Claire. Elle l'avait appris au village, par une voisine : l'épouse du docteur, morte d'un anévrisme, un mardi matin, en remplissant le lave-vaisselle.
+
+Elle se levait à six heures. Elle descendait à la cuisine. Étienne était déjà là, en robe de chambre, devant une cafetière italienne qu'il astiquait comme un trophée. Il lui servait du chocolat chaud, qu'il faisait lui-même, avec du vrai chocolat noir râpé dans du lait entier. Ils mangeaient sans parler. Il lisait le journal, en le tenant très loin des yeux, avec des grognements qui voulaient dire *tiens* ou *encore*. Elle regardait par la fenêtre le lac gelé, la brume, le chemin de halage. Elle se disait qu'elle avait trouvé un endroit où l'on pouvait ne pas dire.
+
+Le soir, elle marchait. Elle faisait le tour de la place, puis celui du lac. Elle passait devant la maison blanche des Kerr, devant l'église, devant le café où les hommes jouaient aux cartes. Elle se sentait invisible, comme on l'est quand on ne demande rien. Elle s'arrêtait parfois au bord de l'eau et se tenait là, longtemps, à écouter. Elle cherchait le chant. Il n'y avait pas de chant. Il y avait seulement, sous la glace, un très faible bourdonnement, qu'elle croyait avoir inventé.
 
 ---
 
