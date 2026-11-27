@@ -62,6 +62,38 @@ Elle se laissa tomber sur le lit. Elle avait les genoux qui tremblaient. Elle ne
 
 ---
 
+Elle ne savait pas par où commencer. Il y avait trop de choses, un trop-plein de reproches qui lui serraient la gorge comme un mors. Elle se tint un moment debout au milieu de la chambre, les mains sur les hanches, à regarder le plancher. Elle entendait, à travers la cloison, le souffle de Jean, qui dormait. Elle entendait l'enfant qui se retournait dans son lit. Elle entendait, au loin, le chantier, qui ne s'arrêtait jamais.
+
+Elle dit enfin, à voix basse :
+
+— Vous avez touché à mes affaires.
+
+*Oui.*
+
+— Au coffret.
+
+*Oui.*
+
+— Vous avez vu la mèche.
+
+*Oui. Je l'ai remise.*
+
+— Vous n'aviez pas le droit.
+
+*Non.*
+
+Elle serra les poings. Elle sentit, dans sa gorge, un sanglot qui montait, qu'elle ravala. Elle n'avait jamais parlé de l'enfant à personne, sauf à Jean, une fois, la nuit, dans le noir. Et voilà que cette inconnue, cette intruse, en savait la couleur des cheveux.
+
+— Il s'appelait Paul, dit-elle. C'est tout ce que je vous dirai.
+
+*Merci.*
+
+— Je ne vous le donne pas.
+
+*Je sais.*
+
+Elle respira. Elle eut le sentiment étrange que l'autre n'avait pas bougé, qu'elle se tenait là, au fond d'elle, sans rien prendre, sans rien demander, comme on se tient dans un coin de pièce quand on a été grondé. Elle sut que cette retenue, elle aussi, était un cadeau.
+
 — Pourquoi ? dit-elle.
 
 *Parce que je ne voulais pas que le lac vienne.*

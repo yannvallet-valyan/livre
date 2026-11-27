@@ -20,6 +20,18 @@ Elle ne délirait pas. Elle disait cela comme une comptable constate un trou dan
 
 ---
 
+Elle avait appris la maladie en octobre 2042, dans le bureau d'un cancérologue qui avait un nœud papillon et un tic à l'œil. Il avait parlé de protocoles, de stades, de survie à cinq ans. Sophia avait écouté, les mains croisées, avec cette attention qu'elle mettait aux relevés de lacs. Elle avait demandé : « Combien ? » Il avait donné un chiffre. Elle l'avait noté dans la marge de son agenda, sans commentaire.
+
+Elle n'en avait rien dit à sa fille. Elle avait continué de travailler, de rentrer tard, de faire les courses le samedi. Elle avait seulement cessé de manger certains aliments, de monter l'escalier à pied, de s'asseoir au bord du lit. Iris, qui avait quinze ans et vivait dans son propre brouillard, ne s'était aperçue de rien. Elle s'en était voulu pour le reste de sa vie.
+
+Il y avait eu trois années de traitements, d'hôpitaux, de cheveux qui tombaient. Sophia avait refusé la perruque. Elle avait gardé son crâne nu, ses grands yeux creusés, son nez de rapace. Elle ressemblait à une statue de femme de marin. Elle disait : « Ça me va bien », avec un petit sourire, et personne n'osait la contredire.
+
+Elle avait passé les derniers mois dans la chambre du fond, sur le lit où elle dormait enfant, un lit de fer peint en blanc, aux montants ornés de petites pommes de pin. Elle regardait le plafond. Elle disait peu. Elle se faisait lire les relevés de lacs, les bulletins de crue, les rapports de l'agence, et corrigeait, d'une voix sèche, les erreurs de chiffre. Il lui arrivait de dire, au milieu d'une phrase : « Là. Quelqu'un a menti. » On vérifiait. Elle avait presque toujours raison.
+
+Elle avait gardé une fiole sur sa table de nuit. Une seule, dans toute la collection : la numéro quarante-deux, celle d'un petit lac de Chartreuse, qu'elle avait prélevée le jour de ses cinquante ans. L'eau y était limpide. Elle l'avait fait tenir, bouchon vissé, dans le creux de sa main, pendant des heures, sans rien dire, avec l'air de quelqu'un qui écoute un coquillage.
+
+---
+
 La dernière nuit, Sophia parla.
 
 Ce fut vers trois heures. Iris dormait à moitié dans le fauteuil, la couverture de laine sur les genoux. Elle entendit une voix, qui ne venait pas de la bouche qu'elle connaissait : plus basse, plus lasse, étonnamment claire.
