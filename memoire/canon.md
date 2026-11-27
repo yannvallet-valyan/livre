@@ -46,4 +46,6 @@
 - **« Que la boucle tourne »** : dernière ligne du manuel, recopiée par Noé (`26`).
 - **La rencontre des deux Iris** ✅ : 1958, au lavoir (Odette/Rose : « Comment elle était », « Le marché ») puis 14 nov. 2026, 9 h 40, dans le cristal (« Sacha », « Garde-le », la troisième strophe). Iris du présent sait qui elle rencontre, pas l'autre. Détail : `predestination.md` §3 quater.
 - **La rencontre des deux Élise** ✅ : nuit du 10 au 11 nov. (tour 47), cabine, vers 4 h 15. Élise B prend A pour sa mère (« Oui »), l'avertit du grain ; A lui donne « cassant comme du sucre ». Détail : `../tome3/plan-detaille.md`.
+- **Troisième couplet (🔒 tome 3, brouillon retenu)** : *Dors, mon enfant, dors sans bruit, / je compte pour toi jusqu'à minuit ; / au soixantième, si tu m'entends, / je serai là, comme avant.* Il n'existe que quand les deux Iris le chantent ensemble.
+- **Jean** (1958) : il s'accuse du sabotage, passe trois semaines en cellule, est libéré faute de pièces (Walther brûle le rapport). Jamais condamné.
 

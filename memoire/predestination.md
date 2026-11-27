@@ -81,6 +81,13 @@ Chaque ligne = un fait déjà écrit, et le chapitre du tome 2 ou 3 qui doit en 
 ## 3 ter. ✅ La rencontre des deux Élise (intégrée en V3.9)
 Voir `../tome3/plan-detaille.md` (chapitre inséré O · nuit du 10 au 11 nov.) et `histoires-annexes.md`. Maillon **26** (ajouté) : Élise B, au fond d'Anselme, avertit Élise A : « Il en reste toujours un grain. Quelqu'un le garde toujours. »** → `42` : « Pas un grain, Sophia. Promets-le-moi. » ; et Élise A lui dit « cassant comme du sucre » → B l'écrira dans la page (`02`). La phrase n'a pas d'auteur.
 
+## 3 quinquies. ✅ Les trois dettes du tome 1 : soldées (décision de l'auteur, V3.12)
+| Dette | Où elle est soldée |
+|---|---|
+| « Comme ça, je me reconnais » (`32`) | T2 ch. 5b : le lendemain du lavoir, Rose se coupe les cheveux ; c'est la réponse d'Iris du présent (« ras, de travers ») |
+| Le troisième couplet (`25`, `03`, `43`) | T3 ch. 26b : les deux Iris le chantent à 9 h 40 ; texte en brouillon dans `../tome3/plan-detaille.md` |
+| Sophia garde l'aiguille (`43`) | T3 ch. 26b (« Garde-le ») + T3 ch. 19 (Kerr l'a placée) : trois volontés, aucune libre |
+
 ## 3 quater. ✅ La rencontre des deux Iris (intégrée en V3.11)
 **Deux scènes, quatre sujets.** Iris du présent sait qui elle rencontre ; Iris du passé ne le sait pas. Asymétrie voulue.
 - **1958, au lavoir (tome 2 ch. 5b, 10b ; tome 3 ch. 16b).** Iris du présent est dans **Odette** (premier voyage, 2160).

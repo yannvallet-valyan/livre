@@ -15,3 +15,4 @@
 | V3.10 | 2026-11-27 | Rencontre des deux Iris (B + A) intégrée : voyage d'Iris du présent dans Odette (1958), 9 h 40 dans le cristal ; `41` (premier voyage) et `25` (la mère de Corinne) retouchés |
 | V3.11 | 2026-11-27 | Les deux Iris : sujets de discussion intégrés (lavoir 1958 : leur mère et le marché ; 9 h 40 : Sacha, « Garde-le », le troisième couplet) ; chapitres 5b, 10b (tome 2), 16b, 26b (tome 3) réécrits |
 
+| V3.12 | 2026-11-27 | Trois dettes du tome 1 soldées (`predestination.md` §3 quinquies) ; tome 2 ch. 02–05b rédigés ; tome 3 ch. 02–03 rédigés ; K. n'apparaît qu'en novembre 1958 (cohérence annexe) |

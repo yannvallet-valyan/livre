@@ -21,7 +21,7 @@
 
 **2. V · oct. 2026 · Sophia.** Sophia quitte Vallorce un matin, sans prévenir, en laissant sa carte de lecteur et le carnet. Elle conduit sans savoir où. Elle vomit sur l'aire d'autoroute. Elle ne peut pas nommer ce qui l'a effrayée. **On ne montre pas la nuit du 16 :** on la devine par ce qu'elle refuse de se rappeler. *Coût :* Étienne, qui l'appelle quarante fois. *(maillon 5-7)*
 
-**3. F · juin-juillet 1958.** Elle apprend le corps de Rose, sa maison, sa langue (le patois). Elle voit Jean, qui la regarde comme on regarde une inconnue aimée. Elle se coupe les cheveux. *« Comme ça, je me reconnais. »* Elle ne sait pas pourquoi : une image sans origine, une femme qui la tient. *Coût :* Jean la croit malade. *(maillon 13)*
+**3. F · juin-juillet 1958.** Elle apprend le corps de Rose, sa maison, sa langue (le patois). Elle voit Jean, qui la regarde comme on regarde une inconnue aimée, et qui lui prend la main dans le noir. *Coût :* Jean la croit malade. *(La coupe de cheveux n'a pas lieu ici : voir ch. 5b.)* *(maillon 13)*
 
 **4. V · automne 2026-2027 · Lyon.** Hélène, la mère de Sophia, qui avait quitté Anselme en 1991, accueille sa fille sans poser de question. Sophia découvre la grossesse. Elle écrit à Étienne, ne poste pas. Hélène lui fait promettre de ne jamais retourner à Vallorce. **La même promesse, la même phrase** (`10`). *Coût :* l'enfant naîtra sans père. *(maillon 7)*
 
@@ -37,7 +37,7 @@
 
 ## PARTIE II — L'été (juillet-septembre 1958 / 2027-2045)
 
-**8. F · août 1958.** Elle se met à épier. Sur le chantier, la nuit, une lumière verte au pied du mur ; un homme en blouse blanche écrit dans un cahier noir. Elle le suit de loin pendant des semaines. Elle ne lui parle pas : elle ne sait pas pourquoi elle en a peur. *Coût :* elle manque de sommeil, Rose fait des erreurs de jour. *(maillon 15)*
+**8. F · août 1958.** Elle épie le chantier de nuit : les camions, les gardes, les ingénieurs de la Compagnie. Elle repère **Walther Kerr**, qui descend seul au pied du mur à la tombée du jour, et qui n'a pas l'air d'un homme qui commande. *(🔒 Le soir, c'est un homme honnête. La nuit, K. ne viendra que dans les derniers jours : sa première mesure est « une nuit de novembre », annexe.)* *Coût :* elle manque de sommeil, Rose fait des erreurs de jour. *(maillon 14)*
 
 **9. V · 2027-2039 · Lyon.** L'enfance d'Iris : la craie, les nuits à deux voix, Hélène qui vieillit, Sophia qui travaille trop. Le grain de beauté. Un souvenir sans origine : une femme aux cheveux courts qui la tient. À douze ans, elle jure à sa grand-mère de ne jamais retourner à Vallorce. *Coût :* elle ment dès la première minute. *(maillon 13)*
 
