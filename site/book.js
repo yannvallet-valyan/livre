@@ -9192,6 +9192,74 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "Il ne dit pas tout de suite autre chose. Elle le regarda chercher, dans son visage, la place où poser la joie, et ne pas la trouver. Il ouvrit la bouche. Il la referma. Il dit, à voix basse, comme à quelqu'un d'autre :"
+    },
+    {
+     "t": "p",
+     "s": "— Je n'ai pas le droit d'être content."
+    },
+    {
+     "t": "p",
+     "s": "— De quoi ?"
+    },
+    {
+     "t": "p",
+     "s": "— De tout. De toi, de ça. Elle est morte il y a sept ans, et je me réveille un matin avec une femme dans ma maison et une enfant dans son ventre. Il y a des gens qui attendent des années une chose pareille. Moi, je l'ai eue sans l'avoir demandée."
+    },
+    {
+     "t": "p",
+     "s": "Il se frotta le front, là où la cicatrice remontait. Il ajouta, très vite, comme on se jette dans l'eau :"
+    },
+    {
+     "t": "p",
+     "s": "— Et Hugo ? Qu'est-ce qu'il dira ? Il a trente ans, il a déjà enterré sa mère, il a mon âge dans la tête. Il va falloir lui dire qu'il a une sœur d'une femme qu'il connaît à peine. Je ne saurai pas."
+    },
+    {
+     "t": "p",
+     "s": "— Moi non plus, dit Sophia."
+    },
+    {
+     "t": "p",
+     "s": "— Tu as peur ?"
+    },
+    {
+     "t": "p",
+     "s": "— J'ai l'impression qu'on m'a lu un jugement, dit-elle. Je ne sais pas si c'est un cadeau."
+    },
+    {
+     "t": "p",
+     "s": "Il rit, malgré lui, un petit rire cassé. Il tendit la main, la reposa, la tendit de nouveau. Il lui toucha l'épaule, gauchement, du bout des doigts, comme à une inconnue. Il dit :"
+    },
+    {
+     "t": "p",
+     "s": "— Je suis maladroit."
+    },
+    {
+     "t": "p",
+     "s": "— Oui."
+    },
+    {
+     "t": "p",
+     "s": "— Je voulais te prendre dans mes bras."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais."
+    },
+    {
+     "t": "p",
+     "s": "— Je n'ose pas."
+    },
+    {
+     "t": "p",
+     "s": "— Alors fais-le, dit Sophia, sans bouger."
+    },
+    {
+     "t": "p",
+     "s": "Il le fit. Les pâtes débordaient encore."
+    },
+    {
+     "t": "p",
      "s": "— Non dénommé, répéta-t-il. Ça veut dire que tu ne diras jamais mon nom ?"
     },
     {
@@ -9383,7 +9451,7 @@ window.BOOK = {
      "s": "Sophia referma le carnet. Elle le posa sur la table, contre le caillou de Mathis, à côté des deux stylos croisés. Puis elle alla sous la douche, et resta sous l'eau chaude jusqu'à ce qu'il n'y en ait plus."
     }
    ],
-   "words": 2118
+   "words": 2388
   },
   {
    "id": "39-le-mur",
@@ -11031,6 +11099,30 @@ window.BOOK = {
     },
     {
      "t": "p",
+     "s": "— Il y a un silence, dit-il tout à coup, sans se tourner vers eux. Dans ma tête. Depuis ce matin. Je me suis réveillé, j'ai cru que j'étais mort."
+    },
+    {
+     "t": "p",
+     "s": "Il regarda ses mains."
+    },
+    {
+     "t": "p",
+     "s": "— Quarante-six ans, il y avait du monde. Je ne les voyais pas, mais je les entendais. Elles comptaient, elles chantaient, elles me tenaient la main quand il y avait de la tempête. Je ne savais pas qu'elles étaient là, et pourtant j'étais moins seul que je ne le croyais. Maintenant, je suis seul. C'est… très calme."
+    },
+    {
+     "t": "p",
+     "s": "Il eut un petit rire sans humour."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne sais pas si je dois les regretter. Elles m'ont pris ma vie. Mais c'était leur façon de me tenir compagnie."
+    },
+    {
+     "t": "p",
+     "s": "Sophia ne dit rien. Elle posa sa main sur la sienne, large, tavelée, couverte de colle de punaise. Étienne se détourna, pour regarder par la fenêtre, avec cette pudeur des médecins qui savent qu'il ne faut pas toucher à une douleur qui n'a pas de nom."
+    },
+    {
+     "t": "p",
      "s": "— Je ne sais pas qui c'est, dit-il."
     },
     {
@@ -11144,7 +11236,7 @@ window.BOOK = {
      "s": "Il leva la main. Pas pour appeler. Pas pour retenir. Lentement, paume ouverte, comme on salue quelqu'un qu'on reverra."
     }
    ],
-   "words": 3452
+   "words": 3619
   },
   {
    "id": "44-interlude-anne",

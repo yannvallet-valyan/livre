@@ -221,6 +221,18 @@ C'est Anselme qui commença. Il se leva au milieu d'une phrase, alla jusqu'au mu
 
 Anselme regarda le tas de papiers sur la table. Il passa la main dessus, très doucement, comme sur le dos d'un animal endormi.
 
+— Il y a un silence, dit-il tout à coup, sans se tourner vers eux. Dans ma tête. Depuis ce matin. Je me suis réveillé, j'ai cru que j'étais mort.
+
+Il regarda ses mains.
+
+— Quarante-six ans, il y avait du monde. Je ne les voyais pas, mais je les entendais. Elles comptaient, elles chantaient, elles me tenaient la main quand il y avait de la tempête. Je ne savais pas qu'elles étaient là, et pourtant j'étais moins seul que je ne le croyais. Maintenant, je suis seul. C'est… très calme.
+
+Il eut un petit rire sans humour.
+
+— Je ne sais pas si je dois les regretter. Elles m'ont pris ma vie. Mais c'était leur façon de me tenir compagnie.
+
+Sophia ne dit rien. Elle posa sa main sur la sienne, large, tavelée, couverte de colle de punaise. Étienne se détourna, pour regarder par la fenêtre, avec cette pudeur des médecins qui savent qu'il ne faut pas toucher à une douleur qui n'a pas de nom.
+
 — Je ne sais pas qui c'est, dit-il.
 
 — Moi, si, dit Sophia.
