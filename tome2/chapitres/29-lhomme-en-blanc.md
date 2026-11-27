@@ -1,4 +1,4 @@
-# Chapitre 54 — L'homme en blanc
+# Chapitre 59 — L'homme en blanc
 
 *(premier jet)*
 

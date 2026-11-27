@@ -1,4 +1,4 @@
-# Chapitre 10 — Le lavoir
+# Chapitre 11 — Le lavoir
 
 *(premier jet)*
 

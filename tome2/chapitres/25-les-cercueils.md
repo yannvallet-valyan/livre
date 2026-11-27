@@ -1,4 +1,4 @@
-# Chapitre 48 — Les cercueils
+# Chapitre 51 — Les cercueils
 
 *(premier jet)*
 

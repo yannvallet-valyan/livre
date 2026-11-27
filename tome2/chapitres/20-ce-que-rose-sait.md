@@ -1,4 +1,4 @@
-# Chapitre 38 — Ce que Rose sait
+# Chapitre 39 — Ce que Rose sait
 
 *(premier jet)*
 

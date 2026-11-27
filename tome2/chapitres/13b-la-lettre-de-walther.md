@@ -1,4 +1,4 @@
-# Chapitre 26 — La lettre de Walther
+# Chapitre 27 — La lettre de Walther
 
 *(premier jet)*
 

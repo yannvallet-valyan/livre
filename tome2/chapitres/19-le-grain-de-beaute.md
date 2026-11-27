@@ -1,4 +1,4 @@
-# Chapitre 35 — Le grain de beauté
+# Chapitre 36 — Le grain de beauté
 
 *(premier jet)*
 

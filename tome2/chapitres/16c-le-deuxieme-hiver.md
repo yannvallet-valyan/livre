@@ -1,4 +1,4 @@
-# Chapitre 32 — Le deuxième hiver
+# Chapitre 33 — Le deuxième hiver
 
 *(premier jet)*
 

@@ -1,4 +1,4 @@
-# Chapitre 52 — La table pour cinq
+# Chapitre 56 — La table pour cinq
 
 *(premier jet)*
 

@@ -1,4 +1,4 @@
-# Chapitre 27 — Le notaire
+# Chapitre 28 — Le notaire
 
 *(premier jet)*
 

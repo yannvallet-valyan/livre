@@ -1,4 +1,4 @@
-# Chapitre 41 — Le crayon
+# Chapitre 42 — Le crayon
 
 *(premier jet)*
 
