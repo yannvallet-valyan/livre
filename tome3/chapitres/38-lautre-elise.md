@@ -1,4 +1,4 @@
-# Chapitre 39 — L'autre Élise
+# Chapitre 42 — L'autre Élise
 
 *(premier jet)*
 

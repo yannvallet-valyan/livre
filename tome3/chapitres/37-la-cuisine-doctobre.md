@@ -1,4 +1,4 @@
-# Chapitre 38 — La cuisine d'octobre
+# Chapitre 40 — La cuisine d'octobre
 
 *(premier jet)*
 
