@@ -6,6 +6,7 @@
 > - 💡 **Proposition**, à valider.
 > - ❓ **À trancher.**
 >
+> **Plans détaillés :** `../../tome2/plan-detaille.md`, `../../tome3/plan-detaille.md` ; chaîne causale : `../../memoire/predestination.md`.
 > Ce fichier complète `chronologie.md` (le §0 reste valable pour le tome 1). Il prime sur `../../tome2/README.md` dès qu'ils se contredisent.
 
 ---

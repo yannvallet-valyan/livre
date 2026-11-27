@@ -35,3 +35,13 @@
 - **Kerr « sauvegarde la boucle »** : sa famille n'existe que si le tour brisé revient. Il n'est pas méchant (miroir de Noé : « La boucle doit tourner »), pas innocent non plus.
 - **Infermable** : empêcher la naissance d'Iris du passé efface K., Kerr, le manuel, donc les voyageurs, donc ceux qui l'empêchent.
 - **Fin du tome 3** : nuit d'octobre du tour brisé (le 16 oct.), cuisine d'Étienne, avant la conception. Le lecteur sait, depuis le tome 1 (`31`, `36`), que ce tour a eu lieu : la scène révèle que la « faute » d'Élise et Noé était un **choix**, fait en connaissance de cause. Kerr et Sacha (même corps, enfin ensemble) disent tout à Élise et Noé et leur laissent le choix. Dernière page : la main au-dessus du mètre, « Cinquante-neuf. » Coda : *Tour 48. J + 1. Elle est arrivée. Elle a peur. Cette fois, je descends la voir. — S.*
+
+## Décisions V3.7 (voir `predestination.md`)
+- **Le cercle n'a pas d'origine** : le manuel de Kerr (écrit en 2026, tour brisé) cause le voyage de 2137, qui cause Élise et Noé, donc Iris du passé, Sacha, Kerr, qui écrit le manuel.
+- **Tour brisé (T_b)** : nuit du 16 oct. (conception) ; le 19, Élise descend à la galerie (« la paroi garde ce qu'elle portait » = l'enfant) ; Sophia fuit vers le 20 ; Léthé emporte le gisement le 14 nov. ; naissance ≈ 9 juil. 2027 à Lyon (Étienne y arrive en somnambule, conduit par Noé).
+- **Théo Kerr** (2029) est vidé par les pilules Léthé de son père ; **Kerr y entre** vers 2046 (« Rouille → avenir »). Sacha naît en 2050 ; il prend la pilule en 2064 (Lise) ; Kerr le laisse faire (il doit devenir K.) ; Étienne prélève l'éclat (« un donneur ») ; Iris part pour 1958 en 2066.
+- **Tour 47** : Kerr, vieux de 46 tours, possède Bastien le jour ; il place l'aiguille dans le douzième bac, retire son badge à Sophia, lit chaque matin le cahier noir de son fils sans le savoir.
+- **Le premier péché d'Élise et de Noé** : leurs hôtes n'auraient pas consenti ; ils ne les réveillent pas.
+- **Rose consent** (« Reste ») à la dissolution d'Iris ; Walther (le jour) sauve Anselme par amour pour Rose.
+- **« Que la boucle tourne »** : dernière ligne du manuel, recopiée par Noé (`26`).
+

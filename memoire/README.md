@@ -11,7 +11,7 @@ But : permettre à une IA (ou à un humain) de continuer *La Rouille* **sans rel
 | Vérifier une date | `chronologie.md` | ~2 k |
 | Écrire un personnage | `personnages.md` (sa fiche) | ~1 k |
 | Poser ou payer un indice | `indices.md` | ~2 k |
-| Écrire le tome 2 ou 3 | `canon.md` + `chronologie.md` + `personnages.md` + `fils-ouverts.md` + `../roman/bible/trilogie.md` | ~12 k |
+| Écrire le tome 2 ou 3 | `canon.md` + `predestination.md` + `../tome2/plan-detaille.md` ou `../tome3/plan-detaille.md` + `personnages.md` | ~14 k |
 | Savoir quoi faire ensuite | `fils-ouverts.md` | ~1,5 k |
 
 Ne lire `roman/bible/chronologie.md` (long, partiellement daté) qu'en cas de doute : `canon.md` en est le résumé à jour.
@@ -28,6 +28,8 @@ Ne lire `roman/bible/chronologie.md` (long, partiellement daté) qu'en cas de do
 | `indices.md` | Chaque indice : où il est posé, ce qu'il annonce, quand il paie. |
 | `style.md` | Voix, règles de ton, tics à surveiller, motifs à préserver. |
 | `fils-ouverts.md` | Incohérences connues, fils non noués, chantiers des tomes 2 et 3. |
+| `predestination.md` | La chaîne causale de la trilogie, les dettes du tome 1, la charte du ton sombre. |
+| `histoires-annexes.md` | Sept histoires possibles hors trilogie (Oriane, Iris B, Rose, Ruben, Hélène, Mathis, Martine). |
 | `journal.md` | Historique court des versions. |
 
 ## Règles de maintenance (obligatoires)

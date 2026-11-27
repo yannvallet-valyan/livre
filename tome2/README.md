@@ -58,6 +58,7 @@ Chapitres en alternance, en remontant le fil de sa vie.
 Le chiffre cinq vient de la famille de Rose (`32`). Ce qui change cet été-là : elle sait, sans savoir comment, que des absents sont à attendre en plus des siens. Ces absents, ce sont **Iris et Sacha** (et, derrière eux, Élise et Noé). La table n'a pas cinq places pour eux : elle reste mise pour cinq, et deux assiettes servent à autre chose qu'à sa famille.
 
 ## Fichiers
+- `plan-detaille.md` : **le plan chapitre par chapitre** (à lire en premier pour écrire).
 - `personnages.md` : personnages du tome.
 - `chronologie-1958.md` : calendrier et règles appliquées.
 - `amorces.md` : indices déjà posés dans le tome 1.
