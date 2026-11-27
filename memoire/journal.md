@@ -21,3 +21,4 @@
 | V3.15 | 2026-11-27 | Six points de cohérence tranchés (premier tour de Kerr ; Iris retourne à Lyon en 2066 ; cuisine jaune = Iris elle-même dans Rose ; ch. 3 T3 en 2150 ; éclat demandé à Étienne ; retour d'Étienne à Grenoble) |
 | V3.16 | 2026-11-27 | Ch. 1 (T2) : pronom corrigé ; ch. 10 « La pompe » (20 août 1958 : joint dévissé, manœuvre de Chambéry blessé, visite d'Iris à l'hôpital) |
 | V3.17 | 2026-11-27 | Tome 2 ch. 10b « Le marché » (Odette-Iris du présent : « Je peux sauver votre fils », mensonge ; Iris cesse de saboter ; le pouls d'Odette s'arrête à 59, jamais 60 en 1958) |
+| V3.18 | 2026-11-27 | `memoire/resume.md` ; tome 2 ch. 11 « L'enregistrement » (14 juil. 2040 : Lise enregistre Iris, 13 ans ; son père Antoine Marchand, de Léthé, transmet ; dossier « Phénomène L.-I. », 24 ans) |
