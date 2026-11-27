@@ -51,6 +51,8 @@ Chaque ligne = un fait déjà écrit, et le chapitre du tome 2 ou 3 qui doit en 
 | Rose compte jusqu'à 59 (`32`) | T2 : Iris compte comme Élise |
 | La lampe sur le paillasson, pile inusable (`32`) | T2/T3 : Sacha la pose à l'aube du 14 nov. 1958 |
 | « Ce n'est pas encore l'heure. Ce n'est pas encore vous. » (`32`) | T2 : Sacha parle à Iris sans la reconnaître |
+| « Pas un grain, Sophia. Promets-le-moi » (`42`) ; « Il faudra qu'il n'en reste rien » (`37`) | T3 : Élise B l'a avertie dans la cabine (nuit du 10 au 11 nov.) |
+| « Cassant comme du sucre » (`02`, `03`, `30`) | T3 : Élise A le dit à Élise B, qui l'écrira dans la page (la phrase n'a pas d'auteur) |
 | « Le temps qu'il reste » (`19`, `32`) | T3 : la phrase de Kerr à son fils |
 | Écriture de K. « fine, presque typographique » (`18`) | T3 : Sacha a appris à écrire dans les carnets de son père |
 | « Un donneur » (`03`) | T2 : l'éclat prélevé sur Sacha |
@@ -73,8 +75,8 @@ Chaque ligne = un fait déjà écrit, et le chapitre du tome 2 ou 3 qui doit en 
 3. **Étienne prélève l'éclat** sur le crâne de Sacha, sans savoir que c'est son petit-fils (tome 2).
 4. **Rose consent** (« Reste ») à la dissolution d'Iris (tome 2).
 
-## 3 ter. Proposition 💡 : la rencontre des deux Élise
-Voir `../tome3/plan-detaille.md` (chapitre inséré O · nuit du 10 au 11 nov.) et `histoires-annexes.md`. Maillon proposé : **26. Élise B, au fond d'Anselme, avertit Élise A : « Il en reste toujours un grain. Quelqu'un le garde toujours. »** → `42` : « Pas un grain, Sophia. Promets-le-moi. » ; et Élise A lui dit « cassant comme du sucre » → B l'écrira dans la page (`02`). La phrase n'a pas d'auteur.
+## 3 ter. ✅ La rencontre des deux Élise (intégrée en V3.9)
+Voir `../tome3/plan-detaille.md` (chapitre inséré O · nuit du 10 au 11 nov.) et `histoires-annexes.md`. Maillon **26** (ajouté) : Élise B, au fond d'Anselme, avertit Élise A : « Il en reste toujours un grain. Quelqu'un le garde toujours. »** → `42` : « Pas un grain, Sophia. Promets-le-moi. » ; et Élise A lui dit « cassant comme du sucre » → B l'écrira dans la page (`02`). La phrase n'a pas d'auteur.
 
 ## 4. Charte du ton sombre (à respecter dans les tomes 2 et 3)
 1. **Chaque victoire coûte quelque chose** à quelqu'un d'innocent : un hôte, un enfant, un ami.

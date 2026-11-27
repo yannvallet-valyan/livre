@@ -45,3 +45,11 @@ Tour 48 ; autres lacs (Annecy) ; Genève ; Oriane ; Iris B ; 1958 avant 1958. �
 - Convention : fichiers `NN-titre.md`, même typographie que le tome 1, `*(premier jet)*` en tête. Non intégrés à l'EPUB du tome 1.
 - À valider : la rencontre des deux Élise (💡, `tome3/plan-detaille.md`).
 
+## Propositions en attente : la rencontre des deux Iris (V3.9)
+Voir la réponse détaillée de l'auteur-assistant ; options retenues pour discussion :
+- **A. 9 h 40, dans le cristal** (14 nov. 2026) : les deux Iris se rencontrent soixante secondes, au moment des dissolutions ; elles disent ensemble le soixantième. Aucune retouche du tome 1.
+- **B. 1958, Rose et Odette** : Iris du présent a fait un premier voyage plus court, dans Odette (son aïeule), voisine de Rose (Iris du passé). Les deux sœurs se côtoient sans se reconnaître ; Odette dénonce Rose. Demande une demi-phrase dans `41` (« un premier voyage, dont elle était revenue sans un mot »).
+- **C. La naissance de 2027** : Élise voit en Iris du passé le visage d'Iris du présent (rencontre dans l'esprit de la mère).
+- **D. Un tour futur (tome 4 / annexe)** : Sacha réunit sa mère et son amante, qui sont sœurs.
+- **Recommandation : B + A** (une rencontre manquée en 1958, une reconnaissance en 2026).
+

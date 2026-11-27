@@ -11,4 +11,5 @@
 | V3.6 | 2026-11-27 | Compatibilité tome 1 ↔ tomes 2-3 : pas d'alliance Iris-K. avant la dernière nuit ; annexe « selon les tours, une fille ou un garçon » ; naissance d'Iris vers le 9 juillet 2027 ; cinq couverts = famille de Rose ; cheveux courts d'Iris (souvenir transmis) ; Kerr élevé par des éducatrices ; Mathis voit Kerr en double (`25`) |
 | V3.7 | 2026-11-27 | Plans détaillés des tomes 2 et 3 (sombres : amour, trahisons, rebondissements) ; `predestination.md` (chaîne causale sans origine) ; `histoires-annexes.md` ; points ouverts tranchés (Agathe, Walther, Odette, Lise, Mael…) |
 | V3.8 | 2026-11-27 | Les 4 choix sombres validés ; premiers chapitres des tomes 2 et 3 rédigés (`01-la-glaise`, `01-tobie`) ; proposition : rencontre des deux Élise (cabine, nuit du 10 au 11 nov., tour 47) |
+| V3.9 | 2026-11-27 | Rencontre des deux Élise intégrée au plan du tome 3 (cabine, 10→11 nov.) ; propositions de rencontre des deux Iris (A à D) en attente |
 
