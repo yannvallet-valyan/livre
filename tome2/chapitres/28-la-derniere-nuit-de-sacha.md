@@ -16,6 +16,32 @@ Iris le lavait, l'habillait, le nourrissait. Elle lui parlait de sa voix douce, 
 
 ---
 
+Il y eut des scènes qu'elle garda. Elle les garda comme on garde, d'un naufrage, les objets qui flottent.
+
+Un soir de février 2065, Étienne vint jouer aux échecs. Il s'assit en face de l'enfant, comme il le faisait depuis huit ans, sur la même chaise, devant le même échiquier de buis. Il disposa les pièces. Sacha les regardait avec une curiosité courtoise, sans plus. Il ne savait plus comment le cavalier se déplaçait. Il touchait les têtes de bois, du bout du doigt, avec une expression de visiteur au musée. Étienne attendit. Il ne dit rien. Il joua e4, lentement, comme on frappe à une porte.
+
+Sacha regarda l'échiquier une minute entière. Il prit un pion. Il le posa sur e5. Il leva les yeux, un peu surpris de son propre geste. Étienne sourit. Il joua cavalier f3. Sacha ne répondit pas. Il resta là, la main au-dessus de la table, comme quelqu'un qui cherche une marche dans l'obscurité. Au bout d'une heure, il dit, d'une voix lointaine :
+
+— Le monsieur est gentil.
+
+— Oui, dit Étienne.
+
+— Il pleure ?
+
+— Non, dit Étienne. Il a de la poussière.
+
+Il rangea les pièces, une à une, dans leur boîte. Il garda la dame blanche dans sa poche, sans qu'Iris le vît, et l'y garda jusqu'à sa mort.
+
+Mathis passa à Pâques. Il apporta un panier d'œufs peints, qu'il disposa sur la table de la cuisine avec une application d'enfant. Il ne dit rien du changement. Il s'assit à côté de Sacha et lui tint la main, une demi-heure, en silence. Quand il se leva, il murmura à Iris, sur le seuil : « Il est resté plus longtemps que prévu. » Elle ne comprit pas. Elle se rappela, bien plus tard, qu'il avait dit cela au sujet de quelque chose d'autre.
+
+Théo lisait. C'était sa façon de faire face. Il s'asseyait au bord du lit, le soir, avec un livre, et lisait à voix haute, d'une voix posée, les histoires que Sacha aimait enfant : un poisson qui parle, un homme qui compte, un roi qui perd ses clefs. L'enfant ne l'écoutait pas. Mais il tournait parfois la tête vers lui, avec une expression d'une douceur infinie, comme on tourne la tête vers un bruit familier qu'on ne reconnaît plus. Théo s'arrêtait alors, une seconde. Il reprenait.
+
+Iris passait ses jours à le laver, à le nourrir, à le tourner dans le lit. Elle apprit à lui tenir la cuillère à la bonne hauteur, à lui parler sans l'espérer comprise, à chanter sans que sa voix tremble. Elle ne dormait presque plus. Elle comptait les heures, les respirations, les petits signes. Elle comptait, une nuit, jusqu'à cinquante-neuf, et s'aperçut, au bout du compte, qu'il comptait avec elle.
+
+Il ne s'en souvint pas le lendemain.
+
+---
+
 Il rouilla complètement dans la nuit du 11 au 12 décembre 2065.
 
 Elle ne le sut qu'après. Elle dormait, épuisée, dans la chambre voisine. Elle ne s'était pas réveillée à l'heure habituelle. Quelque chose l'avait gardée dans le sommeil, avec une lourdeur anormale, comme si on avait posé une main sur sa tête. Elle se rappela plus tard que Théo, la veille au soir, avait insisté pour lui préparer une tisane.

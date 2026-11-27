@@ -24,6 +24,52 @@ Elle chantait pour son fils, le soir. Elle chantait deux couplets. Elle ne savai
 
 ---
 
+Il y eut, entre-temps, des jours.
+
+Le premier hiver, au Haut, le poêle fuma. Les baraques de planches ne tenaient pas le froid. On y vécut serrés, pendant trois ans, en attendant que la Compagnie finisse les maisons neuves. Jean travailla à la scierie de Chambéry, puis dans une carrière, puis dans le bâtiment. Il rentrait tard, le dimanche, avec les mains qui saignaient. Il ne se plaignait pas. Il ne s'est jamais plaint. Il tenait ce qu'on lui avait appris : qu'un homme ne se plaint pas, qu'il se tait, qu'il fait.
+
+Rose eut un second enfant en 1961, une fille, qui ne vécut pas. Elle ne le dit à personne, sauf à Jean. Elle ne pleura pas. Elle posa, le soir, sur la table, une sixième assiette, qu'elle débarrassa le lendemain sans y avoir touché. Elle ne le refit plus.
+
+Elle avait des absences, parfois. Elle s'arrêtait au milieu d'un geste, une louche à la main, et regardait devant elle, la bouche entrouverte, avec une expression de très grande attention, comme quelqu'un qui écoute à travers un mur. Jean ne disait rien. Il lui prenait la louche, doucement. Il lui disait : « Rose. » Elle revenait. Elle disait : « Je l'entends encore. »
+
+Elle ne disait pas qui. Il ne le lui demandait pas.
+
+Il mourut en 1971, un matin de mars, au petit jour, d'une tumeur au poumon qu'on n'avait pas vue. Il resta trois semaines à l'hôpital de Chambéry. Elle venait le voir chaque après-midi, avec Anselme, qui avait quinze ans, qui ne parlait pas. Elle lui tenait la main. Elle lui lisait le journal. Il écoutait, les yeux fermés, avec un petit sourire.
+
+Le dernier jour, il lui demanda :
+
+— Elle est partie ?
+
+— Qui ?
+
+— L'autre.
+
+Rose ne bougea pas. Elle regarda son mari. Il avait le visage cireux, les joues creuses, les lèvres sèches. Il tenait sa main avec une force qu'elle n'aurait pas cru. Elle dit :
+
+— Elle dort.
+
+— C'est bien, dit Jean.
+
+Il ferma les yeux. Il dit, d'une voix presque inaudible :
+
+— Ferme à clé, si tu as peur la nuit.
+
+Il ne dit plus rien. Il mourut à six heures, quand la lumière entrait.
+
+---
+
+Il y eut, en 1980, un lundi d'octobre où l'on vida le lac.
+
+Elle monta sur le barrage avec les autres. Elle se tint sur le parapet, les mains à plat sur la pierre, les cheveux blancs coupés ras, et regarda l'eau descendre. Elle ne dit rien. Elle regarda apparaître, au bout de douze jours, la troisième maison à gauche. Elle pleura. Son fils, à côté d'elle, bottes aux pieds, pelle à la main, ne la consola pas. Il regardait ailleurs.
+
+Elle ne lui dit pas que, sous la glaise, quelque chose attendait. Elle n'osa pas. Elle avait senti, depuis vingt-deux ans, dans le fond d'elle, quelqu'un dormir. Elle avait senti, ce matin-là, au moment où il toucherait la veine, ce quelqu'un tressaillir, comme une bête qu'on caresse. Elle ouvrit la bouche. Elle voulut crier : *Anselme, ne touche pas.* Elle ne le fit pas. Elle savait qu'on ne crie pas à un fils ce qu'il faut qu'il fasse.
+
+Elle serra le parapet. Elle ferma les yeux.
+
+Elle compta jusqu'à cinquante-neuf. Elle s'arrêta.
+
+---
+
 Elle mourut en 1999, à soixante-sept ans, dans son lit, une nuit d'octobre.
 
 Elle avait les cheveux blancs, coupés ras, qu'elle n'avait jamais laissé repousser. Elle avait vu le lac se vider, en 1980, de ses deux yeux ouverts, le matin où son fils avait trouvé la veine. Elle avait vu, un jour de 1985, une silhouette de femme apparaître devant la porte du Haut, jeune, perdue, aux yeux gris, qui lui avait demandé en tremblant si elle était bien « la mère d'Anselme ». Elle avait dit oui. Elle n'avait jamais su qui était cette fille. Elle avait vu partir Jean, en 1971, sans bruit, dans un lit d'hôpital, avec ces mots d'adieu qu'il avait toujours eus pour les bêtes malades : *Ferme à clé, si tu as peur la nuit.*

@@ -70,6 +70,18 @@ Elle n'en parla jamais à Iris. Elle continua à la protéger dans la cour, à l
 
 ---
 
+Lise ne dormit pas cette nuit-là.
+
+Elle resta dans son lit, les yeux ouverts, à regarder le plafond. Elle avait la gorge sèche. Elle se répétait que ce n'était rien : un enregistrement, une blague, un jeu d'enfant. Elle se disait que son père avait raison, que cela pourrait aider. Elle se disait que son amie avait besoin de soins, qu'on ne lui voulait que du bien. Elle le crut presque. Elle se leva à trois heures, descendit à la cuisine, but un verre d'eau.
+
+Dans la pénombre, elle vit la lumière du bureau de son père, sous la porte. Elle s'approcha. Elle l'entendit parler, à voix basse, au téléphone. Il disait : « Oui. Je l'ai. Elle est mineure. Mais la mère ne sait pas. » Il disait : « Non, je ne peux pas vous donner d'adresse. Je vous enverrai le fichier. » Il disait : « Trois mille ? Cinq mille. Pour le protocole. » Elle comprit, d'un coup, sans comprendre, qu'il vendait quelque chose.
+
+Elle remonta. Elle se mit au lit, tremblante. Elle se fit le serment de ne plus jamais rien enregistrer, de ne plus jamais rien dire, de ne plus jamais être celle par qui.
+
+Elle ne tint pas son serment. Ce fut pire : elle le tint pour le reste, mais pas pour l'essentiel.
+
+---
+
 Le fichier arriva un mercredi à Vallorce, dans la boîte d'un chef de service, sans mention particulière. Il passa de bureau en bureau pendant dix jours. Un ingénieur, en l'écoutant, nota dans la marge : *Cadence de comptage : 59. Voix tierce.* Un directeur le fit transcrire par un logiciel : le logiciel ne reconnut qu'un seul mot qui n'était pas un chiffre, glissé entre le cinquante-huitième et le cinquante-neuvième : *aubépine.*
 
 On le classa dans un dossier. Le dossier avait un nom de code. Sur la couverture, au feutre, une main avait écrit : *Phénomène L.-I.*

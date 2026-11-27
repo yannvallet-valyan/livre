@@ -38,6 +38,46 @@ Il rentrait parfois dans la nuit d'un endroit qu'il ne nommait pas. Elle sentait
 
 ---
 
+Elle fut enceinte tout l'été 2049 sans le dire à personne.
+
+Elle le comprit à la fin de juin, un matin de chaleur, en se penchant sur un patient. Elle eut un vertige. Elle s'appuya à la table. Étienne la regarda, par-dessus ses lunettes. Il ne dit rien. Il lui apporta un verre d'eau. Il lui dit, avec cette douceur de vieux médecin qui sait lire les visages : « Assieds-toi. »
+
+Elle dit : « Je suis fatiguée. » Il répondit : « Oui. » Il alla chercher dans l'armoire un test, qu'il posa devant elle, sans un mot. Elle le regarda. Elle le prit. Elle comprit, en un quart d'heure, ce qu'elle savait déjà. Elle ne pleura pas. Elle resta longtemps assise sur le bord de la table d'examen, les mains sur le ventre, avec une expression d'étonnement très grande, un peu enfantine.
+
+— Tu veux le garder ? demanda Étienne.
+
+— Oui.
+
+— Tu es sûre ?
+
+— Je ne sais pas.
+
+— Alors tu le gardes, dit-il. Quand on ne sait pas, on garde.
+
+Elle le dit à Théo le soir, sur le chemin de halage. Il ne bougea pas. Il ne la prit pas dans ses bras. Il resta les mains dans les poches, le regard sur l'eau, avec un visage de pierre. Elle crut qu'il ne l'avait pas entendue. Elle répéta. Il dit, après un long silence :
+
+— Je sais.
+
+— Tu le savais ?
+
+— Oui.
+
+— Depuis quand ?
+
+— Depuis toujours, dit-il.
+
+Elle rit, nerveusement. Elle pensa qu'il plaisantait. Il ne plaisantait pas. Il se tourna enfin vers elle. Il avait les yeux humides, la bouche tremblante, l'air d'un enfant qu'on vient de réveiller en pleine nuit. Il la prit contre lui, enfin, avec une force qui lui coupa le souffle. Il lui murmura dans les cheveux, très bas, quelque chose qu'elle ne comprit pas.
+
+*Pardon.*
+
+Elle ne releva pas. Elle crut à de l'émotion.
+
+Il prit soin d'elle pendant les huit mois. Il lui apportait du thé, des fruits, des couvertures. Il lui massait les pieds, le soir, avec de l'huile d'amande, sans rien dire. Il lui lisait des poèmes. Il ne la quittait pas d'une semelle. Il avait une façon de la regarder, quand elle dormait, qui ressemblait à une prière. Elle se réveillait parfois, au milieu de la nuit, sentant sur elle une attention si grande qu'elle en avait presque peur.
+
+Il comptait, dans l'ombre. Elle l'entendait.
+
+---
+
 Sacha naquit le 3 février 2050, à trois heures du matin, dans la chambre du haut, par grand froid.
 
 Iris avait les eaux perdues depuis la veille. Elle n'avait pas voulu de l'hôpital. Elle avait peur des hôpitaux, des ascenseurs, des couloirs sans fenêtres : elle ne savait pas pourquoi. Étienne l'accoucha. Il était calme. Il dit : « Respire. » Il dit : « Compte, si ça t'aide. »

@@ -14,6 +14,26 @@ Elle atteignit le pied du mur à trois heures moins le quart.
 
 ---
 
+Elle avait quitté la maison à deux heures et demie, après qu'on eut ôté la nappe.
+
+Jean n'avait pas bougé de sa chaise. Elle avait posé la main sur son épaule, en passant : un geste de Rose, un peu raide, qu'elle avait appris à imiter. Il avait levé les yeux. Il avait dit : « Tu reviens ? » Elle avait répondu : « Avant l'aube. » Il avait hoché la tête. Il savait. Elle ne s'était pas demandé depuis combien de temps.
+
+Elle avait embrassé Anselme. Elle avait respiré son odeur, de lait, de laine, de poussière chaude. Elle lui avait glissé dans la main un caillou, un petit galet gris qu'elle avait ramassé sur la berge, sans savoir pourquoi. Il avait refermé les doigts, dans son sommeil, sans s'éveiller.
+
+À la porte, elle s'était arrêtée.
+
+*Rose.*
+
+Elle n'avait pas osé l'appeler. Elle l'avait fait, pourtant, tout au fond d'elle, comme on murmure un nom dans le noir. Elle avait senti une présence, très proche, qui se levait, qui s'approchait, qui la regardait avec une attention grave, un peu moqueuse. La voix était venue du fond de ses os, brusque, sèche, sans tendresse.
+
+*Va. Je dors.*
+
+Elle avait senti une grande douceur, et un chagrin plus grand encore. Elle avait compris que Rose, ce soir-là, lui prêtait le corps pour la dernière fois.
+
+Elle marcha donc, sur le chemin de halage, dans l'obscurité.
+
+---
+
 Il y avait une lumière.
 
 Elle ne la vit pas tout de suite. C'était une lueur verte, très faible, très basse, au ras du béton, d'un vert de lichen, de braise de phosphore. Elle venait d'un petit boîtier posé sur une pierre, à côté d'un homme accroupi. Il lui tournait le dos. Il portait un pardessus sombre, ouvert sur une chemise très blanche, dont le col éclairait son cou. Il avait posé son chapeau près de lui. Dans la main droite, il tenait un crayon. Dans la gauche, un cahier noir.

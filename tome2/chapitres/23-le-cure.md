@@ -44,6 +44,24 @@ Il ne répondit pas.
 
 ---
 
+Il resta longtemps dans le confessionnal, après qu'elle fut partie.
+
+Il avait l'habitude des aveux. Il avait entendu, pendant quarante ans, les péchés des autres comme une longue pluie, sans se mouiller. Il y avait eu la jalousie, la colère, la gourmandise, la paresse. Il y avait eu, de temps à autre, quelque chose de plus grave : un enfant que l'on n'avait pas voulu, un père que l'on avait laissé mourir. Il avait absous. Il avait toujours absous. C'était son métier.
+
+Il ne savait pas absoudre ce qu'on venait de lui dire. Il ne savait même pas si cela s'appelait un péché.
+
+Il pensa aux livres de la sacristie. Il y avait là, dans une armoire de chêne, une édition du *Rituale Romanum* de 1614, aux feuillets jaunis, qu'on ne consultait plus. Il l'ouvrit, ce soir-là, à la page des exorcismes. Il lut les formules, une à une, à la lueur d'une bougie. Il y avait des mots durs, des mots d'une violence ancienne, qui l'effrayèrent. *Exorcizo te, immundissime spiritus.* Il les relut. Il les referma. Il pensa : *non.*
+
+Il avait toujours cru que le diable était moins fin. Qu'il ne demandait pas pardon. Qu'il ne tenait pas, dans un corps de lavandière, la main d'un enfant endormi.
+
+Il s'agenouilla devant l'autel. Il resta ainsi, une heure, sans prier. Il dit seulement, à haute voix, d'une voix de vieil homme fatigué :
+
+— Seigneur, si Vous le voulez bien, ne me laissez pas faire de mal.
+
+Il ne reçut pas de réponse. Il n'en attendait pas.
+
+---
+
 Il lui donna une neuvaine. Il n'en avait pas d'autre à lui donner. Il dit : « Neuf jours de prière, le matin et le soir, devant le Saint-Sacrement. Si cette voix est du Malin, elle partira. Si elle ne part pas, il faudra voir un évêque. » Il ajouta, dans un souffle : « Je ne crois pas que ce soit nécessaire. »
 
 Rose s'agenouilla devant l'autel. Elle récita, à voix haute, avec cette simplicité qui avait toujours désarmé les saints. Le *Pater*. L'*Ave*. Le *Gloria*. Puis, à la fin, au moment où l'on dit *Amen*, elle ajouta quelque chose qui n'était pas dans la neuvaine :

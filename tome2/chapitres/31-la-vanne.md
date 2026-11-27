@@ -48,6 +48,34 @@ Elle monta dans le camion.
 
 ---
 
+Anselme se réveilla dans le camion.
+
+Il se redressa sur les genoux de sa mère, les cheveux collés d'un côté. Il regarda autour de lui avec cette surprise dure des enfants arrachés au sommeil. Il vit les bâches, les meubles empilés, les visages des voisins, l'obscurité qui reculait. Il dit, d'une voix enrouée :
+
+— On va où ?
+
+— Au Haut, dit Jean.
+
+— Et maman ?
+
+— Je suis là, dit Rose.
+
+Il leva les yeux vers elle. Il la regarda longtemps, sérieusement, comme on regarde un visage dont on cherche la différence. Il tendit la main, la posa sur sa joue. Il dit :
+
+— Tu pleures pas.
+
+— Non.
+
+— Elle pleure, dit-il, et il montra de la main, avec une logique d'enfant, un point derrière elle, un peu plus bas que le cœur.
+
+Rose se figea. Elle ne répondit pas. Elle serra l'enfant contre elle, plus fort, pour qu'il ne voie pas ses yeux. Elle sentit contre sa poitrine un souffle tiède, régulier, et au fond de sa poitrine à elle un autre souffle, plus ténu, plus lent, qui s'éteignait.
+
+Elle pensa : *il l'a entendue.* Elle pensa : *il l'a toujours entendue.*
+
+Elle le berça. Elle chanta, très bas, sans pouvoir s'arrêter, les deux couplets qu'elle ne s'était jamais appris. Quand elle arriva au bout du deuxième, elle sentit quelque chose se détendre en elle, comme une main qui se relâche. Elle se tut. Elle n'essaya pas de chanter le troisième.
+
+---
+
 Iris, au fond d'elle, ne dit rien.
 
 Elle ne voyait plus que par intervalles. Il y avait la route, les bâches, le visage de Jean contre sa joue, la petite main d'Anselme, endormi, serrée dans la sienne. Il y avait le bruit du moteur. Il y avait la pluie sur la toile. Il y avait aussi une sensation qu'elle n'avait jamais connue, qui venait de très loin, comme un courant tiède sous un glaçon : quelque chose se retirait d'elle.

@@ -28,7 +28,7 @@ Il y avait eu trois années de traitements, d'hôpitaux, de cheveux qui tombaien
 
 Elle avait passé les derniers mois dans la chambre du fond, sur le lit où elle dormait enfant, un lit de fer peint en blanc, aux montants ornés de petites pommes de pin. Elle regardait le plafond. Elle disait peu. Elle se faisait lire les relevés de lacs, les bulletins de crue, les rapports de l'agence, et corrigeait, d'une voix sèche, les erreurs de chiffre. Il lui arrivait de dire, au milieu d'une phrase : « Là. Quelqu'un a menti. » On vérifiait. Elle avait presque toujours raison.
 
-Elle avait gardé une fiole sur sa table de nuit. Une seule, dans toute la collection : la numéro quarante-deux, celle d'un petit lac de Chartreuse, qu'elle avait prélevée le jour de ses cinquante ans. L'eau y était limpide. Elle l'avait fait tenir, bouchon vissé, dans le creux de sa main, pendant des heures, sans rien dire, avec l'air de quelqu'un qui écoute un coquillage.
+Elle avait gardé une fiole sur sa table de nuit. Une seule, dans toute la collection : la quarante-troisième, celle d'un petit lac de Chartreuse, qu'elle avait prélevée le jour de ses cinquante ans. L'eau y était limpide. Elle l'avait fait tenir, bouchon vissé, dans le creux de sa main, pendant des heures, sans rien dire, avec l'air de quelqu'un qui écoute un coquillage.
 
 ---
 

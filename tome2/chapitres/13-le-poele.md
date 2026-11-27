@@ -18,6 +18,16 @@ Il resta longtemps immobile.
 
 ---
 
+Il avait commencé la journée comme les autres, à cinq heures et demie, par un café noir et une toilette à l'eau froide.
+
+Il avait revêtu son pardessus, vérifié ses crayons, glissé dans sa poche le petit carnet où il notait les mesures. Il était sorti. Il avait fait la tournée des piézomètres, comme chaque matin : treize points de mesure, répartis le long du mur, qu'il relevait à la main, dans le froid, en soufflant dans ses doigts. Il avait salué Bastide, le contremaître roux, qui criait contre un tombereau. Il avait rendu son salut à Orsini, très pâle, qu'on avait presque renvoyé pour la pompe. Il avait croisé le petit Marcel, qui ramassait des clous, et lui avait donné une pièce. L'enfant l'avait regardé avec des yeux ronds, sans dire merci.
+
+Il aimait ces matins. Il aimait l'odeur du ciment humide, le bruit du camion qui démarre, la lumière grise qui se lève derrière la crête. Il avait ce sentiment très simple d'être utile. Il l'aimait plus que tout, et il savait que cela ne suffisait pas.
+
+C'est à dix heures qu'on lui avait remis le dossier.
+
+---
+
 Il connaissait ce nom. Il le connaissait depuis juin, depuis le matin où il avait traversé le hameau du Bas, avec un contremaître et un plan, pour fixer la limite des expropriations. Une jeune femme penchée sur un baquet, au pied d'une maison, avait levé la tête. Elle n'avait rien dit. Elle avait un visage rond, des tresses noires enroulées en couronne, des mains rouges, et dans le regard une dureté qui ne cherchait pas à se faire pardonner.
 
 Il avait pensé : *elle est de ceux qui ne partiront pas.*

@@ -56,6 +56,20 @@ Elle comprit que son fils n'était pas parti pour rien. Il était parti *devant.
 
 ---
 
+Elle ne pleura pas à l'enterrement. Elle ne pleura pas non plus après.
+
+Elle tint. Elle tint comme on tient une porte contre le vent, par une sorte de raideur qui n'a plus rien à voir avec le courage. Elle remercia les gens qui venaient lui serrer la main : le maire, qui avait des larmes, le pharmacien, qui portait un chapeau trop grand, deux institutrices, la mère de Lise, les gens du village, qui défilaient dans la cuisine en baissant la voix. Elle servit du café. Elle découpa du gâteau. Elle dit : « Merci d'être venu. » Elle le dit quatre-vingts fois.
+
+Mathis resta le dernier. Il lava les tasses, sans rien dire. Il s'essuya les mains. Il lui dit, sur le seuil : « Si tu as besoin de quelque chose, je suis à la mairie. » Elle ne répondit pas. Il ajouta : « Je suis désolé pour Théo. » Elle comprit, à ce moment, qu'elle n'y avait pas encore pensé.
+
+La maison était vide. Il n'y avait plus ni cris d'enfant, ni bruit de pas, ni chaise qui grince. Elle fit le tour des pièces, avec la lenteur d'une inspection. Elle ouvrit la chambre de Sacha. Le lit était fait. Les draps sentaient la lavande. Sur la table de nuit, il y avait un verre d'eau à moitié plein, qu'elle n'avait pas vidé. Elle le but. Elle le but d'un trait, pour ne pas le jeter.
+
+Elle s'assit sur le lit. Elle toucha l'oreiller. Elle y trouva, sous la taie, un petit dessin plié en quatre. Une maison basse, au toit de lauzes, entourée d'eau. Au verso, d'une écriture fine : *Pour que tu saches où.* Elle ne l'avait pas vu.
+
+Elle le garda contre elle toute la nuit.
+
+---
+
 Étienne pleura en l'écoutant.
 
 C'était dans le cabinet, à la nuit, sous la lampe du bureau. Il était assis, très droit, les mains à plat sur le buvard. Il avait quatre-vingt-cinq ans, des joues creuses, une cicatrice blanche au sourcil, et il écoutait Iris parler de sa voix la plus calme, sans le regarder. Elle lui disait tout ce qu'elle pouvait dire : la porte, l'éclat, le compte. Elle ne lui dit pas où elle voulait aller. Elle lui demanda seulement s'il y avait, dans le crâne de son fils, une chose qu'on pouvait lui retirer.

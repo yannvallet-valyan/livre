@@ -38,6 +38,38 @@ Le soir, quand elle couchait l'enfant, elle lui chantait la berceuse, les deux c
 
 ---
 
+Il entra à l'école à six ans, à la rentrée de 2056, avec un cartable trop grand, une blouse grise, et le même sérieux qu'à la maison.
+
+L'école de Vallorce comptait vingt-deux élèves, répartis en deux classes. L'institutrice, Mademoiselle Berthier, avait quarante ans et des lunettes en demi-lune. Elle fit asseoir Sacha au premier rang, entre un garçon roux qui reniflait et une petite fille qui suçait son pouce. Il ne dit rien. Il ouvrit son cahier. Il prit son crayon, entre le pouce et le majeur, et traça, en haut de la page, la date, d'une écriture si droite, si pure, que Mademoiselle Berthier resta un moment immobile, la craie en l'air.
+
+Elle vint trouver Iris, un soir, à la sortie.
+
+— Votre fils est… remarquable, dit-elle.
+
+— Merci.
+
+— Il lit mieux que mes élèves de dix ans. Il écrit comme un calligraphe. Il compte plus vite que moi.
+
+— Il aime ça.
+
+— Il ne joue pas, dit Mademoiselle Berthier. Il regarde les autres jouer. À la récréation, il s'assoit contre le mur, sous le préau, et il observe. Il a l'air de les… compter.
+
+Iris ne répondit pas. Elle regarda l'institutrice, une femme tendre, un peu maladroite, qui se tordait les mains. Elle dit :
+
+— Ça lui passera.
+
+— Je ne crois pas, dit Mademoiselle Berthier. Je crois qu'il est comme ça.
+
+Elle avait raison.
+
+Il se fit pourtant un ami, au printemps. C'était un garçon boiteux, que les autres taquinaient. Il s'appelait Léon. Il avait des cheveux blonds, un rire facile, une main déformée par une malformation de naissance. Sacha l'avait choisi, sans explication. Il s'asseyait à côté de lui. Il partageait sa tartine. Il le défendait, à voix basse, avec des phrases d'une exactitude impitoyable, qui faisaient fuir les agresseurs. Léon le suivait partout, avec la fidélité d'un chien.
+
+Ils construisirent une cabane, au bord du lac, dans un saule creux. Ils y apportaient des cailloux, des bouts de ficelle, un vieux transistor qui ne marchait plus. Sacha y passait des après-midi entiers, couché sur le ventre, à dessiner. Léon lui tenait la lampe. Quand Iris venait les chercher, elle les trouvait assis côte à côte, les pieds dans l'eau, sans parler. Elle les regardait. Elle pensait : *il est heureux.* Elle ne se demandait pas ce que cela coûtait.
+
+Léon mourut à onze ans, d'une infection foudroyante qu'Étienne ne put pas soigner. Sacha ne pleura pas. Il se rendit à l'enterrement en blouse grise. Il déposa sur la tombe un caillou blanc. Il dit, en rentrant, à sa mère : « Je savais. » Elle crut qu'il parlait de la maladie.
+
+---
+
 Mathis passa à la maison un dimanche de 2057, avec un panier de champignons. Il avait quarante ans. Il travaillait à la mairie, sous les ordres d'un maire qui n'avait pas de mémoire, et il tenait, depuis l'enfance, un cahier où il notait les choses qu'on ne voulait pas qu'il écrive.
 
 Il resta à dîner. Il parla de choses sans importance. Il regarda longtemps Théo, qui découpait le rôti en face de lui, avec la précision d'un chirurgien, sans lever les yeux.

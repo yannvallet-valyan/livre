@@ -14,6 +14,26 @@ Elle regarda longtemps le mot. Elle y vit un prénom de fleur, un visage rond, d
 
 ---
 
+Elle parcourut l'appartement.
+
+Elle ouvrit les placards, les tiroirs, les boîtes. Elle retrouva des choses de sa mère : un chapeau de feutre, des gants usés, un agenda de 2026 dont les pages s'arrêtaient au 19 octobre. Elle retrouva une boîte à chaussures, pleine de lettres, qu'Hélène avait gardées dans une couche de papier de soie. Elle lut la première. Elle la remit. Elle trouva, dans le fond d'une armoire, un petit bonnet de laine tricoté à la main, jaune, aux points un peu lâches, de la taille d'une poire. Elle le tint contre elle un long moment.
+
+Elle trouva, sur l'étagère, la collection de fioles. Quarante-trois, alignées par date, étiquetées d'une main nette, bleue. Elle les regarda une à une. Elle prit la dernière. *Chartreuse, 12/11/2038.* L'eau y était claire. Elle la déboucha. Elle y trempa le doigt, le porta à ses lèvres. Elle y reconnut un goût d'enfance, de métal, de pierre froide.
+
+Elle sut qu'elle ne la reverrait plus.
+
+Elle alla s'asseoir dans la cuisine, devant la lampe. Elle posa devant elle la lettre jaunie qu'elle avait gardée, celle qui l'avait menée à Vallorce. *Pardon de ne pas t'avoir attendu.* Elle la relut. Elle sentit, pour la première fois, la voix de sa mère à travers la page : sèche, retenue, embarrassée, toute en pudeur.
+
+Elle dit à voix haute, à la pièce vide :
+
+— Je ne te l'ai pas apportée. Je suis désolée. Je n'ai pas osé.
+
+Elle ne sut pas à qui elle parlait. À sa mère, à un homme qu'elle ne connaîtrait jamais, à l'enfant qu'elle n'avait pas su garder.
+
+Elle prit le papier, le plia, le glissa dans sa poche. Elle l'emporterait. Elle savait déjà qu'on n'emporte rien. Mais elle voulait l'avoir sur elle, comme les anciens glissaient une pièce dans la main d'un mort pour payer le passeur.
+
+---
+
 Étienne arriva le troisième soir, sans prévenir.
 
 Il avait pris le train de nuit, un vieil homme tout seul dans un wagon vide, avec un manteau trop mince et un sac de cuir qui contenait son stéthoscope. Elle ouvrit la porte et le trouva sur le palier, immobile, la main sur la rampe.
