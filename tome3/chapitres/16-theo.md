@@ -56,6 +56,10 @@ Il tendit la main. Il la posa sur celle du vieil homme, qui était froide, tach�
 
 Il resta ainsi, la main sur la sienne, jusqu'à ce que la nuit tombe. Bastien finit par s'endormir. Le garçon resta assis à son chevet jusqu'à l'aube, sans bouger, les yeux ouverts, à regarder dormir l'homme qu'il avait habité vingt ans.
 
+Il comprit, en le regardant, qu'il avait pris à cet homme vingt ans de vie. Pas seulement des souvenirs. Une carrière, des visages, une façon de dormir. Bastien ne le savait pas. Il se plaignait, d'une voix douce, qu'on ne lui eût rien dit : que l'infirmière lui parlait comme à un étranger, que ses collaborateurs le saluaient avec des précautions de sacristains, qu'il ne reconnaissait pas son écriture sur les documents qu'on lui tendait. Il fit son deuil, sans le savoir, de ces années qu'il avait vécues sans y être. Il le fit le soir, dans un salon blanc, devant un lac à demi vide, avec un petit sourire, comme on fait celui d'un parent dont on n'a pas été au chevet.
+
+Kerr le regardait faire. Il aurait voulu lui dire : *c'est moi.* Il aurait voulu lui demander pardon. Il se tut.
+
 Il ne lui dit jamais qu'il avait été lui.
 
 ---

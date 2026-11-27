@@ -141,3 +141,11 @@ Il referma le carnet. Il le rangea dans sa poche, contre sa poitrine. Il sourit,
 Iris le regardait sortir. Elle posa sa main sur la tête de l'enfant. Elle dit, à voix très basse, à personne, à la pièce, aux murs de pierre :
 
 — Pardon.
+
+Elle resta longtemps éveillée, après qu'il fut parti.
+
+Elle regardait le plafond de pierre, la bougie qui achevait de se consumer, le petit visage endormi contre sa poitrine. Elle sentait qu'elle aurait dû être heureuse. Elle l'était. Elle était aussi épuisée, déchirée, glacée de peur. Elle était en colère contre Walther, qui n'était pas venu à temps. Elle avait honte de sa colère. Elle était en colère contre Sacha, qui venait d'écrire *père : moi* sur un carnet, avec un sourire d'enfant qu'on dispense de punition. Elle était en colère contre elle-même, qui n'avait pas eu le courage de le détromper.
+
+Elle pensa à ce qu'elle dirait à l'enfant, un jour. Elle ne trouva pas. Elle chercha des mots : *ton père n'a pas pu venir*, *ton père est un homme bon qui n'a pas le droit de te le dire*, *ton père n'est pas celui que tu crois*. Chaque phrase la blessait. Elle se dit qu'elle mentirait, sans doute, comme tout le monde. Elle se dit qu'elle mentirait mal.
+
+Elle ne savait pas à qui elle le disait. À Sacha, d'abord, qu'elle laissait croire. À Walther, ensuite, qui avait manqué la première heure. À Kerr, surtout, à qui elle faisait déjà un cadeau empoisonné. Elle se dit qu'elle le dirait à chacun, au bon moment. Elle ne le fit jamais tout à fait.

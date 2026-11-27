@@ -62,6 +62,42 @@ Les pâtes débordèrent. Ni l'un ni l'autre ne bougea. L'eau grésilla sur la p
 
 ---
 
+Élise, elle, ne dormit pas.
+
+Elle se réveillait au fond de Sophia vers trois heures, comme chaque nuit depuis septembre, quand le corps lâchait prise. Cette nuit-là, elle ne se leva pas. Elle resta allongée, les yeux ouverts dans le noir, avec une main qui n'était pas la sienne posée à plat sur un ventre encore plat. Elle savait ce qu'il y avait dessous, ou ce qu'il y aurait. Elle le savait par une ligne d'un registre rouge, à la deuxième place, sous un nom.
+
+*Anne.*
+
+Elle essaya de se la représenter. C'était ridicule, et elle essaya quand même. Elle chercha un front, un menton, une façon de froncer les sourcils. Elle inventa une enfant de trois ans, brune, un peu sérieuse, qui comptait en marchant. Elle lui donna des mains. Elle lui donna un rire. Elle la regarda courir, dans une cuisine jaune, jusqu'à la porte.
+
+Puis elle chercha Iris, pour comparer.
+
+Elle ne la trouva pas.
+
+Elle trouva un mot, *Iris*, qu'elle connaissait par cœur. Elle trouva un front trop grand, des sourcils droits, un grain de beauté au coin de la paupière gauche : tout ce que Noé lui avait donné, dans la nuit du barrage, et qu'elle avait appris par cœur à son tour, comme on apprend la description d'un suspect. Elle ne trouva pas le visage. Elle ne trouva pas la manière de bouger. Elle ne trouva pas ce que sentait la nuque de sa fille quand elle dormait.
+
+Elle comprit qu'elle était capable d'imaginer une enfant qui n'était pas née, et qu'elle ne parvenait plus à voir celle qu'elle avait mise au monde.
+
+Elle se retourna sur le côté, la joue contre l'oreiller de Sophia. Elle mordit le drap.
+
+Elle eut honte de la jalousie. Elle l'eut quand même. Sophia verrait grandir Anne. Sophia lui lirait des histoires, lui couperait les ongles, l'accompagnerait à l'école, la gronderait, la consolerait d'un chagrin d'amour. Sophia aurait tout ce que la Rouille avait pris à Élise, sans l'avoir demandé. Elle aurait ce qu'Élise n'avait plus, dans un corps qu'Élise lui avait prêté.
+
+Elle eut honte de la joie. Elle l'eut aussi. Une enfant allait exister. Quelque chose de vivant, de têtu, de brun, allait naître d'un geste qu'elle n'avait pas encore fait, d'une nuit, d'un ventre, d'une main dans le noir. Elle y avait contribué. Elle n'y serait pas.
+
+Elle eut peur, enfin. Pas pour elle. Pour l'enfant. Elle pensa à ce qu'elle lui transmettrait sans le vouloir : une chanson, un compte, un mot qu'on ne retient pas, une manière de s'arrêter à cinquante-neuf. Elle pensa à la Rouille. Elle pensa : *je lui donne ce que j'ai, et je ne sais pas ce que j'ai.*
+
+Et elle pensa, tout à coup, quelque chose qu'elle n'avait pas encore pensé.
+
+Anne n'était pas sa fille. Anne était son ancêtre. De cette enfant descendrait la fille de sa fille de sa fille, puis une autre, puis elle-même, un siècle plus tard, dans un refuge souterrain, une petite fille de sept ans qui disait : *C'est qui ?* Elle ne mettait pas au monde une seconde enfant. Elle mettait au monde, par un détour absurde, sa propre origine.
+
+Elle porterait donc, quelques mois, sans le savoir, dans le corps d'une autre, la mère de sa mère de sa mère. Et elle serait là pour la regarder naître, avant de disparaître.
+
+Elle ne put pas rire. Elle ne put pas pleurer. Elle resta immobile dans le noir, à écouter respirer Sophia, qui dormait et qui ne savait pas qu'elle était, cette nuit-là, la plus belle chose que quelqu'un d'autre eût jamais portée.
+
+Elle ne l'écrivit pas dans le carnet. C'était la seule chose qu'elle garda pour elle.
+
+---
+
 Elle mit longtemps à s'endormir, cette nuit-là, et la suivante. Elle restait allongée sur le dos, dans son lit, contre le mur mitoyen, à regarder le plafond. Elle pensait.
 
 Elle pensa aux deux voyageurs. À ce qu'Élise avait écrit d'eux, sans tout dire, par fragments, de nuit en nuit. Un homme qui lui laissait des lentilles depuis deux ans sans signer. Une femme qui avait oublié son visage et qui l'avait aimé de nouveau sans le reconnaître. Des règles d'archivistes. Un mètre entre leurs mains, gardé pendant six semaines sur un parapet gelé. Une petite fille, au bout de tout ça, à l'autre bout du temps, qu'ils avaient faite ensemble et qu'ils avaient perdue tous les deux : Iris.
