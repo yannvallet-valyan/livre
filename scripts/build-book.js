@@ -9,7 +9,8 @@ const path = require("path");
 const root = path.join(__dirname, "..");
 const dir = path.join(root, "roman", "chapitres");
 
-const chapters = fs.readdirSync(dir).filter((f) => /\.md$/.test(f)).sort().map((f) => {
+function readTome(dir, prefix, tome) {
+  return fs.readdirSync(dir).filter((f) => /\.md$/.test(f)).sort().map((f) => {
   const lines = fs.readFileSync(path.join(dir, f), "utf8").replace(/\r/g, "").split("\n");
   let label = "", title = f, n = null;
   const blocks = [];
@@ -18,8 +19,9 @@ const chapters = fs.readdirSync(dir).filter((f) => /\.md$/.test(f)).sort().map((
   for (const line of lines) {
     const h1 = line.match(/^#\s+(.+)$/);
     if (h1) {
-      const m = h1[1].match(/^Chapitre\s+(\d+)\s*[—-]\s*(.+)$/);
-      if (m) { n = +m[1]; label = "Chapitre " + n; title = m[2].trim(); }
+      const m = h1[1].match(/^Chapitre\s+(\d+)(\s+bis)?\s*[—-]\s*(.+)$/);
+      if (m && m[2]) { label = "Chapitre " + m[1] + " bis"; title = m[3].trim(); }
+      else if (m) { n = +m[1]; label = "Chapitre " + n; title = m[3].trim(); }
       else { const k = h1[1].split(/\s+—\s+/); label = k[0].trim(); title = (k.slice(1).join(" — ") || k[0]).trim(); }
       continue;
     }
@@ -32,9 +34,17 @@ const chapters = fs.readdirSync(dir).filter((f) => /\.md$/.test(f)).sort().map((
   }
   flush();
   const words = blocks.reduce((a, b) => a + (b.s ? b.s.split(/\s+/).length : 0), 0);
-  return { id: f.replace(/\.md$/, ""), n, label, title, blocks, words };
-});
+  const c = { id: prefix + f.replace(/\.md$/, ""), n, label, title, blocks, words };
+  if (tome > 1) c.tome = tome;
+  return c;
+  });
+}
 
-const out = "window.BOOK = " + JSON.stringify({ title: "La Rouille", chapters }, null, 1) + ";\n";
+const tome1 = readTome(dir, "", 1);
+const dir2 = path.join(root, "tome2", "chapitres");
+const tome2 = fs.existsSync(dir2) ? readTome(dir2, "t2-", 2) : [];
+const chapters = tome1.concat(tome2);
+
+const out = "window.BOOK = " + JSON.stringify({ title: "La Rouille", tomes: { 2: { title: "La Dame du lac", subtitle: "La Rouille, tome 2 · premier jet, en cours d'écriture" } }, chapters }, null, 1) + ";\n";
 fs.writeFileSync(path.join(root, "site", "book.js"), out);
-console.log(`Livre : ${chapters.length} sections, ${chapters.filter((c) => c.n).length} chapitres, ~${chapters.reduce((a, c) => a + c.words, 0)} mots.`);
+console.log(`Livre : ${tome1.length} sections (tome 1), ${tome2.length} sections (tome 2), ~${chapters.reduce((a, c) => a + c.words, 0)} mots.`);

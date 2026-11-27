@@ -38,10 +38,11 @@
   window.addEventListener("scroll", onScroll, { passive: true });
 
   function toc() {
-    const total = BOOK.chapters.reduce((a, c) => a + c.words, 0);
+    const t1 = BOOK.chapters.filter((c) => !c.tome), t2 = BOOK.chapters.filter((c) => c.tome === 2);
+    const total = t1.reduce((a, c) => a + c.words, 0);
     let h = '<p class="chapter">Roman</p><h1 tabindex="-1">La Rouille</h1>' +
       '<p class="lede"><em>En 2137, l\'humanité oublie. Élise Varenne part pour 2026, dans le corps de son arrière-arrière-grand-mère. Elle va découvrir que la Rouille n\'a pas d\'origine. Elle a seulement un cycle.</em></p>' +
-      '<p class="meta">' + BOOK.chapters.filter((c) => c.n).length + " chapitres · ~" + total.toLocaleString("fr-FR") + " mots · ~" + pages(total) + ' pages · premier jet</p>';
+      '<p class="meta">' + t1.filter((c) => c.n).length + " chapitres · ~" + total.toLocaleString("fr-FR") + " mots · ~" + pages(total) + ' pages · premier jet</p>';
     h += '<div class="dl"><a href="la-rouille.epub" download="la-rouille.epub">Télécharger le livre <small>EPUB · Kindle, Kobo, Apple Livres</small></a>' +
       '<details><summary>Comment le lire sur Kindle ?</summary><ol>' +
       '<li>Télécharge le fichier <b>la-rouille.epub</b>.</li>' +
@@ -55,12 +56,24 @@
       h += '<a class="resume" href="#livre/' + last.id + '" data-resume="' + last.id + '"><span class="r-label">Reprendre ma lecture</span><span class="r-title">' +
         (last.n ? "Chapitre " + last.n + " · " : "") + esc(last.title) + '</span><span class="r-pct">' + pct + " % · " + done + " / " + BOOK.chapters.length + " sections lues</span></a>";
     }
-    h += '<ol class="toc">';
-    BOOK.chapters.forEach((c) => {
-      h += '<li class="' + (c.n ? "" : "extra") + (prog.read[c.id] ? " done" : "") + '"><a href="#livre/' + c.id + '"><span class="num">' + (prog.read[c.id] ? "✓" : (c.n || "·")) + '</span><span class="t">' +
-        (c.n ? "" : '<small>' + esc(c.label) + "</small> ") + esc(c.title) + '</span><span class="p">' + pages(c.words) + " p.</span></a></li>";
-    });
-    root.innerHTML = '<article class="scene enter">' + h + "</ol></article>";
+    const list = (arr) => {
+      let o = '<ol class="toc">';
+      arr.forEach((c) => {
+        o += '<li class="' + (c.n ? "" : "extra") + (prog.read[c.id] ? " done" : "") + '"><a href="#livre/' + c.id + '"><span class="num">' + (prog.read[c.id] ? "✓" : (c.n || "·")) + '</span><span class="t">' +
+          (c.n ? "" : '<small>' + esc(c.label) + "</small> ") + esc(c.title) + '</span><span class="p">' + pages(c.words) + " p.</span></a></li>";
+      });
+      return o + "</ol>";
+    };
+    h += list(t1);
+    if (t2.length) {
+      const info = (BOOK.tomes && BOOK.tomes[2]) || { title: "Tome 2", subtitle: "" };
+      const w2 = t2.reduce((a, c) => a + c.words, 0);
+      h += '<h2 class="part">Tome 2 : ' + esc(info.title) + '</h2><p class="meta">' + esc(info.subtitle) + " · " + t2.length + " chapitres · ~" + w2.toLocaleString("fr-FR") + " mots · ~" + pages(w2) + " pages</p>" +
+        '<p class="lede"><em>⚠ Contient les révélations du tome 1.</em></p>' +
+        '<div class="dl"><a href="la-dame-du-lac.epub" download="la-dame-du-lac.epub">Télécharger le tome 2 <small>EPUB · premier jet, mis à jour au fil de l\'écriture</small></a></div>' +
+        list(t2);
+    }
+    root.innerHTML = '<article class="scene enter">' + h + "</article>";
     const rs = root.querySelector("[data-resume]");
     if (rs) rs.addEventListener("click", () => { resumeId = rs.dataset.resume; });
   }
@@ -68,7 +81,7 @@
   function chapter(id) {
     const i = BOOK.chapters.findIndex((c) => c.id === id || String(c.n) === id);
     if (i < 0) return toc();
-    const c = BOOK.chapters[i], prev = BOOK.chapters[i - 1], next = BOOK.chapters[i + 1];
+    const c = BOOK.chapters[i], sameTome = (x) => x && (x.tome || 1) === (c.tome || 1), prev = sameTome(BOOK.chapters[i - 1]) ? BOOK.chapters[i - 1] : null, next = sameTome(BOOK.chapters[i + 1]) ? BOOK.chapters[i + 1] : null;
     let h = '<p class="chapter">' + esc(c.label) + '</p><h1 tabindex="-1">' + esc(c.title) + '</h1><div class="prose">';
     c.blocks.forEach((b) => {
       h += b.t === "hr" ? '<p class="sep" aria-hidden="true">·&nbsp;·&nbsp;·</p>' : b.t === "h" ? '<h2 class="part">' + esc(b.s) + "</h2>" : "<p>" + inline(b.s) + "</p>";

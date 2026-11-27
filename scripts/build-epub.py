@@ -14,6 +14,13 @@ ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 SRC = os.path.join(ROOT, "roman", "chapitres")
 TITLE = "La Rouille"
 SUBTITLE = "Roman"
+DESC = "En 2137, l'humanité oublie. Élise Varenne part pour 2026, dans le corps de son arrière-arrière-grand-mère. Elle va découvrir que la Rouille n'a pas d'origine. Elle a seulement un cycle."
+SEED = "la-rouille"
+TOMES = {
+    "2": dict(src=os.path.join(ROOT, "tome2", "chapitres"), title="La Dame du lac", subtitle="La Rouille, tome 2 (premier jet)",
+              out=os.path.join(ROOT, "site", "la-dame-du-lac.epub"), seed="la-rouille-tome-2",
+              desc="1958 : Iris se réveille dans Rose Roch, l'été où l'on vide une vallée pour la noyer. 2027-2066 : la vie de l'autre Iris, née une nuit de panne de courant, qui perd son fils. Deuxième tome de La Rouille (premier jet, en cours d'écriture)."),
+}
 LANG = "fr"
 
 CSS = """
@@ -66,9 +73,11 @@ def parse(path, idx):
         m1 = re.match(r"^#\s+(.+)$", line)
         if m1:
             t = m1.group(1)
-            m = re.match(r"^Chapitre\s+(\d+)\s*[—-]\s*(.+)$", t)
-            if m:
-                n = int(m.group(1)); label = "Chapitre %d" % n; title = m.group(2).strip()
+            m = re.match(r"^Chapitre\s+(\d+)(\s+bis)?\s*[—-]\s*(.+)$", t)
+            if m and m.group(2):
+                label = "Chapitre %s bis" % m.group(1); title = m.group(3).strip()
+            elif m:
+                n = int(m.group(1)); label = "Chapitre %d" % n; title = m.group(3).strip()
             else:
                 parts = re.split(r"\s+—\s+", t)
                 label = parts[0].strip(); title = (" — ".join(parts[1:]) or parts[0]).strip()
@@ -111,7 +120,7 @@ def page(title, body, extra_class=""):
 def build(author, cover_path, out_path):
     files = sorted(f for f in os.listdir(SRC) if f.endswith(".md"))
     chapters = [parse(os.path.join(SRC, f), i + 1) for i, f in enumerate(files)]
-    uid = "urn:uuid:" + str(uuid.uuid5(uuid.NAMESPACE_URL, "la-rouille"))
+    uid = "urn:uuid:" + str(uuid.uuid5(uuid.NAMESPACE_URL, SEED))
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     manifest, spine, nav_items, ncx_items = [], [], [], []
@@ -157,10 +166,10 @@ def build(author, cover_path, out_path):
            '<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid" xml:lang="%s">\n'
            '<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">\n'
            '<dc:identifier id="bookid">%s</dc:identifier>\n<dc:title>%s</dc:title>\n<dc:creator>%s</dc:creator>\n<dc:language>%s</dc:language>\n'
-           '<dc:subject>Science-fiction</dc:subject>\n<dc:description>En 2137, l\'humanité oublie. Élise Varenne part pour 2026, dans le corps de son arrière-arrière-grand-mère. Elle va découvrir que la Rouille n\'a pas d\'origine. Elle a seulement un cycle.</dc:description>\n'
+           '<dc:subject>Science-fiction</dc:subject>\n<dc:description>%s</dc:description>\n'
            '<meta property="dcterms:modified">%s</meta>\n%s\n</metadata>\n<manifest>\n%s\n</manifest>\n<spine toc="ncx">\n%s\n</spine>\n'
            '<guide><reference type="text" title="Début" href="%s"/></guide>\n</package>\n') % (
-        LANG, uid, esc(TITLE), esc(author), LANG, now, cover_xml, "\n".join(manifest), "\n".join(spine), "chap" if False else chapters[0]["id"] + ".xhtml")
+        LANG, uid, esc(TITLE), esc(author), LANG, esc(DESC), now, cover_xml, "\n".join(manifest), "\n".join(spine), "chap" if False else chapters[0]["id"] + ".xhtml")
 
     ncx_nav = "".join('<navPoint id="n%d" playOrder="%d"><navLabel><text>%s</text></navLabel><content src="%s"/></navPoint>' % (i + 1, i + 1, esc(lbl), href) for i, (href, lbl) in enumerate(nav_items))
     ncx = ('<?xml version="1.0" encoding="utf-8"?>\n<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">\n'
@@ -190,6 +199,14 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--author", default=os.environ.get("ROUILLE_AUTHOR", "L'auteur"))
     ap.add_argument("--cover", default=os.path.join(ROOT, "site", "cover.jpg"))
-    ap.add_argument("--out", default=os.path.join(ROOT, "site", "la-rouille.epub"))
+    ap.add_argument("--out", default=None)
+    ap.add_argument("--tome", choices=["1", "2"], default="1", help="1 = La Rouille, 2 = La Dame du lac")
     a = ap.parse_args()
+    if a.tome != "1":
+        t = TOMES[a.tome]
+        SRC, TITLE, SUBTITLE, DESC, SEED = t["src"], t["title"], t["subtitle"], t["desc"], t["seed"]
+        a.out = a.out or t["out"]
+        if a.cover == os.path.join(ROOT, "site", "cover.jpg"):
+            a.cover = None
+    a.out = a.out or os.path.join(ROOT, "site", "la-rouille.epub")
     build(a.author, a.cover, a.out)
