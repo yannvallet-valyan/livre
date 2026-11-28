@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Même nuit.*
+
 — Et si nous ne faisions rien ?
 
 La question resta suspendue au-dessus de la table, entre les assiettes vides. Kerr ne répondit pas tout de suite. Il laissa la parole à celui qui avait le droit de la prendre.

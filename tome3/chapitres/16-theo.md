@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, janvier-mars 2046.*
+
 Il ouvrit les yeux dans un corps qui ne criait pas.
 
 C'était ce qu'il avait attendu, et il en fut bouleversé. Il n'y avait personne. Il n'y avait pas de poussée, pas de plainte, pas de parois contre lesquelles on se cogne. Il y avait un grand vide, très doux, tiède, comme une pièce où l'on aurait ouvert toutes les fenêtres. Il y respira. Il leva les mains. Elles étaient fines, longues, un peu pâles. Elles tremblaient, très légèrement. Il les regarda comme un homme qui vient d'obtenir quelque chose qu'il redoutait.

@@ -1,6 +1,8 @@
-# Chapitre 50 — Walther reste
+# Chapitre 51 — Walther reste
 
 *(premier jet)*
+
+*Le refuge, mai 2180 – décembre 2191.*
 
 La lettre arriva au refuge le 19 mai 2180, dans un sac de courrier, entre un catalogue de graines et une facture d'électricité.
 
@@ -18,13 +20,13 @@ Il y en avait seize autres, dans le paquet, noués d'un fil rouge.
 
 ---
 
-Kerr était parti depuis cinq semaines.
+Kerr était parti depuis neuf jours.
 
 On l'avait cherché. On avait fouillé les galeries, les puits, les citernes. On avait interrogé Tanguy, qui s'était contenté de dire : « Il m'a laissé un caillou. » On avait pensé à un accident, à une fugue, à un suicide. Walther n'avait rien dit. Il savait. Il savait depuis vingt ans, par les carnets, par le registre, par une conversation tenue dans un couloir : *le jour viendra.* Il avait seulement espéré qu'il n'aurait pas lieu de son vivant.
 
 Il s'était trompé.
 
-Il avait passé les premiers jours dans une sorte d'engourdissement. Il mangeait, il dormait, il travaillait. Il réglait les vannes avec une précision de machine. Il ne parlait pas. Puis, un matin, en descendant à la salle des pompes, il avait trouvé, posée sur la plus grosse, un petit objet de métal : une clé à molette, que Kerr utilisait enfant. Elle était trop petite pour sa main. Il l'avait serrée dans son poing. Il avait pleuré debout, devant les cadrans, sans bruit.
+Il avait passé les premiers jours dans une sorte d'engourdissement. Il mangeait, il dormait, il travaillait. Il réglait les vannes avec une précision de machine. Il ne parlait pas. Puis, un matin, en descendant à la salle des pompes, il avait vérifié le joint de la quatrième. Il ne fuyait plus. Il était serré à la demi-clé, exactement, avec ce soin d'apprenti qu'il reconnaissait. Il avait posé la main sur la fonte tiède. Il avait sorti de sa poche la petite clé à molette. Il avait pleuré debout, devant les cadrans, sans bruit.
 
 Maintenant, devant les lettres, il ne pleurait pas.
 
@@ -42,9 +44,9 @@ Il n'avait pas d'adresse. Il savait seulement que le tampon de la poste portait 
 
 *Tu me demandes de ne pas te pardonner. Je ne te pardonnerai pas. Je n'ai rien à te pardonner. Tu es partie, parce qu'il le fallait. Moi, je suis resté, parce qu'il le fallait aussi. Nous avons fait chacun ce qui nous revenait. C'est cela, la vérité. Ce n'est pas du courage. C'est de la loyauté.*
 
-*Kerr est parti le 10 avril. Il a laissé un caillou à Tanguy. Il n'a rien laissé à personne d'autre. Il m'a seulement dit, deux jours avant, dans la salle des pompes, une phrase que je ne comprends toujours pas : « Si je pouvais choisir, je te choisirais aussi. » Je ne sais pas ce qu'il voulait dire. Je crois qu'il me répondait.*
+*Kerr est parti le 10 mai. Il a laissé un caillou à Tanguy. Il n'a rien laissé à personne d'autre. Il m'a seulement dit, deux jours avant, dans la salle des pompes, une phrase que je ne comprends toujours pas : « Si je pouvais choisir, je te choisirais aussi. » Je ne sais pas ce qu'il voulait dire. Je crois qu'il me répondait.*
 
-*Je ne t'ai pas encore dit une chose. Il m'a appelé « papa », un jour de décembre 2162, devant une pompe. Il avait six ans. Il l'a dit sans y penser, ainsi qu'on dit « merci ». Il l'a redit le 8 avril, exprès, une seule fois, et cette fois je n'ai pas fait semblant de ne pas l'entendre ; je n'ai pas répondu non plus. La première fois, j'ai fait semblant de ne pas avoir entendu. J'ai passé trois nuits à m'en vouloir. J'avais peur que tu l'apprennes et que tu me reproches de l'avoir laissé faire.*
+*Je ne t'ai pas encore dit une chose. Il m'a appelé « papa », un jour de décembre 2162, devant une pompe. Il avait six ans. Il l'a dit sans y penser, ainsi qu'on dit « merci ». Il l'a redit le 8 mai, exprès, une seule fois, et cette fois je n'ai pas fait semblant de ne pas l'entendre ; je n'ai pas répondu non plus. La première fois, j'ai fait semblant de ne pas avoir entendu. J'ai passé trois nuits à m'en vouloir. J'avais peur que tu l'apprennes et que tu me reproches de l'avoir laissé faire.*
 
 *Tu ne me le reprocheras pas. Je le sais, maintenant. Tu aurais fait pareil.*
 
@@ -60,7 +62,7 @@ Il alla la poster lui-même, dans la boîte du hameau, à cinq kilomètres.
 
 Il ne reçut pas de réponse.
 
-Il ne s'y attendait pas. Il attendit quand même. Il attendit un mois, un an, dix ans. Il continuait son travail, ses rondes, ses ajustements de pression. Il aidait Tanguy avec la petite Anne, qui l'appelait « tonton Walt ». Il apprenait à une nouvelle génération de gamins à tenir une clé, à écouter une pompe, à ne pas avoir peur du noir. Il vieillissait doucement.
+Il ne s'y attendait pas. Il attendit quand même. Il attendit un mois, un an, dix ans. Il continuait son travail, ses rondes, ses ajustements de pression. Il aidait Tanguy avec la petite Lison, qui l'appelait « tonton Walt ». Il apprenait à une nouvelle génération de gamins à tenir une clé, à écouter une pompe, à ne pas avoir peur du noir. Il vieillissait doucement.
 
 Chaque soir, il allumait la lampe grise. Il s'asseyait au bord du lit. Il regardait la porte.
 

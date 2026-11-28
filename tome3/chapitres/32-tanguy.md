@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 2170-2172.*
+
 Tanguy riait avec tout son corps.
 
 C'était la première chose qu'on remarquait. Il riait des épaules, du ventre, des genoux, des pieds qu'il tapait par terre. Il riait si fort qu'on en oubliait la cause. À huit ans, il riait quand on lui disait qu'il allait tomber ; à douze ans, quand on lui disait qu'il avait tort ; à seize, quand on lui disait qu'il avait raison. Il avait un visage rond, des taches de rousseur jusque dans les oreilles, des cheveux couleur de rouille, qui se dressaient sur son crâne comme des flammes mal éteintes. Il parlait trop. Il mangeait trop. Il aimait trop.

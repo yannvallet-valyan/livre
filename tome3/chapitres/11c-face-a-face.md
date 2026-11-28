@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, mars 2160.*
+
 Ils se rencontrèrent un soir de mars 2160, à l'heure exacte où ni l'un ni l'autre n'avait le droit d'être là.
 
 C'était un malentendu de plus. Sacha était resté trop tard dans la galerie nord, à relire une page qui n'avait pas besoin de l'être. Walther était resté trop tard dans la salle des pompes, à regarder un manomètre, pour éviter de rentrer, à l'heure où il savait que l'autre reviendrait. Ils se croisèrent à la limite du jour et de la nuit, dans le corps de Tobie, au milieu d'un couloir, et le corps s'arrêta net.

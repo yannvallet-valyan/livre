@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, 13 novembre 2026. Quarante-septième tour.*
+
 Le cahier noir était ouvert sur la table, le 13 novembre 2026, à neuf heures du soir, et il y avait deux écritures dessus.
 
 Il l'avait vu en rentrant. Il avait posé son manteau, son badge, ses clés ; il était allé dans la cuisine de la petite maison que Bastien louait au bord du lac ; il avait allumé la lampe. Le cahier était là, à sa place habituelle, entre le sucrier et la pile de courrier. Il s'était assis. Il l'avait ouvert à la dernière page écrite.

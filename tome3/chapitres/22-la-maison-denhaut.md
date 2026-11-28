@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, 2047-2050.*
+
 Il apprit, cette année-là, ce que c'est que de vivre avec quelqu'un.
 
 Il ne l'avait jamais su. Dans les dortoirs du refuge, les gens se croisent ; dans le corps de Bastien, il habitait seul. Il y avait eu des repas, des conversations, des silences. Il n'y avait pas eu cela : une paire de chaussures posée sous la table, un peigne oublié sur le bord du lavabo, une main qui cherche votre épaule dans le noir. Il apprit à partager un lit trop étroit. Il apprit à ne pas parler le matin. Il apprit qu'on peut avoir, pour une personne, deux sentiments à la fois : l'envie qu'elle reste et la certitude qu'elle devra partir.

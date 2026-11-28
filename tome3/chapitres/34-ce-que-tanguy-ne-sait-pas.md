@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, novembre 2176.*
+
 À vingt ans, Kerr savait presque tout, et cela ne lui servait à rien.
 
 Il savait que le refuge tiendrait encore six ans. Il savait que l'éclat de Rouille, scellé dans la crypte, ne s'ouvrirait qu'en 2180, sous la main d'un homme qu'il connaissait par cœur sans l'avoir jamais rencontré. Il savait la date de la mort d'Agathe, et la maladie qui l'emporterait, et le mot qu'elle prononcerait en dernier. Il savait ce que chacun mangerait au dîner du dimanche suivant, parce que les carnets l'avaient noté, en 2060, dans la marge d'une page sans importance.
@@ -80,7 +82,7 @@ Tanguy le regarda. Il y eut un moment très long, où l'eau tombait entre eux, s
 
 — Je suis très content pour toi, répéta Kerr, avec un sourire qu'il sentit se déchirer sur ses lèvres.
 
-Il pensa : *je ne peux pas lui dire.* *Je ne peux pas lui dire que je l'ai su avant lui. Que je l'ai lu dans un carnet. Que Lucie lui donnera une fille en 2178, et que la fille s'appellera Anne, et qu'elle aura ses cheveux, et qu'il l'adorera.* *Je ne peux pas lui dire que je serai parti avant la naissance.*
+Il pensa : *je ne peux pas lui dire.* *Je ne peux pas lui dire que je l'ai su avant lui. Que je l'ai lu dans un carnet. Que Lucie lui donnera une fille en 2178, et que la fille s'appellera Lison, et qu'elle aura ses cheveux, et qu'il l'adorera.* *Je ne peux pas lui dire que je serai parti avant la naissance.*
 
 Il dit :
 

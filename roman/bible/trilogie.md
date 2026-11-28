@@ -1,3 +1,6 @@
+> ⛔ **LIRE D'ABORD (V3.69)** — Ce fichier contient encore des passages de l'**ancien anneau** (avant V3.46). Sont **périmés** et ne doivent jamais être repris : Kerr et Sacha « pères l'un de l'autre » ; Sacha compagnon / père de l'enfant d'Iris du présent ; les deux Iris « sœurs », « tante », « neveu » ; Kerr fils de K. Le vrai schéma : **Kerr = fils d'Iris du présent et de Walther** (corps de Tobie) ; **Sacha = fils de Kerr et d'Iris du passé** ; Sacha *croit* être le père de Kerr et se trompe ; les deux Iris n'ont aucun lien de sang. Source unique : `anneau-v2.md`.
+> **Anne ≠ Iris du passé** : Anne naît le 3 août 2027 dans le **tour 47** (le tome 1) ; Iris du passé naît ≈ 9 juil. 2027 dans le **tour brisé** (tomes 2-3). Deux tours, deux enfants, jamais ensemble.
+
 > ⚠ V3.46 : tout ce qui concerne la parenté Kerr / Sacha / les deux Iris est **remplacé** par `anneau-v2.md`.
 
 # La trilogie : architecture et secrets

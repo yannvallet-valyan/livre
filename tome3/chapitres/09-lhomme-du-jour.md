@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, juillet 2153.*
+
 Un matin de juillet 2153, Tobie leva la tête, et ce n'était pas lui.
 
 Ce n'était pas Sacha non plus. Iris le sut avant d'avoir cherché à savoir pourquoi. Elle venait déposer, comme chaque semaine, le registre des rations sur la table du dortoir D, et elle l'avait trouvé assis au bout du banc, devant un bol qu'une main amie avait rempli. Il tenait sa cuillère comme tout le monde. Il ne la regardait pas. Mais il y avait dans la façon dont il restait assis, dos droit, les pieds posés l'un contre l'autre, les mains à plat de chaque côté du bol, quelque chose de si poli, de si respectueux du bol, qu'elle s'arrêta net.
@@ -41,6 +43,16 @@ Il leva la main droite, la retourna devant ses yeux, regarda les doigts, la paum
 — Tobie, répéta-t-il. Merci.
 
 Il le dit avec soin, comme on dépose un mot sur une tombe.
+
+— Qui était-il ?
+
+Elle ne s'attendait pas à la question. Personne ne la posait jamais, au refuge, à propos d'un rouillé. Elle chercha.
+
+— Il avait quatorze ans quand c'est arrivé. Il aimait la citerne du bas, parce que l'eau y fait un bruit de cloche. Il sifflait faux. Sa mère est morte l'hiver suivant. Il n'a plus de famille.
+
+— Alors je lui dois au moins cela, dit l'homme. Qu'on se souvienne de lui ici.
+
+Il ne dit pas comment. Mais, chaque matin, pendant des années, avant de prendre son service, l'homme du jour descendit jusqu'à la citerne du bas et y resta une minute, debout, à écouter l'eau sonner. Il ne sifflait pas. Il ne savait pas siffler. Il restait là, simplement, pour quelqu'un qui n'y était plus, dans un corps qui ne lui appartenait pas et qu'il rendait, chaque soir, à un autre locataire.
 
 ---
 

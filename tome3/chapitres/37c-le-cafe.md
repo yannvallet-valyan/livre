@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, novembre 2026. Quarante-septième tour.*
+
 Sophia le vit trois fois, en novembre, et ne sut jamais qui il était.
 
 Elle croyait le connaître. C'était le directeur du laboratoire, Bastien Kerr, trente-cinq ans, costume anthracite, sourire de publicité. Elle lui avait remis son badge, à contrecœur, un vendredi. Elle l'avait entendu dire d'une voix douce : « Je suis désolé, madame Varenne. » Elle avait pensé : *il ment mal.* Elle avait pensé aussi, sans savoir pourquoi : *il est triste.*

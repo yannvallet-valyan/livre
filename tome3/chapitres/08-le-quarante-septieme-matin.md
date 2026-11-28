@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, septembre 2026. Quarante-septième tour.*
+
 Il ouvrit les yeux dans le bureau de Bastien pour la quarante-septième fois.
 
 Il n'eut pas à compter. Il avait cessé de compter les tours. Il savait seulement que la lumière était celle de la mi-septembre, que le lac était bas, que l'odeur de moquette et de café refroidi était la même qu'à chaque fois. Il connaissait la couleur exacte de la poussière sur le rebord de la baie. Il avait appris, au fil des siècles, à reconnaître son arrivée à ces détails : un store à demi baissé, un agenda ouvert sur le jeudi 17, un verre de thé dont la rondelle de citron avait tourné.

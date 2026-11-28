@@ -2,11 +2,13 @@
 
 *(premier jet)*
 
-Tanguy mourut à soixante-treize ans, un matin de juin 2229, sur un banc, devant une maison au toit rouge, avec un petit-fils sur les genoux.
+*Le refuge, juin 2229.*
+
+Tanguy mourut à soixante-treize ans, un matin de juin 2229, sur un banc, devant une maison au toit rouge, avec un arrière-petit-fils sur les genoux.
 
 Il avait vieilli à la façon dont on s'attendait qu'il vieillisse : en riant. Il avait gardé le visage rond, les taches de rousseur, que le temps avait multipliées jusqu'à en faire une carte. Ses cheveux étaient devenus d'un blanc de lait. Il avait perdu quelques dents, un peu d'équilibre, la plupart de ses souvenirs. Il avait gardé le reste : la voix, trop forte ; les bras, trop larges ; ce besoin de toucher les gens quand il leur parlait.
 
-On disait de lui, au refuge, qu'il avait « un trou ». Quelque part, dans les années de sa jeunesse, il manquait un morceau. Il ne savait pas lequel. Il parlait de sa mère, de ses noces, de la naissance d'Anne. Il parlait d'un jardin, d'un pommier, d'une niche dans une galerie, avec une lampe et un jeu de dames sans pions. Il disait : « J'avais un ami. » On lui demandait : « Comment il s'appelait ? » Il répondait : « Je ne sais pas. Je ne sais plus. » Il souriait, un peu tristement, comme quelqu'un qui cherche ses lunettes sur son nez.
+On disait de lui, au refuge, qu'il avait « un trou ». Quelque part, dans les années de sa jeunesse, il manquait un morceau. Il ne savait pas lequel. Il parlait de sa mère, de ses noces, de la naissance d'Lison. Il parlait d'un jardin, d'un pommier, d'une niche dans une galerie, avec une lampe et un jeu de dames sans pions. Il disait : « J'avais un ami. » On lui demandait : « Comment il s'appelait ? » Il répondait : « Je ne sais pas. Je ne sais plus. » Il souriait, un peu tristement, comme quelqu'un qui cherche ses lunettes sur son nez.
 
 Il gardait dans sa poche, depuis cinquante ans, un caillou blanc, qu'il n'avait jamais pu jeter.
 
@@ -14,7 +16,7 @@ Il gardait dans sa poche, depuis cinquante ans, un caillou blanc, qu'il n'avait 
 
 Ce matin-là, l'enfant qu'il tenait sur ses genoux avait quatre ans.
 
-Il s'appelait Léo. Il était blond, remuant, très curieux. Il avait des yeux gris, ceux de sa grand-mère Anne, qui était partie vivre dans la vallée. Il tirait sur la manche du vieil homme, avec insistance :
+Il s'appelait Léo. Il était blond, remuant, très curieux. Il avait des yeux gris, ceux de sa grand-mère Lison, qui vivait maintenant dans la vallée. Il tirait sur la manche du vieil homme, avec insistance :
 
 — Papy. Papy. Raconte.
 
@@ -100,7 +102,7 @@ Une voix lui répondit, qu'il aurait reconnue entre mille, une voix douce, un pe
 
 — Tu as bien vécu ?
 
-— Je crois, dit Tanguy. J'ai eu une fille. Un petit-fils. Je me suis marié sous la pluie.
+— Je crois, dit Tanguy. J'ai eu une fille. Des petits-enfants. Un arrière-petit-fils. Je me suis marié sous la pluie.
 
 — Je sais. J'y étais.
 
@@ -128,6 +130,6 @@ Il y eut un silence. L'oiseau avait disparu. Le petit Léo, sur ses genoux, comp
 
 Tanguy sourit. Il avait les yeux fermés, le visage tourné vers le soleil. Il ne dit rien. Il sentit une main chaude se poser sur la sienne, sur le banc. Il la serra.
 
-Quand Anne vint chercher son fils, à midi, elle trouva son père assis, la tête penchée en arrière, les mains ouvertes, un sourire immense sur le visage. Le petit comptait toujours, à côté de lui, sans s'être aperçu de rien.
+Quand Lison vint chercher l'enfant, à midi, elle trouva son père assis, la tête penchée en arrière, les mains ouvertes, un sourire immense sur le visage. Le petit comptait toujours, à côté de lui, sans s'être aperçu de rien.
 
 Il s'était arrêté à cinquante-neuf, avec une application d'enfant, et il attendait, patiemment, que quelqu'un dise la suite.

@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, nuit du 13 au 14 novembre 2026. Quarante-septième tour.*
+
 Dans la nuit du 13 au 14 novembre 2026, à trois heures, il posa l'aiguille dans le douzième bac.
 
 C'était un geste de rien, de ceux que l'on fait sans y penser, avec deux doigts, sous une lumière violette. Il y avait, dans la salle de culture, au fond de la galerie, une rangée de douze bacs, numérotés au feutre, où la vase rouge avait poussé ses mains. Le douzième était le plus petit. Il y restait un fond de boue grise, abandonné, que personne ne regardait plus. Il se tenait devant, dans le costume du directeur, les mains gantées. Il tenait entre le pouce et le majeur une aiguille rouge, pas plus longue qu'un ongle, qu'il avait prélevée la veille dans le nœud central, avec une pince, ainsi qu'on cueille une fleur.

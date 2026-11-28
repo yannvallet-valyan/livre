@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, novembre 2026. Quarante-septième tour.*
+
 Hugo avait dix-neuf ans, et il savait qu'il y avait un monsieur.
 
 Il ne l'aurait pas dit comme ça. Il aurait dit : « Il y a quelqu'un. » Il l'avait compris depuis qu'il était arrivé à Vallorce, le samedi 7 novembre, pour voir son père, sans savoir pourquoi il avait pris le train : une présence, à la lisière des choses, qui ne faisait pas de bruit. Un homme, quelque part dans la maison, dans la rue, au bord du lac, qui regardait. Pas méchant. Il en avait la certitude, à la façon dont on a celle d'un chien qui ne mord pas. Seulement très triste.

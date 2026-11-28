@@ -2,11 +2,13 @@
 
 *(premier jet)*
 
+*Même nuit, à l'aube.*
+
 Elle regarda Noé.
 
 Elle le regarda longuement, de l'autre côté de la cuisine, dans la lumière grise de l'aube. Elle ne parla pas. Elle n'en avait pas besoin. Il comprit qu'elle lui posait la question.
 
-Il se leva. Il fit un pas vers elle, puis s'arrêta, à un mètre, ainsi qu'on s'arrête au bord d'une rivière. C'était la règle. Ils l'avaient posée, un soir de septembre, devant un lavoir, dans une ivresse de précaution : *un mètre*. Pas plus près. Pas plus loin. La distance exacte qui permettait de se regarder sans se brûler. Ils l'avaient franchie, une nuit, sans en parler. Ils avaient franchi toutes les autres.
+Il se leva. Il fit un pas vers elle, puis s'arrêta, à un mètre, ainsi qu'on s'arrête au bord d'une rivière. C'était la règle. Ils l'avaient posée, un soir de septembre, devant un lavoir, dans une ivresse de précaution : *un mètre*. Pas plus près. Pas plus loin. La distance exacte qui permettait de se regarder sans se brûler. Ils ne l'avaient jamais franchie. Ils avaient tenu toutes les autres, jusqu'à cette nuit.
 
 Ils se tenaient là, face à face, à une longueur de bras, l'un devant l'autre.
 

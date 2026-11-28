@@ -103,4 +103,4 @@ Jours de semaine vérifiés contre le calendrier réel. Lune 2026 : nuit 4-5 oct
 | 2159 | Mort de Ruben (Iris a 29 ans) | 41 |
 | été 2160 🔒 | Iris du présent (30 ans) fait un premier voyage court dans Odette (1958) ; dénonce Rose ; rentre | trilogie |
 | 2164 | Iris du présent (34 ans) part dans Mathis ; Sacha repart ; Kerr (8 ans) reste au refuge, confié aux éducatrices ; (B) Élise B part dans Sophia, écrit la page, brise, tombe en 1980 | 41, 46 |
-| 2180 🔒 | Kerr (24 ans) part dans Bastien | trilogie |
+| 10 mai 2180 🔒 | Kerr (24 ans) part dans Bastien | trilogie |

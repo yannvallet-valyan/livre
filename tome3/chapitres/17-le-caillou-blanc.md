@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, 9 juillet 2046.*
+
 Elle eut dix-neuf ans le 9 juillet 2046, et personne ne le savait que lui.
 
 Elle ne l'avait dit à personne. Elle n'avait pas de raison de le dire. Elle vivait depuis sept mois dans une chambre au-dessus de la pharmacie, avec un lavabo, un réchaud, une fenêtre sur les toits. Elle travaillait chez Étienne, le médecin du bourg, qui l'avait engagée sans trop poser de questions, parce qu'elle savait faire un pansement, que sa mère venait de mourir, et qu'elle avait l'air d'une enfant qui n'aurait pas supporté d'être refusée. Elle soignait des genoux, des grippes, des vieux. Elle gardait les yeux baissés. Elle n'avait presque pas d'amis.

@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 2159.*
+
 Iris lut les quarante-trois carnets en neuf nuits, et n'en parla à personne.
 
 Elle les avait trouvés dans le tiroir du bas, sous les bougies, comme Ruben l'avait écrit. Elle avait reconnu l'écriture fine, droite, sans rature, qu'elle avait vue cent fois sur les cahiers d'un homme qu'elle ne voulait plus voir. Elle avait lu ceux qui parlaient d'elle. Elle avait lu ceux qui parlaient de sa mère. Elle avait lu les listes, les tours, les dates. À la huitième nuit, elle était tombée sur une page.

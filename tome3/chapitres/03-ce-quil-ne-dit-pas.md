@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 2150.*
+
 Ruben apprit, le troisième soir, que l'homme dans le corps de Tobie ne dormait pas.
 
 Il ne dormait ni le jour, ni la nuit. Il restait assis au bord du lit, dans le dortoir D, les mains sur les genoux, le dos droit, les yeux grands ouverts sur le plafond de pierre. Quand on lui parlait, il répondait avec une politesse effrayante. Quand on ne lui parlait pas, il écrivait. Il avait demandé un cahier noir et un crayon. Il les avait obtenus. Depuis, il couvrait des pages entières d'une écriture fine, régulière, presque typographique, qui n'avait rien à voir avec celle de Tobie, qui savait à peine former ses lettres quand il avait encore sa tête.

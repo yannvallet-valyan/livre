@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce-le-Bas, juin 1958.*
+
 Elle arriva à Vallorce-le-Bas par la boulangerie.
 
 C'est ce qu'elle se rappellerait toujours : l'odeur. Une odeur de pain brûlé, de farine chaude, de levain qui travaille dans les murs. Elle ouvrit les yeux dans un lit de bois, sous un édredon de plume, à côté d'un homme qui ronflait. Il y avait de la lumière à la fenêtre, très pâle, et un coq. Elle resta immobile. Elle compta jusqu'à cinquante-neuf, à voix basse, à la façon dont on le lui avait appris, et le corps ne résista pas.

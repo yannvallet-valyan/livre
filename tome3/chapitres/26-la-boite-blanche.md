@@ -1,6 +1,8 @@
-# Chapitre 36 — La boîte blanche
+# Chapitre 35 — La boîte blanche
 
 *(premier jet)*
+
+*Vallorce, septembre 2063.*
 
 Il avait vu venir cette visite pendant quarante ans.
 

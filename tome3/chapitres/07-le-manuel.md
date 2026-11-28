@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, octobre 2026. Premier tour.*
+
 Il écrivit le manuel en une seule nuit, dans le bureau de Bastien, avec le stylo de Bastien, sous la lampe de Bastien, en regardant le lac.
 
 C'était le 4 octobre 2026. Il avait attendu trois semaines. Il avait lu tout ce qu'il y avait à lire : les carnets, les rapports, les listes de fournisseurs. Il connaissait les gestes, les voix, les habitudes du corps qu'il occupait. Il savait désormais mentir à une secrétaire, serrer la main d'un préfet, sourire à un journaliste sans que personne ne devine que quelqu'un d'autre parlait. Il savait ce que cela coûtait.

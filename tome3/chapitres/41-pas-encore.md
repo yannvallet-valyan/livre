@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, 14 novembre 2026. Quarante-septième tour.*
+
 Il y eut un dernier jour, que personne ne se rappela.
 
 C'était l'après-midi du 14 novembre 2026. Après le coulis, après le cristal, après les deux Iris, il avait quitté la galerie sans qu'on le remarque. Il avait remonté l'escalier de fer, traversé le hall, passé devant les vitrines, les casiers, les affiches du laboratoire. Il avait quitté la voiture du directeur, au parking, pour marcher. Il s'était assis sur un muret, devant la grille, sous un tilleul nu.

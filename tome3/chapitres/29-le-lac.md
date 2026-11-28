@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, 19 décembre 2065.*
+
 On enterra l'enfant le 19 décembre, par un matin de gel.
 
 Il se tint debout à côté d'elle, les mains dans les poches de son manteau, le visage fermé. Il ne la toucha pas. Il n'avait plus le droit. Elle ne le regarda pas non plus. Elle tenait entre ses doigts un petit caillou blanc, rond, lisse, de la taille d'un œuf de caille, qu'il lui avait donné dix-neuf ans plus tôt. Elle le serrait si fort que ses phalanges avaient blanchi.

@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Même nuit.*
+
 Il leur dit tout, et ce fut Kerr qui parla.
 
 Sacha s'était retiré, à la façon dont on se retire d'une pièce pour laisser les autres parler. Il resta derrière, dans le fond du corps, spectateur, attentif. Il laissa à son père le soin de dire ce qu'il avait appris. Ce fut Kerr, donc, qui reprit la parole, d'une voix un peu rauque, après avoir bu un verre d'eau.
@@ -16,7 +18,7 @@ Il dit :
 
 — Qui ? dit Noé.
 
-— Eux. Les vrais. Sophia et Étienne. Si vous les réveillez, si vous leur dites : « Nous sommes d'un autre siècle, nous habitons vos corps, nous voulons que vous nous laissiez faire », ils diront non. Pas par méchanceté. Par peur. Elle est hydrologue, elle a divorcé il y a trois ans, elle a perdu sa mère, elle n'a que son travail. Il est médecin, il est veuf, il a un fils qu'il connaît mal. Ils se sont rencontrés il y a trois semaines. Ils n'ont rien à vous donner.
+— Eux. Les vrais. Sophia et Étienne. Si vous les réveillez, si vous leur dites : « Nous sommes d'un autre siècle, nous habitons vos corps, nous voulons que vous nous laissiez faire », ils diront non. Pas par méchanceté. Par peur. Elle est hydrologue, elle a divorcé il y a trois ans, elle appelle sa mère trop peu, elle n'a que son travail. Il est médecin, il est veuf, il a un fils qu'il connaît mal. Ils se sont rencontrés il y a trois semaines. Ils n'ont rien à vous donner.
 
 — Nous ne leur demandons rien, dit Élise.
 
@@ -32,7 +34,15 @@ Il y eut un silence. Élise baissa les yeux. Noé serra la mâchoire.
 
 — Et si nous demandons ?
 
-— Ils diront non.
+— Ils diront non. Pas cette nuit.
+
+— Pas cette nuit ?
+
+— Il existe un autre tour, dit Kerr. Celui que j'ai vu quarante-six fois. Là-bas, vous ne franchissez rien en octobre. Vous attendez. Vous vous cherchez à la loyale. Et c'est elle, Sophia, qui finit par vous l'offrir : un mois plus tard, par écrit, en sachant. Elle lit qu'elle aura une fille, qui s'appellera Anne. Elle écrit oui. Elle offre une nuit, une seule, la dernière, à deux personnes qu'elle a appris à connaître dans son propre corps. C'est un consentement. Le seul de toute cette histoire.
+
+— Et ici ?
+
+— Ici, elle ne vous connaît pas encore. Elle ne sait même pas que vous existez. Ici, il n'y aura pas d'Anne. Il y aura une autre enfant, une autre fille, qui s'appellera Iris. Et elle sera née d'une nuit que personne n'a donnée.
 
 — Et si nous prenons ?
 
@@ -82,7 +92,7 @@ Kerr déglutit.
 
 Il parla ainsi pendant plus d'une heure.
 
-Il leur dit les noms de ceux qui viendraient : Anne, Jeanne, Paul, Marthe, Mathis. Il dit les dates, les lieux, les visages. Il leur dit la mort de Sophia, en décembre 2045, dans un appartement de Lyon, et celle d'Étienne, en 2066, à quatre-vingt-cinq ans, vieux médecin qui ne savait plus pourquoi il avait gardé un éclat dans un tiroir. Il leur dit qu'ils ne se retrouveraient pas, dans ce siècle : qu'ils vivraient, chacun, d'une vie qui n'était pas la leur, dans des corps qui vieilliraient sans eux. Il leur dit qu'ils auraient, pendant trente-quatre nuits, un bonheur volé.
+Il leur dit les noms de ceux qui viendraient : ici, Iris, Théo, Sacha ; et, dans l'autre tour, celui où l'on demande, Anne, Jeanne, Paul, Marthe, Mathis. Il dit les dates, les lieux, les visages. Il leur dit la mort de Sophia, en décembre 2045, dans un appartement de Lyon, et celle d'Étienne, en 2066, à quatre-vingt-cinq ans, vieux médecin qui ne savait plus pourquoi il avait gardé un éclat dans un tiroir. Il leur dit qu'ils ne se retrouveraient pas, dans ce siècle : qu'ils vivraient, chacun, d'une vie qui n'était pas la leur, dans des corps qui vieilliraient sans eux. Il leur dit qu'ils auraient, pendant trente-quatre nuits, un bonheur volé.
 
 Il ne leur dit pas tout.
 

@@ -2,7 +2,9 @@
 
 *(premier jet)*
 
-Il entra par la fenêtre, dans la nuit du 15 au 16 octobre 2026, parce que la porte, ce soir-là, était fermée.
+*Vallorce, nuit du 16 au 17 octobre 2026. Premier tour.*
+
+Il entra par la fenêtre, dans la nuit du 16 au 17 octobre 2026, parce que la porte, ce soir-là, était fermée.
 
 Il ne s'y attendait pas. Les carnets disaient : *Il laisse la porte ouverte. Il dit qu'on n'a jamais volé chez lui.* Les carnets mentaient, ou plutôt ils décrivaient un autre soir : celui d'avant la fuite de Sophia, celui d'avant les règles brisées. Cette nuit-là, quelqu'un avait tourné la clé. Quelqu'un avait baissé le store. Il comprit, debout dans le jardin glacé, devant la maison noire, que la boucle, pour la première fois, avait changé un détail.
 
@@ -48,7 +50,7 @@ Il referma le cahier. Il le glissa dans sa poche. Il s'assit à la table, face �
 
 Il attendit.
 
-Il y avait, dans la maison, un silence de maison qui dort. Quelque part, une pendule. Un craquement de plancher, très haut. Une toux étouffée, de l'autre côté de la cloison. Un vieux chat, peut-être. Il pensait à ceux qui dormaient là-haut. Un homme et une femme qui s'étaient aimés pour la première fois, trois nuits plus tôt, sans savoir que deux autres, enfouis dans leurs corps, les regardaient par leurs yeux. Il pensait : *ce sont eux qui vont me juger.* Il pensait : *les vrais.*
+Il y avait, dans la maison, un silence de maison qui dort. Quelque part, une pendule. Un craquement de plancher, très haut. Une toux étouffée, de l'autre côté de la cloison. Un vieux chat, peut-être. Il pensait à ceux qui dormaient là-haut. Un homme et une femme qui s'aimaient sans se l'être dit, et qui ne savaient pas que deux autres, enfouis dans leurs corps, regardaient par leurs yeux. Il pensait : *ce sont eux qui vont me juger.* Il pensait : *les vrais.*
 
 À une heure du matin, la lampe de la cuisinière grésilla. Les lentilles se mirent à embaumer.
 

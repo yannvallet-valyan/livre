@@ -31,7 +31,7 @@ Honte → vertige → vide → jalousie → tendresse nouvelle → dignité (« 
 
 ## Personnages nouveaux
 - **Agathe**, éducatrice du dortoir B (2137-2180). Elle élève Kerr comme Ruben a élevé Iris. Elle sait des choses.
-- **Tanguy**, ami d'enfance de Kerr au refuge. Rouillé à 24 ans. Le « donneur ».
+- **Tanguy**, ami d'enfance de Kerr au refuge. *(Plan initial : rouillé à 24 ans, « le donneur ». Texte écrit : non rouillé, marié, une fille, Lison ; voir `memoire/fils-ouverts.md`.)*
 - **Tobie**, 19 ans (2150), le rouillé que Sacha habite au refuge. Descendant de Léa Kerr.
 - **Bastien Kerr (le vrai)** : l'homme dont on voit les actes sans qu'il les ait voulus. Il rêve ce que Kerr fait de ses jours.
 - Reviennent : Iris du présent, Ruben, Sacha/K., Kerr, Élise, Noé, Sophia, Étienne, Mathis, Anselme, Rose (en fond), Oriane (en souvenir).

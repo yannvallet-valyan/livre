@@ -1,8 +1,10 @@
-# Chapitre 52 — Le départ
+# Chapitre 49 — Le départ
 
 *(premier jet)*
 
-Il partit à cinq heures du matin, le 10 avril 2180, par la porte de service du dortoir B, en laissant une lampe allumée.
+*Le refuge, 10 mai 2180.*
+
+Il partit à cinq heures du matin, le 10 mai 2180, par la porte de service du dortoir B, en laissant une lampe allumée.
 
 Il avait dormi deux heures, assis sur le banc de la cour, la tête contre la pierre. Il s'était réveillé avec le froid. Il avait marché, une dernière fois, à travers le refuge, ainsi qu'on parcourt une maison qu'on va vendre. Il avait traversé le réfectoire, la bibliothèque, la salle des archives. Il avait passé la main sur les dossiers des chaises, sur les tables, sur les rampes d'escalier. Il avait touché le mur du fond, là où, un soir de décembre, une vieille femme lui avait dit : « Pas encore. »
 
@@ -20,7 +22,7 @@ Elle était là.
 
 Ce n'était pas une lumière, ni une forme. C'était une présence rouge, très basse, très douce, qui occupait le fond de la pièce comme une braise sous la cendre. Elle pulsait, lentement, au rythme d'un cœur. Il la regarda. Il sentit sa gorge se serrer. Il avait cru qu'il aurait peur. Il n'avait pas peur. Il se sentait, au contraire, très calme, avec cette paix des gens qui ont fini de se battre.
 
-Il posa son sac. Il s'assit par terre, en tailleur, face à la braise. Il sortit de sa poche un petit objet blanc, poli, de la taille d'une noix. Il le tint dans le creux de la main. Il le regarda. Un caillou, avec trois mots, au crayon : *Pour Anne. Compte.* Il y en avait un autre, identique, dans une autre poche, qu'il avait laissé à Tanguy. Il avait toujours su qu'il y en aurait un deuxième.
+Il posa son sac. Il s'assit par terre, en tailleur, face à la braise. Il sortit de sa poche un petit objet blanc, poli, de la taille d'une noix. Il le tint dans le creux de la main. Il le regarda. Un caillou, avec trois mots, au crayon : *Pour Lison. Compte.* Il y en avait un autre, identique, dans une autre poche, qu'il avait laissé à Tanguy. Il avait toujours su qu'il y en aurait un deuxième.
 
 Il murmura :
 

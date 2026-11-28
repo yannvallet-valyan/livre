@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 2152-2153.*
+
 Ce fut un an où il ne se passa rien, et où elle apprit tout.
 
 Elle reprit ses archives. Elle remit en ordre les registres de naissances, les listes de partis, les cartes des galeries. Elle lisait à voix haute, comme avant, mais à une salle vide. Elle ne montait plus à la cantine aux heures où le dortoir D prenait son repas. Elle mangeait seule, debout, dans la réserve. Elle dormait peu, par morceaux. Elle faisait, la nuit, des rêves qui n'avaient pas de fin.

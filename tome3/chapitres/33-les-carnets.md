@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 3 mai 2174.*
+
 Il lut les carnets le jour de ses dix-huit ans, comme il l'avait promis.
 
 Il avait attendu. Il avait compté, depuis un soir de décembre, quand il était petit, dans la salle du fond, devant une lampe et une femme qui refermait un cahier noir : *pas encore.* Il avait dit : *je le lirai quand je serai grand.* Il avait dit cela en regardant ses mains. Il l'avait répété pendant huit ans, comme une consigne.

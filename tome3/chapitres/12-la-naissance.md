@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 3 mai 2156.*
+
 La nuit où Kerr naquit, les lampes s'éteignirent.
 
 Ce n'était pas une panne. Au refuge, on appelait cela *la coupure*, parce que le groupe électrogène s'arrêtait dans la nuit du 2 au 3 de chaque mois, pour le graissage, et que personne ne l'avait jamais remis en route avant six heures. Les gens avaient appris à s'y plier. On dormait. On se serrait. On allumait une bougie dans un coin, avec précaution, pour les enfants qui avaient peur du noir. On ne mettait pas d'enfant au monde, ces nuits-là, si on pouvait l'éviter.

@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 3 mai 2166.*
+
 Elle lui lut le registre rouge le soir de ses dix ans.
 
 Elle avait hésité longtemps. Elle avait pensé : *il est trop petit.* Elle avait pensé : *il comprendra mal.* Elle avait pensé, surtout, que c'était à Iris de le faire, et qu'Iris était partie, et que c'était à elle, par défaut, comme tout. Elle avait pris le gros cahier d'écolier dans le tiroir de la table, celui que Ruben avait tenu pendant vingt ans, dont la couverture était tachée de thé et les coins mangés de souris. Elle l'avait posé sur ses genoux. Elle l'avait ouvert.

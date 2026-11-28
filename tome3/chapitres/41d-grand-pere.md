@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Même nuit.*
+
 La voix changea au milieu d'une phrase.
 
 Ce fut à peine perceptible. Kerr avait dit : « Je vous demande de ne pas… » et il ne finit pas. Il se tut. Sa tête s'inclina de côté, très légèrement, comme celle d'un homme qui écoute une voix dans l'oreille. Il y eut un frisson dans ses épaules. Ses mains, sur la table, bougèrent : le pouce vint se placer contre le majeur, comme pour tenir un crayon invisible.

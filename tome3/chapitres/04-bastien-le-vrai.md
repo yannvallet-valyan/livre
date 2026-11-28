@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, septembre 2026. Premier tour.*
+
 Bastien Kerr rêvait qu'il écrivait.
 
 Il ne rêvait pas d'ordinaire. Depuis la mort de son fils, il avait cessé de croire aux nuits. Il se couchait tard, dans le lit de camp installé derrière un rideau, à côté du bac numéro sept où poussaient les cristaux, parce que c'était le seul endroit de Vallorce où le bruit de la vase lui faisait oublier le bruit de l'eau. Il fermait les yeux. Il ne dormait pas. Il restait là, dans une absence sans visage, jusqu'au matin.

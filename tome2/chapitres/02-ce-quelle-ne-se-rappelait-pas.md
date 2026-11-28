@@ -2,6 +2,14 @@
 
 *(premier jet)*
 
+*Cahier noir. Tour 1, J + 31.*
+
+*Ce n'est pas le tour que je mesurerai le plus souvent. Dans celui-là, les variables É. et N. se cherchent à la loyale ; S. leur offre une nuit, par écrit, en sachant ; il en naît une fille, le 3 août, qu'on appellera Anne. Dans celui-ci, ils ont franchi le mètre la nuit du 16 octobre, sans réveiller personne. Il n'y aura pas d'Anne. Il y aura une autre enfant.*
+
+*Je n'interviens pas. — K.*
+
+---
+
 Sophia Varenne se réveilla à six heures quarante, comme tous les jours, sans réveil, et la première chose qu'elle fit fut de ne pas regarder le carnet.
 
 Il était sur la table de la cuisine, fermé, les deux stylos posés en croix dessus comme deux couverts. Elle ne l'avait pas ouvert depuis le samedi. Elle ne l'ouvrirait pas. Elle savait ce qu'elle y trouverait : une page blanche à droite, et à gauche sa propre écriture, bleue, penchée, qui s'arrêtait au soir du 16 sur une phrase sans verbe. *Cote : 409,80. Froid.*
