@@ -80,7 +80,7 @@ Ils se turent. La braise battait, à petits coups. Kerr dit, au bout d'un moment
 
 — Je le dirai, dit Walther. Je lui dirai aussi que tu as serré le joint.
 
-Kerr rit. Il rit d'un rire bref, étouffé, qui lui ouvrit la poitrine. Il pensa : *c'est ça, la dernière chose que je dirai à mon père : le joint.* Il pensa que c'était parfait.
+Kerr rit. Il rit d'un rire bref, étouffé, qui lui ouvrit la poitrine. *C'est ça, la dernière chose que je dirai à mon père : le joint.* Il pensa que c'était parfait.
 
 ---
 

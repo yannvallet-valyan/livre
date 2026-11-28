@@ -25633,7 +25633,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il se dit : *c'est elle.* Il se dit : *c'est d'ici que tout vient.*"
+     "s": "*C'est elle.* *C'est d'ici que tout vient.*"
     },
     {
      "t": "p",
@@ -25660,7 +25660,7 @@ window.BOOK = {
      "s": "Puis il rentra se coucher, dans le lit de camp qu'il avait fait dresser derrière le rideau, à côté du bac numéro sept, et il resta longtemps les yeux ouverts, à écouter à l'intérieur de sa tête un homme qui ne dormait pas non plus."
     }
    ],
-   "words": 789,
+   "words": 781,
    "tome": 3
   },
   {
@@ -25919,7 +25919,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il se regarda dans la glace des toilettes, longtemps. Il vit un homme aux tempes déjà grises, au visage lisse, un peu trop attentif. Il se dit : *c'est moi.* Il se dit : *c'est vraiment moi ?*"
+     "s": "Il se regarda dans la glace des toilettes, longtemps. Il vit un homme aux tempes déjà grises, au visage lisse, un peu trop attentif. Il se dit : *c'est moi.* *C'est vraiment moi ?*"
     },
     {
      "t": "hr"
@@ -26000,7 +26000,7 @@ window.BOOK = {
      "s": "Il comprit aussi, avec cette lucidité des hommes qui ont tout perdu, qu'il n'avait plus rien à défendre."
     }
    ],
-   "words": 956,
+   "words": 952,
    "tome": 3
   },
   {
@@ -26684,7 +26684,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il l'écrivit comme une loi. Il l'écrivit avec la tranquillité d'un homme qui se fait un cadeau à lui-même, et qui n'a pas honte. Il pensa : *les autres ne sauront pas. Ils dormiront. Ils prendront la nuit seulement. Ils ne feront pas ce que je fais.*"
+     "s": "Il l'écrivit comme une loi. Il l'écrivit avec la tranquillité d'un homme qui se fait un cadeau à lui-même, et qui n'a pas honte. *Les autres ne sauront pas. Ils dormiront. Ils prendront la nuit seulement. Ils ne feront pas ce que je fais.*"
     },
     {
      "t": "p",
@@ -26742,7 +26742,7 @@ window.BOOK = {
      "s": "Il ne sut pas si c'était Bastien ou son père."
     }
    ],
-   "words": 911,
+   "words": 908,
    "tome": 3
   },
   {
@@ -27978,7 +27978,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il pensa à un enfant de trois ans, aux poings serrés sous le menton. Il pensa : *il n'a pas mon front.* Il pensa : *il a le sien.*"
+     "s": "Il pensa à un enfant de trois ans, aux poings serrés sous le menton. *Il n'a pas mon front.* *Il a le sien.*"
     },
     {
      "t": "p",
@@ -28029,7 +28029,7 @@ window.BOOK = {
      "s": "Il y eut ensuite des jours où il ne souffrit presque plus. Il se rendit au dortoir B chaque soir, à l'heure où l'on couchait les petits. Il restait sur le seuil. L'enfant le regardait avec sérieux, très poliment, ainsi qu'on regarde un monsieur qui passe. Il ne l'appelait pas papa. Il l'appelait « le monsieur au crayon ». Sacha le sut par Agathe, un soir. Il sourit. Il remonta dans la salle du fond. Il resta assis, longtemps, devant la table, les mains à plat. Il pensa que c'était une chose bête, une douleur ridicule, qu'il aurait dû être au-dessus de cela. Il ne l'était pas. Il apprit, ces nuits-là, la seule chose qui lui parut jamais valoir d'être apprise : qu'on peut souffrir sans faire payer sa souffrance à personne."
     }
    ],
-   "words": 1782,
+   "words": 1776,
    "tome": 3
   },
   {
@@ -28827,7 +28827,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il pensa : *elle ira voir Étienne ce soir.*"
+     "s": "*Elle ira voir Étienne ce soir.*"
     },
     {
      "t": "p",
@@ -28835,7 +28835,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il pensa : *il faut que ça arrive vite.*"
+     "s": "*Il faut que ça arrive vite.*"
     },
     {
      "t": "p",
@@ -28874,7 +28874,7 @@ window.BOOK = {
      "s": "Il le laissa pleurer."
     }
    ],
-   "words": 1422,
+   "words": 1416,
    "tome": 3
   },
   {
@@ -29526,7 +29526,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il le regarda. Il pensa : *c'est vrai.*"
+     "s": "Il le regarda. *C'est vrai.*"
     },
     {
      "t": "p",
@@ -29620,7 +29620,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Kerr ne répondit pas. Il le serra contre lui. Il sentit ses petits bras s'agripper à sa veste. Il pensa : *je ne reste pas.* Il pensa : *je ne reste pas, et il le sait.*"
+     "s": "Kerr ne répondit pas. Il le serra contre lui. Il sentit ses petits bras s'agripper à sa veste. *Je ne reste pas.* Il pensa : *je ne reste pas, et il le sait.*"
     },
     {
      "t": "p",
@@ -29763,7 +29763,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il se tint là, jusqu'au matin, sans bouger, à regarder le corps de celui qui avait été son fils. Puis il se leva. Il alla à la fenêtre. Il regarda le jour se lever sur le lac. Il se dit : *je ne mérite pas de vivre.* Il se dit : *je vivrai.*"
+     "s": "Il se tint là, jusqu'au matin, sans bouger, à regarder le corps de celui qui avait été son fils. Puis il se leva. Il alla à la fenêtre. Il regarda le jour se lever sur le lac. *Je ne mérite pas de vivre.* *Je vivrai.*"
     },
     {
      "t": "p",
@@ -29774,7 +29774,7 @@ window.BOOK = {
      "s": "Il le savait déjà. Il ne le crut jamais tout à fait."
     }
    ],
-   "words": 1520,
+   "words": 1506,
    "tome": 3
   },
   {
@@ -30088,7 +30088,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle pensa : *je lui dois d'y aller.*"
+     "s": "*Je lui dois d'y aller.*"
     },
     {
      "t": "hr"
@@ -30230,7 +30230,7 @@ window.BOOK = {
      "s": "Il neigeait, dehors. C'était la première neige de l'hiver."
     }
    ],
-   "words": 1448,
+   "words": 1445,
    "tome": 3
   },
   {
@@ -30403,7 +30403,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il se dit : *ne la regarde pas comme ça.*"
+     "s": "*Ne la regarde pas comme ça.*"
     },
     {
      "t": "p",
@@ -30442,7 +30442,7 @@ window.BOOK = {
      "s": "Il ne lui dit pas que c'était celui d'un enfant qu'il n'avait pas eu."
     }
    ],
-   "words": 1361,
+   "words": 1357,
    "tome": 3
   },
   {
@@ -30488,7 +30488,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il avait une montre, au poignet, qu'il consultait sans arrêt. Il arpentait les rues du bourg, les mains dans les poches, sans trouver de place où s'asseoir. Il s'arrêta devant la pharmacie, vers midi. Il vit sa fenêtre ouverte, un rideau qui battait. Il pensa : *elle est là.* Il pensa : *il faut que je monte.* Il pensa : *je n'ai rien à lui donner.*"
+     "s": "Il avait une montre, au poignet, qu'il consultait sans arrêt. Il arpentait les rues du bourg, les mains dans les poches, sans trouver de place où s'asseoir. Il s'arrêta devant la pharmacie, vers midi. Il vit sa fenêtre ouverte, un rideau qui battait. *Elle est là.* *Il faut que je monte.* Il pensa : *je n'ai rien à lui donner.*"
     },
     {
      "t": "p",
@@ -30682,7 +30682,7 @@ window.BOOK = {
      "s": "Il ne dit rien à personne. Il porta ce jour en lui, comme on porte un fruit."
     }
    ],
-   "words": 1017,
+   "words": 1011,
    "tome": 3
   },
   {
@@ -30811,7 +30811,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Étienne ne répondit pas. Il sentit sa gorge se serrer. Il pensa : *elle voit tout.* Il pensa : *elle a raison.* Il se tourna vers elle. Il dit, avec une gravité qu'il ne se connaissait pas :"
+     "s": "Étienne ne répondit pas. Il sentit sa gorge se serrer. *Elle voit tout.* *Elle a raison.* Il se tourna vers elle. Il dit, avec une gravité qu'il ne se connaissait pas :"
     },
     {
      "t": "p",
@@ -30906,7 +30906,7 @@ window.BOOK = {
      "s": "Il sut seulement qu'il le ferait de nouveau."
     }
    ],
-   "words": 944,
+   "words": 938,
    "tome": 3
   },
   {
@@ -31028,7 +31028,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il pensa : *dis-le.* Il pensa : *dis-lui tout.* Il pensa : *qui je suis, d'où je viens, ce que je sais d'elle, de nous, du garçon qui naîtra.* Il pensa que ce serait une chose horrible à faire. Qu'elle croirait à une folie, ou, pire, qu'elle y croirait, et qu'elle en mourrait de peur. Qu'elle le regarderait ensuite ainsi qu'on regarde un homme qui vous a menti. Qu'il perdrait, d'un seul coup, ce qu'il avait mis vingt ans à recevoir."
+     "s": "Il pensa : *dis-le.* *Dis-lui tout.* *Qui je suis, d'où je viens, ce que je sais d'elle, de nous, du garçon qui naîtra.* Il pensa que ce serait une chose horrible à faire. Qu'elle croirait à une folie, ou, pire, qu'elle y croirait, et qu'elle en mourrait de peur. Qu'elle le regarderait ensuite ainsi qu'on regarde un homme qui vous a menti. Qu'il perdrait, d'un seul coup, ce qu'il avait mis vingt ans à recevoir."
     },
     {
      "t": "p",
@@ -31178,7 +31178,7 @@ window.BOOK = {
      "s": "Il ne le savait pas encore. Il le savait déjà."
     }
    ],
-   "words": 1112,
+   "words": 1106,
    "tome": 3
   },
   {
@@ -33170,7 +33170,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Un grand calme, très doux, très bas, comme si on avait baissé le son du monde. Les pensées ralentirent. Les voix se turent, une à une. Il crut entendre, dans le lointain, un chant d'oiseau. Il pensa : *c'est ça, la paix.* Il pensa : *je ne savais pas que ça existait.*"
+     "s": "Un grand calme, très doux, très bas, comme si on avait baissé le son du monde. Les pensées ralentirent. Les voix se turent, une à une. Il crut entendre, dans le lointain, un chant d'oiseau. *C'est ça, la paix.* *Je ne savais pas que ça existait.*"
     },
     {
      "t": "p",
@@ -33321,7 +33321,7 @@ window.BOOK = {
      "s": "Il resta dans les bras de son père, jusqu'à ce que la nuit tombe."
     }
    ],
-   "words": 951,
+   "words": 945,
    "tome": 3
   },
   {
@@ -33344,7 +33344,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il se dit : *je ne peux rien faire.* Il se dit : *je peux tout faire.* Il se dit les deux, à voix basse, jusqu'à ce que les mots n'aient plus de sens."
+     "s": "Il se dit : *je ne peux rien faire.* *Je peux tout faire.* Il se dit les deux, à voix basse, jusqu'à ce que les mots n'aient plus de sens."
     },
     {
      "t": "p",
@@ -33565,7 +33565,7 @@ window.BOOK = {
      "s": "Le lendemain, la boîte n'y était plus."
     }
    ],
-   "words": 988,
+   "words": 984,
    "tome": 3
   },
   {
@@ -33940,7 +33940,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il se dégagea. Il se leva. Il resta debout au pied du lit, un long moment, dans le froid, à la regarder dormir."
+     "s": "Il se dégagea, se leva, et demeura au pied du lit, dans le froid, à la regarder dormir."
     },
     {
      "t": "p",
@@ -33995,7 +33995,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il sortit de sa poche un petit éclat rouge, de la taille d'un grain de blé, tiède, légèrement luisant. Il le tint entre le pouce et le majeur, très haut, comme on tient un crayon. Il le regarda un instant. Il pensa à un autre éclat, posé sur un front, dans une autre chambre, un jour qu'il n'avait pas vécu. Il pensa à son propre père, qu'il ne connaîtrait jamais. Il pensa : *je suis en train de faire ce qu'on m'a fait.*"
+     "s": "Il sortit de sa poche un petit éclat rouge, de la taille d'un grain de blé, tiède, légèrement luisant. Il le tint entre le pouce et le majeur, très haut, comme on tient un crayon. Il le regarda un instant. Il pensa à un autre éclat, posé sur un front, dans une autre chambre, un jour qu'il n'avait pas vécu. Il pensa à son propre père, qu'il ne connaîtrait jamais. *Je suis en train de faire ce qu'on m'a fait.*"
     },
     {
      "t": "p",
@@ -34022,7 +34022,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il ferma les yeux. Il sentit, dans sa poitrine, quelque chose de très lourd, très ancien, se mettre à bouger. Il pensa à la plage d'Annecy. Il pensa à un garçon de cinq ans dans un maillot rayé. Il pensa à un autre, de seize ans, avec un gâteau et une bougie. Il pensa à Théo. Il pensa : *tous.* Il pensa : *j'en ai pris trois.* Il eut envie de se lever, de hurler, de briser la fenêtre, de sortir dans la neige, de crier. Il resta assis."
+     "s": "Il ferma les yeux. Une masse très lourde, très ancienne, se mit à bouger dans sa poitrine. La plage d'Annecy. Un garçon de cinq ans dans un maillot rayé. Un autre, de seize ans, avec un gâteau et une bougie. Théo. *Tous. J'en ai pris trois.* Il eut envie de se lever, de hurler, de briser la fenêtre, de sortir dans la neige. Il ne bougea pas."
     },
     {
      "t": "p",
@@ -34061,15 +34061,15 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il resta jusqu'à l'aube, au bord du lit, sans bouger. Il regardait le visage de Sacha, qui s'était apaisé. Les yeux, toujours ouverts, ne voyaient plus. La bouche s'était entrouverte, comme pour dire quelque chose. Il y avait, sur le front, la trace minuscule d'un point rouge, à peine plus grand qu'une piqûre, qui s'estompait. Il pensa : *c'est fait.*"
+     "s": "Il veilla jusqu'à l'aube, au bord du lit, le regard sur le visage de Sacha, qui s'était apaisé. Les yeux, toujours ouverts, ne voyaient plus. La bouche s'était entrouverte, comme pour dire un dernier mot. Sur le front, la trace minuscule d'un point rouge, à peine plus grand qu'une piqûre, qui s'estompait. *C'est fait.*"
     },
     {
      "t": "p",
-     "s": "Il pensa : *il est parti.*"
+     "s": "*Il est parti.*"
     },
     {
      "t": "p",
-     "s": "Il ne pleura pas. Il ne le pouvait plus. Il y avait en lui un grand pays sec, où les larmes ne poussent pas. Il se leva, à six heures. Il sortit de la chambre. Il traversa le couloir. La porte d'à côté était entrouverte. Il ne regarda pas. Il descendit l'escalier."
+     "s": "Il ne pleura pas. Il ne le pouvait plus : en lui s'étendait un grand pays sec, où les larmes ne poussent pas. À six heures, il se leva, sortit de la chambre, traversa le couloir. La porte d'à côté était entrouverte. Il ne regarda pas. Il descendit l'escalier."
     },
     {
      "t": "p",
@@ -34081,11 +34081,11 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il pleura longtemps, debout devant l'évier, les mains dans l'eau, sans bruit, ainsi qu'on pleure quand on a trop attendu. Il pleura sur un enfant de quinze ans. Il pleura sur un autre, de seize. Il pleura sur un homme qu'il n'avait jamais vu. Il pleura sur la femme qui dormait, ou faisait semblant, au premier étage. Il pleura sur tous ceux qui avaient été, et seraient, à cause d'un mot qu'il avait écrit une nuit d'octobre : *Que la boucle tourne.*"
+     "s": "Il pleura, debout devant l'évier, les mains dans l'eau, sans bruit, de ces larmes qui viennent quand on a trop attendu. Il pleura sur un enfant de quinze ans. Il pleura sur un autre, de seize. Il pleura sur un homme qu'il n'avait jamais vu. Il pleura sur la femme qui dormait, ou faisait semblant, au premier étage. Il pleura sur tous ceux qui avaient été, et seraient, à cause d'un mot qu'il avait écrit une nuit d'octobre : *Que la boucle tourne.*"
     },
     {
      "t": "p",
-     "s": "Il pensa, très clairement, pour la première fois :"
+     "s": "Il le sut, très clairement, pour la première fois :"
     },
     {
      "t": "p",
@@ -34096,7 +34096,7 @@ window.BOOK = {
      "s": "Il savait que c'était faux."
     }
    ],
-   "words": 1182,
+   "words": 1142,
    "tome": 3
   },
   {
@@ -34119,7 +34119,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il fit un pas. Il s'arrêta. Il regarda le trou. Il se dit : *c'est ici que je les laisse.*"
+     "s": "Il fit un pas. Il s'arrêta. Il regarda le trou. *C'est ici que je les laisse.*"
     },
     {
      "t": "p",
@@ -34170,7 +34170,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il demeura un instant debout dans l'obscurité. Il regarda la pièce : le poêle éteint, la table, l'étagère. Il regarda l'escalier. Il pensa : *elle dort en haut.* Il ne monta pas. Il se dit qu'il n'en avait pas le droit. Il se dit aussi qu'il n'en avait pas la force."
+     "s": "Il demeura un instant debout dans l'obscurité. Il regarda la pièce : le poêle éteint, la table, l'étagère. Il regarda l'escalier. *Elle dort en haut.* Il ne monta pas. Il se dit qu'il n'en avait pas le droit. Il se dit aussi qu'il n'en avait pas la force."
     },
     {
      "t": "p",
@@ -34280,7 +34280,7 @@ window.BOOK = {
      "s": "Il le savait déjà : c'était un chiffre qu'on ne prononce que pour quelqu'un qu'on aime."
     }
    ],
-   "words": 1096,
+   "words": 1089,
    "tome": 3
   },
   {
@@ -34540,7 +34540,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle le regarda. Elle pensa : *ce n'est pas un enfant.* Elle ouvrit le registre à la page du 14 novembre 2159. Elle lut, d'une voix posée, à la façon dont on lit une prière :"
+     "s": "Elle le regarda. *Ce n'est pas un enfant.* Elle ouvrit le registre à la page du 14 novembre 2159. Elle lut, d'une voix posée, à la façon dont on lit une prière :"
     },
     {
      "t": "p",
@@ -34798,7 +34798,7 @@ window.BOOK = {
      "s": "— Je sais, dit Kerr. Je compte."
     }
    ],
-   "words": 1024,
+   "words": 1021,
    "tome": 3
   },
   {
@@ -34951,7 +34951,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il se le dit très clairement. Il le savait depuis longtemps. Il l'avait lu dans les carnets. Il l'avait compris, un jour de six ans, devant une pompe. Mais il avait cru que cela n'arriverait que dans un autre temps, dans un autre corps. Il comprit ce soir-là que le temps, pour lui, ne se divisait pas : qu'il vivait tout à la fois, l'enfant de huit ans qu'on abandonne, le jeune homme qui abandonne, le vieillard qui se souvient. Il pensa : *c'est un luxe. C'est aussi une torture.*"
+     "s": "Il se le dit très clairement. Il le savait depuis longtemps. Il l'avait lu dans les carnets. Il l'avait compris, un jour de six ans, devant une pompe. Mais il avait cru que cela n'arriverait que dans un autre temps, dans un autre corps. Il comprit ce soir-là que le temps, pour lui, ne se divisait pas : qu'il vivait tout à la fois, l'enfant de huit ans qu'on abandonne, le jeune homme qui abandonne, le vieillard qui se souvient. *C'est un luxe. C'est aussi une torture.*"
     },
     {
      "t": "p",
@@ -35077,7 +35077,7 @@ window.BOOK = {
      "s": "Il tint dix ans. C'était déjà beaucoup."
     }
    ],
-   "words": 1279,
+   "words": 1276,
    "tome": 3
   },
   {
@@ -35499,7 +35499,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il pensa : *je ne peux pas lui dire.* Il pensa : *je ne peux pas lui dire que je l'ai su avant lui. Que je l'ai lu dans un carnet. Que Lucie lui donnera une fille en 2178, et que la fille s'appellera Anne, et qu'elle aura ses cheveux, et qu'il l'adorera.* Il pensa : *je ne peux pas lui dire que je serai parti avant la naissance.*"
+     "s": "Il pensa : *je ne peux pas lui dire.* *Je ne peux pas lui dire que je l'ai su avant lui. Que je l'ai lu dans un carnet. Que Lucie lui donnera une fille en 2178, et que la fille s'appellera Anne, et qu'elle aura ses cheveux, et qu'il l'adorera.* *Je ne peux pas lui dire que je serai parti avant la naissance.*"
     },
     {
      "t": "p",
@@ -35622,14 +35622,14 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Kerr ne répondit pas. Il posa la tête sur son épaule, un instant. Il sentit l'odeur du manteau. Il se dit : *c'est le dernier endroit chaud.* Il se dit : *je m'en souviendrai.*"
+     "s": "Kerr ne répondit pas. Il posa la tête sur son épaule, un instant. Il sentit l'odeur du manteau. Il se dit : *c'est le dernier endroit chaud.* *Je m'en souviendrai.*"
     },
     {
      "t": "p",
      "s": "Il s'en souviendrait. Il s'en souvenait déjà."
     }
    ],
-   "words": 1009,
+   "words": 999,
    "tome": 3
   },
   {
@@ -35727,7 +35727,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il retint le moment où il tendit la bague. Il la sentit glisser au doigt de Lucie. Il y eut un clic très léger, métallique, qu'il entendit, lui seul. Il pensa : *voilà.* Il pensa : *cela existe, quelque part, un instant où tout est à sa place.*"
+     "s": "Il retint le moment où il tendit la bague. Il la sentit glisser au doigt de Lucie. Il y eut un clic très léger, métallique, qu'il entendit, lui seul. *Voilà.* Il pensa : *cela existe, quelque part, un instant où tout est à sa place.*"
     },
     {
      "t": "p",
@@ -35826,7 +35826,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il pensa : *ce serait possible.* Il pensa : *une vie comme ça.* Il pensa à une maison, à des enfants, à un matin où l'on se réveille sans compter. Il regarda Nolwenn. Il se dit : *je pourrais.*"
+     "s": "*Ce serait possible.* *Une vie comme ça.* Il pensa à une maison, à des enfants, à un matin où l'on se réveille sans compter. Il regarda Nolwenn. Il se dit : *je pourrais.*"
     },
     {
      "t": "p",
@@ -35853,7 +35853,7 @@ window.BOOK = {
      "s": "Il l'avait appris de ceux qui l'avaient fait naître."
     }
    ],
-   "words": 1046,
+   "words": 1037,
    "tome": 3
   },
   {
@@ -36106,7 +36106,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il sortit dans le couloir. Il referma la porte. Il se tint là un instant, adossé au mur, les yeux fermés. Il se dit : *c'est donc cela, une mort douce.* Il se dit : *je n'en aurai pas de pareille.*"
+     "s": "Il sortit dans le couloir. Il referma la porte. Il se tint là un instant, adossé au mur, les yeux fermés. *C'est donc cela, une mort douce.* *Je n'en aurai pas de pareille.*"
     },
     {
      "t": "p",
@@ -36126,10 +36126,10 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il pensa : *mais bientôt.*"
+     "s": "*Mais bientôt.*"
     }
    ],
-   "words": 1084,
+   "words": 1073,
    "tome": 3
   },
   {
@@ -36476,7 +36476,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il pensa : *je te vois, Anne.* Il pensa : *tu ne te souviendras pas de moi.* Il pensa : *c'est bien.*"
+     "s": "*Je te vois, Anne.* Il pensa : *tu ne te souviendras pas de moi.* *C'est bien.*"
     },
     {
      "t": "p",
@@ -36679,7 +36679,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il avait compris cela, tout à coup, en le disant. Il avait parlé sans réfléchir, la gorge serrée. Il sut, à l'instant, que c'était vrai : que ceux qu'il aimait, quand il partirait, ne garderaient de lui qu'une ombre, une impression, un manque sans nom. Il le savait depuis les carnets. Il le comprenait maintenant, dans son corps. Il pensa à une femme qui avait oublié un homme, pendant dix-huit ans. Il pensa : *voilà donc ce qu'elle a vécu.*"
+     "s": "Il avait compris cela, tout à coup, en le disant. Il avait parlé sans réfléchir, la gorge serrée. Il sut, à l'instant, que c'était vrai : que ceux qu'il aimait, quand il partirait, ne garderaient de lui qu'une ombre, une impression, un manque sans nom. Il le savait depuis les carnets. Il le comprenait maintenant, dans son corps. Il pensa à une femme qui avait oublié un homme, pendant dix-huit ans. *Voilà donc ce qu'elle a vécu.*"
     },
     {
      "t": "hr"
@@ -36706,7 +36706,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il se redressa. Il regarda la maison, la terrasse, les pommiers, le chemin. Il enregistra tout, avec cette mémoire froide qui était la sienne, comme on grave sur une plaque. Il pensa : *voilà ce que je laisse.* Il pensa : *voilà ce que j'emporte.*"
+     "s": "Il se redressa. Il regarda la maison, la terrasse, les pommiers, le chemin. Il enregistra tout, avec cette mémoire froide qui était la sienne, comme on grave sur une plaque. Il pensa : *voilà ce que je laisse.* *Voilà ce que j'emporte.*"
     },
     {
      "t": "p",
@@ -36725,7 +36725,7 @@ window.BOOK = {
      "s": "Il le garda toute sa vie."
     }
    ],
-   "words": 1053,
+   "words": 1041,
    "tome": 3
   },
   {
@@ -37348,7 +37348,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle se leva. Elle contourna la table. Elle l'entoura de ses bras, d'un geste brusque, maladroit, en lui écrasant le nez contre son épaule. Il sentait la laine mouillée, la graisse de mouton, l'odeur de la jeunesse. Il ferma les yeux. Il pensa : *elle a ses mains.* Il pensa : *elle a ses yeux.* Il ne savait plus de qui."
+     "s": "Elle se leva. Elle contourna la table. Elle l'entoura de ses bras, d'un geste brusque, maladroit, en lui écrasant le nez contre son épaule. Il sentait la laine mouillée, la graisse de mouton, l'odeur de la jeunesse. Il ferma les yeux. *Elle a ses mains.* Il pensa : *elle a ses yeux.* Il ne savait plus de qui."
     },
     {
      "t": "p",
@@ -37446,7 +37446,7 @@ window.BOOK = {
      "s": "Puis il sortit, sans bruit, comme on sort d'une église."
     }
    ],
-   "words": 976,
+   "words": 973,
    "tome": 3
   },
   {
@@ -37612,7 +37612,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Kerr rit. Il rit d'un rire bref, étouffé, qui lui ouvrit la poitrine. Il pensa : *c'est ça, la dernière chose que je dirai à mon père : le joint.* Il pensa que c'était parfait."
+     "s": "Kerr rit. Il rit d'un rire bref, étouffé, qui lui ouvrit la poitrine. *C'est ça, la dernière chose que je dirai à mon père : le joint.* Il pensa que c'était parfait."
     },
     {
      "t": "hr"
@@ -37718,7 +37718,7 @@ window.BOOK = {
      "s": "Il remonta l'escalier. Dans la cour, le jour se levait. La lampe, derrière lui, brûlait encore."
     }
    ],
-   "words": 1071,
+   "words": 1068,
    "tome": 3
   },
   {
@@ -38042,7 +38042,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle sourit. Elle continua son chemin. Elle pensa : *drôle d'homme.* Elle pensa : *il parle comme quelqu'un qui n'a pas le droit.* Elle oublia, dans la journée."
+     "s": "Elle sourit. Elle continua son chemin. *Drôle d'homme.* Elle pensa : *il parle comme quelqu'un qui n'a pas le droit.* Elle oublia, dans la journée."
     },
     {
      "t": "hr"
@@ -38259,7 +38259,7 @@ window.BOOK = {
      "s": "Il resta dans sa poche jusqu'à sa mort."
     }
    ],
-   "words": 894,
+   "words": 891,
    "tome": 3
   },
   {
@@ -38412,7 +38412,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il se contenta de serrer contre lui le petit paquet chaud, sa fille, son sang, sa surprise. Il pensa à un homme sur un muret, à un geste, à une craie. Il pensa : *je ne t'ai pas connu.* Il pensa : *mais je t'ai reconnu.*"
+     "s": "Il se contenta de serrer contre lui le petit paquet chaud, sa fille, son sang, sa surprise. Il pensa à un homme sur un muret, à un geste, à une craie. *Je ne t'ai pas connu.* *Mais je t'ai reconnu.*"
     },
     {
      "t": "p",
@@ -38435,7 +38435,7 @@ window.BOOK = {
      "s": "Et c'est tout."
     }
    ],
-   "words": 810,
+   "words": 804,
    "tome": 3
   },
   {
@@ -38477,7 +38477,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "K. ne voyait rien. Il n'avait pas besoin de voir. Il avait les mesures. Le champ montait, sur son écran, par à-coups : deux présences dans un seul lieu, deux courbes qui se frôlaient, se croisaient, se mêlaient. Il se dit : *c'est la rencontre.*"
+     "s": "K. ne voyait rien. Il n'avait pas besoin de voir. Il avait les mesures. Le champ montait, sur son écran, par à-coups : deux présences dans un seul lieu, deux courbes qui se frôlaient, se croisaient, se mêlaient. *C'est la rencontre.*"
     },
     {
      "t": "p",
@@ -38497,7 +38497,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il pensa à une femme de cinquante-sept ans, assise sur un lit de Lyon, en janvier 2066, qui disait à un homme de quatre-vingt-cinq ans : « Il faut que je parte. » Il pensa à elle, à sa voix, à la façon dont elle avait posé la main sur son front. Il pensa : *elle ne m'a jamais reconnu.* Il pensa : *moi non plus, quand je l'ai revue.*"
+     "s": "Il pensa à une femme de cinquante-sept ans, assise sur un lit de Lyon, en janvier 2066, qui disait à un homme de quatre-vingt-cinq ans : « Il faut que je parte. » Il pensa à elle, à sa voix, à la façon dont elle avait posé la main sur son front. *Elle ne m'a jamais reconnu.* Il pensa : *moi non plus, quand je l'ai revue.*"
     },
     {
      "t": "p",
@@ -38552,7 +38552,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle repartit. Il la regarda s'éloigner, de dos, les épaules rentrées, vers la route. Il pensa : *elle ne le saura jamais.* Il pensa : *elle a donné ce qu'elle avait, et elle ne sait pas à qui.* Il pensa : *c'est comme ça que tout commence.*"
+     "s": "Elle repartit. Il la regarda s'éloigner, de dos, les épaules rentrées, vers la route. *Elle ne le saura jamais.* *Elle a donné ce qu'elle avait, et elle ne sait pas à qui.* Il pensa : *c'est comme ça que tout commence.*"
     },
     {
      "t": "p",
@@ -38587,7 +38587,7 @@ window.BOOK = {
      "s": "Au matin, le lac sans eau était gris, immobile, déserté. Il ne restait, au pied du barrage, qu'un dessin à la craie, que le soleil effaça."
     }
    ],
-   "words": 977,
+   "words": 964,
    "tome": 3
   },
   {
@@ -38641,7 +38641,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il pensa : *elle ne saura jamais.* Il pensa : *c'est ce que les carnets appellent un coût.* Il serra l'aiguille."
+     "s": "*Elle ne saura jamais.* *C'est ce que les carnets appellent un coût.* Il serra l'aiguille."
     },
     {
      "t": "p",
@@ -38680,7 +38680,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il pensa : *voilà. C'est fait.*"
+     "s": "*Voilà. C'est fait.*"
     },
     {
      "t": "p",
@@ -38708,14 +38708,14 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il pensa : *C'est un garçon.*"
+     "s": "*C'est un garçon.*"
     },
     {
      "t": "p",
      "s": "*Un garçon qui va à l'école.*"
     }
    ],
-   "words": 1017,
+   "words": 1005,
    "tome": 3
   },
   {
@@ -39212,14 +39212,14 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il se dit : *pas encore.*"
+     "s": "*Pas encore.*"
     },
     {
      "t": "p",
-     "s": "Il se dit : *mais bientôt.*"
+     "s": "*Mais bientôt.*"
     }
    ],
-   "words": 981,
+   "words": 973,
    "tome": 3
   },
   {
@@ -39277,7 +39277,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il s'accroupit. Il posa la main à plat sur la pierre, froide, humide, rugueuse. Il pensa : *elle l'a attendu quarante ans.* Il pensa : *elle l'a attendu dans un homme qui n'était pas lui.* Il pensa que la famille de Rose avait, dans son sang, une phrase, comme tout le monde, que personne ne disait jamais : *il y a toujours quelqu'un qui reste.*"
+     "s": "Il s'accroupit. Il posa la main à plat sur la pierre, froide, humide, rugueuse. Il pensa : *elle l'a attendu quarante ans.* *Elle l'a attendu dans un homme qui n'était pas lui.* Il pensa que la famille de Rose avait, dans son sang, une phrase, comme tout le monde, que personne ne disait jamais : *il y a toujours quelqu'un qui reste.*"
     },
     {
      "t": "p",
@@ -39386,7 +39386,7 @@ window.BOOK = {
      "s": "Mais le soir, les trois mots étaient dans la pierre."
     }
    ],
-   "words": 1040,
+   "words": 1037,
    "tome": 3
   },
   {
@@ -39888,7 +39888,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il le regarda comme on regarde, après une longue absence, la silhouette qu'on a cru perdre au coin d'une rue. Il ne pensa pas : *c'est impossible.* Il pensa : *il a le front d'Iris.* Il pensa : *il a ses mains.* Il pensa, absurdement, que la cuillère, dans la casserole, était en train de brûler."
+     "s": "Il le regarda comme on regarde, après une longue absence, la silhouette qu'on a cru perdre au coin d'une rue. Il ne pensa pas : *c'est impossible.* *Il a le front d'Iris.* Il pensa : *il a ses mains.* Il pensa, absurdement, que la cuillère, dans la casserole, était en train de brûler."
     },
     {
      "t": "p",
@@ -40007,7 +40007,7 @@ window.BOOK = {
      "s": "Ils mangèrent."
     }
    ],
-   "words": 911,
+   "words": 908,
    "tome": 3
   },
   {
@@ -40596,11 +40596,11 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle pensa : *je ne la verrai pas grandir.*"
+     "s": "*Je ne la verrai pas grandir.*"
     },
     {
      "t": "p",
-     "s": "Elle pensa : *je la verrai naître.*"
+     "s": "*Je la verrai naître.*"
     },
     {
      "t": "p",
@@ -40745,7 +40745,7 @@ window.BOOK = {
      "s": "Au rez-de-chaussée, dans la cuisine, les lentilles refroidissaient, trop salées, dans la casserole oubliée."
     }
    ],
-   "words": 925,
+   "words": 919,
    "tome": 3
   },
   {

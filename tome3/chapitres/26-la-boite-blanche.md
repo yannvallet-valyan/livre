@@ -8,7 +8,7 @@ Elle arriva un mardi de septembre 2063, en voiture de société, avec une mallet
 
 *Lise.*
 
-Il se dit : *je ne peux rien faire.* Il se dit : *je peux tout faire.* Il se dit les deux, à voix basse, jusqu'à ce que les mots n'aient plus de sens.
+Il se dit : *je ne peux rien faire.* *Je peux tout faire.* Il se dit les deux, à voix basse, jusqu'à ce que les mots n'aient plus de sens.
 
 Il connaissait la suite. Elle serait aimable. Elle poserait une boîte blanche sur la table. Elle dirait : *je te le demande comme une amie.* Iris dirait non. Sacha, treize ans, dans un coin, lèverait à peine les yeux de son livre. Théo, debout près de la fenêtre, ne dirait rien.
 

@@ -6,7 +6,7 @@ Il avait décidé de ne pas la faire, cette nuit-là. Il la fit.
 
 Il se leva à trois heures, dans le noir, sans réveiller Iris. Il avait préparé la tisane la veille, avec le mélange que lui avait donné Étienne pour dormir : trois feuilles de mélisse, un peu de valériane, une pincée de pavot. Il l'avait versée dans la tasse, d'une main égale, et l'avait posée sur la table de nuit, de son côté. Elle avait bu. Elle avait dit : « Merci. » Elle s'était endormie, la tête sur son bras. Il avait senti, sous sa nuque, le poids de sa tête, tiède, absolu.
 
-Il se dégagea. Il se leva. Il resta debout au pied du lit, un long moment, dans le froid, à la regarder dormir.
+Il se dégagea, se leva, et demeura au pied du lit, dans le froid, à la regarder dormir.
 
 *C'est la dernière fois que je te vois comme ça,* pensa-t-il.
 
@@ -34,7 +34,7 @@ Il serra la main plus fort.
 
 — J'ai quelque chose pour toi. Tu ne le sentiras pas. Ce sera très doux. C'est un éclat de ce qui t'a pris. Il va te porter ailleurs. Ton corps restera ici, vide, et ils diront que tu es parti devant. Toi, tu seras dans la roche, dans l'eau, dans la nuit. Tu ne seras pas seul.
 
-Il sortit de sa poche un petit éclat rouge, de la taille d'un grain de blé, tiède, légèrement luisant. Il le tint entre le pouce et le majeur, très haut, comme on tient un crayon. Il le regarda un instant. Il pensa à un autre éclat, posé sur un front, dans une autre chambre, un jour qu'il n'avait pas vécu. Il pensa à son propre père, qu'il ne connaîtrait jamais. Il pensa : *je suis en train de faire ce qu'on m'a fait.*
+Il sortit de sa poche un petit éclat rouge, de la taille d'un grain de blé, tiède, légèrement luisant. Il le tint entre le pouce et le majeur, très haut, comme on tient un crayon. Il le regarda un instant. Il pensa à un autre éclat, posé sur un front, dans une autre chambre, un jour qu'il n'avait pas vécu. Il pensa à son propre père, qu'il ne connaîtrait jamais. *Je suis en train de faire ce qu'on m'a fait.*
 
 *Non*, se dit-il. *Moi, je sais pourquoi.*
 
@@ -48,7 +48,7 @@ Il se pencha. Il posa l'éclat sur le front de l'enfant. Il dit, si bas qu'il cr
 
 — Tu te souviens ? Je te l'ai appris. Ton père sait ce qu'il fait. Ton père sait exactement ce qu'il fait.
 
-Il ferma les yeux. Il sentit, dans sa poitrine, quelque chose de très lourd, très ancien, se mettre à bouger. Il pensa à la plage d'Annecy. Il pensa à un garçon de cinq ans dans un maillot rayé. Il pensa à un autre, de seize ans, avec un gâteau et une bougie. Il pensa à Théo. Il pensa : *tous.* Il pensa : *j'en ai pris trois.* Il eut envie de se lever, de hurler, de briser la fenêtre, de sortir dans la neige, de crier. Il resta assis.
+Il ferma les yeux. Une masse très lourde, très ancienne, se mit à bouger dans sa poitrine. La plage d'Annecy. Un garçon de cinq ans dans un maillot rayé. Un autre, de seize ans, avec un gâteau et une bougie. Théo. *Tous. J'en ai pris trois.* Il eut envie de se lever, de hurler, de briser la fenêtre, de sortir dans la neige. Il ne bougea pas.
 
 Il compta, avec lui. Un. Deux. Trois. Il ne savait pas s'il comptait pour l'enfant ou pour lui. Il sentit la main dans la sienne se réchauffer, très légèrement. Il sentit le petit corps, sous la couverture, se tendre, puis se détendre, très doucement, comme celui d'un enfant qui s'endort.
 
@@ -68,19 +68,19 @@ Il retira la main.
 
 ---
 
-Il resta jusqu'à l'aube, au bord du lit, sans bouger. Il regardait le visage de Sacha, qui s'était apaisé. Les yeux, toujours ouverts, ne voyaient plus. La bouche s'était entrouverte, comme pour dire quelque chose. Il y avait, sur le front, la trace minuscule d'un point rouge, à peine plus grand qu'une piqûre, qui s'estompait. Il pensa : *c'est fait.*
+Il veilla jusqu'à l'aube, au bord du lit, le regard sur le visage de Sacha, qui s'était apaisé. Les yeux, toujours ouverts, ne voyaient plus. La bouche s'était entrouverte, comme pour dire un dernier mot. Sur le front, la trace minuscule d'un point rouge, à peine plus grand qu'une piqûre, qui s'estompait. *C'est fait.*
 
-Il pensa : *il est parti.*
+*Il est parti.*
 
-Il ne pleura pas. Il ne le pouvait plus. Il y avait en lui un grand pays sec, où les larmes ne poussent pas. Il se leva, à six heures. Il sortit de la chambre. Il traversa le couloir. La porte d'à côté était entrouverte. Il ne regarda pas. Il descendit l'escalier.
+Il ne pleura pas. Il ne le pouvait plus : en lui s'étendait un grand pays sec, où les larmes ne poussent pas. À six heures, il se leva, sortit de la chambre, traversa le couloir. La porte d'à côté était entrouverte. Il ne regarda pas. Il descendit l'escalier.
 
 Dans la cuisine, la tasse de tisane était posée sur la table, vide. Il la prit. Il la lava. Il la rangea à sa place, sur l'étagère, entre deux assiettes.
 
 Il se mit à pleurer.
 
-Il pleura longtemps, debout devant l'évier, les mains dans l'eau, sans bruit, ainsi qu'on pleure quand on a trop attendu. Il pleura sur un enfant de quinze ans. Il pleura sur un autre, de seize. Il pleura sur un homme qu'il n'avait jamais vu. Il pleura sur la femme qui dormait, ou faisait semblant, au premier étage. Il pleura sur tous ceux qui avaient été, et seraient, à cause d'un mot qu'il avait écrit une nuit d'octobre : *Que la boucle tourne.*
+Il pleura, debout devant l'évier, les mains dans l'eau, sans bruit, de ces larmes qui viennent quand on a trop attendu. Il pleura sur un enfant de quinze ans. Il pleura sur un autre, de seize. Il pleura sur un homme qu'il n'avait jamais vu. Il pleura sur la femme qui dormait, ou faisait semblant, au premier étage. Il pleura sur tous ceux qui avaient été, et seraient, à cause d'un mot qu'il avait écrit une nuit d'octobre : *Que la boucle tourne.*
 
-Il pensa, très clairement, pour la première fois :
+Il le sut, très clairement, pour la première fois :
 
 *Je ne le referai pas.*
 

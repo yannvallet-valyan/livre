@@ -48,7 +48,7 @@ Il apprit les gestes de Bastien en trois jours. Sa poignée de main, le sourire 
 
 Il lut tout ce qu'il y avait à lire. Les rapports de culture, le plan des bacs, le cahier des volontaires. Il alla voir, une nuit, la salle du fond. Il regarda longuement les aiguilles rouges, dans la vase, qui s'étaient inclinées vers lui, toutes ensemble, comme des herbes sous le vent.
 
-Il se dit : *c'est elle.* Il se dit : *c'est d'ici que tout vient.*
+*C'est elle.* *C'est d'ici que tout vient.*
 
 Il sortit sur le parking à minuit. Le barrage grondait. Au flanc du mur, une petite cabine allumée. Il leva les yeux. Une silhouette, dans la fenêtre. Un vieil homme, qui ne le regardait pas, ou qui regardait à côté.
 

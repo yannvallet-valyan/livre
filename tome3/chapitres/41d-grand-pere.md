@@ -56,7 +56,7 @@ Il se leva. Il fit le tour de la table. Il s'arrêta à un mètre. Il avait, sur
 
 Noé le regarda.
 
-Il le regarda comme on regarde, après une longue absence, la silhouette qu'on a cru perdre au coin d'une rue. Il ne pensa pas : *c'est impossible.* Il pensa : *il a le front d'Iris.* Il pensa : *il a ses mains.* Il pensa, absurdement, que la cuillère, dans la casserole, était en train de brûler.
+Il le regarda comme on regarde, après une longue absence, la silhouette qu'on a cru perdre au coin d'une rue. Il ne pensa pas : *c'est impossible.* *Il a le front d'Iris.* Il pensa : *il a ses mains.* Il pensa, absurdement, que la cuillère, dans la casserole, était en train de brûler.
 
 — Sacha, dit-il.
 

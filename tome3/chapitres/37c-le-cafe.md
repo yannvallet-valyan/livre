@@ -24,7 +24,7 @@ Il ouvrit la bouche, comme pour accepter. Puis son visage se ferma d'un seul cou
 
 — Oui, dit-il. Beaucoup.
 
-Elle sourit. Elle continua son chemin. Elle pensa : *drôle d'homme.* Elle pensa : *il parle comme quelqu'un qui n'a pas le droit.* Elle oublia, dans la journée.
+Elle sourit. Elle continua son chemin. *Drôle d'homme.* Elle pensa : *il parle comme quelqu'un qui n'a pas le droit.* Elle oublia, dans la journée.
 
 ---
 

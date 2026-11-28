@@ -8,7 +8,7 @@ Il se tint debout à côté d'elle, les mains dans les poches de son manteau, le
 
 Il regarda le cercueil descendre. C'était du sapin clair, sans vernis, que le menuisier du village avait préparé en deux jours. Il regarda la terre tomber dessus, une pelletée, deux, trois. Il compta. Il pensa à une petite voix dans un dortoir, un soir de juin, qui demandait : *Vous avez un crayon ?* Il pensa à une autre, très loin, dans un autre siècle, qui demanderait : *Vous êtes mon père ?*
 
-Il fit un pas. Il s'arrêta. Il regarda le trou. Il se dit : *c'est ici que je les laisse.*
+Il fit un pas. Il s'arrêta. Il regarda le trou. *C'est ici que je les laisse.*
 
 Il ne dit rien. À côté de lui, Étienne, très pâle, se tenait droit, la canne à la main. Il avait, ce jour-là, quatre-vingt-cinq ans. Il en paraissait cent. Il ne pleurait pas. Il regardait la tombe avec une attention de médecin.
 
@@ -34,7 +34,7 @@ Il partit cette nuit-là.
 
 Il ne prit pas de valise. Il laissa sur la table de la cuisine un mot, d'une écriture fine, droite, qu'il avait recopié trois fois : *Pardon. Je ne pouvais pas faire autrement. Compte. — T.* Il le relut. Il le trouva trop court. Il le trouva trop long. Il le posa sur la nappe, entre deux tasses, à la place exacte où elle poserait ses mains en le lisant.
 
-Il demeura un instant debout dans l'obscurité. Il regarda la pièce : le poêle éteint, la table, l'étagère. Il regarda l'escalier. Il pensa : *elle dort en haut.* Il ne monta pas. Il se dit qu'il n'en avait pas le droit. Il se dit aussi qu'il n'en avait pas la force.
+Il demeura un instant debout dans l'obscurité. Il regarda la pièce : le poêle éteint, la table, l'étagère. Il regarda l'escalier. *Elle dort en haut.* Il ne monta pas. Il se dit qu'il n'en avait pas le droit. Il se dit aussi qu'il n'en avait pas la force.
 
 Il sortit.
 

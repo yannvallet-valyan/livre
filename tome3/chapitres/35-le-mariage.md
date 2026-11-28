@@ -46,7 +46,7 @@ Il retint la voix de l'officiant, un vieux régisseur au timbre fêlé, qui lisa
 
 Il retint la manière dont Tanguy, au moment de dire oui, perdit la voix. Il ouvrit la bouche ; rien ne sortit. Il toussa. Il rougit. Il dit : « Oui », trop fort, et toute la cour éclata de rire. Lucie rit aussi, en pleurant. Elle prit la main de Tanguy, qu'elle serra contre sa joue.
 
-Il retint le moment où il tendit la bague. Il la sentit glisser au doigt de Lucie. Il y eut un clic très léger, métallique, qu'il entendit, lui seul. Il pensa : *voilà.* Il pensa : *cela existe, quelque part, un instant où tout est à sa place.*
+Il retint le moment où il tendit la bague. Il la sentit glisser au doigt de Lucie. Il y eut un clic très léger, métallique, qu'il entendit, lui seul. *Voilà.* Il pensa : *cela existe, quelque part, un instant où tout est à sa place.*
 
 Il retint que personne, à ce moment-là, ne le regardait. Il était le témoin. Il se tenait derrière, un peu de côté, dans l'ombre d'un tilleul. Il pouvait pleurer, sans qu'on le voie. Il pleura.
 
@@ -96,7 +96,7 @@ Il n'y avait pas grand monde, une trentaine de personnes qui dansaient sur les d
 
 Kerr ne dansa pas. Il s'assit au bord, sur un muret, un verre à la main. Une jeune fille s'approcha, rousse aussi, une cousine de Lucie. Elle lui dit : « Vous ne dansez pas ? » Il répondit : « Je ne sais pas. » Elle dit : « Moi non plus. » Ils dansèrent. Elle s'appelait Nolwenn. Elle avait de grands yeux verts, des mains sèches. Elle parlait un peu trop vite. Elle lui demanda ce qu'il faisait dans la vie ; il dit : « Je tiens les clés. » Elle dit : « C'est un beau métier. » Il sourit.
 
-Il pensa : *ce serait possible.* Il pensa : *une vie comme ça.* Il pensa à une maison, à des enfants, à un matin où l'on se réveille sans compter. Il regarda Nolwenn. Il se dit : *je pourrais.*
+*Ce serait possible.* *Une vie comme ça.* Il pensa à une maison, à des enfants, à un matin où l'on se réveille sans compter. Il regarda Nolwenn. Il se dit : *je pourrais.*
 
 Il se dit aussi, dans le même souffle : *non.*
 

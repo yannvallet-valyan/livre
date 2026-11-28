@@ -26,7 +26,7 @@ Il savait cela. Il en avait pleuré.
 
 Il ne savait pas pourquoi cette tombe, plus qu'une autre, lui faisait si mal.
 
-Il s'accroupit. Il posa la main à plat sur la pierre, froide, humide, rugueuse. Il pensa : *elle l'a attendu quarante ans.* Il pensa : *elle l'a attendu dans un homme qui n'était pas lui.* Il pensa que la famille de Rose avait, dans son sang, une phrase, comme tout le monde, que personne ne disait jamais : *il y a toujours quelqu'un qui reste.*
+Il s'accroupit. Il posa la main à plat sur la pierre, froide, humide, rugueuse. Il pensa : *elle l'a attendu quarante ans.* *Elle l'a attendu dans un homme qui n'était pas lui.* Il pensa que la famille de Rose avait, dans son sang, une phrase, comme tout le monde, que personne ne disait jamais : *il y a toujours quelqu'un qui reste.*
 
 Il sortit la craie de sa poche.
 

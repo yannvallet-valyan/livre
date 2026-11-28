@@ -44,9 +44,9 @@ Il sourit. Il avait le visage d'Étienne, ses rides, sa cicatrice. Mais c'était
 
 Élise ne répondit pas. Elle regarda, derrière lui, les deux hommes assis à la table : le directeur au costume sombre, les mains à plat, les yeux baissés, qui avait cessé de respirer. Elle pensa à un garçon qu'elle n'avait pas encore vu, à un autre, plus âgé, qui lui avait tendu une assiette de lentilles. Elle pensa à une petite fille de sept ans dans une bibliothèque.
 
-Elle pensa : *je ne la verrai pas grandir.*
+*Je ne la verrai pas grandir.*
 
-Elle pensa : *je la verrai naître.*
+*Je la verrai naître.*
 
 Elle tendit la main.
 

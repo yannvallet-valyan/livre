@@ -74,7 +74,7 @@ Il dit : « Non. De passage. »
 
 Elle ne comprit pas. Il ne chercha pas à expliquer.
 
-Il se contenta de serrer contre lui le petit paquet chaud, sa fille, son sang, sa surprise. Il pensa à un homme sur un muret, à un geste, à une craie. Il pensa : *je ne t'ai pas connu.* Il pensa : *mais je t'ai reconnu.*
+Il se contenta de serrer contre lui le petit paquet chaud, sa fille, son sang, sa surprise. Il pensa à un homme sur un muret, à un geste, à une craie. *Je ne t'ai pas connu.* *Mais je t'ai reconnu.*
 
 Il pensa : *merci pour les lentilles.*
 

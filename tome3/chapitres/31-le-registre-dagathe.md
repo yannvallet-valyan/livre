@@ -16,7 +16,7 @@ Il était assis en face d'elle, sur le lit de camp, les mains sur les cuisses. I
 
 — Je comprendrai ce que je peux.
 
-Elle le regarda. Elle pensa : *ce n'est pas un enfant.* Elle ouvrit le registre à la page du 14 novembre 2159. Elle lut, d'une voix posée, à la façon dont on lit une prière :
+Elle le regarda. *Ce n'est pas un enfant.* Elle ouvrit le registre à la page du 14 novembre 2159. Elle lut, d'une voix posée, à la façon dont on lit une prière :
 
 *« Parti devant, cet automne : moi. Je le sais depuis mars. Je n'en dirai rien à personne. Je crois que c'est la seule fois de ma vie où je choisis.*
 

@@ -28,7 +28,7 @@ Il écrivit : *On n'habite l'ancêtre que lorsqu'il dort.*
 
 C'était faux. Il le savait mieux que personne. Il avait vécu dix-huit jours en plein jour dans la peau d'un homme éveillé. Il savait que le sommeil n'était pas une condition, qu'on pouvait entrer et rester quand on voulait, de force, de ruse, par politesse. Il savait que cette règle ne tenait que si on la croyait. Il savait aussi que si on la croyait, personne n'irait voler le jour.
 
-Il l'écrivit comme une loi. Il l'écrivit avec la tranquillité d'un homme qui se fait un cadeau à lui-même, et qui n'a pas honte. Il pensa : *les autres ne sauront pas. Ils dormiront. Ils prendront la nuit seulement. Ils ne feront pas ce que je fais.*
+Il l'écrivit comme une loi. Il l'écrivit avec la tranquillité d'un homme qui se fait un cadeau à lui-même, et qui n'a pas honte. *Les autres ne sauront pas. Ils dormiront. Ils prendront la nuit seulement. Ils ne feront pas ce que je fais.*
 
 *Ils ne feront pas ce que je fais,* répéta-t-il à voix haute, dans la pièce vide.
 
