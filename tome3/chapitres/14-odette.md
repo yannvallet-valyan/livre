@@ -4,7 +4,7 @@
 
 Elle arriva à Vallorce-le-Bas par la boulangerie.
 
-C'est ce qu'elle se rappellerait toujours : l'odeur. Une odeur de pain brûlé, de farine chaude, de levain qui travaille dans les murs. Elle ouvrit les yeux dans un lit de bois, sous un édredon de plume, à côté d'un homme qui ronflait. Il y avait de la lumière à la fenêtre, très pâle, et un coq. Elle resta immobile. Elle compta jusqu'à cinquante-neuf, à voix basse, comme on le lui avait appris, et le corps ne résista pas.
+C'est ce qu'elle se rappellerait toujours : l'odeur. Une odeur de pain brûlé, de farine chaude, de levain qui travaille dans les murs. Elle ouvrit les yeux dans un lit de bois, sous un édredon de plume, à côté d'un homme qui ronflait. Il y avait de la lumière à la fenêtre, très pâle, et un coq. Elle resta immobile. Elle compta jusqu'à cinquante-neuf, à voix basse, à la façon dont on le lui avait appris, et le corps ne résista pas.
 
 C'était un mardi de juin 1958. Elle avait trente ans, depuis six jours, dans la tête. Elle en avait vingt-huit dans les mains.
 
@@ -88,7 +88,7 @@ Elle ne s'en excusa pas. Elle se leva, remit ses chaussures, partit la première
 
 Elle lui mentit en août.
 
-Elle ne l'avait pas décidé comme on décide un crime. Elle l'avait décidé comme on décide de marcher : parce qu'il n'y avait pas d'autre chemin. L'autre avait saboté la pompe. Un homme avait été blessé. L'autre voulait recommencer. Elle l'avait vue, de sa fenêtre, rentrer à l'aube avec la clé à molette sous le tablier, les yeux creux, les pieds en sang. Elle avait compris qu'elle n'arrêterait pas.
+Elle ne l'avait pas décidé ainsi qu'on décide un crime. Elle l'avait décidé à la façon dont on décide de marcher : parce qu'il n'y avait pas d'autre chemin. L'autre avait saboté la pompe. Un homme avait été blessé. L'autre voulait recommencer. Elle l'avait vue, de sa fenêtre, rentrer à l'aube avec la clé à molette sous le tablier, les yeux creux, les pieds en sang. Elle avait compris qu'elle n'arrêterait pas.
 
 Elle lui dit : « Laissez le lac venir. Je vous dirai comment sauver votre fils. »
 
@@ -172,7 +172,7 @@ Il l'attendait dans le couloir sud. Il avait son visage de garçon vide, ses yeu
 
 — Oui.
 
-Il la regarda longtemps. Il dit :
+Il la regarda longuement. Il dit :
 
 — Il y a une chose que je n'ai jamais osé vous demander.
 
@@ -202,7 +202,7 @@ Elle ne dit rien. Elle le prit dans ses bras. Elle sentit contre elle un corps m
 
 — Je sais, dit-il. Je me suis assis moi-même.
 
-Il lui tint la tête contre lui, longtemps. Elle pleura. Il ne dit rien. Il resta debout dans le couloir, les bras autour d'elle, comme on reste debout au bord d'un puits, avec l'impression très calme d'avoir toujours su.
+Il lui tint la tête contre lui, longtemps. Elle pleura. Il ne dit rien. Il se tint debout dans le couloir, les bras autour d'elle, ainsi qu'on reste debout au bord d'un puits, avec l'impression très calme d'avoir toujours su.
 
 *Quelqu'un doit être là,* pensa-t-il.
 

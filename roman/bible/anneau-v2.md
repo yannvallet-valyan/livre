@@ -48,7 +48,7 @@
 - **L'origine de la Rouille.** La boucle n'a pas d'origine ; la maladie en a peut-être une. Walther sait que le barrage a été posé *exactement* sur la veine, par la Compagnie, qui savait.
 - **La création du voyage.** Qui, avant le manuel de Kerr, a su remonter le sang ? La Compagnie de 1955 avait un registre de « sujets ».
 - **Les tours.** Qu'est-ce qui fait qu'une réalité est « réécrite » ? Les cahiers de K. ne contiennent pas la réponse.
-- **Les hôtes sans nom.** Tobie, Théo, Mael : qui était le garçon avant ? Y a-t-il moyen de les rendre ?
+- **Les hôtes sans nom.** Tobie, Théo, Tanguy : qui était le garçon avant ? Y a-t-il moyen de les rendre ?
 
 ## 6. Définition de la paternité (règle de lecture)
 - **Père génétique** : le corps de Tobie (descendant de Léa Kerr, de Bastien, de Walther). Il n'a pas de conscience : c'est un hôte vide, sans volonté.

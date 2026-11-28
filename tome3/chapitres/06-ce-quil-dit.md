@@ -4,7 +4,7 @@
 
 Il fallut deux ans à Iris pour apprendre son nom.
 
-Ce ne fut pas lui qui le lui dit. Ce fut Ruben, un soir de l'hiver 2152, à la lueur d'une lampe à huile, dans la salle du fond, alors qu'elle lisait à voix haute un registre de naissances et que l'homme dans le corps de Tobie, assis au bord du lit, les mains sur les genoux, écoutait comme on écoute la mer. Ruben posa sa tasse. Il dit, sans la regarder :
+Ce ne fut pas lui qui le lui dit. Ce fut Ruben, un soir de l'hiver 2152, à la lueur d'une lampe à huile, dans la salle du fond, alors qu'elle lisait à voix haute un registre de naissances et que l'homme dans le corps de Tobie, assis au bord du lit, les mains sur les genoux, écoutait ainsi qu'on écoute la mer. Ruben posa sa tasse. Il dit, sans la regarder :
 
 — Il s'appelle Sacha.
 
@@ -18,7 +18,7 @@ Elle leva la tête. L'homme, en face d'elle, avait les yeux fermés. Il ne bouge
 
 — Parce que tu aurais voulu savoir le reste.
 
-Elle resta immobile. Elle regarda Ruben. Il avait trente-cinq ans, des cheveux déjà gris, un tremblement léger de la main gauche. Il la regardait avec une tendresse fatiguée, de père, d'homme qui a tout fait pour la protéger et qui s'avoue vaincu.
+Elle ne bougea plus. Elle regarda Ruben. Il avait trente-cinq ans, des cheveux déjà gris, un tremblement léger de la main gauche. Il la regardait avec une tendresse fatiguée, de père, d'homme qui a tout fait pour la protéger et qui s'avoue vaincu.
 
 — Je le lui ai dit, murmura-t-il à l'homme. Elle sait que tu t'appelles Sacha. C'est à toi de lui dire le reste.
 
@@ -80,7 +80,7 @@ Le silence qui suivit fut de ceux qu'on entend dans les os. Iris recula d'un pas
 
 — Je ne suis pas fou.
 
-— Tu es un homme qui ne me connaît pas depuis deux ans, qui me dit qu'il est le fils d'une femme qui a mon front, et que j'ai un enfant à avoir avec lui, parce que c'est écrit. Tu me dis ça comme on annonce la pluie.
+— Tu es un homme qui ne me connaît pas depuis deux ans, qui me dit qu'il est le fils d'une femme qui a mon front, et que j'ai un enfant à avoir avec lui, parce que c'est écrit. Tu me dis ça à la façon dont on annonce la pluie.
 
 — Je ne sais pas comment le dire autrement.
 

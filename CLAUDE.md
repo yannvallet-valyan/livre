@@ -1,6 +1,6 @@
 # La Rouille — consignes pour l'IA
 
-Roman en français, trilogie en cours. **Le tome 1 est écrit** (`roman/chapitres/`, ~72 000 mots). Le tome 2 (`tome2/`) et le tome 3 (`tome3/`) sont en cours d'écriture ; le tome 2 est publié sur le site (lecteur + EPUB).
+Roman en français, trilogie en cours. **Le tome 1 est écrit** (`roman/chapitres/`, ~72 000 mots). Le tome 2 (`tome2/`) et le tome 3 (`tome3/`, premier jet complet ≈ 73 k mots) sont publiés sur le site (lecteur + EPUB).
 
 ## Avant tout
 1. Lire `memoire/README.md` puis `memoire/canon.md` (~2 k tokens). **Ne pas relire tout le roman** : `memoire/chapitres.md` résume chaque fichier.
@@ -23,6 +23,10 @@ Roman en français, trilogie en cours. **Le tome 1 est écrit** (`roman/chapitre
    Si un chapitre du **tome 2** (`tome2/chapitres/`) a changé, régénérer aussi son EPUB (`build-book.js` l'intègre déjà au site, onglet « Le livre ») :
    ```bash
    python3 scripts/build-epub.py --tome 2   # écrit site/la-dame-du-lac.epub
+   ```
+   Idem pour le **tome 3** (`tome3/chapitres/`, publié depuis V3.67) :
+   ```bash
+   python3 scripts/build-epub.py --tome 3   # écrit site/lhomme-du-jour.epub
    ```
 3. Respecter `memoire/style.md` (voix, motifs à ne pas couper, tics).
 

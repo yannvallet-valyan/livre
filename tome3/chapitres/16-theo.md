@@ -1,4 +1,4 @@
-# Chapitre 20 — Théo
+# Chapitre 23 — Théo
 
 *(premier jet)*
 
@@ -14,7 +14,7 @@ Il avait volé Théo. Il l'avait volé à seize ans, un soir d'anniversaire, ave
 
 Il s'assit sur le lit. Il regarda la chambre : les murs gris, le bureau de verre, la bibliothèque bien rangée, la photographie d'un petit garçon en maillot rayé, sur un ponton, qui riait. Il la prit. Il la retourna. Au verso, d'une écriture ronde, d'enfant : *Pour mon frère, que je n'ai pas connu.*
 
-Il resta longtemps immobile. Il la reposa face contre le bois.
+Il demeura immobile. Il la reposa face contre le bois.
 
 ---
 
@@ -24,7 +24,7 @@ Il s'était effondré en début d'après-midi, dans le bureau de verre, au milie
 
 Quand il revint à lui, il ne se rappelait rien.
 
-Il ne se rappelait pas les vingt dernières années comme on se rappelle sa vie : il en avait des morceaux, des dates, des signatures, comme on connaît la vie d'un autre par ses papiers. Il savait qu'il dirigeait Léthé. Il ne savait plus pourquoi il en avait signé les pilules. Il se souvenait de l'été 2026, d'un bureau de verre, d'un homme du ministère, d'un lundi blanc. Puis un grand trou. Puis un matin d'hôpital, une infirmière, un goutte-à-goutte, et un fils.
+Il ne se rappelait pas les vingt dernières années comme on se rappelle sa vie : il en avait des morceaux, des dates, des signatures, ainsi qu'on connaît la vie d'un autre par ses papiers. Il savait qu'il dirigeait Léthé. Il ne savait plus pourquoi il en avait signé les pilules. Il se souvenait de l'été 2026, d'un bureau de verre, d'un homme du ministère, d'un lundi blanc. Puis un grand trou. Puis un matin d'hôpital, une infirmière, un goutte-à-goutte, et un fils.
 
 Un fils de dix-sept ans, debout au pied du lit, en costume sombre, très droit, les mains jointes devant lui.
 
@@ -56,7 +56,7 @@ Il tendit la main. Il la posa sur celle du vieil homme, qui était froide, tach�
 
 Il resta ainsi, la main sur la sienne, jusqu'à ce que la nuit tombe. Bastien finit par s'endormir. Le garçon resta assis à son chevet jusqu'à l'aube, sans bouger, les yeux ouverts, à regarder dormir l'homme qu'il avait habité vingt ans.
 
-Il comprit, en le regardant, qu'il avait pris à cet homme vingt ans de vie. Pas seulement des souvenirs. Une carrière, des visages, une façon de dormir. Bastien ne le savait pas. Il se plaignait, d'une voix douce, qu'on ne lui eût rien dit : que l'infirmière lui parlait comme à un étranger, que ses collaborateurs le saluaient avec des précautions de sacristains, qu'il ne reconnaissait pas son écriture sur les documents qu'on lui tendait. Il fit son deuil, sans le savoir, de ces années qu'il avait vécues sans y être. Il le fit le soir, dans un salon blanc, devant un lac à demi vide, avec un petit sourire, comme on fait celui d'un parent dont on n'a pas été au chevet.
+Il comprit, en le regardant, qu'il avait pris à cet homme vingt ans de vie. Pas seulement des souvenirs. Une carrière, des visages, une façon de dormir. Bastien ne le savait pas. Il se plaignait, d'une voix douce, qu'on ne lui eût rien dit : que l'infirmière lui parlait comme à un étranger, que ses collaborateurs le saluaient avec des précautions de sacristains, qu'il ne reconnaissait pas son écriture sur les documents qu'on lui tendait. Il fit son deuil, sans le savoir, de ces années qu'il avait vécues sans y être. Il le fit le soir, dans un salon blanc, devant un lac à demi vide, avec un petit sourire, à la façon dont on fait celui d'un parent dont on n'a pas été au chevet.
 
 Kerr le regardait faire. Il aurait voulu lui dire : *c'est moi.* Il aurait voulu lui demander pardon. Il se tut.
 
@@ -88,7 +88,7 @@ Il se dit : *ne la regarde pas comme ça.*
 
 Il se dit : *tu as dix-sept ans. Tu es un enfant.*
 
-Il le savait. Il sentit, dans ses os, la jeunesse du corps qu'il avait pris. Il se promit, en la regardant passer, qu'il serait pour elle, longtemps, un ami. Il se promit de ne rien lui demander. Il se promit de la protéger de loin, comme on protège une flamme, jusqu'à ce que le temps vienne, et que le corps qu'il habitait soit un corps d'homme, et qu'elle soit libre de choisir.
+Il le savait. Il sentit, dans ses os, la jeunesse du corps qu'il avait pris. Il se promit, en la regardant passer, qu'il serait pour elle, longtemps, un ami. Il se promit de ne rien lui demander. Il se promit de la protéger de loin, ainsi qu'on protège une flamme, jusqu'à ce que le temps vienne, et que le corps qu'il habitait soit un corps d'homme, et qu'elle soit libre de choisir.
 
 Il ne tint pas toutes ses promesses. Mais il tint celle-là.
 
@@ -100,6 +100,6 @@ Il ne tint pas toutes ses promesses. Mais il tint celle-là.
 
 Ce n'était pas vrai. Il le savait. Il avait lu son nom dans un carnet, il y avait longtemps, à une époque où il n'avait pas encore de corps. Elle ne releva pas.
 
-Il lui offrit, plus tard, un caillou blanc. Il le fit sans y penser. Il avait trouvé, ce matin-là, sur le ponton, une pierre lisse, ronde, de la taille d'un œuf de caille. Il l'avait gardée dans sa poche pendant des mois, avant de la lui donner, le jour de ses dix-neuf ans, comme on donne un objet qu'on a longtemps porté pour quelqu'un d'autre.
+Il lui offrit, plus tard, un caillou blanc. Il le fit sans y penser. Il avait trouvé, ce matin-là, sur le ponton, une pierre lisse, ronde, de la taille d'un œuf de caille. Il l'avait gardée dans sa poche pendant des mois, avant de la lui donner, le jour de ses dix-neuf ans, à la façon dont on donne un objet qu'on a longtemps porté pour quelqu'un d'autre.
 
 Il ne lui dit pas que c'était celui d'un enfant qu'il n'avait pas eu.

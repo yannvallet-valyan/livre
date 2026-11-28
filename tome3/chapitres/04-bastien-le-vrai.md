@@ -10,7 +10,7 @@ Cette nuit-là, il rêva.
 
 Il était dans son bureau, dans le fauteuil de cuir, devant la baie vitrée qui donnait sur le lac. Il y avait une lampe allumée. Il y avait une feuille blanche, un stylo, la main droite qui tenait le stylo. Ce n'était pas sa main. Elle était plus fine, plus assurée, d'une propreté presque inhumaine. Elle écrivait sans trembler. Elle traçait des lignes régulières, sans rature, d'une encre noire qui séchait en brillant.
 
-Il voulut lire. Il ne le put pas. Les mots glissaient. Il comprit que cette main n'écrivait pas pour lui.
+Il voulut lire. Il ne le put pas. Les mots glissaient. Il se rendit compte que cette main n'écrivait pas pour lui.
 
 Il s'entendit parler. Une voix de bureau, polie, un peu lasse, la sienne, qui disait à quelqu'un qu'il ne voyait pas : « Je comprends tout à fait. » Il ne se souvenait d'avoir rien compris. Il sentit sa bouche sourire. C'était un sourire de publicité, bien réglé, que Bastien n'avait jamais su faire.
 
@@ -36,7 +36,7 @@ Il pensait à Théo.
 
 Il y pensait tout le temps, comme on pense à une dent qui manque. Il revoyait un matin d'août 2022, la plage d'Annecy, un petit maillot rayé. Il se rappelait qu'il avait couru le long de l'eau en criant un nom. Il se rappelait trois minutes. Il se rappelait que son fils était là, à trois mètres, sous la surface, les yeux ouverts, et qu'il ne l'avait pas vu.
 
-Il avait voulu oublier ces trois minutes. Il avait fondé Léthé pour cela, il l'avait dit un jour à un journaliste, avec un sourire. Il avait cherché pendant quatre ans une molécule capable de retirer un souvenir précis, comme on enlève une écharde. Il avait fini par comprendre qu'on ne retirait pas un souvenir sans toucher à ce qu'il tenait.
+Il avait voulu oublier ces trois minutes. Il avait fondé Léthé pour cela, il l'avait dit un jour à un journaliste, avec un sourire. Il avait cherché pendant quatre ans une molécule capable de retirer un souvenir précis, ainsi qu'on enlève une écharde. Il avait fini par comprendre qu'on ne retirait pas un souvenir sans toucher à ce qu'il tenait.
 
 Il avait sa photographie sur le bureau. Il la retournait chaque matin, face contre le bois. Il ne supportait pas de la voir. Il ne supportait pas non plus de ne pas la savoir là.
 
@@ -64,8 +64,8 @@ Il resta silencieux. Il ne dit pas : *je n'étais pas là.* Il ne dit pas : *que
 
 — Je vous remercie.
 
-Il alla s'enfermer dans son bureau. Il resta là toute la matinée, les mains jointes, devant la photographie retournée. Il ne pleura pas. Il écouta, au fond de sa tête, un très petit bruit, régulier, doux, comme une porte qu'on referme avec précaution.
+Il alla s'enfermer dans son bureau. Il se tint là toute la matinée, les mains jointes, devant la photographie retournée. Il ne pleura pas. Il écouta, au fond de sa tête, un très petit bruit, régulier, doux, comme une porte qu'on referme avec précaution.
 
-Il comprit qu'il n'était plus seul dans sa maison.
+Il saisit qu'il n'était plus seul dans sa maison.
 
 Il comprit aussi, avec cette lucidité des hommes qui ont tout perdu, qu'il n'avait plus rien à défendre.

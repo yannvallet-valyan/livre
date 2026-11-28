@@ -8,7 +8,7 @@ Kerr le comprit à la fin de la deuxième semaine, un matin de la fin septembre,
 
 Le cahier était ouvert.
 
-Il le regarda comme on regarde un animal qui ne devrait pas être là. Puis il s'assit, lentement, et le fit glisser vers lui.
+Il le regarda à la façon dont on regarde un animal qui ne devrait pas être là. Puis il s'assit, lentement, et le fit glisser vers lui.
 
 Il y avait, sous ses trois lignes, une écriture qu'il connaissait. Fine, régulière, d'une propreté presque typographique. Une écriture qui ne rature pas, qui ne tremble pas, qui trace chaque lettre comme on tire un fil à plomb. Il l'avait vue des centaines de fois, dans les carnets de son père, dans les lignes du refuge, dans les marges des manuels. C'était l'écriture qu'il avait apprise à l'école, à six ans, de la main d'Agathe, en recopiant un modèle. Il avait appris à écrire en imitant la main d'un homme qu'il n'avait jamais vu.
 
@@ -28,7 +28,7 @@ Il ne dormait plus. Il avait appris à ne pas dormir pendant les premières sema
 
 Vers deux heures du matin, il sentit quelque chose.
 
-Ce fut d'abord un frémissement, un changement de pression, comme quand on descend dans un tunnel. Puis une présence, légère, patiente, qui s'insinuait doucement dans le corps comme on entre dans une maison où l'on a toujours habité. Il voulut résister. Il n'y parvint pas. Il comprit qu'on n'entrait pas contre lui, qu'on entrait *avec* lui, par une porte qu'il avait lui-même laissée ouverte.
+Ce fut d'abord un frémissement, un changement de pression, comme quand on descend dans un tunnel. Puis une présence, légère, patiente, qui s'insinuait doucement dans le corps ainsi qu'on entre dans une maison où l'on a toujours habité. Il voulut résister. Il n'y parvint pas. Il comprit qu'on n'entrait pas contre lui, qu'on entrait *avec* lui, par une porte qu'il avait lui-même laissée ouverte.
 
 Il perdit le contrôle de sa main droite.
 
@@ -38,7 +38,7 @@ Elle se leva. Elle prit le crayon, le cahier, le tint entre le pouce et le majeu
 
 Il comprit alors, sans pouvoir le dire, qui c'était.
 
-Il ne le savait pas encore. Il le sentit. Il sentit le poids exact d'une présence qu'il avait portée toute sa vie sans la connaître, comme on sent l'ombre de quelqu'un derrière une porte. Il sentit qu'on le regardait avec une attention infinie, qu'on lisait ce qu'il pensait, qu'on avait honte.
+Il ne le savait pas encore. Il le sentit. Il sentit le poids exact d'une présence qu'il avait portée toute sa vie sans la connaître, à la façon dont on sent l'ombre de quelqu'un derrière une porte. Il sentit qu'on le regardait avec une attention infinie, qu'on lisait ce qu'il pensait, qu'on avait honte.
 
 *Qui êtes-vous ?* pensa-t-il.
 

@@ -38,7 +38,7 @@
   window.addEventListener("scroll", onScroll, { passive: true });
 
   function toc() {
-    const t1 = BOOK.chapters.filter((c) => !c.tome), t2 = BOOK.chapters.filter((c) => c.tome === 2);
+    const t1 = BOOK.chapters.filter((c) => !c.tome), t2 = BOOK.chapters.filter((c) => c.tome === 2), t3 = BOOK.chapters.filter((c) => c.tome === 3);
     const total = t1.reduce((a, c) => a + c.words, 0);
     let h = '<p class="chapter">Roman</p><h1 tabindex="-1">La Rouille</h1>' +
       '<p class="lede"><em>En 2137, l\'humanité oublie. Élise Varenne part pour 2026, dans le corps de son arrière-arrière-grand-mère. Elle va découvrir que la Rouille n\'a pas d\'origine. Elle a seulement un cycle.</em></p>' +
@@ -47,6 +47,8 @@
     h += '<div class="dl"><a href="la-rouille.epub" download="la-rouille.epub">Tome 1 : La Rouille <small>EPUB · Kindle, Kobo, Apple Livres</small></a>' +
       (t2.length ? '<a href="la-dame-du-lac.epub" download="la-dame-du-lac.epub">Tome 2 : La Dame du lac <small>EPUB · premier jet, mis à jour au fil de l\'écriture</small></a>' +
         '<p class="meta"><a href="#tome-2" data-goto="tome-2">Lire le tome 2 en ligne ↓</a></p>' : '') +
+      (t3.length ? '<a href="lhomme-du-jour.epub" download="lhomme-du-jour.epub">Tome 3 : L\'Homme du jour <small>EPUB · premier jet, en cours de relecture</small></a>' +
+        '<p class="meta"><a href="#tome-3" data-goto="tome-3">Lire le tome 3 en ligne ↓</a></p>' : '') +
       '<details><summary>Comment le lire sur Kindle ?</summary><ol>' +
       '<li>Télécharge le fichier <b>.epub</b> du tome voulu.</li>' +
       '<li>Envoie-le avec <b>Envoyer vers Kindle</b> (amazon.fr/sendtokindle, l\'application mobile ou l\'extension de navigateur), ou par e-mail à ton adresse Kindle personnelle.</li>' +
@@ -75,6 +77,14 @@
         '<p class="lede"><em>⚠ Contient les révélations du tome 1.</em></p>' +
         '<p class="meta"><a href="la-dame-du-lac.epub" download="la-dame-du-lac.epub">⇩ Télécharger le tome 2 (EPUB)</a></p>' +
         list(t2);
+    }
+    if (t3.length) {
+      const info = (BOOK.tomes && BOOK.tomes[3]) || { title: "Tome 3", subtitle: "" };
+      const w3 = t3.reduce((a, c) => a + c.words, 0);
+      h += '<h2 class="part" id="tome-3">Tome 3 : ' + esc(info.title) + '</h2><p class="meta">' + esc(info.subtitle) + " · " + t3.length + " chapitres · ~" + w3.toLocaleString("fr-FR") + " mots · ~" + pages(w3) + " pages</p>" +
+        '<p class="lede"><em>⚠ Contient les révélations des tomes 1 et 2. Les chapitres ne suivent pas l\'ordre chronologique : c\'est voulu.</em></p>' +
+        '<p class="meta"><a href="lhomme-du-jour.epub" download="lhomme-du-jour.epub">⇩ Télécharger le tome 3 (EPUB)</a></p>' +
+        list(t3);
     }
     root.innerHTML = '<article class="scene enter">' + h + "</article>";
     const g = root.querySelector("[data-goto]");

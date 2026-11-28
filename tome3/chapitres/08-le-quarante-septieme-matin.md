@@ -6,7 +6,7 @@ Il ouvrit les yeux dans le bureau de Bastien pour la quarante-septième fois.
 
 Il n'eut pas à compter. Il avait cessé de compter les tours. Il savait seulement que la lumière était celle de la mi-septembre, que le lac était bas, que l'odeur de moquette et de café refroidi était la même qu'à chaque fois. Il connaissait la couleur exacte de la poussière sur le rebord de la baie. Il avait appris, au fil des siècles, à reconnaître son arrivée à ces détails : un store à demi baissé, un agenda ouvert sur le jeudi 17, un verre de thé dont la rondelle de citron avait tourné.
 
-Il resta un moment immobile. Il ne cherchait plus à reprendre pied : le corps le reprenait à sa place, avec une docilité d'habitude. Les mains s'ouvrirent sur le bois. Les épaules se détendirent. Quelque part, très bas, un homme qui n'avait pas cessé de hurler depuis quarante-six tours reprenait son souffle.
+Il demeura un moment immobile. Il ne cherchait plus à reprendre pied : le corps le reprenait à sa place, avec une docilité d'habitude. Les mains s'ouvrirent sur le bois. Les épaules se détendirent. Quelque part, très bas, un homme qui n'avait pas cessé de hurler depuis quarante-six tours reprenait son souffle.
 
 — Bonjour, Bastien, dit Kerr à voix haute.
 
@@ -24,7 +24,7 @@ Dans le tiroir de droite, il y avait toujours la même enveloppe. *Ce qui efface
 
 Il ouvrit le cahier noir.
 
-Il le faisait chaque matin, avec la même lenteur, comme on ouvre une lettre dont on connaît d'avance le contenu. Le cahier avait un rythme : une page par nuit, parfois deux. Il commençait toujours par la même ligne : *Tour 47. J + n.* Puis des mesures, des notes, des phrases sèches, que l'écriture fine alignait sans une rature.
+Il le faisait chaque matin, avec la même lenteur, à la façon dont on ouvre une lettre dont on connaît d'avance le contenu. Le cahier avait un rythme : une page par nuit, parfois deux. Il commençait toujours par la même ligne : *Tour 47. J + n.* Puis des mesures, des notes, des phrases sèches, que l'écriture fine alignait sans une rature.
 
 *J + 0. Hôte B.K. : stable.*
 

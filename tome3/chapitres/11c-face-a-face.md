@@ -50,7 +50,7 @@ Walther rit encore, un peu. Il y eut, dans ce rire, une sorte de pudeur de vieux
 
 Ils parlèrent de Rose, quelques minutes. Sacha dit qu'il l'avait croisée, une nuit, au pied d'un mur. Walther ne dit rien. Sacha dit : « Elle m'a regardé comme si elle me connaissait. » Walther dit, d'une voix très basse : « Elle vous connaissait. » Sacha ne répondit pas. Il ne lui avait jamais dit que Rose avait été sa mère, par une porte étrange. Il garda le silence. Il n'avait pas le droit de lui prendre cette croyance.
 
-Ils parlèrent d'Iris. Ils le firent avec une extrême prudence, comme on traverse une rivière gelée. Sacha dit : « Elle m'a dit non. Elle avait raison. » Walther dit : « Elle ne vous en veut pas. » Sacha dit : « Si. » Walther dit : « Un peu. Elle l'a dit hier. » Sacha ferma les yeux.
+Ils parlèrent d'Iris. Ils le firent avec une extrême prudence, à la façon dont on traverse une rivière gelée. Sacha dit : « Elle m'a dit non. Elle avait raison. » Walther dit : « Elle ne vous en veut pas. » Sacha dit : « Si. » Walther dit : « Un peu. Elle l'a dit hier. » Sacha ferma les yeux.
 
 — Elle vous parle de moi, dit-il.
 

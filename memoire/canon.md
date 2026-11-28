@@ -77,7 +77,7 @@
 ## Tome 2 : faits fixés à l'écriture (V3.27)
 - Iris part de **Lyon** (appartement de Sophia) le **2-4 janv. 2066**, sur le lit de sa mère, Étienne (85 ans) la veille. À 58 elle retrouve le nom « Sacha » ; à 59 elle s'arrête ; elle l'oublie à son arrivée (ch. 1).
 - 14 nov. 1958, 6 h : vanne fermée ; Iris dort au fond de Rose, qui ne l'entendra plus. La lampe de K. reste sur le seuil, Rose la retrouve sur une pierre du belvédère, la garde 41 ans (« elle marchait encore »).
-- Rose † octobre 1999 à 67 ans ; épitaphe « Et la maison. » ; en nov. 2026 un visiteur inconnu écrit « Et lui. » à la craie, puis la gravure apparaît. Origine non fixée (candidats : Iris du présent, K., Kerr).
+- Rose † octobre 1999 à 67 ans ; épitaphe « Et la maison. » ; en nov. 2026 un visiteur inconnu écrit « Et lui. » à la craie, puis la gravure apparaît. **Fixé V3.61** (T3 `41a-et-lui`) : c'est **Kerr** (15 nov. 2026, craie donnée par Hugo) qui écrit « Et lui. » pour Walther ; **Anselme** (libéré) le grave au clou.
 - Hélène a rencontré Anselme vers 1985-86 (apparition devant la porte du Haut, « la mère d'Anselme »).
 - **Étienne** : grand-père de Sacha sans le savoir ; « Un donneur. Il ne s'en servait plus » ; « Si tu pars, je serai là ».
 
@@ -106,3 +106,5 @@
 - **Les deux Iris ne sont pas sœurs** (corps de Sophia/Étienne dans un tour, d'Élise/Noé dans l'autre ; tours différents, aucune généalogie commune) ; elles ne se considèrent pas comme sœurs. La « parenté » du ch. 6 du tome 3 est une **erreur de Sacha**.
 - **Sacha n'est pas le père biologique de Kerr** (il le croit, à cause d'une lecture erronée de ses carnets) ; pas de couple Sacha–Iris du présent. Kerr reste le père de Sacha (avec Iris du passé) ; Sacha est son « fils » au sens de la transmission. Détails à valider avec l'auteur.
 - (V3.51) **Anne n'est pas la fille d'Élise** : c'est son ancêtre (Élise descend d'Anne). Le tome 1 le dit désormais (`38-ce-que-je-ne-pouvais-pas-te-dire.md`, nuit d'Élise) : elle « met au monde, par un détour absurde, sa propre origine ». Elle n'a eu qu'une fille : Iris.
+
+- **V3.54-V3.63 (T3, ≈ 70 000 mots)** : finale de la cuisine (nuit du 15→16 oct. 2026, `41b`–`41g` : Kerr dans Bastien, Élise/Noé dans Sophia/Étienne, « Grand-père », « Je ne vous demande rien », cinquante-neuf) ; Sacha sait depuis 2159 qu'il n'est pas le père de Kerr ; Kerr le sait depuis 18 ans ; Kerr dit « Papa » à Walther une fois (8 avr. 2180) ; Walther dit « Mon fils » seul (10 avr.) ; Kerr part le **10 avr. 2180** ; Théo né le 14 janv. 2029 (mère Adèle † 2038), cachet des 16 ans le 14 janv. 2045 ; Agathe † 2 mars 2178 (« Il a bien mangé ») ; Tanguy † juin 2229 ; Anne reçoit le caillou le 21 sept. 2197 ; Iris du présent revient au refuge déc. 2191. Hugo (19 ans en 2026) donne la craie à Kerr le 14 nov.

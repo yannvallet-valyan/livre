@@ -10,11 +10,11 @@ Il avait posé sur le bureau une feuille imprimée. Une ligne surlignée en jaun
 
 — Asseyez-vous, Sophia.
 
-Il savait ce qu'elle allait dire. Il savait chaque mot, chaque pause, la façon dont elle croiserait les mains sur ses genoux pour qu'elles ne tremblent pas. Il l'avait entendu quarante-six fois. Il pouvait réciter la scène à voix haute, à l'envers, comme on récite une poésie d'enfance. Et pourtant il se tenait là, avec ses mains posées à plat sur le buvard, très droit, le sourire ajusté, et il sentait son cœur battre d'une manière qui n'avait rien à voir avec la répétition.
+Il savait ce qu'elle allait dire. Il savait chaque mot, chaque pause, la façon dont elle croiserait les mains sur ses genoux pour qu'elles ne tremblent pas. Il l'avait entendu quarante-six fois. Il pouvait réciter la scène à voix haute, à l'envers, ainsi qu'on récite une poésie d'enfance. Et pourtant il se tenait là, avec ses mains posées à plat sur le buvard, très droit, le sourire ajusté, et il sentait son cœur battre d'une manière qui n'avait rien à voir avec la répétition.
 
 *Tu ne l'as pas choisie,* pensa-t-il.
 
-C'était vrai. Il n'avait pas choisi cette femme. Il l'avait lue dans les carnets d'un père qu'il n'avait jamais connu : *S.V., hydrologue, 37 ans, gauchère. Elle dira : « Je sais ce que vous faites pousser. »* Il l'avait attendue, ce matin-là, comme on attend un train dont on connaît l'horaire et qu'on voudrait manquer.
+C'était vrai. Il n'avait pas choisi cette femme. Il l'avait lue dans les carnets d'un père qu'il n'avait jamais connu : *S.V., hydrologue, 37 ans, gauchère. Elle dira : « Je sais ce que vous faites pousser. »* Il l'avait attendue, ce matin-là, à la façon dont on attend un train dont on connaît l'horaire et qu'on voudrait manquer.
 
 ---
 
@@ -96,7 +96,7 @@ Elle le regarda.
 
 — Je crains que vous ne remontiez pas, dit-il.
 
-Elle prit le badge. Elle le regarda un moment, puis le posa sur le bureau, de côté, très exactement, comme on pose un objet qui ne sert plus. Elle se leva. Elle ne dit pas merci. Elle ne dit pas non plus qu'elle le détestait. Elle le regarda une dernière fois, avec une espèce de pitié furieuse, d'ennemie qui a reconnu un malade, et sortit.
+Elle prit le badge. Elle le regarda un moment, puis le posa sur le bureau, de côté, très exactement, ainsi qu'on pose un objet qui ne sert plus. Elle se leva. Elle ne dit pas merci. Elle ne dit pas non plus qu'elle le détestait. Elle le regarda une dernière fois, avec une espèce de pitié furieuse, d'ennemie qui a reconnu un malade, et sortit.
 
 Il resta seul, dans son bureau de verre, avec les deux cartes sur le buvard. Il resta longtemps immobile.
 

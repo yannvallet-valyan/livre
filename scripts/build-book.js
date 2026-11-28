@@ -43,8 +43,10 @@ function readTome(dir, prefix, tome) {
 const tome1 = readTome(dir, "", 1);
 const dir2 = path.join(root, "tome2", "chapitres");
 const tome2 = fs.existsSync(dir2) ? readTome(dir2, "t2-", 2) : [];
-const chapters = tome1.concat(tome2);
+const dir3 = path.join(root, "tome3", "chapitres");
+const tome3 = fs.existsSync(dir3) ? readTome(dir3, "t3-", 3) : [];
+const chapters = tome1.concat(tome2, tome3);
 
-const out = "window.BOOK = " + JSON.stringify({ title: "La Rouille", tomes: { 2: { title: "La Dame du lac", subtitle: "La Rouille, tome 2 · premier jet, en cours d'écriture" } }, chapters }, null, 1) + ";\n";
+const out = "window.BOOK = " + JSON.stringify({ title: "La Rouille", tomes: { 2: { title: "La Dame du lac", subtitle: "La Rouille, tome 2 · premier jet, en cours d'écriture" }, 3: { title: "L'Homme du jour", subtitle: "La Rouille, tome 3 · premier jet, en cours de relecture" } }, chapters }, null, 1) + ";\n";
 fs.writeFileSync(path.join(root, "site", "book.js"), out);
-console.log(`Livre : ${tome1.length} sections (tome 1), ${tome2.length} sections (tome 2), ~${chapters.reduce((a, c) => a + c.words, 0)} mots.`);
+console.log(`Livre : ${tome1.length} sections (tome 1), ${tome2.length} sections (tome 2), ${tome3.length} sections (tome 3), ~${chapters.reduce((a, c) => a + c.words, 0)} mots.`);

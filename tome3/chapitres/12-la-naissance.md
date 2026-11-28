@@ -84,7 +84,7 @@ Il avait posé la question par réflexe. Il connaissait Tobie. Il connaissait au
 
 Il regarda Iris. Elle lui rendit son regard. Elle ne dit rien. Elle le laissa entrer.
 
-Il traversa la pièce, à petits pas. Il s'agenouilla à côté du lit. Il resta un moment à regarder l'enfant, qui s'était endormi contre la poitrine de sa mère, la bouche entrouverte. Il ne le toucha pas. Il avança seulement la main, très lentement, jusqu'à lui effleurer les cheveux, qui étaient très noirs, très fins, collés sur le crâne.
+Il traversa la pièce, à petits pas. Il s'agenouilla à côté du lit. Il demeura un moment à regarder l'enfant, qui s'était endormi contre la poitrine de sa mère, la bouche entrouverte. Il ne le toucha pas. Il avança seulement la main, très lentement, jusqu'à lui effleurer les cheveux, qui étaient très noirs, très fins, collés sur le crâne.
 
 — Il est… dit-il.
 
@@ -102,7 +102,7 @@ Il eut honte, une seconde, de s'être autant réjoui.
 
 Sacha arriva le soir, à l'heure habituelle, par le couloir sud.
 
-Il avait entendu la nouvelle dans la galerie, d'un technicien. Il avait couru. Il entra dans le dortoir B à neuf heures, essoufflé, les cheveux ébouriffés, avec dans les yeux l'éclat d'un homme qui vient d'apprendre qu'un siècle a pris fin. Il s'arrêta devant le berceau. Il resta immobile.
+Il avait entendu la nouvelle dans la galerie, d'un technicien. Il avait couru. Il entra dans le dortoir B à neuf heures, essoufflé, les cheveux ébouriffés, avec dans les yeux l'éclat d'un homme qui vient d'apprendre qu'un siècle a pris fin. Il s'arrêta devant le berceau. Il ne bougea plus.
 
 L'enfant dormait sur le dos, les poings serrés sous le menton.
 
