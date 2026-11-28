@@ -40320,7 +40320,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il leur dit les noms de ceux qui viendraient : Anne, Jeanne, Paul, Marthe, Mathis. Il dit les dates, les lieux, les visages. Il leur dit la mort de Sophia, en décembre 2045, dans un appartement de Lyon, et celle d'Étienne, en 2066, à quatre-vingt-cinq ans, vieux médecin qui ne savait plus pourquoi il avait gardé un éclat dans un tiroir. Il leur dit qu'ils ne se retrouveraient pas, dans ce siècle : qu'ils vivraient, chacun, d'une vie qui n'était pas la leur, dans des corps qui vieilliraient sans eux. Il leur dit qu'ils auraient, pendant trente-quatre nuits, un bonheur volé."
+     "s": "Il leur dit les noms de ceux qui viendraient : ici, Iris, Théo, Sacha ; et, dans l'autre tour, celui où l'on demande, Anne, Jeanne, Paul, Marthe, Mathis. Il dit les dates, les lieux, les visages. Il leur dit la mort de Sophia, en décembre 2045, dans un appartement de Lyon, et celle d'Étienne, en 2066, à quatre-vingt-cinq ans, vieux médecin qui ne savait plus pourquoi il avait gardé un éclat dans un tiroir. Il leur dit qu'ils ne se retrouveraient pas, dans ce siècle : qu'ils vivraient, chacun, d'une vie qui n'était pas la leur, dans des corps qui vieilliraient sans eux. Il leur dit qu'ils auraient, pendant trente-quatre nuits, un bonheur volé."
     },
     {
      "t": "p",
@@ -40399,7 +40399,7 @@ window.BOOK = {
      "s": "— Et si nous ne faisions rien ?"
     }
    ],
-   "words": 1151,
+   "words": 1164,
    "tome": 3
   },
   {
