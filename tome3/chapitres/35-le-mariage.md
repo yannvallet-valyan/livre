@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 14 mai 2177.*
+
 Le 14 mai 2177, il fit beau, pour la première fois depuis longtemps.
 
 Les gens du refuge avaient déroulé des nappes sur de grandes tables, dans la cour intérieure, sous les tilleuls. On avait sorti la vaisselle des grands jours, des assiettes en faïence fêlées, des verres dépareillés. Il y avait du pain frais, deux jambons, un fromage de la vallée, une tarte aux groseilles que Lucie avait refusé de laisser faire par une autre. On avait cueilli des pivoines, qui sentaient fort, dans des seaux.

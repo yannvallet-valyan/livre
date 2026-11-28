@@ -1,6 +1,8 @@
-# Chapitre 28 — Dix-huit ans
+# Chapitre 27 — Dix-huit ans
 
 *(premier jet)*
+
+*Vallorce, 14 janvier 2047.*
 
 Il avait quarante-quatre ans dans la tête, et ce soir-là il en avait dix-huit dans les mains.
 

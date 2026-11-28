@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, 3 février 2050.*
+
 Il avait lu la scène cent fois, et il n'était pas prêt.
 
 C'était écrit, dans un carnet de son père, d'une plume sèche, sans adjectif : *Sacha naît le 3 février 2050, à trois heures du matin, dans la chambre du haut, par grand froid. Étienne l'accouche. Théo est derrière elle. Il dit : pardon.* Il avait lu la phrase à vingt-quatre ans, dans un dortoir du refuge, à la lueur d'une lampe. Il avait pensé : *je ne dirai pas pardon.* Il se l'était promis.

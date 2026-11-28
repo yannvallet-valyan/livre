@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 2150-2152.*
+
 Il fallut deux ans à Iris pour apprendre son nom.
 
 Ce ne fut pas lui qui le lui dit. Ce fut Ruben, un soir de l'hiver 2152, à la lueur d'une lampe à huile, dans la salle du fond, alors qu'elle lisait à voix haute un registre de naissances et que l'homme dans le corps de Tobie, assis au bord du lit, les mains sur les genoux, écoutait ainsi qu'on écoute la mer. Ruben posa sa tasse. Il dit, sans la regarder :

@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, octobre 2046.*
+
 Étienne avait soixante-six ans, et il ne comprenait pas pourquoi il avait mal quand il les voyait ensemble.
 
 Il ne le disait à personne. Il ne se le disait pas à lui-même. Il rangeait la douleur dans la catégorie des choses qui viennent avec l'âge, entre les genoux et la mémoire. Il la nommait « fatigue ». Il se disait qu'il était un vieux médecin de campagne, veuf depuis vingt-sept ans, que son fils vivait loin, qu'il n'avait personne, et que c'était normal de s'attacher à deux jeunes gens qui lui faisaient du bien.

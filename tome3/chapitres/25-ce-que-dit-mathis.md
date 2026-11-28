@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, décembre 2163.*
+
 Ce fut un soir de décembre 2163 que Iris du présent décida de partir.
 
 Elle ne le décida pas ainsi qu'on décide d'un voyage. Elle le comprit, un peu à la façon dont on comprend qu'on a mal : par la répétition d'un détail. Elle était assise dans la salle des archives, devant un registre, une lampe, une tasse de lentilles refroidie. Elle lisait, sans le lire, une liste de noms. Elle tourna la page. Elle tomba sur une ligne. *Mathis Delorme, 9 ans, hôte probable de la voyageuse I.*

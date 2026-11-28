@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, octobre 2026. Premier tour.*
+
 Il connaissait la date par cœur.
 
 Le lundi 19 octobre 2026, à deux heures sept du matin, une femme de trente-huit ans descendrait par l'escalier de service, avec une lampe et un badge, jusqu'à la galerie du barrage. Elle y resterait une heure. Elle en remonterait sans avoir rien dit, avec du sang sur la lèvre, et sa vie ne serait plus tout à fait la sienne. Il l'avait lu, enfant, dans une page des carnets de son père, qu'il avait recopiée deux fois pour mieux la retenir. *La paroi garde ce qu'elle portait.*

@@ -1,6 +1,8 @@
-# Chapitre 27 — Le premier baiser
+# Chapitre 28 — Le premier baiser
 
 *(premier jet)*
+
+*Vallorce, 4 février 2047.*
 
 Ils s'embrassèrent le 4 février 2047, sur le chemin de halage, à dix-sept heures, sous une neige fine, sans l'avoir décidé.
 

@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Genève et Vallorce, 2029-2046. Premier tour.*
+
 Il élevait un enfant qui n'était pas le sien, dans un corps qui n'était pas le sien, pour lui voler son corps.
 
 C'était la phrase qu'il se répétait, certains soirs, quand le lac prenait la couleur de l'ardoise et que la maison blanche se remplissait de silence. Elle le tenait debout. Il n'avait pas le droit de l'oublier.

@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, sous la montagne, 2150.*
+
 On ne le remarqua pas tout de suite. C'est ce que Ruben se dirait plus tard, quand il aurait compris : qu'on avait laissé passer trois jours.
 
 Tobie avait dix-neuf ans. Il était rouillé depuis cinq. On l'asseyait au réfectoire, au bout du banc, devant un bol qu'une main amie remplissait ; on l'en retirait à la fin du repas, on le ramenait au dortoir D, on le couchait. Il ne disait rien. Il ne s'était jamais plaint. Il avait eu un nom, une mère partie devant, une façon de siffler en lavant les bols, et tout cela s'était éteint un matin, comme se ferment les yeux d'un oiseau qu'on a nourri trop tard. On disait qu'il était « parti devant ». C'est Ruben qui avait fait entrer l'expression dans le refuge. Il ne supportait pas l'autre.

@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Même nuit, 1 h 10.*
+
 Ils descendirent ensemble, côte à côte, en silence, la main dans la main, à la façon dont on descend chercher un bruit.
 
 Il les entendit venir. Il entendit le parquet de l'étage, puis la rampe, puis les trois marches du bas, qui craquaient. Il se tenait assis à la table, droit, les mains jointes. Il avait l'air d'un homme qui attend une sentence. Il eut le temps de penser : *ils ont froid.* Il avait l'oreille fine, pour ces choses-là.
@@ -62,7 +64,7 @@ Elle ne bougea pas. Mais quelque chose, dans son visage, se déroba, comme un vo
 
 Il parlait vite, d'une voix égale, à la façon dont on récite. Il sentait son cœur battre aux tempes. Il ajouta :
 
-— Vous vous êtes aimés pour la première fois il y a trois nuits. C'est ce que les hôtes n'ont pas su.
+— Vous ne vous êtes jamais touchés. Vous vous tenez à un mètre. C'est votre règle. Ce soir, vous alliez la briser.
 
 Le silence qui suivit fut d'une espèce nouvelle. Ce n'était pas celui de la peur. C'était celui de deux êtres qui entendent, d'une bouche étrangère, tout ce qu'ils s'étaient promis de ne jamais dire.
 

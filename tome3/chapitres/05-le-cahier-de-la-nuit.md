@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, septembre-octobre 2026. Premier tour.*
+
 Il y avait donc quelqu'un d'autre.
 
 Kerr le comprit à la fin de la deuxième semaine, un matin de la fin septembre, en ouvrant le cahier noir qu'il avait laissé fermé la veille sur le bureau. Il l'avait posé lui-même, parallèle au bord du buvard, à côté du crayon. Il se souvenait de chaque geste. Il avait écrit trois lignes : *Hôte B.K. : stable. Résistance faible. Je n'interviens pas.* Il avait refermé le cahier. Il avait pris le thé.

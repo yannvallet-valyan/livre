@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, hiver 2162.*
+
 Il avait six ans, et il tenait un crayon comme on tient un oiseau.
 
 C'était l'hiver 2162. Dans la salle du fond, au refuge, il y avait une table, deux chaises, une lampe à huile et un cahier d'écolier ouvert à la première page. Le petit était assis sur la chaise de gauche. Il avait les pieds qui ne touchaient pas le sol. Il tenait le crayon d'une main crispée, la pointe enfoncée dans le papier, avec une application féroce qui lui plissait le front.

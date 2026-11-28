@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, nuit du 10 au 11 novembre 2026. Quarante-septième tour.*
+
 Il s'appelait K. pour tout le monde, et pour lui-même depuis si longtemps qu'il avait presque cessé de se demander à qui appartenait l'autre nom.
 
 Cette nuit-là, du 10 au 11 novembre 2026, il se tenait sur la grève, au pied du barrage, dans le corps du directeur, un anorak qui ne lui appartenait pas, des gants fourrés, un petit boîtier à écran vert. L'eau du lac n'existait plus : la vidange avait laissé une plaine de boue grise, craquelée, où la lune posait des plaques de fer. Il faisait un froid sec. Il avait à ses pieds, noté de sa fine écriture, le programme de la nuit : *00 h : lecture des mesures. 02 h : variable N. 04 h 15 : variable É. Ne pas intervenir.*

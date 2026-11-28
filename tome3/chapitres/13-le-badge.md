@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, 6 novembre 2026. Quarante-septième tour.*
+
 Il avait répété cette scène quarante-six fois, et chaque fois elle lui faisait mal au même endroit.
 
 Le vendredi 6 novembre 2026, à neuf heures, Sophia Varenne entra dans le bureau vitré de Bastien Kerr. Elle avait mis son manteau gris, celui des jours d'examen. Elle avait les cheveux tirés en arrière, très serrés, le visage de quelqu'un qui n'a pas dormi, et dans les yeux une obstination sèche qui lui allait bien. Elle ne s'assit pas tout de suite. Elle regarda la baie, le lac réduit à une flaque noire, le barrage au bout de la vallée comme une paume tendue.

@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 2153-2155.*
+
 Elle ne dit à personne qu'elle le voyait tous les jours.
 
 C'était une règle qu'elle s'était donnée sans en avoir décidé : ne pas parler de lui. Elle se faufilait à la cantine à huit heures, par le couloir sud, avec son registre sous le bras, comme pour une vérification de routine. Il l'attendait, assis à sa place au bout du banc, les mains jointes, et se levait quand elle entrait, ce que personne ne faisait au refuge depuis cent ans.

@@ -1,3 +1,5 @@
+> ⛔ **V3.69** : les lignes qui parlent de Kerr « fils de Sacha », des deux Iris « sœurs » ou de Sacha « père » sont **périmées** (voir `../roman/bible/anneau-v2.md`). Anne (tour 47) et Iris du passé (tour brisé) sont deux enfants distinctes.
+
 # Prédestination : la chaîne causale de la trilogie
 
 > **Principe (décidé) : tout est déjà écrit.** Chaque action dans le passé, le présent et le futur est la cause d'un fait déjà posé dans le tome 1, ou d'un maillon de la fin. Aucune scène n'est gratuite. Les personnages se croient libres ; le lecteur sait déjà ce qu'ils vont faire. La tension vient du **coût**, pas de l'issue.

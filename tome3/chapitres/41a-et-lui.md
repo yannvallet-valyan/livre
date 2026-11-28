@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, 15 novembre 2026. Quarante-septième tour.*
+
 Le matin du 15 novembre 2026, il alla au cimetière avec une craie qu'un garçon lui avait donnée.
 
 Il y avait du brouillard. Un brouillard épais, froid, laiteux, qui effaçait les murs, les arbres, les tombes, et ne laissait voir que des fragments : une croix de fer, un bout de grille, la branche d'un if. Il marchait lentement, les mains dans les poches du manteau du directeur. Il n'avait pas dormi. Il s'était lavé, rasé, habillé, par habitude, comme un homme qui part pour un enterrement. Il y allait, en un sens.

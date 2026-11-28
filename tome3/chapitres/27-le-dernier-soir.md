@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 13 novembre 2164.*
+
 Elle ne fit pas d'adieux.
 
 Elle y avait pensé pendant des mois. Elle avait imaginé des discours, des lettres, une dernière nuit entière à regarder dormir son fils. Elle avait rédigé dans sa tête dix versions du même mot : *Pardon.* *Je reviendrai.* *Je t'aime.* Elle les avait écartées, une à une, comme des vêtements trop étroits. Elle avait compris qu'on ne dit pas adieu à un enfant de huit ans : on lui dit *à demain.*

@@ -31,7 +31,7 @@
 
 ## La fin
 Voir `plan-detaille.md` (partie V) et `../roman/bible/trilogie.md` §7.
-- **Dernière scène :** la cuisine d'Étienne, la nuit du 16 octobre, tour brisé. Kerr et K. se rencontrent enfin dans le même corps. Ils disent tout à Élise et Noé et leur laissent le choix. Élise tend la main au-dessus du mètre. « Cinquante-neuf. » On ne voit pas la suite : le lecteur la connaît.
+- **Dernière scène :** la cuisine d'Étienne, la nuit du 16 octobre, tour brisé. Kerr et K. se rencontrent enfin dans le même corps. Ils disent presque tout à Élise et Noé (Kerr tait la mort de Sacha) et leur laissent le choix. Élise tend la main au-dessus du mètre. « Cinquante-neuf. » On ne voit pas la suite : le lecteur la connaît.
 - **Coda :** *Tour 48. J + 1. Elle est arrivée. Elle a peur. Cette fois, je descends la voir. — S.*
 
 ## Fichiers
@@ -39,3 +39,5 @@ Voir `plan-detaille.md` (partie V) et `../roman/bible/trilogie.md` §7.
 
 
 > **État (V3.63)** : premier jet ≈ 70 000 mots, ~70 fichiers dans `chapitres/` (ordre = tri alphabétique des noms de fichiers ; titres renumérotés). Finale = `41b`–`41g`, coda = `42-tour-48`. Non publié sur le site.
+
+> **Guide de lecture (V3.69)** : l'ordre des chapitres n'est pas chronologique ; une ligne en italique sous chaque titre donne le lieu, la date et le tour (« Premier tour » = tour brisé ; « Quarante-septième tour » = celui du tome 1).

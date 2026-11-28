@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, novembre 2164.*
+
 Le lendemain du départ d'Iris, Walther se leva à l'heure habituelle, et ne sut pas quoi faire de ses mains.
 
 Il alla à la salle des pompes. Il regarda la vanne qu'il avait réparée la veille. Il passa le pouce sur le joint, vérifia le serrage, le desserra, le resserra. Il fit trois fois le tour de la machine. Il nota, dans un petit carnet, des chiffres qui n'avaient aucun intérêt. Il se rendit compte, à dix heures, qu'il n'avait rien mangé. Il se rendit compte, à midi, qu'il n'en avait pas envie.

@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 2 mars 2178.*
+
 Agathe mourut le 2 mars 2178, à quatre heures du matin, dans la chambre qu'elle occupait depuis soixante ans.
 
 Elle n'avait pas voulu qu'on la transporte à l'infirmerie. Elle avait dit, d'une voix qui ne tremblait plus : « Ici, j'ai mes murs. » On lui avait installé un lit plus haut, des oreillers, une lampe. Il y avait sur la commode un verre d'eau qu'elle ne buvait plus, un livre ouvert qu'elle ne lisait plus, une photographie de sa mère. Il y avait, sur la chaise, un jeune homme de vingt-deux ans, en pull sombre, qui ne dormait pas non plus.

@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, 2057.*
+
 Sacha dessinait toujours la même maison.
 
 Elle avait un toit rouge, deux fenêtres carrées, une porte au milieu, une cheminée d'où montait une fumée en spirale. À côté, il y avait un soleil, avec des rayons trop longs, et un bonhomme à grosse tête, les bras en croix. Il dessinait cela à sept ans, en 2057, à la table de la cuisine, avec un crayon de papier, entre le pouce et le majeur, parce que quelqu'un lui avait appris à le tenir ainsi, et qu'il n'avait jamais su qui.

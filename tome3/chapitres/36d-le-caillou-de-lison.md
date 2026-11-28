@@ -1,8 +1,10 @@
-# Chapitre 51 — Le caillou d'Anne
+# Chapitre 52 — Le caillou d'Lison
 
 *(premier jet)*
 
-Anne eut dix-sept ans le jour où son père lui donna le caillou.
+*La vallée, 21 septembre 2197.*
+
+Lison eut dix-sept ans le jour où son père lui donna le caillou.
 
 C'était le 21 septembre 2197. Il pleuvait. Elle revenait de l'atelier de tissage, les doigts engourdis, une fatigue jaune dans les épaules. Elle avait les cheveux roux de Tanguy, noués en une tresse lourde, et les yeux gris de sa mère. Elle marchait vite, la tête rentrée, comme tous ceux qui ont trop à faire. Elle poussa la porte de la maison, jeta son châle sur une chaise.
 
@@ -16,7 +18,7 @@ Il était assis à la table, devant une tasse qu'il ne buvait pas. Il avait viei
 
 — Assieds-toi quand même.
 
-Elle s'assit. Il posa, devant elle, sur la table, un petit objet enveloppé dans un chiffon. Elle le déplia. C'était un caillou blanc, poli, de la taille d'une noix. Il y avait, dessus, trois mots, à demi effacés par le temps : *Pour Anne. Compte.*
+Elle s'assit. Il posa, devant elle, sur la table, un petit objet enveloppé dans un chiffon. Elle le déplia. C'était un caillou blanc, poli, de la taille d'une noix. Il y avait, dessus, trois mots, à demi effacés par le temps : *Pour Lison. Compte.*
 
 — Qu'est-ce que c'est ?
 
@@ -56,7 +58,7 @@ Il sourit, d'un sourire trop large, qui tremblait.
 
 ---
 
-Anne prit le caillou dans sa paume. Il était tiède, lisse, un peu lourd. Elle le retourna. Elle passa le pouce sur les lettres.
+Lison prit le caillou dans sa paume. Il était tiède, lisse, un peu lourd. Elle le retourna. Elle passa le pouce sur les lettres.
 
 — Compte quoi ?
 

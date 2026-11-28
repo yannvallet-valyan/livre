@@ -2,9 +2,11 @@
 
 *(premier jet)*
 
+*Le refuge, 9 mai 2180.*
+
 Il leur restait une nuit, et personne ne le savait que lui.
 
-C'était le 9 avril 2180. Il avait vingt-quatre ans. Tanguy en avait vingt-trois ; il portait, depuis deux ans, une alliance en laiton qu'il tournait sans cesse autour de son doigt. Il avait une fille de dix-huit mois, qui s'appelait Anne, qui marchait déjà, qui disait « Ker » pour appeler son parrain. Il avait grossi encore. Il avait un petit ventre, un début de calvitie. Il était heureux. Cela se voyait de loin.
+C'était le 9 mai 2180. Il avait vingt-quatre ans. Tanguy en avait vingt-trois ; il portait, depuis deux ans, une alliance en laiton qu'il tournait sans cesse autour de son doigt. Il avait une fille de dix-huit mois, qui s'appelait Lison, qui marchait déjà, qui disait « Ker » pour appeler son parrain. Il avait grossi encore. Il avait un petit ventre, un début de calvitie. Il était heureux. Cela se voyait de loin.
 
 Kerr passa chez eux à neuf heures du soir.
 
@@ -12,13 +14,13 @@ Il frappa deux coups, comme toujours. Lucie vint ouvrir, un linge à la main. El
 
 Il traversa la maison. Elle sentait la soupe, le feu de bois, le linge propre. Il y avait des jouets par terre, un cheval de bois, une poupée de chiffon. Il s'arrêta devant la porte de la chambre. Par l'entrebâillement, il vit le petit lit, la forme endormie sous la couverture. Il resta là un moment. Il écouta le souffle.
 
-*Je te vois, Anne.* Il pensa : *tu ne te souviendras pas de moi.* *C'est bien.*
+*Je te vois, Lison.* Il pensa : *tu ne te souviendras pas de moi.* *C'est bien.*
 
 Il rejoignit Tanguy sur la terrasse.
 
 ---
 
-Ils burent un vin chaud, assis sur le banc de pierre, dans l'air tiède d'avril. Les étoiles étaient sorties. Tanguy parlait de tout, de rien : de la récolte de pommes de terre, d'une querelle d'eau avec les voisins, d'une dent de lait d'Anne qu'il avait trouvée dans son assiette. Kerr écoutait. Il hochait la tête. Il avait mis, dans son manteau, un petit paquet.
+Ils burent un vin chaud, assis sur le banc de pierre, dans l'air tiède de mai. Les étoiles étaient sorties. Tanguy parlait de tout, de rien : de la récolte de pommes de terre, d'une querelle d'eau avec les voisins, d'une dent de lait d'Lison qu'il avait trouvée dans son assiette. Kerr écoutait. Il hochait la tête. Il avait mis, dans son manteau, un petit paquet.
 
 Il ne le sortit pas tout de suite. Il attendit que Tanguy se taise. Il dit enfin :
 
@@ -26,9 +28,9 @@ Il ne le sortit pas tout de suite. Il attendit que Tanguy se taise. Il dit enfin
 
 — Pour moi ?
 
-— Pour Anne. Pour plus tard.
+— Pour Lison. Pour plus tard.
 
-Il tendit le paquet : un morceau de toile, noué d'une ficelle. Tanguy le défit. Il y avait un caillou blanc, poli, de la taille d'une noix, avec, dessus, au crayon, trois mots : *Pour Anne. Compte.*
+Il tendit le paquet : un morceau de toile, noué d'une ficelle. Tanguy le défit. Il y avait un caillou blanc, poli, de la taille d'une noix, avec, dessus, au crayon, trois mots : *Pour Lison. Compte.*
 
 — C'est quoi ?
 

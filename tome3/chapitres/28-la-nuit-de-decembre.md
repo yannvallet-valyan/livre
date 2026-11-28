@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, nuit du 11 au 12 décembre 2065.*
+
 Il avait décidé de ne pas la faire, cette nuit-là. Il la fit.
 
 Il se leva à trois heures, dans le noir, sans réveiller Iris. Il avait préparé la tisane la veille, avec le mélange que lui avait donné Étienne pour dormir : trois feuilles de mélisse, un peu de valériane, une pincée de pavot. Il l'avait versée dans la tasse, d'une main égale, et l'avait posée sur la table de nuit, de son côté. Elle avait bu. Elle avait dit : « Merci. » Elle s'était endormie, la tête sur son bras. Il avait senti, sous sa nuque, le poids de sa tête, tiède, absolu.

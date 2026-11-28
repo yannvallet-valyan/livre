@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Lyon, puis Vallorce, décembre 2045.*
+
 Elle trouva la lettre le soir de l'enterrement, dans le tiroir de la table de nuit, sous une boîte de pastilles et un chapelet qui n'était pas à sa mère.
 
 C'était le 5 décembre 2045. Sophia était morte le 2, à cinquante-sept ans, dans la chambre au fond du couloir, d'une chose que les médecins nommaient *insuffisance*, sans dire de quoi. Elle avait demandé un enterrement très simple. Il y avait eu six personnes, une pluie fine, un prêtre qui avait lu un psaume qu'elle n'aimait pas. Iris avait tenu la main d'une voisine pour ne pas avoir à tenir la sienne. Elle avait dix-huit ans.

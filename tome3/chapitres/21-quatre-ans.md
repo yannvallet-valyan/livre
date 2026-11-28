@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 2160.*
+
 Agathe n'avait jamais voulu d'enfant, et elle en élevait quarante.
 
 C'était le dortoir B, au refuge : une longue salle voûtée, au sol de pierre, éclairée par six lampes à huile et un luminaire de secours qui ne marchait plus depuis dix ans. Il y avait quarante lits de fer alignés le long des murs, quarante petites tables de nuit, quarante paires de chaussons en feutre. Il y avait, au fond, un poêle qu'on ne rallumait qu'en hiver, un grand coffre à jouets, et une table de bois où Agathe tenait ses registres. Elle avait quarante-sept ans, des cheveux blancs coupés ras, des mains rouges de lessive, et une façon de parler aux enfants, très bas, sans se pencher, comme à des collègues.

@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Vallorce, 14 novembre 2026, 9 h 40. Quarante-septième tour.*
+
 À neuf heures quarante, le 14 novembre 2026, il y eut deux Iris dans le même cristal, et un seul homme pour le voir.
 
 Il était assis sur une marche de l'escalier de fer, dans le corps du directeur, un téléphone à la main, sans appeler personne. Le bruit des pompes était assourdissant. Les tuyaux serpentaient sur le béton comme des intestins. Le coulis gris, derrière le coffrage, montait centimètre par centimètre. Il regardait cela avec une espèce de soulagement : celui d'un homme qui voit s'effacer un lieu où il a mal rêvé. C'était ce que les gens verraient. C'était ce qu'il laisserait voir.
@@ -80,7 +82,7 @@ Il vit les deux femmes se tourner l'une vers l'autre, d'un même mouvement. Elle
 
 Elles comptaient. Elles ne se concertaient pas. Elles disaient les chiffres alternativement, sans élever la voix, ainsi qu'on dit un chapelet.
 
-Il pensa : *c'est le mot.* C'était le dernier mot de sa mère, qu'il n'avait jamais entendu de sa bouche. C'était le mot que lui avait laissé un homme, dans un carnet de toile. C'était le mot qu'il avait écrit sur un caillou blanc, pour une petite fille qui s'appellerait Anne.
+Il pensa : *c'est le mot.* C'était le dernier mot de sa mère, qu'il n'avait jamais entendu de sa bouche. C'était le mot que lui avait laissé un homme, dans un carnet de toile. C'était le mot qu'il avait écrit sur un caillou blanc, pour une petite fille qui s'appellerait Lison.
 
 — Cinquante-sept, dirent-elles. Cinquante-huit.
 

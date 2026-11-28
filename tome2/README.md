@@ -4,7 +4,7 @@
 > Version V3.4 : ce plan **remplace** l'ancien (héroïne Iris B partant en 2155).
 
 ## Pitch
-> En 2027, une enfant naît la nuit, dans une maternité de Lyon. Sa mère, Sophia, a fui la vallée de Vallorce enceinte, sans savoir de qui. Au moment de la naissance, une voix lui demande, avec sa propre bouche : « Je peux ? » Elle répond : « Vas-y. » L'enfant s'appelle **Iris**.
+> En 2027, dans un autre tour que celui du tome 1 (le « tour brisé » : pas d'Anne, ici), une enfant naît la nuit, dans une maternité de Lyon. Sa mère, Sophia, a fui la vallée de Vallorce enceinte, sans savoir de qui. Au moment de la naissance, une voix lui demande, avec sa propre bouche : « Je peux ? » Elle répond : « Vas-y. » L'enfant s'appelle **Iris**.
 > Trente-huit ans plus tard, Iris a perdu son fils, Sacha, emporté par la Rouille à quinze ans, et l'homme qu'elle aimait a disparu le même hiver. Elle apprend qu'on peut remonter le sang. Elle part en **1958**, dans **Rose Roch**, son ancêtre, l'été où l'on vide une vallée pour la noyer. Elle veut empêcher le lac d'exister. Sur le chantier, un homme en blanc mesure la nuit. C'est son fils, et il ne la reconnaît pas.
 
 ## La question du tome

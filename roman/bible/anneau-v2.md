@@ -30,7 +30,7 @@
 | 2160 | Iris du présent à Vallorce, 1958 (Odette), lavoir. |
 | 2164 | Iris du présent part dans Mathis (34 ans). Elle laisse Kerr (8 ans) à Agathe. |
 | 2165-2175 | Kerr grandit. Il croit que K. est son père. |
-| 2180 | Kerr (24 ans) part pour 2026 dans Bastien. |
+| 10 mai 2180 | Kerr (24 ans, une semaine après son anniversaire) part pour 2026 dans Bastien. |
 
 ## 3. Ce que chacun sait
 - **Sacha** : ignore la vérité jusqu'à la lecture de Ruben. Il apprend d'abord qu'il s'est trompé ; il ne sait pas qui est le vrai père. Il l'apprend de Walther, qui le lui dit.

@@ -54,76 +54,76 @@
 | 47 Annexe | 293 | 15 nov. 2026 | K. | Tour 47 clôture, nuit du 13 non observée, ligne raturée, le vieil homme pleure seul, fiole, Léa, 1958, Tour 48, « qui, de nous tous, a commencé ? » |
 
 
-## Tome 3 — L'Homme du jour (premier jet, V3.65)
+## Tome 3 — L'Homme du jour (premier jet, V3.69)
 
-> Ordre = tri alphabétique des fichiers (non chronologique). ≈ 73876 mots, 67 fichiers. Non publié sur le site. Finale = `41b`–`41g`, coda = `42-tour-48`.
+> Ordre = tri alphabétique des fichiers (non chronologique). ≈ 73565 mots, 67 fichiers. Publié sur le site. Finale = `41b`–`41g`, coda = `42-tour-48`.
 
-| Fichier | Mots | Titre |
-|---|---|---|
-| `01-tobie.md` | 716 | Chapitre 1 — Tobie |
-| `02-le-corps-dun-autre.md` | 801 | Chapitre 2 — Le corps d'un autre |
-| `03-ce-quil-ne-dit-pas.md` | 777 | Chapitre 3 — Ce qu'il ne dit pas |
-| `04-bastien-le-vrai.md` | 968 | Chapitre 4 — Bastien, le vrai |
-| `05-le-cahier-de-la-nuit.md` | 917 | Chapitre 5 — Le cahier de la nuit |
-| `06-ce-quil-dit.md` | 1143 | Chapitre 6 — Ce qu'il dit |
-| `06b-le-silence.md` | 1120 | Chapitre 7 — Le silence |
-| `07-le-manuel.md` | 921 | Chapitre 8 — Le manuel |
-| `08-le-quarante-septieme-matin.md` | 933 | Chapitre 9 — Le quarante-septième matin |
-| `09-lhomme-du-jour.md` | 1146 | Chapitre 10 — L'homme du jour |
-| `09b-ce-quelle-choisit.md` | 1829 | Chapitre 11 — Ce qu'elle choisit |
-| `10-la-galerie.md` | 1126 | Chapitre 12 — La galerie |
-| `11-le-registre-rouge.md` | 1333 | Chapitre 13 — Le registre rouge |
-| `11b-le-cahier-partage.md` | 1795 | Chapitre 14 — Le cahier partagé |
-| `11c-face-a-face.md` | 1349 | Chapitre 15 — Face à face |
-| `12-la-naissance.md` | 1746 | Chapitre 16 — La naissance |
-| `13-le-badge.md` | 1433 | Chapitre 17 — Le badge |
-| `14-odette.md` | 2327 | Chapitre 18 — Odette |
-| `15-le-fils.md` | 1192 | Chapitre 19 — Le fils |
-| `15b-vingt-ans-dans-bastien.md` | 1534 | Chapitre 20 — Vingt ans dans Bastien |
-| `15c-deux-ecritures.md` | 764 | Chapitre 21 — Deux écritures |
-| `15d-la-lettre-jamais-postee.md` | 1461 | Chapitre 22 — La lettre jamais postée |
-| `16-theo.md` | 1370 | Chapitre 23 — Théo |
-| `17-le-caillou-blanc.md` | 1028 | Chapitre 24 — Le caillou blanc |
-| `18-etienne-pense.md` | 955 | Chapitre 25 — Ce qu'Étienne pense |
-| `19-noel-2046.md` | 1122 | Chapitre 26 — Noël, 2046 |
-| `19b-le-premier-baiser.md` | 891 | Chapitre 27 — Le premier baiser |
-| `20-dix-huit-ans.md` | 1213 | Chapitre 28 — Dix-huit ans |
-| `21-quatre-ans.md` | 1150 | Chapitre 29 — Quatre ans |
-| `22-la-maison-denhaut.md` | 1168 | Chapitre 30 — La maison d'en haut |
-| `23-le-monsieur-au-crayon.md` | 1237 | Chapitre 31 — Le monsieur au crayon |
-| `24-trois-heures-du-matin.md` | 1217 | Chapitre 32 — Trois heures du matin |
-| `24b-sacha-sept-ans.md` | 846 | Chapitre 33 — Sacha, sept ans |
-| `25-ce-que-dit-mathis.md` | 1121 | Chapitre 34 — Ce que dit Mathis |
-| `25b-sacha-quatorze-ans.md` | 961 | Chapitre 35 — Sacha, quatorze ans |
-| `26-la-boite-blanche.md` | 999 | Chapitre 36 — La boîte blanche |
-| `27-le-dernier-soir.md` | 1157 | Chapitre 37 — Le dernier soir |
-| `28-la-nuit-de-decembre.md` | 1195 | Chapitre 38 — La nuit de décembre |
-| `29-le-lac.md` | 1106 | Chapitre 39 — Le lac |
-| `30-celui-du-jour.md` | 969 | Chapitre 40 — Celui du jour |
-| `31-le-registre-dagathe.md` | 1034 | Chapitre 41 — Le registre d'Agathe |
-| `32-tanguy.md` | 1289 | Chapitre 42 — Tanguy |
-| `33-les-carnets.md` | 1001 | Chapitre 43 — Les carnets |
-| `34-ce-que-tanguy-ne-sait-pas.md` | 1023 | Chapitre 44 — Ce que Tanguy ne sait pas |
-| `35-le-mariage.md` | 1056 | Chapitre 45 — Le mariage |
-| `35b-agathe.md` | 1093 | Chapitre 46 — Agathe |
-| `35c-la-salle-des-pompes.md` | 1116 | Chapitre 47 — La salle des pompes |
-| `36-la-derniere-nuit-avec-tanguy.md` | 1066 | Chapitre 48 — La dernière nuit avec Tanguy |
-| `36b-les-lettres-diris.md` | 1125 | Chapitre 49 — Les lettres d'Iris |
-| `36c-walther-reste.md` | 1230 | Chapitre 50 — Walther reste |
-| `36d-le-caillou-danne.md` | 987 | Chapitre 51 — Le caillou d'Anne |
-| `36e-le-depart.md` | 1081 | Chapitre 52 — Le départ |
-| `36f-tanguy-vieux.md` | 914 | Chapitre 53 — Tanguy, vieux |
-| `37c-le-cafe.md` | 904 | Chapitre 54 — Le café |
-| `37d-hugo.md` | 819 | Chapitre 55 — Hugo |
-| `38-je-nintervens-pas.md` | 988 | Chapitre 56 — Je n'interviens pas |
-| `39-le-douzieme-bac.md` | 1028 | Chapitre 57 — Le douzième bac |
-| `40-neuf-heures-quarante.md` | 1123 | Chapitre 58 — Neuf heures quarante |
-| `41-pas-encore.md` | 990 | Chapitre 59 — Pas encore |
-| `41a-et-lui.md` | 1051 | Chapitre 60 — Et lui |
-| `41b-la-fenetre.md` | 843 | Chapitre 61 — La fenêtre |
-| `41c-je-sais-qui-vous-etes.md` | 1147 | Chapitre 62 — Je sais qui vous êtes |
-| `41d-grand-pere.md` | 919 | Chapitre 63 — Grand-père |
-| `41e-tout-dire.md` | 1013 | Chapitre 64 — Tout dire |
-| `41f-je-ne-vous-demande-rien.md` | 854 | Chapitre 65 — Je ne vous demande rien |
-| `41g-cinquante-neuf.md` | 934 | Chapitre 66 — Cinquante-neuf |
-| `42-tour-48.md` | 212 | Chapitre 67 — Tour 48 |
+| Fichier | Mots | Titre | Repère |
+|---|---|---|---|
+| `01-tobie.md` | 722 | Chapitre 1 — Tobie | Le refuge, sous la montagne, 2150. |
+| `02-le-corps-dun-autre.md` | 793 | Chapitre 2 — Le corps d'un autre | Premier tour de Kerr. Septembre 2026. |
+| `03-ce-quil-ne-dit-pas.md` | 780 | Chapitre 3 — Ce qu'il ne dit pas | Le refuge, 2150. |
+| `04-bastien-le-vrai.md` | 969 | Chapitre 4 — Bastien, le vrai | Vallorce, septembre 2026. Premier tour. |
+| `05-le-cahier-de-la-nuit.md` | 922 | Chapitre 5 — Le cahier de la nuit | Vallorce, septembre-octobre 2026. Premier tour. |
+| `06-ce-quil-dit.md` | 1146 | Chapitre 6 — Ce qu'il dit | Le refuge, 2150-2152. |
+| `06b-le-silence.md` | 1123 | Chapitre 7 — Le silence | Le refuge, 2152-2153. |
+| `07-le-manuel.md` | 923 | Chapitre 8 — Le manuel | Vallorce, octobre 2026. Premier tour. |
+| `08-le-quarante-septieme-matin.md` | 938 | Chapitre 9 — Le quarante-septième matin | Vallorce, septembre 2026. Quarante-septième tour. |
+| `09-lhomme-du-jour.md` | 1298 | Chapitre 10 — L'homme du jour | Le refuge, juillet 2153. |
+| `09b-ce-quelle-choisit.md` | 1832 | Chapitre 11 — Ce qu'elle choisit | Le refuge, 2153-2155. |
+| `10-la-galerie.md` | 1131 | Chapitre 12 — La galerie | Vallorce, octobre 2026. Premier tour. |
+| `11-le-registre-rouge.md` | 1338 | Chapitre 13 — Le registre rouge | Le refuge, 14 novembre 2159. |
+| `11b-le-cahier-partage.md` | 1792 | Chapitre 14 — Le cahier partagé | Le refuge, 2159. |
+| `11c-face-a-face.md` | 1353 | Chapitre 15 — Face à face | Le refuge, mars 2160. |
+| `12-la-naissance.md` | 1751 | Chapitre 16 — La naissance | Le refuge, 3 mai 2156. |
+| `13-le-badge.md` | 1433 | Chapitre 17 — Le badge | Vallorce, 6 novembre 2026. Quarante-septième tour. |
+| `14-odette.md` | 2330 | Chapitre 18 — Odette | Vallorce-le-Bas, juin 1958. |
+| `15-le-fils.md` | 1198 | Chapitre 19 — Le fils | Genève et Vallorce, 2029-2046. Premier tour. |
+| `15b-vingt-ans-dans-bastien.md` | 843 | Chapitre 20 — Vingt ans dans Bastien | Vallorce, 2026-2038. Premier tour. |
+| `15c-deux-ecritures.md` | 770 | Chapitre 21 — Deux écritures | Vallorce, 13 novembre 2026. Quarante-septième tour. |
+| `15d-la-lettre-jamais-postee.md` | 1463 | Chapitre 22 — La lettre jamais postée | Lyon, puis Vallorce, décembre 2045. |
+| `16-theo.md` | 1369 | Chapitre 23 — Théo | Vallorce, janvier-mars 2046. |
+| `17-le-caillou-blanc.md` | 1026 | Chapitre 24 — Le caillou blanc | Vallorce, 9 juillet 2046. |
+| `18-etienne-pense.md` | 952 | Chapitre 25 — Ce qu'Étienne pense | Vallorce, octobre 2046. |
+| `19-noel-2046.md` | 1120 | Chapitre 26 — Noël, 2046 | Vallorce, 24 décembre 2046. |
+| `20-dix-huit-ans.md` | 1217 | Chapitre 27 — Dix-huit ans | Vallorce, 14 janvier 2047. |
+| `20b-le-premier-baiser.md` | 895 | Chapitre 28 — Le premier baiser | Vallorce, 4 février 2047. |
+| `21-quatre-ans.md` | 1153 | Chapitre 29 — Quatre ans | Le refuge, 2160. |
+| `22-la-maison-denhaut.md` | 1170 | Chapitre 30 — La maison d'en haut | Vallorce, 2047-2050. |
+| `23-le-monsieur-au-crayon.md` | 1241 | Chapitre 31 — Le monsieur au crayon | Le refuge, hiver 2162. |
+| `24-trois-heures-du-matin.md` | 1221 | Chapitre 32 — Trois heures du matin | Vallorce, 3 février 2050. |
+| `24b-sacha-sept-ans.md` | 848 | Chapitre 33 — Sacha, sept ans | Vallorce, 2057. |
+| `25-ce-que-dit-mathis.md` | 1125 | Chapitre 34 — Ce que dit Mathis | Le refuge, décembre 2163. |
+| `26-la-boite-blanche.md` | 998 | Chapitre 35 — La boîte blanche | Vallorce, septembre 2063. |
+| `26b-sacha-quatorze-ans.md` | 958 | Chapitre 36 — Sacha, quatorze ans | Vallorce, mars 2064. |
+| `27-le-dernier-soir.md` | 1162 | Chapitre 37 — Le dernier soir | Le refuge, 13 novembre 2164. |
+| `28-la-nuit-de-decembre.md` | 1163 | Chapitre 38 — La nuit de décembre | Vallorce, nuit du 11 au 12 décembre 2065. |
+| `29-le-lac.md` | 1103 | Chapitre 39 — Le lac | Vallorce, 19 décembre 2065. |
+| `30-celui-du-jour.md` | 973 | Chapitre 40 — Celui du jour | Le refuge, novembre 2164. |
+| `31-le-registre-dagathe.md` | 1036 | Chapitre 41 — Le registre d'Agathe | Le refuge, 3 mai 2166. |
+| `32-tanguy.md` | 1289 | Chapitre 42 — Tanguy | Le refuge, 2170-2172. |
+| `33-les-carnets.md` | 1006 | Chapitre 43 — Les carnets | Le refuge, 3 mai 2174. |
+| `34-ce-que-tanguy-ne-sait-pas.md` | 1017 | Chapitre 44 — Ce que Tanguy ne sait pas | Le refuge, novembre 2176. |
+| `35-le-mariage.md` | 1052 | Chapitre 45 — Le mariage | Le refuge, 14 mai 2177. |
+| `35b-agathe.md` | 1087 | Chapitre 46 — Agathe | Le refuge, 2 mars 2178. |
+| `35c-la-salle-des-pompes.md` | 1121 | Chapitre 47 — La salle des pompes | Le refuge, 8 mai 2180. |
+| `36-la-derniere-nuit-avec-tanguy.md` | 1060 | Chapitre 48 — La dernière nuit avec Tanguy | Le refuge, 9 mai 2180. |
+| `36a-le-depart.md` | 1083 | Chapitre 49 — Le départ | Le refuge, 10 mai 2180. |
+| `36b-les-lettres-diris.md` | 1129 | Chapitre 50 — Les lettres d'Iris | Maurville et ailleurs, 2165-2180. |
+| `36c-walther-reste.md` | 1247 | Chapitre 51 — Walther reste | Le refuge, mai 2180 – décembre 2191. |
+| `36d-le-caillou-de-lison.md` | 989 | Chapitre 52 — Le caillou d'Lison | La vallée, 21 septembre 2197. |
+| `36f-tanguy-vieux.md` | 918 | Chapitre 53 — Tanguy, vieux | Le refuge, juin 2229. |
+| `37c-le-cafe.md` | 906 | Chapitre 54 — Le café | Vallorce, novembre 2026. Quarante-septième tour. |
+| `37d-hugo.md` | 818 | Chapitre 55 — Hugo | Vallorce, novembre 2026. Quarante-septième tour. |
+| `38-je-nintervens-pas.md` | 985 | Chapitre 56 — Je n'interviens pas | Vallorce, nuit du 10 au 11 novembre 2026. Quarante-septième tour. |
+| `39-le-douzieme-bac.md` | 1026 | Chapitre 57 — Le douzième bac | Vallorce, nuit du 13 au 14 novembre 2026. Quarante-septième tour. |
+| `40-neuf-heures-quarante.md` | 1132 | Chapitre 58 — Neuf heures quarante | Vallorce, 14 novembre 2026, 9 h 40. Quarante-septième tour. |
+| `41-pas-encore.md` | 988 | Chapitre 59 — Pas encore | Vallorce, 14 novembre 2026. Quarante-septième tour. |
+| `41a-et-lui.md` | 1054 | Chapitre 60 — Et lui | Vallorce, 15 novembre 2026. Quarante-septième tour. |
+| `41b-la-fenetre.md` | 850 | Chapitre 61 — La fenêtre | Vallorce, nuit du 16 au 17 octobre 2026. Premier tour. |
+| `41c-je-sais-qui-vous-etes.md` | 1152 | Chapitre 62 — Je sais qui vous êtes | Même nuit, 1 h 10. |
+| `41d-grand-pere.md` | 918 | Chapitre 63 — Grand-père | Même nuit. |
+| `41e-tout-dire.md` | 1160 | Chapitre 64 — Tout dire | Même nuit. |
+| `41f-je-ne-vous-demande-rien.md` | 856 | Chapitre 65 — Je ne vous demande rien | Même nuit. |
+| `41g-cinquante-neuf.md` | 932 | Chapitre 66 — Cinquante-neuf | Même nuit, à l'aube. |
+| `42-tour-48.md` | 212 | Chapitre 67 — Tour 48 | Cahier noir, page 1. |

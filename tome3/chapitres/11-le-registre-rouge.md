@@ -2,6 +2,8 @@
 
 *(premier jet)*
 
+*Le refuge, 14 novembre 2159.*
+
 Ruben écrivit dans le registre rouge le 14 novembre 2159, pour la dernière fois.
 
 Il avait quarante-deux ans. Il en paraissait soixante. Il avait la peau grise des gens qui vivent trop sous terre, les doigts raidis par la toux, une barbe qu'il ne rasait plus. Il ne quittait plus le dortoir B depuis deux mois. Il faisait faire par d'autres ce qu'il avait toujours fait lui-même : porter les lampes, ouvrir les registres, tenir les comptes des vivants et des partis. On lui avait dit de se reposer. Il avait répondu qu'il se reposerait après.

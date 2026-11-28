@@ -2,7 +2,9 @@
 
 *(premier jet)*
 
-Il y descendit le 8 avril 2180, à l'heure où l'autre n'y était pas, et l'autre y était.
+*Le refuge, 8 mai 2180.*
+
+Il y descendit le 8 mai 2180, à l'heure où l'autre n'y était pas, et l'autre y était.
 
 C'était la salle la plus chaude du refuge, la plus bruyante, la plus vivante. Des pompes de fonte, vertes, énormes, alignées contre un mur de roche, brassaient l'eau des galeries avec un grondement sourd, régulier, comme un cœur de géant. Des manomètres, des vannes, des tuyaux gainés de toile. Une lampe jaune, au plafond, qui se balançait un peu. Il y avait une odeur de graisse, de métal chaud, de pierre mouillée. Kerr y avait grandi. Il y avait appris à lire un cadran, à purger un circuit, à serrer un boulon d'une demi-clé. Il y avait dit « papa » à six ans, devant une machine.
 
