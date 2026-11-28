@@ -57,3 +57,4 @@ Reste intégré : voyage court d'Iris du présent dans **Odette** (1958) + 9 h 4
 - ⚠ À arbitrer : le plan prévoyait Tanguy (ex-Mael) rouillé avec éclat sur le front ; le texte le garde heureux et non rouillé.
 - ⚠ Restent à écrire (plan) : naissance de Kerr 2156 / Ruben 2159 déjà couverts ; Kerr/Iris du passé au lac 2047 (couvert par `16-theo`) ; chapitres d'ouverture 2150 à relire contre le plan.
 - À faire : passe de style manuelle T3 ; publication site + EPUB T3 (`build-epub.py` ne gère que les tomes 1-2).
+- ⏸ Coda `42-tour-48` : à revoir plus tard (décision de l'auteur, V3.70). Piste : finir l'histoire de la famille et ouvrir sur un autre lieu / une autre époque plutôt que sur un tour 48.
