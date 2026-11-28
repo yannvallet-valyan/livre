@@ -6,9 +6,9 @@
 
 On enterra l'enfant le 19 décembre, par un matin de gel.
 
-Il se tint debout à côté d'elle, les mains dans les poches de son manteau, le visage fermé. Il ne la toucha pas. Il n'avait plus le droit. Elle ne le regarda pas non plus. Elle tenait entre ses doigts un petit caillou blanc, rond, lisse, de la taille d'un œuf de caille, qu'il lui avait donné dix-neuf ans plus tôt. Elle le serrait si fort que ses phalanges avaient blanchi.
+Il se tint debout à côté d'elle, les mains dans les poches de son manteau, le visage fermé. Il ne la toucha pas. Il n'avait plus le droit. Elle ne le regarda pas non plus. Elle tenait entre ses doigts un caillou blanc, lisse, qu'il lui avait donné dix-neuf ans plus tôt. Elle le serrait si fort que ses phalanges avaient blanchi.
 
-Il regarda le cercueil descendre. C'était du sapin clair, sans vernis, que le menuisier du village avait préparé en deux jours. Il regarda la terre tomber dessus, une pelletée, deux, trois. Il compta. Il pensa à une petite voix dans un dortoir, un soir de juin, qui demandait : *Vous avez un crayon ?* Il pensa à une autre, très loin, dans un autre siècle, qui demanderait : *Vous êtes mon père ?*
+Il regarda le cercueil descendre. C'était du sapin clair, sans vernis, que le menuisier du village avait préparé en deux jours. Il regarda la terre tomber dessus, une pelletée, deux, trois. Il compta. Il pensa à une petite voix dans un dortoir, un soir de mai, qui disait : *Mon crayon est tout petit, maintenant.* Il pensa à une autre, très loin, dans un autre siècle, qui demanderait : *Vous êtes mon père ?*
 
 Il fit un pas. Il s'arrêta. Il regarda le trou. *C'est ici que je les laisse.*
 
@@ -78,7 +78,7 @@ Il dit, à voix haute, dans la nuit :
 
 — Pardon.
 
-Il le dit à tous. Il le dit à celui qui dormait en haut, à celui qui dormait dessous, à celle qui n'était pas encore née. Il le dit au lac.
+Il le dit à tous. Il le dit à celle qui dormait en haut, à celui qui dormait dessous, à celle qui n'était pas encore née. Il le dit au lac.
 
 Puis il descendit dans l'eau.
 

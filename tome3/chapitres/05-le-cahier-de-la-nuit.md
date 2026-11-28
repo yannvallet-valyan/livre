@@ -12,13 +12,13 @@ Le cahier était ouvert.
 
 Il le regarda à la façon dont on regarde un animal qui ne devrait pas être là. Puis il s'assit, lentement, et le fit glisser vers lui.
 
-Il y avait, sous ses trois lignes, une écriture qu'il connaissait. Fine, régulière, d'une propreté presque typographique. Une écriture qui ne rature pas, qui ne tremble pas, qui trace chaque lettre comme on tire un fil à plomb. Il l'avait vue des centaines de fois, dans les carnets de son père, dans les lignes du refuge, dans les marges des manuels. C'était l'écriture qu'il avait apprise à l'école, à six ans, de la main d'Agathe, en recopiant un modèle. Il avait appris à écrire en imitant la main d'un homme qu'il n'avait jamais vu.
+Il y avait, sous ses trois lignes, une écriture qu'il connaissait. Fine, régulière, d'une propreté presque typographique. Une écriture qui ne rature pas, qui ne tremble pas, qui trace chaque lettre comme on tire un fil à plomb. Il l'avait vue des centaines de fois, dans les carnets de K., dans les lignes du refuge, dans les marges des manuels. C'était l'écriture qu'il avait apprise à l'école, à six ans, de la main d'Agathe, en recopiant un modèle. Il avait appris à écrire en imitant la main d'un homme qu'il n'avait jamais vu.
 
 C'était la sienne.
 
 Il lut : *Il dort mieux. Bien.*
 
-Il le relut. Il y eut un bruit dans sa poitrine, qui n'était pas son cœur. Il reconnut la phrase. Il l'avait lue, enfant, dans un carnet de son père, comme une remarque de laboratoire. Il la savait par cœur. Il savait ce qu'elle voulait dire. Elle parlait de Bastien. Elle était écrite *sur* Bastien, par quelqu'un qui le regardait dormir avec la tendresse d'un fils.
+Il le relut. Il y eut un bruit dans sa poitrine, qui n'était pas son cœur. Il reconnut la phrase. Il l'avait lue, enfant, dans un carnet de K., comme une remarque de laboratoire. Il la savait par cœur. Il savait ce qu'elle voulait dire. Elle parlait de Bastien. Elle était écrite *sur* Bastien, par quelqu'un qui le regardait dormir avec la tendresse d'un fils.
 
 Il ne comprit pas.
 
@@ -58,7 +58,7 @@ Il comprit un matin, devant une page, que ce n'était pas un hôte. Ni un voyage
 
 Il le comprit à une ligne seulement : *Tour 1. J + 12. Variable inconnue : cesse de me chercher. Je ne dois pas lui parler. Pas encore.*
 
-*Tour 1.* Il y était. *Variable inconnue.* C'était lui. L'écriture de son père notait ses actes comme on note ceux d'un étranger, avec le détachement des gens qui ont trop attendu. Il sentit une douleur très nette, très vive, qui n'était pas physique. Il pensa à son enfance, à Agathe, au dortoir B, à la voix de Ruben qui lui disait *parti devant*. Il pensa au mot *père*, qu'il n'avait jamais prononcé.
+*Tour 1.* Il y était. *Variable inconnue.* C'était lui. L'écriture de K. notait ses actes comme on note ceux d'un étranger, avec le détachement des gens qui ont trop attendu. Il sentit une douleur très nette, très vive, qui n'était pas physique. Il pensa à son enfance, à Agathe, au dortoir B, à la voix de Ruben qui lui disait *parti devant*. Il pensa au mot *fils*, qu'il n'avait encore jamais eu à dire.
 
 *Il est là,* pensa-t-il. *Il est dans ce corps, la nuit. Il me regarde.*
 

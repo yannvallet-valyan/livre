@@ -2,7 +2,7 @@
 
 *(premier jet)*
 
-*Vallorce, 2026-2038. Premier tour.*
+*Vallorce et Genève, 2026-2045. Premier tour.*
 
 Il lui fallut vingt ans pour comprendre qu'on peut habiter un homme sans cesser de lui devoir quelque chose.
 
@@ -40,7 +40,7 @@ Il le sut en janvier 2029, quand une clinique de Genève lui remit, un matin de 
 
 ---
 
-Le soir où Théo eut neuf ans, il demanda où était sa mère.
+Un soir de septembre, l'année de ses neuf ans, Théo demanda où était sa mère.
 
 Ils étaient sur le ponton, au bord du lac, dans la lumière orange de septembre. Le garçon lançait des galets. Il en fit rebondir quatre. Il se retourna, la main encore levée, et posa la question comme on demande l'heure.
 

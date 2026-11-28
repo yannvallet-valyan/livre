@@ -26,11 +26,11 @@ Il y avait deux femmes devant le cristal.
 
 La première était petite, brune, vêtue de gris, un grain de beauté au coin de la paupière gauche. Elle avait trente-quatre ans, et le visage de quelqu'un qui a traversé quelque chose. Elle tenait dans sa main une craie. Elle se tenait droite, calme, les yeux fixés sur l'autre.
 
-L'autre lui ressemblait, et ne lui ressemblait pas. Elle avait le même front trop grand, la même courbe de bouche. Mais ses cheveux étaient longs, noirs, attachés d'un ruban. Elle paraissait plus jeune, plus fragile. Elle serrait ses bras contre elle, comme quelqu'un qui a froid. Elle regardait la première avec une expression stupéfaite, pleine d'une peur qu'elle ne comprenait pas.
+L'autre lui ressemblait, et ne lui ressemblait pas. Elle avait le même front trop grand, la même courbe de bouche. Mais ses cheveux étaient longs, noirs, attachés d'un ruban. Elle paraissait plus fragile. Elle serrait ses bras contre elle, comme quelqu'un qui a froid. Elle regardait la première avec une expression stupéfaite, pleine d'une peur qu'elle ne comprenait pas.
 
 Kerr s'arrêta. Il n'avait pas besoin de bouger : il était là, sans corps, spectateur invisible, appuyé à rien.
 
-La plus âgée parla la première.
+La première parla.
 
 — Tu ne me connais pas.
 

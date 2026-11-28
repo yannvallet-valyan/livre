@@ -82,7 +82,7 @@ Tanguy le regarda. Il y eut un moment très long, où l'eau tombait entre eux, s
 
 — Je suis très content pour toi, répéta Kerr, avec un sourire qu'il sentit se déchirer sur ses lèvres.
 
-Il pensa : *je ne peux pas lui dire.* *Je ne peux pas lui dire que je l'ai su avant lui. Que je l'ai lu dans un carnet. Que Lucie lui donnera une fille en 2178, et que la fille s'appellera Lison, et qu'elle aura ses cheveux, et qu'il l'adorera.* *Je ne peux pas lui dire que je serai parti avant la naissance.*
+Il pensa : *je ne peux pas lui dire.* *Je ne peux pas lui dire que je l'ai su avant lui. Que je l'ai lu dans un carnet. Que Lucie lui donnera une fille en 2178, et que la fille s'appellera Lison, et qu'elle aura ses cheveux, et qu'il l'adorera.* *Je ne peux pas lui dire que je partirai quand elle saura à peine marcher.*
 
 Il dit :
 

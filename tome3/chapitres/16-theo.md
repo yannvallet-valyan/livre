@@ -68,7 +68,7 @@ Il ne lui dit jamais qu'il avait été lui.
 
 Il rencontra Iris le premier dimanche de mars.
 
-Il l'attendait depuis vingt ans. Il avait lu son visage dans les carnets de son père, cent fois, de la plume d'un homme qui l'avait aimée : *front trop grand, sourcils droits, un grain de beauté au coin de la paupière gauche.* Il avait appris ces traits comme on apprend un poème. Il s'était juré de ne pas la reconnaître. Il s'était juré qu'il ne la regarderait pas trop.
+Il l'attendait depuis vingt ans. Il avait lu son visage dans les carnets de K., cent fois, de la plume d'un fils qui l'avait aimée : *front trop grand, sourcils droits, un grain de beauté au coin de la paupière gauche.* Il avait appris ces traits comme on apprend un poème. Il s'était juré de ne pas la reconnaître. Il s'était juré qu'il ne la regarderait pas trop.
 
 Il était assis sur le muret du lac, un caillou à la main, quand elle apparut sur le chemin de halage. Elle marchait les mains dans les poches, sans but, avec la lenteur de ceux qui ne savent pas où ils vont. Elle avait dix-huit ans. Elle avait un manteau trop grand, des cheveux tirés en arrière, une façon de tenir le menton qui lui rappela tout à coup, avec une violence absurde, un autre menton, minuscule, dans une couverture bleue.
 
@@ -102,6 +102,6 @@ Il ne tint pas toutes ses promesses. Mais il tint celle-là.
 
 Ce n'était pas vrai. Il le savait. Il avait lu son nom dans un carnet, il y avait longtemps, à une époque où il n'avait pas encore de corps. Elle ne releva pas.
 
-Il lui offrit, plus tard, un caillou blanc. Il le fit sans y penser. Il avait trouvé, ce matin-là, sur le ponton, une pierre lisse, ronde, de la taille d'un œuf de caille. Il l'avait gardée dans sa poche pendant des mois, avant de la lui donner, le jour de ses dix-neuf ans, à la façon dont on donne un objet qu'on a longtemps porté pour quelqu'un d'autre.
+Il lui offrit, plus tard, un caillou blanc, le jour de ses dix-neuf ans. Il l'avait ramassé le matin même, au bord de l'eau, sans y penser, et l'avait gardé dans son poing jusqu'à midi, à la façon dont on porte un objet pour quelqu'un d'autre.
 
 Il ne lui dit pas que c'était celui d'un enfant qu'il n'avait pas eu.

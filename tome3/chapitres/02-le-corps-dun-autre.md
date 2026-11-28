@@ -10,7 +10,7 @@ C'est la première chose que Kerr comprit, avant la lumière, avant l'odeur de m
 
 *Compte.*
 
-Il avait appris cela dans les carnets de son père. Il compta. À vingt, la poussée faiblit. À quarante, elle ne fut plus qu'une plainte. À soixante, elle se tut, ou plutôt elle se retira, avec la dignité de quelqu'un qui cède et qui s'en souviendra.
+Il avait appris cela dans les carnets de K.. Il compta. À vingt, la poussée faiblit. À quarante, elle ne fut plus qu'une plainte. À soixante, elle se tut, ou plutôt elle se retira, avec la dignité de quelqu'un qui cède et qui s'en souviendra.
 
 Il ouvrit les yeux.
 
@@ -30,7 +30,7 @@ Il fouilla les tiroirs. Un agenda : *Bastien Kerr, directeur, Laboratoire d'étu
 
 Il saisit qu'il était arrivé. Il comprit aussi qu'il était arrivé *chez quelqu'un*.
 
-C'était la règle qu'on lui avait enseignée. Il l'avait lue cent fois, dans les carnets, de la main fine de son père : on remonte le sang, on habite l'ancêtre, on le garde endormi. On ne le blesse pas. Dans les carnets, c'était simple, une affaire de patience et de méthode. Il n'avait pas pensé qu'il pourrait entendre l'autre.
+C'était la règle qu'on lui avait enseignée. Il l'avait lue cent fois, dans les carnets, de la main fine de K. : on remonte le sang, on habite l'ancêtre, on le garde endormi. On ne le blesse pas. Dans les carnets, c'était simple, une affaire de patience et de méthode. Il n'avait pas pensé qu'il pourrait entendre l'autre.
 
 Le soir tomba. Il resta dans le bureau, dans le noir, à regarder le lac s'éteindre. À neuf heures, la poussée revint, plus faible, mais tenace, et il comprit qu'il ne s'agissait pas d'un souvenir. Bastien Kerr n'était pas parti. Il attendait, à l'intérieur, qu'on veuille bien lui rendre ses mains.
 

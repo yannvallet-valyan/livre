@@ -18,7 +18,7 @@ Il n'en avait pas voulu à Théo. Il avait seulement pensé : *il sait quelque c
 
 Pourquoi la prit-il ?
 
-Il ne le sut jamais bien. Il crut, plus tard, qu'il l'avait fait pour savoir. Pour savoir ce que c'était, de ne plus entendre cette voix dans sa tête, ce murmure qui lui répétait, depuis l'enfance, des phrases qu'il n'avait pas écrites : *Compte. Je n'interviens pas. Le sang mène au passé.* Il les entendait la nuit, le jour, à l'école, dans son sommeil. Il pensait être fou. Il en parlait à personne.
+Il ne le sut jamais bien. Il crut, plus tard, qu'il l'avait fait pour savoir. Pour savoir ce que c'était, de ne plus entendre cette voix dans sa tête, ce murmure qui lui répétait, depuis l'enfance, des phrases qu'il n'avait pas écrites : *Compte. Je n'interviens pas. Le sang mène au passé.* Il les entendait la nuit, le jour, à l'école, dans son sommeil. Il pensait être fou. Il n'en parlait à personne.
 
 Il savait que ce n'était pas une folie. C'était une présence. Une mémoire qui n'était pas la sienne, qui lui venait d'un autre âge, d'un autre corps, d'une autre vie. Il la sentait grandir. Il la sentait s'approcher, de mois en mois, comme une marée.
 

@@ -4,6 +4,10 @@
 
 *Maurville et ailleurs, 2165-2180.*
 
+Le carnet de Sacha s'était trompé une seconde fois. Elle ne s'était pas dissoute.
+
+Elle s'était endormie au fond de Mathis, le 14 novembre, à l'aube, dans une chambre de 2026 où un enfant n'avait plus peur du noir. Onze jours plus tard, sur le lit de camp de la réserve, elle avait rouvert les yeux dans son propre corps, avec la peur du noir d'un autre dans les mains et un automne entier qui ne lui appartenait plus. Walther, qui n'avait pas quitté la pièce d'à côté, l'avait trouvée assise, le front encore rouge. Elle lui avait fait promettre. Personne ne devait savoir, et Kerr moins que personne : elle lui avait déjà dit au revoir, et l'on ne dit pas au revoir deux fois à un enfant de huit ans. Elle était partie avant l'aube, par la porte des citernes.
+
 Elle lui écrivit pendant seize ans, et ne lui envoya rien.
 
 C'étaient des feuillets pliés en quatre, des pages arrachées à des cahiers, des bouts de papier d'emballage, des tickets de caisse retournés. Elle écrivait n'importe où : sur un banc, dans un train, sur le bord d'un lit. Elle écrivait d'une écriture ronde, un peu penchée, sans ratures, ainsi qu'on parle à quelqu'un qui écoute. Elle commençait toujours par la même phrase :
@@ -56,7 +60,7 @@ Elle ne l'était pas. Elle ne savait pas ce qu'elle était.
 
 *Aujourd'hui, tu as seize ans. J'ai appris que tu étais devenu grand, beau, taciturne. Qu'on t'appelait « le fils du régisseur ». Qu'un garçon roux te suivait partout, en riant. Je remercie le ciel pour ce garçon.*
 
-*J'ai eu, hier, un accès de fièvre. J'ai cru que je mourais. Je ne voulais pas. Je me suis dit : « Pas avant de lui avoir dit la vérité. » Je me suis dit : « Pas avant de lui avoir dit qui est son père. » Et puis j'ai réfléchi : ce n'est pas à moi de le faire. C'est à lui. C'est à celui qui s'est tu pendant soixante ans.*
+*J'ai eu, hier, un accès de fièvre. J'ai cru que je mourais. Je ne voulais pas. Je me suis dit : « Pas avant de lui avoir dit la vérité. » Je me suis dit : « Pas avant de lui avoir dit qui est son père. » Et puis j'ai réfléchi : ce n'est pas à moi de le faire. C'est à lui. C'est à celui qui se tait depuis que tu es né.*
 
 *Je veux que tu saches une chose, au cas où je n'aurais pas le temps de te la dire. Tu as été désiré. Tu as été attendu. Tu as été choisi, par une femme qui n'avait pas le droit de choisir, et qui l'a fait, librement, un soir de novembre, en disant à un homme qu'elle l'aimait.*
 
@@ -88,7 +92,7 @@ Elle reprit :
 
 *Je ne te demande rien. Je ne te demande pas de me pardonner. Je te demande seulement de savoir.*
 
-*Tu es né un 3 mai, à trois heures du matin, d'une femme qui comptait et d'un homme qui attendait. Tu n'as jamais été une erreur. Tu as été une réponse.*
+*Tu es né un 3 mai, à cinq heures et quart du matin, d'une femme qui comptait et d'un homme qui attendait. Tu n'as jamais été une erreur. Tu as été une réponse.*
 
 *Dors bien.*
 

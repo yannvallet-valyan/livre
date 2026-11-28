@@ -16,7 +16,7 @@ Il la leva d'une main, très lentement. Elle gémit. Il retint son souffle. Rien
 
 Il referma la fenêtre. Il ne bougea plus dans le noir.
 
-Il avait vingt-quatre ans d'âge, quarante-six tours de métier, et les mains qui tremblaient comme celles d'un enfant surpris à voler.
+Il avait vingt-quatre ans d'âge, des carnets entiers appris par cœur, et les mains qui tremblaient comme celles d'un enfant surpris à voler.
 
 ---
 
@@ -28,7 +28,7 @@ Il trouva une casserole dans le placard. Il la remplit. Il lava les lentilles da
 
 Il avait lu dans un carnet que la soupe de lentilles était, pour Noé, le goût de son enfance. Pas de la sienne : de celle d'Étienne, l'hôte, dont les souvenirs lui revenaient par bribes, sans qu'il les ait demandés. *Des lentilles au cumin, trop salées.* C'était une des phrases qui l'avaient fait pleurer à dix ans. Il ne savait pas pourquoi.
 
-Il ne savait pas non plus que c'était la phrase de Sophia, plus tard, devant Étienne : *Il mettait trop de sel.* Il ne le saurait qu'en 2180, dans un autre corps, à la lecture d'une vieille lettre.
+Il ne savait pas non plus que c'était la phrase de Sophia, plus tard, devant Étienne : *Il mettait trop de sel.* Il ne le saurait que plus tard, dans un autre corps, à la lecture d'une vieille lettre.
 
 Le feu prit. L'eau frémit. Une odeur monta, d'ail, de thym, de cumin. Il se tenait debout, devant la casserole, la cuillère à la main, les yeux fermés. Il goûta. Il rajouta du sel. Il goûta. Il en rajouta encore.
 

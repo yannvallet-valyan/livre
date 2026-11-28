@@ -1,16 +1,16 @@
-# Chapitre 52 — Le caillou d'Lison
+# Chapitre 52 — Le caillou de Lison
 
 *(premier jet)*
 
-*La vallée, 21 septembre 2197.*
+*La vallée, 21 septembre 2195.*
 
 Lison eut dix-sept ans le jour où son père lui donna le caillou.
 
-C'était le 21 septembre 2197. Il pleuvait. Elle revenait de l'atelier de tissage, les doigts engourdis, une fatigue jaune dans les épaules. Elle avait les cheveux roux de Tanguy, noués en une tresse lourde, et les yeux gris de sa mère. Elle marchait vite, la tête rentrée, comme tous ceux qui ont trop à faire. Elle poussa la porte de la maison, jeta son châle sur une chaise.
+C'était le 21 septembre 2195. Il pleuvait. Elle revenait de l'atelier de tissage, les doigts engourdis, une fatigue jaune dans les épaules. Elle avait les cheveux roux de Tanguy, noués en une tresse lourde, et les yeux gris de sa mère. Elle marchait vite, la tête rentrée, comme tous ceux qui ont trop à faire. Elle poussa la porte de la maison, jeta son châle sur une chaise.
 
 Son père l'attendait dans la cuisine.
 
-Il était assis à la table, devant une tasse qu'il ne buvait pas. Il avait vieilli. Il avait cinquante ans, des cheveux presque blancs, un dos un peu voûté. Il avait toujours le visage rond, les taches de rousseur, le rire facile. Mais il y avait, dans ses yeux, depuis longtemps, une espèce de tristesse patiente, qu'elle ne s'expliquait pas.
+Il était assis à la table, devant une tasse qu'il ne buvait pas. Il avait vieilli. Il avait trente-neuf ans, des cheveux qui grisonnaient déjà, un dos un peu voûté. Il avait toujours le visage rond, les taches de rousseur, le rire facile. Mais il y avait, dans ses yeux, depuis longtemps, une espèce de tristesse patiente, qu'elle ne s'expliquait pas.
 
 — Assieds-toi, dit-il.
 

@@ -8,7 +8,7 @@ La lettre arriva au refuge le 19 mai 2180, dans un sac de courrier, entre un cat
 
 Walther la prit des mains de la factrice, sans la regarder. Il la glissa dans la poche de sa veste, avec le reste. Il était à ce moment-là dans la cour, un tournevis dans l'autre main, occupé à réparer le loquet d'une porte. Il fit encore le loquet. Il vérifia qu'il tenait. Il rangea le tournevis dans sa trousse. Il ne se pressait pas.
 
-Il avait cinquante ans de visage, et cent vingt de patience.
+Il avait cinquante ans de visage, et deux siècles de patience.
 
 Ce n'est qu'à la nuit qu'il la sortit. Il s'assit sur son lit, dans la chambre étroite du couloir sud, devant la lampe grise qu'il avait ramenée du puits, des années plus tôt. Il retourna l'enveloppe. Il reconnut l'écriture ronde, un peu penchée. Il ne l'avait jamais oubliée. Il avait relu, cent fois, une phrase tracée sur un bout de papier, en novembre 2153 : *Je t'aime. Je ne sais pas faire autrement.*
 

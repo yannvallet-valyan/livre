@@ -92,7 +92,7 @@ Elle ne répondit pas. Elle ne le contredit pas. Elle sentit le piège du silenc
 
 — Je sais, dit Kerr. Mais je préfère le croire.
 
-Elle le regarda. Elle comprit qu'il avait fait un choix : celui de croire à l'histoire la plus simple, la plus triste, et qu'il y tiendrait toute sa vie, parce qu'il n'en avait pas d'autre. Elle voulut lui dire : *non. C'est faux.* Elle ouvrit la bouche. Elle la referma.
+Elle le regarda. Elle comprit qu'il avait fait un choix : celui de croire à l'histoire la plus simple, la plus triste, et qu'il y tiendrait jusqu'à ce qu'on lui en donne une autre. Elle voulut lui dire : *non. C'est faux.* Elle ouvrit la bouche. Elle la referma.
 
 Elle venait de comprendre quelque chose qu'elle n'oublierait pas : qu'on peut protéger un enfant d'une vérité en lui laissant un mensonge raisonnable, et qu'on ne se le pardonne pas.
 

@@ -50,7 +50,7 @@ Il se tint debout, les bras ballants, sous la lumière. Il se regarda les mains,
 
 Il pensa, un instant plus tard, avec une honte aiguë : *j'ai tué quelqu'un.*
 
-Ce n'était pas vrai. Il le savait. Mais il y aurait Walther, qui mourrait un 15 novembre devant une table ; il y aurait Rose, qui pleurerait pendant des années ; il y aurait Jean, qui comprendrait trop tard. Il y aurait, dans quarante ans, un adolescent qui s'appellerait Sacha, et qui se jetterait dans un lac.
+Ce n'était pas vrai. Il le savait. Mais il y aurait Walther, qui mourrait un 15 novembre devant une table ; il y aurait Rose, qui pleurerait pendant des années ; il y aurait Jean, qui comprendrait trop tard. Il y aurait, dans quarante ans, un adolescent qui s'appellerait Sacha, et qu'on enterrerait un matin de gel.
 
 *Je les ai tous tués,* pensa-t-il. *Et ils m'ont tous donné la vie.*
 

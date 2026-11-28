@@ -6,11 +6,11 @@
 
 Il avait lu la scène cent fois, et il n'était pas prêt.
 
-C'était écrit, dans un carnet de son père, d'une plume sèche, sans adjectif : *Sacha naît le 3 février 2050, à trois heures du matin, dans la chambre du haut, par grand froid. Étienne l'accouche. Théo est derrière elle. Il dit : pardon.* Il avait lu la phrase à vingt-quatre ans, dans un dortoir du refuge, à la lueur d'une lampe. Il avait pensé : *je ne dirai pas pardon.* Il se l'était promis.
+C'était écrit, dans un carnet de K., d'une plume sèche, sans adjectif : *Sacha naît le 3 février 2050, à trois heures du matin, dans la chambre du haut, par grand froid. Étienne l'accouche. Théo est derrière elle. Il dit : pardon.* Il avait lu la phrase à vingt-quatre ans, dans un dortoir du refuge, à la lueur d'une lampe. Il avait pensé : *je ne dirai pas pardon.* Il se l'était promis.
 
 Il le dit.
 
-Il le dit dans l'oreille d'Iris, à trois heures dix, quand elle se cambrait contre lui, la tête rejetée en arrière, les cheveux collés aux tempes, et qu'il la tenait aux épaules, de ses deux mains, sans trouver où se mettre. Il le dit tout bas, comme on dit un mot qu'on ne contrôle pas. Il ne s'adressait pas à elle. Il s'adressait à l'enfant qui venait, à l'homme qu'il serait, à tout ce qui allait être, à cause de lui, un jour, une nuit, sur un lit d'hôpital en 2065.
+Il le dit dans l'oreille d'Iris, à trois heures moins dix, quand elle se cambrait contre lui, la tête rejetée en arrière, les cheveux collés aux tempes, et qu'il la tenait aux épaules, de ses deux mains, sans trouver où se mettre. Il le dit tout bas, comme on dit un mot qu'on ne contrôle pas. Il ne s'adressait pas à elle. Il s'adressait à l'enfant qui venait, à l'homme qu'il serait, à tout ce qui allait être, à cause de lui, un jour, une nuit, dans une chambre, en décembre 2065.
 
 Elle ne l'entendit pas. Elle criait.
 
@@ -24,7 +24,7 @@ Il avait allumé le poêle, bouilli des linges, ouvert une bouteille thermos, pr
 
 Il ne s'évanouit pas. Il tint. Il tint ainsi qu'on tient un mât dans un orage, sans savoir pourquoi, avec la seule conviction qu'il fallait que quelqu'un soit debout.
 
-À quatre heures moins dix, il vit la tête.
+Un peu avant trois heures, il vit la tête.
 
 Il ne s'y attendait pas : on lui avait dit, dans les carnets, que ce serait un garçon aux cheveux noirs, un petit crâne fripé, des yeux fermés. Il n'avait pas pensé au reste. Aux épaules, minuscules, glissantes. Au cri. Au cri rauque, outragé, d'une bête qui découvre la lumière. Étienne reçut l'enfant dans ses mains. Il le tint un instant à bout de bras, très droit, à la façon dont on regarde un objet précieux dont on n'est pas sûr qu'il tienne. Il le regarda de près. Il s'immobilisa.
 
@@ -36,7 +36,7 @@ Il eut envie de lui dire : *oui.* Il eut envie de dire : *c'est votre petit-fils
 
 ---
 
-Iris prit l'enfant à quatre heures.
+Iris prit l'enfant à trois heures et quart.
 
 Elle le tint contre elle, nu, humide, poisseux, rouge. Elle le regardait avec un air d'effroi. Elle ne souriait pas. Elle dit, d'une voix cassée :
 
@@ -98,9 +98,9 @@ Il regarda l'enfant dormir, dans le berceau d'osier qu'Étienne avait descendu d
 
 Il écrivit, au matin, dans le cahier noir :
 
-*Sacha, né le 3 février 2050, 3 h 52. Mère : Iris. Père : moi.*
+*Sacha, né le 3 février 2050, 3 h 02. Mère : Iris. Père : moi.*
 
-Il ne rayait rien. Il regarda longuement les mots. Il pensa à un enfant de quatre ans qui avait demandé, un soir de juin, dans un dortoir : *Vous avez un crayon ?* Il pensa que les mots d'un livre pouvaient être faux et vrais à la fois.
+Il ne rayait rien. Il regarda longuement les mots. Il pensa à un enfant de quatre ans qui avait dit, un soir de mai, dans un dortoir, à quelqu'un qui n'était pas là : *Mon crayon est tout petit, maintenant.* Il pensa que les mots d'un livre pouvaient être faux et vrais à la fois.
 
 Il écrivit, en dessous :
 

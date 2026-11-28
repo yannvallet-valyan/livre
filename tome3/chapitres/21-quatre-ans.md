@@ -36,7 +36,7 @@ Il avait un ami, pourtant. Un petit garçon de son âge, rond, roux, aux joues t
 
 ---
 
-Elle surprit une scène, un soir de juin, qu'elle n'oublia jamais.
+Elle surprit une scène, un soir de mai, qu'elle n'oublia jamais.
 
 Elle faisait la ronde, avec sa lampe, entre les lits. Elle s'arrêta devant celui de Kerr, qui était vide. Elle fit trois pas. Elle l'entendit, dans le coin du fond, derrière le coffre à jouets, qui parlait à voix très basse. Elle s'approcha, sans bruit.
 
@@ -46,11 +46,11 @@ Il était assis par terre, en chemise de nuit, devant un petit rectangle de papi
 
 Un silence.
 
-— Je m'appelle Kerr. J'ai quatre ans. Vous avez un crayon ?
+— Je m'appelle Kerr. J'ai quatre ans. Mon crayon est tout petit, maintenant.
 
 Un silence.
 
-— Moi, je n'en ai pas. Maman dit que ça coûte cher.
+— Maman dit que ça coûte cher.
 
 Un silence plus long. Il écouta, la tête penchée, comme quelqu'un qui reçoit une réponse. Puis il sourit.
 

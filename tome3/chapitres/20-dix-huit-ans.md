@@ -30,7 +30,7 @@ Il ne se pardonnait pas cela non plus.
 
 *Elle a dix-neuf ans, pensait-il. Tu en as quarante-quatre.*
 
-C'était vrai. Il le sentait dans les os. Il avait vécu dans Bastien, vingt ans, des matins, des nuits, des conseils d'administration. Il avait appris à mentir, à sourire, à tenir une fourchette devant un préfet. Il avait vieilli. Le corps de Théo était lisse, tiède, ignorant des choses. L'esprit qui l'habitait était un homme fatigué, plein de rides invisibles. Il avait demandé à son père, par lettre, dans les carnets, s'il avait le droit. Il n'avait pas reçu de réponse. Il avait compris que son père, qui écrivait si bien, n'avait pas su.
+C'était vrai. Il le sentait dans les os. Il avait vécu dans Bastien, vingt ans, des matins, des nuits, des conseils d'administration. Il avait appris à mentir, à sourire, à tenir une fourchette devant un préfet. Il avait vieilli. Le corps de Théo était lisse, tiède, ignorant des choses. L'esprit qui l'habitait était un homme fatigué, plein de rides invisibles. Il avait demandé à K., par une ligne dans le cahier, s'il avait le droit. Il n'avait pas reçu de réponse. Il avait compris que K., qui écrivait si bien, n'avait pas su.
 
 — À quoi tu penses ? dit Iris.
 

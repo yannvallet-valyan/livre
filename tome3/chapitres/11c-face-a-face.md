@@ -144,4 +144,4 @@ Il rit, à demi, d'un rire mouillé. Il dit :
 
 Ils se levèrent, ensemble, avec effort, comme deux hommes très âgés. Le corps tituba. Il appuya une paume contre le mur. Il respira. Il fit trois pas dans le couloir, sans que personne sache plus lequel marchait.
 
-Dans le dortoir B, un enfant de quatre ans rêvait qu'il tenait un crayon entre le pouce et le majeur. Il le tenait si bien qu'il en sourit dans son sommeil.
+Dans le dortoir B, un enfant de presque quatre ans rêvait qu'il tenait un crayon entre le pouce et le majeur. Il le tenait si bien qu'il en sourit dans son sommeil.

@@ -100,7 +100,7 @@ Elle lâcha. Elle dit, d'une voix qui se voulait légère :
 
 — Oui, dit-il.
 
-Elle le servit. Ils burent en silence, côte à côte, face à la fenêtre, regardant les toits. Elle ne dit rien. Il ne dit rien. Il pensait : *dix-sept ans.* Il pensait : *vingt-huit mois.* Il pensait : *je pourrai tenir.*
+Elle le servit. Ils burent en silence, côte à côte, face à la fenêtre, regardant les toits. Elle ne dit rien. Il ne dit rien. Il pensait : *dix-sept ans.* Il pensait : *six mois.* Il pensait : *je pourrai tenir.*
 
 Il tenait déjà.
 

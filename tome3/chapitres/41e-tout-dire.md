@@ -38,7 +38,7 @@ Il y eut un silence. Élise baissa les yeux. Noé serra la mâchoire.
 
 — Pas cette nuit ?
 
-— Il existe un autre tour, dit Kerr. Celui que j'ai vu quarante-six fois. Là-bas, vous ne franchissez rien en octobre. Vous attendez. Vous vous cherchez à la loyale. Et c'est elle, Sophia, qui finit par vous l'offrir : un mois plus tard, par écrit, en sachant. Elle lit qu'elle aura une fille, qui s'appellera Anne. Elle écrit oui. Elle offre une nuit, une seule, la dernière, à deux personnes qu'elle a appris à connaître dans son propre corps. C'est un consentement. Le seul de toute cette histoire.
+— Il existe un autre tour, dit Kerr. Celui que les carnets m'ont raconté quarante-six fois. Là-bas, vous ne franchissez rien en octobre. Vous attendez. Vous vous cherchez à la loyale. Et c'est elle, Sophia, qui finit par vous l'offrir : un mois plus tard, par écrit, en sachant. Elle lit qu'elle aura une fille, qui s'appellera Anne. Elle écrit oui. Elle offre une nuit, une seule, la dernière, à deux personnes qu'elle a appris à connaître dans son propre corps. C'est un consentement. Le seul de toute cette histoire.
 
 — Et ici ?
 
@@ -96,7 +96,7 @@ Il leur dit les noms de ceux qui viendraient : ici, Iris, Théo, Sacha ; et, dan
 
 Il ne leur dit pas tout.
 
-Il tut le lac, la pierre, le mot laissé sur la berge. Il tut la maladie de Sacha, les pilules, l'éclat. Il ne leur dit pas que le garçon dont il parlait avait quinze ans quand il s'était noyé, et que son père, celui qui parlait, l'avait laissé faire.
+Il tut le lac, le mot laissé sur une table de cuisine. Il tut la maladie de Sacha, les pilules, l'éclat. Il ne leur dit pas que le garçon dont il parlait avait quinze ans quand on l'avait mis en terre, et que son père, celui qui parlait, lui avait posé l'éclat sur le front.
 
 Il n'osa pas.
 

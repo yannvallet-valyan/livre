@@ -30,7 +30,7 @@ Il n'avait pas le droit de savoir ce qu'elles se disaient. Il le savait pourtant
 
 Il serra le boîtier.
 
-Il pensa à une femme de cinquante-sept ans, assise sur un lit de Lyon, en janvier 2066, qui disait à un homme de quatre-vingt-cinq ans : « Il faut que je parte. » Il pensa à elle, à sa voix, à la façon dont elle avait posé la main sur son front. *Elle ne m'a jamais reconnu.* Il pensa : *moi non plus, quand je l'ai revue.*
+Il pensa à une femme de trente-huit ans, assise sur un lit de Lyon, en janvier 2066, qui disait à un homme de quatre-vingt-cinq ans : « Il faut que je parte. » Il pensa à elle, à sa voix, à la façon dont elle avait posé la main sur son front. *Elle ne m'a jamais reconnu.* Il pensa : *moi non plus, quand je l'ai revue.*
 
 Il écrivit, sous la ligne :
 

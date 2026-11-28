@@ -6,7 +6,7 @@
 
 Il connaissait la date par cœur.
 
-Le lundi 19 octobre 2026, à deux heures sept du matin, une femme de trente-huit ans descendrait par l'escalier de service, avec une lampe et un badge, jusqu'à la galerie du barrage. Elle y resterait une heure. Elle en remonterait sans avoir rien dit, avec du sang sur la lèvre, et sa vie ne serait plus tout à fait la sienne. Il l'avait lu, enfant, dans une page des carnets de son père, qu'il avait recopiée deux fois pour mieux la retenir. *La paroi garde ce qu'elle portait.*
+Le lundi 19 octobre 2026, à deux heures sept du matin, une femme de trente-sept ans descendrait par l'escalier de service, avec une lampe et un badge, jusqu'à la galerie du barrage. Elle y resterait une heure. Elle en remonterait sans avoir rien dit, avec du sang sur la lèvre, et sa vie ne serait plus tout à fait la sienne. Il l'avait lu, enfant, dans une page des carnets de K., qu'il avait recopiée deux fois pour mieux la retenir. *La paroi garde ce qu'elle portait.*
 
 Il ne l'avait pas comprise à six ans. Il ne la comprenait pas mieux à vingt-quatre.
 
@@ -20,7 +20,7 @@ Il s'adossa à la paroi opposée, dans l'ombre, éteignit sa lampe, et attendit.
 
 Il ne l'avait jamais vue.
 
-Il l'avait imaginée. Il l'avait vue à travers les mots d'un autre, depuis l'enfance, dans les marges, dans les lignes en travers, dans des phrases qui tenaient en trois mots. *Élise, lucide.* *Élise, épuisée.* *É. rit, parfois.* Il avait vécu avec elle toute sa vie ainsi qu'on vit avec une photographie qu'on n'ose pas retourner. Il savait qu'elle était la mère de sa mère, qu'elle avait cédé, fui, tout perdu. Il savait qu'elle avait donné naissance à deux filles qui ne se rencontreraient pas. Il savait qu'elle portait en elle, en ce moment même, sans le savoir, la première des deux.
+Il l'avait imaginée. Il l'avait vue à travers les mots d'un autre, depuis l'enfance, dans les marges, dans les lignes en travers, dans des phrases qui tenaient en trois mots. *Élise, lucide.* *Élise, épuisée.* *É. rit, parfois.* Il avait vécu avec elle toute sa vie ainsi qu'on vit avec une photographie qu'on n'ose pas retourner. Il savait qu'elle était la mère de sa mère, qu'elle avait cédé, fui, tout perdu. Il savait qu'elle avait donné naissance à deux filles qui ne seraient jamais sœurs. Il savait qu'elle portait en elle, en ce moment même, sans le savoir, la première des deux.
 
 À deux heures cinq, il entendit des pas.
 
@@ -32,7 +32,7 @@ Elle avait un manteau trop grand, des bottes de chantier, une lampe frontale qui
 
 *Sophia.* C'était le nom du corps. Mais ce qu'il vit, dans ces yeux, derrière l'éclat blanc de la frontale, c'était autre chose : une femme à bout de forces, qui avait compris qu'on ne l'attendait nulle part et qui venait quand même.
 
-Il comprit qu'il avait attendu ce visage depuis quarante ans.
+Il comprit qu'il avait attendu ce visage depuis l'enfance.
 
 ---
 
@@ -62,7 +62,7 @@ Elle demeura immobile. Puis elle haussa les épaules, très légèrement, se tou
 
 Il ne la suivit pas. Il n'avait pas le droit. Il savait ce qui se passerait ensuite : elle remonterait, elle vomirait, elle écrirait dans un carnet gris une phrase sans verbe. Elle fuirait la vallée le lendemain, sans prévenir, sans se retourner. Elle serait enceinte. Elle accoucherait en juillet, dans une maternité de Lyon, d'une fille qu'elle ne saurait pas nommer.
 
-Il pouvait l'empêcher. Il le savait. Il avait entre les mains un seul geste : sortir de l'ombre, lui dire un mot. *Ne partez pas.* *Il ne faut pas.* *Je suis votre petit-fils.* Il pouvait détourner d'un mot la chaîne qui menait à lui, à son père, à tous ceux qu'il aimait.
+Il pouvait l'empêcher. Il le savait. Il avait entre les mains un seul geste : sortir de l'ombre, lui dire un mot. *Ne partez pas.* *Il ne faut pas.* *Je suis votre petit-fils.* Il pouvait détourner d'un mot la chaîne qui menait à lui, à son fils, à tous ceux qu'il aimait.
 
 Il ne le fit pas.
 

@@ -70,7 +70,7 @@ Il pleura sans bruit, ainsi qu'on respire. Il sentit une main se poser sur la si
 
 — Je ne crois pas.
 
-— Je sais ce que je dis, répondit Walther. J'ai attendu quarante ans, devant un mur. J'ai appris deux ou trois choses.
+— Je sais ce que je dis, répondit Walther. J'ai attendu deux siècles, dans un mur. J'ai appris deux ou trois choses.
 
 — Lesquelles ?
 

@@ -8,7 +8,7 @@ Il élevait un enfant qui n'était pas le sien, dans un corps qui n'était pas l
 
 C'était la phrase qu'il se répétait, certains soirs, quand le lac prenait la couleur de l'ardoise et que la maison blanche se remplissait de silence. Elle le tenait debout. Il n'avait pas le droit de l'oublier.
 
-Théo naquit le 14 janvier 2029, à Genève, d'une femme que Bastien avait à peine connue. Elle s'appelait Mélanie. Elle l'avait quitté deux mois après la naissance, avec un chèque et une lettre. On lui avait confié l'enfant dans une couverture bleue, à la clinique, un matin de brouillard. Kerr l'avait pris dans ses bras. Il avait trente-huit ans, dans le corps de Bastien, et vingt-quatre dans la tête. Il n'avait jamais tenu de nouveau-né. Il avait senti, contre sa poitrine, un petit cœur qui battait très vite, et il avait pensé, très clairement : *je suis en train de commettre un crime.*
+Théo naquit le 14 janvier 2029, à Genève, d'une femme que Bastien avait à peine connue. Elle s'appelait Mélanie. Elle l'avait quitté deux mois après la naissance, avec un chèque et une lettre. On lui avait confié l'enfant dans une couverture bleue, à la clinique, un matin de brouillard. Kerr l'avait pris dans ses bras. Il avait trente-huit ans, dans le corps de Bastien, et vingt-sept dans la tête. Il n'avait jamais tenu de nouveau-né. Il avait senti, contre sa poitrine, un petit cœur qui battait très vite, et il avait pensé, très clairement : *je suis en train de commettre un crime.*
 
 Il l'éleva.
 
@@ -32,7 +32,7 @@ Il ne reçut pas de réponse. Mais cette nuit-là, pour la première fois depuis
 
 Il savait ce qu'il aurait à faire.
 
-Il le savait depuis qu'il avait lu, dans un carnet de son père, un tour sans date : *Le fils de B.K. : prend la pastille à 16 ans. À 17 ans, le corps est libre. K. entre.* Il avait refermé le carnet. Il avait dit : *non.* Il le lui avait répété cent fois, cet automne-là, dans le bureau de la maison blanche, en regardant le petit garçon de sept ans dessiner un bateau sur un cahier. Il s'était juré qu'il trouverait un autre moyen.
+Il le savait depuis qu'il avait lu, dans un carnet de K., un tour sans date : *Le fils de B.K. : prend la pastille à 16 ans. À 17 ans, le corps est libre. K. entre.* Il avait refermé le carnet. Il avait dit : *non.* Il le lui avait répété cent fois, cet automne-là, dans le bureau de la maison blanche, en regardant le petit garçon de sept ans dessiner un bateau sur un cahier. Il s'était juré qu'il trouverait un autre moyen.
 
 Il n'en avait trouvé aucun.
 

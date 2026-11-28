@@ -29,14 +29,15 @@
 | 2159-2160 | Sacha lit, comprend, se tait. |
 | 2160 | Iris du présent à Vallorce, 1958 (Odette), lavoir. |
 | 2164 | Iris du présent part dans Mathis (34 ans). Elle laisse Kerr (8 ans) à Agathe. |
-| 2165-2175 | Kerr grandit. Il croit que K. est son père. |
+| 2165-2174 | Kerr grandit. Il croit que K. est son père (registre d'Agathe, 3 mai 2166). |
+| 3 mai 2174 | Kerr (18 ans) lit les 43 carnets : page du tour 31, « Moi » au crayon. Il sait. |
 | 10 mai 2180 | Kerr (24 ans, une semaine après son anniversaire) part pour 2026 dans Bastien. |
 
 ## 3. Ce que chacun sait
 - **Sacha** : ignore la vérité jusqu'à la lecture de Ruben. Il apprend d'abord qu'il s'est trompé ; il ne sait pas qui est le vrai père. Il l'apprend de Walther, qui le lui dit.
 - **Walther** : sait qu'il est le père de Kerr, qu'il n'a pas le droit de se dire son père, et qu'il est dans un corps qui n'est pas le sien. Il garde l'amour de Rose.
 - **Iris du présent** : sait tout depuis 2154. Elle choisit, deux fois : de ne pas céder à Sacha, de ne pas lui dire.
-- **Kerr** : croit être le fils de K. jusqu'à la scène finale (cuisine d'octobre).
+- **Kerr** : croit être le fils de K. (registre d'Agathe, 10 ans) ; l'apprend **à 18 ans**, la onzième nuit de lecture des 43 carnets (page sans numéro du tour 31, et dessous, au crayon, le « Moi » de Walther : T3 `33`). Ni lui ni Walther ne le disent pendant six ans ; « Papa » le 8 mai 2180, « Mon fils » le 10 (seul). Dans la cuisine d'octobre, il se sait père de Sacha, et Sacha « celui qu'il a choisi ».
 - **Le lecteur** : sait, dès le tome 2, que Walther a aimé Rose et qu'il a dit « Quelqu'un doit être là ». Il le découvre père de Kerr au tome 3.
 
 ## 4. Indices déjà posés

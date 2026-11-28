@@ -106,7 +106,7 @@ Ils se regardaient. Ils ne firent pas un pas. Ils ne dirent pas le mot suivant. 
 
 Ils montèrent, ensemble, aux premières heures du jour. Ce que fut le reste de la nuit, personne ne l'écrivit. Quand le soleil fut haut, dans la chambre du premier étage, une femme s'éveilla dans un lit qu'elle n'avait pas choisi.
 
-Elle ouvrit les yeux. Elle regarda le plafond, un plafond blanc, une fissure, une lampe de chevet. Elle sentit, à côté d'elle, un corps chaud, un souffle. Elle tourna la tête. Un homme dormait, le visage enfoui dans l'oreiller, une main posée sur le drap. Elle ne le connaissait pas. Elle le connaissait trop.
+Elle ouvrit les yeux. Elle regarda le plafond, des poutres qui n'étaient pas celles de sa chambre, une lampe de chevet. Elle sentit, à côté d'elle, un corps chaud, un souffle, une main d'homme, large, posée sur sa hanche gauche. Elle tourna la tête. Il dormait encore, un bras sous la nuque, avec ce léger sifflement qu'il avait en dormant. Elle le connaissait. Elle ne savait plus comment elle était arrivée là.
 
 Elle se redressa. Elle porta la main à son ventre. Elle y sentit une chose très légère, très chaude, comme une braise sous la cendre.
 
@@ -114,10 +114,12 @@ Elle eut peur.
 
 Elle ne savait pas de quoi. Elle sut, sans qu'on le lui dise, qu'elle aurait peur longtemps. Qu'elle fuirait. Qu'elle partirait dans une autre ville, qu'elle changerait de nom, qu'elle tiendrait dans ses bras une petite fille qu'elle n'avait pas demandée. Qu'elle l'aimerait pourtant. Qu'elle lui apprendrait à compter, à voix basse, jusqu'à cinquante-neuf.
 
-Elle posa la tête sur l'oreiller. Elle regarda le plafond. Elle dit, tout haut, dans la chambre grise, très doucement :
+Il ouvrit les yeux au même instant, avec la même stupeur. Ils se regardèrent une seconde, comme deux inconnus dans un train.
 
-— Qu'est-ce qu'on a fait ?
+— Sophia, dit-il.
 
-Personne ne répondit.
+— Je ne…
+
+— Moi non plus.
 
 Au rez-de-chaussée, dans la cuisine, les lentilles refroidissaient, trop salées, dans la casserole oubliée.

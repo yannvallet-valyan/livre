@@ -82,7 +82,7 @@ Il ne lui en parla jamais. Elle le devina. Elle posa, un soir, sa tête contre s
 
 Ils eurent vingt-deux mois.
 
-Elle ne les raconta à personne, ensuite, pas même à l'enfant qui en naîtrait. Elle les garda à la façon dont on garde un objet qu'on a trop aimé pour l'exposer : dans un tiroir, sans y toucher, en sachant qu'il est là. Ils furent simples. Ils se retrouvaient à huit heures, à midi, à six heures, dans les endroits où personne ne venait : la salle des pompes, le dépôt des lampes, l'ancienne galerie nord. Ils parlaient. Ils riaient parfois, bêtement, d'un détail. Ils se tenaient la main, longtemps, sans rien dire. Elle avait vingt-trois ans. Il en avait trente et un, dans le corps d'un garçon de vingt-quatre qui n'avait jamais vécu. Ils ne savaient pas ce qu'ils faisaient. Ils le firent.
+Elle ne les raconta à personne, ensuite, pas même à l'enfant qui en naîtrait. Elle les garda à la façon dont on garde un objet qu'on a trop aimé pour l'exposer : dans un tiroir, sans y toucher, en sachant qu'il est là. Ils furent simples. Ils se retrouvaient à huit heures, à midi, à six heures, dans les endroits où personne ne venait : la salle des pompes, le dépôt des lampes, l'ancienne galerie nord. Ils parlaient. Ils riaient parfois, bêtement, d'un détail. Ils se tenaient la main, longtemps, sans rien dire. Elle avait vingt-quatre ans. Il en avait trente et un, dans le corps d'un garçon de vingt-quatre qui n'avait jamais vécu. Ils ne savaient pas ce qu'ils faisaient. Ils le firent.
 
 À la fin de l'été 2155, elle sut qu'elle attendait un enfant.
 

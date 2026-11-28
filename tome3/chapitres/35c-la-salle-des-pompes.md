@@ -62,7 +62,7 @@ Walther hocha la tête, lentement. Il regarda ses mains. Elles étaient larges, 
 
 Ils s'assirent sur le banc de bois, contre le mur, entre l'établi et la citerne.
 
-C'était leur place. Ils y avaient passé des centaines d'heures, à manger du pain, à réparer des joints, à regarder tourner l'eau. Kerr y avait lu, à douze ans, son premier carnet. Walther y avait attendu, à quarante ans, une femme qui ne revenait pas.
+C'était leur place. Ils y avaient passé des centaines d'heures, à manger du pain, à réparer des joints, à regarder tourner l'eau. Kerr y avait lu, à douze ans, son premier manuel de pompes. Walther y avait attendu, des années, une femme qui ne revenait pas.
 
 — J'ai quelque chose à te donner, dit Kerr.
 
@@ -82,7 +82,7 @@ Il sortit de sa poche un petit objet enveloppé de toile. Walther le prit. Il le
 
 Walther ferma le poing. Il serra la clé, très fort, contre sa paume. Il resta ainsi, tête baissée, sans parler. Kerr le regarda. Il comprit qu'il n'avait jamais vu cet homme pleurer. Il le voyait maintenant. Il ne faisait pas de bruit. Il pleurait avec les épaules, avec les mains, avec cette retenue des gens qui ont passé leur vie à ne pas déranger.
 
-— Je ne suis pas ton père, dit-il, d'une voix éteinte.
+— Je n'ai pas le droit d'être ton père, dit-il, d'une voix éteinte.
 
 — Je sais.
 
@@ -98,7 +98,7 @@ Walther ferma le poing. Il serra la clé, très fort, contre sa paume. Il resta 
 
 — Tu ne me l'as pas dit, répéta Kerr, doucement. C'est moi qui l'ai lu. C'est moi qui le sais. Tu n'as rien trahi.
 
-Walther releva la tête. Il le regarda, les yeux rouges, le visage nu. Il avait cinquante ans. Il en avait cent. Il avait été ingénieur à vingt-huit ans, amant d'une femme du futur à vingt-neuf, mort un soir de novembre devant une table. Il avait vécu une autre vie, dans un autre corps, comme un hôte d'emprunt dans la maison d'un inconnu. Il avait tenu un enfant, qui n'était pas à lui, qui l'était entièrement.
+Walther releva la tête. Il le regarda, les yeux rouges, le visage nu. Il avait cinquante ans. Il en avait cent. Il avait été ingénieur à vingt-huit ans, mort à trente et un, un soir de novembre, devant une table, et l'amant d'une femme du futur deux siècles plus tard. Il avait vécu une autre vie, dans un autre corps, comme un hôte d'emprunt dans la maison d'un inconnu. Il avait tenu un enfant, qui n'était pas à lui, qui l'était entièrement.
 
 — Alors qu'est-ce que tu veux ? dit-il.
 

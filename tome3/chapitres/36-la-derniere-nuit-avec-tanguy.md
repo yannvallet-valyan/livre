@@ -6,7 +6,7 @@
 
 Il leur restait une nuit, et personne ne le savait que lui.
 
-C'était le 9 mai 2180. Il avait vingt-quatre ans. Tanguy en avait vingt-trois ; il portait, depuis deux ans, une alliance en laiton qu'il tournait sans cesse autour de son doigt. Il avait une fille de dix-huit mois, qui s'appelait Lison, qui marchait déjà, qui disait « Ker » pour appeler son parrain. Il avait grossi encore. Il avait un petit ventre, un début de calvitie. Il était heureux. Cela se voyait de loin.
+C'était le 9 mai 2180. Il avait vingt-quatre ans. Tanguy en avait vingt-trois ; il portait, depuis trois ans, une alliance en laiton qu'il tournait sans cesse autour de son doigt. Il avait une fille de dix-huit mois, qui s'appelait Lison, qui marchait déjà, qui disait « Ker » pour appeler son parrain. Il avait grossi encore. Il avait un petit ventre, un début de calvitie. Il était heureux. Cela se voyait de loin.
 
 Kerr passa chez eux à neuf heures du soir.
 
@@ -20,7 +20,7 @@ Il rejoignit Tanguy sur la terrasse.
 
 ---
 
-Ils burent un vin chaud, assis sur le banc de pierre, dans l'air tiède de mai. Les étoiles étaient sorties. Tanguy parlait de tout, de rien : de la récolte de pommes de terre, d'une querelle d'eau avec les voisins, d'une dent de lait d'Lison qu'il avait trouvée dans son assiette. Kerr écoutait. Il hochait la tête. Il avait mis, dans son manteau, un petit paquet.
+Ils burent un vin chaud, assis sur le banc de pierre, dans l'air tiède de mai. Les étoiles étaient sorties. Tanguy parlait de tout, de rien : de la récolte de pommes de terre, d'une querelle d'eau avec les voisins, d'une dent de lait de Lison qu'il avait trouvée dans son assiette. Kerr écoutait. Il hochait la tête. Il avait mis, dans son manteau, un petit paquet.
 
 Il ne le sortit pas tout de suite. Il attendit que Tanguy se taise. Il dit enfin :
 
@@ -104,7 +104,7 @@ Il y eut un long silence. Tanguy se retourna. Il avait le visage mouillé, enfla
 
 — Oui.
 
-Il s'approchèrent, d'un même mouvement. Ils se prirent dans les bras, très fort, longuement, sans un mot. Tanguy sentait le feu de bois, le lait, la pomme. Il sanglotait, le front contre l'épaule de Kerr. Il disait, par saccades : « Ce n'est pas juste. Ce n'est pas juste. » Kerr, les yeux fermés, lui frottait le dos, d'un geste lent.
+Ils s'approchèrent, d'un même mouvement. Ils se prirent dans les bras, très fort, longuement, sans un mot. Tanguy sentait le feu de bois, le lait, la pomme. Il sanglotait, le front contre l'épaule de Kerr. Il disait, par saccades : « Ce n'est pas juste. Ce n'est pas juste. » Kerr, les yeux fermés, lui frottait le dos, d'un geste lent.
 
 — Tu m'oublieras, dit-il.
 

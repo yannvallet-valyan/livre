@@ -22,7 +22,7 @@ Il y avait la lampe de chevet, basse, jaune. Il y avait le lit, une couverture b
 
 Kerr s'assit au bord du lit. Il prit la main de l'enfant dans les siennes. Elle était froide.
 
-Il le regarda longuement. Il vit un petit visage de quinze ans, très blanc, avec un grain de beauté au coin de la paupière gauche. Il vit des cils longs, une bouche entrouverte, un front trop grand. Il ne vit pas l'enfant qui lui avait demandé, un soir de février, s'il avait un crayon. Cet enfant n'était plus là. Il y avait, à sa place, un grand vide très calme, comme une pièce dont on a ôté les meubles.
+Il le regarda longuement. Il vit un petit visage de quinze ans, très blanc, avec un grain de beauté au coin de la paupière gauche. Il vit des cils longs, une bouche entrouverte, un front trop grand. Il ne vit pas l'enfant qui dessinait toujours la même maison. Cet enfant n'était plus là. Il y avait, à sa place, un grand vide très calme, comme une pièce dont on a ôté les meubles.
 
 Il avait su que ce serait ainsi. Il avait lu la scène cent fois. Il ne l'avait pas lue assez.
 
@@ -36,7 +36,7 @@ Il serra la main plus fort.
 
 — J'ai quelque chose pour toi. Tu ne le sentiras pas. Ce sera très doux. C'est un éclat de ce qui t'a pris. Il va te porter ailleurs. Ton corps restera ici, vide, et ils diront que tu es parti devant. Toi, tu seras dans la roche, dans l'eau, dans la nuit. Tu ne seras pas seul.
 
-Il sortit de sa poche un petit éclat rouge, de la taille d'un grain de blé, tiède, légèrement luisant. Il le tint entre le pouce et le majeur, très haut, comme on tient un crayon. Il le regarda un instant. Il pensa à un autre éclat, posé sur un front, dans une autre chambre, un jour qu'il n'avait pas vécu. Il pensa à son propre père, qu'il ne connaîtrait jamais. *Je suis en train de faire ce qu'on m'a fait.*
+Il sortit de sa poche un petit éclat rouge, de la taille d'un grain de blé, tiède, légèrement luisant. Il le tint entre le pouce et le majeur, très haut, comme on tient un crayon. Il le regarda un instant. Il pensa à un autre éclat, posé sur un front, dans une autre chambre, un jour qu'il n'avait pas vécu. Il pensa qu'il avait huit ans, ce soir-là, et qu'il dormait. *Je suis en train de faire ce qu'on m'a fait.*
 
 *Non*, se dit-il. *Moi, je sais pourquoi.*
 
@@ -50,7 +50,7 @@ Il se pencha. Il posa l'éclat sur le front de l'enfant. Il dit, si bas qu'il cr
 
 — Tu te souviens ? Je te l'ai appris. Ton père sait ce qu'il fait. Ton père sait exactement ce qu'il fait.
 
-Il ferma les yeux. Une masse très lourde, très ancienne, se mit à bouger dans sa poitrine. La plage d'Annecy. Un garçon de cinq ans dans un maillot rayé. Un autre, de seize ans, avec un gâteau et une bougie. Théo. *Tous. J'en ai pris trois.* Il eut envie de se lever, de hurler, de briser la fenêtre, de sortir dans la neige. Il ne bougea pas.
+Il ferma les yeux. Une masse très lourde, très ancienne, se mit à bouger dans sa poitrine. La plage d'Annecy. Un garçon de cinq ans dans un maillot rayé. Un autre, de seize ans, avec un gâteau et une bougie. *Bastien. Théo. Sacha. J'en ai pris trois.* Il eut envie de se lever, de hurler, de briser la fenêtre, de sortir dans la neige. Il ne bougea pas.
 
 Il compta, avec lui. Un. Deux. Trois. Il ne savait pas s'il comptait pour l'enfant ou pour lui. Il sentit la main dans la sienne se réchauffer, très légèrement. Il sentit le petit corps, sous la couverture, se tendre, puis se détendre, très doucement, comme celui d'un enfant qui s'endort.
 
@@ -58,7 +58,7 @@ Il y eut, dans le couloir, un bruit. Un frôlement. Une respiration retenue.
 
 Il ne tourna pas la tête.
 
-Il savait qu'elle était là. Il savait qu'elle avait bu la tisane, et que la tisane ne l'avait pas tout à fait gardée : elle s'était levée, elle avait traversé la chambre à tâtons, elle se tenait maintenant dans l'entrebâillement de la porte, la main sur la bouche, retenue contre le mur par un sommeil qui n'était pas le sien. Il savait qu'elle entendait tout. Il avait lu cela aussi, dans un carnet de son père : *Elle est derrière la porte. Elle ne bouge pas.*
+Il savait qu'elle était là. Il savait qu'elle avait bu la tisane, et que la tisane ne l'avait pas tout à fait gardée : elle s'était levée, elle avait traversé la chambre à tâtons, elle se tenait maintenant dans l'entrebâillement de la porte, la main sur la bouche, retenue contre le mur par un sommeil qui n'était pas le sien. Il savait qu'elle entendait tout. Il avait lu cela aussi, dans un carnet de K. : *Elle est derrière la porte. Elle ne bouge pas.*
 
 Il l'avait lu. Il n'avait pas compris, alors, ce que cela voulait dire : *elle ne bouge pas.* Il le comprenait maintenant. Il avait choisi la tisane : il l'avait choisie pour qu'elle ne puisse pas l'arrêter. Il s'était dit que c'était une douceur. C'était une lâcheté. Il avait endormi la femme qu'il aimait pour n'avoir pas à lui dire non.
 

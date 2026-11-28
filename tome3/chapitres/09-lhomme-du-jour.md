@@ -48,7 +48,7 @@ Il le dit avec soin, comme on dépose un mot sur une tombe.
 
 Elle ne s'attendait pas à la question. Personne ne la posait jamais, au refuge, à propos d'un rouillé. Elle chercha.
 
-— Il avait quatorze ans quand c'est arrivé. Il aimait la citerne du bas, parce que l'eau y fait un bruit de cloche. Il sifflait faux. Sa mère est morte l'hiver suivant. Il n'a plus de famille.
+— Il avait quatorze ans quand c'est arrivé. Il aimait la citerne du bas, parce que l'eau y fait un bruit de cloche. Il sifflait faux en lavant les bols. Sa mère est partie devant l'hiver suivant. Il n'a plus de famille.
 
 — Alors je lui dois au moins cela, dit l'homme. Qu'on se souvienne de lui ici.
 
@@ -86,7 +86,7 @@ Il regarda autour de lui, les voûtes, les tables, les enfants qui jouaient dans
 
 — Je suis désolé, dit-il encore.
 
-Il ne ajouta rien. Elle comprit qu'il ne demandait pas de pardon pour lui. Il le demandait pour tous.
+Il n'ajouta rien. Elle comprit qu'il ne demandait pas de pardon pour lui. Il le demandait pour tous.
 
 Elle eut, à cet instant, un mouvement qu'elle ne s'expliqua pas. Elle posa sa main sur la table, à côté de la sienne, sans la toucher.
 
@@ -100,7 +100,7 @@ Elle eut, à cet instant, un mouvement qu'elle ne s'expliqua pas. Elle posa sa m
 
 — À Ruben. Au Conseil. À celui qui…
 
-Elle s'arrêta. Elle allait dire : *à celui qui occupe ce corps la nuit.* Elle comprit, en une seconde, qu'il ne le savait pas. Il n'avait jamais rencontré Sacha. Il ne savait pas qu'il avait un frère de corps.
+Elle s'arrêta. Elle allait dire : *à celui qui occupe ce corps la nuit.* Elle se demanda, en une seconde, s'il le savait. Il n'avait jamais rencontré Sacha. Il ne pouvait pas savoir qu'il avait un frère de corps.
 
 — Il y a quelqu'un d'autre ici, la nuit, dit-elle. Dans ce corps. Je ne sais pas si vous le sentez.
 

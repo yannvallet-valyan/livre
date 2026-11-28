@@ -111,7 +111,7 @@
 | `36a-le-depart.md` | 1083 | Chapitre 49 — Le départ | Le refuge, 10 mai 2180. |
 | `36b-les-lettres-diris.md` | 1129 | Chapitre 50 — Les lettres d'Iris | Maurville et ailleurs, 2165-2180. |
 | `36c-walther-reste.md` | 1247 | Chapitre 51 — Walther reste | Le refuge, mai 2180 – décembre 2191. |
-| `36d-le-caillou-de-lison.md` | 989 | Chapitre 52 — Le caillou d'Lison | La vallée, 21 septembre 2197. |
+| `36d-le-caillou-de-lison.md` | 989 | Chapitre 52 — Le caillou de Lison | La vallée, 21 septembre 2195. |
 | `36f-tanguy-vieux.md` | 918 | Chapitre 53 — Tanguy, vieux | Le refuge, juin 2229. |
 | `37c-le-cafe.md` | 906 | Chapitre 54 — Le café | Vallorce, novembre 2026. Quarante-septième tour. |
 | `37d-hugo.md` | 818 | Chapitre 55 — Hugo | Vallorce, novembre 2026. Quarante-septième tour. |

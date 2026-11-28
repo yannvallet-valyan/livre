@@ -26,7 +26,7 @@ Il ne dit rien.
 
 Il ne dit rien parce que, pour la première fois depuis quarante-quatre ans, il n'y avait plus de phrase dans sa tête.
 
-Il en avait eu des milliers. Il les avait apprises, recopiées, raturées. Il savait dire *je t'aime* dans le cahier d'un autre, dans une marge, dans une lettre jamais envoyée. Il savait le dire à une enfant de huit ans qui ne le reconnaîtrait pas, à un vieillard qui comptait derrière un mur. Il ne savait pas le dire, debout, dans la neige, à une femme de dix-neuf ans qui le regardait avec ce front trop grand, ces sourcils droits, ce grain de beauté qu'il avait appris par cœur dans les carnets de son père, et qui existait, ce soir, à soixante centimètres de lui.
+Il en avait eu des milliers. Il les avait apprises, recopiées, raturées. Il savait dire *je t'aime* dans le cahier d'un autre, dans une marge, dans une lettre jamais envoyée. Il savait le dire à une enfant de huit ans qui ne le reconnaîtrait pas, à un vieillard qui comptait derrière un mur. Il ne savait pas le dire, debout, dans la neige, à une femme de dix-neuf ans qui le regardait avec ce front trop grand, ces sourcils droits, ce grain de beauté qu'il avait appris par cœur dans les carnets de K., et qui existait, ce soir, à soixante centimètres de lui.
 
 Il pensa : *elle va me trouver idiot.*
 

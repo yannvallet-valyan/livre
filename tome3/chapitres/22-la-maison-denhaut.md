@@ -30,7 +30,7 @@ Mais elle lui laissait des signes. Elle laissait une fenêtre ouverte. Elle lais
 
 Il y eut ensuite des soirs.
 
-Étienne montait, avec un pain ou une bouteille, et s'asseyait à la table, sans qu'on l'invite. Il parlait d'un patient, d'un livre, d'un voisin. Il racontait des histoires qu'il avait déjà racontées. Iris riait. Théo ne riait pas : il écoutait. Il regardait ce vieil homme tendre, ironique, un peu tremblant, qui s'épuisait à les rendre heureux, et il pensait à un autre homme, dans une autre cuisine, qui laisserait un jour des lentilles trop salées devant une porte. Il pensait : *tu es leur arrière-arrière-grand-père, Étienne.* Il le pensait avec une tendresse qu'il ne se connaissait pas.
+Étienne montait, avec un pain ou une bouteille, et s'asseyait à la table, sans qu'on l'invite. Il parlait d'un patient, d'un livre, d'un voisin. Il racontait des histoires qu'il avait déjà racontées. Iris riait. Théo ne riait pas : il écoutait. Il regardait ce vieil homme tendre, ironique, un peu tremblant, qui s'épuisait à les rendre heureux, et il pensait à un autre homme, dans une autre cuisine, qui laisserait un jour des lentilles trop salées devant une porte. Il pensait : *tu seras le grand-père de Sacha, Étienne.* Il le pensait avec une tendresse qu'il ne se connaissait pas.
 
 Il ne lui disait rien. Il lui servait du vin.
 
@@ -64,7 +64,7 @@ Il ne répondit pas.
 
 ---
 
-Il y eut, un soir de mars 2049, une nuit blanche.
+Il y eut, un soir de juillet 2049, une nuit blanche.
 
 Il se réveilla à trois heures, brusquement, sans savoir pourquoi. Il resta immobile dans le lit, les yeux ouverts. Il entendit un bruit : un petit bruit mouillé, étouffé, venu de la salle de bains. Il se leva. Il alla jusqu'à la porte. Il la poussa.
 
@@ -100,8 +100,8 @@ Elle rit, un petit rire cassé.
 
 — Je sais.
 
-Elle posa sa tête sur son épaule. Il ne bougea plus. Il sentit son souffle contre son cou. Il pensa à une phrase, dans un carnet de son père : *Sacha naît le 3 février 2050, à trois heures du matin, dans la chambre du haut, par grand froid.* Il pensa que l'homme qui avait écrit cela l'avait écrit pour lui. Il pensa que le futur était déjà un souvenir, et qu'il en avait le droit d'être triste.
+Elle posa sa tête sur son épaule. Il ne bougea plus. Il sentit son souffle contre son cou. Il pensa à une phrase, dans un carnet de K. : *Sacha naît le 3 février 2050, à trois heures du matin, dans la chambre du haut, par grand froid.* Il pensa que l'homme qui avait écrit cela l'avait écrit pour lui. Il pensa que le futur était déjà un souvenir, et qu'il en avait le droit d'être triste.
 
 — Je serai là, dit-il.
 
-C'était la seule promesse qu'il pouvait tenir. Il savait, en la faisant, qu'elle ne serait vraie que dix-sept ans.
+C'était la seule promesse qu'il pouvait tenir. Il savait, en la faisant, qu'elle ne serait vraie que seize ans.

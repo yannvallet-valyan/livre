@@ -40,11 +40,11 @@ Il s'arrêta.
 
 Il connaissait cette phrase. Il l'avait lue quarante-six fois. Il la lirait une quarante-huitième, dans un tour qu'il n'était pas sûr de vivre. Elle n'avait jamais changé : *il dort mieux. Bien.* Elle n'était pas un compte rendu. Elle était une tendresse.
 
-Il ne s'en était jamais expliqué. Il savait que l'auteur de ces lignes était son père. Il l'avait compris au premier tour, à la main qui avait écrit dans son cahier, à la fatigue de l'écriture, à cette douceur qui se glissait dans chaque rapport. Il avait supposé que K. s'inquiétait de Bastien, de cet homme qu'il regardait dormir, depuis tant d'années, sans pouvoir lui parler. Il y avait quelque chose d'insupportable à penser que son père, du fond d'un corps qu'il ne possédait pas, avait de la pitié pour un étranger.
+Il ne s'en était jamais expliqué. Il savait qui en était l'auteur : K., l'homme des carnets, celui qu'il avait appelé son père jusqu'à dix-huit ans, et qui serait son fils. Il l'avait reconnu au premier tour, à la main qui avait écrit dans son cahier, à la fatigue de l'écriture, à cette douceur qui se glissait dans chaque rapport. Il avait supposé que K. s'inquiétait de Bastien, de cet homme qu'il regardait dormir, depuis tant d'années, sans pouvoir lui parler. Il y avait quelque chose d'insupportable à penser que son fils, du fond d'un corps qu'il ne possédait pas, avait de la pitié pour un étranger.
 
 Il avait envie de lui écrire. Il l'avait fait, parfois, au tour 3, au tour 9, au tour 22. Des mots courts, polis, sans question. *Je vous lis.* *Merci pour la cote.* Le cahier, le lendemain, ne contenait aucune réponse. Il y avait à la place une ligne qu'on n'attendait pas : *Je ne dois pas te parler. Pas encore.*
 
-Il avait fini par comprendre que c'était la règle. Son père lui avait écrit toute sa vie de ne pas lui répondre.
+Il avait fini par comprendre que c'était la règle. K. lui avait écrit toute sa vie de ne pas lui répondre.
 
 *Pas encore.*
 
@@ -60,7 +60,7 @@ Il se regarda dans la vitre. Il vit un homme poli, lisse, aux tempes grises. Il 
 
 Il ne dit pas lesquelles. Il en avait trop.
 
-On frappa. Sa secrétaire entra, avec un dossier, un sourire de politesse, une fraîcheur de lundi matin. Elle lui dit : « Monsieur, Mme Varenne, l'hydrologue, demande à vous voir à neuf heures. » Il hocha la tête.
+On frappa. Sa secrétaire entra, avec un dossier, un sourire de politesse, une fraîcheur de jeudi matin. Elle lui dit : « Monsieur, Mme Varenne, l'hydrologue, demande à vous voir à neuf heures. » Il hocha la tête.
 
 Il sourit à ce nom. Il savait ce qu'il signifiait, il le savait depuis un siècle. Il n'avait jamais pu s'empêcher de sourire à celui-là.
 

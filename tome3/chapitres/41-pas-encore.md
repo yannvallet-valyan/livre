@@ -8,7 +8,7 @@ Il y eut un dernier jour, que personne ne se rappela.
 
 C'était l'après-midi du 14 novembre 2026. Après le coulis, après le cristal, après les deux Iris, il avait quitté la galerie sans qu'on le remarque. Il avait remonté l'escalier de fer, traversé le hall, passé devant les vitrines, les casiers, les affiches du laboratoire. Il avait quitté la voiture du directeur, au parking, pour marcher. Il s'était assis sur un muret, devant la grille, sous un tilleul nu.
 
-Il avait trente-cinq ans dans un corps qui n'était pas le sien, et quarante-quatre dans sa tête. Il se sentait extraordinairement léger.
+Il avait trente-cinq ans dans un corps qui n'était pas le sien, et, dans sa tête, un âge qu'il avait cessé de compter. Il se sentait extraordinairement léger.
 
 Il resta là une heure, peut-être deux, à regarder les pigeons. Le temps avait changé : un soleil pâle, sans chaleur, filtrait entre les nuages. Les gens du village passaient, par grappes, en parlant du coulis, de l'arrêté, de la fin du labo. Ils le saluaient sans le voir vraiment : « Monsieur le directeur. » Il répondait d'un signe. Il les regardait vivre. Il se disait : *ils sont si vivants.* Il se disait : *ils ne savent pas.* Il se disait : *c'est très bien.*
 
@@ -90,7 +90,7 @@ Il écrivit, très lentement, avec son crayon, entre le pouce et le majeur :
 
 *Je n'ai rien à leur pardonner.*
 
-Il s'arrêta. Il regarda l'eau. Il pensa à Sacha, qui, quarante ans plus tard, entrerait dans un autre lac, avec une pierre dans la poche. Il pensa à un papier laissé sur une berge : *Pardon. Je ne pouvais pas faire autrement. Compte.*
+Il s'arrêta. Il regarda l'eau. Il pensa à lui-même, qui, quarante ans plus tard, entrerait dans ce lac-ci, dans le corps de Théo. Il pensa à un papier laissé sur une table de cuisine : *Pardon. Je ne pouvais pas faire autrement. Compte.*
 
 Il écrivit encore :
 

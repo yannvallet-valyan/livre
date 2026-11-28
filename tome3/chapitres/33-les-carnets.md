@@ -6,11 +6,11 @@
 
 Il lut les carnets le jour de ses dix-huit ans, comme il l'avait promis.
 
-Il avait attendu. Il avait compté, depuis un soir de décembre, quand il était petit, dans la salle du fond, devant une lampe et une femme qui refermait un cahier noir : *pas encore.* Il avait dit : *je le lirai quand je serai grand.* Il avait dit cela en regardant ses mains. Il l'avait répété pendant huit ans, comme une consigne.
+Il avait attendu. Il avait compté, depuis le soir de ses dix ans, dans la salle du fond, devant une lampe et une femme qui refermait un cahier noir : *pas encore.* Il avait dit : *je le lirai quand je serai grand.* Il avait dit cela en regardant ses mains. Il l'avait répété pendant huit ans, comme une consigne.
 
 Le 3 mai 2174, à neuf heures du soir, il ouvrit le tiroir.
 
-Il n'avait pas demandé la permission. Il n'en avait plus besoin : Agathe, à soixante ans, avait laissé la clé dans la porte, d'un geste qui voulait dire *je ne le vois pas.* Il alla dans la salle des archives. Il alluma la lampe. Il s'assit à la grande table, devant les quarante-trois carnets noirs qu'une femme avait lus en neuf nuits, quinze ans plus tôt.
+Il n'avait pas demandé la permission. Il n'en avait plus besoin : Agathe, à soixante et un ans, avait laissé la clé dans la porte, d'un geste qui voulait dire *je ne le vois pas.* Il alla dans la salle des archives. Il alluma la lampe. Il s'assit à la grande table, devant les quarante-trois carnets noirs qu'une femme avait lus en neuf nuits, quinze ans plus tôt.
 
 Il se tint un long moment sans toucher à rien. Il regardait les dos, aux titres fins, droits, d'une écriture qui ne rature pas. Il reconnaissait chaque lettre. Il reconnaissait le *r* qui roule comme une pierre, le *e* aux boucles régulières. Il tendit la main. Il prit le premier. Il l'ouvrit.
 
@@ -37,6 +37,24 @@ Il lui sembla qu'on lui retirait un poids des épaules.
 Il relut la ligne. Il passa le doigt dessous. Il sentit, derrière ses côtes, une chaleur qui montait. Il se dit qu'il avait gagné. Il se dit qu'il avait raison, qu'il avait toujours eu raison, qu'il avait choisi le bon père, celui qui écrit comme lui, qui ne rature pas. Il se dit qu'il avait tout fait pour mériter cette phrase.
 
 Il eut honte. Il ne sut pas pourquoi.
+
+---
+
+La onzième nuit, il trouva la page.
+
+Elle était glissée dans le dernier carnet, entre deux feuillets qui ne la retenaient plus. Elle était d'une encre plus pâle. Elle ne portait pas de numéro. Quelqu'un l'avait dépliée, puis repliée, souvent : les plis étaient blancs. Il reconnut l'écriture, la même, fine, droite. Il lut :
+
+*Tour 31. J + 140. Kerr naît le 3 mai 2156. Père biologique : hôte T. (corps). Père de l'esprit : non identifié. Je ne suis pas le père.*
+
+Et dessous, d'une autre main, ronde, un peu inclinée vers la droite, au crayon, si légère qu'il dut approcher la lampe :
+
+*Moi.*
+
+Il resta immobile jusqu'au matin. Il ne pleura pas. Il n'eut pas mal, d'abord. Il eut froid. Il pensa à un tournevis, à une vis gardée dans une poche, à un homme qui disait « pardon » aux portes et qui ne savait pas tenir un crayon. Il pensa au mot qu'il avait dit à six ans, devant une pompe, sans savoir pourquoi.
+
+*Je savais,* pensa-t-il. *Je ne voulais pas le savoir.*
+
+Il replia la page, suivant les plis blancs. Il la remit à sa place.
 
 ---
 
@@ -70,13 +88,13 @@ Kerr ne répondit pas. Il regarda le mur, un peu au-dessus de l'épaule de l'hom
 
 Walther ferma les yeux. Il resta un instant très immobile, comme un homme qui attend le coup. Il dit, très bas :
 
-— Je ne suis pas ton père.
+— Je ne peux pas me dire ton père.
 
 — Je sais.
 
 — Je voulais que tu l'entendes de moi.
 
-— Je le sais depuis longtemps, dit Kerr. Je l'ai su avant de lire.
+— Je l'ai lu, dit Kerr. Une page sans numéro. Tour 31. Il y a un mot au crayon, en dessous.
 
 Il y eut un silence. Walther rouvrit les yeux. Il avait l'air très las, soudain, d'un homme beaucoup plus âgé. Il dit :
 
@@ -94,7 +112,7 @@ Il y eut un silence. Walther rouvrit les yeux. Il avait l'air très las, soudain
 
 — Je ne peux pas.
 
-— Parce que c'est Sacha qui l'est, dit Kerr.
+— Parce que tu l'as promis à maman, dit Kerr.
 
 Walther ne répondit pas. Il baissa la tête. Il se frotta les yeux du dos de la main. Il dit :
 
@@ -122,8 +140,8 @@ Kerr s'approcha. Il fit un pas. Il tendit la main, très lentement, comme à un 
 
 Il sourit. Il ne savait pas pourquoi. Il se rendit compte qu'il avait dit cela pour consoler l'autre, et qu'il était le plus consolé des deux. Il laissa sa main sur son épaule. Il sentit sous la laine un cœur qui battait trop fort, comme celui d'un enfant surpris.
 
-Il y avait, entre eux, une vérité. Il ne la connaissait pas. Il la sentait, ainsi qu'on sent, dans le noir, un meuble qu'on n'a pas encore heurté.
+Il y avait, entre eux, une vérité. Ils la connaissaient tous les deux. Elle tenait dans un mot au crayon, sous une ligne d'encre pâle, et aucun des deux n'avait le droit de la prononcer.
 
-Il se promit de ne pas le chercher.
+Il se promit de ne pas la dire.
 
-Il le chercherait toute sa vie.
+Il la tint six ans.

@@ -26,7 +26,7 @@ Elle se demanda aussi, plus longtemps, pour quelle raison elle n'avait pas pu en
 
 *Je ne suis pas un chiffre*, pensa-t-elle.
 
-Elle pensa à sa mère. À une femme qui avait traversé cent ans pour l'avoir, et qu'elle ne se rappelait pas. À une inconnue aux cheveux ras qui lui avait chanté deux couplets. À un grain de beauté, au coin d'une paupière, qu'elle partageait avec une autre qu'elle n'avait jamais vue. Elle se demanda si elle était libre de sa vie. Elle se rendit compte qu'elle n'en avait jamais rien su.
+Elle pensa à sa mère. À une femme aux cheveux ras qui lui avait chanté deux couplets, et qui était partie devant quand elle avait sept ans. À un grain de beauté, au coin d'une paupière, qu'elle partageait avec une autre qu'elle n'avait jamais vue. Elle se demanda si elle était libre de sa vie. Elle se rendit compte qu'elle n'en avait jamais rien su.
 
 ---
 

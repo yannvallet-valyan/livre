@@ -38,7 +38,7 @@ Il fit un pas. Il se plaça légèrement devant elle, d'un geste que ni l'un ni 
 
 — Oui.
 
-— Il est une heure du matin.
+— Il est deux heures du matin.
 
 — Je sais, dit Kerr.
 

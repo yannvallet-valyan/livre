@@ -16,7 +16,7 @@ Il savait ce qu'elle allait dire. Il savait chaque mot, chaque pause, la façon 
 
 *Tu ne l'as pas choisie,* pensa-t-il.
 
-C'était vrai. Il n'avait pas choisi cette femme. Il l'avait lue dans les carnets d'un père qu'il n'avait jamais connu : *S.V., hydrologue, 37 ans, gauchère. Elle dira : « Je sais ce que vous faites pousser. »* Il l'avait attendue, ce matin-là, à la façon dont on attend un train dont on connaît l'horaire et qu'on voudrait manquer.
+C'était vrai. Il n'avait pas choisi cette femme. Il l'avait lue dans les carnets de K., l'homme qu'il avait cru son père : *S.V., hydrologue, 37 ans, gauchère. Elle dira : « Je sais ce que vous faites pousser. »* Il l'avait attendue, ce matin-là, à la façon dont on attend un train dont on connaît l'horaire et qu'on voudrait manquer.
 
 ---
 
@@ -26,7 +26,7 @@ Elle ne nia pas.
 
 — Je sais ce que vous faites pousser, dit-elle.
 
-Il aurait dû sourire. Il ne sourit pas. Il eut, pendant une seconde, la tentation de se lever, de lui dire : *oui. Je sais que vous savez. Je sais que vous avez descendu cent douze marches à deux heures sept, que vous avez posé les mains sur la paroi, que quelque chose vous a répondu. Je sais que vous portez un enfant que vous ne connaissez pas encore.* Il serra les doigts sur le buvard. Il dit :
+Il aurait dû sourire. Il ne sourit pas. Il eut, pendant une seconde, la tentation de se lever, de lui dire : *oui. Je sais que vous savez. Je sais que vous avez descendu cent douze marches à deux heures sept, que vous avez posé les mains sur la paroi, que quelque chose vous a répondu. Je sais ce que vous allez me demander, et ce que je vais vous refuser.* Il serra les doigts sur le buvard. Il dit :
 
 — Asseyez-vous.
 
@@ -104,7 +104,7 @@ Il resta seul, dans son bureau de verre, avec les deux cartes sur le buvard. Il 
 
 *Elle ira voir Étienne ce soir.*
 
-Il le savait. C'était dans les carnets. Elle sortirait du laboratoire à midi, elle marcherait jusqu'au cabinet, elle frapperait à la porte. Il lui ouvrirait. Il ne dirait rien. Ils dîneraient. Ils se coucheraient, côte à côte, dans le grand lit du docteur, sans rien décider. Et cette nuit-là, elle ne se réveillerait pas seule. Il y aurait en elle une autre voix, celle d'une femme qui comptait et ne s'arrêtait pas à soixante, et dans l'homme à côté d'elle, une autre voix encore.
+Il le savait. C'était dans les carnets. Elle sortirait du laboratoire à midi, elle marcherait jusqu'au cabinet, elle frapperait à la porte. Il lui ouvrirait. Il ne dirait rien. Ils dîneraient. Ils se coucheraient, côte à côte, dans le grand lit du docteur, sans rien décider. Et cette nuit-là, elle ne se réveillerait pas seule. Il y aurait en elle une autre voix, celle d'une femme qui comptait jusqu'à cinquante-neuf, et dans l'homme à côté d'elle, une autre voix encore.
 
 *Il faut que ça arrive vite.*
 
@@ -112,7 +112,7 @@ Il se le dit sans honte. C'était la seule chose qu'il avait apprise en quarante
 
 Il ouvrit le cahier noir. Il écrivit, sans trembler :
 
-*Tour 47. J + 52. S.V. : badge retiré. Elle ne m'a pas détesté. J'ai laissé B.K. parler quatre minutes. Faute.*
+*Tour 47. J + 50. S.V. : badge retiré. Elle ne m'a pas détesté. J'ai laissé B.K. parler quatre minutes. Faute.*
 
 Il s'arrêta. Il ajouta :
 

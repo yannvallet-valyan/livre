@@ -114,7 +114,7 @@ Il écrivit :
 
 *Je ne sais pas. J'ai attendu l'eau. J'espère.*
 
-*Elle vivait,* écrivit Sacha. *Je l'ai vue. Je l'ai croisée une nuit. Elle avait des cheveux ras, un châle noir. Elle m'a regardé comme si elle me connaissait.*
+*Elle a vécu,* écrivit Sacha. *Jusqu'en 1999, dans l'appartement du Haut. Je l'ai croisée une nuit, avant l'eau. Elle avait des cheveux ras, un châle noir. Elle m'a regardé comme si elle me connaissait.*
 
 Il n'y eut pas de réponse ce jour-là. Le lendemain, il y eut une seule ligne, tremblée, au crayon :
 

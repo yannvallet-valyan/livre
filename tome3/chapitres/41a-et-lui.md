@@ -22,7 +22,7 @@ Il avait lu son histoire. Il l'avait lue, d'abord, dans un registre rouge, à di
 
 Il savait qu'elle avait aimé un homme.
 
-Il ne l'avait jamais connu. Il s'appelait Walther. Il avait vingt-huit ans, un cahier d'ingénieur, une lettre à sa sœur qu'il ne posterait pas. Il s'était assis un soir de novembre à la table d'une cuisine qui n'était pas la sienne. Il avait dit : « Quelqu'un doit être là. » Il était mort deux jours plus tard.
+Il l'avait connu sous un autre visage. Il s'appelait Walther. En 1958, il avait trente et un ans, un cahier d'ingénieur, une lettre à sa sœur qu'il ne posterait pas. Il s'était assis un matin de novembre à la table d'une cuisine qui n'était pas la sienne. Il avait dit : « Quelqu'un doit être là. » Il était mort le lendemain soir.
 
 Il savait cela. Il en avait pleuré.
 
@@ -40,21 +40,21 @@ Il avait hésité longtemps, sur le chemin. Il avait pensé à ne rien faire. Il
 
 Il pensa, en regardant la pierre : *elle a dit « la maison ». Elle n'a pas dit « lui ».*
 
-C'était vrai. L'épitaphe disait ce qu'elle avait gardé : une cuisine, un toit, une table, quarante-cinq ans de ménage. Elle n'y avait pas mis l'homme. Elle l'avait tu, comme on tait une plaie qu'on ne veut pas montrer. Elle avait peut-être raison. Mais Kerr, qui avait quarante-quatre ans de souvenirs et vingt-quatre ans de corps, savait ce que c'est qu'une personne qui n'est pas nommée : un enfant sans nom dans une maison sans nom.
+C'était vrai. L'épitaphe disait ce qu'elle avait gardé : une cuisine, un toit, une table, quarante-cinq ans de ménage. Elle n'y avait pas mis l'homme. Elle l'avait tu, comme on tait une plaie qu'on ne veut pas montrer. Elle avait peut-être raison. Mais Kerr, qui portait plus d'un siècle de souvenirs dans un corps de trente-cinq ans, savait ce que c'est qu'une personne qui n'est pas nommée : un enfant sans nom dans une maison sans nom.
 
 Il s'agenouilla. Il se pencha, sous la dernière ligne, sur la partie lisse de la pierre. Il écrivit.
 
-Ses doigts tremblaient. La craie crissait, glissait, se brisait presque. Les lettres vinrent de travers, inégales, tordues, comme celles d'un enfant, ou d'un très vieillard. Il pleurait, et le brouillard les lui mettait sur la joue. Il écrivit tout d'un coup, d'un seul souffle, trois mots, qu'il n'avait pas prévus :
+Ses doigts tremblaient. La craie crissait, glissait, se brisait presque. Les lettres vinrent de travers, inégales, tordues, comme celles d'un enfant, ou d'un très vieillard. Il pleurait, et le brouillard les lui mettait sur la joue. Il écrivit tout d'un coup, d'un seul souffle, deux mots, qu'il n'avait pas prévus :
 
 *Et lui.*
 
-Il s'arrêta. Il regarda l'inscription. Il eut envie de la rayer. Il ne la rayera pas.
+Il s'arrêta. Il regarda l'inscription. Il eut envie de la rayer. Il ne la raya pas.
 
 Il murmura, tout bas, à la pierre :
 
 — Merci d'avoir attendu.
 
-Il ne savait pas à qui il parlait. À Rose, à Walther, à la mère qu'il n'avait pas connue, au père qu'il avait connu sans le savoir. Il parla à tous. Il resta ainsi, un moment, à genoux, le front presque contre le granit.
+Il ne savait pas à qui il parlait. À Rose, à Walther, à une mère partie quand il avait huit ans, à un père qui n'avait jamais pu dire son nom. Il parla à tous. Il resta ainsi, un moment, à genoux, le front presque contre le granit.
 
 Puis il se releva. Il glissa la craie dans sa poche. Il fit un pas en arrière, puis un autre.
 
@@ -66,7 +66,7 @@ Il ne vit pas l'homme.
 
 Il se tenait à quelques mètres, derrière un if, depuis une demi-heure. Il avait soixante-dix ans, des cheveux blancs, un visage large, doux, un peu absent. Il portait un vieux blouson de gardien et tenait à la main un clou. Il avait passé la nuit, pour la première fois depuis quarante-six ans, à dormir. Il avait fait un rêve. Il avait entendu, dans ce rêve, une voix de femme, très faible, qui lui disait : « Va voir ta mère. »
 
-Il s'était levé. Il avait marché. Il s'était arrêté, par pudeur, quand il avait aperçu quelqu'un devant la tombe. Il l'avait regardé écrire, d'un regard calme, attentif, sans curiosité. Il avait vu les larmes. Il avait vu la craie. Il avait lu les trois mots, de loin.
+Il s'était levé. Il avait marché. Il s'était arrêté, par pudeur, quand il avait aperçu quelqu'un devant la tombe. Il l'avait regardé écrire, d'un regard calme, attentif, sans curiosité. Il avait vu les larmes. Il avait vu la craie. Il avait lu les deux mots, de loin.
 
 Il resta immobile jusqu'à ce que l'inconnu eût disparu. Alors il sortit de l'ombre.
 
@@ -80,6 +80,6 @@ Il n'ajouta rien. Il n'avait pas de mots. Il s'agenouilla, avec un petit gémiss
 
 Il y passa la journée.
 
-La pluie, ce jour-là, efface la craie avant midi.
+La pluie, ce jour-là, effaça la craie avant midi.
 
-Mais le soir, les trois mots étaient dans la pierre.
+Mais le soir, les deux mots étaient dans la pierre.

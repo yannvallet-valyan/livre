@@ -22,7 +22,7 @@ Il en parlait peu. Les médecins sont mauvais patients. Il savait qu'il lui manq
 
 Étienne n'avait jamais osé lui demander de qui.
 
-Il avait connu, cet automne-là, une hydrologue, une femme sèche, qui écrivait à l'encre bleue. Elle était partie, un matin de la fin octobre, sans un mot. Il avait appelé quarante et une fois. Il ne l'avait jamais revue. Il en gardait une sorte de pudeur, comme d'un tort.
+Il avait connu, cet automne-là, une hydrologue, une femme sèche, qui écrivait à l'encre bleue. Elle était partie, un matin d'octobre, sans un mot. Il avait appelé quarante et une fois. Il ne l'avait jamais revue. Il en gardait une sorte de pudeur, comme d'un tort.
 
 Il avait appris sa mort dix-neuf ans plus tard, un soir de neige, de la bouche d'une jeune fille qui se tenait sur le seuil de son cabinet, une enveloppe à la main. Elle avait un front trop grand, des sourcils droits, un grain de beauté au coin de l'œil. Il avait lu trois lignes d'encre bleue. Il avait levé les yeux.
 
