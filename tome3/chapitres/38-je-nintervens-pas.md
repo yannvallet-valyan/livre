@@ -18,7 +18,7 @@ Une femme y était montée, vers trois heures, au lieu de rentrer chez elle. Ell
 
 Et il y avait, en même temps, dans le même corps — celui d'un gardien de barrage, Anselme —, une autre femme. Elle ne dormait pas, elle. C'était la seule à veiller : la plus ancienne. Elle avait trente-quatre ans, les cheveux longs, un nom que le garçon du jour ne connaissait pas. Elle avait peur depuis si longtemps qu'elle n'en parlait plus. Elle s'était assise sur le lit, les mains sur les genoux, et elle avait regardé la femme entrer.
 
-K. ne voyait rien. Il n'avait pas besoin de voir. Il avait les mesures. Le champ montait, sur son écran, par à-coups : deux présences dans un seul lieu, deux courbes qui se frôlaient, se croisaient, se mêlaient. Il se dit : *c'est la rencontre.*
+K. ne voyait rien. Il n'avait pas besoin de voir. Il avait les mesures. Le champ montait, sur son écran, par à-coups : deux présences dans un seul lieu, deux courbes qui se frôlaient, se croisaient, se mêlaient. *C'est la rencontre.*
 
 Il écrivit : *4 h 15. Variable É. rencontre la plus ancienne.*
 
@@ -28,7 +28,7 @@ Il n'avait pas le droit de savoir ce qu'elles se disaient. Il le savait pourtant
 
 Il serra le boîtier.
 
-Il pensa à une femme de cinquante-sept ans, assise sur un lit de Lyon, en janvier 2066, qui disait à un homme de quatre-vingt-cinq ans : « Il faut que je parte. » Il pensa à elle, à sa voix, à la façon dont elle avait posé la main sur son front. Il pensa : *elle ne m'a jamais reconnu.* Il pensa : *moi non plus, quand je l'ai revue.*
+Il pensa à une femme de cinquante-sept ans, assise sur un lit de Lyon, en janvier 2066, qui disait à un homme de quatre-vingt-cinq ans : « Il faut que je parte. » Il pensa à elle, à sa voix, à la façon dont elle avait posé la main sur son front. *Elle ne m'a jamais reconnu.* Il pensa : *moi non plus, quand je l'ai revue.*
 
 Il écrivit, sous la ligne :
 
@@ -56,7 +56,7 @@ Il ferma les yeux.
 
 C'était la phrase. Celle qu'une femme devait confier à une autre, une nuit, au fond d'un corps, et qu'une troisième écrirait un jour sur une page. Une phrase sans auteur. Il l'avait lue cent fois, dans les carnets, et il avait cru l'avoir entendue. Il n'avait rien entendu : il la recevait, ce soir, pour la première fois, dans la bouche de celle qui l'avait donnée.
 
-Elle repartit. Il la regarda s'éloigner, de dos, les épaules rentrées, vers la route. Il pensa : *elle ne le saura jamais.* Il pensa : *elle a donné ce qu'elle avait, et elle ne sait pas à qui.* Il pensa : *c'est comme ça que tout commence.*
+Elle repartit. Il la regarda s'éloigner, de dos, les épaules rentrées, vers la route. *Elle ne le saura jamais.* *Elle a donné ce qu'elle avait, et elle ne sait pas à qui.* Il pensa : *c'est comme ça que tout commence.*
 
 Il faillit courir derrière elle. Il fit un pas.
 

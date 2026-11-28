@@ -20,7 +20,7 @@ Elle riait.
 
 Il passa le 9 juillet à marcher.
 
-Il avait une montre, au poignet, qu'il consultait sans arrêt. Il arpentait les rues du bourg, les mains dans les poches, sans trouver de place où s'asseoir. Il s'arrêta devant la pharmacie, vers midi. Il vit sa fenêtre ouverte, un rideau qui battait. Il pensa : *elle est là.* Il pensa : *il faut que je monte.* Il pensa : *je n'ai rien à lui donner.*
+Il avait une montre, au poignet, qu'il consultait sans arrêt. Il arpentait les rues du bourg, les mains dans les poches, sans trouver de place où s'asseoir. Il s'arrêta devant la pharmacie, vers midi. Il vit sa fenêtre ouverte, un rideau qui battait. *Elle est là.* *Il faut que je monte.* Il pensa : *je n'ai rien à lui donner.*
 
 Il avait, dans la poche, un caillou.
 

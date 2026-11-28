@@ -80,7 +80,7 @@ Tanguy le regarda. Il y eut un moment très long, où l'eau tombait entre eux, s
 
 — Je suis très content pour toi, répéta Kerr, avec un sourire qu'il sentit se déchirer sur ses lèvres.
 
-Il pensa : *je ne peux pas lui dire.* Il pensa : *je ne peux pas lui dire que je l'ai su avant lui. Que je l'ai lu dans un carnet. Que Lucie lui donnera une fille en 2178, et que la fille s'appellera Anne, et qu'elle aura ses cheveux, et qu'il l'adorera.* Il pensa : *je ne peux pas lui dire que je serai parti avant la naissance.*
+Il pensa : *je ne peux pas lui dire.* *Je ne peux pas lui dire que je l'ai su avant lui. Que je l'ai lu dans un carnet. Que Lucie lui donnera une fille en 2178, et que la fille s'appellera Anne, et qu'elle aura ses cheveux, et qu'il l'adorera.* *Je ne peux pas lui dire que je serai parti avant la naissance.*
 
 Il dit :
 
@@ -142,6 +142,6 @@ Tanguy le regarda. Il ne rit pas. Il passa le bras autour de ses épaules, et il
 
 — Alors reste.
 
-Kerr ne répondit pas. Il posa la tête sur son épaule, un instant. Il sentit l'odeur du manteau. Il se dit : *c'est le dernier endroit chaud.* Il se dit : *je m'en souviendrai.*
+Kerr ne répondit pas. Il posa la tête sur son épaule, un instant. Il sentit l'odeur du manteau. Il se dit : *c'est le dernier endroit chaud.* *Je m'en souviendrai.*
 
 Il s'en souviendrait. Il s'en souvenait déjà.

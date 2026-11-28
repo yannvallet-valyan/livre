@@ -28,7 +28,7 @@ Il ne dit rien à personne. Il ne savait pas quoi dire.
 
 Il se rappela vaguement que, la veille, il avait reçu quelqu'un. Un homme du ministère, ou de l'ARS. Un homme poli, avec qui il avait parlé longtemps. Il ne savait plus le sujet. Il ne se rappelait pas non plus avoir mangé, avoir téléphoné, avoir décroché. Il avait des trous. Il en avait de plus en plus. Il les mettait sur le compte du chagrin, du travail, de l'âge. Il avait trente-cinq ans.
 
-Il se regarda dans la glace des toilettes, longtemps. Il vit un homme aux tempes déjà grises, au visage lisse, un peu trop attentif. Il se dit : *c'est moi.* Il se dit : *c'est vraiment moi ?*
+Il se regarda dans la glace des toilettes, longtemps. Il vit un homme aux tempes déjà grises, au visage lisse, un peu trop attentif. Il se dit : *c'est moi.* *C'est vraiment moi ?*
 
 ---
 

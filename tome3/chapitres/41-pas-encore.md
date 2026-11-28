@@ -106,6 +106,6 @@ Personne ne répondit. Mais il y eut, très loin, de l'autre côté de l'eau, un
 
 Il repartit. Il savait où il allait. Il savait qu'il y avait, quelque part, une autre cuisine, un autre feu, une autre table. Il savait qu'il lui restait un dîner à tenir, des lentilles à saler, des visages à regarder en face. Il savait qu'il devrait, un jour, dire à un homme au crayon qu'il n'était pas son fils.
 
-Il se dit : *pas encore.*
+*Pas encore.*
 
-Il se dit : *mais bientôt.*
+*Mais bientôt.*

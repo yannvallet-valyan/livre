@@ -26,7 +26,7 @@ Il la regarda, de l'intérieur, avec cette lucidité froide qu'il avait toujours
 
 Il vit Léthé se dissoudre, puis renaître sous un autre nom, à Genève, avec les bacs, le gisement, les brevets. Il vit un jeune homme, très ambitieux, un certain Marchand, prendre la tête des opérations. Il vit les premières pilules sortir des chaînes, vers 2030, sous le nom de *Léthé Doux*. Il vit un jeune chercheur en blouse blanche, avec une moustache, lui apporter un échantillon, dans son bureau. Le jeune chercheur disait : « C'est révolutionnaire. Ça efface la douleur. »
 
-Il le regarda. Il pensa : *c'est vrai.*
+Il le regarda. *C'est vrai.*
 
 Il pensa que c'était la plus grande vérité qu'on lui eût dite, et qu'elle suffirait à détruire un monde.
 
@@ -74,7 +74,7 @@ Ce fut la période la plus étrange de sa vie. Il ne l'avait pas voulue. Il n'en
 
 Adèle mourut en 2038, d'un cancer qu'on ne dépista pas à temps. Théo avait neuf ans. Il pleura très peu. Il demanda seulement : « Maman est où ? » Kerr dit : « Elle est partie. » Théo demanda : « Elle revient ? » Kerr dit : « Non. » L'enfant resta silencieux un long moment. Il dit, enfin : « Alors c'est toi qui restes. »
 
-Kerr ne répondit pas. Il le serra contre lui. Il sentit ses petits bras s'agripper à sa veste. Il pensa : *je ne reste pas.* Il pensa : *je ne reste pas, et il le sait.*
+Kerr ne répondit pas. Il le serra contre lui. Il sentit ses petits bras s'agripper à sa veste. *Je ne reste pas.* Il pensa : *je ne reste pas, et il le sait.*
 
 Il se rendait compte que l'enfant, sans rien en dire, avait toujours su. Il le regardait, parfois, d'un regard très long, direct, sans reproche, qui disait : *je sais que tu n'es pas mon père. Je sais que tu es là pour quelque chose.* Il ne le disait pas. Il se contentait de lui prendre la main, les soirs d'hiver, quand ils rentraient du lac.
 
@@ -146,7 +146,7 @@ Il la tint pendant une heure, assis à la table, dans la cuisine éclairée, dev
 
 Il le sentit partir.
 
-Il se tint là, jusqu'au matin, sans bouger, à regarder le corps de celui qui avait été son fils. Puis il se leva. Il alla à la fenêtre. Il regarda le jour se lever sur le lac. Il se dit : *je ne mérite pas de vivre.* Il se dit : *je vivrai.*
+Il se tint là, jusqu'au matin, sans bouger, à regarder le corps de celui qui avait été son fils. Puis il se leva. Il alla à la fenêtre. Il regarda le jour se lever sur le lac. *Je ne mérite pas de vivre.* *Je vivrai.*
 
 Il savait qu'il lui restait un an à attendre, que le garçon se remplisse d'un autre, que la boucle tourne. Il savait qu'il porterait cette nuit jusqu'à sa mort.
 

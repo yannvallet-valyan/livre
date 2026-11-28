@@ -124,7 +124,7 @@ Il prit, sur la commode, la photographie de la mère d'Agathe. Il la regarda. Un
 
 Il la remit à sa place.
 
-Il sortit dans le couloir. Il referma la porte. Il se tint là un instant, adossé au mur, les yeux fermés. Il se dit : *c'est donc cela, une mort douce.* Il se dit : *je n'en aurai pas de pareille.*
+Il sortit dans le couloir. Il referma la porte. Il se tint là un instant, adossé au mur, les yeux fermés. *C'est donc cela, une mort douce.* *Je n'en aurai pas de pareille.*
 
 Il se dit, plus bas : *je voudrais bien me tromper.*
 
@@ -134,4 +134,4 @@ Il y entra.
 
 Il y resta un long moment. Il sentait battre, contre sa joue, le cœur de son ami, un cœur de vivant, rapide, tiède. Il pensa : *je ne l'ai pas encore perdu.*
 
-Il pensa : *mais bientôt.*
+*Mais bientôt.*

@@ -26,7 +26,7 @@ Il avala le cachet. Il but une gorgée d'eau. Il s'assit sur le lit, les mains s
 
 Il y eut d'abord un calme.
 
-Un grand calme, très doux, très bas, comme si on avait baissé le son du monde. Les pensées ralentirent. Les voix se turent, une à une. Il crut entendre, dans le lointain, un chant d'oiseau. Il pensa : *c'est ça, la paix.* Il pensa : *je ne savais pas que ça existait.*
+Un grand calme, très doux, très bas, comme si on avait baissé le son du monde. Les pensées ralentirent. Les voix se turent, une à une. Il crut entendre, dans le lointain, un chant d'oiseau. *C'est ça, la paix.* *Je ne savais pas que ça existait.*
 
 Puis il sentit quelque chose se détacher.
 

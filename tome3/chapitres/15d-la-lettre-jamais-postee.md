@@ -62,7 +62,7 @@ Elle comprit qu'elle pleurait. Elle pleurait, depuis le début de la lecture, sa
 
 *Elle avait trente-huit ans,* pensa-t-elle. *Elle avait peur. Elle a gardé.*
 
-Elle pensa : *je lui dois d'y aller.*
+*Je lui dois d'y aller.*
 
 ---
 

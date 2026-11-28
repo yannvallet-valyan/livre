@@ -134,7 +134,7 @@ Sacha lut la ligne. Il la lut trois fois. Il ne bougea pas.
 
 Il ne ressentit pas ce qu'il avait cru ressentir. Il avait imaginé, pendant des semaines, que ce serait de la jalousie, de la colère, de la douleur. Il y eut cela, d'abord, très vite, comme une lame. Puis cela passa. Il se tint un long moment les mains sur les genoux, dans le noir, à regarder un petit rond de lumière que la lampe faisait sur la table.
 
-Il pensa à un enfant de trois ans, aux poings serrés sous le menton. Il pensa : *il n'a pas mon front.* Il pensa : *il a le sien.*
+Il pensa à un enfant de trois ans, aux poings serrés sous le menton. *Il n'a pas mon front.* *Il a le sien.*
 
 Il fut jaloux. Il le fut avec une netteté qui le surprit, à la façon dont on est surpris par un goût d'enfance. Il eut honte : il se dit qu'un homme qui a vécu un siècle n'a pas le droit de jalouser un garçon sorti d'une cuisine. Il l'était pourtant, de la tête aux pieds. Il pensa : *il l'a eue. Il a été là. Il a eu le jour.* Il pensa qu'on lui avait volé quelque chose qu'il n'avait jamais possédé, et qu'il n'avait pas même le droit de le réclamer. Il se leva, renversa la lampe, la rattrapa de justesse. Il se tint debout, les poings serrés, au milieu de la salle, à respirer comme un homme qui vient de courir. Il se dit, tout bas : *c'est bien. C'est très bien.* Il ne le crut pas. Il le répéta quand même, trois fois, comme on répète un nom pour s'en souvenir.
 

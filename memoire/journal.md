@@ -69,3 +69,4 @@
 | V3.65 | 2026-11-27 | Renommage de l'ami de Kerr : **Mael → Tanguy** (T3, plan, canon, anneau-v2, journal ; fichiers `32-tanguy`, `34-ce-que-tanguy-ne-sait-pas`, `36-la-derniere-nuit-avec-tanguy`, `36f-tanguy-vieux`). |
 | V3.66 | 2026-11-27 | Vérification générale : T3 renuméroté, tics réduits par passe automatique (« comme on », « il resta/comprit »), erreur d'âge corrigée (`41c`), EPUB T1/T2 et livre du site régénérés, `check-story` OK ; `chapitres.md` (table T3), `resume.md`, `style.md`, `fils-ouverts.md` mis à jour. |
 | V3.67 | 2026-11-28 | **Tome 3 publié** : `build-epub.py --tome 3` (site/lhomme-du-jour.epub), `build-book.js` (ids `t3-…`), `book-ui.js` (section et lien EPUB), CLAUDE.md. |
+| V3.68 | 2026-11-28 | Passe de style T3 (partielle) : pensées directes, ch. 28 réécrit ; EPUB et site régénérés ; fusion sur la branche par défaut. |

@@ -92,7 +92,7 @@ Elle réfléchit. Elle posa le caillou sur le coin de la table, entre la salièr
 
 — Alors c'est la pluie, dit-il, en riant.
 
-Elle se leva. Elle contourna la table. Elle l'entoura de ses bras, d'un geste brusque, maladroit, en lui écrasant le nez contre son épaule. Il sentait la laine mouillée, la graisse de mouton, l'odeur de la jeunesse. Il ferma les yeux. Il pensa : *elle a ses mains.* Il pensa : *elle a ses yeux.* Il ne savait plus de qui.
+Elle se leva. Elle contourna la table. Elle l'entoura de ses bras, d'un geste brusque, maladroit, en lui écrasant le nez contre son épaule. Il sentait la laine mouillée, la graisse de mouton, l'odeur de la jeunesse. Il ferma les yeux. *Elle a ses mains.* Il pensa : *elle a ses yeux.* Il ne savait plus de qui.
 
 — Je le garderai, dit-elle.
 

@@ -56,3 +56,5 @@ Chaque personnage garde la trace de ce qu'il a appris : Sacha n'oublie pas qu'Ir
 
 ## Tome 3 — tics (V3.65, après passe automatique)
 ≈ 70 k mots : « comme on » 43 (+ variantes « ainsi qu'on » 44, « à la façon dont on » 43), « il y avait » 110, « quelque chose » 82, « longtemps » 86, « il resta » 75, « il comprit » 41. Encore plus haut que T1/T2 : une vraie passe de style manuelle reste à faire (réduire « il resta/comprit », varier les débuts de scène, couper les récapitulatifs « Il pensa : »).
+
+V3.68 : T3 après passe partielle (« Il pensa : *x* » → pensée directe 1/3 sur 2, ch. 28 réécrit à la main) : « il pensa » ≈ 120, « il resta » ≈ 75. Une relecture manuelle intégrale reste souhaitable, en priorité `07`, `05`, `04`, `29`, `25b`, `24b`, `41a`.

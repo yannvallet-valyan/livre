@@ -84,7 +84,7 @@ Il avait prononcé la phrase sans la préparer. Il la regretta aussitôt. Elle n
 
 Il se retourna, enfin. Il la vit. Il vit le front trop grand, les sourcils droits, le grain de beauté. Il vit, derrière, un visage très jeune, très las, qui avait perdu quelqu'un et ne le savait pas encore. Il sentit le sol bouger sous lui. Il comprit, avec une précision d'horloger, que cette femme, qui avait dix-huit ans, serait un jour la mère de l'homme qui s'appelait Sacha.
 
-Il se dit : *ne la regarde pas comme ça.*
+*Ne la regarde pas comme ça.*
 
 Il se dit : *tu as dix-sept ans. Tu es un enfant.*
 

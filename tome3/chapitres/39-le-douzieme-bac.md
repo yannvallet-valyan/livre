@@ -24,7 +24,7 @@ C'était étrange : il y pensait peu, d'ordinaire. Elle appartenait à une caté
 
 Il se rappelait ses mains. Elles avaient tremblé en rendant le badge.
 
-Il pensa : *elle ne saura jamais.* Il pensa : *c'est ce que les carnets appellent un coût.* Il serra l'aiguille.
+*Elle ne saura jamais.* *C'est ce que les carnets appellent un coût.* Il serra l'aiguille.
 
 Puis il pensa à une femme qui comptait, quelque part, dans le corps de cette même Sophia, jusqu'à soixante, au pied d'un mur ; et à un homme qui frappait de l'autre côté. Il pensa à deux Iris qui, dans quelques heures, se rencontreraient sans se connaître. Il pensa : *deux femmes qui vont m'attendre sans le savoir.*
 
@@ -44,7 +44,7 @@ Il retira les gants. Il les jeta. Il recula de trois pas, sans savoir pourquoi, 
 
 Il se tint debout, les bras ballants, sous la lumière. Il se regarda les mains, avec curiosité, comme celles d'un autre. Elles ne tremblaient plus.
 
-Il pensa : *voilà. C'est fait.*
+*Voilà. C'est fait.*
 
 Il pensa, un instant plus tard, avec une honte aiguë : *j'ai tué quelqu'un.*
 
@@ -58,6 +58,6 @@ Il sortit de la salle de culture. Il referma la porte à clé. Dans la galerie, 
 
 Il monta l'escalier de fer. Il sortit à l'air libre. Le ciel était gris, mouillé, immense. Il resta un moment sur le perron, à respirer, la main sur la rampe. Il pensa à un garçon qui irait à l'école, ce matin-là, à quelque cinquante kilomètres de là, et qui ne saurait jamais qu'il était, d'une certaine façon, l'enfant de ce geste.
 
-Il pensa : *C'est un garçon.*
+*C'est un garçon.*
 
 *Un garçon qui va à l'école.*

@@ -100,11 +100,11 @@ Elle prit le badge. Elle le regarda un moment, puis le posa sur le bureau, de c�
 
 Il resta seul, dans son bureau de verre, avec les deux cartes sur le buvard. Il resta longtemps immobile.
 
-Il pensa : *elle ira voir Étienne ce soir.*
+*Elle ira voir Étienne ce soir.*
 
 Il le savait. C'était dans les carnets. Elle sortirait du laboratoire à midi, elle marcherait jusqu'au cabinet, elle frapperait à la porte. Il lui ouvrirait. Il ne dirait rien. Ils dîneraient. Ils se coucheraient, côte à côte, dans le grand lit du docteur, sans rien décider. Et cette nuit-là, elle ne se réveillerait pas seule. Il y aurait en elle une autre voix, celle d'une femme qui comptait et ne s'arrêtait pas à soixante, et dans l'homme à côté d'elle, une autre voix encore.
 
-Il pensa : *il faut que ça arrive vite.*
+*Il faut que ça arrive vite.*
 
 Il se le dit sans honte. C'était la seule chose qu'il avait apprise en quarante-six tours : qu'on n'arrête pas une histoire en la retardant, qu'on ne fait que la rendre plus longue à souffrir. Il pensa à une jeune femme qui avait cru aux chiffres. Il pensa à un homme qu'elle aimerait. Il pensa que ce serait, au fond, une chose bonne, que ces deux-là se rencontrent. Il sut qu'il se mentait.
 

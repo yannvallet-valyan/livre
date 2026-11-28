@@ -74,7 +74,7 @@ Ils restèrent ainsi, l'un contre l'autre, la main dans la main, jusqu'à ce que
 
 Il se dit, cette nuit-là, dans son lit, les yeux ouverts : *si je pars, je le perds.*
 
-Il se le dit très clairement. Il le savait depuis longtemps. Il l'avait lu dans les carnets. Il l'avait compris, un jour de six ans, devant une pompe. Mais il avait cru que cela n'arriverait que dans un autre temps, dans un autre corps. Il comprit ce soir-là que le temps, pour lui, ne se divisait pas : qu'il vivait tout à la fois, l'enfant de huit ans qu'on abandonne, le jeune homme qui abandonne, le vieillard qui se souvient. Il pensa : *c'est un luxe. C'est aussi une torture.*
+Il se le dit très clairement. Il le savait depuis longtemps. Il l'avait lu dans les carnets. Il l'avait compris, un jour de six ans, devant une pompe. Mais il avait cru que cela n'arriverait que dans un autre temps, dans un autre corps. Il comprit ce soir-là que le temps, pour lui, ne se divisait pas : qu'il vivait tout à la fois, l'enfant de huit ans qu'on abandonne, le jeune homme qui abandonne, le vieillard qui se souvient. *C'est un luxe. C'est aussi une torture.*
 
 Il prit son carnet. Il écrivit :
 

@@ -62,7 +62,7 @@ Elle sourit. Elle posa la tasse sur le bureau. Elle suivit son regard, vers le l
 
 — Comme quelqu'un qui a peur pour lui.
 
-Étienne ne répondit pas. Il sentit sa gorge se serrer. Il pensa : *elle voit tout.* Il pensa : *elle a raison.* Il se tourna vers elle. Il dit, avec une gravité qu'il ne se connaissait pas :
+Étienne ne répondit pas. Il sentit sa gorge se serrer. *Elle voit tout.* *Elle a raison.* Il se tourna vers elle. Il dit, avec une gravité qu'il ne se connaissait pas :
 
 — Il a l'âge d'être ton frère.
 

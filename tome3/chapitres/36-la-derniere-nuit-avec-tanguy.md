@@ -12,7 +12,7 @@ Il frappa deux coups, comme toujours. Lucie vint ouvrir, un linge à la main. El
 
 Il traversa la maison. Elle sentait la soupe, le feu de bois, le linge propre. Il y avait des jouets par terre, un cheval de bois, une poupée de chiffon. Il s'arrêta devant la porte de la chambre. Par l'entrebâillement, il vit le petit lit, la forme endormie sous la couverture. Il resta là un moment. Il écouta le souffle.
 
-Il pensa : *je te vois, Anne.* Il pensa : *tu ne te souviendras pas de moi.* Il pensa : *c'est bien.*
+*Je te vois, Anne.* Il pensa : *tu ne te souviendras pas de moi.* *C'est bien.*
 
 Il rejoignit Tanguy sur la terrasse.
 
@@ -114,7 +114,7 @@ Il s'approchèrent, d'un même mouvement. Ils se prirent dans les bras, très fo
 
 — Parce que c'est comme ça que ça marche, dit Kerr.
 
-Il avait compris cela, tout à coup, en le disant. Il avait parlé sans réfléchir, la gorge serrée. Il sut, à l'instant, que c'était vrai : que ceux qu'il aimait, quand il partirait, ne garderaient de lui qu'une ombre, une impression, un manque sans nom. Il le savait depuis les carnets. Il le comprenait maintenant, dans son corps. Il pensa à une femme qui avait oublié un homme, pendant dix-huit ans. Il pensa : *voilà donc ce qu'elle a vécu.*
+Il avait compris cela, tout à coup, en le disant. Il avait parlé sans réfléchir, la gorge serrée. Il sut, à l'instant, que c'était vrai : que ceux qu'il aimait, quand il partirait, ne garderaient de lui qu'une ombre, une impression, un manque sans nom. Il le savait depuis les carnets. Il le comprenait maintenant, dans son corps. Il pensa à une femme qui avait oublié un homme, pendant dix-huit ans. *Voilà donc ce qu'elle a vécu.*
 
 ---
 
@@ -128,7 +128,7 @@ Il dégagea doucement son épaule. Il posa la tête de Tanguy sur un coussin. Il
 
 — Merci.
 
-Il se redressa. Il regarda la maison, la terrasse, les pommiers, le chemin. Il enregistra tout, avec cette mémoire froide qui était la sienne, comme on grave sur une plaque. Il pensa : *voilà ce que je laisse.* Il pensa : *voilà ce que j'emporte.*
+Il se redressa. Il regarda la maison, la terrasse, les pommiers, le chemin. Il enregistra tout, avec cette mémoire froide qui était la sienne, comme on grave sur une plaque. Il pensa : *voilà ce que je laisse.* *Voilà ce que j'emporte.*
 
 Il sortit par la porte du jardin. Il referma sans bruit.
 
