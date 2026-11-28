@@ -9216,7 +9216,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Et Hugo ? Qu'est-ce qu'il dira ? Il a trente ans, il a déjà enterré sa mère, il a mon âge dans la tête. Il va falloir lui dire qu'il a une sœur d'une femme qu'il connaît à peine. Je ne saurai pas."
+     "s": "— Et Hugo ? Qu'est-ce qu'il dira ? Il a dix-neuf ans, il a déjà enterré sa mère, il est plus vieux que moi dans sa tête. Il va falloir lui dire qu'il a une sœur d'une femme qu'il connaît à peine. Je ne saurai pas."
     },
     {
      "t": "p",
@@ -9455,7 +9455,7 @@ window.BOOK = {
      "s": "Sophia referma le carnet. Elle le posa sur la table, contre le caillou de Mathis, à côté des deux stylos croisés. Puis elle alla sous la douche, et resta sous l'eau chaude jusqu'à ce qu'il n'y en ait plus."
     }
    ],
-   "words": 2388
+   "words": 2390
   },
   {
    "id": "39-le-mur",
@@ -10108,7 +10108,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle avait passé quatorze ans à comprendre pourquoi. Entre-temps, elle avait aimé un homme qui s'était réveillé un matin d'entre les rouillés, et qui était reparti comme il était venu. Elle laissait au refuge un fils de huit ans, qui avait les carnets de son père et ses yeux. Quatre ans plus tôt, elle avait déjà demandé un éclat, pour un voyage plus court, dont elle était revenue sans un mot à personne. Le jour de ses trente-quatre ans, elle en avait demandé un autre."
+     "s": "Elle avait passé quatorze ans à comprendre pourquoi. Entre-temps, elle avait aimé un homme qui s'était réveillé un matin d'entre les rouillés, et qui ne vivait que le jour, dans le corps d'un autre. Elle laissait au refuge un fils de huit ans, qui avait les yeux de son père et déjà, sous son lit, les carnets d'un autre homme. Quatre ans plus tôt, elle avait déjà demandé un éclat, pour un voyage plus court, dont elle était revenue sans un mot à personne. Le jour de ses trente-quatre ans, elle en avait demandé un autre."
     },
     {
      "t": "hr"
@@ -10243,7 +10243,7 @@ window.BOOK = {
      "s": "*Il fait jour. Il n'a plus peur.*"
     }
    ],
-   "words": 1585
+   "words": 1596
   },
   {
    "id": "42-la-derniere-nuit",
@@ -38075,8 +38075,8 @@ window.BOOK = {
   },
   {
    "id": "t3-37c-le-cafe",
-   "n": 54,
-   "label": "Chapitre 54",
+   "n": 0,
+   "label": "Chapitre 0",
    "title": "Le café",
    "blocks": [
     {
@@ -38089,31 +38089,23 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle croyait le connaître. C'était le directeur du laboratoire, Bastien Kerr, trente-cinq ans, costume anthracite, sourire de publicité. Elle lui avait remis son badge, à contrecœur, un vendredi. Elle l'avait entendu dire d'une voix douce : « Je suis désolé, madame Varenne. » Elle avait pensé : *il ment mal.* Elle avait pensé aussi, sans savoir pourquoi : *il est triste.*"
+     "s": "Elle croyait le connaître. C'était le directeur du laboratoire, Bastien Kerr, trente-cinq ans, costume anthracite, sourire de publicité. La première fois, ce fut le vendredi 6, dans son bureau vitré, quand il lui retira son badge. Il le fit poliment, en s'excusant, et lui conseilla de prendre une semaine de congé. Elle se leva. Elle était déjà à la porte quand elle se retourna, sans savoir pourquoi, et dit :"
     },
     {
      "t": "p",
-     "s": "La deuxième fois, c'était le jeudi suivant, dans le couloir de l'administration, un peu avant sept heures. Elle arrivait en avance, son sac de documents sous le bras, un gobelet de café tiède à la main. Il se tenait contre la fenêtre, le front presque posé sur la vitre, comme quelqu'un qui attend un train. Il regardait la cour. Elle crut qu'il ne l'avait pas entendue."
+     "s": "— Vous avez l'air fatigué, monsieur Kerr."
     },
     {
      "t": "p",
-     "s": "— Vous avez l'air fatigué, dit-elle."
+     "s": "— Je le suis."
     },
     {
      "t": "p",
-     "s": "Il se retourna. Il la regarda, avec une expression qu'elle ne put définir : comme si elle venait de lui rappeler un mot oublié."
+     "s": "— Il y a du café dans la salle de pause. Il est mauvais, mais il est chaud."
     },
     {
      "t": "p",
-     "s": "— Oui, dit-il."
-    },
-    {
-     "t": "p",
-     "s": "— Venez prendre un café. Il y en a dans la salle de pause. Il est mauvais, mais il est chaud."
-    },
-    {
-     "t": "p",
-     "s": "Il ouvrit la bouche, comme pour accepter. Puis son visage se ferma d'un seul coup."
+     "s": "Il la regarda avec une expression qu'elle ne put définir : comme si elle venait de lui rappeler un mot oublié. Il ouvrit la bouche, comme pour accepter. Puis son visage se ferma d'un seul coup."
     },
     {
      "t": "p",
@@ -38129,74 +38121,42 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle sourit. Elle continua son chemin. *Drôle d'homme.* Elle pensa : *il parle comme quelqu'un qui n'a pas le droit.* Elle oublia, dans la journée."
+     "s": "Elle sortit. Elle pensa : *drôle d'homme.* Elle pensa : *il parle comme quelqu'un qui n'a pas le droit.* Elle oublia, dans la journée. Elle avait d'autres choses à penser : un ingénieur à convaincre, une brèche, un P7."
     },
     {
      "t": "hr"
     },
     {
      "t": "p",
-     "s": "Elle repassa le soir devant la salle des bacs, avec les clés de Ménard. Elle vit de la lumière sous la porte. Elle poussa. Il était là, seul, debout devant le dernier bac, les gants à la main. Il lui tournait le dos. Elle s'arrêta sur le seuil."
+     "s": "La deuxième fois, ce fut le soir du 13, dans le préfabriqué de Ménard."
     },
     {
      "t": "p",
-     "s": "— Vous devriez dormir."
+     "s": "Elle y était assise depuis deux heures, une tasse de café entre les mains, qu'on lui avait posée là sans lui demander son avis. Elle n'appelait personne. Elle écoutait les deux hommes parler en même temps, de deux côtés du parking, l'un de sûreté, l'autre de contrats. Ménard au téléphone avec la préfecture. Kerr au téléphone avec Genève, puis Genève, puis Genève."
     },
     {
      "t": "p",
-     "s": "Il sursauta. Il se retourna. Elle vit qu'il avait pleuré, et qu'il ne l'avait pas caché."
+     "s": "Vers huit heures, Kerr entra dans le préfabriqué pour chercher un document. Il avait le téléphone collé à l'oreille, la cravate défaite. Il raccrocha au milieu d'une phrase. Il resta debout, au milieu de la pièce, le combiné à la main, comme un homme qui a oublié pourquoi il est venu."
     },
     {
      "t": "p",
-     "s": "— Je vais le faire, dit-il."
+     "s": "Il la vit. Il ne dit rien."
     },
     {
      "t": "p",
-     "s": "— Quand ?"
+     "s": "Elle ne sut jamais pourquoi elle fit ce geste. Elle lui tendit sa tasse. Elle était encore à moitié pleine."
     },
     {
      "t": "p",
-     "s": "— Bientôt."
+     "s": "Il la regarda. Il eut, pendant une seconde, le même visage que dans le bureau vitré, sept jours plus tôt : celui d'un homme à qui l'on rappelle un mot. Puis il tendit la main, et il prit la tasse."
     },
     {
      "t": "p",
-     "s": "— Vous le dites comme quelqu'un qui n'y croit pas."
+     "s": "Il but une gorgée. Il grimaça."
     },
     {
      "t": "p",
-     "s": "— J'y crois, dit-il. Mais pas dans cet ordre."
-    },
-    {
-     "t": "p",
-     "s": "Elle ne comprit pas. Elle ne demanda rien. Elle posa sur la table le gobelet qu'elle tenait, encore fumant, qu'elle venait de se servir pour elle. Elle dit : « Prenez-le. » Il le prit. Il le tint à deux mains, longtemps, sans le boire."
-    },
-    {
-     "t": "p",
-     "s": "— Merci, dit-il."
-    },
-    {
-     "t": "p",
-     "s": "— Ce n'est rien."
-    },
-    {
-     "t": "p",
-     "s": "— Si, dit-il. C'est la première fois."
-    },
-    {
-     "t": "p",
-     "s": "— La première fois que quoi ?"
-    },
-    {
-     "t": "p",
-     "s": "— Que quelqu'un me l'offre."
-    },
-    {
-     "t": "p",
-     "s": "Il but une gorgée. Il grimaça. Il dit :"
-    },
-    {
-     "t": "p",
-     "s": "— Il est vraiment très mauvais."
+     "s": "— Il est vraiment très mauvais, dit-il."
     },
     {
      "t": "p",
@@ -38212,141 +38172,84 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il sourit."
+     "s": "Il sourit. Ce n'était pas le sourire de publicité. C'était un sourire plus jeune, plus maladroit, qui ne lui allait pas, et qui lui allait pourtant. Il lui rendit la tasse. Il dit :"
+    },
+    {
+     "t": "p",
+     "s": "— Merci."
+    },
+    {
+     "t": "p",
+     "s": "— Ce n'est rien."
+    },
+    {
+     "t": "p",
+     "s": "— Si, dit-il. C'est la première fois."
+    },
+    {
+     "t": "p",
+     "s": "— La première fois que quoi ?"
+    },
+    {
+     "t": "p",
+     "s": "— Que quelqu'un me l'offre deux fois."
+    },
+    {
+     "t": "p",
+     "s": "Son téléphone sonna. Il regarda l'écran. Le visage se referma, d'un coup, comme une porte. Il décrocha, dit « Oui », d'une voix qui n'était plus la même, et sortit."
+    },
+    {
+     "t": "p",
+     "s": "Sophia regarda la tasse. Elle ne la finit pas. Elle ne la jeta pas non plus. Elle la plia, quand elle fut vide, en quatre, et la glissa dans la poche de son manteau. Elle ne sut jamais pourquoi."
     },
     {
      "t": "hr"
     },
     {
      "t": "p",
-     "s": "La troisième fois, ce fut le 16 novembre, deux jours après le coulis, au parking."
+     "s": "La troisième fois, ce fut le 16, sur le parking, en redescendant de la cabine avec Étienne."
     },
     {
      "t": "p",
-     "s": "Elle partait. Elle avait fait ses cartons : trois fioles de lacs, un cahier, un stylo à encre bleue. Elle avait passé sa dernière journée à ranger, à signer, à serrer des mains. Elle chargeait le coffre quand il apparut, à quelques pas, un manteau sur le bras. Il avait l'air de quelqu'un qui n'a pas osé venir plus tôt."
+     "s": "Il chargeait des cartons dans le coffre d'une voiture de location. Il avait l'air d'un homme qui a dormi. Il lui parla de la plage, de son fils, de cinq secondes où Théo avait été vivant au réveil. C'était Bastien Kerr qui parlait : elle le sut, plus tard, sans pouvoir dire comment. Un homme qui n'avait jamais vu le préfabriqué ce soir-là, ni la tasse, ni le bureau vitré."
     },
     {
      "t": "p",
-     "s": "— Madame Varenne."
+     "s": "Puis il se retourna, au moment de monter dans la voiture. Et ce ne fut plus tout à fait lui."
     },
     {
      "t": "p",
-     "s": "— Monsieur Kerr."
+     "s": "Le changement fut minuscule. Une façon de tenir la portière, entre le pouce et le majeur. Un pli entre les sourcils. Une voix un peu plus lente, un peu plus basse, celle qui avait dit *Il est vraiment très mauvais.*"
     },
     {
      "t": "p",
-     "s": "— Je ne vous retiens pas."
+     "s": "— Prenez soin de votre fille, dit-il."
     },
     {
      "t": "p",
-     "s": "— Vous ne me retenez pas."
+     "s": "Elle n'avait pas de fille. Il était déjà assis au volant."
     },
     {
      "t": "p",
-     "s": "— Je voulais vous dire une chose."
+     "s": "Elle regarda la voiture s'engager dans le tunnel. Elle mit la main dans sa poche. Il y avait le vieux dessin de son père, plié en quatre ; la mouche couleur de rouille ; et un gobelet de carton, plié lui aussi, qui sentait encore le café mauvais."
     },
     {
      "t": "p",
-     "s": "— Dites."
+     "s": "Elle ne fit jamais le lien. Elle garda le gobelet, avec la fiole, avec le carnet, avec tout ce qu'on garde au cas où."
     },
     {
      "t": "p",
-     "s": "Il hésita. Il regarda ses mains. Il dit, très vite, comme on arrache un pansement :"
+     "s": "Il resta dans la poche de ce manteau jusqu'à sa mort. Sa fille le trouverait, un jour de décembre, en vidant une armoire à Lyon, et ne saurait pas quoi en faire. Elle le garderait aussi."
+    },
+    {
+     "t": "hr"
     },
     {
      "t": "p",
-     "s": "— Prenez soin de votre fille."
-    },
-    {
-     "t": "p",
-     "s": "Elle resta immobile, une fiole dans chaque main. Elle sentit, au creux du ventre, ce quelque chose qui s'endormait et qui, pourtant, continuait. Elle ne répondit pas tout de suite. Elle dit :"
-    },
-    {
-     "t": "p",
-     "s": "— Je n'ai pas de fille."
-    },
-    {
-     "t": "p",
-     "s": "— Pas encore."
-    },
-    {
-     "t": "p",
-     "s": "— Vous êtes voyant ?"
-    },
-    {
-     "t": "p",
-     "s": "— Non, dit-il. Seulement quelqu'un qui a lu."
-    },
-    {
-     "t": "p",
-     "s": "Elle posa les fioles dans le coffre. Elle se redressa. Elle le regarda, enfin, en face, d'un regard long, sec, scrutateur. Elle dit :"
-    },
-    {
-     "t": "p",
-     "s": "— Je ne sais pas qui vous êtes."
-    },
-    {
-     "t": "p",
-     "s": "— Non."
-    },
-    {
-     "t": "p",
-     "s": "— Mais je crois que vous êtes venu pour nous."
-    },
-    {
-     "t": "p",
-     "s": "Il ne répondit pas. Il serra le manteau contre lui."
-    },
-    {
-     "t": "p",
-     "s": "— Je voulais vous dire une chose, reprit-elle. Je ne comprends rien à ce qui s'est passé. Je ne comprends pas la moitié de ce qu'on me cache. Mais, l'autre matin, au pied de la brèche, j'ai senti que quelqu'un, derrière moi, portait quelque chose avec moi. Je ne sais pas si c'était vous. Je crois que oui."
-    },
-    {
-     "t": "p",
-     "s": "Elle posa sa main sur la sienne, doucement. Il ferma les yeux. Un sanglot silencieux le secoua, des épaules aux genoux. Il ne retira pas la main."
-    },
-    {
-     "t": "p",
-     "s": "— Alors merci d'être passé, dit-elle."
-    },
-    {
-     "t": "p",
-     "s": "— Madame."
-    },
-    {
-     "t": "p",
-     "s": "— Quoi ?"
-    },
-    {
-     "t": "p",
-     "s": "— Il y aura une enfant. Elle sera aimée. Elle aura des enfants, qui auront des enfants."
-    },
-    {
-     "t": "p",
-     "s": "— Vous êtes un descendant ?"
-    },
-    {
-     "t": "p",
-     "s": "— Je suis un détour, dit-il."
-    },
-    {
-     "t": "p",
-     "s": "Elle sourit. Elle sentit des larmes monter, qu'elle laissa venir. Elle monta dans sa voiture. Elle mit le contact. Elle vit, dans le rétroviseur, un homme en costume sombre, debout sur le parking vide, qui levait la main, très lentement, ainsi qu'on dit au revoir."
-    },
-    {
-     "t": "p",
-     "s": "Elle ne le revit jamais."
-    },
-    {
-     "t": "p",
-     "s": "Elle garda, dans la poche de son manteau, un gobelet de papier plié en quatre, qui sentait encore le café mauvais. Elle ne sut jamais pourquoi elle l'avait pris."
-    },
-    {
-     "t": "p",
-     "s": "Il resta dans sa poche jusqu'à sa mort."
+     "s": "*Je ne saurai jamais*, écrivit Kerr plus tard, dans un carnet de toile, *si c'était la même femme qui m'avait offert deux fois le même café. Dans l'autre tour, celui où elle fuit, elle ne m'en offre jamais. C'est à cela que je reconnais les tours : à ce qu'on m'y donne.*"
     }
    ],
-   "words": 896,
+   "words": 880,
    "tome": 3
   },
   {
@@ -39602,7 +39505,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il y avait, dans la maison, un silence de maison qui dort. Quelque part, une pendule. Un craquement de plancher, très haut. Une toux étouffée, de l'autre côté de la cloison. Un vieux chat, peut-être. Il pensait à ceux qui dormaient là-haut. Un homme et une femme qui s'aimaient sans se l'être dit, et qui ne savaient pas que deux autres, enfouis dans leurs corps, regardaient par leurs yeux. Il pensait : *ce sont eux qui vont me juger.* Il pensait : *les vrais.*"
+     "s": "Il y avait, dans la maison, le silence d'une maison vide. Quelque part, une pendule. Un craquement de plancher, très haut, qui n'était personne. Le propriétaire n'était pas là : il était sur le barrage, à cette heure, dans le froid, avec une femme qui n'était pas tout à fait la femme qu'il croyait connaître. Il pensait à ces deux-là. Un homme et une femme qui s'aimaient sans se l'être dit, et qui ne savaient pas que deux autres, enfouis dans leurs corps, regardaient par leurs yeux. Il pensait : *ce sont eux qui vont me juger.* Il pensait : *les vrais.*"
     },
     {
      "t": "p",
@@ -39610,10 +39513,10 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "À une heure dix, il entendit des pas dans l'escalier."
+     "s": "Un peu avant deux heures, il entendit des pas sur le gravier, puis une clé dans la serrure."
     }
    ],
-   "words": 840,
+   "words": 866,
    "tome": 3
   },
   {
@@ -39624,15 +39527,15 @@ window.BOOK = {
    "blocks": [
     {
      "t": "p",
-     "s": "*Même nuit, 1 h 10.*"
+     "s": "*Même nuit, un peu avant deux heures.*"
     },
     {
      "t": "p",
-     "s": "Ils descendirent ensemble, côte à côte, en silence, la main dans la main, à la façon dont on descend chercher un bruit."
+     "s": "Ils arrivèrent du barrage, côte à côte, à un mètre l'un de l'autre, gelés jusqu'aux os."
     },
     {
      "t": "p",
-     "s": "Il les entendit venir. Il entendit le parquet de l'étage, puis la rampe, puis les trois marches du bas, qui craquaient. Il se tenait assis à la table, droit, les mains jointes. Il avait l'air d'un homme qui attend une sentence. Il eut le temps de penser : *ils ont froid.* Il avait l'oreille fine, pour ces choses-là."
+     "s": "Il les entendit venir. Il entendit le gravier de l'impasse, un piétinement de froid sur le seuil, la clé qui hésitait dans la serrure, puis tournait. Il se tenait assis à la table, droit, les mains jointes. Il avait l'air d'un homme qui attend une sentence. Il eut le temps de penser : *ils ont froid.* Il le savait depuis l'enfance : le vent avait tourné au nord, cette nuit-là, et il avait gelé en une heure."
     },
     {
      "t": "p",
@@ -39640,11 +39543,11 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle entra la première. Elle avait passé sur sa chemise de nuit un manteau d'homme, trop grand, qu'elle serrait des deux mains contre sa poitrine. Elle avait trente-sept ans, les cheveux ébouriffés, une cicatrice en anneau au pouce gauche. Elle avait le visage de Sophia, dur, fermé, un peu pâle. Mais elle ne marchait pas comme Sophia : elle posait le pied avec précaution, comme on avance sur une surface que l'on croit fragile. Elle n'avait pas les yeux de Sophia. C'étaient ceux de quelqu'un qui s'attend toujours à ce que le sol manque."
+     "s": "Elle entra la première. Elle portait la parka de Sophia, trop grande pour la façon dont elle s'y tenait, qu'elle serrait des deux mains contre sa poitrine. Elle avait trente-sept ans, la longue tresse défaite par le vent, une cicatrice en anneau au pouce gauche. Elle avait le visage de Sophia, dur, fermé, un peu pâle. Mais elle ne marchait pas comme Sophia : elle posait le pied avec précaution, comme on avance sur une surface que l'on croit fragile. Elle n'avait pas les yeux de Sophia. C'étaient ceux de quelqu'un qui s'attend toujours à ce que le sol manque."
     },
     {
      "t": "p",
-     "s": "Il entra derrière elle, en robe de chambre. Il avait quarante-six ans, une cicatrice au-dessus du sourcil gauche, des épaules lourdes. Il avait le visage d'Étienne, ouvert, patient, un peu las. Il n'avait pas les mains d'Étienne. Il les tenait loin du corps, un peu écartées, comme celles d'un homme qui ne sait pas encore ce que ses doigts savent faire."
+     "s": "Il entra derrière elle, les clés d'un autre à la main. Il avait quarante-six ans, une cicatrice au-dessus du sourcil gauche, des épaules lourdes. Il avait le visage d'Étienne, ouvert, patient, un peu las. Il n'avait pas les mains d'Étienne. Il les tenait loin du corps, un peu écartées, comme celles d'un homme qui ne sait pas encore ce que ses doigts savent faire."
     },
     {
      "t": "p",
@@ -39652,7 +39555,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Ils virent l'homme assis. Ils virent la casserole, sur le feu. Ils virent le costume anthracite, la politesse de façade, le sourire. Ils reconnurent le directeur de Léthé."
+     "s": "Ils virent la lumière qu'ils n'avaient pas allumée. Ils virent l'homme assis. Ils virent la casserole, sur le feu. Ils virent le costume anthracite, la politesse de façade, le sourire. Ils reconnurent le directeur de Léthé."
     },
     {
      "t": "p",
@@ -39889,7 +39792,7 @@ window.BOOK = {
      "s": "Il baissa la tête. Il resta ainsi, un instant, immobile. Quand il la releva, ses yeux n'avaient plus la même couleur."
     }
    ],
-   "words": 1139,
+   "words": 1171,
    "tome": 3
   },
   {
@@ -39980,7 +39883,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Je l'ai pris sans y penser. Dans le lavoir, au premier soir. Un nom qui est venu tout seul. Je me suis dit : *c'est le nom d'un homme que j'aurais pu être.* Je me suis dit : *c'est idiot.*"
+     "s": "— Je l'ai pris sans y penser. Sur le barrage, la deuxième nuit. Un nom qui est venu tout seul. Je me suis dit : *c'est le nom d'un homme que j'aurais pu être.* Je me suis dit : *c'est idiot.*"
     },
     {
      "t": "p",

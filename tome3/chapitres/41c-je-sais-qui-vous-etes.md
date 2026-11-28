@@ -2,21 +2,21 @@
 
 *(premier jet)*
 
-*Même nuit, 1 h 10.*
+*Même nuit, un peu avant deux heures.*
 
-Ils descendirent ensemble, côte à côte, en silence, la main dans la main, à la façon dont on descend chercher un bruit.
+Ils arrivèrent du barrage, côte à côte, à un mètre l'un de l'autre, gelés jusqu'aux os.
 
-Il les entendit venir. Il entendit le parquet de l'étage, puis la rampe, puis les trois marches du bas, qui craquaient. Il se tenait assis à la table, droit, les mains jointes. Il avait l'air d'un homme qui attend une sentence. Il eut le temps de penser : *ils ont froid.* Il avait l'oreille fine, pour ces choses-là.
+Il les entendit venir. Il entendit le gravier de l'impasse, un piétinement de froid sur le seuil, la clé qui hésitait dans la serrure, puis tournait. Il se tenait assis à la table, droit, les mains jointes. Il avait l'air d'un homme qui attend une sentence. Il eut le temps de penser : *ils ont froid.* Il le savait depuis l'enfance : le vent avait tourné au nord, cette nuit-là, et il avait gelé en une heure.
 
 La porte de la cuisine s'ouvrit.
 
-Elle entra la première. Elle avait passé sur sa chemise de nuit un manteau d'homme, trop grand, qu'elle serrait des deux mains contre sa poitrine. Elle avait trente-sept ans, les cheveux ébouriffés, une cicatrice en anneau au pouce gauche. Elle avait le visage de Sophia, dur, fermé, un peu pâle. Mais elle ne marchait pas comme Sophia : elle posait le pied avec précaution, comme on avance sur une surface que l'on croit fragile. Elle n'avait pas les yeux de Sophia. C'étaient ceux de quelqu'un qui s'attend toujours à ce que le sol manque.
+Elle entra la première. Elle portait la parka de Sophia, trop grande pour la façon dont elle s'y tenait, qu'elle serrait des deux mains contre sa poitrine. Elle avait trente-sept ans, la longue tresse défaite par le vent, une cicatrice en anneau au pouce gauche. Elle avait le visage de Sophia, dur, fermé, un peu pâle. Mais elle ne marchait pas comme Sophia : elle posait le pied avec précaution, comme on avance sur une surface que l'on croit fragile. Elle n'avait pas les yeux de Sophia. C'étaient ceux de quelqu'un qui s'attend toujours à ce que le sol manque.
 
-Il entra derrière elle, en robe de chambre. Il avait quarante-six ans, une cicatrice au-dessus du sourcil gauche, des épaules lourdes. Il avait le visage d'Étienne, ouvert, patient, un peu las. Il n'avait pas les mains d'Étienne. Il les tenait loin du corps, un peu écartées, comme celles d'un homme qui ne sait pas encore ce que ses doigts savent faire.
+Il entra derrière elle, les clés d'un autre à la main. Il avait quarante-six ans, une cicatrice au-dessus du sourcil gauche, des épaules lourdes. Il avait le visage d'Étienne, ouvert, patient, un peu las. Il n'avait pas les mains d'Étienne. Il les tenait loin du corps, un peu écartées, comme celles d'un homme qui ne sait pas encore ce que ses doigts savent faire.
 
 Ils s'arrêtèrent sur le seuil.
 
-Ils virent l'homme assis. Ils virent la casserole, sur le feu. Ils virent le costume anthracite, la politesse de façade, le sourire. Ils reconnurent le directeur de Léthé.
+Ils virent la lumière qu'ils n'avaient pas allumée. Ils virent l'homme assis. Ils virent la casserole, sur le feu. Ils virent le costume anthracite, la politesse de façade, le sourire. Ils reconnurent le directeur de Léthé.
 
 Elle ne cria pas. Elle ne bougea pas. Elle dit, d'une voix très égale, qui n'était pas celle de Sophia :
 

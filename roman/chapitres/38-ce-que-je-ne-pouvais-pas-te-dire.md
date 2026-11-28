@@ -60,7 +60,7 @@ Il ne dit pas tout de suite autre chose. Elle le regarda chercher, dans son visa
 
 Il se frotta le front, là où la cicatrice remontait. Il ajouta, très vite, comme on se jette dans l'eau :
 
-— Et Hugo ? Qu'est-ce qu'il dira ? Il a trente ans, il a déjà enterré sa mère, il a mon âge dans la tête. Il va falloir lui dire qu'il a une sœur d'une femme qu'il connaît à peine. Je ne saurai pas.
+— Et Hugo ? Qu'est-ce qu'il dira ? Il a dix-neuf ans, il a déjà enterré sa mère, il est plus vieux que moi dans sa tête. Il va falloir lui dire qu'il a une sœur d'une femme qu'il connaît à peine. Je ne saurai pas.
 
 — Moi non plus, dit Sophia.
 

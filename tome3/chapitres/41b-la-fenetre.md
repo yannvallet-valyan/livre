@@ -50,8 +50,8 @@ Il referma le cahier. Il le glissa dans sa poche. Il s'assit à la table, face �
 
 Il attendit.
 
-Il y avait, dans la maison, un silence de maison qui dort. Quelque part, une pendule. Un craquement de plancher, très haut. Une toux étouffée, de l'autre côté de la cloison. Un vieux chat, peut-être. Il pensait à ceux qui dormaient là-haut. Un homme et une femme qui s'aimaient sans se l'être dit, et qui ne savaient pas que deux autres, enfouis dans leurs corps, regardaient par leurs yeux. Il pensait : *ce sont eux qui vont me juger.* Il pensait : *les vrais.*
+Il y avait, dans la maison, le silence d'une maison vide. Quelque part, une pendule. Un craquement de plancher, très haut, qui n'était personne. Le propriétaire n'était pas là : il était sur le barrage, à cette heure, dans le froid, avec une femme qui n'était pas tout à fait la femme qu'il croyait connaître. Il pensait à ces deux-là. Un homme et une femme qui s'aimaient sans se l'être dit, et qui ne savaient pas que deux autres, enfouis dans leurs corps, regardaient par leurs yeux. Il pensait : *ce sont eux qui vont me juger.* Il pensait : *les vrais.*
 
 À une heure du matin, la lampe de la cuisinière grésilla. Les lentilles se mirent à embaumer.
 
-À une heure dix, il entendit des pas dans l'escalier.
+Un peu avant deux heures, il entendit des pas sur le gravier, puis une clé dans la serrure.

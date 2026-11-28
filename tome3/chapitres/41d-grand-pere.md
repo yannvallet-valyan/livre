@@ -42,7 +42,7 @@ Il vint, quelques secondes plus tard, sous la forme d'un souffle étranglé. No�
 
 — Je sais.
 
-— Je l'ai pris sans y penser. Dans le lavoir, au premier soir. Un nom qui est venu tout seul. Je me suis dit : *c'est le nom d'un homme que j'aurais pu être.* Je me suis dit : *c'est idiot.*
+— Je l'ai pris sans y penser. Sur le barrage, la deuxième nuit. Un nom qui est venu tout seul. Je me suis dit : *c'est le nom d'un homme que j'aurais pu être.* Je me suis dit : *c'est idiot.*
 
 — Ce n'est pas idiot, dit l'homme. C'est le mien.
 
