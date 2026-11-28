@@ -20,6 +20,9 @@ TOMES = {
     "2": dict(src=os.path.join(ROOT, "tome2", "chapitres"), title="La Dame du lac", subtitle="La Rouille, tome 2 (premier jet)",
               out=os.path.join(ROOT, "site", "la-dame-du-lac.epub"), seed="la-rouille-tome-2",
               desc="1958 : Iris se réveille dans Rose Roch, l'été où l'on vide une vallée pour la noyer. 2027-2066 : la vie de l'autre Iris, née une nuit de panne de courant, qui perd son fils. Deuxième tome de La Rouille (premier jet, en cours d'écriture)."),
+    "3": dict(src=os.path.join(ROOT, "tome3", "chapitres"), title="L'Homme du jour", subtitle="La Rouille, tome 3 (premier jet)",
+              out=os.path.join(ROOT, "site", "lhomme-du-jour.epub"), seed="la-rouille-tome-3",
+              desc="Kerr, né au refuge en 2156, croit être le fils d'un homme qui n'est pas son père. De 2026 à 2229, de la cuisine d'octobre à la dernière page : le troisième tome de La Rouille (premier jet, en cours de relecture)."),
 }
 LANG = "fr"
 
@@ -200,7 +203,7 @@ if __name__ == "__main__":
     ap.add_argument("--author", default=os.environ.get("ROUILLE_AUTHOR", "L'auteur"))
     ap.add_argument("--cover", default=os.path.join(ROOT, "site", "cover.jpg"))
     ap.add_argument("--out", default=None)
-    ap.add_argument("--tome", choices=["1", "2"], default="1", help="1 = La Rouille, 2 = La Dame du lac")
+    ap.add_argument("--tome", choices=["1", "2", "3"], default="1", help="1 = La Rouille, 2 = La Dame du lac, 3 = L'Homme du jour")
     a = ap.parse_args()
     if a.tome != "1":
         t = TOMES[a.tome]
