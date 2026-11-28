@@ -2,13 +2,13 @@
 
 *(premier jet)*
 
-*Vallorce, mars 2064.*
+*Vallorce, février 2064.*
 
-Il prit la pilule un mardi, à dix-huit heures douze, dans sa chambre, avec un verre d'eau.
+Il prit sa première pastille un mardi de février, à dix-huit heures douze, à l'infirmerie de l'école, avant l'étude.
 
-Il ne l'avait dit à personne. Il avait quatorze ans, en mars 2064, et il savait depuis longtemps que ce qu'on voulait lui cacher était précisément ce qu'il devait connaître. Il avait trouvé la boîte blanche dans le tiroir de sa mère, sous des écharpes. Un petit logo en forme de feuille. Deux lignes de mentions légales. Une date de péremption. Il l'avait gardée une semaine dans sa poche, à la façon dont on garde un caillou.
+Il ne le dirait à personne. Il avait quatorze ans, en février 2064, et il savait depuis longtemps que ce qu'on voulait lui cacher était précisément ce qu'il devait connaître. La directrice avait fait une annonce, le lundi, dans la cour : un complément, pour le sommeil, offert par un laboratoire, distribué le soir à l'infirmerie, à qui voulait. Tout le monde en prenait. L'infirmière tendait une petite boîte blanche, avec un logo en forme de feuille, et une pastille ronde, qu'on mettait sous la langue. Il avait reconnu la boîte. Il l'avait déjà vue une fois, posée sur une table de salon, entre deux tasses de thé.
 
-Il avait vu Lise, six mois plus tôt. Elle était venue, un après-midi de septembre, dans la maison d'en haut, avec un chemisier sans pli et un sourire trop doux. Elle avait parlé avec sa mère, dans le salon, pendant une heure. Il avait fait semblant de lire. Il avait tout entendu. Il avait entendu : « Léthé 2 », « traitement doux », « apaisement », « mémoire ». Il avait entendu sa mère dire non, et son père, Théo, ne rien dire.
+Il avait vu Lise, six mois plus tôt. Elle était venue, un après-midi de septembre, dans la petite maison de la rue des Fontaines, avec un chemisier sans pli et un sourire trop doux. Elle avait parlé avec sa mère, dans le salon, pendant une heure. Il avait fait semblant de lire. Il avait tout entendu. Il avait entendu : « Léthé 2 », « traitement doux », « apaisement », « mémoire ». Il avait entendu sa mère dire non, et son père, Théo, ne rien dire.
 
 Il avait compris que son père ne disait rien parce que c'était sa façon de dire oui.
 
@@ -24,7 +24,7 @@ Il savait que ce n'était pas une folie. C'était une présence. Une mémoire qu
 
 Il avait peur de ce qu'elle voulait.
 
-Il avala le cachet. Il but une gorgée d'eau. Il s'assit sur le lit, les mains sur les genoux, et il attendit.
+L'infirmière la lui tendit. Il la mit sous sa langue. Il s'assit sur le banc du couloir, les mains sur les genoux, et il attendit.
 
 Il y eut d'abord un calme.
 
@@ -34,11 +34,11 @@ Puis il sentit quelque chose se détacher.
 
 Ce n'était pas un souvenir. C'était un lien. Un fil fin, très long, qui partait de sa nuque, remontait vers un point indistinct, très loin, et qu'il n'avait jamais vu parce qu'il était trop habitué à le porter. Il le sentit se tendre. Il le sentit céder. Il pensa, avec une lucidité effrayante : *je suis en train de me couper de quelqu'un.*
 
-Il se leva. Il ouvrit la porte. Il appela :
+Il rentra à pied, sous la pluie, sans courir. Il ne monta pas dans sa chambre. Il traversa le jardin. Il appela, devant la porte de l'atelier :
 
 — Papa.
 
-Personne ne répondit. Il descendit l'escalier. Il traversa le salon. Il trouva Théo dans la cabane du jardin, assis à la table, devant un cahier ouvert. Il avait les épaules affaissées, le visage creusé. Il leva les yeux. Il le regarda entrer. Il ne dit rien.
+Il poussa la porte. Il trouva Théo assis à la table, devant un cahier ouvert. Il avait les épaules affaissées, le visage creusé. Il leva les yeux. Il le regarda entrer. Il ne dit rien.
 
 — Je l'ai prise, dit Sacha.
 
@@ -64,7 +64,7 @@ Sacha s'arrêta. Il resta debout, sur le seuil, dans la lumière rase du soir. I
 
 — Comment ?
 
-— Parce que je l'ai prise aussi, dit Théo. Il y a longtemps. Dans un autre corps.
+— Parce que je l'ai donnée, une fois, dit Théo. Il y a longtemps. À quelqu'un qui me faisait confiance.
 
 Sacha ne comprit pas. Il ne chercha pas à comprendre. Il s'approcha. Il s'agenouilla à côté de la chaise. Il posa la tête sur les genoux de son père, comme il le faisait enfant. Il sentit la main de Théo se poser sur ses cheveux, hésitante, puis plus ferme.
 
@@ -103,3 +103,7 @@ Dans le calme de ses pensées, il y avait, à présent, quelque chose qui manqua
 Il ne le dit pas.
 
 Il resta dans les bras de son père, jusqu'à ce que la nuit tombe.
+
+Il prit la pastille tous les soirs, pendant trois semaines, à l'infirmerie, avant l'étude. Il dormit comme il n'avait jamais dormi. Il ne dit rien à sa mère. Son père ne dit rien non plus.
+
+Un jeudi de mars, à six heures dix, elle le trouverait assis sur son lit, les yeux ouverts, en train de compter, et il lui dirait qu'il ne retrouvait plus le prénom de Bastien.

@@ -14,7 +14,7 @@ Les contractions avaient commencé vers huit heures. Elles avaient la régularit
 
 La sage-femme s'appelait Madame Ferrand. C'était une grande femme brune, aux bras de boulangère, avec l'accent du Sud et une voix qui ne monte jamais. Elle venait, toutes les demi-heures, poser la main sur le ventre, écouter, noter. Elle disait : « Ça va, ma belle. » Elle disait : « On y est presque. » Elle disait : « Votre bébé est bien accroché. » Sophia la haïssait de toute son âme.
 
-Elle haïssait aussi le couloir, l'odeur de savon et de javel, les pas qui passaient, le chariot qui grinçait, les rires d'une infirmière, très loin, qu'elle entendait, dans un train, des gens qui s'amusent dans un autre wagon. Elle se sentait seule. Elle n'avait jamais été aussi seule. Il n'y avait personne pour lui tenir la main, personne à qui dire *j'ai peur*, personne à qui reprocher quoi que ce soit.
+Elle haïssait aussi le couloir, l'odeur de savon et de javel, les pas qui passaient, le chariot qui grinçait, les rires d'une infirmière, très loin, qu'elle entendait comme on entend, dans un train, des gens qui s'amusent dans un autre wagon. Elle se sentait seule. Elle n'avait jamais été aussi seule. Il n'y avait personne pour lui tenir la main, personne à qui dire *j'ai peur*, personne à qui reprocher quoi que ce soit.
 
 Elle pensa à l'homme. Elle chercha son visage. Elle le retrouva en morceaux : une cicatrice au-dessus du sourcil, une façon de se gratter la nuque, un rire un peu trop grave pour un médecin. Elle pensa : *je lui aurais dit.* Elle pensa : *non.* Elle ferma les yeux plus fort.
 

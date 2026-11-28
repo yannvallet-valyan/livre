@@ -20,7 +20,7 @@ Il avait dit : « Entrez. » Il avait préparé un chocolat chaud.
 
 Il ne se rappelait pas, de cette époque, ce qui l'avait le plus frappé : sa propre lâcheté, ou sa propre joie.
 
-Il avait eu peur. Il avait eu peur qu'elle parte, qu'elle comprenne, qu'elle le haïsse. Il avait eu peur de la perdre avant de l'avoir eue. Il avait choisi, par pudeur, de rester le médecin, l'ami, le vieil homme qui prête une chambre. Il lui avait appris les gestes. Il lui avait donné des conseils. Il lui avait offert, un soir de décembre, une blouse blanche, avec un écusson brodé. Il avait attendu qu'elle le remarque. Elle l'avait remarqué. Elle avait dit : « Merci, docteur. » Il avait eu les larmes aux yeux.
+Il avait eu peur. Il avait eu peur qu'elle parte, qu'elle comprenne, qu'elle le haïsse. Il avait eu peur de la perdre avant de l'avoir eue. Il avait choisi, par pudeur, de rester le médecin, l'ami, le vieil homme qui prête une chambre. Il lui avait appris les gestes. Il lui avait donné des conseils. Il lui avait offert, un matin de janvier, une blouse blanche, avec un écusson brodé. Il avait attendu qu'elle le remarque. Elle l'avait remarqué. Elle avait dit : « Merci, docteur. » Il avait eu les larmes aux yeux.
 
 Il s'était demandé, souvent, ce qu'il y avait eu, cette nuit-là, quelque part dans l'octobre de 2026. Il se rappelait la femme. Il se rappelait la dernière fois où il l'avait vue, au labo, dans un couloir : un visage mince, fatigué, des yeux gris, un sourire hésitant. Il se rappelait avoir voulu lui parler. Il se rappelait ne l'avoir pas fait. Et puis des nuits de rêves absurdes, de conduite à travers la nuit, d'un enfant dans les bras. Il avait mis cela sur le compte de l'âge.
 

@@ -22,11 +22,11 @@ Mais, vers la fin de la première année, Kerr remarqua que l'écriture de l'aut
 
 ---
 
-Il y eut, en novembre 2026, la fermeture du laboratoire.
+Il y eut, le 14 novembre 2026, l'extraction.
 
-Il la regarda, de l'intérieur, avec cette lucidité froide qu'il avait toujours eue pour les catastrophes qu'il connaissait. Il vit les hommes en orange partir, les bacs vidés, les chaînes coupées. Il signa des papiers. Il vendit le terrain. Il licencia quarante personnes. Ménard lui serra la main, les larmes aux yeux : « Vous avez été un bon directeur, monsieur Kerr. » Il dit merci. Il pensa : *je n'ai rien fait pour le mériter.*
+Dans ce tour-là, personne ne coula de béton dans la galerie. Ménard n'eut pas de raison de le faire : personne ne lui avait annoncé un chiffre sur un piézomètre. Kerr regarda, de l'intérieur du directeur, les hommes de l'équipe suisse découper la paroi par blocs, avec la gangue de vase, emballer le nœud dans des caisses capitonnées, charger les caisses dans deux camionnettes blanches. Rien ne se brisa. Il le savait d'avance, et il eut quand même les mains moites jusqu'au soir. Il signa les bordereaux. Il regarda les camionnettes s'engager dans le tunnel, vers Genève.
 
-Il vit Léthé se dissoudre, puis renaître sous un autre nom, à Genève, avec les bacs, le gisement, les brevets. Il vit un jeune homme, très ambitieux, un certain Marchand, prendre la tête des opérations. Il vit les premières pilules sortir des chaînes, vers 2030, sous le nom de *Léthé Doux*. Il vit un jeune chercheur en blouse blanche, avec une moustache, lui apporter un échantillon, dans son bureau. Le jeune chercheur disait : « C'est révolutionnaire. Ça efface la douleur. »
+Il vit ensuite la Fondation grandir. Le gisement revint à Vallorce par petites caisses, trois ans plus tard, quand on eut construit au bord du lac un laboratoire neuf, plus grand, en verre. Il vit Bastien devenir, aux yeux de tous, le patron de Léthé, et la grande maison blanche sur la place devenir la sienne. Il vit un technicien ambitieux, un certain Marchand, monter en grade. Il vit les premières pilules sortir des chaînes, vers 2030, sous le nom de *Léthé Doux*. Il vit un jeune chercheur en blouse blanche, avec une moustache, lui apporter un échantillon, dans son bureau. Le jeune chercheur disait : « C'est révolutionnaire. Ça efface la douleur. »
 
 Il le regarda. *C'est vrai.*
 

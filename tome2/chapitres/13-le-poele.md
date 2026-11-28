@@ -8,7 +8,7 @@ Il lut. C'était le vendredi 12 septembre, dans la baraque des ingénieurs, un b
 
 *ROCH, Jean, 29 ans, bûcheron, manœuvre. Aveux.*
 
-Il lut les aveux. Ils étaient courts, fautifs, évidents : un homme qui s'accuse parce qu'on lui a demandé un coupable. Il ne les crut pas. Il avait vu Roch travailler, de loin, depuis juin : un grand garçon taciturne, qui sifflait en soulevant les poutres, qui s'excusait quand il faisait tomber un outil. On ne fait pas des boulons de six à douze, avec précision, dans l'ombre, quand on s'excuse d'un outil tombé.
+Il lut les aveux. Ils étaient courts, fautifs, évidents : un homme qui s'accuse parce qu'on lui a demandé un coupable. Il ne les crut pas. Il avait vu Roch travailler, de loin, depuis juin : un grand garçon taciturne, qui sifflait en soulevant les poutres, qui s'excusait quand il faisait tomber un outil. On ne dévisse pas, avec précision, dans l'ombre, six boulons sur douze, quand on s'excuse d'un outil tombé.
 
 Il tourna le feuillet.
 

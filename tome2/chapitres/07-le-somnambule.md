@@ -70,7 +70,7 @@ Il voulut s'asseoir au bord du lit. Elle leva la main : un geste sec, sans colè
 
 Il reprit l'enfant. Il la serra contre lui, très fort, une seconde. Elle sentait le lait et la cire. Elle s'était endormie. Il la déposa dans le berceau transparent, au pied du lit, sans un mot.
 
-Dans le couloir, la sage-femme lui tendit un gilet d'hôpital et des chaussons de papier. Il les enfila. Dehors, il faisait jour. Il ne savait pas où il avait laissé sa voiture : il n'en avait pas. Il marcha jusqu'à la gare, et prit un billet avec l'argent d'un porte-monnaie qu'il ne se souvenait pas d'avoir emporté.
+Dans le couloir, la sage-femme lui tendit un gilet d'hôpital et des chaussons de papier. Il les enfila. Dehors, il faisait jour. Il ne savait pas où il avait laissé sa voiture. Il la chercha sur le parking, ne la reconnut pas, renonça. Il marcha jusqu'à la gare, et prit un billet avec l'argent d'un porte-monnaie qu'il ne se souvenait pas d'avoir emporté.
 
 Dans le train, il s'endormit contre la vitre. Il rêva qu'il tenait un enfant, qu'il courait dans un champ de blé, et qu'une voix d'homme, qui n'était pas la sienne, lui murmurait à l'oreille :
 

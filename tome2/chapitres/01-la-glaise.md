@@ -6,7 +6,7 @@ L'odeur vint avant tout le reste. De la lessive à la cendre, un fond de lait to
 
 Elle ne bougea pas. *Compte.*
 
-Elle avait traversé quelque chose. Elle ne savait pas quoi. Elle se rappelait une cuisine, une lampe, une main d'homme âgé sur la sienne, un front brûlant sous un petit éclat rouge. Elle se rappelait être descendue,, à travers des couches de sommeil de plus en plus épaisses, des voix de femmes qu'elle n'avait jamais entendues et qui l'appelaient par son nom, des nuits qui se superposaient comme des draps étendus, jusqu'à ce que plus rien ne lui appartienne, sinon une phrase, apprise par cœur, recopiée trois fois à l'encre pour la tenir. *À soixante, le corps comprend que tu restes.*
+Elle avait traversé quelque chose. Elle ne savait pas quoi. Elle se rappelait une cuisine, une lampe, une main d'homme âgé sur la sienne, un front brûlant sous un petit éclat rouge. Elle se rappelait être descendue, à travers des couches de sommeil de plus en plus épaisses, des voix de femmes qu'elle n'avait jamais entendues et qui l'appelaient par son nom, des nuits qui se superposaient comme des draps étendus, jusqu'à ce que plus rien ne lui appartienne, sinon une phrase, apprise par cœur, recopiée trois fois à l'encre pour la tenir. *À soixante, le corps comprend que tu restes.*
 
 Elle ne se rappelait plus de qui était l'écriture.
 

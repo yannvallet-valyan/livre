@@ -6,7 +6,7 @@ Elle n'avait pas voulu venir. Elle était venue quand même.
 
 Odette Girard se tenait à l'ombre du contrefort, sous le tilleul le plus vieux de la place, son verre de vin dans la main et son tablier gris sur la robe. Elle ne dansait pas. Elle regardait. Il y avait, sous les lampions de papier, cent cinquante personnes qui riaient trop fort, qui buvaient trop vite, qui s'embrassaient sans honte, avec cette gaieté un peu folle des gens qui savent. Elle les connaissait tous. Elle les connaissait mieux qu'eux-mêmes ne se connaissaient. Elle savait qui, dans dix ans, ne serait plus là. Elle savait qui oublierait. Elle savait qui, le 14 novembre, pleurerait en silence dans un camion.
 
-Elle le savait depuis qu'elle était arrivée, au printemps, dans le corps de cette boulangère de vingt-huit ans. Elle avait cru pouvoir l'oublier. On n'oublie pas ce genre de savoir. On le range, on le recouvre d'un linge, on le laisse lever, comme une pâte.
+Elle le savait depuis qu'elle était arrivée, en juin, dans le corps de cette boulangère de vingt-huit ans. Elle avait cru pouvoir l'oublier. On n'oublie pas ce genre de savoir. On le range, on le recouvre d'un linge, on le laisse lever, comme une pâte.
 
 Elle regarda la place. Les frères Peyret jouaient une valse. Le père Combe et Madame Pellissier tournaient lentement, comme deux vieux arbres, dans la lumière jaune. Les enfants couraient entre les tables. Un petit garçon de deux ans, en chemise blanche, dormait sur un banc, contre le mur de l'église, la tête sur une veste d'homme.
 

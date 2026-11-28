@@ -104,7 +104,7 @@ Elle compta. Un. Deux. Théo, debout derrière elle, lui soutenait les épaules.
 
 *Pardon. Pardon. Pardon.*
 
-L'enfant vint à l'aube. Il ne cria pas. Il ouvrit les yeux, qui étaient gris, d'un gris de glaise, d'un gris de lac, très attentifs. Étienne le prit. Il le tint contre lui une seconde de trop. Il le regarda. Elle vit qu'il s'était immobilisé, qu'il avait cessé de respirer.
+L'enfant vint vers trois heures, au plus noir de la nuit. Il ne cria pas. Il ouvrit les yeux, qui étaient gris, d'un gris de glaise, d'un gris de lac, très attentifs. Étienne le prit. Il le tint contre lui une seconde de trop. Il le regarda. Elle vit qu'il s'était immobilisé, qu'il avait cessé de respirer.
 
 Sur la paupière gauche de l'enfant, au coin, minuscule, presque invisible, il y avait un grain de beauté.
 

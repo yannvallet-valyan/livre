@@ -16,7 +16,7 @@ Elle crut avoir gagné.
 
 Le lendemain, à midi, la conduite lâcha. On entendit le bruit depuis les maisons : un grondement sec, puis un jet blanc, large comme une tour, qui retomba en pluie sur le chantier et fit courir les hommes. Le moteur s'emballa, hurla, et se tut. La rivière revint dans sa vieille vallée, une demi-heure, brune, énorme, qui lécha le seuil des premières maisons avant qu'on ne lui referme la porte à coups de sacs de sable.
 
-Rose, au lavoir, avait lâché son linge. Elle regardait la route d'un air stupide,. Iris, au fond d'elle, se tint tranquille, de peur d'être trahie par le visage.
+Rose, au lavoir, avait lâché son linge. Elle regardait la route d'un air stupide. Iris, au fond d'elle, se tint tranquille, de peur d'être trahie par le visage.
 
 Le chantier prit une semaine de retard. On le dit à la boulangerie, le soir : une semaine, peut-être dix jours. Un homme en redit le chiffre trois fois, avec ce plaisir mauvais qu'ont les pauvres devant les affaires des riches. Une femme dit : « Le bon Dieu les a punis. » Une autre dit : « Ce n'est pas le bon Dieu. »
 

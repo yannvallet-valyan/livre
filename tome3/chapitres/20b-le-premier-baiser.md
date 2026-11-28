@@ -1,110 +1,72 @@
-# Chapitre 28 — Le premier baiser
+# Chapitre 0 — Le premier baiser
 
 *(premier jet)*
 
 *Vallorce, 4 février 2047.*
 
-Ils s'embrassèrent le 4 février 2047, sur le chemin de halage, à dix-sept heures, sous une neige fine, sans l'avoir décidé.
+Trois semaines après ses dix-huit ans, il s'arrêta au milieu du chemin de halage, et il ne sut plus rien dire.
 
-Cela faisait trois semaines que Théo avait dix-huit ans. Trois semaines qu'ils se voyaient chaque soir. Elle avait pris l'habitude de le retrouver après son service, au bout du chemin de halage, entre un saule et un banc de bois. Ils marchaient. Ils parlaient. Ils ne s'étaient pas touchés. Ils se tenaient, l'un et l'autre, avec une application de funambules, à cette distance précise, de trente centimètres, qui est celle de tous les commencements.
+Il avait tout préparé. Il préparait toujours tout. Il avait relu, la veille, dans le carnet de toile, les quatre lignes qu'il s'était lui-même laissées, des années plus tôt, d'une écriture fine : *Février. Le chemin. Elle fera le premier pas. Ne le fais pas à sa place.* Il avait trouvé la consigne humiliante. Il l'avait trouvée juste. Il avait dormi deux heures.
 
-Ce soir-là, il neigeait. Il neigeait depuis l'aube, à petits flocons serrés, qui fondaient sur les épaules et le dos. Iris avait oublié son bonnet. Elle l'avait dit, en riant : « Tu es fou de rester là. » Il avait répondu : « Tu l'es aussi. » Ils s'étaient assis sur le muret, côte à côte, sans rien dire, à regarder la neige tomber sur le lac.
+Il neigeait un peu. Ils sortaient du cabinet, comme chaque soir, à six heures, quand la nuit tombait déjà. Il l'avait attendue sur le perron, la tête nue, les mains dans les poches de son manteau. Ils avaient marché sans parler jusqu'au bout du ponton, puis repris le chemin de halage, le long du lac glacé. Les étoiles étaient immenses.
 
-Elle dit, au bout d'un moment :
+Il s'arrêta.
 
-— Tu sais que je pense à toi tout le temps.
+— Je voudrais te dire quelque chose.
 
-— Oui.
+— Dis.
 
-— Tu ne dis rien.
+— Je ne sais pas comment.
 
-— Je ne sais pas quoi dire.
+— Dis-le comme ça vient.
 
-— Tu devrais.
-
-— Quoi ?
-
-— Ce que tu penses.
-
-Il la regarda. Elle avait les cheveux blancs de flocons, le visage mouillé, les yeux brillants. Elle ressemblait à une enfant qui a couru. Elle ressemblait aussi, à cet instant, à une femme qu'il avait vue, dans une pièce rouge, un matin de novembre, qui comptait jusqu'à soixante.
-
-— Je pense que j'ai peur, dit-il.
-
-— De quoi ?
-
-— De te faire du mal.
-
-— Tu ne m'en feras pas.
-
-— Si.
-
-— Pourquoi ?
-
-— Parce que je sais des choses, dit-il. Que je ne peux pas te dire.
-
-— Alors dis-moi une seule chose.
-
-— Laquelle ?
-
-— Que tu m'aimes.
-
-Il ne répondit pas tout de suite. La neige tombait. Une barque, au loin, glissait sur l'eau grise. Il pensa à tout ce qu'il avait appris, cent fois, dans les carnets : que cette femme, un jour, le haïrait peut-être ; que leur fils, un jour, se noierait ; qu'elle partirait, seule, dans un autre siècle, pour mourir dans une autre vie. Il pensa à une phrase, dans un vieux registre rouge : *Il y a toujours quelqu'un qui reste.*
-
-Il dit :
-
-— Je t'aime.
-
-Il le dit sans élever la voix. Il le dit comme on dit un nom. Elle ferma les yeux.
-
-— Redis-le.
-
-— Je t'aime.
-
-— Encore.
-
-— Je t'aime. Je t'ai aimée avant de te connaître. Je t'ai aimée dans un livre. Je t'ai aimée par cœur.
-
-Elle rouvrit les yeux. Elle sourit. Elle tendit la main, lentement, très lentement, ainsi qu'on s'approche d'une bête. Elle la posa sur sa joue froide. Elle sentit sa chaleur, sous la neige. Elle sentit la barbe naissante, très douce. Elle dit :
-
-— Tu trembles.
-
-— Oui.
-
-— C'est la première fois ?
-
-— Non, dit-il. Mais c'est la première fois que c'est vrai.
+Il ne dit rien.
 
 ---
 
-Elle l'embrassa.
+Il ne dit rien parce que, pour la première fois depuis quarante-quatre ans, il n'y avait plus de phrase dans sa tête.
 
-Elle fit le premier pas, comme elle le dirait toujours ; il n'avait pas osé. Ce fut un baiser très simple, très sérieux, un peu maladroit, qui sentait la neige et le thé. Il dura peu. Ils se séparèrent à peine, front contre front, les yeux fermés, le souffle court.
+Il en avait eu des milliers. Il les avait apprises, recopiées, raturées. Il savait dire *je t'aime* dans le cahier d'un autre, dans une marge, dans une lettre jamais envoyée. Il savait le dire à une enfant de huit ans qui ne le reconnaîtrait pas, à un vieillard qui comptait derrière un mur. Il ne savait pas le dire, debout, dans la neige, à une femme de dix-neuf ans qui le regardait avec ce front trop grand, ces sourcils droits, ce grain de beauté qu'il avait appris par cœur dans les carnets de son père, et qui existait, ce soir, à soixante centimètres de lui.
 
-— Voilà, dit-elle.
+Il pensa : *elle va me trouver idiot.*
 
-— Voilà.
+Il pensa : *elle a raison.*
 
-— Ça n'a pas fait mal.
+Il respirait vite. Il avait les lèvres entrouvertes. Il la regardait, et il ne pouvait plus faire que cela.
 
-— Non.
+Elle fit le premier pas.
 
-— Tu es sûr de ne pas avoir dix-sept ans ?
+Ce fut un baiser très court, très maladroit, qui sentait la neige et le tabac froid de son manteau à lui, qu'il ne fumait pas. Elle y mit plus de force qu'elle ne le voulait. Il ne répondit pas d'abord. Il se figea, comme un homme qui ne sait plus dans quel siècle il se trouve. Puis il leva les mains, très lentement, et il lui prit le visage, avec une précaution qu'il n'avait jamais eue pour rien, comme on prend un vase fêlé, et il l'embrassa à son tour.
 
-— J'en ai dix-huit.
+Il pensa, pendant ce temps-là, à une seule chose, et c'était presque une prière : *elle l'a choisi.*
 
-— Ça se voit, dit-elle, en riant.
+C'était la seule chose qui comptait. Que ce soit elle. Qu'elle ne l'ait lu nulle part. Qu'il n'y ait, dans ce geste, ni registre, ni carnet, ni boucle : seulement une jeune femme qui en avait assez d'attendre un garçon trop poli.
 
-Ils rirent ensemble, tout bas, le front contre le front. La neige fondait dans leur cou. Il l'attira contre lui, dans ses bras. Elle posa la tête dans son épaule. Il la tint serrée, longtemps, sans bouger, en regardant le lac. Il sentit son cœur battre, très vite, contre sa poitrine. Il sentit, à l'intérieur, une chose qui se déliait.
+Quand ils se séparèrent, il avait les yeux fermés.
 
-*C'est donc cela,* pensa-t-il.
+— Je ne pensais pas que ce serait si… réel, dit-il.
 
-Il ne finit pas la phrase. Il n'en avait pas besoin.
+— Quoi ?
 
-Ils restèrent ainsi jusqu'à la nuit. Il y eut un moment où la neige cessa. Les nuages s'ouvrirent, très haut, sur un morceau de ciel clair, d'un bleu presque vert. Iris leva la tête. Elle dit :
+— Rien.
+
+Il ouvrit les yeux. Elle le regardait. Il eut l'impression qu'elle voyait, par-dessus le visage de Théo, quelqu'un de beaucoup plus vieux, et qu'elle ne s'en effrayait pas.
+
+— Je t'aime, dit-il.
+
+— Moi aussi, dit-elle, sans réfléchir.
+
+Il sourit, de côté, en baissant les yeux. Il ne se contrôlait plus du tout.
+
+---
+
+Ils restèrent sur le chemin jusqu'à ce que la neige cesse.
+
+Il y eut un moment où les nuages s'ouvrirent, très haut, sur un morceau de ciel clair, d'un bleu presque vert. Iris leva la tête. Elle dit :
 
 — Regarde.
 
-Il regarda. Il y avait, dans la déchirure, une étoile, la première du soir. Elle brillait, solitaire, très pure.
+Il y avait, dans la déchirure, une étoile, la première du soir. Elle brillait, solitaire.
 
 — Comment elle s'appelle ?
 
@@ -120,10 +82,12 @@ Il réfléchit.
 
 — Biscotte.
 
-Elle éclata de rire. Elle riait de tout son corps, à gorge déployée, avec cette joie sans retenue qu'elle n'avait jamais montrée à personne. Il se dit que c'était le plus beau son du monde. Il se dit qu'il le garderait, pour toujours, dans la poche de sa mémoire, avec les cailloux.
+Elle éclata de rire. Elle riait de tout son corps, à gorge déployée, avec cette joie sans retenue qu'elle ne montrait à personne. Il se dit que c'était le plus beau son du monde. Il se dit qu'il le garderait, dans la poche de sa mémoire, avec les cailloux.
 
-Il ne lui expliqua pas pourquoi *Biscotte.* Elle ne le sut jamais.
+Il ne lui expliqua pas pourquoi *Biscotte*. Elle ne le sut jamais.
 
-C'était le nom d'un chien. Celui d'une étoile que sa mère avait nommée, une nuit d'octobre, dans un autre corps, sous un ciel d'Orion. Il avait lu cela, quelque part, dans un carnet de toile. Il avait pensé, à l'époque : *c'est idiot.*
+C'était le nom d'une étoile que d'autres avaient nommée, une nuit de novembre, sur un barrage, sous un ciel d'Orion, dans un tour qui n'était pas celui-là. Il l'avait lu, enfant, dans un carnet. Il avait pensé, à l'époque : *c'est idiot.*
 
 Il comprenait, maintenant, ce que c'est qu'un héritage : un nom donné par hasard à une chose qui brille.
+
+Il ne lui dit pas qu'il avait attendu ce baiser pendant cent ans.

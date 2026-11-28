@@ -18,7 +18,7 @@ Jean l'attendait au bas des marches. Il avait mis sa veste de noces, trop étroi
 
 — Je sais, dit-il. Mais c'est toi dedans.
 
-Elle rit. Elle ne rit presque jamais. Elle riait avec le dos, sans bruit, en secouant la tête,.
+Elle rit. Elle ne rit presque jamais. Elle riait avec le dos, sans bruit, en secouant la tête.
 
 ---
 
@@ -76,7 +76,7 @@ Puis elle s'éloigna dans la nuit, sans bruit, vers sa boulangerie, avec ce pas 
 
 ---
 
-Walther Kerr était resté debout à l'entrée de la place, sous le tilleul le plus éloigné, sans verre, sans musique. Il avait remis sa casquette. Il regardait la fête de loin, de la fenêtre d'un train, une maison où l'on aurait aimé entrer.
+Walther Kerr était resté debout à l'entrée de la place, sous le tilleul le plus éloigné, sans verre, sans musique. Il avait remis sa casquette. Il regardait la fête de loin, comme on regarde, de la fenêtre d'un train, une maison où l'on aurait aimé entrer.
 
 Rose le vit. Elle le vit, à la lueur des lampions, très droit, les mains dans le dos, immobile. Il la regardait. Il ne s'approcherait pas.
 

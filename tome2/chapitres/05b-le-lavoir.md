@@ -56,7 +56,7 @@ Elles parlèrent. Pas de ce qu'on aurait cru. Pas de lac, ni de barrage, ni de m
 
 À un moment, Iris dit, sans savoir pourquoi :
 
-— Je n'ai jamais connu ma mère.
+— Je n'ai jamais vraiment connu ma mère.
 
 L'autre ne répondit pas tout de suite. Elle avait pris, sans le vouloir, la posture d'Iris : le dos droit, les mains à plat sur les cuisses. Iris le remarqua, et ne dit rien.
 

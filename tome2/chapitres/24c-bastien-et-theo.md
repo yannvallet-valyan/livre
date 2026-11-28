@@ -62,7 +62,7 @@ Il fit un geste vague de la main.
 
 Il se tut. Il avait les larmes aux yeux. Il les laissa couler, sans honte, le long de ses joues creuses.
 
-— Je ne sais pas qui tu es, dit-il. Je sais que tu m'appelles « père » avec une tendresse que ni l'un ni l'autre n'avons méritée. Je sais que tu as gardé mon fils vivant, d'une certaine façon. Je sais que tu es gentil avec Madame Aubert. Je sais que tu m'as visité, il y a, la nuit, et que tu m'as laissé dormir. Je ne sais pas si je dois te remercier ou te maudire.
+— Je ne sais pas qui tu es, dit-il. Je sais que tu m'appelles « père » avec une tendresse que ni l'un ni l'autre n'avons méritée. Je sais que tu as gardé mon fils vivant, d'une certaine façon. Je sais que tu es gentil avec Madame Aubert. Je sais que tu es venu me voir, certaines nuits, il y a des années, et que tu m'as laissé dormir. Je ne sais pas si je dois te remercier ou te maudire.
 
 ---
 

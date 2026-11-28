@@ -64,6 +64,6 @@ Sophia ne répondit pas. Elle continuait de couper l'ongle de son pouce. Le peti
 
 — Je te le promets.
 
-C'était une promesse d'enfant, faite avec cette gravité qu'ont les enfants pour dire des choses qu'ils ne savent pas. Sophia la reçut. Elle le garda.
+C'était une promesse d'enfant, faite avec cette gravité qu'ont les enfants pour dire des choses qu'ils ne savent pas. Sophia la reçut. Elle la garda.
 
 Elle ne put jamais dire à sa fille que, cette nuit-là, de l'autre côté de la cloison, quelqu'un, avec une voix qui n'était pas celle de l'enfant, avait dit, très doucement : *Je te le promets, Sophia.*

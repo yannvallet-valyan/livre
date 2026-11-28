@@ -12,7 +12,7 @@ Sophia ne le remarqua que le troisième mois. Elle regarda sa fille dormir, penc
 
 ---
 
-Elle l'élevait seule, et elle l'élevait mal,: par excès de silence. Elle travaillait trop. Elle rentrait tard de l'agence de l'eau, avec des dossiers sous le bras, des cernes violets, une fatigue qui ressemblait à de la colère. Hélène gardait la petite. Hélène vieillissait. Elle avait soixante-sept ans à la naissance d'Iris, et le thé noir lui tremblait dans les mains.
+Elle l'élevait seule, et elle l'élevait mal : par excès de silence. Elle travaillait trop. Elle rentrait tard de l'agence de l'eau, avec des dossiers sous le bras, des cernes violets, une fatigue qui ressemblait à de la colère. Hélène gardait la petite. Hélène vieillissait. Elle avait soixante-sept ans à la naissance d'Iris, et le thé noir lui tremblait dans les mains.
 
 Les nuits étaient difficiles.
 

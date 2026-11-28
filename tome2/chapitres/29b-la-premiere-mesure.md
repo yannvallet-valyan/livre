@@ -46,7 +46,7 @@ Il sentit son cœur battre, dans la poitrine d'un homme qui n'était pas lui.
 
 *Je la connais.*
 
-Il ne dit pas cela. Il dit,:
+Il ne dit pas cela. Il dit :
 
 — Pardon, madame. Je ne voulais pas vous effrayer.
 
@@ -58,7 +58,7 @@ Il avait dit la phrase sans y penser. Elle lui parut absurde, aussitôt dite. Il
 
 ---
 
-Quand elle partit, il resta debout, la lampe de poche éteinte dans sa main vide, à regarder le chemin par lequel elle s'était éloignée. Il ne l'avait plus. Il la lui avait donnée. Il ne savait plus pourquoi. Il avait pensé : *il fait noir.* Il avait pensé : *elle en a besoin.* Il avait pensé, plus profondément : *je dois lui laisser quelque chose.*
+Quand elle partit, il resta debout, la main vide, à regarder le chemin par lequel elle s'était éloignée. Il ne l'avait plus. Il la lui avait donnée. Il ne savait plus pourquoi. Il avait pensé : *il fait noir.* Il avait pensé : *elle en a besoin.* Il avait pensé, plus profondément : *je dois lui laisser quelque chose.*
 
 Il ouvrit le cahier. Il écrivit, très lentement :
 

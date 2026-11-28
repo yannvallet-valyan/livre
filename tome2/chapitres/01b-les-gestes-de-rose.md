@@ -90,4 +90,4 @@ Elle ne put pas s'empêcher de sourire. Elle prit le charbon. Elle hésita. Elle
 
 Elle n'avait pas dit : *c'est moi.* Elle n'avait pas dit : *je suis ici.* Elle avait dit la seule chose qu'elle était sûre d'avoir appris de cette maison.
 
-Elle posa le charbon. Elle regarda le mur. Elle sentit le cœur battre dans sa poitrine, très fort,.
+Elle posa le charbon. Elle regarda le mur. Elle sentit le cœur battre dans sa poitrine, très fort.

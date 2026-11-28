@@ -40,7 +40,7 @@ La quatrième semaine de juillet, la chanson fut reprise.
 
 Elle chantait depuis dix minutes, dans la chambre étroite, par la fenêtre ouverte sur la nuit chaude, quand elle entendit, de l'autre côté de la cloison mitoyenne, un souffle qui s'accordait au sien. Elle se tut. Le souffle se tut.
 
-Elle chanta de nouveau : le premier couplet, le deuxième. Elle s'arrêta au bord du troisième,.
+Elle chanta de nouveau : le premier couplet, le deuxième. Elle s'arrêta au bord du troisième.
 
 Derrière le mur, une voix de femme, plus grave que la sienne, plus lasse, chanta les deux mêmes couplets, avec les mêmes mots, les mêmes silences. Et s'arrêta au même endroit.
 

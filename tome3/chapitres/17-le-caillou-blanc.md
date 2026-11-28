@@ -6,7 +6,7 @@
 
 Elle eut dix-neuf ans le 9 juillet 2046, et personne ne le savait que lui.
 
-Elle ne l'avait dit à personne. Elle n'avait pas de raison de le dire. Elle vivait depuis sept mois dans une chambre au-dessus de la pharmacie, avec un lavabo, un réchaud, une fenêtre sur les toits. Elle travaillait chez Étienne, le médecin du bourg, qui l'avait engagée sans trop poser de questions, parce qu'elle savait faire un pansement, que sa mère venait de mourir, et qu'elle avait l'air d'une enfant qui n'aurait pas supporté d'être refusée. Elle soignait des genoux, des grippes, des vieux. Elle gardait les yeux baissés. Elle n'avait presque pas d'amis.
+Elle ne l'avait dit à personne. Elle n'avait pas de raison de le dire. Elle vivait depuis sept mois dans la chambre mansardée au-dessus du cabinet, avec un lavabo, un réchaud, une fenêtre sur le clocher. Elle travaillait chez Étienne, le médecin du bourg, qui l'avait engagée sans trop poser de questions, parce qu'elle savait faire un pansement, que sa mère venait de mourir, et qu'elle avait l'air d'une enfant qui n'aurait pas supporté d'être refusée. Elle soignait des genoux, des grippes, des vieux. Elle gardait les yeux baissés. Elle n'avait presque pas d'amis.
 
 Elle avait Théo.
 
@@ -22,7 +22,7 @@ Elle riait.
 
 Il passa le 9 juillet à marcher.
 
-Il avait une montre, au poignet, qu'il consultait sans arrêt. Il arpentait les rues du bourg, les mains dans les poches, sans trouver de place où s'asseoir. Il s'arrêta devant la pharmacie, vers midi. Il vit sa fenêtre ouverte, un rideau qui battait. *Elle est là.* *Il faut que je monte.* Il pensa : *je n'ai rien à lui donner.*
+Il avait une montre, au poignet, qu'il consultait sans arrêt. Il arpentait les rues du bourg, les mains dans les poches, sans trouver de place où s'asseoir. Il s'arrêta devant le cabinet, vers midi. Il vit sa fenêtre ouverte, un rideau qui battait. *Elle est là.* *Il faut que je monte.* Il pensa : *je n'ai rien à lui donner.*
 
 Il avait, dans la poche, un caillou.
 
@@ -104,7 +104,7 @@ Elle le servit. Ils burent en silence, côte à côte, face à la fenêtre, rega
 
 Il tenait déjà.
 
-Le soir, quand il redescendit, il croisa Étienne sur le trottoir. Le vieux médecin sortait de sa voiture, sa sacoche à la main. Il regarda le garçon. Il lui dit, après un temps :
+Le soir, quand il redescendit, il croisa Étienne dans l'escalier. Le vieux médecin rentrait d'une visite, sa sacoche à la main. Il regarda le garçon. Il lui dit, après un temps :
 
 — Tu as le visage de quelqu'un qui a fait quelque chose de bien.
 
@@ -116,6 +116,6 @@ Le soir, quand il redescendit, il croisa Étienne sur le trottoir. Le vieux méd
 
 — Ah, dit Étienne, avec un petit sourire. Alors c'est sérieux.
 
-Il tapota l'épaule du garçon. Il entra dans la pharmacie. Théo resta un moment sur le trottoir, à regarder le ciel, qui rougissait au-dessus des toits.
+Il tapota l'épaule du garçon. Il entra dans le cabinet. Théo resta un moment sur le trottoir, à regarder le ciel, qui rougissait au-dessus des toits.
 
 Il ne dit rien à personne. Il porta ce jour en lui, comme on porte un fruit.

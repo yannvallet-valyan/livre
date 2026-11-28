@@ -6,7 +6,7 @@ Le lundi, c'étaient les genoux.
 
 Ils arrivaient à huit heures, par séries, en chaussons de feutre, avec leurs ordonnances pliées dans des mouchoirs : Madame Combe et son genou gauche, le père Tissot et les deux, la vieille Paulette, qui n'avait plus de genou du tout et le disait sans honte. Ils s'asseyaient en rang sur les chaises dépareillées de la salle d'attente, devant une pile de *Pèlerin* périmés, et se racontaient leurs opérations avec la gravité de vétérans.
 
-— Aujourd'hui, ça fait cinquante-deux, dit Étienne en ouvrant la porte du bureau.
+— Aujourd'hui, ça fait cinquante-quatre, dit Étienne en ouvrant la porte du bureau.
 
 — Cinquante-deux quoi ?
 

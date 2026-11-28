@@ -6,7 +6,7 @@ Elle prit le lundi 13 octobre.
 
 Dix jours plus tôt, elle avait rendu à Rose sa maison. Elle avait tenu dix jours.
 
-Elle ne l'avait pas décidé comme une autre aurait décidé de partir en voyage. Elle l'avait décidé: en se disant, à chaque gorgée, qu'on s'arrêterait à la suivante. Le matin de la porte, Rose dormait encore, et Iris se leva, s'habilla, trouva dans l'armoire la robe du dimanche, une toile bleue à petits boutons, qu'elle brossa du plat de la main. Elle se coiffa : les cheveux ras n'avaient pas besoin de peigne. Elle regarda dans le miroir fêlé le visage de Rose, et le trouva plus grave qu'il ne devait l'être.
+Elle ne l'avait pas décidé comme une autre aurait décidé de partir en voyage. Elle l'avait décidé comme on boit : en se disant, à chaque gorgée, qu'on s'arrêterait à la suivante. Le matin de la porte, Rose dormait encore, et Iris se leva, s'habilla, trouva dans l'armoire la robe du dimanche, une toile bleue à petits boutons, qu'elle brossa du plat de la main. Elle se coiffa : les cheveux ras n'avaient pas besoin de peigne. Elle regarda dans le miroir fêlé le visage de Rose, et le trouva plus grave qu'il ne devait l'être.
 
 Elle prit Anselme dans ses bras. Il dormait encore, le front contre son épaule, les poings serrés sous le menton.
 

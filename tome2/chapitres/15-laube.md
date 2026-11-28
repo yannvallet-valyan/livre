@@ -32,7 +32,7 @@ C'était Théo. C'était sa voix, tendre, appliquée. Il le lui avait dit cent f
 
 Il avait menti.
 
-Elle ne le comprit pas d'un seul coup. Elle le comprit en trois temps,. *La règle est fausse.* *Il le savait.* *Il m'a laissée la croire.* Le dernier temps fut le plus long. Elle ne sentit pas la colère. Elle sentit un effondrement, plus froid, plus lent, très calme : un mur dont on découvre qu'il n'a jamais eu de fondations.
+Elle ne le comprit pas d'un seul coup. Elle le comprit en trois temps. *La règle est fausse.* *Il le savait.* *Il m'a laissée la croire.* Le dernier temps fut le plus long. Elle ne sentit pas la colère. Elle sentit un effondrement, plus froid, plus lent, très calme : un mur dont on découvre qu'il n'a jamais eu de fondations.
 
 *Il a vécu toutes nos journées. Il était là quand je dormais. Il m'a regardée dormir.*
 

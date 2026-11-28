@@ -30,7 +30,7 @@ Elle resta immobile devant la huche, les mains sur les hanches.
 
 Elle savait qu'il ne répondrait pas. Elle savait aussi, avec cette sûreté des femmes qui tiennent une maison, que ce n'était pas lui. Les mains de Jean ne pétrissaient pas ainsi : elles étaient plus tendres, plus hésitantes, et farineuses jusqu'aux coudes. Celles-ci avaient serré. Elles avaient serré trop fort, de peur de rater, et elles s'étaient rappelé, au milieu du geste, qu'il fallait les desserrer.
 
-Elle ne dit rien. Elle prit la pâte, la rompit en deux miches, les roula, les entailla d'un coup de couteau. Elle les glissa au four. Elle se lava les mains dans l'évier. Elle regarda le mur, au-dessus, à côté du crucifix, où il y avait des traces de charbon effacées à la hâte. Elle y lut, des mots qui n'y étaient plus.
+Elle ne dit rien. Elle prit la pâte, la rompit en deux miches, les roula, les entailla d'un coup de couteau. Elle les glissa au four. Elle se lava les mains dans l'évier. Elle regarda le mur, au-dessus, à côté du crucifix, où il y avait des traces de charbon effacées à la hâte. Elle y lut des mots qui n'y étaient plus.
 
 *Pardon. Le lait a tourné.*
 

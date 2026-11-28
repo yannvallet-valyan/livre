@@ -6,7 +6,7 @@ En août, elle cessa de dormir.
 
 Elle n'en tirait aucune gloire. C'était une nécessité de comptable : il y avait trois mois avant la vanne, soixante-dix nuits à peu près, et chacune comptait. Elle ne pouvait pas se permettre de les passer à rêver. Elle se couchait à neuf heures, la main d'Anselme dans la sienne, pendant que Jean prenait son poste de nuit au chantier. Elle fermait les yeux, comptait jusqu'à cinquante-neuf. Elle sentait Rose glisser, avec ce soupir d'enfant qui se rend. Puis elle se relevait, sans bruit, et allait voir ce qu'on faisait de la vallée.
 
-On la vidait. Il n'y avait pas d'autre mot. On avait détourné la rivière dans un tunnel de béton, et ce qui restait du fond, la glaise grasse des jardins, des prés, de la place de l'église, on le décapait à la pelle mécanique, par bandes,. La nuit, les camions roulaient avec leurs projecteurs, et la vallée était pleine de lumière jaune, de poussière et de cris de contremaîtres. Les maisons restaient debout, avec leurs volets, leurs numéros peints à la chaux, qu'on abattrait en septembre.
+On la vidait. Il n'y avait pas d'autre mot. On avait détourné la rivière dans un tunnel de béton, et ce qui restait du fond, la glaise grasse des jardins, des prés, de la place de l'église, on le décapait à la pelle mécanique, par bandes. La nuit, les camions roulaient avec leurs projecteurs, et la vallée était pleine de lumière jaune, de poussière et de cris de contremaîtres. Les maisons restaient debout, avec leurs volets, leurs numéros peints à la chaux, qu'on abattrait en septembre.
 
 Au bas du chantier, contre le mur, il y avait un homme.
 
@@ -20,7 +20,7 @@ Elle ne se figea pas : elle avait déjà entendu ce nom en juin, à la mairie, d
 
 Elle le connaissait de bien plus loin. Elle le connaissait comme on connaît le nom d'une maladie, qui vous a pris quelqu'un. Un Kerr dirigeait le laboratoire de Vallorce, en 2026. Un Kerr avait fait fabriquer les comprimés. Un Kerr, peut-être, avait déposé dans le cahier de son compagnon, Théo, les premières lignes de la méthode. Elle essaya de se rappeler les prénoms. Elle n'y arriva pas. La mémoire de Rose lui coupait les ponts, par endroits, comme un pont qu'on a laissé brûler.
 
-Elle le regarda mieux. Un homme de quarante ans, peut-être, au visage épais et doux, avec des mains de paysan. Il disait « merci » à tout le monde. Il avait salué un manœuvre qui avait fait tomber sa pelle. Quand il parlait aux gardes, il les appelait « messieurs ». Il n'avait pas l'air d'un homme qui commande.
+Elle le regarda mieux. Un homme d'une trentaine d'années, qui en paraissait quarante, au visage épais et doux, avec des mains de paysan. Il disait « merci » à tout le monde. Il avait salué un manœuvre qui avait fait tomber sa pelle. Quand il parlait aux gardes, il les appelait « messieurs ». Il n'avait pas l'air d'un homme qui commande.
 
 *Il n'a pas l'air d'un homme qui noie les gens*, pensa-t-elle.
 

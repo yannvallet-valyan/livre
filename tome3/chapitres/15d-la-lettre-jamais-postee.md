@@ -1,137 +1,143 @@
-# Chapitre 22 — La lettre jamais postée
+# Chapitre 0 — La lettre jamais postée
 
 *(premier jet)*
 
-*Lyon, puis Vallorce, décembre 2045.*
+*Vallorce, 12 décembre 2045.*
 
-Elle trouva la lettre le soir de l'enterrement, dans le tiroir de la table de nuit, sous une boîte de pastilles et un chapelet qui n'était pas à sa mère.
+Étienne Marle avait soixante-cinq ans, et il ne recevait plus personne après six heures.
 
-C'était le 5 décembre 2045. Sophia était morte le 2, à cinquante-sept ans, dans la chambre au fond du couloir, d'une chose que les médecins nommaient *insuffisance*, sans dire de quoi. Elle avait demandé un enterrement très simple. Il y avait eu six personnes, une pluie fine, un prêtre qui avait lu un psaume qu'elle n'aimait pas. Iris avait tenu la main d'une voisine pour ne pas avoir à tenir la sienne. Elle avait dix-huit ans.
+Il l'avait décidé l'hiver précédent, quand ses genoux avaient commencé à lui faire payer les escaliers. Il fermait le cabinet à dix-huit heures, accrochait la blouse au clou, éteignait la lampe de la salle d'attente, celle où il n'y avait toujours pas d'horloge. Il montait à pied jusqu'à la maison de l'impasse, faisait chauffer de l'eau, et lisait jusqu'à neuf heures dans le fauteuil de cuir. Il avait renoncé à se demander pourquoi il gardait, sur le rebord de la fenêtre de la cuisine, une paire de gants de jardinage qui ne servait plus depuis vingt-six ans.
 
-Elle était revenue à l'appartement, au troisième étage, rue des Tanneurs. Elle avait posé ses clés, son manteau. Elle avait fait le tour des pièces, une à une, comme on visite un lieu qu'on n'a jamais vu. Le salon, avec le canapé jaune, la bibliothèque, l'encrier de verre. La cuisine, avec la petite table, le calendrier de la poste, l'odeur de café froid. La chambre de sa mère.
+Ce soir-là, il neigeait. C'était la première neige.
 
-Elle s'assit sur le lit. Elle ouvrit le tiroir. Elle n'avait pas de raison de le faire : elle cherchait un mouchoir.
+On sonna à dix-huit heures vingt, alors qu'il venait de tourner la clé.
 
-Il y avait une enveloppe.
-
-Elle était jaunie, froissée aux angles, très mince. Elle portait, d'une encre bleue qu'Iris reconnut à l'instant, un nom, une adresse : *Étienne Marle, médecin, rue de l'Église, Vallorce.* Le timbre n'avait pas été collé. L'enveloppe n'avait pas été fermée. En haut, à gauche, la date : *16 novembre 2026.*
-
-Elle resta immobile.
-
-Elle avait appris, enfant, que sa mère n'avait jamais parlé de son père. Elle avait demandé une fois, vers six ans, où il était. Sa mère avait répondu : « Loin. » Elle avait demandé : « Il est mort ? » Sa mère avait dit : « Je ne sais pas. » Elle n'avait plus jamais posé la question. Elle avait compris, par le silence, que c'était une plaie.
-
-Elle prit l'enveloppe. Elle la retourna. Elle en tira une feuille, pliée en deux.
+Il faillit ne pas ouvrir. Il entendit la sonnette une seconde fois, plus brève, plus timide, comme une question qu'on n'ose pas répéter. Il remit la clé dans la serrure.
 
 ---
 
-*Étienne,*
+Elle se tenait sur le seuil, sous la lampe de la rue, avec de la neige sur les épaules.
 
-*Je ne sais pas si je t'écris ou si je me parle. Je ne sais plus faire la différence depuis un mois.*
+Elle avait dix-huit ans, ou peut-être un peu plus. Un manteau noir trop grand, un sac de voyage à la main, les cheveux tirés en arrière. Elle avait un front trop grand, des sourcils droits, une bouche qui ne se décidait pas à parler. Et au coin de la paupière gauche, minuscule, un grain de beauté qu'il fallait regarder de près pour le voir.
 
-*Je suis partie pour Lyon il y a trois semaines, sans te le dire. Je ne veux pas que tu viennes. Je ne veux pas que tu m'appelles. Je veux que tu restes à Vallorce, avec ton fils, avec tes malades, avec tout ce que tu as de vrai. Je ne suis pas ce que tu crois. Je suis quelqu'un d'abîmé, qui a peur de ce qui est en elle.*
+Il le vit.
 
-*Je suis enceinte.*
-
-*Je ne te l'ai pas dit. Je l'ai appris ce matin, par un test, dans une salle de bains qui n'est pas la mienne. Je ne sais pas comment cela est arrivé. Je sais que c'est de toi. Je sais que nous n'avons jamais été ensemble, que je me souviens de trois nuits, que ces trois nuits sont pleines de trous. Je sais que ce n'est pas normal. Je sais que tu ne te souviendras de rien non plus : la dernière fois que je t'ai vu, tu m'as parlé de lentilles trop salées, et tu ne savais pas pourquoi.*
-
-*Je veux garder cet enfant.*
-
-*Je ne veux pas que tu le saches. Je ne veux pas que tu me retrouves. Je veux qu'elle grandisse loin de tout cela, de ce lac, de ce laboratoire, de cette chose qui a mangé ma vie. Je veux qu'elle soit simplement une enfant.*
-
-*Je t'écris cette lettre, et je ne la posterai pas. Je la garderai. Un jour, peut-être, quand elle sera grande, quand je serai morte, elle la lira. Elle saura. Elle ira te voir, si elle en a envie. Elle aura le droit de te détester.*
-
-*Dis-lui seulement qu'elle a été désirée.*
-
-*Dis-lui que j'ai eu peur, et que j'ai gardé.*
-
-*Sophia.*
-
-*P.-S. Si tu te souviens un jour de ces trois nuits, souviens-toi aussi qu'il y avait quelqu'un d'autre que nous dans la pièce. Je ne sais pas qui. Je sais seulement qu'elle nous aimait.*
-
----
-
-Iris relut la lettre trois fois. Puis elle la posa sur le lit, à côté d'elle. Elle regarda ses mains. Elles ne tremblaient pas.
-
-Elle pensa : *ma mère m'a menti.*
-
-Elle pensa, dans la même seconde : *non. Elle m'a protégée.*
-
-C'était une chose qu'elle ne savait pas encore faire, de ne pas choisir entre les deux. Elle se leva. Elle alla à la fenêtre. Il pleuvait toujours. Les gouttes coulaient en rigoles le long du carreau, brouillant les lumières de la rue. Elle regarda sa propre silhouette dans la vitre : une jeune femme brune, un front trop grand, des sourcils droits. Elle y chercha un visage. Elle crut, un instant, y voir celui d'un homme qu'elle ne connaissait pas, très doux, très las, qui lui souriait.
-
-Elle porta la main à sa bouche.
-
-Elle comprit qu'elle pleurait. Elle pleurait, depuis le début de la lecture, sans bruit, sans effort, ainsi qu'on perd de l'eau par une fissure. Elle ne pleurait pas pour sa mère. Elle pleurait pour la jeune femme de 2026 qui avait écrit cela, seule, un soir de novembre, à une table de cuisine, avec un stylo à encre bleue.
-
-*Elle avait trente-huit ans,* pensa-t-elle. *Elle avait peur. Elle a gardé.*
-
-*Je lui dois d'y aller.*
-
----
-
-Elle prit le train le lendemain, de la gare de Perrache, par un matin gris. Elle n'avait emporté qu'un sac. Elle avait mis la lettre dans la poche intérieure de son manteau, contre la poitrine. Elle regardait défiler, par la fenêtre, des champs trempés, des villages endormis, des rivières grises.
-
-Elle ne savait pas ce qu'elle allait dire. Elle avait pensé à plusieurs phrases. *Bonjour, je suis la fille de Sophia Varenne.* *Vous ne me connaissez pas.* *J'ai quelque chose pour vous.* Elles lui paraissaient toutes absurdes. Elle se dit qu'elle aviserait.
-
-Elle descendit à Vallorce à quinze heures. Le village était blanc de brume. Elle marcha, entre des maisons aux volets fermés, jusqu'à la rue de l'Église. Elle s'arrêta devant une porte à vitrage dépoli, avec une plaque de cuivre : *Docteur Étienne Marle.* Elle resta là, longtemps, la main levée, sans oser sonner.
-
-La porte s'ouvrit.
-
-Un vieil homme apparut, en blouse, une sacoche à la main. Il avait soixante-cinq ans, des cheveux gris, une cicatrice au-dessus du sourcil. Il s'arrêta net. Il regarda la jeune fille, immobile sur le seuil. Il ne dit rien. Il se tint là, la bouche entrouverte, le visage soudain très pâle.
+Il ne sut jamais pourquoi il le vit tout de suite. Il savait seulement que, de tous les visages qu'il avait regardés en quarante ans de cabinet, il n'en avait jamais connu aucun aussi vite. Il sentit ses mains devenir froides. Il pensa, absurdement : *elle a pris le train.*
 
 — Je suis… commença-t-elle.
 
-— Je sais, dit-il.
+— Entrez, dit-il. Vous êtes gelée.
 
-— Vous ne me connaissez pas.
+Elle entra. Il la fit asseoir dans la salle d'attente, près du radiateur. Il ralluma la lampe. Il ne remit pas sa blouse. Il alla dans la petite cuisine du cabinet et fit chauffer du lait, parce qu'il n'y avait que du lait, et du chocolat en poudre, qu'il gardait pour les enfants qui pleuraient après un vaccin. Il lui apporta la tasse. Elle la prit à deux mains.
 
-— Non.
+Il s'assit en face, sur une chaise de bois. Il ne lui demanda rien. Il attendit, comme il attendait les patients qui ne savent pas par où commencer.
 
-— Alors comment…
+Elle but une gorgée. Elle posa la tasse. Elle sortit de sa poche une enveloppe.
 
-— Je ne sais pas, dit Étienne.
+---
 
-Il fit un pas en arrière. Il tint la porte ouverte, d'une main un peu tremblante. Il dit, d'une voix qu'elle n'oublierait jamais :
+C'était une enveloppe blanche, jaunie, déchirée sur le côté. Son nom y était écrit, à l'encre bleue, d'une écriture penchée qu'il reconnut avant même de l'avoir lue. *Docteur Étienne Marle, place de l'église, Vallorce.*
 
-— Entrez. Vous êtes gelée.
+Il la prit. Il en tira une feuille, une seule.
 
-Elle entra.
+*Pardon de ne pas t'avoir attendu. Je ne sais pas ce qui s'est passé. Ne me cherche pas.*
 
-Il la fit asseoir dans la salle d'attente, près d'un radiateur. Il lui apporta une tasse de chocolat chaud, qu'elle prit à deux mains. Il s'assit en face, sur une chaise de bois, très droit. Il la regardait. Il ne lui demanda rien. Il attendit.
+Et en bas : *novembre 2026.*
 
-Elle tira la lettre de son manteau. Elle la lui tendit.
+Il lut les trois lignes. Il les relut. Il resta un long moment immobile, la feuille entre les doigts, sans rien dire. Il pensait à un automne dont il ne gardait presque rien : un mois troué, des nuits blanches, une odeur de lentilles, une femme qui écrivait à l'encre bleue et qui était partie un matin de la fin octobre sans un mot. Il avait appelé quarante et une fois. Il avait cru qu'elle le fuyait. Il s'était dit, pendant dix-neuf ans, qu'il avait dû faire quelque chose. Il ne savait pas quoi.
 
-Il la lut debout, devant la fenêtre, le dos tourné. Elle ne vit pas son visage. Elle vit seulement ses épaules, qui tremblaient. Quand il se retourna, il avait les yeux rouges. Il dit :
+*Je ne sais pas ce qui s'est passé.*
 
-— Elle était très belle.
+Elle non plus.
+
+Il eut, d'un coup, un rire très bref, qui lui fit mal à la poitrine. Il porta la main à sa bouche.
+
+— Elle est morte ? dit-il.
+
+— Le 2 décembre.
+
+— Je ne savais pas.
+
+— Personne ne savait. Il y avait onze personnes à l'enterrement.
+
+Il hocha la tête. Il replia la feuille, très lentement, sur ses plis anciens. Il la remit dans l'enveloppe. Il ne la rendit pas tout de suite. Il la garda sur ses genoux, sous sa main à plat.
+
+— Elle ne me l'a jamais envoyée, dit-il.
+
+— Non. Elle était dans le tiroir de la cuisine, sous la ficelle.
+
+— Pourquoi vous me l'apportez ?
+
+La jeune fille regarda la tasse. Elle chercha ses mots. Elle dit enfin, d'une voix sèche, chiffrée, qui ressemblait tant à une autre qu'il dut détourner les yeux :
+
+— Parce que c'est la seule chose qu'elle a laissée qui ne soit pas un relevé de lac.
+
+---
+
+Il y eut un silence. Dehors, la neige tombait sur la place, dans le halo du lampadaire. Un chat passa, laissa des traces, disparut.
+
+— Vous êtes sa fille, dit Étienne.
 
 — Oui.
 
-— Elle me détestait un peu.
+— Vous avez quel âge ?
 
-— Non, dit Iris. Elle avait peur.
+— Dix-huit ans. Née le 9 juillet 2027, à Lyon.
 
-— C'est pareil, dit Étienne, avec un petit rire. Quand on est vieux, c'est pareil.
+Il fit le calcul sans le vouloir. Il était médecin. Il le fit de la façon la plus bête, sur ses doigts, sous la table, comme un écolier. Octobre. Juillet. Il s'arrêta avant d'arriver au bout. Il referma la main.
 
-Il vint se rasseoir. Il prit sa main, dans la sienne, sans façon, à la façon dont on le fait à une patiente. Il la garda, un instant. Il dit :
+— Elle vous a dit qui était votre père ?
 
-— Je ne sais pas ce que je suis pour toi.
+— Elle m'a dit qu'elle ne le savait pas. Qu'il y avait eu un homme, à la montagne. Qu'elle l'aimait. Qu'elle avait eu peur d'elle-même.
+
+Étienne ne répondit pas. Il regarda les mains de la jeune fille, autour de la tasse. Elle tenait l'anse entre le pouce et le majeur, d'une façon bizarre que personne n'apprend. Il connaissait ce geste. Il ne savait pas d'où.
+
+Il aurait pu dire : *c'est peut-être moi.* Il aurait pu dire : *je ne sais pas non plus.* Il aurait pu lui raconter le mois troué, les nuits, une maternité de Lyon où il s'était réveillé pieds nus, un matin de juillet, avec un nouveau-né dans les bras, sans savoir comment il y était venu. Il ne l'avait jamais raconté à personne. Il avait fini par croire qu'il l'avait rêvé.
+
+Il ne dit rien de tout cela. Il pensa que cette enfant venait d'enterrer sa mère, qu'elle avait pris un train dans la neige pour rapporter trois lignes à un inconnu, et qu'on ne dépose pas, sur une jeune fille de dix-huit ans, le poids d'un rêve.
+
+— Je ne sais pas ce que je suis pour vous, dit-il.
 
 — Moi non plus.
 
 — Je suis… je ne sais pas.
 
-— Vous êtes le monsieur de la lettre, dit Iris.
+— Vous êtes le monsieur de la lettre, dit-elle.
 
 — Ça me va.
 
-— Je n'ai nulle part où aller.
+Elle eut un sourire, minuscule, de travers, qui ne dura pas.
 
-— Alors tu restes, dit-il.
+— Je n'ai nulle part où aller, dit-elle. Je ne sais pas pourquoi je suis venue ici plutôt qu'ailleurs. Je ne connais personne dans cette vallée. Ma grand-mère m'a fait promettre de ne jamais y venir.
 
-Elle le regarda. Elle vit un vieil homme, des yeux fatigués, une bonté sans emphase. Elle vit, derrière lui, comme à travers une vitre, un autre visage, plus jeune, plus dur, qui avait aimé une femme pendant trente-quatre nuits et qui ne s'en souvenait pas.
+— Alors pourquoi vous êtes là ?
 
-Elle comprit qu'elle venait de trouver quelqu'un.
+— Parce qu'elle m'a dit aussi, en mourant, de venir quand il le faudrait.
 
-Elle ne dit pas merci. Elle serra seulement sa main, très fort. Il serra la sienne en retour. Ils restèrent ainsi, dans la salle d'attente vide, devant la tasse de chocolat qui fumait.
+Étienne la regarda longtemps. Il pensa à une femme qui, dix-neuf ans plus tôt, avait écrit *ne me cherche pas* et ne l'avait pas envoyé. Il pensa qu'on n'écrit pas une phrase pareille à quelqu'un qu'on ne veut plus voir. On l'écrit à quelqu'un dont on a peur d'être retrouvé.
 
-Il neigeait, dehors. C'était la première neige de l'hiver.
+— Il y a une chambre, sous le toit, au-dessus du cabinet, dit-il. Elle est vide. Et j'ai besoin de quelqu'un, au cabinet. Mon infirmière est partie à la retraite en septembre. Vous savez faire un pansement ?
+
+— J'ai soigné ma mère pendant trois ans.
+
+— Alors vous savez.
+
+— Vous ne me connaissez pas.
+
+— Non, dit Étienne. Alors vous restez.
+
+Elle le regarda. Elle ne dit pas merci. Elle serra seulement la tasse, un peu plus fort, entre ses mains.
+
+---
+
+Il monta lui-même son sac jusqu'à la chambre mansardée, celle qui donnait sur le clocher. Il alluma le radiateur. Il sortit des draps de l'armoire, qui sentaient la lavande et le placard. Il ne dit pas que c'était la chambre de Claire. Sur le seuil, la jeune fille se retourna.
+
+— Je m'appelle Iris, dit-elle.
+
+— Je sais, dit-il.
+
+Il ne sut pas pourquoi il avait dit cela. Elle non plus. Elle hocha la tête, comme si c'était normal, et ferma la porte.
+
+Il redescendit l'escalier. Il sortit sur la place, sans manteau, dans la neige. Devant la porte du cabinet, il s'arrêta. Il sortit de sa poche l'enveloppe, qu'il avait oublié de lui rendre. Il la regarda sous la lampe. Il la remit dans sa poche, contre sa poitrine.
+
+Il la garda vingt ans, dans le tiroir de son bureau, sous les ordonnances, avec les choses dont il ne savait pas pourquoi il les gardait.

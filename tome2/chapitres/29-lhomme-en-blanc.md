@@ -24,7 +24,7 @@ Elle avait embrassé Anselme. Elle avait respiré son odeur, de lait, de laine, 
 
 *Rose.*
 
-Elle n'avait pas osé l'appeler. Elle l'avait fait, pourtant, tout au fond d'elle,. Elle avait senti une présence, très proche, qui se levait, qui s'approchait, qui la regardait avec une attention grave, un peu moqueuse. La voix était venue du fond de ses os, brusque, sèche, sans tendresse.
+Elle n'avait pas osé l'appeler. Elle l'avait fait, pourtant, tout au fond d'elle. Elle avait senti une présence, très proche, qui se levait, qui s'approchait, qui la regardait avec une attention grave, un peu moqueuse. La voix était venue du fond de ses os, brusque, sèche, sans tendresse.
 
 *Va. Je dors.*
 

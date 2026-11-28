@@ -40,7 +40,7 @@ Elle sentit ses mains se refermer, dans la pâte. Tout au fond d'elle, quelqu'un
 
 *Elle me met à l'abri*, pensa la chose. *Ou elle m'enferme.*
 
-Ce n'était pas une pensée de Rose. C'était une phrase à l'envers, étrangère, que Rose ne comprit pas, et qu'elle oublia aussitôt,.
+Ce n'était pas une pensée de Rose. C'était une phrase à l'envers, étrangère, que Rose ne comprit pas, et qu'elle oublia aussitôt.
 
 ---
 

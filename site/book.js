@@ -12099,7 +12099,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle avait traversé quelque chose. Elle ne savait pas quoi. Elle se rappelait une cuisine, une lampe, une main d'homme âgé sur la sienne, un front brûlant sous un petit éclat rouge. Elle se rappelait être descendue,, à travers des couches de sommeil de plus en plus épaisses, des voix de femmes qu'elle n'avait jamais entendues et qui l'appelaient par son nom, des nuits qui se superposaient comme des draps étendus, jusqu'à ce que plus rien ne lui appartienne, sinon une phrase, apprise par cœur, recopiée trois fois à l'encre pour la tenir. *À soixante, le corps comprend que tu restes.*"
+     "s": "Elle avait traversé quelque chose. Elle ne savait pas quoi. Elle se rappelait une cuisine, une lampe, une main d'homme âgé sur la sienne, un front brûlant sous un petit éclat rouge. Elle se rappelait être descendue, à travers des couches de sommeil de plus en plus épaisses, des voix de femmes qu'elle n'avait jamais entendues et qui l'appelaient par son nom, des nuits qui se superposaient comme des draps étendus, jusqu'à ce que plus rien ne lui appartienne, sinon une phrase, apprise par cœur, recopiée trois fois à l'encre pour la tenir. *À soixante, le corps comprend que tu restes.*"
     },
     {
      "t": "p",
@@ -12459,7 +12459,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle posa le charbon. Elle regarda le mur. Elle sentit le cœur battre dans sa poitrine, très fort,."
+     "s": "Elle posa le charbon. Elle regarda le mur. Elle sentit le cœur battre dans sa poitrine, très fort."
     }
    ],
    "words": 1486,
@@ -12573,7 +12573,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle laissa sur la table le carnet gris, les deux stylos, sa carte de lecteur de la bibliothèque municipale. Elle laissa la clé sous le paillasson,, puis la reprit, la remit dans sa poche, et la jeta dans le caniveau au bout de la rue des Fontaines."
+     "s": "Elle laissa sur la table le carnet gris, les deux stylos, sa carte de lecteur de la bibliothèque municipale. Elle laissa la clé sous le paillasson, puis la reprit, la remit dans sa poche, et la jeta dans le caniveau au bout de la rue des Fontaines."
     },
     {
      "t": "p",
@@ -12765,7 +12765,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il finit l'assiette. Il racla le fond avec un morceau de pain. Il dit :"
+     "s": "Il finit l'assiette. Il racla le fond avec un morceau de pain."
     },
     {
      "t": "p",
@@ -12777,14 +12777,14 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle ne put pas la lui retirer. C'était la main de Rose, et il la tenait: paume contre paume, le pouce sur le dos, sans rien demander de plus. Elle compta, parce qu'il fallait bien faire quelque chose. Un. Deux. Elle comptait les battements de son pouce contre sa peau. À vingt, il pencha la tête sur la table. À trente, il dormait."
+     "s": "Elle ne put pas la lui retirer. C'était la main de Rose, et il la tenait : paume contre paume, le pouce sur le dos, sans rien demander de plus. Elle compta, parce qu'il fallait bien faire quelque chose. Un. Deux. Elle comptait les battements de son pouce contre sa peau. À vingt, il pencha la tête sur la table. À trente, il dormait."
     },
     {
      "t": "p",
      "s": "Elle resta immobile jusqu'à l'aube, les doigts d'un autre dans les siens, à regarder la bougie se consumer, en pensant à la femme qui allait se réveiller dans ce lit, dans cette maison, avec le goût de cette nuit dans la bouche. Elle pensa qu'elle devait quelque chose à cette femme. Elle ne savait pas quoi. Elle sut seulement, à la dernière seconde, avant que le sommeil la reprenne, qu'elle le paierait."
     }
    ],
-   "words": 1363,
+   "words": 1361,
    "tome": 2
   },
   {
@@ -12850,7 +12850,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle ne dit rien. Elle prit la pâte, la rompit en deux miches, les roula, les entailla d'un coup de couteau. Elle les glissa au four. Elle se lava les mains dans l'évier. Elle regarda le mur, au-dessus, à côté du crucifix, où il y avait des traces de charbon effacées à la hâte. Elle y lut, des mots qui n'y étaient plus."
+     "s": "Elle ne dit rien. Elle prit la pâte, la rompit en deux miches, les roula, les entailla d'un coup de couteau. Elle les glissa au four. Elle se lava les mains dans l'évier. Elle regarda le mur, au-dessus, à côté du crucifix, où il y avait des traces de charbon effacées à la hâte. Elle y lut des mots qui n'y étaient plus."
     },
     {
      "t": "p",
@@ -13497,7 +13497,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle rit. Elle ne rit presque jamais. Elle riait avec le dos, sans bruit, en secouant la tête,."
+     "s": "Elle rit. Elle ne rit presque jamais. Elle riait avec le dos, sans bruit, en secouant la tête."
     },
     {
      "t": "hr"
@@ -13610,7 +13610,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Walther Kerr était resté debout à l'entrée de la place, sous le tilleul le plus éloigné, sans verre, sans musique. Il avait remis sa casquette. Il regardait la fête de loin, de la fenêtre d'un train, une maison où l'on aurait aimé entrer."
+     "s": "Walther Kerr était resté debout à l'entrée de la place, sous le tilleul le plus éloigné, sans verre, sans musique. Il avait remis sa casquette. Il regardait la fête de loin, comme on regarde, de la fenêtre d'un train, une maison où l'on aurait aimé entrer."
     },
     {
      "t": "p",
@@ -13656,7 +13656,7 @@ window.BOOK = {
      "s": "Elle l'avait déjà pris. Il lui faudrait, pour le restituer, vivre jusqu'au bout dans la peau d'une femme qui avait été heureuse sans elle."
     }
    ],
-   "words": 1216,
+   "words": 1219,
    "tome": 2
   },
   {
@@ -13675,7 +13675,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle le savait depuis qu'elle était arrivée, au printemps, dans le corps de cette boulangère de vingt-huit ans. Elle avait cru pouvoir l'oublier. On n'oublie pas ce genre de savoir. On le range, on le recouvre d'un linge, on le laisse lever, comme une pâte."
+     "s": "Elle le savait depuis qu'elle était arrivée, en juin, dans le corps de cette boulangère de vingt-huit ans. Elle avait cru pouvoir l'oublier. On n'oublie pas ce genre de savoir. On le range, on le recouvre d'un linge, on le laisse lever, comme une pâte."
     },
     {
      "t": "p",
@@ -13880,7 +13880,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle chanta de nouveau : le premier couplet, le deuxième. Elle s'arrêta au bord du troisième,."
+     "s": "Elle chanta de nouveau : le premier couplet, le deuxième. Elle s'arrêta au bord du troisième."
     },
     {
      "t": "p",
@@ -14060,7 +14060,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Je n'ai jamais connu ma mère."
+     "s": "— Je n'ai jamais vraiment connu ma mère."
     },
     {
      "t": "p",
@@ -14154,7 +14154,7 @@ window.BOOK = {
      "s": "— Comme ça, je me reconnais."
     }
    ],
-   "words": 1160,
+   "words": 1161,
    "tome": 2
   },
   {
@@ -14281,7 +14281,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle haïssait aussi le couloir, l'odeur de savon et de javel, les pas qui passaient, le chariot qui grinçait, les rires d'une infirmière, très loin, qu'elle entendait, dans un train, des gens qui s'amusent dans un autre wagon. Elle se sentait seule. Elle n'avait jamais été aussi seule. Il n'y avait personne pour lui tenir la main, personne à qui dire *j'ai peur*, personne à qui reprocher quoi que ce soit."
+     "s": "Elle haïssait aussi le couloir, l'odeur de savon et de javel, les pas qui passaient, le chariot qui grinçait, les rires d'une infirmière, très loin, qu'elle entendait comme on entend, dans un train, des gens qui s'amusent dans un autre wagon. Elle se sentait seule. Elle n'avait jamais été aussi seule. Il n'y avait personne pour lui tenir la main, personne à qui dire *j'ai peur*, personne à qui reprocher quoi que ce soit."
     },
     {
      "t": "p",
@@ -14354,7 +14354,7 @@ window.BOOK = {
      "s": "Elle se rappelait seulement ces deux mots, qui resteraient toute sa vie dans sa bouche comme une pierre qu'on ne crache pas. *Vas-y.* Elle les avait dits. Elle les avait voulus. Elle ne saurait jamais à qui."
     }
    ],
-   "words": 947,
+   "words": 950,
    "tome": 2
   },
   {
@@ -14500,7 +14500,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Dans le couloir, la sage-femme lui tendit un gilet d'hôpital et des chaussons de papier. Il les enfila. Dehors, il faisait jour. Il ne savait pas où il avait laissé sa voiture : il n'en avait pas. Il marcha jusqu'à la gare, et prit un billet avec l'argent d'un porte-monnaie qu'il ne se souvenait pas d'avoir emporté."
+     "s": "Dans le couloir, la sage-femme lui tendit un gilet d'hôpital et des chaussons de papier. Il les enfila. Dehors, il faisait jour. Il ne savait pas où il avait laissé sa voiture. Il la chercha sur le parking, ne la reconnut pas, renonça. Il marcha jusqu'à la gare, et prit un billet avec l'argent d'un porte-monnaie qu'il ne se souvenait pas d'avoir emporté."
     },
     {
      "t": "p",
@@ -14515,7 +14515,7 @@ window.BOOK = {
      "s": "Il se réveilla à Grenoble, avec les joues mouillées, sans savoir de quoi."
     }
    ],
-   "words": 965,
+   "words": 971,
    "tome": 2
   },
   {
@@ -14534,7 +14534,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "On la vidait. Il n'y avait pas d'autre mot. On avait détourné la rivière dans un tunnel de béton, et ce qui restait du fond, la glaise grasse des jardins, des prés, de la place de l'église, on le décapait à la pelle mécanique, par bandes,. La nuit, les camions roulaient avec leurs projecteurs, et la vallée était pleine de lumière jaune, de poussière et de cris de contremaîtres. Les maisons restaient debout, avec leurs volets, leurs numéros peints à la chaux, qu'on abattrait en septembre."
+     "s": "On la vidait. Il n'y avait pas d'autre mot. On avait détourné la rivière dans un tunnel de béton, et ce qui restait du fond, la glaise grasse des jardins, des prés, de la place de l'église, on le décapait à la pelle mécanique, par bandes. La nuit, les camions roulaient avec leurs projecteurs, et la vallée était pleine de lumière jaune, de poussière et de cris de contremaîtres. Les maisons restaient debout, avec leurs volets, leurs numéros peints à la chaux, qu'on abattrait en septembre."
     },
     {
      "t": "p",
@@ -14562,7 +14562,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle le regarda mieux. Un homme de quarante ans, peut-être, au visage épais et doux, avec des mains de paysan. Il disait « merci » à tout le monde. Il avait salué un manœuvre qui avait fait tomber sa pelle. Quand il parlait aux gardes, il les appelait « messieurs ». Il n'avait pas l'air d'un homme qui commande."
+     "s": "Elle le regarda mieux. Un homme d'une trentaine d'années, qui en paraissait quarante, au visage épais et doux, avec des mains de paysan. Il disait « merci » à tout le monde. Il avait salué un manœuvre qui avait fait tomber sa pelle. Quand il parlait aux gardes, il les appelait « messieurs ». Il n'avait pas l'air d'un homme qui commande."
     },
     {
      "t": "p",
@@ -14686,7 +14686,7 @@ window.BOOK = {
      "s": "Elle résolut de ne rien faire de l'un ni de l'autre."
     }
    ],
-   "words": 1359,
+   "words": 1362,
    "tome": 2
   },
   {
@@ -14716,7 +14716,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle l'élevait seule, et elle l'élevait mal,: par excès de silence. Elle travaillait trop. Elle rentrait tard de l'agence de l'eau, avec des dossiers sous le bras, des cernes violets, une fatigue qui ressemblait à de la colère. Hélène gardait la petite. Hélène vieillissait. Elle avait soixante-sept ans à la naissance d'Iris, et le thé noir lui tremblait dans les mains."
+     "s": "Elle l'élevait seule, et elle l'élevait mal : par excès de silence. Elle travaillait trop. Elle rentrait tard de l'agence de l'eau, avec des dossiers sous le bras, des cernes violets, une fatigue qui ressemblait à de la colère. Hélène gardait la petite. Hélène vieillissait. Elle avait soixante-sept ans à la naissance d'Iris, et le thé noir lui tremblait dans les mains."
     },
     {
      "t": "p",
@@ -14876,7 +14876,7 @@ window.BOOK = {
      "s": "Ce fut son premier vrai mensonge. Elle en garda un goût de craie dans la bouche, pendant des années."
     }
    ],
-   "words": 1222,
+   "words": 1223,
    "tome": 2
   },
   {
@@ -15008,7 +15008,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "C'était une promesse d'enfant, faite avec cette gravité qu'ont les enfants pour dire des choses qu'ils ne savent pas. Sophia la reçut. Elle le garda."
+     "s": "C'était une promesse d'enfant, faite avec cette gravité qu'ont les enfants pour dire des choses qu'ils ne savent pas. Sophia la reçut. Elle la garda."
     },
     {
      "t": "p",
@@ -15920,7 +15920,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Rose, au lavoir, avait lâché son linge. Elle regardait la route d'un air stupide,. Iris, au fond d'elle, se tint tranquille, de peur d'être trahie par le visage."
+     "s": "Rose, au lavoir, avait lâché son linge. Elle regardait la route d'un air stupide. Iris, au fond d'elle, se tint tranquille, de peur d'être trahie par le visage."
     },
     {
      "t": "p",
@@ -16624,7 +16624,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Ce n'était pas une pensée de Rose. C'était une phrase à l'envers, étrangère, que Rose ne comprit pas, et qu'elle oublia aussitôt,."
+     "s": "Ce n'était pas une pensée de Rose. C'était une phrase à l'envers, étrangère, que Rose ne comprit pas, et qu'elle oublia aussitôt."
     },
     {
      "t": "hr"
@@ -16787,7 +16787,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il lut les aveux. Ils étaient courts, fautifs, évidents : un homme qui s'accuse parce qu'on lui a demandé un coupable. Il ne les crut pas. Il avait vu Roch travailler, de loin, depuis juin : un grand garçon taciturne, qui sifflait en soulevant les poutres, qui s'excusait quand il faisait tomber un outil. On ne fait pas des boulons de six à douze, avec précision, dans l'ombre, quand on s'excuse d'un outil tombé."
+     "s": "Il lut les aveux. Ils étaient courts, fautifs, évidents : un homme qui s'accuse parce qu'on lui a demandé un coupable. Il ne les crut pas. Il avait vu Roch travailler, de loin, depuis juin : un grand garçon taciturne, qui sifflait en soulevant les poutres, qui s'excusait quand il faisait tomber un outil. On ne dévisse pas, avec précision, dans l'ombre, six boulons sur douze, quand on s'excuse d'un outil tombé."
     },
     {
      "t": "p",
@@ -16921,7 +16921,7 @@ window.BOOK = {
      "s": "*Le crayon est trop tendre. Je repasserai à l'encre.*"
     }
    ],
-   "words": 1158,
+   "words": 1156,
    "tome": 2
   },
   {
@@ -17520,7 +17520,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle ne le comprit pas d'un seul coup. Elle le comprit en trois temps,. *La règle est fausse.* *Il le savait.* *Il m'a laissée la croire.* Le dernier temps fut le plus long. Elle ne sentit pas la colère. Elle sentit un effondrement, plus froid, plus lent, très calme : un mur dont on découvre qu'il n'a jamais eu de fondations."
+     "s": "Elle ne le comprit pas d'un seul coup. Elle le comprit en trois temps. *La règle est fausse.* *Il le savait.* *Il m'a laissée la croire.* Le dernier temps fut le plus long. Elle ne sentit pas la colère. Elle sentit un effondrement, plus froid, plus lent, très calme : un mur dont on découvre qu'il n'a jamais eu de fondations."
     },
     {
      "t": "p",
@@ -18262,7 +18262,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle ne l'avait pas décidé comme une autre aurait décidé de partir en voyage. Elle l'avait décidé: en se disant, à chaque gorgée, qu'on s'arrêterait à la suivante. Le matin de la porte, Rose dormait encore, et Iris se leva, s'habilla, trouva dans l'armoire la robe du dimanche, une toile bleue à petits boutons, qu'elle brossa du plat de la main. Elle se coiffa : les cheveux ras n'avaient pas besoin de peigne. Elle regarda dans le miroir fêlé le visage de Rose, et le trouva plus grave qu'il ne devait l'être."
+     "s": "Elle ne l'avait pas décidé comme une autre aurait décidé de partir en voyage. Elle l'avait décidé comme on boit : en se disant, à chaque gorgée, qu'on s'arrêterait à la suivante. Le matin de la porte, Rose dormait encore, et Iris se leva, s'habilla, trouva dans l'armoire la robe du dimanche, une toile bleue à petits boutons, qu'elle brossa du plat de la main. Elle se coiffa : les cheveux ras n'avaient pas besoin de peigne. Elle regarda dans le miroir fêlé le visage de Rose, et le trouva plus grave qu'il ne devait l'être."
     },
     {
      "t": "p",
@@ -18443,7 +18443,7 @@ window.BOOK = {
      "s": "Elle revint trois heures trop tard."
     }
    ],
-   "words": 1102,
+   "words": 1106,
    "tome": 2
   },
   {
@@ -18853,7 +18853,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "L'enfant vint à l'aube. Il ne cria pas. Il ouvrit les yeux, qui étaient gris, d'un gris de glaise, d'un gris de lac, très attentifs. Étienne le prit. Il le tint contre lui une seconde de trop. Il le regarda. Elle vit qu'il s'était immobilisé, qu'il avait cessé de respirer."
+     "s": "L'enfant vint vers trois heures, au plus noir de la nuit. Il ne cria pas. Il ouvrit les yeux, qui étaient gris, d'un gris de glaise, d'un gris de lac, très attentifs. Étienne le prit. Il le tint contre lui une seconde de trop. Il le regarda. Elle vit qu'il s'était immobilisé, qu'il avait cessé de respirer."
     },
     {
      "t": "p",
@@ -18891,7 +18891,7 @@ window.BOOK = {
      "s": "Il ne mentait pas. Il ne disait pas tout."
     }
    ],
-   "words": 1513,
+   "words": 1520,
    "tome": 2
   },
   {
@@ -18937,7 +18937,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il avait eu peur. Il avait eu peur qu'elle parte, qu'elle comprenne, qu'elle le haïsse. Il avait eu peur de la perdre avant de l'avoir eue. Il avait choisi, par pudeur, de rester le médecin, l'ami, le vieil homme qui prête une chambre. Il lui avait appris les gestes. Il lui avait donné des conseils. Il lui avait offert, un soir de décembre, une blouse blanche, avec un écusson brodé. Il avait attendu qu'elle le remarque. Elle l'avait remarqué. Elle avait dit : « Merci, docteur. » Il avait eu les larmes aux yeux."
+     "s": "Il avait eu peur. Il avait eu peur qu'elle parte, qu'elle comprenne, qu'elle le haïsse. Il avait eu peur de la perdre avant de l'avoir eue. Il avait choisi, par pudeur, de rester le médecin, l'ami, le vieil homme qui prête une chambre. Il lui avait appris les gestes. Il lui avait donné des conseils. Il lui avait offert, un matin de janvier, une blouse blanche, avec un écusson brodé. Il avait attendu qu'elle le remarque. Elle l'avait remarqué. Elle avait dit : « Merci, docteur. » Il avait eu les larmes aux yeux."
     },
     {
      "t": "p",
@@ -19301,7 +19301,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Aujourd'hui, ça fait cinquante-deux, dit Étienne en ouvrant la porte du bureau."
+     "s": "— Aujourd'hui, ça fait cinquante-quatre, dit Étienne en ouvrant la porte du bureau."
     },
     {
      "t": "p",
@@ -19931,7 +19931,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Rose ferma les yeux. Elle se fendit, très bas, dans sa poitrine, qui n'était pas de la peur."
+     "s": "Rose ferma les yeux. Quelque chose se fendit, très bas, dans sa poitrine, qui n'était pas de la peur."
     },
     {
      "t": "p",
@@ -19955,7 +19955,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "*Non. C'est ma mère. Moi, je suis la fille de sa fille.*"
+     "s": "*Oui. La fille de sa fille.*"
     },
     {
      "t": "p",
@@ -20046,7 +20046,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elles s'entendirent: par règlement."
+     "s": "Elles s'entendirent comme s'entendent deux voisines de palier : par règlement."
     },
     {
      "t": "p",
@@ -20168,7 +20168,7 @@ window.BOOK = {
      "s": "Iris sourit, au fond d'elle. Elle sentit que cela valait mieux que ce qu'elle avait espéré."
     }
    ],
-   "words": 1674,
+   "words": 1676,
    "tome": 2
   },
   {
@@ -20250,7 +20250,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il ne bougea pas. Elle continua, très vite,:"
+     "s": "Il ne bougea pas. Elle continua, très vite :"
     },
     {
      "t": "p",
@@ -20300,7 +20300,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Rose l'avait trompé. Il le comprit: en deux temps, d'abord le mot, puis, beaucoup plus tard, le poids."
+     "s": "Rose l'avait trompé. Il le comprit comme on comprend une dette : en deux temps, d'abord le mot, puis, beaucoup plus tard, le poids."
     },
     {
      "t": "p",
@@ -20324,7 +20324,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle parlait à l'autre. Qu'elle ne la chassait pas. Qu'elle lui offrait, avec une hospitalité de paysanne, de rester. Il se rendit compte qu'il pleurait."
+     "s": "Elle parlait à l'autre. Il comprit qu'elle ne la chassait pas. Qu'elle lui offrait, avec une hospitalité de paysanne, de rester. Il se rendit compte qu'il pleurait."
     },
     {
      "t": "p",
@@ -20359,7 +20359,7 @@ window.BOOK = {
      "s": "Quelqu'un, au fond d'elle, murmura le dernier mot avec eux."
     }
    ],
-   "words": 1092,
+   "words": 1101,
    "tome": 2
   },
   {
@@ -21717,7 +21717,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Je ne sais pas qui tu es, dit-il. Je sais que tu m'appelles « père » avec une tendresse que ni l'un ni l'autre n'avons méritée. Je sais que tu as gardé mon fils vivant, d'une certaine façon. Je sais que tu es gentil avec Madame Aubert. Je sais que tu m'as visité, il y a, la nuit, et que tu m'as laissé dormir. Je ne sais pas si je dois te remercier ou te maudire."
+     "s": "— Je ne sais pas qui tu es, dit-il. Je sais que tu m'appelles « père » avec une tendresse que ni l'un ni l'autre n'avons méritée. Je sais que tu as gardé mon fils vivant, d'une certaine façon. Je sais que tu es gentil avec Madame Aubert. Je sais que tu es venu me voir, certaines nuits, il y a des années, et que tu m'as laissé dormir. Je ne sais pas si je dois te remercier ou te maudire."
     },
     {
      "t": "hr"
@@ -21823,7 +21823,7 @@ window.BOOK = {
      "s": "Il mourut en mars. On le trouva dans son fauteuil, face à la baie, un petit caillou blanc serré dans la main."
     }
    ],
-   "words": 1025,
+   "words": 1029,
    "tome": 2
   },
   {
@@ -23912,7 +23912,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle n'avait pas osé l'appeler. Elle l'avait fait, pourtant, tout au fond d'elle,. Elle avait senti une présence, très proche, qui se levait, qui s'approchait, qui la regardait avec une attention grave, un peu moqueuse. La voix était venue du fond de ses os, brusque, sèche, sans tendresse."
+     "s": "Elle n'avait pas osé l'appeler. Elle l'avait fait, pourtant, tout au fond d'elle. Elle avait senti une présence, très proche, qui se levait, qui s'approchait, qui la regardait avec une attention grave, un peu moqueuse. La voix était venue du fond de ses os, brusque, sèche, sans tendresse."
     },
     {
      "t": "p",
@@ -24205,7 +24205,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il ne dit pas cela. Il dit,:"
+     "s": "Il ne dit pas cela. Il dit :"
     },
     {
      "t": "p",
@@ -24228,7 +24228,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Quand elle partit, il resta debout, la lampe de poche éteinte dans sa main vide, à regarder le chemin par lequel elle s'était éloignée. Il ne l'avait plus. Il la lui avait donnée. Il ne savait plus pourquoi. Il avait pensé : *il fait noir.* Il avait pensé : *elle en a besoin.* Il avait pensé, plus profondément : *je dois lui laisser quelque chose.*"
+     "s": "Quand elle partit, il resta debout, la main vide, à regarder le chemin par lequel elle s'était éloignée. Il ne l'avait plus. Il la lui avait donnée. Il ne savait plus pourquoi. Il avait pensé : *il fait noir.* Il avait pensé : *elle en a besoin.* Il avait pensé, plus profondément : *je dois lui laisser quelque chose.*"
     },
     {
      "t": "p",
@@ -24259,7 +24259,7 @@ window.BOOK = {
      "s": "Il resta là. Il mesura jusqu'à l'aube."
     }
    ],
-   "words": 997,
+   "words": 992,
    "tome": 2
   },
   {
@@ -24607,7 +24607,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Jean, derrière elle, se pencha sur le seuil. Il ramassa la petite lampe, qui brillait encore. Il l'éteignit, la glissa dans sa poche, sans un mot, et referma la porte sans la fermer à clé. Il se rappela la nuit où il était rentré trois heures plus tôt que d'ordinaire. Il se rappela une voix qui ne ressemblait pas à celle de sa femme. Il se rappela qu'il avait eu peur, qu'il avait pris sa main, qu'il l'avait gardée."
+     "s": "Jean, derrière elle, se pencha sur le seuil. Il ramassa la petite lampe, qui brillait encore. Il ne l'éteignit pas. Il la glissa dans sa poche, sans un mot, et referma la porte sans la fermer à clé. Plus tard, au Haut, il la poserait sur le paillasson, allumée, tournée vers le bas, comme on laisse une lumière dans l'entrée pour quelqu'un qui rentre tard. Il ne saurait pas pourquoi. Il ne le dirait jamais à Rose, qui la trouverait là et la garderait toute sa vie. Il se rappela la nuit où il était rentré trois heures plus tôt que d'ordinaire. Il se rappela une voix qui ne ressemblait pas à celle de sa femme. Il se rappela qu'il avait eu peur, qu'il avait pris sa main, qu'il l'avait gardée."
     },
     {
      "t": "hr"
@@ -24728,7 +24728,7 @@ window.BOOK = {
      "s": "Elle sut aussi, avec la sûreté de ceux qui ont connu quelqu'un, que celle qui dormait désormais au fond d'elle ne parlerait plus."
     }
    ],
-   "words": 1209,
+   "words": 1261,
    "tome": 2
   },
   {
@@ -29625,15 +29625,15 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il y eut, en novembre 2026, la fermeture du laboratoire."
+     "s": "Il y eut, le 14 novembre 2026, l'extraction."
     },
     {
      "t": "p",
-     "s": "Il la regarda, de l'intérieur, avec cette lucidité froide qu'il avait toujours eue pour les catastrophes qu'il connaissait. Il vit les hommes en orange partir, les bacs vidés, les chaînes coupées. Il signa des papiers. Il vendit le terrain. Il licencia quarante personnes. Ménard lui serra la main, les larmes aux yeux : « Vous avez été un bon directeur, monsieur Kerr. » Il dit merci. Il pensa : *je n'ai rien fait pour le mériter.*"
+     "s": "Dans ce tour-là, personne ne coula de béton dans la galerie. Ménard n'eut pas de raison de le faire : personne ne lui avait annoncé un chiffre sur un piézomètre. Kerr regarda, de l'intérieur du directeur, les hommes de l'équipe suisse découper la paroi par blocs, avec la gangue de vase, emballer le nœud dans des caisses capitonnées, charger les caisses dans deux camionnettes blanches. Rien ne se brisa. Il le savait d'avance, et il eut quand même les mains moites jusqu'au soir. Il signa les bordereaux. Il regarda les camionnettes s'engager dans le tunnel, vers Genève."
     },
     {
      "t": "p",
-     "s": "Il vit Léthé se dissoudre, puis renaître sous un autre nom, à Genève, avec les bacs, le gisement, les brevets. Il vit un jeune homme, très ambitieux, un certain Marchand, prendre la tête des opérations. Il vit les premières pilules sortir des chaînes, vers 2030, sous le nom de *Léthé Doux*. Il vit un jeune chercheur en blouse blanche, avec une moustache, lui apporter un échantillon, dans son bureau. Le jeune chercheur disait : « C'est révolutionnaire. Ça efface la douleur. »"
+     "s": "Il vit ensuite la Fondation grandir. Le gisement revint à Vallorce par petites caisses, trois ans plus tard, quand on eut construit au bord du lac un laboratoire neuf, plus grand, en verre. Il vit Bastien devenir, aux yeux de tous, le patron de Léthé, et la grande maison blanche sur la place devenir la sienne. Il vit un technicien ambitieux, un certain Marchand, monter en grade. Il vit les premières pilules sortir des chaînes, vers 2030, sous le nom de *Léthé Doux*. Il vit un jeune chercheur en blouse blanche, avec une moustache, lui apporter un échantillon, dans son bureau. Le jeune chercheur disait : « C'est révolutionnaire. Ça efface la douleur. »"
     },
     {
      "t": "p",
@@ -29725,7 +29725,7 @@ window.BOOK = {
      "s": "Il se l'interdit comme on s'interdit de boire : un jour après l'autre."
     }
    ],
-   "words": 829,
+   "words": 880,
    "tome": 3
   },
   {
@@ -29919,158 +29919,52 @@ window.BOOK = {
   },
   {
    "id": "t3-15d-la-lettre-jamais-postee",
-   "n": 22,
-   "label": "Chapitre 22",
+   "n": 0,
+   "label": "Chapitre 0",
    "title": "La lettre jamais postée",
    "blocks": [
     {
      "t": "p",
-     "s": "*Lyon, puis Vallorce, décembre 2045.*"
+     "s": "*Vallorce, 12 décembre 2045.*"
     },
     {
      "t": "p",
-     "s": "Elle trouva la lettre le soir de l'enterrement, dans le tiroir de la table de nuit, sous une boîte de pastilles et un chapelet qui n'était pas à sa mère."
+     "s": "Étienne Marle avait soixante-cinq ans, et il ne recevait plus personne après six heures."
     },
     {
      "t": "p",
-     "s": "C'était le 5 décembre 2045. Sophia était morte le 2, à cinquante-sept ans, dans la chambre au fond du couloir, d'une chose que les médecins nommaient *insuffisance*, sans dire de quoi. Elle avait demandé un enterrement très simple. Il y avait eu six personnes, une pluie fine, un prêtre qui avait lu un psaume qu'elle n'aimait pas. Iris avait tenu la main d'une voisine pour ne pas avoir à tenir la sienne. Elle avait dix-huit ans."
+     "s": "Il l'avait décidé l'hiver précédent, quand ses genoux avaient commencé à lui faire payer les escaliers. Il fermait le cabinet à dix-huit heures, accrochait la blouse au clou, éteignait la lampe de la salle d'attente, celle où il n'y avait toujours pas d'horloge. Il montait à pied jusqu'à la maison de l'impasse, faisait chauffer de l'eau, et lisait jusqu'à neuf heures dans le fauteuil de cuir. Il avait renoncé à se demander pourquoi il gardait, sur le rebord de la fenêtre de la cuisine, une paire de gants de jardinage qui ne servait plus depuis vingt-six ans."
     },
     {
      "t": "p",
-     "s": "Elle était revenue à l'appartement, au troisième étage, rue des Tanneurs. Elle avait posé ses clés, son manteau. Elle avait fait le tour des pièces, une à une, comme on visite un lieu qu'on n'a jamais vu. Le salon, avec le canapé jaune, la bibliothèque, l'encrier de verre. La cuisine, avec la petite table, le calendrier de la poste, l'odeur de café froid. La chambre de sa mère."
+     "s": "Ce soir-là, il neigeait. C'était la première neige."
     },
     {
      "t": "p",
-     "s": "Elle s'assit sur le lit. Elle ouvrit le tiroir. Elle n'avait pas de raison de le faire : elle cherchait un mouchoir."
+     "s": "On sonna à dix-huit heures vingt, alors qu'il venait de tourner la clé."
     },
     {
      "t": "p",
-     "s": "Il y avait une enveloppe."
-    },
-    {
-     "t": "p",
-     "s": "Elle était jaunie, froissée aux angles, très mince. Elle portait, d'une encre bleue qu'Iris reconnut à l'instant, un nom, une adresse : *Étienne Marle, médecin, rue de l'Église, Vallorce.* Le timbre n'avait pas été collé. L'enveloppe n'avait pas été fermée. En haut, à gauche, la date : *16 novembre 2026.*"
-    },
-    {
-     "t": "p",
-     "s": "Elle resta immobile."
-    },
-    {
-     "t": "p",
-     "s": "Elle avait appris, enfant, que sa mère n'avait jamais parlé de son père. Elle avait demandé une fois, vers six ans, où il était. Sa mère avait répondu : « Loin. » Elle avait demandé : « Il est mort ? » Sa mère avait dit : « Je ne sais pas. » Elle n'avait plus jamais posé la question. Elle avait compris, par le silence, que c'était une plaie."
-    },
-    {
-     "t": "p",
-     "s": "Elle prit l'enveloppe. Elle la retourna. Elle en tira une feuille, pliée en deux."
+     "s": "Il faillit ne pas ouvrir. Il entendit la sonnette une seconde fois, plus brève, plus timide, comme une question qu'on n'ose pas répéter. Il remit la clé dans la serrure."
     },
     {
      "t": "hr"
     },
     {
      "t": "p",
-     "s": "*Étienne,*"
+     "s": "Elle se tenait sur le seuil, sous la lampe de la rue, avec de la neige sur les épaules."
     },
     {
      "t": "p",
-     "s": "*Je ne sais pas si je t'écris ou si je me parle. Je ne sais plus faire la différence depuis un mois.*"
+     "s": "Elle avait dix-huit ans, ou peut-être un peu plus. Un manteau noir trop grand, un sac de voyage à la main, les cheveux tirés en arrière. Elle avait un front trop grand, des sourcils droits, une bouche qui ne se décidait pas à parler. Et au coin de la paupière gauche, minuscule, un grain de beauté qu'il fallait regarder de près pour le voir."
     },
     {
      "t": "p",
-     "s": "*Je suis partie pour Lyon il y a trois semaines, sans te le dire. Je ne veux pas que tu viennes. Je ne veux pas que tu m'appelles. Je veux que tu restes à Vallorce, avec ton fils, avec tes malades, avec tout ce que tu as de vrai. Je ne suis pas ce que tu crois. Je suis quelqu'un d'abîmé, qui a peur de ce qui est en elle.*"
+     "s": "Il le vit."
     },
     {
      "t": "p",
-     "s": "*Je suis enceinte.*"
-    },
-    {
-     "t": "p",
-     "s": "*Je ne te l'ai pas dit. Je l'ai appris ce matin, par un test, dans une salle de bains qui n'est pas la mienne. Je ne sais pas comment cela est arrivé. Je sais que c'est de toi. Je sais que nous n'avons jamais été ensemble, que je me souviens de trois nuits, que ces trois nuits sont pleines de trous. Je sais que ce n'est pas normal. Je sais que tu ne te souviendras de rien non plus : la dernière fois que je t'ai vu, tu m'as parlé de lentilles trop salées, et tu ne savais pas pourquoi.*"
-    },
-    {
-     "t": "p",
-     "s": "*Je veux garder cet enfant.*"
-    },
-    {
-     "t": "p",
-     "s": "*Je ne veux pas que tu le saches. Je ne veux pas que tu me retrouves. Je veux qu'elle grandisse loin de tout cela, de ce lac, de ce laboratoire, de cette chose qui a mangé ma vie. Je veux qu'elle soit simplement une enfant.*"
-    },
-    {
-     "t": "p",
-     "s": "*Je t'écris cette lettre, et je ne la posterai pas. Je la garderai. Un jour, peut-être, quand elle sera grande, quand je serai morte, elle la lira. Elle saura. Elle ira te voir, si elle en a envie. Elle aura le droit de te détester.*"
-    },
-    {
-     "t": "p",
-     "s": "*Dis-lui seulement qu'elle a été désirée.*"
-    },
-    {
-     "t": "p",
-     "s": "*Dis-lui que j'ai eu peur, et que j'ai gardé.*"
-    },
-    {
-     "t": "p",
-     "s": "*Sophia.*"
-    },
-    {
-     "t": "p",
-     "s": "*P.-S. Si tu te souviens un jour de ces trois nuits, souviens-toi aussi qu'il y avait quelqu'un d'autre que nous dans la pièce. Je ne sais pas qui. Je sais seulement qu'elle nous aimait.*"
-    },
-    {
-     "t": "hr"
-    },
-    {
-     "t": "p",
-     "s": "Iris relut la lettre trois fois. Puis elle la posa sur le lit, à côté d'elle. Elle regarda ses mains. Elles ne tremblaient pas."
-    },
-    {
-     "t": "p",
-     "s": "Elle pensa : *ma mère m'a menti.*"
-    },
-    {
-     "t": "p",
-     "s": "Elle pensa, dans la même seconde : *non. Elle m'a protégée.*"
-    },
-    {
-     "t": "p",
-     "s": "C'était une chose qu'elle ne savait pas encore faire, de ne pas choisir entre les deux. Elle se leva. Elle alla à la fenêtre. Il pleuvait toujours. Les gouttes coulaient en rigoles le long du carreau, brouillant les lumières de la rue. Elle regarda sa propre silhouette dans la vitre : une jeune femme brune, un front trop grand, des sourcils droits. Elle y chercha un visage. Elle crut, un instant, y voir celui d'un homme qu'elle ne connaissait pas, très doux, très las, qui lui souriait."
-    },
-    {
-     "t": "p",
-     "s": "Elle porta la main à sa bouche."
-    },
-    {
-     "t": "p",
-     "s": "Elle comprit qu'elle pleurait. Elle pleurait, depuis le début de la lecture, sans bruit, sans effort, ainsi qu'on perd de l'eau par une fissure. Elle ne pleurait pas pour sa mère. Elle pleurait pour la jeune femme de 2026 qui avait écrit cela, seule, un soir de novembre, à une table de cuisine, avec un stylo à encre bleue."
-    },
-    {
-     "t": "p",
-     "s": "*Elle avait trente-huit ans,* pensa-t-elle. *Elle avait peur. Elle a gardé.*"
-    },
-    {
-     "t": "p",
-     "s": "*Je lui dois d'y aller.*"
-    },
-    {
-     "t": "hr"
-    },
-    {
-     "t": "p",
-     "s": "Elle prit le train le lendemain, de la gare de Perrache, par un matin gris. Elle n'avait emporté qu'un sac. Elle avait mis la lettre dans la poche intérieure de son manteau, contre la poitrine. Elle regardait défiler, par la fenêtre, des champs trempés, des villages endormis, des rivières grises."
-    },
-    {
-     "t": "p",
-     "s": "Elle ne savait pas ce qu'elle allait dire. Elle avait pensé à plusieurs phrases. *Bonjour, je suis la fille de Sophia Varenne.* *Vous ne me connaissez pas.* *J'ai quelque chose pour vous.* Elles lui paraissaient toutes absurdes. Elle se dit qu'elle aviserait."
-    },
-    {
-     "t": "p",
-     "s": "Elle descendit à Vallorce à quinze heures. Le village était blanc de brume. Elle marcha, entre des maisons aux volets fermés, jusqu'à la rue de l'Église. Elle s'arrêta devant une porte à vitrage dépoli, avec une plaque de cuivre : *Docteur Étienne Marle.* Elle resta là, longtemps, la main levée, sans oser sonner."
-    },
-    {
-     "t": "p",
-     "s": "La porte s'ouvrit."
-    },
-    {
-     "t": "p",
-     "s": "Un vieil homme apparut, en blouse, une sacoche à la main. Il avait soixante-cinq ans, des cheveux gris, une cicatrice au-dessus du sourcil. Il s'arrêta net. Il regarda la jeune fille, immobile sur le seuil. Il ne dit rien. Il se tint là, la bouche entrouverte, le visage soudain très pâle."
+     "s": "Il ne sut jamais pourquoi il le vit tout de suite. Il savait seulement que, de tous les visages qu'il avait regardés en quarante ans de cabinet, il n'en avait jamais connu aucun aussi vite. Il sentit ses mains devenir froides. Il pensa, absurdement : *elle a pris le train.*"
     },
     {
      "t": "p",
@@ -30078,51 +29972,105 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Je sais, dit-il."
+     "s": "— Entrez, dit-il. Vous êtes gelée."
     },
     {
      "t": "p",
-     "s": "— Vous ne me connaissez pas."
+     "s": "Elle entra. Il la fit asseoir dans la salle d'attente, près du radiateur. Il ralluma la lampe. Il ne remit pas sa blouse. Il alla dans la petite cuisine du cabinet et fit chauffer du lait, parce qu'il n'y avait que du lait, et du chocolat en poudre, qu'il gardait pour les enfants qui pleuraient après un vaccin. Il lui apporta la tasse. Elle la prit à deux mains."
     },
     {
      "t": "p",
-     "s": "— Non."
+     "s": "Il s'assit en face, sur une chaise de bois. Il ne lui demanda rien. Il attendit, comme il attendait les patients qui ne savent pas par où commencer."
     },
     {
      "t": "p",
-     "s": "— Alors comment…"
+     "s": "Elle but une gorgée. Elle posa la tasse. Elle sortit de sa poche une enveloppe."
+    },
+    {
+     "t": "hr"
     },
     {
      "t": "p",
-     "s": "— Je ne sais pas, dit Étienne."
+     "s": "C'était une enveloppe blanche, jaunie, déchirée sur le côté. Son nom y était écrit, à l'encre bleue, d'une écriture penchée qu'il reconnut avant même de l'avoir lue. *Docteur Étienne Marle, place de l'église, Vallorce.*"
     },
     {
      "t": "p",
-     "s": "Il fit un pas en arrière. Il tint la porte ouverte, d'une main un peu tremblante. Il dit, d'une voix qu'elle n'oublierait jamais :"
+     "s": "Il la prit. Il en tira une feuille, une seule."
     },
     {
      "t": "p",
-     "s": "— Entrez. Vous êtes gelée."
+     "s": "*Pardon de ne pas t'avoir attendu. Je ne sais pas ce qui s'est passé. Ne me cherche pas.*"
     },
     {
      "t": "p",
-     "s": "Elle entra."
+     "s": "Et en bas : *novembre 2026.*"
     },
     {
      "t": "p",
-     "s": "Il la fit asseoir dans la salle d'attente, près d'un radiateur. Il lui apporta une tasse de chocolat chaud, qu'elle prit à deux mains. Il s'assit en face, sur une chaise de bois, très droit. Il la regardait. Il ne lui demanda rien. Il attendit."
+     "s": "Il lut les trois lignes. Il les relut. Il resta un long moment immobile, la feuille entre les doigts, sans rien dire. Il pensait à un automne dont il ne gardait presque rien : un mois troué, des nuits blanches, une odeur de lentilles, une femme qui écrivait à l'encre bleue et qui était partie un matin de la fin octobre sans un mot. Il avait appelé quarante et une fois. Il avait cru qu'elle le fuyait. Il s'était dit, pendant dix-neuf ans, qu'il avait dû faire quelque chose. Il ne savait pas quoi."
     },
     {
      "t": "p",
-     "s": "Elle tira la lettre de son manteau. Elle la lui tendit."
+     "s": "*Je ne sais pas ce qui s'est passé.*"
     },
     {
      "t": "p",
-     "s": "Il la lut debout, devant la fenêtre, le dos tourné. Elle ne vit pas son visage. Elle vit seulement ses épaules, qui tremblaient. Quand il se retourna, il avait les yeux rouges. Il dit :"
+     "s": "Elle non plus."
     },
     {
      "t": "p",
-     "s": "— Elle était très belle."
+     "s": "Il eut, d'un coup, un rire très bref, qui lui fit mal à la poitrine. Il porta la main à sa bouche."
+    },
+    {
+     "t": "p",
+     "s": "— Elle est morte ? dit-il."
+    },
+    {
+     "t": "p",
+     "s": "— Le 2 décembre."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne savais pas."
+    },
+    {
+     "t": "p",
+     "s": "— Personne ne savait. Il y avait onze personnes à l'enterrement."
+    },
+    {
+     "t": "p",
+     "s": "Il hocha la tête. Il replia la feuille, très lentement, sur ses plis anciens. Il la remit dans l'enveloppe. Il ne la rendit pas tout de suite. Il la garda sur ses genoux, sous sa main à plat."
+    },
+    {
+     "t": "p",
+     "s": "— Elle ne me l'a jamais envoyée, dit-il."
+    },
+    {
+     "t": "p",
+     "s": "— Non. Elle était dans le tiroir de la cuisine, sous la ficelle."
+    },
+    {
+     "t": "p",
+     "s": "— Pourquoi vous me l'apportez ?"
+    },
+    {
+     "t": "p",
+     "s": "La jeune fille regarda la tasse. Elle chercha ses mots. Elle dit enfin, d'une voix sèche, chiffrée, qui ressemblait tant à une autre qu'il dut détourner les yeux :"
+    },
+    {
+     "t": "p",
+     "s": "— Parce que c'est la seule chose qu'elle a laissée qui ne soit pas un relevé de lac."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Il y eut un silence. Dehors, la neige tombait sur la place, dans le halo du lampadaire. Un chat passa, laissa des traces, disparut."
+    },
+    {
+     "t": "p",
+     "s": "— Vous êtes sa fille, dit Étienne."
     },
     {
      "t": "p",
@@ -30130,23 +30078,39 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Elle me détestait un peu."
+     "s": "— Vous avez quel âge ?"
     },
     {
      "t": "p",
-     "s": "— Non, dit Iris. Elle avait peur."
+     "s": "— Dix-huit ans. Née le 9 juillet 2027, à Lyon."
     },
     {
      "t": "p",
-     "s": "— C'est pareil, dit Étienne, avec un petit rire. Quand on est vieux, c'est pareil."
+     "s": "Il fit le calcul sans le vouloir. Il était médecin. Il le fit de la façon la plus bête, sur ses doigts, sous la table, comme un écolier. Octobre. Juillet. Il s'arrêta avant d'arriver au bout. Il referma la main."
     },
     {
      "t": "p",
-     "s": "Il vint se rasseoir. Il prit sa main, dans la sienne, sans façon, à la façon dont on le fait à une patiente. Il la garda, un instant. Il dit :"
+     "s": "— Elle vous a dit qui était votre père ?"
     },
     {
      "t": "p",
-     "s": "— Je ne sais pas ce que je suis pour toi."
+     "s": "— Elle m'a dit qu'elle ne le savait pas. Qu'il y avait eu un homme, à la montagne. Qu'elle l'aimait. Qu'elle avait eu peur d'elle-même."
+    },
+    {
+     "t": "p",
+     "s": "Étienne ne répondit pas. Il regarda les mains de la jeune fille, autour de la tasse. Elle tenait l'anse entre le pouce et le majeur, d'une façon bizarre que personne n'apprend. Il connaissait ce geste. Il ne savait pas d'où."
+    },
+    {
+     "t": "p",
+     "s": "Il aurait pu dire : *c'est peut-être moi.* Il aurait pu dire : *je ne sais pas non plus.* Il aurait pu lui raconter le mois troué, les nuits, une maternité de Lyon où il s'était réveillé pieds nus, un matin de juillet, avec un nouveau-né dans les bras, sans savoir comment il y était venu. Il ne l'avait jamais raconté à personne. Il avait fini par croire qu'il l'avait rêvé."
+    },
+    {
+     "t": "p",
+     "s": "Il ne dit rien de tout cela. Il pensa que cette enfant venait d'enterrer sa mère, qu'elle avait pris un train dans la neige pour rapporter trois lignes à un inconnu, et qu'on ne dépose pas, sur une jeune fille de dix-huit ans, le poids d'un rêve."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne sais pas ce que je suis pour vous, dit-il."
     },
     {
      "t": "p",
@@ -30158,7 +30122,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Vous êtes le monsieur de la lettre, dit Iris."
+     "s": "— Vous êtes le monsieur de la lettre, dit-elle."
     },
     {
      "t": "p",
@@ -30166,30 +30130,77 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Je n'ai nulle part où aller."
+     "s": "Elle eut un sourire, minuscule, de travers, qui ne dura pas."
     },
     {
      "t": "p",
-     "s": "— Alors tu restes, dit-il."
+     "s": "— Je n'ai nulle part où aller, dit-elle. Je ne sais pas pourquoi je suis venue ici plutôt qu'ailleurs. Je ne connais personne dans cette vallée. Ma grand-mère m'a fait promettre de ne jamais y venir."
     },
     {
      "t": "p",
-     "s": "Elle le regarda. Elle vit un vieil homme, des yeux fatigués, une bonté sans emphase. Elle vit, derrière lui, comme à travers une vitre, un autre visage, plus jeune, plus dur, qui avait aimé une femme pendant trente-quatre nuits et qui ne s'en souvenait pas."
+     "s": "— Alors pourquoi vous êtes là ?"
     },
     {
      "t": "p",
-     "s": "Elle comprit qu'elle venait de trouver quelqu'un."
+     "s": "— Parce qu'elle m'a dit aussi, en mourant, de venir quand il le faudrait."
     },
     {
      "t": "p",
-     "s": "Elle ne dit pas merci. Elle serra seulement sa main, très fort. Il serra la sienne en retour. Ils restèrent ainsi, dans la salle d'attente vide, devant la tasse de chocolat qui fumait."
+     "s": "Étienne la regarda longtemps. Il pensa à une femme qui, dix-neuf ans plus tôt, avait écrit *ne me cherche pas* et ne l'avait pas envoyé. Il pensa qu'on n'écrit pas une phrase pareille à quelqu'un qu'on ne veut plus voir. On l'écrit à quelqu'un dont on a peur d'être retrouvé."
     },
     {
      "t": "p",
-     "s": "Il neigeait, dehors. C'était la première neige de l'hiver."
+     "s": "— Il y a une chambre, sous le toit, au-dessus du cabinet, dit-il. Elle est vide. Et j'ai besoin de quelqu'un, au cabinet. Mon infirmière est partie à la retraite en septembre. Vous savez faire un pansement ?"
+    },
+    {
+     "t": "p",
+     "s": "— J'ai soigné ma mère pendant trois ans."
+    },
+    {
+     "t": "p",
+     "s": "— Alors vous savez."
+    },
+    {
+     "t": "p",
+     "s": "— Vous ne me connaissez pas."
+    },
+    {
+     "t": "p",
+     "s": "— Non, dit Étienne. Alors vous restez."
+    },
+    {
+     "t": "p",
+     "s": "Elle le regarda. Elle ne dit pas merci. Elle serra seulement la tasse, un peu plus fort, entre ses mains."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Il monta lui-même son sac jusqu'à la chambre mansardée, celle qui donnait sur le clocher. Il alluma le radiateur. Il sortit des draps de l'armoire, qui sentaient la lavande et le placard. Il ne dit pas que c'était la chambre de Claire. Sur le seuil, la jeune fille se retourna."
+    },
+    {
+     "t": "p",
+     "s": "— Je m'appelle Iris, dit-elle."
+    },
+    {
+     "t": "p",
+     "s": "— Je sais, dit-il."
+    },
+    {
+     "t": "p",
+     "s": "Il ne sut pas pourquoi il avait dit cela. Elle non plus. Elle hocha la tête, comme si c'était normal, et ferma la porte."
+    },
+    {
+     "t": "p",
+     "s": "Il redescendit l'escalier. Il sortit sur la place, sans manteau, dans la neige. Devant la porte du cabinet, il s'arrêta. Il sortit de sa poche l'enveloppe, qu'il avait oublié de lui rendre. Il la regarda sous la lampe. Il la remit dans sa poche, contre sa poitrine."
+    },
+    {
+     "t": "p",
+     "s": "Il la garda vingt ans, dans le tiroir de son bureau, sous les ordonnances, avec les choses dont il ne savait pas pourquoi il les gardait."
     }
    ],
-   "words": 1450,
+   "words": 1432,
    "tome": 3
   },
   {
@@ -30424,7 +30435,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle ne l'avait dit à personne. Elle n'avait pas de raison de le dire. Elle vivait depuis sept mois dans une chambre au-dessus de la pharmacie, avec un lavabo, un réchaud, une fenêtre sur les toits. Elle travaillait chez Étienne, le médecin du bourg, qui l'avait engagée sans trop poser de questions, parce qu'elle savait faire un pansement, que sa mère venait de mourir, et qu'elle avait l'air d'une enfant qui n'aurait pas supporté d'être refusée. Elle soignait des genoux, des grippes, des vieux. Elle gardait les yeux baissés. Elle n'avait presque pas d'amis."
+     "s": "Elle ne l'avait dit à personne. Elle n'avait pas de raison de le dire. Elle vivait depuis sept mois dans la chambre mansardée au-dessus du cabinet, avec un lavabo, un réchaud, une fenêtre sur le clocher. Elle travaillait chez Étienne, le médecin du bourg, qui l'avait engagée sans trop poser de questions, parce qu'elle savait faire un pansement, que sa mère venait de mourir, et qu'elle avait l'air d'une enfant qui n'aurait pas supporté d'être refusée. Elle soignait des genoux, des grippes, des vieux. Elle gardait les yeux baissés. Elle n'avait presque pas d'amis."
     },
     {
      "t": "p",
@@ -30455,7 +30466,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il avait une montre, au poignet, qu'il consultait sans arrêt. Il arpentait les rues du bourg, les mains dans les poches, sans trouver de place où s'asseoir. Il s'arrêta devant la pharmacie, vers midi. Il vit sa fenêtre ouverte, un rideau qui battait. *Elle est là.* *Il faut que je monte.* Il pensa : *je n'ai rien à lui donner.*"
+     "s": "Il avait une montre, au poignet, qu'il consultait sans arrêt. Il arpentait les rues du bourg, les mains dans les poches, sans trouver de place où s'asseoir. Il s'arrêta devant le cabinet, vers midi. Il vit sa fenêtre ouverte, un rideau qui battait. *Elle est là.* *Il faut que je monte.* Il pensa : *je n'ai rien à lui donner.*"
     },
     {
      "t": "p",
@@ -30618,7 +30629,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Le soir, quand il redescendit, il croisa Étienne sur le trottoir. Le vieux médecin sortait de sa voiture, sa sacoche à la main. Il regarda le garçon. Il lui dit, après un temps :"
+     "s": "Le soir, quand il redescendit, il croisa Étienne dans l'escalier. Le vieux médecin rentrait d'une visite, sa sacoche à la main. Il regarda le garçon. Il lui dit, après un temps :"
     },
     {
      "t": "p",
@@ -30642,14 +30653,14 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il tapota l'épaule du garçon. Il entra dans la pharmacie. Théo resta un moment sur le trottoir, à regarder le ciel, qui rougissait au-dessus des toits."
+     "s": "Il tapota l'épaule du garçon. Il entra dans le cabinet. Théo resta un moment sur le trottoir, à regarder le ciel, qui rougissait au-dessus des toits."
     },
     {
      "t": "p",
      "s": "Il ne dit rien à personne. Il porta ce jour en lui, comme on porte un fruit."
     }
    ],
-   "words": 1015,
+   "words": 1013,
    "tome": 3
   },
   {
@@ -30699,15 +30710,11 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il avait connu, cet automne-là, une hydrologue, une femme sèche, qui écrivait à l'encre bleue. Elle était partie à Lyon, à la fin de l'année. Elle avait écrit, une fois, en 2027 ; il avait répondu ; ils ne s'étaient jamais revus. Il en gardait une sorte de pudeur, comme d'un tort. Il avait appris sa mort, en décembre 2045, par un avis dans le journal. Il avait pleuré, seul, dans son cabinet. Il ne savait pas pourquoi cela lui avait fait si mal."
+     "s": "Il avait connu, cet automne-là, une hydrologue, une femme sèche, qui écrivait à l'encre bleue. Elle était partie, un matin de la fin octobre, sans un mot. Il avait appelé quarante et une fois. Il ne l'avait jamais revue. Il en gardait une sorte de pudeur, comme d'un tort."
     },
     {
      "t": "p",
-     "s": "Trois jours plus tard, une jeune fille s'était présentée à sa porte."
-    },
-    {
-     "t": "p",
-     "s": "Elle tenait à la main une lettre, une vieille enveloppe jaunie, jamais postée. Elle avait un front trop grand, des sourcils droits, un grain de beauté au coin de l'œil. Elle avait dit : « Je suis la fille de Sophia Varenne. Elle m'a dit de vous donner ceci. » Il avait ouvert l'enveloppe. Il avait lu quelques lignes, d'une encre bleue, très fines. Il avait levé les yeux."
+     "s": "Il avait appris sa mort dix-neuf ans plus tard, un soir de neige, de la bouche d'une jeune fille qui se tenait sur le seuil de son cabinet, une enveloppe à la main. Elle avait un front trop grand, des sourcils droits, un grain de beauté au coin de l'œil. Il avait lu trois lignes d'encre bleue. Il avait levé les yeux."
     },
     {
      "t": "p",
@@ -30877,7 +30884,7 @@ window.BOOK = {
      "s": "Il sut seulement qu'il le ferait de nouveau."
     }
    ],
-   "words": 941,
+   "words": 887,
    "tome": 3
   },
   {
@@ -31426,8 +31433,8 @@ window.BOOK = {
   },
   {
    "id": "t3-20b-le-premier-baiser",
-   "n": 28,
-   "label": "Chapitre 28",
+   "n": 0,
+   "label": "Chapitre 0",
    "title": "Le premier baiser",
    "blocks": [
     {
@@ -31436,39 +31443,86 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Ils s'embrassèrent le 4 février 2047, sur le chemin de halage, à dix-sept heures, sous une neige fine, sans l'avoir décidé."
+     "s": "Trois semaines après ses dix-huit ans, il s'arrêta au milieu du chemin de halage, et il ne sut plus rien dire."
     },
     {
      "t": "p",
-     "s": "Cela faisait trois semaines que Théo avait dix-huit ans. Trois semaines qu'ils se voyaient chaque soir. Elle avait pris l'habitude de le retrouver après son service, au bout du chemin de halage, entre un saule et un banc de bois. Ils marchaient. Ils parlaient. Ils ne s'étaient pas touchés. Ils se tenaient, l'un et l'autre, avec une application de funambules, à cette distance précise, de trente centimètres, qui est celle de tous les commencements."
+     "s": "Il avait tout préparé. Il préparait toujours tout. Il avait relu, la veille, dans le carnet de toile, les quatre lignes qu'il s'était lui-même laissées, des années plus tôt, d'une écriture fine : *Février. Le chemin. Elle fera le premier pas. Ne le fais pas à sa place.* Il avait trouvé la consigne humiliante. Il l'avait trouvée juste. Il avait dormi deux heures."
     },
     {
      "t": "p",
-     "s": "Ce soir-là, il neigeait. Il neigeait depuis l'aube, à petits flocons serrés, qui fondaient sur les épaules et le dos. Iris avait oublié son bonnet. Elle l'avait dit, en riant : « Tu es fou de rester là. » Il avait répondu : « Tu l'es aussi. » Ils s'étaient assis sur le muret, côte à côte, sans rien dire, à regarder la neige tomber sur le lac."
+     "s": "Il neigeait un peu. Ils sortaient du cabinet, comme chaque soir, à six heures, quand la nuit tombait déjà. Il l'avait attendue sur le perron, la tête nue, les mains dans les poches de son manteau. Ils avaient marché sans parler jusqu'au bout du ponton, puis repris le chemin de halage, le long du lac glacé. Les étoiles étaient immenses."
     },
     {
      "t": "p",
-     "s": "Elle dit, au bout d'un moment :"
+     "s": "Il s'arrêta."
     },
     {
      "t": "p",
-     "s": "— Tu sais que je pense à toi tout le temps."
+     "s": "— Je voudrais te dire quelque chose."
     },
     {
      "t": "p",
-     "s": "— Oui."
+     "s": "— Dis."
     },
     {
      "t": "p",
-     "s": "— Tu ne dis rien."
+     "s": "— Je ne sais pas comment."
     },
     {
      "t": "p",
-     "s": "— Je ne sais pas quoi dire."
+     "s": "— Dis-le comme ça vient."
     },
     {
      "t": "p",
-     "s": "— Tu devrais."
+     "s": "Il ne dit rien."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "p",
+     "s": "Il ne dit rien parce que, pour la première fois depuis quarante-quatre ans, il n'y avait plus de phrase dans sa tête."
+    },
+    {
+     "t": "p",
+     "s": "Il en avait eu des milliers. Il les avait apprises, recopiées, raturées. Il savait dire *je t'aime* dans le cahier d'un autre, dans une marge, dans une lettre jamais envoyée. Il savait le dire à une enfant de huit ans qui ne le reconnaîtrait pas, à un vieillard qui comptait derrière un mur. Il ne savait pas le dire, debout, dans la neige, à une femme de dix-neuf ans qui le regardait avec ce front trop grand, ces sourcils droits, ce grain de beauté qu'il avait appris par cœur dans les carnets de son père, et qui existait, ce soir, à soixante centimètres de lui."
+    },
+    {
+     "t": "p",
+     "s": "Il pensa : *elle va me trouver idiot.*"
+    },
+    {
+     "t": "p",
+     "s": "Il pensa : *elle a raison.*"
+    },
+    {
+     "t": "p",
+     "s": "Il respirait vite. Il avait les lèvres entrouvertes. Il la regardait, et il ne pouvait plus faire que cela."
+    },
+    {
+     "t": "p",
+     "s": "Elle fit le premier pas."
+    },
+    {
+     "t": "p",
+     "s": "Ce fut un baiser très court, très maladroit, qui sentait la neige et le tabac froid de son manteau à lui, qu'il ne fumait pas. Elle y mit plus de force qu'elle ne le voulait. Il ne répondit pas d'abord. Il se figea, comme un homme qui ne sait plus dans quel siècle il se trouve. Puis il leva les mains, très lentement, et il lui prit le visage, avec une précaution qu'il n'avait jamais eue pour rien, comme on prend un vase fêlé, et il l'embrassa à son tour."
+    },
+    {
+     "t": "p",
+     "s": "Il pensa, pendant ce temps-là, à une seule chose, et c'était presque une prière : *elle l'a choisi.*"
+    },
+    {
+     "t": "p",
+     "s": "C'était la seule chose qui comptait. Que ce soit elle. Qu'elle ne l'ait lu nulle part. Qu'il n'y ait, dans ce geste, ni registre, ni carnet, ni boucle : seulement une jeune femme qui en avait assez d'attendre un garçon trop poli."
+    },
+    {
+     "t": "p",
+     "s": "Quand ils se séparèrent, il avait les yeux fermés."
+    },
+    {
+     "t": "p",
+     "s": "— Je ne pensais pas que ce serait si… réel, dit-il."
     },
     {
      "t": "p",
@@ -31476,158 +31530,34 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Ce que tu penses."
+     "s": "— Rien."
     },
     {
      "t": "p",
-     "s": "Il la regarda. Elle avait les cheveux blancs de flocons, le visage mouillé, les yeux brillants. Elle ressemblait à une enfant qui a couru. Elle ressemblait aussi, à cet instant, à une femme qu'il avait vue, dans une pièce rouge, un matin de novembre, qui comptait jusqu'à soixante."
+     "s": "Il ouvrit les yeux. Elle le regardait. Il eut l'impression qu'elle voyait, par-dessus le visage de Théo, quelqu'un de beaucoup plus vieux, et qu'elle ne s'en effrayait pas."
     },
     {
      "t": "p",
-     "s": "— Je pense que j'ai peur, dit-il."
+     "s": "— Je t'aime, dit-il."
     },
     {
      "t": "p",
-     "s": "— De quoi ?"
+     "s": "— Moi aussi, dit-elle, sans réfléchir."
     },
     {
      "t": "p",
-     "s": "— De te faire du mal."
-    },
-    {
-     "t": "p",
-     "s": "— Tu ne m'en feras pas."
-    },
-    {
-     "t": "p",
-     "s": "— Si."
-    },
-    {
-     "t": "p",
-     "s": "— Pourquoi ?"
-    },
-    {
-     "t": "p",
-     "s": "— Parce que je sais des choses, dit-il. Que je ne peux pas te dire."
-    },
-    {
-     "t": "p",
-     "s": "— Alors dis-moi une seule chose."
-    },
-    {
-     "t": "p",
-     "s": "— Laquelle ?"
-    },
-    {
-     "t": "p",
-     "s": "— Que tu m'aimes."
-    },
-    {
-     "t": "p",
-     "s": "Il ne répondit pas tout de suite. La neige tombait. Une barque, au loin, glissait sur l'eau grise. Il pensa à tout ce qu'il avait appris, cent fois, dans les carnets : que cette femme, un jour, le haïrait peut-être ; que leur fils, un jour, se noierait ; qu'elle partirait, seule, dans un autre siècle, pour mourir dans une autre vie. Il pensa à une phrase, dans un vieux registre rouge : *Il y a toujours quelqu'un qui reste.*"
-    },
-    {
-     "t": "p",
-     "s": "Il dit :"
-    },
-    {
-     "t": "p",
-     "s": "— Je t'aime."
-    },
-    {
-     "t": "p",
-     "s": "Il le dit sans élever la voix. Il le dit comme on dit un nom. Elle ferma les yeux."
-    },
-    {
-     "t": "p",
-     "s": "— Redis-le."
-    },
-    {
-     "t": "p",
-     "s": "— Je t'aime."
-    },
-    {
-     "t": "p",
-     "s": "— Encore."
-    },
-    {
-     "t": "p",
-     "s": "— Je t'aime. Je t'ai aimée avant de te connaître. Je t'ai aimée dans un livre. Je t'ai aimée par cœur."
-    },
-    {
-     "t": "p",
-     "s": "Elle rouvrit les yeux. Elle sourit. Elle tendit la main, lentement, très lentement, ainsi qu'on s'approche d'une bête. Elle la posa sur sa joue froide. Elle sentit sa chaleur, sous la neige. Elle sentit la barbe naissante, très douce. Elle dit :"
-    },
-    {
-     "t": "p",
-     "s": "— Tu trembles."
-    },
-    {
-     "t": "p",
-     "s": "— Oui."
-    },
-    {
-     "t": "p",
-     "s": "— C'est la première fois ?"
-    },
-    {
-     "t": "p",
-     "s": "— Non, dit-il. Mais c'est la première fois que c'est vrai."
+     "s": "Il sourit, de côté, en baissant les yeux. Il ne se contrôlait plus du tout."
     },
     {
      "t": "hr"
     },
     {
      "t": "p",
-     "s": "Elle l'embrassa."
+     "s": "Ils restèrent sur le chemin jusqu'à ce que la neige cesse."
     },
     {
      "t": "p",
-     "s": "Elle fit le premier pas, comme elle le dirait toujours ; il n'avait pas osé. Ce fut un baiser très simple, très sérieux, un peu maladroit, qui sentait la neige et le thé. Il dura peu. Ils se séparèrent à peine, front contre front, les yeux fermés, le souffle court."
-    },
-    {
-     "t": "p",
-     "s": "— Voilà, dit-elle."
-    },
-    {
-     "t": "p",
-     "s": "— Voilà."
-    },
-    {
-     "t": "p",
-     "s": "— Ça n'a pas fait mal."
-    },
-    {
-     "t": "p",
-     "s": "— Non."
-    },
-    {
-     "t": "p",
-     "s": "— Tu es sûr de ne pas avoir dix-sept ans ?"
-    },
-    {
-     "t": "p",
-     "s": "— J'en ai dix-huit."
-    },
-    {
-     "t": "p",
-     "s": "— Ça se voit, dit-elle, en riant."
-    },
-    {
-     "t": "p",
-     "s": "Ils rirent ensemble, tout bas, le front contre le front. La neige fondait dans leur cou. Il l'attira contre lui, dans ses bras. Elle posa la tête dans son épaule. Il la tint serrée, longtemps, sans bouger, en regardant le lac. Il sentit son cœur battre, très vite, contre sa poitrine. Il sentit, à l'intérieur, une chose qui se déliait."
-    },
-    {
-     "t": "p",
-     "s": "*C'est donc cela,* pensa-t-il."
-    },
-    {
-     "t": "p",
-     "s": "Il ne finit pas la phrase. Il n'en avait pas besoin."
-    },
-    {
-     "t": "p",
-     "s": "Ils restèrent ainsi jusqu'à la nuit. Il y eut un moment où la neige cessa. Les nuages s'ouvrirent, très haut, sur un morceau de ciel clair, d'un bleu presque vert. Iris leva la tête. Elle dit :"
+     "s": "Il y eut un moment où les nuages s'ouvrirent, très haut, sur un morceau de ciel clair, d'un bleu presque vert. Iris leva la tête. Elle dit :"
     },
     {
      "t": "p",
@@ -31635,7 +31565,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il regarda. Il y avait, dans la déchirure, une étoile, la première du soir. Elle brillait, solitaire, très pure."
+     "s": "Il y avait, dans la déchirure, une étoile, la première du soir. Elle brillait, solitaire."
     },
     {
      "t": "p",
@@ -31667,22 +31597,26 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Elle éclata de rire. Elle riait de tout son corps, à gorge déployée, avec cette joie sans retenue qu'elle n'avait jamais montrée à personne. Il se dit que c'était le plus beau son du monde. Il se dit qu'il le garderait, pour toujours, dans la poche de sa mémoire, avec les cailloux."
+     "s": "Elle éclata de rire. Elle riait de tout son corps, à gorge déployée, avec cette joie sans retenue qu'elle ne montrait à personne. Il se dit que c'était le plus beau son du monde. Il se dit qu'il le garderait, dans la poche de sa mémoire, avec les cailloux."
     },
     {
      "t": "p",
-     "s": "Il ne lui expliqua pas pourquoi *Biscotte.* Elle ne le sut jamais."
+     "s": "Il ne lui expliqua pas pourquoi *Biscotte*. Elle ne le sut jamais."
     },
     {
      "t": "p",
-     "s": "C'était le nom d'un chien. Celui d'une étoile que sa mère avait nommée, une nuit d'octobre, dans un autre corps, sous un ciel d'Orion. Il avait lu cela, quelque part, dans un carnet de toile. Il avait pensé, à l'époque : *c'est idiot.*"
+     "s": "C'était le nom d'une étoile que d'autres avaient nommée, une nuit de novembre, sur un barrage, sous un ciel d'Orion, dans un tour qui n'était pas celui-là. Il l'avait lu, enfant, dans un carnet. Il avait pensé, à l'époque : *c'est idiot.*"
     },
     {
      "t": "p",
      "s": "Il comprenait, maintenant, ce que c'est qu'un héritage : un nom donné par hasard à une chose qui brille."
+    },
+    {
+     "t": "p",
+     "s": "Il ne lui dit pas qu'il avait attendu ce baiser pendant cent ans."
     }
    ],
-   "words": 885,
+   "words": 786,
    "tome": 3
   },
   {
@@ -33378,19 +33312,19 @@ window.BOOK = {
    "blocks": [
     {
      "t": "p",
-     "s": "*Vallorce, mars 2064.*"
+     "s": "*Vallorce, février 2064.*"
     },
     {
      "t": "p",
-     "s": "Il prit la pilule un mardi, à dix-huit heures douze, dans sa chambre, avec un verre d'eau."
+     "s": "Il prit sa première pastille un mardi de février, à dix-huit heures douze, à l'infirmerie de l'école, avant l'étude."
     },
     {
      "t": "p",
-     "s": "Il ne l'avait dit à personne. Il avait quatorze ans, en mars 2064, et il savait depuis longtemps que ce qu'on voulait lui cacher était précisément ce qu'il devait connaître. Il avait trouvé la boîte blanche dans le tiroir de sa mère, sous des écharpes. Un petit logo en forme de feuille. Deux lignes de mentions légales. Une date de péremption. Il l'avait gardée une semaine dans sa poche, à la façon dont on garde un caillou."
+     "s": "Il ne le dirait à personne. Il avait quatorze ans, en février 2064, et il savait depuis longtemps que ce qu'on voulait lui cacher était précisément ce qu'il devait connaître. La directrice avait fait une annonce, le lundi, dans la cour : un complément, pour le sommeil, offert par un laboratoire, distribué le soir à l'infirmerie, à qui voulait. Tout le monde en prenait. L'infirmière tendait une petite boîte blanche, avec un logo en forme de feuille, et une pastille ronde, qu'on mettait sous la langue. Il avait reconnu la boîte. Il l'avait déjà vue une fois, posée sur une table de salon, entre deux tasses de thé."
     },
     {
      "t": "p",
-     "s": "Il avait vu Lise, six mois plus tôt. Elle était venue, un après-midi de septembre, dans la maison d'en haut, avec un chemisier sans pli et un sourire trop doux. Elle avait parlé avec sa mère, dans le salon, pendant une heure. Il avait fait semblant de lire. Il avait tout entendu. Il avait entendu : « Léthé 2 », « traitement doux », « apaisement », « mémoire ». Il avait entendu sa mère dire non, et son père, Théo, ne rien dire."
+     "s": "Il avait vu Lise, six mois plus tôt. Elle était venue, un après-midi de septembre, dans la petite maison de la rue des Fontaines, avec un chemisier sans pli et un sourire trop doux. Elle avait parlé avec sa mère, dans le salon, pendant une heure. Il avait fait semblant de lire. Il avait tout entendu. Il avait entendu : « Léthé 2 », « traitement doux », « apaisement », « mémoire ». Il avait entendu sa mère dire non, et son père, Théo, ne rien dire."
     },
     {
      "t": "p",
@@ -33421,7 +33355,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il avala le cachet. Il but une gorgée d'eau. Il s'assit sur le lit, les mains sur les genoux, et il attendit."
+     "s": "L'infirmière la lui tendit. Il la mit sous sa langue. Il s'assit sur le banc du couloir, les mains sur les genoux, et il attendit."
     },
     {
      "t": "p",
@@ -33441,7 +33375,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Il se leva. Il ouvrit la porte. Il appela :"
+     "s": "Il rentra à pied, sous la pluie, sans courir. Il ne monta pas dans sa chambre. Il traversa le jardin. Il appela, devant la porte de l'atelier :"
     },
     {
      "t": "p",
@@ -33449,7 +33383,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "Personne ne répondit. Il descendit l'escalier. Il traversa le salon. Il trouva Théo dans la cabane du jardin, assis à la table, devant un cahier ouvert. Il avait les épaules affaissées, le visage creusé. Il leva les yeux. Il le regarda entrer. Il ne dit rien."
+     "s": "Il poussa la porte. Il trouva Théo assis à la table, devant un cahier ouvert. Il avait les épaules affaissées, le visage creusé. Il leva les yeux. Il le regarda entrer. Il ne dit rien."
     },
     {
      "t": "p",
@@ -33501,7 +33435,7 @@ window.BOOK = {
     },
     {
      "t": "p",
-     "s": "— Parce que je l'ai prise aussi, dit Théo. Il y a longtemps. Dans un autre corps."
+     "s": "— Parce que je l'ai donnée, une fois, dit Théo. Il y a longtemps. À quelqu'un qui me faisait confiance."
     },
     {
      "t": "p",
@@ -33578,9 +33512,17 @@ window.BOOK = {
     {
      "t": "p",
      "s": "Il resta dans les bras de son père, jusqu'à ce que la nuit tombe."
+    },
+    {
+     "t": "p",
+     "s": "Il prit la pastille tous les soirs, pendant trois semaines, à l'infirmerie, avant l'étude. Il dormit comme il n'avait jamais dormi. Il ne dit rien à sa mère. Son père ne dit rien non plus."
+    },
+    {
+     "t": "p",
+     "s": "Un jeudi de mars, à six heures dix, elle le trouverait assis sur son lit, les yeux ouverts, en train de compter, et il lui dirait qu'il ne retrouvait plus le prénom de Bastien."
     }
    ],
-   "words": 948,
+   "words": 1067,
    "tome": 3
   },
   {

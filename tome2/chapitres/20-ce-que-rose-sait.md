@@ -110,7 +110,7 @@ Elle respira. Elle eut le sentiment étrange que l'autre n'avait pas bougé, qu'
 
 Iris se tut. Elle chercha comment. Elle dit, enfin : *Votre maison disparaît. Elle revient, en 1980, un matin d'automne. Vous êtes vieille. Vous avez les cheveux blancs. Vous regardez la troisième maison à gauche, et vous pleurez.*
 
-Rose ferma les yeux. Elle se fendit, très bas, dans sa poitrine, qui n'était pas de la peur.
+Rose ferma les yeux. Quelque chose se fendit, très bas, dans sa poitrine, qui n'était pas de la peur.
 
 — Je reste vivante, dit-elle.
 
@@ -122,7 +122,7 @@ Rose ferma les yeux. Elle se fendit, très bas, dans sa poitrine, qui n'était p
 
 — Cette fille, c'est vous.
 
-*Non. C'est ma mère. Moi, je suis la fille de sa fille.*
+*Oui. La fille de sa fille.*
 
 Rose resta silencieuse. Elle fit mentalement le compte. La voix venait de son sang, de son fils, d'un temps où l'on parlait sans mourir, et elle comprit aussi que cette femme n'était pas venue la dépouiller mais la prévenir.
 
@@ -168,7 +168,7 @@ Il y eut, tout au fond, à nouveau, ce rire bref, ce rire las. Puis un mot, un s
 
 ---
 
-Elles s'entendirent: par règlement.
+Elles s'entendirent comme s'entendent deux voisines de palier : par règlement.
 
 Cela commença le vendredi 17 octobre, au matin, quand Rose, après sa prière, s'assit à la table de la cuisine avec un morceau de charbon et une feuille d'emballage, et se mit à dresser un tableau. Elle le fit avec une application d'écolière, à la règle, en traçant des colonnes. Elle écrivit en haut : *JOUR. NUIT.* Elle écrivit en dessous des mots, un par un, comme on rédige un contrat.
 

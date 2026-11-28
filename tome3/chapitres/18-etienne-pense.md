@@ -22,11 +22,9 @@ Il en parlait peu. Les médecins sont mauvais patients. Il savait qu'il lui manq
 
 Étienne n'avait jamais osé lui demander de qui.
 
-Il avait connu, cet automne-là, une hydrologue, une femme sèche, qui écrivait à l'encre bleue. Elle était partie à Lyon, à la fin de l'année. Elle avait écrit, une fois, en 2027 ; il avait répondu ; ils ne s'étaient jamais revus. Il en gardait une sorte de pudeur, comme d'un tort. Il avait appris sa mort, en décembre 2045, par un avis dans le journal. Il avait pleuré, seul, dans son cabinet. Il ne savait pas pourquoi cela lui avait fait si mal.
+Il avait connu, cet automne-là, une hydrologue, une femme sèche, qui écrivait à l'encre bleue. Elle était partie, un matin de la fin octobre, sans un mot. Il avait appelé quarante et une fois. Il ne l'avait jamais revue. Il en gardait une sorte de pudeur, comme d'un tort.
 
-Trois jours plus tard, une jeune fille s'était présentée à sa porte.
-
-Elle tenait à la main une lettre, une vieille enveloppe jaunie, jamais postée. Elle avait un front trop grand, des sourcils droits, un grain de beauté au coin de l'œil. Elle avait dit : « Je suis la fille de Sophia Varenne. Elle m'a dit de vous donner ceci. » Il avait ouvert l'enveloppe. Il avait lu quelques lignes, d'une encre bleue, très fines. Il avait levé les yeux.
+Il avait appris sa mort dix-neuf ans plus tard, un soir de neige, de la bouche d'une jeune fille qui se tenait sur le seuil de son cabinet, une enveloppe à la main. Elle avait un front trop grand, des sourcils droits, un grain de beauté au coin de l'œil. Il avait lu trois lignes d'encre bleue. Il avait levé les yeux.
 
 Il avait vu son visage. Il avait compris qu'il ne la connaissait pas, et qu'il l'avait toujours connue.
 

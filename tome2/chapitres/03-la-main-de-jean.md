@@ -80,12 +80,12 @@ Elle ne savait pas pourquoi elle avait dit cela. Elle se leva, trouva la marmite
 
 — Elle est bonne quand même.
 
-Il finit l'assiette. Il racla le fond avec un morceau de pain. Il dit :
+Il finit l'assiette. Il racla le fond avec un morceau de pain.
 
 — Je suis là, dit-il. Même s'ils nous prennent la maison.
 
 Il lui prit la main.
 
-Elle ne put pas la lui retirer. C'était la main de Rose, et il la tenait: paume contre paume, le pouce sur le dos, sans rien demander de plus. Elle compta, parce qu'il fallait bien faire quelque chose. Un. Deux. Elle comptait les battements de son pouce contre sa peau. À vingt, il pencha la tête sur la table. À trente, il dormait.
+Elle ne put pas la lui retirer. C'était la main de Rose, et il la tenait : paume contre paume, le pouce sur le dos, sans rien demander de plus. Elle compta, parce qu'il fallait bien faire quelque chose. Un. Deux. Elle comptait les battements de son pouce contre sa peau. À vingt, il pencha la tête sur la table. À trente, il dormait.
 
 Elle resta immobile jusqu'à l'aube, les doigts d'un autre dans les siens, à regarder la bougie se consumer, en pensant à la femme qui allait se réveiller dans ce lit, dans cette maison, avec le goût de cette nuit dans la bouche. Elle pensa qu'elle devait quelque chose à cette femme. Elle ne savait pas quoi. Elle sut seulement, à la dernière seconde, avant que le sommeil la reprenne, qu'elle le paierait.

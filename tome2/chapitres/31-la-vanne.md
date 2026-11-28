@@ -48,7 +48,7 @@ Elle dit à voix basse, pour personne :
 
 Elle monta dans le camion.
 
-Jean, derrière elle, se pencha sur le seuil. Il ramassa la petite lampe, qui brillait encore. Il l'éteignit, la glissa dans sa poche, sans un mot, et referma la porte sans la fermer à clé. Il se rappela la nuit où il était rentré trois heures plus tôt que d'ordinaire. Il se rappela une voix qui ne ressemblait pas à celle de sa femme. Il se rappela qu'il avait eu peur, qu'il avait pris sa main, qu'il l'avait gardée.
+Jean, derrière elle, se pencha sur le seuil. Il ramassa la petite lampe, qui brillait encore. Il ne l'éteignit pas. Il la glissa dans sa poche, sans un mot, et referma la porte sans la fermer à clé. Plus tard, au Haut, il la poserait sur le paillasson, allumée, tournée vers le bas, comme on laisse une lumière dans l'entrée pour quelqu'un qui rentre tard. Il ne saurait pas pourquoi. Il ne le dirait jamais à Rose, qui la trouverait là et la garderait toute sa vie. Il se rappela la nuit où il était rentré trois heures plus tôt que d'ordinaire. Il se rappela une voix qui ne ressemblait pas à celle de sa femme. Il se rappela qu'il avait eu peur, qu'il avait pris sa main, qu'il l'avait gardée.
 
 ---
 

@@ -76,7 +76,7 @@
 
 ## Tome 2 : faits fixés à l'écriture (V3.27)
 - Iris part de **Lyon** (appartement de Sophia) le **2-4 janv. 2066**, sur le lit de sa mère, Étienne (85 ans) la veille. À 58 elle retrouve le nom « Sacha » ; à 59 elle s'arrête ; elle l'oublie à son arrivée (ch. 1).
-- 14 nov. 1958, 6 h : vanne fermée ; Iris dort au fond de Rose, qui ne l'entendra plus. La lampe de K. reste sur le seuil, Rose la retrouve sur une pierre du belvédère, la garde 41 ans (« elle marchait encore »).
+- 14 nov. 1958, 6 h : vanne fermée ; Iris dort au fond de Rose, qui ne l'entendra plus. La lampe de K. : Rose la laisse tomber sur le seuil (T2 `31`), Jean la ramasse sans rien dire et la pose, allumée, sur le paillasson de l'appartement du Haut ; Rose l'y trouve (T1 `32-interlude-rose`) et la garde jusqu'à sa mort (« la pile ne s'usa jamais »).
 - Rose † octobre 1999 à 67 ans ; épitaphe « Et la maison. » ; en nov. 2026 un visiteur inconnu écrit « Et lui. » à la craie, puis la gravure apparaît. **Fixé V3.61** (T3 `41a-et-lui`) : c'est **Kerr** (15 nov. 2026, craie donnée par Hugo) qui écrit « Et lui. » pour Walther ; **Anselme** (libéré) le grave au clou.
 - Hélène a rencontré Anselme vers 1985-86 (apparition devant la porte du Haut, « la mère d'Anselme »).
 - **Étienne** : grand-père de Sacha sans le savoir ; « Un donneur. Il ne s'en servait plus » ; « Si tu pars, je serai là ».

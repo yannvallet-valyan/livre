@@ -54,7 +54,7 @@ Le soir, elle avait compris qu'elle partirait.
 
 ---
 
-Elle laissa sur la table le carnet gris, les deux stylos, sa carte de lecteur de la bibliothèque municipale. Elle laissa la clé sous le paillasson,, puis la reprit, la remit dans sa poche, et la jeta dans le caniveau au bout de la rue des Fontaines.
+Elle laissa sur la table le carnet gris, les deux stylos, sa carte de lecteur de la bibliothèque municipale. Elle laissa la clé sous le paillasson, puis la reprit, la remit dans sa poche, et la jeta dans le caniveau au bout de la rue des Fontaines.
 
 La voiture démarra du premier coup. Elle prit la route du tunnel sans regarder le barrage. Dans le rétroviseur, la petite cabine était allumée, comme chaque matin, et dans la fenêtre une silhouette immobile, droite, qui la regardait partir. Elle ne leva pas la main.
 
